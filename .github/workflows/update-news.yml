@@ -2,9 +2,8 @@ name: Update News
 
 on:
   workflow_dispatch:
-
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: '*/15 * * * *'
 
 jobs:
   update-news:
@@ -14,27 +13,26 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: '20'
 
-      - name: Install Dependencies
-        run: npm install
+      - run: npm install
 
-      - name: Generate News
-        run: npm start
+      - run: npm start
 
-      - name: Commit JSON Files
+      - name: Commit changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
           git add output/*.json
 
-          git diff --cached --quiet || git commit -m "Auto update news"
-
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Auto update news"
+            git push
+          fi

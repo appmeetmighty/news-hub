@@ -1,38 +1,12 @@
-name: Update News
+name: Test Workflow
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/15 * * * *'
 
 jobs:
-  update-news:
+  test:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - run: npm install
-
-      - run: npm start
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-
-          git add output/*.json
-
-          if git diff --cached --quiet; then
-            echo "No changes"
-          else
-            git commit -m "Auto update news"
-            git push
-          fi
+      - name: Hello
+        run: echo "Workflow is working!"

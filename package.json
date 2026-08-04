@@ -1,0 +1,16 @@
+{
+  "name": "news-hub",
+  "version": "1.0.0",
+  "description": "Free Crypto & Stock News Aggregator",
+  "main": "scripts/fetchNews.js",
+  "scripts": {
+    "start": "node scripts/fetchNews.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0",
+    "rss-parser": "^3.13.0",
+    "fs-extra": "^11.2.0",
+    "moment": "^2.30.1"
+  }
+}

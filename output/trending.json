@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-05T19:01:07.989Z",
+  "updated_at": "2026-08-05T19:15:42.931Z",
   "articles": {
-    "generated_at": "2026-08-05T19:01:07.989Z",
+    "generated_at": "2026-08-05T19:15:42.931Z",
     "topics": [
       {
         "id": "btc",
@@ -306,8 +306,36 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 19,
+        "count": 20,
         "articles": [
+          {
+            "id": "9b64b328e930b1687f746a045ddd2001",
+            "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "Wed, 05 Aug 2026 19:11:23 +0000",
+            "path": "articles/9b64b328e930b1687f746a045ddd2001.json"
+          },
+          {
+            "id": "d62b8853804ece87ef42d33d3c3bf7f5",
+            "title": "Alphabet slumps on more AI brain drain. We're not too worried",
+            "image": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1770141907&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "Wed, 05 Aug 2026 19:11:19 GMT",
+            "path": "articles/d62b8853804ece87ef42d33d3c3bf7f5.json"
+          },
           {
             "id": "532edf1cb24a5cd4817a74dac6061221",
             "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
@@ -419,34 +447,6 @@
             "category": "crypto",
             "published_at": "Wed, 05 Aug 2026 09:00:20 +0000",
             "path": "articles/c8359314c7a224c7c870385aac634926.json"
-          },
-          {
-            "id": "bf567089b57e7019d115befdc1c5b788",
-            "title": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-card-online-payment-cashless-payments-cloudflare-ai.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "Wed, 05 Aug 2026 07:20:03 +0000",
-            "path": "articles/bf567089b57e7019d115befdc1c5b788.json"
-          },
-          {
-            "id": "5155a7f239612f96ce7e1cf787d6c78a",
-            "title": "AI credit bubble could fuel Bitcoin ‘crack-up boom’ past $1M: Hayes",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/arthur-hayes3-1.png",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "Wed, 05 Aug 2026 06:27:49 +0000",
-            "path": "articles/5155a7f239612f96ce7e1cf787d6c78a.json"
           }
         ]
       },
@@ -1241,6 +1241,43 @@
         ]
       },
       {
+        "id": "googl",
+        "name": "Google",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/google.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "d62b8853804ece87ef42d33d3c3bf7f5",
+            "title": "Alphabet slumps on more AI brain drain. We're not too worried",
+            "image": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1770141907&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "Wed, 05 Aug 2026 19:11:19 GMT",
+            "path": "articles/d62b8853804ece87ef42d33d3c3bf7f5.json"
+          },
+          {
+            "id": "532edf1cb24a5cd4817a74dac6061221",
+            "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+            "image": "https://image.cnbcfm.com/api/v1/image/108255055-1769013531938-DSC00073.JPG?v=1769013764&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "Wed, 05 Aug 2026 18:51:53 GMT",
+            "path": "articles/532edf1cb24a5cd4817a74dac6061221.json"
+          }
+        ]
+      },
+      {
         "id": "web3",
         "name": "Web3",
         "type": "topic",
@@ -1274,43 +1311,6 @@
             "category": "crypto",
             "published_at": "Wed, 05 Aug 2026 13:20:01 +0000",
             "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-          }
-        ]
-      },
-      {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "63af3819ddb2755a7ecace076692fcd2",
-            "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
-            "image": "https://image.cnbcfm.com/api/v1/image/108208259-1759767774187-gettyimages-2239199521-AMD_OPENAI.jpeg?v=1785945319&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "Wed, 05 Aug 2026 16:00:55 GMT",
-            "path": "articles/63af3819ddb2755a7ecace076692fcd2.json"
-          },
-          {
-            "id": "51c85443c09bedd38e79b1f1d8ae0c1c",
-            "title": "SpaceX gives Nvidia a much-needed boost. Plus, Cramer on an 'undervalued' stock ",
-            "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "Wed, 05 Aug 2026 15:50:51 GMT",
-            "path": "articles/51c85443c09bedd38e79b1f1d8ae0c1c.json"
           }
         ]
       },
@@ -1389,29 +1389,6 @@
         ]
       },
       {
-        "id": "googl",
-        "name": "Google",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/google.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "532edf1cb24a5cd4817a74dac6061221",
-            "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
-            "image": "https://image.cnbcfm.com/api/v1/image/108255055-1769013531938-DSC00073.JPG?v=1769013764&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "Wed, 05 Aug 2026 18:51:53 GMT",
-            "path": "articles/532edf1cb24a5cd4817a74dac6061221.json"
-          }
-        ]
-      },
-      {
         "id": "nft",
         "name": "NFT",
         "type": "topic",
@@ -1431,6 +1408,29 @@
             "category": "crypto",
             "published_at": "Wed, 05 Aug 2026 18:43:47 +0000",
             "path": "articles/049897b5f40f42d9992611edea2b3155.json"
+          }
+        ]
+      },
+      {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "63af3819ddb2755a7ecace076692fcd2",
+            "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
+            "image": "https://image.cnbcfm.com/api/v1/image/108208259-1759767774187-gettyimages-2239199521-AMD_OPENAI.jpeg?v=1785945319&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "Wed, 05 Aug 2026 16:00:55 GMT",
+            "path": "articles/63af3819ddb2755a7ecace076692fcd2.json"
           }
         ]
       },
@@ -1477,29 +1477,6 @@
             "category": "crypto",
             "published_at": "Wed, 05 Aug 2026 13:20:01 +0000",
             "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-          }
-        ]
-      },
-      {
-        "id": "meta",
-        "name": "Meta",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/meta.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "2ca3ce62192c589ccf65d1ed56f25a13",
-            "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "Sun, 02 Aug 2026 15:01:03 +0000",
-            "path": "articles/2ca3ce62192c589ccf65d1ed56f25a13.json"
           }
         ]
       }

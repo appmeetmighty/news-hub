@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T11:15:38.725Z",
+  "updated_at": "2026-08-05T11:30:51.724Z",
   "total": 21,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 40
+      "count": 39
     },
     {
       "id": "crypto",
@@ -26,6 +26,15 @@
       "count": 20
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 8
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -37,15 +46,6 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 7
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 7
     },
     {
@@ -81,15 +81,6 @@
       "count": 4
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 4
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -115,13 +106,13 @@
       "count": 3
     },
     {
-      "id": "amzn",
-      "symbol": "AMZN",
-      "name": "Amazon",
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
       "type": "company",
-      "path": "tickers/amzn.json",
-      "icon": "https://logo.clearbit.com/amazon.com",
-      "count": 2
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 3
     },
     {
       "id": "gold",
@@ -144,6 +135,15 @@
       "name": "Web3",
       "type": "topic",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
       "count": 1
     },
     {

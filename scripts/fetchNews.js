@@ -6,6 +6,18 @@ const sources = require("./rssSources");
 const removeDuplicates = require("./duplicate");
 const extractImage = require("./imageExtractor");
 const writeJson = require("./writer");
+const extractEntities = require("./entityExtractor");
+const generateTickerFiles = require("./generateTickerFiles");
+const generateEntities = require("./generateEntities");
+const getReadingTime = require("./readingTime");
+const getBreakingScore = require("./breakingNews");
+const generateRelated = require("./generateRelated");
+const sourceMeta = require("./sourceMeta");
+const writeArticles = require("./articleWriter");
+const generateSourceFiles = require("./generateSourceFiles");
+const generateTrending = require("./generateTrending");
+const generateSearch = require("./generateSearch");
+const generateHome = require("./generateHome");
 
 const parser = new Parser({
   timeout: 15000,
@@ -30,31 +42,54 @@ async function fetchFeed(source) {
         }
 
         return {
-          id: crypto
-            .createHash("md5")
-            .update(item.link || item.guid || item.title || Math.random().toString())
-            .digest("hex"),
+  id: crypto
+    .createHash("md5")
+    .update(item.link || item.guid || item.title || Math.random().toString())
+    .digest("hex"),
 
-          title: item.title || "",
+  title: item.title || "",
 
-          description: (item.contentSnippet || item.content || "")
-            .replace(/<[^>]*>/g, "")
-            .replace(/\s+/g, " ")
-            .trim(),
+  description: (item.contentSnippet || item.content || "")
+    .replace(/<[^>]*>/g, "")
+    .replace(/\s+/g, " ")
+    .trim(),
 
-          url: item.link || "",
+  reading_time_minutes: getReadingTime(
+  `${item.title || ""} ${item.contentSnippet || item.content || ""}`
+),
 
-          image,
+  breaking_score: getBreakingScore({
+  title: item.title || "",
+  description: item.contentSnippet || item.content || "",
+  published_at:
+    item.pubDate ||
+    item.isoDate ||
+    new Date().toISOString(),
+}),
 
-          source: source.name,
+  url: item.link || "",
 
-          category: source.category,
+  image,
 
-          published_at:
-            item.pubDate ||
-            item.isoDate ||
-            new Date().toISOString(),
-        };
+  source: sourceMeta[source.name] || {
+  id: source.name.toLowerCase().replace(/\s+/g, "-"),
+  name: source.name,
+  website: "",
+  icon: ""
+},
+
+  category: source.category,
+
+  ...extractEntities(
+    item.title || "",
+    item.contentSnippet || item.content || ""
+  ),
+
+  published_at:
+    item.pubDate ||
+    item.isoDate ||
+    new Date().toISOString(),
+};
       })
     );
 
@@ -90,22 +125,76 @@ async function main() {
     (a, b) => new Date(b.published_at) - new Date(a.published_at)
   );
 
-  const cryptoArticles = articles.filter(
-    (item) => item.category === "crypto"
-  );
+  const relatedMap = generateRelated(articles);
+  const withImages = articles.filter(
+  (article) => article.image && article.image.trim() !== ""
+).length;
 
-  const stockArticles = articles.filter(
-    (item) => item.category === "stocks"
-  );
+console.log("\n===========================");
+console.log(`🖼 Images Found : ${withImages}/${articles.length}`);
+console.log(
+  `📊 Coverage : ${((withImages / articles.length) * 100).toFixed(1)}%`
+);
+console.log("===========================\n");
 
-  const topArticles = articles.slice(0, 20);
+  // const cryptoArticles = articles.filter(
+  //   (item) => item.category === "crypto"
+  // );
 
-  await fs.ensureDir("./output");
+  // const stockArticles = articles.filter(
+  //   (item) => item.category === "stocks"
+  // );
 
-await writeJson("./output/latest.json", articles);
-await writeJson("./output/crypto.json", cryptoArticles);
-await writeJson("./output/stocks.json", stockArticles);
-await writeJson("./output/top.json", topArticles);
+  // const topArticles = articles.slice(0, 20);
+
+  articles = articles.map(article => ({
+    ...article,
+    related: relatedMap[article.id] || []
+}));
+
+await writeArticles(articles);
+const summaryArticles = articles.map(article => ({
+  id: article.id,
+  title: article.title,
+  description: article.description,
+  image: article.image,
+  source: article.source,
+  category: article.category,
+  published_at: article.published_at,
+  path: `articles/${article.id}.json`
+}));
+
+const cryptoSummary = summaryArticles.filter(
+  article => article.category === "crypto"
+);
+
+const stockSummary = summaryArticles.filter(
+  article => article.category === "stocks"
+);
+
+const topSummary = summaryArticles.slice(0, 20);
+
+await fs.ensureDir("./output");
+
+await writeJson("./output/latest.json", summaryArticles);
+await writeJson("./output/crypto.json", cryptoSummary);
+await writeJson("./output/stocks.json", stockSummary);
+await writeJson("./output/top.json", topSummary);
+
+await generateTickerFiles(articles);
+await generateEntities(articles);
+await generateSourceFiles(summaryArticles);
+const trending = await generateTrending(articles);
+
+await generateSearch(articles);
+
+await generateHome({
+  latest: summaryArticles,
+  top: topSummary,
+  crypto: cryptoSummary,
+  stocks: stockSummary,
+  trending
+});
 
   console.log("\n===========================");
   console.log(`✅ Total Articles : ${articles.length}`);
@@ -113,6 +202,7 @@ await writeJson("./output/top.json", topArticles);
   console.log("✅ crypto.json");
   console.log("✅ stocks.json");
   console.log("✅ top.json");
+  console.log("✅ search.json");
   console.log("===========================");
 }
 

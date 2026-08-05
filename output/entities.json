@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T19:15:42.928Z",
+  "updated_at": "2026-08-05T19:31:00.523Z",
   "total": 21,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 39
+      "count": 38
     },
     {
       "id": "crypto",
@@ -23,7 +23,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 18
     },
     {
       "id": "stablecoin",
@@ -49,19 +49,19 @@
       "count": 6
     },
     {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "blk",
       "symbol": "BLK",
       "name": "BlackRock",
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 5
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
       "count": 5
     },
     {
@@ -99,26 +99,19 @@
       "count": 3
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
-    },
-    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
       "icon": "",
+      "count": 2
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 2
     },
     {
@@ -140,19 +133,33 @@
       "count": 2
     },
     {
-      "id": "nft",
-      "name": "NFT",
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
       "type": "topic",
       "icon": "",
       "count": 1
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
       "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 1
+    },
+    {
+      "id": "nft",
+      "name": "NFT",
+      "type": "topic",
+      "icon": "",
       "count": 1
     },
     {
@@ -161,13 +168,6 @@
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
       "icon": "",
       "count": 1
     }

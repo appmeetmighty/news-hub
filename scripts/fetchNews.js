@@ -23,6 +23,15 @@ const parser = new Parser({
   timeout: 15000,
 });
 
+function normalizeDate(item) {
+  const value =
+    item.isoDate ||
+    item.pubDate ||
+    new Date().toISOString();
+
+  return new Date(value).toISOString();
+}
+
 async function fetchFeed(source) {
   try {
     console.log(`Fetching ${source.name}...`);
@@ -61,10 +70,7 @@ async function fetchFeed(source) {
   breaking_score: getBreakingScore({
   title: item.title || "",
   description: item.contentSnippet || item.content || "",
-  published_at:
-    item.pubDate ||
-    item.isoDate ||
-    new Date().toISOString(),
+  published_at: normalizeDate(item),
 }),
 
   url: item.link || "",
@@ -85,10 +91,7 @@ async function fetchFeed(source) {
     item.contentSnippet || item.content || ""
   ),
 
-  published_at:
-    item.pubDate ||
-    item.isoDate ||
-    new Date().toISOString(),
+  published_at: normalizeDate(item),
 };
       })
     );

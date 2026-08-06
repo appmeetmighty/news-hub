@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-06T22:45:49.229Z",
-  "id": "googl",
-  "symbol": "GOOGL",
-  "name": "Google",
-  "type": "company",
+  "updated_at": "2026-08-06T22:45:49.223Z",
+  "id": "doge",
+  "symbol": "DOGE",
+  "name": "Dogecoin",
+  "type": "crypto",
   "total": 1,
   "articles": [
     {
-      "id": "b86070c5f38a86f446b7c5cb3ead6b9f",
-      "title": "Google is expanding its AI empire — and losing the people who built it",
-      "description": "Google’s cloud boom is testing the company's commitment to frontier AI as commercial returns take priority.",
+      "id": "35899bc5379b70a37e1f459bb15e5ca7",
+      "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
+      "description": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
       "reading_time_minutes": 1,
-      "breaking_score": 15,
-      "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108346120-1786035415725-260806_cg_32_demis_hassabis_1.jpg?v=1786035663&w=1920&h=1080",
+      "breaking_score": 65,
+      "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108100933-17393067622025-02-11t204145z_1729317157_rc2jscaafi5c_rtrmadp_0_usa-trump.jpeg?v=1786049729&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,20 +23,15 @@
       "category": "stocks",
       "entities": [
         {
-          "id": "googl",
-          "symbol": "GOOGL",
-          "name": "Google",
-          "type": "company",
-          "path": "tickers/googl.json",
-          "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic"
+          "id": "doge",
+          "symbol": "DOGE",
+          "name": "Dogecoin",
+          "type": "crypto",
+          "path": "tickers/doge.json",
+          "icon": "https://assets.coincap.io/assets/icons/doge@2x.png"
         }
       ],
-      "published_at": "2026-08-06T17:11:01.000Z",
+      "published_at": "2026-08-06T22:19:52.000Z",
       "related": [
         {
           "id": "5225b26692171193a167337b2d57f175",
@@ -71,22 +66,6 @@
           "path": "articles/9262111781fcbc69af8c2adfb40c52c9.json"
         },
         {
-          "id": "35899bc5379b70a37e1f459bb15e5ca7",
-          "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
-          "image": "https://image.cnbcfm.com/api/v1/image/108100933-17393067622025-02-11t204145z_1729317157_rc2jscaafi5c_rtrmadp_0_usa-trump.jpeg?v=1786049729&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-06T22:19:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 65,
-          "path": "articles/35899bc5379b70a37e1f459bb15e5ca7.json"
-        },
-        {
           "id": "ca8fe3d5e5bb6c7732494949be87d028",
           "title": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
           "image": "https://image.cnbcfm.com/api/v1/image/108310071-1779306509002-gettyimages-2276716878-AIRBNB_SUMMER_RELEASE.jpeg?v=1786052989&w=1920&h=1080",
@@ -117,6 +96,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 30,
           "path": "articles/9456c41502fb6095cbd1303740d46b6d.json"
+        },
+        {
+          "id": "d8b79af58e9c16b955453e9b5b5c4b36",
+          "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
+          "image": "https://image.cnbcfm.com/api/v1/image/108344880-1786049149058-108344880-1785876568185-gettyimages-2289091999-_88a7247_kwpwihxw.jpeg?v=1786049185&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-06T21:24:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 30,
+          "path": "articles/d8b79af58e9c16b955453e9b5b5c4b36.json"
         }
       ]
     }

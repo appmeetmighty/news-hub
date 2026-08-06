@@ -1,10 +1,124 @@
 {
-  "updated_at": "2026-08-06T07:45:39.406Z",
+  "updated_at": "2026-08-06T08:01:09.319Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 25,
+  "total": 26,
   "articles": [
+    {
+      "id": "225c8f1580e239cc895a12bfcfef0a58",
+      "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+      "description": "A volunteer group running AI models against bitcoin codebases says it is averaging roughly one critical bug per hour per person, at about $10,000 a day in compute.",
+      "reading_time_minutes": 1,
+      "breaking_score": 50,
+      "url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic"
+        }
+      ],
+      "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+      "related": [
+        {
+          "id": "d7ecc897dbdb704e9a675773c23cbaf7",
+          "title": "Live updates: Bitcoin nears $65,000 as oil, inflation hopes keep macro bid alive",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/46bf595e55241c6d6435101f950986442ab183f6-2944x1490.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:26:23 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
+        },
+        {
+          "id": "9a2e8a3795837bb86015e0b4ea79245d",
+          "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 06:10:43 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 30,
+          "path": "articles/9a2e8a3795837bb86015e0b4ea79245d.json"
+        },
+        {
+          "id": "22ac93a129f0eb29fa6dd5682a98458c",
+          "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 15,
+          "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
+        },
+        {
+          "id": "054c35a865bf9ae76cfde0484a0b77d3",
+          "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Wed, 05 Aug 2026 15:44:08 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/054c35a865bf9ae76cfde0484a0b77d3.json"
+        },
+        {
+          "id": "c48bc7bef4a16185e85902d7d554c005",
+          "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f066ec84ad6156be84349aefba10e930edf5f59c-7360x4912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Wed, 05 Aug 2026 15:03:19 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c48bc7bef4a16185e85902d7d554c005.json"
+        }
+      ]
+    },
     {
       "id": "b86070c5f38a86f446b7c5cb3ead6b9f",
       "title": "Google is expanding its AI empire — and losing the people who built it",
@@ -54,6 +168,22 @@
           "path": "articles/532edf1cb24a5cd4817a74dac6061221.json"
         },
         {
+          "id": "348bb36f8be187d89bd46ead5d26c002",
+          "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
+          "image": "https://image.cnbcfm.com/api/v1/image/108246218-1767018103779-gettyimages-2247119698-AFP_84P22CQ.jpeg?v=1767018146&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "Thu, 06 Aug 2026 07:59:41 GMT",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/348bb36f8be187d89bd46ead5d26c002.json"
+        },
+        {
           "id": "c3606983e6eeb33cbff2ba0bc5dd72dc",
           "title": "Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
           "image": "https://image.cnbcfm.com/api/v1/image/108345183-1785931998842-gettyimages-2264643860-SN_Nintendo7129.jpeg?v=1785932091&w=1920&h=1080",
@@ -68,22 +198,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 65,
           "path": "articles/c3606983e6eeb33cbff2ba0bc5dd72dc.json"
-        },
-        {
-          "id": "348bb36f8be187d89bd46ead5d26c002",
-          "title": "SoftBank posts profit beat boosted by $8.2 billion investment gain from Intel",
-          "image": "https://image.cnbcfm.com/api/v1/image/108246218-1767018103779-gettyimages-2247119698-AFP_84P22CQ.jpeg?v=1767018146&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "Thu, 06 Aug 2026 07:23:27 GMT",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/348bb36f8be187d89bd46ead5d26c002.json"
         },
         {
           "id": "210ce061708c28c6262f83d9139f6d95",
@@ -176,6 +290,22 @@
           "path": "articles/f778fb118c2aae52e2e27cb051f288b9.json"
         },
         {
+          "id": "348bb36f8be187d89bd46ead5d26c002",
+          "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
+          "image": "https://image.cnbcfm.com/api/v1/image/108246218-1767018103779-gettyimages-2247119698-AFP_84P22CQ.jpeg?v=1767018146&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "Thu, 06 Aug 2026 07:59:41 GMT",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/348bb36f8be187d89bd46ead5d26c002.json"
+        },
+        {
           "id": "c3606983e6eeb33cbff2ba0bc5dd72dc",
           "title": "Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
           "image": "https://image.cnbcfm.com/api/v1/image/108345183-1785931998842-gettyimages-2264643860-SN_Nintendo7129.jpeg?v=1785932091&w=1920&h=1080",
@@ -190,22 +320,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 65,
           "path": "articles/c3606983e6eeb33cbff2ba0bc5dd72dc.json"
-        },
-        {
-          "id": "348bb36f8be187d89bd46ead5d26c002",
-          "title": "SoftBank posts profit beat boosted by $8.2 billion investment gain from Intel",
-          "image": "https://image.cnbcfm.com/api/v1/image/108246218-1767018103779-gettyimages-2247119698-AFP_84P22CQ.jpeg?v=1767018146&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "Thu, 06 Aug 2026 07:23:27 GMT",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/348bb36f8be187d89bd46ead5d26c002.json"
         },
         {
           "id": "210ce061708c28c6262f83d9139f6d95",
@@ -230,7 +344,7 @@
       "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
       "description": "Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.",
       "reading_time_minutes": 1,
-      "breaking_score": 30,
+      "breaking_score": 15,
       "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
@@ -272,6 +386,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 50,
           "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
+        },
+        {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
         },
         {
           "id": "9a2e8a3795837bb86015e0b4ea79245d",
@@ -320,22 +450,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c48bc7bef4a16185e85902d7d554c005.json"
-        },
-        {
-          "id": "ec751a927c26e56257b5e3d2d4ccec7c",
-          "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b143885ed58dece3a26646b1d6d4e198494e466-1534x969.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Wed, 05 Aug 2026 14:44:30 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ec751a927c26e56257b5e3d2d4ccec7c.json"
         }
       ]
     },
@@ -400,7 +514,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 06:57:31 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 85,
+          "breaking_score": 65,
           "path": "articles/1ca63d5ef35955cd97cbe9514f982644.json"
         },
         {
@@ -490,7 +604,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 06:57:31 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 85,
+          "breaking_score": 65,
           "path": "articles/1ca63d5ef35955cd97cbe9514f982644.json"
         },
         {
@@ -612,7 +726,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 06:57:31 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 85,
+          "breaking_score": 65,
           "path": "articles/1ca63d5ef35955cd97cbe9514f982644.json"
         },
         {
@@ -714,6 +828,22 @@
           "path": "articles/009f5509155d5dfefa6de766c9fd6da1.json"
         },
         {
+          "id": "348bb36f8be187d89bd46ead5d26c002",
+          "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
+          "image": "https://image.cnbcfm.com/api/v1/image/108246218-1767018103779-gettyimages-2247119698-AFP_84P22CQ.jpeg?v=1767018146&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "Thu, 06 Aug 2026 07:59:41 GMT",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/348bb36f8be187d89bd46ead5d26c002.json"
+        },
+        {
           "id": "c3606983e6eeb33cbff2ba0bc5dd72dc",
           "title": "Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
           "image": "https://image.cnbcfm.com/api/v1/image/108345183-1785931998842-gettyimages-2264643860-SN_Nintendo7129.jpeg?v=1785932091&w=1920&h=1080",
@@ -728,22 +858,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 65,
           "path": "articles/c3606983e6eeb33cbff2ba0bc5dd72dc.json"
-        },
-        {
-          "id": "348bb36f8be187d89bd46ead5d26c002",
-          "title": "SoftBank posts profit beat boosted by $8.2 billion investment gain from Intel",
-          "image": "https://image.cnbcfm.com/api/v1/image/108246218-1767018103779-gettyimages-2247119698-AFP_84P22CQ.jpeg?v=1767018146&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "Thu, 06 Aug 2026 07:23:27 GMT",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/348bb36f8be187d89bd46ead5d26c002.json"
         },
         {
           "id": "210ce061708c28c6262f83d9139f6d95",
@@ -1289,6 +1403,22 @@
           "path": "articles/cfe4758b81e6eba54b26a6414e690962.json"
         },
         {
+          "id": "348bb36f8be187d89bd46ead5d26c002",
+          "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
+          "image": "https://image.cnbcfm.com/api/v1/image/108246218-1767018103779-gettyimages-2247119698-AFP_84P22CQ.jpeg?v=1767018146&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "Thu, 06 Aug 2026 07:59:41 GMT",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/348bb36f8be187d89bd46ead5d26c002.json"
+        },
+        {
           "id": "c3606983e6eeb33cbff2ba0bc5dd72dc",
           "title": "Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
           "image": "https://image.cnbcfm.com/api/v1/image/108345183-1785931998842-gettyimages-2264643860-SN_Nintendo7129.jpeg?v=1785932091&w=1920&h=1080",
@@ -1303,22 +1433,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 65,
           "path": "articles/c3606983e6eeb33cbff2ba0bc5dd72dc.json"
-        },
-        {
-          "id": "348bb36f8be187d89bd46ead5d26c002",
-          "title": "SoftBank posts profit beat boosted by $8.2 billion investment gain from Intel",
-          "image": "https://image.cnbcfm.com/api/v1/image/108246218-1767018103779-gettyimages-2247119698-AFP_84P22CQ.jpeg?v=1767018146&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "Thu, 06 Aug 2026 07:23:27 GMT",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/348bb36f8be187d89bd46ead5d26c002.json"
         },
         {
           "id": "210ce061708c28c6262f83d9139f6d95",
@@ -1509,6 +1623,22 @@
           "path": "articles/d5073b3cb5025dc30d2c1f50e550b638.json"
         },
         {
+          "id": "348bb36f8be187d89bd46ead5d26c002",
+          "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
+          "image": "https://image.cnbcfm.com/api/v1/image/108246218-1767018103779-gettyimages-2247119698-AFP_84P22CQ.jpeg?v=1767018146&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "Thu, 06 Aug 2026 07:59:41 GMT",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/348bb36f8be187d89bd46ead5d26c002.json"
+        },
+        {
           "id": "c3606983e6eeb33cbff2ba0bc5dd72dc",
           "title": "Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
           "image": "https://image.cnbcfm.com/api/v1/image/108345183-1785931998842-gettyimages-2264643860-SN_Nintendo7129.jpeg?v=1785932091&w=1920&h=1080",
@@ -1523,22 +1653,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 65,
           "path": "articles/c3606983e6eeb33cbff2ba0bc5dd72dc.json"
-        },
-        {
-          "id": "348bb36f8be187d89bd46ead5d26c002",
-          "title": "SoftBank posts profit beat boosted by $8.2 billion investment gain from Intel",
-          "image": "https://image.cnbcfm.com/api/v1/image/108246218-1767018103779-gettyimages-2247119698-AFP_84P22CQ.jpeg?v=1767018146&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "Thu, 06 Aug 2026 07:23:27 GMT",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/348bb36f8be187d89bd46ead5d26c002.json"
         },
         {
           "id": "210ce061708c28c6262f83d9139f6d95",
@@ -1847,7 +1961,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
+          "breaking_score": 15,
           "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
         },
         {
@@ -1867,9 +1981,9 @@
           "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
         },
         {
-          "id": "9a2e8a3795837bb86015e0b4ea79245d",
-          "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -1877,10 +1991,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "Thu, 06 Aug 2026 06:10:43 +0000",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/9a2e8a3795837bb86015e0b4ea79245d.json"
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
         }
       ]
     },
@@ -1965,6 +2079,22 @@
           "path": "articles/e30370f00fd63aa5726efaf26a84eb68.json"
         },
         {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
+        },
+        {
           "id": "9a2e8a3795837bb86015e0b4ea79245d",
           "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1979,22 +2109,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 30,
           "path": "articles/9a2e8a3795837bb86015e0b4ea79245d.json"
-        },
-        {
-          "id": "22ac93a129f0eb29fa6dd5682a98458c",
-          "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
         }
       ]
     },
@@ -2047,6 +2161,22 @@
           "path": "articles/0870acccddc7d9f4b46dbec792e94861.json"
         },
         {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
+        },
+        {
           "id": "e77106966ed36c877db3bf8075ec5232",
           "title": "Bitcoin Tests Market’s Patience as Zcash Gives Holders Hope: Analysis",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
@@ -2093,22 +2223,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 15,
           "path": "articles/d7d1f00247981e2636aef787620a3ec0.json"
-        },
-        {
-          "id": "20954c181bf67729a63f873a134e7e8a",
-          "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "Tue, 04 Aug 2026 21:16:03 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 15,
-          "path": "articles/20954c181bf67729a63f873a134e7e8a.json"
         }
       ]
     },
@@ -2151,6 +2265,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/983a1ab2c70a4c8fe9b0ec0a3e85fb68.json"
+        },
+        {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
         },
         {
           "id": "5384b471cac597c486f20f2f8d610f4c",
@@ -2199,22 +2329,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 50,
           "path": "articles/40b9fa32ffdd26325770714c7709b230.json"
-        },
-        {
-          "id": "0a33e61b5f675771014eab9cd07aa5fe",
-          "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "Wed, 05 Aug 2026 19:42:48 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0a33e61b5f675771014eab9cd07aa5fe.json"
         }
       ]
     },

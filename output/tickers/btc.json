@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T07:45:39.403Z",
+  "updated_at": "2026-08-06T08:01:09.317Z",
   "id": "btc",
   "symbol": "BTC",
   "name": "Bitcoin",
@@ -74,6 +74,22 @@
           "path": "articles/c8359314c7a224c7c870385aac634926.json"
         },
         {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
+        },
+        {
           "id": "9a2e8a3795837bb86015e0b4ea79245d",
           "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -102,13 +118,47 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
+          "breaking_score": 15,
           "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
+        }
+      ]
+    },
+    {
+      "id": "225c8f1580e239cc895a12bfcfef0a58",
+      "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+      "description": "A volunteer group running AI models against bitcoin codebases says it is averaging roughly one critical bug per hour per person, at about $10,000 a day in compute.",
+      "reading_time_minutes": 1,
+      "breaking_score": 50,
+      "url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
-          "id": "612a56904b6523e800f69d5ed63bc741",
-          "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "ai",
+          "name": "AI",
+          "type": "topic"
+        }
+      ],
+      "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+      "related": [
+        {
+          "id": "d7ecc897dbdb704e9a675773c23cbaf7",
+          "title": "Live updates: Bitcoin nears $65,000 as oil, inflation hopes keep macro bid alive",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/46bf595e55241c6d6435101f950986442ab183f6-2944x1490.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -116,10 +166,74 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "Thu, 06 Aug 2026 04:46:17 +0000",
+          "published_at": "Thu, 06 Aug 2026 07:26:23 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
+        },
+        {
+          "id": "9a2e8a3795837bb86015e0b4ea79245d",
+          "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 06:10:43 +0000",
           "reading_time_minutes": 1,
           "breaking_score": 30,
-          "path": "articles/612a56904b6523e800f69d5ed63bc741.json"
+          "path": "articles/9a2e8a3795837bb86015e0b4ea79245d.json"
+        },
+        {
+          "id": "22ac93a129f0eb29fa6dd5682a98458c",
+          "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 15,
+          "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
+        },
+        {
+          "id": "054c35a865bf9ae76cfde0484a0b77d3",
+          "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Wed, 05 Aug 2026 15:44:08 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/054c35a865bf9ae76cfde0484a0b77d3.json"
+        },
+        {
+          "id": "c48bc7bef4a16185e85902d7d554c005",
+          "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f066ec84ad6156be84349aefba10e930edf5f59c-7360x4912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Wed, 05 Aug 2026 15:03:19 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c48bc7bef4a16185e85902d7d554c005.json"
         }
       ]
     },
@@ -128,7 +242,7 @@
       "title": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
       "description": "US-listed Bitcoin ETFs attracted $244.4 million on Wednesday, marking three consecutive inflow days for a combined $626 million.",
       "reading_time_minutes": 1,
-      "breaking_score": 85,
+      "breaking_score": 65,
       "url": "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-2.jpg",
       "source": {
@@ -297,6 +411,22 @@
           "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
         },
         {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
+        },
+        {
           "id": "22ac93a129f0eb29fa6dd5682a98458c",
           "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -309,7 +439,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
+          "breaking_score": 15,
           "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
         },
         {
@@ -327,22 +457,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/054c35a865bf9ae76cfde0484a0b77d3.json"
-        },
-        {
-          "id": "c48bc7bef4a16185e85902d7d554c005",
-          "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f066ec84ad6156be84349aefba10e930edf5f59c-7360x4912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Wed, 05 Aug 2026 15:03:19 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c48bc7bef4a16185e85902d7d554c005.json"
         }
       ]
     },
@@ -427,7 +541,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 06:57:31 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 85,
+          "breaking_score": 65,
           "path": "articles/1ca63d5ef35955cd97cbe9514f982644.json"
         },
         {
@@ -485,7 +599,7 @@
       "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
       "description": "Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.",
       "reading_time_minutes": 1,
-      "breaking_score": 30,
+      "breaking_score": 15,
       "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
@@ -527,6 +641,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 50,
           "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
+        },
+        {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
         },
         {
           "id": "9a2e8a3795837bb86015e0b4ea79245d",
@@ -575,22 +705,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c48bc7bef4a16185e85902d7d554c005.json"
-        },
-        {
-          "id": "ec751a927c26e56257b5e3d2d4ccec7c",
-          "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b143885ed58dece3a26646b1d6d4e198494e466-1534x969.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Wed, 05 Aug 2026 14:44:30 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ec751a927c26e56257b5e3d2d4ccec7c.json"
         }
       ]
     },
@@ -599,7 +713,7 @@
       "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
       "description": "CryptoQuant said large XRP spot orders point to \"quiet accumulation\" rather than a breakout, while ether’s price below realized value leaves holders underwater and gives it the strongest valuation case among BTC, ETH and XRP.",
       "reading_time_minutes": 1,
-      "breaking_score": 30,
+      "breaking_score": 15,
       "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
@@ -702,9 +816,9 @@
           "path": "articles/96a72a97d7ea24ded37b8d79a554db89.json"
         },
         {
-          "id": "9a2e8a3795837bb86015e0b4ea79245d",
-          "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -712,10 +826,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "Thu, 06 Aug 2026 06:10:43 +0000",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/9a2e8a3795837bb86015e0b4ea79245d.json"
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
         }
       ]
     },
@@ -759,7 +873,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 06:57:31 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 85,
+          "breaking_score": 65,
           "path": "articles/1ca63d5ef35955cd97cbe9514f982644.json"
         },
         {
@@ -1034,9 +1148,9 @@
           "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
         },
         {
-          "id": "9a2e8a3795837bb86015e0b4ea79245d",
-          "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -1044,10 +1158,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "Thu, 06 Aug 2026 06:10:43 +0000",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/9a2e8a3795837bb86015e0b4ea79245d.json"
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
         }
       ]
     },
@@ -1100,6 +1214,22 @@
           "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
         },
         {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
+        },
+        {
           "id": "9a2e8a3795837bb86015e0b4ea79245d",
           "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1128,7 +1258,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
+          "breaking_score": 15,
           "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
         },
         {
@@ -1146,22 +1276,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/054c35a865bf9ae76cfde0484a0b77d3.json"
-        },
-        {
-          "id": "ec751a927c26e56257b5e3d2d4ccec7c",
-          "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b143885ed58dece3a26646b1d6d4e198494e466-1534x969.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Wed, 05 Aug 2026 14:44:30 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ec751a927c26e56257b5e3d2d4ccec7c.json"
         }
       ]
     },
@@ -1229,7 +1343,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 06:57:31 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 85,
+          "breaking_score": 65,
           "path": "articles/1ca63d5ef35955cd97cbe9514f982644.json"
         },
         {
@@ -1350,6 +1464,22 @@
           "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
         },
         {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
+        },
+        {
           "id": "9a2e8a3795837bb86015e0b4ea79245d",
           "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1378,24 +1508,8 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
+          "breaking_score": 15,
           "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
-        },
-        {
-          "id": "054c35a865bf9ae76cfde0484a0b77d3",
-          "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Wed, 05 Aug 2026 15:44:08 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/054c35a865bf9ae76cfde0484a0b77d3.json"
         }
       ]
     },
@@ -1460,7 +1574,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 04:46:17 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
+          "breaking_score": 15,
           "path": "articles/612a56904b6523e800f69d5ed63bc741.json"
         },
         {
@@ -1524,7 +1638,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 06:57:31 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 85,
+          "breaking_score": 65,
           "path": "articles/1ca63d5ef35955cd97cbe9514f982644.json"
         }
       ]
@@ -1569,7 +1683,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 06:57:31 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 85,
+          "breaking_score": 65,
           "path": "articles/1ca63d5ef35955cd97cbe9514f982644.json"
         },
         {
@@ -1678,7 +1792,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
+          "breaking_score": 15,
           "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
         },
         {
@@ -1696,6 +1810,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 50,
           "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
+        },
+        {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
         },
         {
           "id": "9a2e8a3795837bb86015e0b4ea79245d",
@@ -1726,24 +1856,8 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 04:46:17 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
+          "breaking_score": 15,
           "path": "articles/612a56904b6523e800f69d5ed63bc741.json"
-        },
-        {
-          "id": "054c35a865bf9ae76cfde0484a0b77d3",
-          "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Wed, 05 Aug 2026 15:44:08 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/054c35a865bf9ae76cfde0484a0b77d3.json"
         }
       ]
     },
@@ -2041,6 +2155,22 @@
           "path": "articles/195986cea4e9d52ec70f9847a2cf32d8.json"
         },
         {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
+        },
+        {
           "id": "22ac93a129f0eb29fa6dd5682a98458c",
           "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -2053,24 +2183,8 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
+          "breaking_score": 15,
           "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
-        },
-        {
-          "id": "612a56904b6523e800f69d5ed63bc741",
-          "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Thu, 06 Aug 2026 04:46:17 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/612a56904b6523e800f69d5ed63bc741.json"
         }
       ]
     },
@@ -2135,7 +2249,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 06:57:31 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 85,
+          "breaking_score": 65,
           "path": "articles/1ca63d5ef35955cd97cbe9514f982644.json"
         },
         {
@@ -2337,7 +2451,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 06:57:31 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 85,
+          "breaking_score": 65,
           "path": "articles/1ca63d5ef35955cd97cbe9514f982644.json"
         },
         {
@@ -2498,9 +2612,9 @@
           "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
         },
         {
-          "id": "9a2e8a3795837bb86015e0b4ea79245d",
-          "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -2508,10 +2622,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "Thu, 06 Aug 2026 06:10:43 +0000",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/9a2e8a3795837bb86015e0b4ea79245d.json"
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
         }
       ]
     },
@@ -2596,9 +2710,9 @@
           "path": "articles/e30370f00fd63aa5726efaf26a84eb68.json"
         },
         {
-          "id": "9a2e8a3795837bb86015e0b4ea79245d",
-          "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d45c4167430191ebdbf49d9f22bdb5ca33902fd-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -2606,71 +2720,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "Thu, 06 Aug 2026 06:10:43 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/9a2e8a3795837bb86015e0b4ea79245d.json"
-        },
-        {
-          "id": "22ac93a129f0eb29fa6dd5682a98458c",
-          "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
-        }
-      ]
-    },
-    {
-      "id": "782ea2e551bef04b3e6a6cc8b3136969",
-      "title": "The worst chart for bitcoin bulls right now",
-      "description": "For 14 years, one ratio moved only in bitcoin's favor. Now it has decisively turned the other way and bulls may not like what it means.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/markets/2026/08/05/the-worst-chart-for-bitcoin-bulls-right-now",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd01b26662171c87383c52b19f38a55c06ddba13-2854x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-        }
-      ],
-      "published_at": "Wed, 05 Aug 2026 07:54:22 +0000",
-      "related": [
-        {
-          "id": "d7ecc897dbdb704e9a675773c23cbaf7",
-          "title": "Live updates: Bitcoin nears $65,000 as oil, inflation hopes keep macro bid alive",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/46bf595e55241c6d6435101f950986442ab183f6-2944x1490.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Thu, 06 Aug 2026 07:26:23 +0000",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
           "reading_time_minutes": 1,
           "breaking_score": 50,
-          "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
         },
         {
           "id": "9a2e8a3795837bb86015e0b4ea79245d",
@@ -2687,54 +2740,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 30,
           "path": "articles/9a2e8a3795837bb86015e0b4ea79245d.json"
-        },
-        {
-          "id": "22ac93a129f0eb29fa6dd5682a98458c",
-          "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Thu, 06 Aug 2026 04:59:11 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
-        },
-        {
-          "id": "054c35a865bf9ae76cfde0484a0b77d3",
-          "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Wed, 05 Aug 2026 15:44:08 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/054c35a865bf9ae76cfde0484a0b77d3.json"
-        },
-        {
-          "id": "c48bc7bef4a16185e85902d7d554c005",
-          "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f066ec84ad6156be84349aefba10e930edf5f59c-7360x4912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "Wed, 05 Aug 2026 15:03:19 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c48bc7bef4a16185e85902d7d554c005.json"
         }
       ]
     },
@@ -2787,6 +2792,22 @@
           "path": "articles/0870acccddc7d9f4b46dbec792e94861.json"
         },
         {
+          "id": "225c8f1580e239cc895a12bfcfef0a58",
+          "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "Thu, 06 Aug 2026 07:14:11 +0000",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/225c8f1580e239cc895a12bfcfef0a58.json"
+        },
+        {
           "id": "e77106966ed36c877db3bf8075ec5232",
           "title": "Bitcoin Tests Market’s Patience as Zcash Gives Holders Hope: Analysis",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
@@ -2833,22 +2854,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 15,
           "path": "articles/d7d1f00247981e2636aef787620a3ec0.json"
-        },
-        {
-          "id": "20954c181bf67729a63f873a134e7e8a",
-          "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "Tue, 04 Aug 2026 21:16:03 +0000",
-          "reading_time_minutes": 1,
-          "breaking_score": 15,
-          "path": "articles/20954c181bf67729a63f873a134e7e8a.json"
         }
       ]
     },
@@ -3709,7 +3714,7 @@
           "category": "crypto",
           "published_at": "Thu, 06 Aug 2026 06:57:31 +0000",
           "reading_time_minutes": 1,
-          "breaking_score": 85,
+          "breaking_score": 65,
           "path": "articles/1ca63d5ef35955cd97cbe9514f982644.json"
         },
         {

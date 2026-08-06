@@ -1,11 +1,11 @@
 {
-  "id": "d81a32750f9560023b8fde9ec8ba5642",
-  "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
-  "description": "SpaceX is using Tesla's big Megapack backup batteries to help power its Colossus AI data centers in Greater Memphis.",
+  "id": "1a7681fcd0d2aef00d93e6be9a9766ee",
+  "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
+  "description": "Anthropic, Meta and OpenAI have all had incidents of AI models hacking other companies during cybersecurity testing.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108345622-1785962525010-gettyimages-1241146807-ELKHORN_BATTERY.jpeg?v=1785970096&w=1920&h=1080",
+  "breaking_score": 90,
+  "url": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108346003-1786026137488-gettyimages-2275471901-AA_13052026_2777808.jpeg?v=1786026593&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,12 +15,12 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com"
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com"
     },
     {
       "id": "ai",
@@ -28,8 +28,40 @@
       "type": "topic"
     }
   ],
-  "published_at": "2026-08-05T21:32:34.000Z",
+  "published_at": "2026-08-06T14:26:30.000Z",
   "related": [
+    {
+      "id": "f8defb4b7321e4bdf963790df90fc54e",
+      "title": "Meta latest AI firm to see model go rogue during testing",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/ai.jpg",
+      "source": {
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-06T04:28:47.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/f8defb4b7321e4bdf963790df90fc54e.json"
+    },
+    {
+      "id": "5384b471cac597c486f20f2f8d610f4c",
+      "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-05T21:24:06.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "path": "articles/5384b471cac597c486f20f2f8d610f4c.json"
+    },
     {
       "id": "760c0d1b47780f74e12572804f17eed6",
       "title": "Khanna to introduce 'Data Center Bill of Rights' as fight over AI power plants heats up",
@@ -47,22 +79,6 @@
       "path": "articles/760c0d1b47780f74e12572804f17eed6.json"
     },
     {
-      "id": "3a3cf98ba27aef3e780e47234f4d495c",
-      "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
-      "image": "https://image.cnbcfm.com/api/v1/image/108321007-1781271149886-Screenshot_2026-06-12_at_92652_AM.png?v=1781271243&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-06T13:20:54.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 30,
-      "path": "articles/3a3cf98ba27aef3e780e47234f4d495c.json"
-    },
-    {
       "id": "064bdead0b167514879565ecedaf1519",
       "title": "Versant shares surge 10% after company raises 2026 outlook on platforms, advertising momentum",
       "image": "https://image.cnbcfm.com/api/v1/image/108248131-1767624896302-Screenshot_2026-01-05_at_95433_AM.png?v=1767624909&w=1920&h=1080",
@@ -77,22 +93,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 50,
       "path": "articles/064bdead0b167514879565ecedaf1519.json"
-    },
-    {
-      "id": "1a7681fcd0d2aef00d93e6be9a9766ee",
-      "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
-      "image": "https://image.cnbcfm.com/api/v1/image/108346003-1786026137488-gettyimages-2275471901-AA_13052026_2777808.jpeg?v=1786026593&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-06T14:26:30.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 90,
-      "path": "articles/1a7681fcd0d2aef00d93e6be9a9766ee.json"
     },
     {
       "id": "2534845bcb6acfcd5a93c3ff315c2d2a",

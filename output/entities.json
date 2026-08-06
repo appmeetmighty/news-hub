@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T11:01:05.993Z",
+  "updated_at": "2026-08-06T11:15:36.160Z",
   "total": 23,
   "entities": [
     {
@@ -16,14 +16,14 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 27
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 25
     },
     {
       "id": "stablecoin",
@@ -99,6 +99,15 @@
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
       "count": 3
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "oil",
@@ -178,15 +187,6 @@
       "type": "company",
       "path": "tickers/amzn.json",
       "icon": "https://logo.clearbit.com/amazon.com",
-      "count": 1
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
       "count": 1
     }
   ]

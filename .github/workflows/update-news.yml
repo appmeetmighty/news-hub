@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "*/15 * * * *"
+concurrency:
+  group: update-news
+  cancel-in-progress: true
 
 jobs:
   update-news:

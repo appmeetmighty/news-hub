@@ -1,11 +1,11 @@
 {
-  "id": "fa1668bf36e0172df582aba2aa5403a3",
-  "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
-  "description": "Laser’s investment in ZIGChain is understood to be in the single-digit millions.",
+  "id": "d7ecc897dbdb704e9a675773c23cbaf7",
+  "title": "Live updates: Bitcoin nears $65,000 as oil, inflation hopes keep macro bid alive",
+  "description": "Trump’s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin’s next move depends on whether lower oil actually pulls Treasury yields and the dollar down.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
-  "image": "https://cdn.sanity.io/images/s3y3vcno/production/1c5f9936bbd084d1a17d68695e5de5b4ec268eb4-778x509.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+  "breaking_score": 50,
+  "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/46bf595e55241c6d6435101f950986442ab183f6-2944x1490.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
   "source": {
     "id": "coindesk",
     "name": "CoinDesk",
@@ -15,17 +15,28 @@
   "category": "crypto",
   "entities": [
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic"
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
     }
   ],
-  "published_at": "Wed, 05 Aug 2026 13:25:04 +0000",
+  "published_at": "Thu, 06 Aug 2026 07:26:23 +0000",
   "related": [
     {
-      "id": "f4bcdf4ddded9e1d0599b790aac588d6",
-      "title": "Galaxy Digital shares slip 5% after second-quarter results",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4dee4d9ee83965b1df20b7cce851ffad1b29f4e9-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "id": "96a72a97d7ea24ded37b8d79a554db89",
+      "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9b1f83688f4588197032a91f7adfaf3a6a9b6f01-3317x1697.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -33,10 +44,10 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "Wed, 05 Aug 2026 12:42:19 +0000",
+      "published_at": "Wed, 05 Aug 2026 11:01:15 +0000",
       "reading_time_minutes": 1,
-      "breaking_score": 15,
-      "path": "articles/f4bcdf4ddded9e1d0599b790aac588d6.json"
+      "breaking_score": 5,
+      "path": "articles/96a72a97d7ea24ded37b8d79a554db89.json"
     },
     {
       "id": "c8359314c7a224c7c870385aac634926",
@@ -53,22 +64,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/c8359314c7a224c7c870385aac634926.json"
-    },
-    {
-      "id": "d7ecc897dbdb704e9a675773c23cbaf7",
-      "title": "Live updates: Bitcoin nears $65,000 as oil, inflation hopes keep macro bid alive",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/46bf595e55241c6d6435101f950986442ab183f6-2944x1490.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "Thu, 06 Aug 2026 07:26:23 +0000",
-      "reading_time_minutes": 1,
-      "breaking_score": 50,
-      "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
     },
     {
       "id": "9a2e8a3795837bb86015e0b4ea79245d",
@@ -101,6 +96,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 30,
       "path": "articles/22ac93a129f0eb29fa6dd5682a98458c.json"
+    },
+    {
+      "id": "612a56904b6523e800f69d5ed63bc741",
+      "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "Thu, 06 Aug 2026 04:46:17 +0000",
+      "reading_time_minutes": 1,
+      "breaking_score": 30,
+      "path": "articles/612a56904b6523e800f69d5ed63bc741.json"
     }
   ]
 }

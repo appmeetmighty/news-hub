@@ -1,11 +1,11 @@
 {
   "id": "63af3819ddb2755a7ecace076692fcd2",
-  "title": "AMD sinks 5% despite earnings beat, strong data center revenue",
+  "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
   "description": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
   "reading_time_minutes": 1,
-  "breaking_score": 65,
+  "breaking_score": 15,
   "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108336929-1784339113574-Rockdale_Meta_3jpg.png?v=1784339259&w=1920&h=1080",
+  "image": "https://image.cnbcfm.com/api/v1/image/108208259-1759767774187-gettyimages-2239199521-AMD_OPENAI.jpeg?v=1785945319&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,33 +15,25 @@
   "category": "stocks",
   "entities": [
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic"
     }
   ],
-  "published_at": "Wed, 05 Aug 2026 13:48:58 GMT",
+  "published_at": "Wed, 05 Aug 2026 20:02:56 GMT",
   "related": [
     {
-      "id": "3f60d9446f80e51b9aed766d56270434",
-      "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/13963e0d3858e00fbf1de77c79da7c5226d29b5a-1920x1080.jpg?auto=format&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "Wed, 05 Aug 2026 11:13:17 +0000",
-      "reading_time_minutes": 1,
-      "breaking_score": 45,
-      "path": "articles/3f60d9446f80e51b9aed766d56270434.json"
-    },
-    {
-      "id": "6aa0c43b0db5acc8aac2664e613308dd",
-      "title": "Uber issues weaker-than-expected bookings, earnings forecasts for third quarter",
-      "image": "https://image.cnbcfm.com/api/v1/image/108255725-1769094685480-7VYxj_8U.jpg?v=1769094774&w=1920&h=1080",
+      "id": "c16651ff3aee864e65f88940ebf42200",
+      "title": "We're downgrading Honeywell Aerospace after a shockingly bad earnings debut",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316276-17805152662026-06-03t153725z_163016884_rc25mlaoupra_rtrmadp_0_aerospace-honeywell.jpeg?v=1780515367&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -49,47 +41,31 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "Wed, 05 Aug 2026 13:46:42 GMT",
-      "reading_time_minutes": 1,
-      "breaking_score": 65,
-      "path": "articles/6aa0c43b0db5acc8aac2664e613308dd.json"
-    },
-    {
-      "id": "1d9c2181f2ff496ab34538654d1da0ef",
-      "title": "Disney tops earnings estimates as parks and streaming offer a boost",
-      "image": "https://image.cnbcfm.com/api/v1/image/108303074-1778083707874-gettyimages-2274814388-ms003142_6zosr9fb.jpeg?v=1778083738&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "Wed, 05 Aug 2026 13:43:32 GMT",
-      "reading_time_minutes": 1,
-      "breaking_score": 65,
-      "path": "articles/1d9c2181f2ff496ab34538654d1da0ef.json"
-    },
-    {
-      "id": "e1a3c01158a3ca6527b80ce7a119481a",
-      "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108232846-1764201290410-gettyimages-2197358286-ECP_fc1233819.jpeg?v=1785885015&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "Wed, 05 Aug 2026 12:16:52 GMT",
+      "published_at": "Thu, 06 Aug 2026 00:09:36 GMT",
       "reading_time_minutes": 1,
       "breaking_score": 30,
-      "path": "articles/e1a3c01158a3ca6527b80ce7a119481a.json"
+      "path": "articles/c16651ff3aee864e65f88940ebf42200.json"
+    },
+    {
+      "id": "cfe4758b81e6eba54b26a6414e690962",
+      "title": "Flutter shares plummet on earnings miss and another key leadership change",
+      "image": "https://image.cnbcfm.com/api/v1/image/108345483-1785950940792-gettyimages-2288109875-img_3996.jpeg?v=1785950964&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "Wed, 05 Aug 2026 21:22:56 GMT",
+      "reading_time_minutes": 1,
+      "breaking_score": 15,
+      "path": "articles/cfe4758b81e6eba54b26a6414e690962.json"
     },
     {
       "id": "f3d20f2effc6b4157ce923f2b3c3689c",
-      "title": "SpaceX dives 9% after AI spending surge rattles investors",
-      "image": "https://image.cnbcfm.com/api/v1/image/108321029-17812719352026-06-12t134403z_1228447360_rc2dslascqpj_rtrmadp_0_spacex-ipo.jpeg?v=1781272031&w=1920&h=1080",
+      "title": "SpaceX stock falls 13% as AI spending surge rattles investors and massive share unlock looms",
+      "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -97,10 +73,42 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "Wed, 05 Aug 2026 13:41:15 GMT",
+      "published_at": "Wed, 05 Aug 2026 20:02:03 GMT",
       "reading_time_minutes": 1,
-      "breaking_score": 50,
+      "breaking_score": 0,
       "path": "articles/f3d20f2effc6b4157ce923f2b3c3689c.json"
+    },
+    {
+      "id": "d080d25b4d109d43211646d055d22cdd",
+      "title": "Manager of DRAM memory chip stock trade blockbuster ETF is back with new AI thematic bet",
+      "image": "https://image.cnbcfm.com/api/v1/image/108344711-1785865814969-gettyimages-2266485386-NVIDIA_GTC.jpeg?v=1785865841&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "Wed, 05 Aug 2026 16:56:32 GMT",
+      "reading_time_minutes": 1,
+      "breaking_score": 25,
+      "path": "articles/d080d25b4d109d43211646d055d22cdd.json"
+    },
+    {
+      "id": "210ce061708c28c6262f83d9139f6d95",
+      "title": "U.S. ready to return to 'commitments,' Iran says, after Trump signals deal is near",
+      "image": "https://image.cnbcfm.com/api/v1/image/108332964-1783621917945-260627-D-D0477-1154.jpeg?v=1783622008&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "Thu, 06 Aug 2026 03:00:05 GMT",
+      "reading_time_minutes": 1,
+      "breaking_score": 30,
+      "path": "articles/210ce061708c28c6262f83d9139f6d95.json"
     }
   ]
 }

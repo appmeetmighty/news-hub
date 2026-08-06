@@ -11,6 +11,7 @@ async function generateSearch(articles) {
       id: article.id,
       title: article.title,
       description: article.description,
+      image: article.image,
       keywords: [
         ...(article.entities || []).flatMap(e => [
           e.id,

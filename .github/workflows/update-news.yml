@@ -30,6 +30,9 @@ jobs:
       - name: Generate News JSON
         run: node scripts/fetchNews.js
 
+      - name: Generate News JSON
+        run: node scripts/validateOutput.js
+
       - name: Commit JSON
         run: |
           git config --global user.name "github-actions"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T12:45:43.539Z",
+  "updated_at": "2026-08-06T12:47:20.268Z",
   "total": 22,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 29
+      "count": 30
     },
     {
       "id": "ai",
@@ -26,19 +26,19 @@
       "count": 27
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 8
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 7
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
       "count": 7
     },
     {
@@ -99,6 +99,13 @@
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 3
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "oil",
@@ -172,13 +179,6 @@
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
       "icon": "",
       "count": 1
     }

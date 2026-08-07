@@ -1,0 +1,41 @@
+name: Breaking News Notification
+
+on:
+  push:
+    paths:
+      - 'output/home.json'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Read Hero Article
+        id: hero
+        run: |
+          HERO_TITLE=$(jq -r '.articles.hero.title' output/home.json)
+          HERO_PATH=$(jq -r '.articles.hero.path' output/home.json)
+          HERO_ID=$(jq -r '.articles.hero.id' output/home.json)
+
+          echo "hero_title=$HERO_TITLE" >> $GITHUB_OUTPUT
+          echo "hero_path=$HERO_PATH" >> $GITHUB_OUTPUT
+          echo "hero_id=$HERO_ID" >> $GITHUB_OUTPUT
+
+      - name: Send OneSignal Notification
+        run: |
+          curl --request POST \
+          --url https://api.onesignal.com/notifications \
+          --header "Authorization: Key ${{ secrets.ONESIGNAL_API_KEY }}" \
+          --header "Content-Type: application/json" \
+          --data '{
+            "app_id":"${{ secrets.ONESIGNAL_APP_ID }}",
+            "included_segments":["All"],
+            "headings":{"en":"📰 Breaking News"},
+            "contents":{"en":"${{ steps.hero.outputs.hero_title }}"},
+            "data":{
+              "articlePath":"${{ steps.hero.outputs.hero_path }}"
+            }
+          }'

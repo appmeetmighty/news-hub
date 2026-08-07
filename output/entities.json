@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T13:15:42.456Z",
+  "updated_at": "2026-08-07T13:30:54.777Z",
   "total": 21,
   "entities": [
     {
@@ -63,6 +63,15 @@
       "count": 4
     },
     {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -88,11 +97,9 @@
       "count": 3
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -126,13 +133,6 @@
       "type": "crypto",
       "path": "tickers/doge.json",
       "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
-      "count": 1
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
       "count": 1
     },
     {

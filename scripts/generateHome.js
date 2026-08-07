@@ -5,19 +5,19 @@ async function generateHome({
   top,
   crypto,
   stocks,
-  trending
+  trending,
 }) {
+  const breaking = latest.filter(
+    (a) => (a.breaking_score || 0) >= 50
+  );
+
   await writeJson("./output/home.json", {
     hero: top[0] || null,
 
-    const breaking = latest.filter(a => a.breaking_score >= 50);
     breaking:
       breaking.length > 0
-      ? breaking.slice(0, 10)
-      : latest.slice(0, 10),
-    // breaking: latest
-    //   .filter(a => a.breaking_score >= 50)
-    //   .slice(0, 10),
+        ? breaking.slice(0, 10)
+        : latest.slice(0, 10),
 
     latest: latest.slice(0, 20),
 
@@ -25,7 +25,7 @@ async function generateHome({
 
     stocks: stocks.slice(0, 10),
 
-    trending: trending.topics.slice(0, 10)
+    trending: trending.topics.slice(0, 10),
   });
 
   console.log("✅ home.json");

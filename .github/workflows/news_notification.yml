@@ -1,6 +1,7 @@
 name: Breaking News Notification
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - "output/home.json"

@@ -1,11 +1,11 @@
 {
-  "id": "25d2959e29b6a2494014926e2cd712f6",
-  "title": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
-  "description": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+  "id": "1741e5a6cc50cdb5814ba3d685817b83",
+  "title": "Gulf uncertainty is creating ‘win, win’ strategy with Chevron and other oil majors",
+  "description": "With options premiums still elevated due to the military conflict in the Gulf, selling puts on an energy major posting record free cash flow offers a rare opportunity.",
   "reading_time_minutes": 1,
-  "breaking_score": 50,
-  "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/106902134-1624547395601DOCS-OB-Photo-20210624-Press-2-jpg?v=1738881404&w=1920&h=1080",
+  "breaking_score": 55,
+  "url": "https://www.cnbc.com/2026/08/07/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108289176-1775738724676-gettyimages-2270494304-dji_20260408180245_0708_d_zbvq7b2t.jpeg?v=1775738799&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,13 +15,23 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com"
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-07T16:06:45.000Z",
+  "published_at": "2026-08-07T16:26:24.000Z",
   "related": [
     {
       "id": "7c55172cce5df157f6c8286d25f88f7c",
@@ -40,9 +50,9 @@
       "path": "articles/7c55172cce5df157f6c8286d25f88f7c.json"
     },
     {
-      "id": "4e0ca5be6e5b8ad98b1a99a90c3903f7",
-      "title": "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
-      "image": "https://image.cnbcfm.com/api/v1/image/108310073-1779306507208-gettyimages-2276716958-AIRBNB_SUMMER_RELEASE.jpeg?v=1779306647&w=1920&h=1080",
+      "id": "485763c05ada5e553cc2c898f7f77769",
+      "title": "Top Democrat proposes killing tax breaks for overseas oil production",
+      "image": "https://image.cnbcfm.com/api/v1/image/108291395-1776197869819-gettyimages-2267107434-090a9297_tovlfxz2.jpeg?v=1776197899&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -50,10 +60,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-08-07T16:28:54.000Z",
+      "published_at": "2026-08-07T16:00:01.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 75,
-      "path": "articles/4e0ca5be6e5b8ad98b1a99a90c3903f7.json"
+      "breaking_score": 50,
+      "path": "articles/485763c05ada5e553cc2c898f7f77769.json"
     },
     {
       "id": "cd49f44692975c25f717deb9b163d357",
@@ -72,6 +82,22 @@
       "path": "articles/cd49f44692975c25f717deb9b163d357.json"
     },
     {
+      "id": "3ccc396fb63a22195edbd1289ee8e271",
+      "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe04e926bda55bbfbc8b9f01ad56bab3df2f426d-2830x1454.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-07T10:36:14.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/3ccc396fb63a22195edbd1289ee8e271.json"
+    },
+    {
       "id": "0dbb71f1033c63441aee20f3f98c90a3",
       "title": "Here are three key takeaways from the disappointing July jobs report",
       "image": "https://image.cnbcfm.com/api/v1/image/108342392-1785415951067-gettyimages-2287553395-AFP_C3J43BT.jpeg?v=1785416029&w=1920&h=1080",
@@ -86,22 +112,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 50,
       "path": "articles/0dbb71f1033c63441aee20f3f98c90a3.json"
-    },
-    {
-      "id": "1741e5a6cc50cdb5814ba3d685817b83",
-      "title": "Gulf uncertainty is creating ‘win, win’ strategy with Chevron and other oil majors",
-      "image": "https://image.cnbcfm.com/api/v1/image/108289176-1775738724676-gettyimages-2270494304-dji_20260408180245_0708_d_zbvq7b2t.jpeg?v=1775738799&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-07T16:26:24.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 55,
-      "path": "articles/1741e5a6cc50cdb5814ba3d685817b83.json"
     }
   ]
 }

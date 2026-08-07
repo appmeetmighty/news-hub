@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-07T16:30:55.204Z",
-  "total": 28,
+  "updated_at": "2026-08-07T16:43:52.164Z",
+  "total": 31,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 29
+      "count": 28
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
+      "count": 27
     },
     {
       "id": "ai",
@@ -30,7 +30,16 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 11
+      "count": 12
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "meta",
@@ -79,15 +88,6 @@
       "type": "topic",
       "icon": "",
       "count": 4
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "defi",
@@ -145,6 +145,33 @@
       "path": "tickers/v.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "bnb",
+      "symbol": "BNB",
+      "name": "BNB",
+      "type": "crypto",
+      "path": "tickers/bnb.json",
+      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
+      "count": 1
+    },
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 1
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 1
     },
     {
       "id": "doge",

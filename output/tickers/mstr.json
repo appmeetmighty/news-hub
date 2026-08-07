@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T04:47:11.194Z",
+  "updated_at": "2026-08-07T16:43:52.155Z",
   "id": "mstr",
   "symbol": "MSTR",
   "name": "Strategy",
@@ -7,29 +7,21 @@
   "total": 1,
   "articles": [
     {
-      "id": "ec751a927c26e56257b5e3d2d4ccec7c",
-      "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
-      "description": "Bitcoin sales, what is now a $4 billion cash reserve, and a $975 million repurchase program, have supported STRC’s recovery.",
+      "id": "1741e5a6cc50cdb5814ba3d685817b83",
+      "title": "Gulf uncertainty is creating ‘win, win’ strategy with Chevron and other oil majors",
+      "description": "With options premiums still elevated due to the military conflict in the Gulf, selling puts on an energy major posting record free cash flow offers a rare opportunity.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b143885ed58dece3a26646b1d6d4e198494e466-1534x969.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "breaking_score": 55,
+      "url": "https://www.cnbc.com/2026/08/07/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108289176-1775738724676-gettyimages-2270494304-dji_20260408180245_0708_d_zbvq7b2t.jpeg?v=1775738799&w=1920&h=1080",
       "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-        },
         {
           "id": "mstr",
           "symbol": "MSTR",
@@ -37,46 +29,70 @@
           "type": "company",
           "path": "tickers/mstr.json",
           "icon": "https://logo.clearbit.com/strategy.com"
+        },
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
         }
       ],
-      "published_at": "2026-08-05T14:44:30.000Z",
+      "published_at": "2026-08-07T16:26:24.000Z",
       "related": [
         {
-          "id": "7079a36ee6fbbed806b0bf6f464eafdb",
-          "title": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a52834e6e53c318a5414a955c503c268d0a9bdff-2854x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "7c55172cce5df157f6c8286d25f88f7c",
+          "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+          "image": "https://image.cnbcfm.com/api/v1/image/108346275-1786047899210-gettyimages-2289377473-aw1a4478_xxdo1bpb.jpeg?v=1786047995&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-07T04:28:17.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-07T16:40:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 50,
-          "path": "articles/7079a36ee6fbbed806b0bf6f464eafdb.json"
+          "path": "articles/7c55172cce5df157f6c8286d25f88f7c.json"
         },
         {
-          "id": "ca5db6d01c1916fd5e1fef8747dea719",
-          "title": "Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bull-market-vs-bear-market-hyperliquid.jpg",
+          "id": "485763c05ada5e553cc2c898f7f77769",
+          "title": "Top Democrat proposes killing tax breaks for overseas oil production",
+          "image": "https://image.cnbcfm.com/api/v1/image/108291395-1776197869819-gettyimages-2267107434-090a9297_tovlfxz2.jpeg?v=1776197899&w=1920&h=1080",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-06T16:24:18.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-07T16:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/485763c05ada5e553cc2c898f7f77769.json"
+        },
+        {
+          "id": "cd49f44692975c25f717deb9b163d357",
+          "title": "Gas prices could remain high this fall even if crude prices stabilize. Here's why",
+          "image": "https://image.cnbcfm.com/api/v1/image/108290790-1776276588339-108290790-1776118085723-gettyimages-2271203894-jr_13535_q5qr9nxg-1.jpg?v=1786047777&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-06T20:34:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/ca5db6d01c1916fd5e1fef8747dea719.json"
+          "path": "articles/cd49f44692975c25f717deb9b163d357.json"
         },
         {
-          "id": "e686ac003b7edbdeced003e264b66e74",
-          "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c2a4789a8ed7a8a55ccf74e856006ffc90555a80-3068x1938.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "3ccc396fb63a22195edbd1289ee8e271",
+          "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe04e926bda55bbfbc8b9f01ad56bab3df2f426d-2830x1454.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -84,42 +100,26 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-06T11:14:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/e686ac003b7edbdeced003e264b66e74.json"
-        },
-        {
-          "id": "a1734fb70b120d4dd1b0c51aad72f9fb",
-          "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/653aa0191de9730443aec5280e4a8d6ad8d81aaf-1822x1025.png?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-06T10:43:07.000Z",
+          "published_at": "2026-08-07T10:36:14.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/a1734fb70b120d4dd1b0c51aad72f9fb.json"
+          "path": "articles/3ccc396fb63a22195edbd1289ee8e271.json"
         },
         {
-          "id": "d7ecc897dbdb704e9a675773c23cbaf7",
-          "title": "Live updates: Bitcoin flatlines near $64,000 ahead of Friday's jobs report",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f4b87b26bed98d9aa51a39f93be6a37581fe30e1-2868x1450.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "0dbb71f1033c63441aee20f3f98c90a3",
+          "title": "Here are three key takeaways from the disappointing July jobs report",
+          "image": "https://image.cnbcfm.com/api/v1/image/108342392-1785415951067-gettyimages-2287553395-AFP_C3J43BT.jpeg?v=1785416029&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-06T07:26:23.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-07T16:34:09.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
+          "breaking_score": 50,
+          "path": "articles/0dbb71f1033c63441aee20f3f98c90a3.json"
         }
       ]
     }

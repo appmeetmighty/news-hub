@@ -1,11 +1,11 @@
 {
-  "id": "cebde5717a14548e581eda6b68c7bf48",
-  "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
-  "description": "France's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.",
+  "id": "dc70de957179d7cd729832e0b7f16ccf",
+  "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
+  "description": "Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
+  "breaking_score": 75,
+  "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
+  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Binance-BNB-BSC-DecryptStyle-1-scaled-gID_7.jpg@png",
   "source": {
     "id": "decrypt",
     "name": "Decrypt",
@@ -13,13 +13,36 @@
     "icon": "https://logo.clearbit.com/decrypt.co"
   },
   "category": "crypto",
-  "entities": [],
-  "published_at": "2026-08-06T12:46:19.000Z",
+  "entities": [
+    {
+      "id": "bnb",
+      "symbol": "BNB",
+      "name": "BNB",
+      "type": "crypto",
+      "path": "tickers/bnb.json",
+      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png"
+    },
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com"
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-07T16:36:59.000Z",
   "related": [
     {
-      "id": "dc70de957179d7cd729832e0b7f16ccf",
-      "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Binance-BNB-BSC-DecryptStyle-1-scaled-gID_7.jpg@png",
+      "id": "d7ecac10134ed0d7cb8426ec2bb0b358",
+      "title": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/Uniswap2-gID_7.jpg@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -27,10 +50,10 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-07T16:36:59.000Z",
+      "published_at": "2026-08-06T12:28:46.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 75,
-      "path": "articles/dc70de957179d7cd729832e0b7f16ccf.json"
+      "breaking_score": 0,
+      "path": "articles/d7ecac10134ed0d7cb8426ec2bb0b358.json"
     },
     {
       "id": "1d9141cff66899ab4369122e19c8bc98",

@@ -3,7 +3,7 @@
   "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
   "description": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
   "reading_time_minutes": 1,
-  "breaking_score": 50,
+  "breaking_score": 30,
   "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
   "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
   "source": {
@@ -13,13 +13,30 @@
     "icon": "https://logo.clearbit.com/decrypt.co"
   },
   "category": "crypto",
-  "entities": [],
+  "entities": [
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": ""
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": ""
+    }
+  ],
   "published_at": "2026-08-07T12:37:14.000Z",
   "related": [
     {
-      "id": "4ed6387ba65a1411c80c00b0db73ec8c",
-      "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+      "id": "9b64b328e930b1687f746a045ddd2001",
+      "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -27,15 +44,15 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-07T13:26:19.000Z",
+      "published_at": "2026-08-05T19:11:23.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 50,
-      "path": "articles/4ed6387ba65a1411c80c00b0db73ec8c.json"
+      "breaking_score": 65,
+      "path": "articles/9b64b328e930b1687f746a045ddd2001.json"
     },
     {
-      "id": "1f658fb4bc1815eb4bb313dd8e1f73d7",
-      "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/metamask-decrypt-style-gID_7.jpg@png",
+      "id": "cbde024fe89158855ae50981dd395293",
+      "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -43,47 +60,15 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-07T12:00:35.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 30,
-      "path": "articles/1f658fb4bc1815eb4bb313dd8e1f73d7.json"
-    },
-    {
-      "id": "10cecfe2a4ea4715be1ba6db7136861b",
-      "title": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-07T10:37:41.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 30,
-      "path": "articles/10cecfe2a4ea4715be1ba6db7136861b.json"
-    },
-    {
-      "id": "071b4c7def5457f1b54c79ba9a2ab72d",
-      "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-07T09:26:02.000Z",
+      "published_at": "2026-08-05T12:47:57.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 15,
-      "path": "articles/071b4c7def5457f1b54c79ba9a2ab72d.json"
+      "path": "articles/cbde024fe89158855ae50981dd395293.json"
     },
     {
-      "id": "a37662fcf3cbe6a469204f7a3fd0e8ec",
-      "title": "SEC Bought a Billion Airline Records to Track Travelers—Likely Without a Warrant",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
+      "id": "0b77cfcb948f010ef429063ee1b850b4",
+      "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -91,10 +76,42 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-06T21:36:03.000Z",
+      "published_at": "2026-08-06T18:26:29.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 40,
+      "path": "articles/0b77cfcb948f010ef429063ee1b850b4.json"
+    },
+    {
+      "id": "5384b471cac597c486f20f2f8d610f4c",
+      "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-05T21:24:06.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 20,
-      "path": "articles/a37662fcf3cbe6a469204f7a3fd0e8ec.json"
+      "path": "articles/5384b471cac597c486f20f2f8d610f4c.json"
+    },
+    {
+      "id": "0c36e4c5d7d8e5b50cbb824f0d23786f",
+      "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/Screen-Shot-2020-05-07-at-10.11.20-PM-gID_4.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-04T22:16:03.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/0c36e4c5d7d8e5b50cbb824f0d23786f.json"
     }
   ]
 }

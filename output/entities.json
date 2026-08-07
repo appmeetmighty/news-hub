@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T13:30:54.777Z",
-  "total": 21,
+  "updated_at": "2026-08-07T13:40:04.088Z",
+  "total": 29,
   "entities": [
     {
       "id": "btc",
@@ -23,7 +23,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 22
+      "count": 21
     },
     {
       "id": "blockchain",
@@ -31,6 +31,24 @@
       "type": "topic",
       "icon": "",
       "count": 10
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 5
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "regulation",
@@ -49,6 +67,15 @@
       "count": 5
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 4
+    },
+    {
       "id": "mining",
       "name": "Mining",
       "type": "topic",
@@ -61,6 +88,13 @@
       "type": "topic",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "gold",
@@ -88,22 +122,6 @@
       "count": 3
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 3
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
@@ -113,9 +131,27 @@
       "count": 2
     },
     {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 2
+    },
+    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
       "icon": "",
       "count": 2
     },
@@ -127,12 +163,39 @@
       "count": 2
     },
     {
+      "id": "v",
+      "symbol": "V",
+      "name": "Visa",
+      "type": "company",
+      "path": "tickers/v.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "doge",
       "symbol": "DOGE",
       "name": "Dogecoin",
       "type": "crypto",
       "path": "tickers/doge.json",
       "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
+      "count": 1
+    },
+    {
+      "id": "amd",
+      "symbol": "AMD",
+      "name": "AMD",
+      "type": "company",
+      "path": "tickers/amd.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
+      "icon": "",
       "count": 1
     },
     {
@@ -151,6 +214,15 @@
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
+      "count": 1
+    },
+    {
+      "id": "ma",
+      "symbol": "MA",
+      "name": "Mastercard",
+      "type": "company",
+      "path": "tickers/ma.json",
+      "icon": "",
       "count": 1
     },
     {

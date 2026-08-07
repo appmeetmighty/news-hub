@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-07T01:45:37.795Z",
+  "updated_at": "2026-08-07T13:40:04.085Z",
   "id": "tsla",
   "symbol": "TSLA",
   "name": "Tesla",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
-      "id": "d81a32750f9560023b8fde9ec8ba5642",
-      "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
-      "description": "SpaceX is using Tesla's big Megapack backup batteries to help power its Colossus AI data centers in Greater Memphis.",
+      "id": "35899bc5379b70a37e1f459bb15e5ca7",
+      "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
+      "description": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108345622-1785962525010-gettyimages-1241146807-ELKHORN_BATTERY.jpeg?v=1785970096&w=1920&h=1080",
+      "breaking_score": 15,
+      "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108100933-17393067622025-02-11t204145z_1729317157_rc2jscaafi5c_rtrmadp_0_usa-trump.jpeg?v=1786049729&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,20 +23,23 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "doge",
+          "symbol": "DOGE",
+          "name": "Dogecoin",
+          "type": "crypto",
+          "path": "tickers/doge.json",
+          "icon": "https://assets.coincap.io/assets/icons/doge@2x.png"
+        },
+        {
           "id": "tsla",
           "symbol": "TSLA",
           "name": "Tesla",
           "type": "company",
           "path": "tickers/tsla.json",
           "icon": "https://logo.clearbit.com/tesla.com"
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic"
         }
       ],
-      "published_at": "2026-08-05T21:32:34.000Z",
+      "published_at": "2026-08-06T22:19:52.000Z",
       "related": [
         {
           "id": "8bb452de1fc5539d2a7afb7971b5e6b4",
@@ -55,9 +58,9 @@
           "path": "articles/8bb452de1fc5539d2a7afb7971b5e6b4.json"
         },
         {
-          "id": "3a3cf98ba27aef3e780e47234f4d495c",
-          "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
-          "image": "https://image.cnbcfm.com/api/v1/image/108315896-1780491649482-gettyimages-1175168392-AFP_1LB3WB.jpeg?v=1781036537&w=1920&h=1080",
+          "id": "24f96a50b66897e08afe0d93fde318a1",
+          "title": "SK Hynix to invest $38 billion building new memory chip plants as demand soars",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -65,15 +68,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-06T15:19:56.000Z",
+          "published_at": "2026-08-07T09:02:59.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3a3cf98ba27aef3e780e47234f4d495c.json"
+          "breaking_score": 15,
+          "path": "articles/24f96a50b66897e08afe0d93fde318a1.json"
         },
         {
-          "id": "f71bcafedf394598718061e702a6343e",
-          "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
-          "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&w=1920&h=1080",
+          "id": "25d2959e29b6a2494014926e2cd712f6",
+          "title": "Shares of this digital medical platform were up more than 100% at one point. Here's what's driving it",
+          "image": "https://image.cnbcfm.com/api/v1/image/106902134-1624547395601DOCS-OB-Photo-20210624-Press-2-jpg?v=1738881404&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -81,31 +84,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-07T01:28:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/f71bcafedf394598718061e702a6343e.json"
-        },
-        {
-          "id": "d3ae81719f21e4df02eb1871e0dc485a",
-          "title": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz",
-          "image": "https://image.cnbcfm.com/api/v1/image/108345236-1785935747468-gettyimages-2286971571-AFP_C37P2FW.jpeg?v=1785935768&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-07T01:00:40.000Z",
+          "published_at": "2026-08-07T13:18:07.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 50,
-          "path": "articles/d3ae81719f21e4df02eb1871e0dc485a.json"
+          "path": "articles/25d2959e29b6a2494014926e2cd712f6.json"
         },
         {
-          "id": "fe74ef4ee1b722788ce8c3bdc5f03407",
-          "title": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
-          "image": "https://image.cnbcfm.com/api/v1/image/107282488-1691376461152-gettyimages-1434261552-banderajaponyyen2.jpeg?v=1785984770&w=1920&h=1080",
+          "id": "2dacd5188bbb666f323d8b7bbf94de00",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Friday ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108055242-1730322135532-gettyimages-1243056983-INDIA_ATLASSIAN.jpeg?v=1730322249&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -113,10 +100,143 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-07T00:05:26.000Z",
+          "published_at": "2026-08-07T13:09:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/2dacd5188bbb666f323d8b7bbf94de00.json"
+        },
+        {
+          "id": "0bbe81f8b83808d9702dd519e674a470",
+          "title": "Homes are selling below asking in 38 of the 50 biggest U.S. cities—if you can afford one",
+          "image": "https://image.cnbcfm.com/api/v1/image/108177776-1753713014078-gettyimages-1393890856-donedsc03683retocada.jpeg?v=1786050295&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-07T13:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/0bbe81f8b83808d9702dd519e674a470.json"
+        }
+      ]
+    },
+    {
+      "id": "8bb452de1fc5539d2a7afb7971b5e6b4",
+      "title": "SpaceX shares passed a key test Thursday. Now sophisticated traders are betting the bottom may be in",
+      "description": "Shares of Elon Musk's rocket company were trading higher in Thursday's session even as a key lock-up provision expired.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/08/06/spacex-passed-a-key-test-thursday-sophisticated-traders-bet-the-bottom-is-in.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108322526-1781619585807-gettyimages-2281285195-6k7a6625_eqkrwpss.jpeg?v=1786043967&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-06T19:25:04.000Z",
+      "related": [
+        {
+          "id": "35899bc5379b70a37e1f459bb15e5ca7",
+          "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
+          "image": "https://image.cnbcfm.com/api/v1/image/108100933-17393067622025-02-11t204145z_1729317157_rc2jscaafi5c_rtrmadp_0_usa-trump.jpeg?v=1786049729&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-06T22:19:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 15,
+          "path": "articles/35899bc5379b70a37e1f459bb15e5ca7.json"
+        },
+        {
+          "id": "65d7b1fc672b2c8209eacd1b0693ba4e",
+          "title": "Cathie Wood's Ark Invest Makes SpaceX, Circle Top Holdings After Latest Buying Spree",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/cathie-wood-ark-invest-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-06T17:20:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 30,
-          "path": "articles/fe74ef4ee1b722788ce8c3bdc5f03407.json"
+          "path": "articles/65d7b1fc672b2c8209eacd1b0693ba4e.json"
+        },
+        {
+          "id": "25d2959e29b6a2494014926e2cd712f6",
+          "title": "Shares of this digital medical platform were up more than 100% at one point. Here's what's driving it",
+          "image": "https://image.cnbcfm.com/api/v1/image/106902134-1624547395601DOCS-OB-Photo-20210624-Press-2-jpg?v=1738881404&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-07T13:18:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/25d2959e29b6a2494014926e2cd712f6.json"
+        },
+        {
+          "id": "c579bb7244ea1c572c35a8c247672a67",
+          "title": "Inside India newsletter: What's behind India’s rush to sell shares in state-owned firms",
+          "image": "https://image.cnbcfm.com/api/v1/image/108345050-1785913651428-gettyimages-2287613361-AFP_C3KM4ZR.jpeg?v=1785913680&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-06T00:11:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c579bb7244ea1c572c35a8c247672a67.json"
+        },
+        {
+          "id": "2dacd5188bbb666f323d8b7bbf94de00",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Friday ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108055242-1730322135532-gettyimages-1243056983-INDIA_ATLASSIAN.jpeg?v=1730322249&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-07T13:09:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/2dacd5188bbb666f323d8b7bbf94de00.json"
         }
       ]
     }

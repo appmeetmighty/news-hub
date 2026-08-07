@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T13:30:54.775Z",
+  "updated_at": "2026-08-07T13:40:04.085Z",
   "id": "meta",
   "symbol": "META",
   "name": "Meta",
@@ -140,9 +140,18 @@
           "icon": "https://logo.clearbit.com/meta.com"
         },
         {
+          "id": "amd",
+          "symbol": "AMD",
+          "name": "AMD",
+          "type": "company",
+          "path": "tickers/amd.json",
+          "icon": ""
+        },
+        {
           "id": "ai",
           "name": "AI",
-          "type": "topic"
+          "type": "topic",
+          "icon": ""
         }
       ],
       "published_at": "2026-08-06T21:42:31.000Z",
@@ -256,7 +265,8 @@
         {
           "id": "ai",
           "name": "AI",
-          "type": "topic"
+          "type": "topic",
+          "icon": ""
         }
       ],
       "published_at": "2026-08-06T20:31:03.000Z",
@@ -477,9 +487,18 @@
           "icon": "https://logo.clearbit.com/meta.com"
         },
         {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
           "id": "ai",
           "name": "AI",
-          "type": "topic"
+          "type": "topic",
+          "icon": ""
         }
       ],
       "published_at": "2026-08-05T21:24:06.000Z",
@@ -501,6 +520,38 @@
           "path": "articles/d4e7d0279815527831aa59056e9caea7.json"
         },
         {
+          "id": "cbde024fe89158855ae50981dd395293",
+          "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-05T12:47:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 15,
+          "path": "articles/cbde024fe89158855ae50981dd395293.json"
+        },
+        {
+          "id": "6f49645e53bab0c3ab3452ec628ae65a",
+          "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-07T12:37:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 30,
+          "path": "articles/6f49645e53bab0c3ab3452ec628ae65a.json"
+        },
+        {
           "id": "2a04e6546a44f1e175b3e0fccd07b311",
           "title": "DuckDuckGo’s Meta-Trolling 'Normal F***ing Sunglasses' Sell Out in Under a Week",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/duckduckgo-normal-sunglasses-decrypt-style-1-gID_7.jpg@png",
@@ -517,41 +568,9 @@
           "path": "articles/2a04e6546a44f1e175b3e0fccd07b311.json"
         },
         {
-          "id": "f71bcafedf394598718061e702a6343e",
-          "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
-          "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-07T01:28:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f71bcafedf394598718061e702a6343e.json"
-        },
-        {
-          "id": "9456c41502fb6095cbd1303740d46b6d",
-          "title": "AMD buys chip startup that hardwires AI models into its silicon",
-          "image": "https://image.cnbcfm.com/api/v1/image/108336929-1784339113574-Rockdale_Meta_3jpg.png?v=1784339259&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-06T21:42:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9456c41502fb6095cbd1303740d46b6d.json"
-        },
-        {
-          "id": "3de38d05a89e28355a54610ead4e5cd4",
-          "title": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
+          "id": "9b64b328e930b1687f746a045ddd2001",
+          "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -559,10 +578,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-05T20:46:03.000Z",
+          "published_at": "2026-08-05T19:11:23.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3de38d05a89e28355a54610ead4e5cd4.json"
+          "breaking_score": 65,
+          "path": "articles/9b64b328e930b1687f746a045ddd2001.json"
         }
       ]
     }

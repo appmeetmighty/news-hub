@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T13:30:54.774Z",
+  "updated_at": "2026-08-07T13:40:04.084Z",
   "id": "etf",
   "name": "ETF",
   "type": "topic",
@@ -24,17 +24,20 @@
         {
           "id": "crypto",
           "name": "Crypto",
-          "type": "topic"
+          "type": "topic",
+          "icon": ""
         },
         {
           "id": "etf",
           "name": "ETF",
-          "type": "topic"
+          "type": "topic",
+          "icon": ""
         },
         {
           "id": "regulation",
           "name": "Regulation",
-          "type": "topic"
+          "type": "topic",
+          "icon": ""
         }
       ],
       "published_at": "2026-08-07T08:46:17.000Z",
@@ -148,7 +151,8 @@
         {
           "id": "etf",
           "name": "ETF",
-          "type": "topic"
+          "type": "topic",
+          "icon": ""
         }
       ],
       "published_at": "2026-08-06T18:17:57.000Z",
@@ -252,14 +256,24 @@
       "category": "crypto",
       "entities": [
         {
+          "id": "jpm",
+          "symbol": "JPM",
+          "name": "JPMorgan",
+          "type": "company",
+          "path": "tickers/jpm.json",
+          "icon": ""
+        },
+        {
           "id": "crypto",
           "name": "Crypto",
-          "type": "topic"
+          "type": "topic",
+          "icon": ""
         },
         {
           "id": "etf",
           "name": "ETF",
-          "type": "topic"
+          "type": "topic",
+          "icon": ""
         }
       ],
       "published_at": "2026-08-06T12:46:42.000Z",
@@ -309,7 +323,7 @@
           "category": "crypto",
           "published_at": "2026-08-07T12:31:51.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 65,
+          "breaking_score": 45,
           "path": "articles/ff6a8ea41a52d89182fd35efc972c53e.json"
         },
         {

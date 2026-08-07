@@ -10,9 +10,14 @@ async function generateHome({
   await writeJson("./output/home.json", {
     hero: top[0] || null,
 
-    breaking: latest
-      .filter(a => a.breaking_score >= 50)
-      .slice(0, 10),
+    const breaking = latest.filter(a => a.breaking_score >= 50);
+    breaking:
+      breaking.length > 0
+      ? breaking.slice(0, 10)
+      : latest.slice(0, 10),
+    // breaking: latest
+    //   .filter(a => a.breaking_score >= 50)
+    //   .slice(0, 10),
 
     latest: latest.slice(0, 20),
 

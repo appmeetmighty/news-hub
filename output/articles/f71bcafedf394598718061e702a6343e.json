@@ -1,18 +1,18 @@
 {
-  "id": "d4e7d0279815527831aa59056e9caea7",
-  "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
-  "description": "The company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.",
+  "id": "f71bcafedf394598718061e702a6343e",
+  "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+  "description": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
   "reading_time_minutes": 1,
-  "breaking_score": 80,
-  "url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
+  "breaking_score": 50,
+  "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&w=1920&h=1080",
   "source": {
-    "id": "decrypt",
-    "name": "Decrypt",
-    "website": "https://decrypt.co",
-    "icon": "https://logo.clearbit.com/decrypt.co"
+    "id": "cnbc",
+    "name": "CNBC",
+    "website": "https://www.cnbc.com",
+    "icon": "https://logo.clearbit.com/cnbc.com"
   },
-  "category": "crypto",
+  "category": "stocks",
   "entities": [
     {
       "id": "meta",
@@ -21,15 +21,42 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com"
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic"
     }
   ],
-  "published_at": "2026-08-06T20:31:03.000Z",
+  "published_at": "2026-08-07T00:19:02.000Z",
   "related": [
+    {
+      "id": "9456c41502fb6095cbd1303740d46b6d",
+      "title": "AMD buys chip startup that hardwires AI models into its silicon",
+      "image": "https://image.cnbcfm.com/api/v1/image/108336929-1784339113574-Rockdale_Meta_3jpg.png?v=1784339259&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-06T21:42:31.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 30,
+      "path": "articles/9456c41502fb6095cbd1303740d46b6d.json"
+    },
+    {
+      "id": "d4e7d0279815527831aa59056e9caea7",
+      "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-06T20:31:03.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 80,
+      "path": "articles/d4e7d0279815527831aa59056e9caea7.json"
+    },
     {
       "id": "f8defb4b7321e4bdf963790df90fc54e",
       "title": "Meta latest AI firm to see model go rogue during testing",
@@ -77,38 +104,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/2a04e6546a44f1e175b3e0fccd07b311.json"
-    },
-    {
-      "id": "f71bcafedf394598718061e702a6343e",
-      "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
-      "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-07T00:19:02.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 50,
-      "path": "articles/f71bcafedf394598718061e702a6343e.json"
-    },
-    {
-      "id": "9456c41502fb6095cbd1303740d46b6d",
-      "title": "AMD buys chip startup that hardwires AI models into its silicon",
-      "image": "https://image.cnbcfm.com/api/v1/image/108336929-1784339113574-Rockdale_Meta_3jpg.png?v=1784339259&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-06T21:42:31.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 30,
-      "path": "articles/9456c41502fb6095cbd1303740d46b6d.json"
     }
   ]
 }

@@ -3,15 +3,18 @@ name: Breaking News Notification
 on:
   workflow_dispatch:
 
-  push:
-    paths:
-      - "output/home.json"
+  workflow_run:
+    workflows:
+      - "Update News Hub"
+    types:
+      - completed
 
 permissions:
   contents: write
 
 jobs:
   notify:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     steps:

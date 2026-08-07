@@ -23,10 +23,12 @@ jobs:
           HERO_ID=$(jq -r '.articles.hero.id' output/home.json)
           HERO_TITLE=$(jq -r '.articles.hero.title' output/home.json)
           HERO_PATH=$(jq -r '.articles.hero.path' output/home.json)
+          HERO_IMAGE=$(jq -r '.articles.hero.image' output/home.json)
 
           echo "hero_id=$HERO_ID" >> $GITHUB_OUTPUT
           echo "hero_title=$HERO_TITLE" >> $GITHUB_OUTPUT
           echo "hero_path=$HERO_PATH" >> $GITHUB_OUTPUT
+          echo "hero_image=$HERO_IMAGE" >> $GITHUB_OUTPUT
 
       - name: Read Previous Hero
         id: previous
@@ -54,10 +56,17 @@ jobs:
           --data '{
             "app_id":"${{ secrets.ONESIGNAL_APP_ID }}",
             "included_segments":["All"],
-            "headings":{"en":"📰 Breaking News"},
-            "contents":{"en":"${{ steps.hero.outputs.hero_title }}"},
-            "data":{
-              "articlePath":"${{ steps.hero.outputs.hero_path }}"
+            "headings": {
+              "en": "📰 Breaking News"
+            },
+            "contents": {
+            "en": "${{ steps.hero.outputs.hero_title }}"
+              },
+          "big_picture": "${{ steps.hero.outputs.hero_image }}",
+          "chrome_web_image": "${{ steps.hero.outputs.hero_image }}",
+          "large_icon": "${{ steps.hero.outputs.hero_image }}",
+          "data": {
+          "articlePath": "${{ steps.hero.outputs.hero_path }}"
             }
           }'
 

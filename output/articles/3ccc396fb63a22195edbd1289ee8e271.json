@@ -1,11 +1,11 @@
 {
-  "id": "0afe0a47a563bb52a7c3ca521cafd344",
-  "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
-  "description": "Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling",
+  "id": "3ccc396fb63a22195edbd1289ee8e271",
+  "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
+  "description": "Brent crude has meanwhile moved to over $83 a barrel after Yemen’s Iran-linked Houthis attacked Saudi Arabia, further escalating tensions in the Middle East.",
   "reading_time_minutes": 1,
-  "breaking_score": 30,
-  "url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
-  "image": "https://cdn.sanity.io/images/s3y3vcno/production/26b8b4fba46a4ec6068433ab9d7d9a65df76fb6c-3200x1800.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+  "breaking_score": 50,
+  "url": "https://www.coindesk.com/markets/2026/08/07/cmt",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe04e926bda55bbfbc8b9f01ad56bab3df2f426d-2830x1454.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
   "source": {
     "id": "coindesk",
     "name": "CoinDesk",
@@ -23,45 +23,16 @@
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic"
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
     }
   ],
-  "published_at": "2026-08-07T09:24:00.000Z",
+  "published_at": "2026-08-07T10:36:14.000Z",
   "related": [
-    {
-      "id": "20954c181bf67729a63f873a134e7e8a",
-      "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-04T21:16:03.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 15,
-      "path": "articles/20954c181bf67729a63f873a134e7e8a.json"
-    },
-    {
-      "id": "3ccc396fb63a22195edbd1289ee8e271",
-      "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe04e926bda55bbfbc8b9f01ad56bab3df2f426d-2830x1454.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-07T10:36:14.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 50,
-      "path": "articles/3ccc396fb63a22195edbd1289ee8e271.json"
-    },
     {
       "id": "fa93314fe6f5139d5b34e3379b96e3ec",
       "title": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
@@ -77,6 +48,38 @@
       "reading_time_minutes": 1,
       "breaking_score": 15,
       "path": "articles/fa93314fe6f5139d5b34e3379b96e3ec.json"
+    },
+    {
+      "id": "d7ecc897dbdb704e9a675773c23cbaf7",
+      "title": "Live updates: Bitcoin flatlines near $64,000 ahead of Friday's jobs report",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f4b87b26bed98d9aa51a39f93be6a37581fe30e1-2868x1450.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-06T07:26:23.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/d7ecc897dbdb704e9a675773c23cbaf7.json"
+    },
+    {
+      "id": "0afe0a47a563bb52a7c3ca521cafd344",
+      "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/26b8b4fba46a4ec6068433ab9d7d9a65df76fb6c-3200x1800.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-07T09:24:00.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 30,
+      "path": "articles/0afe0a47a563bb52a7c3ca521cafd344.json"
     },
     {
       "id": "6c3097c35f18d2236c01d9e12218b0ca",

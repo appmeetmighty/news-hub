@@ -1,11 +1,11 @@
 {
-  "id": "52d5494ec333db5ee3269fd887925262",
-  "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
-  "description": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
+  "id": "2cd3582afc7910b091423b636944b401",
+  "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+  "description": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
   "reading_time_minutes": 1,
-  "breaking_score": 15,
-  "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108344489-1785850230003-gettyimages-2286239833-1el01847_nh19zon2.jpeg?v=1785850283&w=1920&h=1080",
+  "breaking_score": 50,
+  "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/106413615-1582815498409img_8994r.jpg?v=1698963731&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,8 +13,15 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-07T16:55:42.000Z",
+  "entities": [
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-07T20:22:17.000Z",
   "related": [
     {
       "id": "ffa3f0d7d2bedfbf90caae3009ec2ed9",
@@ -31,22 +38,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 50,
       "path": "articles/ffa3f0d7d2bedfbf90caae3009ec2ed9.json"
-    },
-    {
-      "id": "2cd3582afc7910b091423b636944b401",
-      "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
-      "image": "https://image.cnbcfm.com/api/v1/image/106413615-1582815498409img_8994r.jpg?v=1698963731&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-07T20:22:17.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 50,
-      "path": "articles/2cd3582afc7910b091423b636944b401.json"
     },
     {
       "id": "9aa262cdb257bce43f142e16e3a596f9",
@@ -95,6 +86,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 30,
       "path": "articles/25d2959e29b6a2494014926e2cd712f6.json"
+    },
+    {
+      "id": "5e0be04d69847eadb582def2e3382164",
+      "title": "The unwind of Situational Awareness isn't the only reason the AI trade is back",
+      "image": "https://image.cnbcfm.com/api/v1/image/108214314-17609846542025-10-20t181828z_76548831_rc2ofhahwau7_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-07T18:51:29.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 45,
+      "path": "articles/5e0be04d69847eadb582def2e3382164.json"
     }
   ]
 }

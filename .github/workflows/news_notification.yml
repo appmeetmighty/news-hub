@@ -5,7 +5,7 @@ on:
 
   workflow_run:
     workflows:
-      - "Update News Hub"
+      - "Update News"
     types:
       - completed
 

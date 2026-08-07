@@ -3,7 +3,10 @@ name: Breaking News Notification
 on:
   push:
     paths:
-      - 'output/home.json'
+      - "output/home.json"
+
+permissions:
+  contents: write
 
 jobs:
   notify:
@@ -13,16 +16,33 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Read Hero Article
+      - name: Read Hero
         id: hero
         run: |
+          HERO_ID=$(jq -r '.articles.hero.id' output/home.json)
           HERO_TITLE=$(jq -r '.articles.hero.title' output/home.json)
           HERO_PATH=$(jq -r '.articles.hero.path' output/home.json)
-          HERO_ID=$(jq -r '.articles.hero.id' output/home.json)
 
+          echo "hero_id=$HERO_ID" >> $GITHUB_OUTPUT
           echo "hero_title=$HERO_TITLE" >> $GITHUB_OUTPUT
           echo "hero_path=$HERO_PATH" >> $GITHUB_OUTPUT
-          echo "hero_id=$HERO_ID" >> $GITHUB_OUTPUT
+
+      - name: Read Previous Hero
+        id: previous
+        run: |
+          if [ -f ".github/hero_id.txt" ]; then
+            PREVIOUS_ID=$(cat .github/hero_id.txt)
+          else
+            PREVIOUS_ID=""
+          fi
+
+          echo "previous_id=$PREVIOUS_ID" >> $GITHUB_OUTPUT
+
+      - name: Stop if Hero is unchanged
+        if: steps.hero.outputs.hero_id == steps.previous.outputs.previous_id
+        run: |
+          echo "Hero article unchanged."
+          exit 0
 
       - name: Send OneSignal Notification
         run: |
@@ -39,3 +59,18 @@ jobs:
               "articlePath":"${{ steps.hero.outputs.hero_path }}"
             }
           }'
+
+      - name: Save New Hero ID
+        run: |
+          echo "${{ steps.hero.outputs.hero_id }}" > .github/hero_id.txt
+
+      - name: Commit Updated Hero ID
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add .github/hero_id.txt
+
+          git diff --cached --quiet || git commit -m "Update hero id"
+
+          git push

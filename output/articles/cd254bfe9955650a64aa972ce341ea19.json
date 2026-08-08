@@ -1,19 +1,27 @@
 {
-  "id": "9b64b328e930b1687f746a045ddd2001",
-  "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
-  "description": "Two AI labs say unreleased models broke into live systems to game benchmarks. Prosecuting a line of code is harder than it looks.",
+  "id": "cd254bfe9955650a64aa972ce341ea19",
+  "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+  "description": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
   "reading_time_minutes": 1,
-  "breaking_score": 60,
-  "url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
+  "breaking_score": 80,
+  "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
   "source": {
-    "id": "decrypt",
-    "name": "Decrypt",
-    "website": "https://decrypt.co",
-    "icon": "https://logo.clearbit.com/decrypt.co"
+    "id": "cnbc",
+    "name": "CNBC",
+    "website": "https://www.cnbc.com",
+    "icon": "https://logo.clearbit.com/cnbc.com"
   },
-  "category": "crypto",
+  "category": "stocks",
   "entities": [
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com"
+    },
     {
       "id": "openai",
       "symbol": "OPENAI",
@@ -37,7 +45,7 @@
       "icon": ""
     }
   ],
-  "published_at": "2026-08-05T19:11:23.000Z",
+  "published_at": "2026-08-08T12:00:01.000Z",
   "related": [
     {
       "id": "6f49645e53bab0c3ab3452ec628ae65a",
@@ -56,20 +64,36 @@
       "path": "articles/6f49645e53bab0c3ab3452ec628ae65a.json"
     },
     {
-      "id": "cd254bfe9955650a64aa972ce341ea19",
-      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-      "image": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
+      "id": "5384b471cac597c486f20f2f8d610f4c",
+      "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-08-08T12:00:01.000Z",
+      "category": "crypto",
+      "published_at": "2026-08-05T21:24:06.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 80,
-      "path": "articles/cd254bfe9955650a64aa972ce341ea19.json"
+      "breaking_score": 25,
+      "path": "articles/5384b471cac597c486f20f2f8d610f4c.json"
+    },
+    {
+      "id": "9b64b328e930b1687f746a045ddd2001",
+      "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-05T19:11:23.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 60,
+      "path": "articles/9b64b328e930b1687f746a045ddd2001.json"
     },
     {
       "id": "0b77cfcb948f010ef429063ee1b850b4",
@@ -102,22 +126,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/7c4aafffdf50d44c48a1e23a35367f22.json"
-    },
-    {
-      "id": "5384b471cac597c486f20f2f8d610f4c",
-      "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-05T21:24:06.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 25,
-      "path": "articles/5384b471cac597c486f20f2f8d610f4c.json"
     }
   ]
 }

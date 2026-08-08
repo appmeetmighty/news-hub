@@ -1,11 +1,142 @@
 {
-  "updated_at": "2026-08-08T12:01:16.623Z",
+  "updated_at": "2026-08-08T12:15:37.240Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 4,
+  "total": 5,
   "articles": [
+    {
+      "id": "cd254bfe9955650a64aa972ce341ea19",
+      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+      "description": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
+      "reading_time_minutes": 1,
+      "breaking_score": 80,
+      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-08T12:00:01.000Z",
+      "related": [
+        {
+          "id": "6f49645e53bab0c3ab3452ec628ae65a",
+          "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-07T12:37:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6f49645e53bab0c3ab3452ec628ae65a.json"
+        },
+        {
+          "id": "5384b471cac597c486f20f2f8d610f4c",
+          "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-05T21:24:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/5384b471cac597c486f20f2f8d610f4c.json"
+        },
+        {
+          "id": "9b64b328e930b1687f746a045ddd2001",
+          "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-05T19:11:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/9b64b328e930b1687f746a045ddd2001.json"
+        },
+        {
+          "id": "0b77cfcb948f010ef429063ee1b850b4",
+          "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-06T18:26:29.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 30,
+          "path": "articles/0b77cfcb948f010ef429063ee1b850b4.json"
+        },
+        {
+          "id": "7c4aafffdf50d44c48a1e23a35367f22",
+          "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-07T16:03:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7c4aafffdf50d44c48a1e23a35367f22.json"
+        }
+      ]
+    },
     {
       "id": "7c4aafffdf50d44c48a1e23a35367f22",
       "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
@@ -82,6 +213,22 @@
           "path": "articles/9b64b328e930b1687f746a045ddd2001.json"
         },
         {
+          "id": "cd254bfe9955650a64aa972ce341ea19",
+          "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-08T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 80,
+          "path": "articles/cd254bfe9955650a64aa972ce341ea19.json"
+        },
+        {
           "id": "b0714d6186d12b78e395b2e347f25087",
           "title": "Putin Signs Russia's First Crypto Law: Trading Is Legal, Payments Stay Banned",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/Putin-gID_7.jpg@png",
@@ -96,22 +243,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b0714d6186d12b78e395b2e347f25087.json"
-        },
-        {
-          "id": "5be6ac1a051d1dd7fdc349a8dfe1b115",
-          "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a6f02ef703e994951b57b8fa5172c8f10bfe45ac-5508x3672.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-08T09:07:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 35,
-          "path": "articles/5be6ac1a051d1dd7fdc349a8dfe1b115.json"
         }
       ]
     },
@@ -167,6 +298,22 @@
           "path": "articles/9b64b328e930b1687f746a045ddd2001.json"
         },
         {
+          "id": "cd254bfe9955650a64aa972ce341ea19",
+          "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-08T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 80,
+          "path": "articles/cd254bfe9955650a64aa972ce341ea19.json"
+        },
+        {
           "id": "7c4aafffdf50d44c48a1e23a35367f22",
           "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
@@ -213,22 +360,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/5384b471cac597c486f20f2f8d610f4c.json"
-        },
-        {
-          "id": "45ee94580bc35ea832112382bf9bf208",
-          "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-07T21:05:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/45ee94580bc35ea832112382bf9bf208.json"
         }
       ]
     },
@@ -282,6 +413,22 @@
           "path": "articles/9b64b328e930b1687f746a045ddd2001.json"
         },
         {
+          "id": "cd254bfe9955650a64aa972ce341ea19",
+          "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-08T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 80,
+          "path": "articles/cd254bfe9955650a64aa972ce341ea19.json"
+        },
+        {
           "id": "7c4aafffdf50d44c48a1e23a35367f22",
           "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
@@ -328,22 +475,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1f658fb4bc1815eb4bb313dd8e1f73d7.json"
-        },
-        {
-          "id": "fd80c093e70e4fbfdffd8157257b628d",
-          "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-aftermath-of-bybit-ftx-consequences-of-cryptos-ongoing-regulatory-process.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-08T04:11:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/fd80c093e70e4fbfdffd8157257b628d.json"
         }
       ]
     },
@@ -405,6 +536,22 @@
           "path": "articles/6f49645e53bab0c3ab3452ec628ae65a.json"
         },
         {
+          "id": "cd254bfe9955650a64aa972ce341ea19",
+          "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-08T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 80,
+          "path": "articles/cd254bfe9955650a64aa972ce341ea19.json"
+        },
+        {
           "id": "0b77cfcb948f010ef429063ee1b850b4",
           "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
@@ -451,22 +598,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/5384b471cac597c486f20f2f8d610f4c.json"
-        },
-        {
-          "id": "d4e7d0279815527831aa59056e9caea7",
-          "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-06T20:31:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/d4e7d0279815527831aa59056e9caea7.json"
         }
       ]
     }

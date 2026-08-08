@@ -39,11 +39,6 @@ module.exports = [
     url: "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"
   },
 
-  {
-    name: "Benzinga",
-    category: "stocks",
-    url: "https://www.benzinga.com/feeds/markets"
-  },
 
 
   // =========================
@@ -56,10 +51,6 @@ module.exports = [
     url: "https://www.sec.gov/news/pressreleases.rss"
   },
 
-  {
-    name: "SEC Litigation Releases",
-    category: "stocks",
-    url: "https://www.sec.gov/news/litigation/litreleases.rss"
-  }
+
 
 ];

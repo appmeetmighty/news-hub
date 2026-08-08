@@ -14,51 +14,88 @@ permissions:
 
 jobs:
   notify:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Read Hero
         id: hero
+        shell: bash
         run: |
-          HERO_ID=$(jq -r '.articles.hero.id' output/home.json)
-          HERO_TITLE=$(jq -r '.articles.hero.title' output/home.json)
-          HERO_PATH=$(jq -r '.articles.hero.path' output/home.json)
-          HERO_IMAGE=$(jq -r '.articles.hero.image' output/home.json)
+          set -e
 
-          echo "hero_id=$HERO_ID" >> $GITHUB_OUTPUT
-          echo "hero_title=$HERO_TITLE" >> $GITHUB_OUTPUT
-          echo "hero_path=$HERO_PATH" >> $GITHUB_OUTPUT
-          echo "hero_image=$HERO_IMAGE" >> $GITHUB_OUTPUT
+          HERO_ID=$(jq -r '.articles.hero.id // empty' output/home.json)
+          HERO_TITLE=$(jq -r '.articles.hero.title // empty' output/home.json)
+          HERO_PATH=$(jq -r '.articles.hero.path // empty' output/home.json)
+          HERO_IMAGE=$(jq -r '.articles.hero.image // empty' output/home.json)
+
+          if [ -z "$HERO_ID" ]; then
+            echo "❌ No hero article found."
+            exit 1
+          fi
+
+          echo "Hero ID: $HERO_ID"
+          echo "Hero Title: $HERO_TITLE"
+
+          echo "hero_id=$HERO_ID" >> "$GITHUB_OUTPUT"
+          echo "hero_title=$HERO_TITLE" >> "$GITHUB_OUTPUT"
+          echo "hero_path=$HERO_PATH" >> "$GITHUB_OUTPUT"
+          echo "hero_image=$HERO_IMAGE" >> "$GITHUB_OUTPUT"
 
       - name: Read Previous Hero
         id: previous
+        shell: bash
         run: |
           if [ -f ".github/hero_id.txt" ]; then
-            PREVIOUS_ID=$(cat .github/hero_id.txt)
+            PREVIOUS_ID=$(tr -d '\r\n' < ".github/hero_id.txt")
           else
             PREVIOUS_ID=""
           fi
 
-          echo "previous_id=$PREVIOUS_ID" >> $GITHUB_OUTPUT
+          echo "Previous Hero ID: ${PREVIOUS_ID:-NONE}"
 
-      - name: Stop if Hero is unchanged
-        if: steps.hero.outputs.hero_id == steps.previous.outputs.previous_id
+          echo "previous_id=$PREVIOUS_ID" >> "$GITHUB_OUTPUT"
+
+      - name: Check For New Article
+        id: check
+        shell: bash
         run: |
-          echo "Hero article unchanged."
-          exit 0
+          CURRENT_ID="${{ steps.hero.outputs.hero_id }}"
+          PREVIOUS_ID="${{ steps.previous.outputs.previous_id }}"
+
+          if [ "$CURRENT_ID" = "$PREVIOUS_ID" ]; then
+            echo "send=false" >> "$GITHUB_OUTPUT"
+            echo "⏭️ Same article already notified."
+            exit 0
+          fi
+
+          echo "send=true" >> "$GITHUB_OUTPUT"
+          echo "🆕 New article detected."
 
       - name: Send OneSignal Notification
+        if: steps.check.outputs.send == 'true'
+        id: notification
+        shell: bash
+        env:
+          ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+          ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY }}
+          HERO_TITLE: ${{ steps.hero.outputs.hero_title }}
+          HERO_IMAGE: ${{ steps.hero.outputs.hero_image }}
+          HERO_PATH: ${{ steps.hero.outputs.hero_path }}
         run: |
+          set -e
+
           jq -n \
-            --arg app_id "${{ secrets.ONESIGNAL_APP_ID }}" \
+            --arg app_id "$ONESIGNAL_APP_ID" \
             --arg title "📰 Breaking News" \
-            --arg body "${{ steps.hero.outputs.hero_title }}" \
-            --arg image "${{ steps.hero.outputs.hero_image }}" \
-            --arg path "${{ steps.hero.outputs.hero_path }}" \
+            --arg body "$HERO_TITLE" \
+            --arg image "$HERO_IMAGE" \
+            --arg path "$HERO_PATH" \
             '{
               app_id: $app_id,
               included_segments: ["All"],
@@ -76,26 +113,56 @@ jobs:
               }
             }' > payload.json
 
-          echo "Payload:"
-          cat payload.json
+          echo "Sending OneSignal notification..."
 
-          curl \
-            -X POST https://api.onesignal.com/notifications \
-            -H "Authorization: Key ${{ secrets.ONESIGNAL_API_KEY }}" \
+          RESPONSE=$(curl \
+            --silent \
+            --show-error \
+            --fail \
+            -X POST \
+            https://api.onesignal.com/notifications \
+            -H "Authorization: Key $ONESIGNAL_API_KEY" \
             -H "Content-Type: application/json" \
-            -d @payload.json
+            -d @payload.json)
+
+          echo "OneSignal response:"
+          echo "$RESPONSE"
+
+          NOTIFICATION_ID=$(echo "$RESPONSE" | jq -r '.id // empty')
+
+          if [ -z "$NOTIFICATION_ID" ]; then
+            echo "❌ OneSignal did not return a notification ID."
+            exit 1
+          fi
+
+          echo "✅ Notification sent."
+          echo "Notification ID: $NOTIFICATION_ID"
 
       - name: Save New Hero ID
+        if: steps.check.outputs.send == 'true' && steps.notification.outcome == 'success'
+        shell: bash
         run: |
           echo "${{ steps.hero.outputs.hero_id }}" > .github/hero_id.txt
 
+          echo "Saved notified Hero ID:"
+          cat .github/hero_id.txt
+
       - name: Commit Updated Hero ID
+        if: steps.check.outputs.send == 'true' && steps.notification.outcome == 'success'
+        shell: bash
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
           git add .github/hero_id.txt
 
-          git diff --cached --quiet || git commit -m "Update hero id"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
-          git push
+          git commit -m "Update notified hero"
+
+          git pull --rebase origin main
+
+          git push origin main

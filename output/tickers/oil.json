@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-09T14:15:36.515Z",
+  "updated_at": "2026-08-09T14:30:48.163Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 3,
+  "total": 2,
   "articles": [
     {
       "id": "9aa262cdb257bce43f142e16e3a596f9",
@@ -48,22 +48,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/485763c05ada5e553cc2c898f7f77769.json"
-        },
-        {
-          "id": "3ccc396fb63a22195edbd1289ee8e271",
-          "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe04e926bda55bbfbc8b9f01ad56bab3df2f426d-2830x1454.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-07T10:36:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3ccc396fb63a22195edbd1289ee8e271.json"
         },
         {
           "id": "620bce785237b96adbca06cd746f5d21",
@@ -112,6 +96,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 35,
           "path": "articles/ac6d67ab5e071eb4b2fc14ac92037872.json"
+        },
+        {
+          "id": "4b0195d4714578759a54fa260023af7e",
+          "title": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
+          "image": "https://image.cnbcfm.com/api/v1/image/108290462-1776090075898-gettyimages-2257538683-img_6685.jpeg?v=1779976895&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-09T12:01:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 55,
+          "path": "articles/4b0195d4714578759a54fa260023af7e.json"
         }
       ]
     },
@@ -159,22 +159,6 @@
           "path": "articles/9aa262cdb257bce43f142e16e3a596f9.json"
         },
         {
-          "id": "3ccc396fb63a22195edbd1289ee8e271",
-          "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe04e926bda55bbfbc8b9f01ad56bab3df2f426d-2830x1454.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-07T10:36:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3ccc396fb63a22195edbd1289ee8e271.json"
-        },
-        {
           "id": "620bce785237b96adbca06cd746f5d21",
           "title": "5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’",
           "image": "https://image.cnbcfm.com/api/v1/image/107226400-1681752543434-gettyimages-1443301982-bethgifty009.jpeg?v=1786134969&w=1920&h=1080",
@@ -221,123 +205,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 35,
           "path": "articles/ac6d67ab5e071eb4b2fc14ac92037872.json"
-        }
-      ]
-    },
-    {
-      "id": "3ccc396fb63a22195edbd1289ee8e271",
-      "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
-      "description": "Brent crude has meanwhile moved to over $83 a barrel after Yemen’s Iran-linked Houthis attacked Saudi Arabia, further escalating tensions in the Middle East.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/markets/2026/08/07/cmt",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe04e926bda55bbfbc8b9f01ad56bab3df2f426d-2830x1454.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
-          "id": "oil",
-          "symbol": "OIL",
-          "name": "Oil",
-          "type": "commodity",
-          "path": "tickers/oil.json",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-08-07T10:36:14.000Z",
-      "related": [
-        {
-          "id": "cb91ef0e709b3aee8b6da13318b1f3d1",
-          "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f224848aaca775da0faa59a78c4901d5e0ae5d09-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "4b0195d4714578759a54fa260023af7e",
+          "title": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
+          "image": "https://image.cnbcfm.com/api/v1/image/108290462-1776090075898-gettyimages-2257538683-img_6685.jpeg?v=1779976895&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-09T05:08:20.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-09T12:01:56.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 10,
-          "path": "articles/cb91ef0e709b3aee8b6da13318b1f3d1.json"
-        },
-        {
-          "id": "122afff20cf2bf6dbea6835dbb42c483",
-          "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/150bd8fd2754dee0949457a7279cad6ca896ec75-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-08T20:06:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/122afff20cf2bf6dbea6835dbb42c483.json"
-        },
-        {
-          "id": "59a5927d5f64fb5b05b06412017298fc",
-          "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/18172463a019e513e643fd2ed9ab0e0806baf68b-1440x810.jpg?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-08T14:00:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/59a5927d5f64fb5b05b06412017298fc.json"
-        },
-        {
-          "id": "763f147f3cd925ff9a0943592769f467",
-          "title": "Bitcoin will never fall below $60K again: Nansen founder",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/alex-svanevik-interview.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-08T13:30:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/763f147f3cd925ff9a0943592769f467.json"
-        },
-        {
-          "id": "d101c56ad7763f68ba5220bd9e334f1b",
-          "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2f6731511c468648ae94fe05f6331efb1318c2f-1500x1071.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-08T07:46:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d101c56ad7763f68ba5220bd9e334f1b.json"
+          "breaking_score": 55,
+          "path": "articles/4b0195d4714578759a54fa260023af7e.json"
         }
       ]
     }

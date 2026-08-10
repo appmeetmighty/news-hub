@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T19:15:45.676Z",
+  "updated_at": "2026-08-10T04:30:49.825Z",
   "id": "sol",
   "symbol": "SOL",
   "name": "Solana",
@@ -7,21 +7,37 @@
   "total": 1,
   "articles": [
     {
-      "id": "cbde024fe89158855ae50981dd395293",
-      "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
-      "description": "Anthropic's LLM and OpenAI's GPT-5.6 Sol took \"unsanctioned action\" on the live internet, the UK's AI Security Institute said.",
+      "id": "1fdb3636621146aa0c88f0545f5356dd",
+      "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
+      "description": "The token fell 5% last week while BTC, ETH and SOL climbed.",
       "reading_time_minutes": 1,
-      "breaking_score": 15,
-      "url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
+      "breaking_score": 50,
+      "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/94d6b058781a0a1c3225d8d2d844d7410eb18794-3000x2001.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
         {
           "id": "sol",
           "symbol": "SOL",
@@ -31,34 +47,26 @@
           "icon": "https://assets.coincap.io/assets/icons/sol@2x.png"
         },
         {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
+          "id": "xrp",
+          "symbol": "XRP",
+          "name": "XRP",
+          "type": "crypto",
+          "path": "tickers/xrp.json",
+          "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
         },
         {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
+          "id": "crypto",
+          "name": "Crypto",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-08-05T12:47:57.000Z",
+      "published_at": "2026-08-10T04:26:01.000Z",
       "related": [
         {
-          "id": "9b64b328e930b1687f746a045ddd2001",
-          "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
+          "id": "9a0e941bbd32d8b33f26a71b0b236387",
+          "title": "XRP, Bitcoin Whales Are Accumulating—Is the Bear Market Nearly Over?",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-05-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -66,74 +74,74 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-05T19:11:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 65,
-          "path": "articles/9b64b328e930b1687f746a045ddd2001.json"
-        },
-        {
-          "id": "6f49645e53bab0c3ab3452ec628ae65a",
-          "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-07T12:37:14.000Z",
+          "published_at": "2026-08-06T18:13:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6f49645e53bab0c3ab3452ec628ae65a.json"
+          "path": "articles/9a0e941bbd32d8b33f26a71b0b236387.json"
         },
         {
-          "id": "5384b471cac597c486f20f2f8d610f4c",
-          "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-gID_7.png@png",
+          "id": "f0a79830228f7ec90dc196e7098f95df",
+          "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e183c12b5e1dbaf0e0175a58c3a9425adb7b3de5-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-05T21:24:06.000Z",
+          "published_at": "2026-08-09T14:19:35.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/5384b471cac597c486f20f2f8d610f4c.json"
+          "breaking_score": 35,
+          "path": "articles/f0a79830228f7ec90dc196e7098f95df.json"
         },
         {
-          "id": "7c4aafffdf50d44c48a1e23a35367f22",
-          "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+          "id": "59a5927d5f64fb5b05b06412017298fc",
+          "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/18172463a019e513e643fd2ed9ab0e0806baf68b-1440x810.jpg?auto=format&q=75",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-07T16:03:06.000Z",
+          "published_at": "2026-08-08T14:00:00.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 15,
-          "path": "articles/7c4aafffdf50d44c48a1e23a35367f22.json"
+          "breaking_score": 0,
+          "path": "articles/59a5927d5f64fb5b05b06412017298fc.json"
         },
         {
-          "id": "0b77cfcb948f010ef429063ee1b850b4",
-          "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "id": "cb91ef0e709b3aee8b6da13318b1f3d1",
+          "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f224848aaca775da0faa59a78c4901d5e0ae5d09-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-06T18:26:29.000Z",
+          "published_at": "2026-08-09T05:08:20.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/0b77cfcb948f010ef429063ee1b850b4.json"
+          "breaking_score": 0,
+          "path": "articles/cb91ef0e709b3aee8b6da13318b1f3d1.json"
+        },
+        {
+          "id": "122afff20cf2bf6dbea6835dbb42c483",
+          "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/150bd8fd2754dee0949457a7279cad6ca896ec75-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-08T20:06:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/122afff20cf2bf6dbea6835dbb42c483.json"
         }
       ]
     }

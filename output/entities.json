@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T21:47:50.944Z",
+  "updated_at": "2026-08-10T22:01:04.106Z",
   "total": 29,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 28
+      "count": 29
     },
     {
       "id": "ai",
@@ -33,6 +33,15 @@
       "count": 10
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 7
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -40,15 +49,6 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 7
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 6
     },
     {
       "id": "mining",
@@ -67,15 +67,6 @@
       "count": 5
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
@@ -86,6 +77,15 @@
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 4
     },

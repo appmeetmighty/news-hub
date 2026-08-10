@@ -1,157 +1,197 @@
 function getBreakingScore(article) {
-  let score = 0;
-
   const title = String(article.title || "").toLowerCase();
   const description = String(article.description || "").toLowerCase();
   const text = `${title} ${description}`;
 
+  let score = 0;
+
   // --------------------------------------------------
-  // 1. Freshness
+  // 1. FRESHNESS
   // --------------------------------------------------
 
-  const publishedTime = new Date(article.published_at).getTime();
+  const published = new Date(article.published_at).getTime();
 
-  if (!Number.isNaN(publishedTime)) {
-    const ageHours =
-      (Date.now() - publishedTime) / (1000 * 60 * 60);
+  if (!Number.isNaN(published)) {
+    const ageHours = Math.max(
+      0,
+      (Date.now() - published) / (1000 * 60 * 60)
+    );
 
-    if (ageHours <= 1) {
-      score += 45;
-    } else if (ageHours <= 3) {
-      score += 35;
-    } else if (ageHours <= 6) {
-      score += 25;
-    } else if (ageHours <= 12) {
-      score += 15;
-    } else if (ageHours <= 24) {
-      score += 5;
-    }
+    if (ageHours <= 1) score += 25;
+    else if (ageHours <= 3) score += 18;
+    else if (ageHours <= 6) score += 10;
+    else if (ageHours <= 12) score += 5;
   }
 
   // --------------------------------------------------
-  // 2. Strong breaking events
+  // 2. TRUE BREAKING EVENTS
   // --------------------------------------------------
 
-  const majorEvents = {
-    "rate cut": 35,
-    "rate hike": 35,
-    "fed decision": 35,
-    "emergency meeting": 35,
+  const critical = [
+    ["hack", 35],
+    ["hacked", 35],
+    ["cyberattack", 35],
+    ["exploit", 35],
+    ["security breach", 35],
 
-    "etf approval": 35,
-    "etf approved": 35,
-    "sec approves": 35,
-    "sec approval": 35,
+    ["bankruptcy", 35],
+    ["bankrupt", 35],
 
-    bankruptcy: 35,
-    bankrupt: 35,
+    ["market crash", 35],
+    ["flash crash", 35],
 
-    acquisition: 30,
-    merger: 30,
+    ["sec approves", 35],
+    ["sec approval", 35],
+    ["sec charges", 35],
+    ["sec lawsuit", 30],
 
-    "cyber attack": 30,
-    cyberattack: 30,
-    hacked: 30,
-    hack: 25,
-    exploit: 25,
-    exploited: 25,
-    breach: 25,
+    ["rate cut", 35],
+    ["rate hike", 35],
+    ["fed decision", 35],
 
-    "market crash": 35,
-    crash: 25,
+    ["etf approval", 35],
 
-    "all-time high": 30,
-    "record high": 25,
+    ["acquisition", 25],
+    ["merger", 25],
 
-    "profit warning": 30,
-    "earnings miss": 25,
+    ["indicted", 30],
+    ["charged", 25],
 
-    indicted: 30,
-    charged: 25,
-    lawsuit: 20
-  };
+    ["emergency", 30],
+    ["halted trading", 35],
+    ["trading halted", 35]
+  ];
 
-  for (const [phrase, points] of Object.entries(majorEvents)) {
+  for (const [phrase, points] of critical) {
     if (text.includes(phrase)) {
       score += points;
-      break;
     }
   }
 
   // --------------------------------------------------
-  // 3. Strong market movement
+  // 3. MAJOR MARKET MOVEMENT
   // --------------------------------------------------
 
-  const marketMovement = {
-    surges: 15,
-    surge: 15,
-    plunges: 15,
-    plunge: 15,
-    rallies: 12,
-    rally: 12,
-    selloff: 15,
-    "sell-off": 15,
-    "shares rise": 12,
-    "shares fall": 12,
-    "stock rises": 12,
-    "stock falls": 12,
-    "stocks rise": 12,
-    "stocks fall": 12
-  };
+  const marketMoving = [
+    ["record high", 20],
+    ["all-time high", 20],
+    ["all time high", 20],
 
-  for (const [phrase, points] of Object.entries(marketMovement)) {
+    ["plunges", 15],
+    ["plunge", 15],
+    ["crashes", 15],
+    ["crash", 15],
+
+    ["surges", 12],
+    ["surge", 12],
+
+    ["selloff", 12],
+    ["sell-off", 12],
+
+    ["shares fall", 10],
+    ["shares rise", 10],
+    ["stocks fall", 10],
+    ["stocks rise", 10],
+
+    ["bitcoin drops", 15],
+    ["bitcoin rises", 10],
+    ["bitcoin surges", 15],
+    ["bitcoin plunges", 20],
+
+    ["ethereum drops", 15],
+    ["ethereum surges", 15],
+    ["ethereum plunges", 20]
+  ];
+
+  for (const [phrase, points] of marketMoving) {
     if (text.includes(phrase)) {
       score += points;
-      break;
     }
   }
 
   // --------------------------------------------------
-  // 4. Explicit breaking language
+  // 4. EXPLICIT BREAKING LANGUAGE
   // --------------------------------------------------
 
-  const breakingWords = {
-    breaking: 20,
-    "just in": 20,
-    urgent: 20,
-    alert: 15,
-    "developing story": 15
-  };
+  const breakingLanguage = [
+    ["breaking:", 30],
+    ["breaking news", 30],
+    ["just in:", 25],
+    ["just in ", 25],
+    ["urgent:", 25],
+    ["developing:", 20],
+    ["breaking", 20]
+  ];
 
-  for (const [phrase, points] of Object.entries(breakingWords)) {
+  for (const [phrase, points] of breakingLanguage) {
     if (text.includes(phrase)) {
       score += points;
-      break;
     }
   }
 
   // --------------------------------------------------
-  // 5. Important financial language
+  // 5. IMPORTANT EVENTS
   // --------------------------------------------------
 
-  const financialWords = {
-    approval: 10,
-    approved: 10,
-    guidance: 10,
-    forecast: 8,
-    outlook: 8,
-    earnings: 8,
-    "record revenue": 10,
-    "record profit": 10
-  };
+  const important = [
+    ["approval", 10],
+    ["approved", 10],
+    ["lawsuit", 10],
+    ["earnings", 10],
+    ["ipo", 10],
+    ["profit warning", 15],
+    ["guidance", 8],
+    ["recall", 10]
+  ];
 
-  for (const [phrase, points] of Object.entries(financialWords)) {
+  for (const [phrase, points] of important) {
     if (text.includes(phrase)) {
       score += points;
-      break;
     }
   }
 
   // --------------------------------------------------
-  // 6. Final score
+  // 6. PENALIZE ANALYSIS / OPINION / EDUCATIONAL CONTENT
   // --------------------------------------------------
 
-  return Math.min(Math.round(score), 100);
+  const analysisWords = [
+    "will look like",
+    "what is",
+    "what are",
+    "how to",
+    "explained",
+    "explainer",
+    "analysis",
+    "opinion",
+    "why",
+    "could",
+    "might",
+    "probably",
+    "proposal",
+    "proposed",
+    "interview",
+    "prediction",
+    "forecast",
+    "guide",
+    "here's what happened",
+    "what happened"
+  ];
+
+  for (const phrase of analysisWords) {
+    if (title.includes(phrase)) {
+      score -= 25;
+    } else if (text.includes(phrase)) {
+      score -= 10;
+    }
+  }
+
+  // --------------------------------------------------
+  // 7. HARD CAP
+  // --------------------------------------------------
+
+  score = Math.max(0, Math.min(Math.round(score), 100));
+
+  return score;
 }
 
 module.exports = getBreakingScore;

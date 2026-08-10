@@ -1,31 +1,14 @@
 function getBreakingScore(article) {
-  const title = String(article.title || "").toLowerCase();
-  const description = String(article.description || "").toLowerCase();
+  const title = String(article.title || "").toLowerCase().trim();
+  const description = String(article.description || "").toLowerCase().trim();
+
   const text = `${title} ${description}`;
 
   let score = 0;
 
-  // --------------------------------------------------
-  // FRESHNESS
-  // --------------------------------------------------
-
-  const published = new Date(article.published_at).getTime();
-
-  if (!Number.isNaN(published)) {
-    const ageHours = Math.max(
-      0,
-      (Date.now() - published) / (1000 * 60 * 60)
-    );
-
-    if (ageHours <= 1) score += 25;
-    else if (ageHours <= 3) score += 18;
-    else if (ageHours <= 6) score += 10;
-    else if (ageHours <= 12) score += 5;
-  }
-
-  // --------------------------------------------------
+  // ==================================================
   // CRITICAL EVENTS
-  // --------------------------------------------------
+  // ==================================================
 
   const critical = [
     ["hack", 35],
@@ -67,9 +50,9 @@ function getBreakingScore(article) {
     }
   }
 
-  // --------------------------------------------------
+  // ==================================================
   // REGULATORY / GOVERNMENT ACTION
-  // --------------------------------------------------
+  // ==================================================
 
   const regulatory = [
     ["orders", 25],
@@ -108,9 +91,9 @@ function getBreakingScore(article) {
     }
   }
 
-  // --------------------------------------------------
+  // ==================================================
   // MAJOR MARKET MOVEMENT
-  // --------------------------------------------------
+  // ==================================================
 
   const marketMoving = [
     ["record high", 20],
@@ -149,9 +132,9 @@ function getBreakingScore(article) {
     }
   }
 
-  // --------------------------------------------------
+  // ==================================================
   // EXPLICIT BREAKING LANGUAGE
-  // --------------------------------------------------
+  // ==================================================
 
   const breakingLanguage = [
     ["breaking:", 30],
@@ -162,14 +145,14 @@ function getBreakingScore(article) {
   ];
 
   for (const [phrase, points] of breakingLanguage) {
-    if (text.includes(phrase)) {
+    if (title.includes(phrase)) {
       score += points;
     }
   }
 
-  // --------------------------------------------------
+  // ==================================================
   // IMPORTANT EVENTS
-  // --------------------------------------------------
+  // ==================================================
 
   const important = [
     ["approval", 10],
@@ -187,9 +170,9 @@ function getBreakingScore(article) {
     }
   }
 
-  // --------------------------------------------------
+  // ==================================================
   // ANALYSIS / SPECULATION PENALTY
-  // --------------------------------------------------
+  // ==================================================
 
   const analysisWords = [
     "will look like",
@@ -221,10 +204,6 @@ function getBreakingScore(article) {
       score -= 10;
     }
   }
-
-  // --------------------------------------------------
-  // FINAL
-  // --------------------------------------------------
 
   return Math.max(0, Math.min(Math.round(score), 100));
 }

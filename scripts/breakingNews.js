@@ -6,7 +6,7 @@ function getBreakingScore(article) {
   let score = 0;
 
   // --------------------------------------------------
-  // 1. FRESHNESS
+  // FRESHNESS
   // --------------------------------------------------
 
   const published = new Date(article.published_at).getTime();
@@ -24,21 +24,24 @@ function getBreakingScore(article) {
   }
 
   // --------------------------------------------------
-  // 2. TRUE BREAKING EVENTS
+  // CRITICAL EVENTS
   // --------------------------------------------------
 
   const critical = [
     ["hack", 35],
     ["hacked", 35],
     ["cyberattack", 35],
-    ["exploit", 35],
     ["security breach", 35],
+    ["exploit", 35],
 
     ["bankruptcy", 35],
     ["bankrupt", 35],
 
     ["market crash", 35],
     ["flash crash", 35],
+
+    ["trading halted", 35],
+    ["halted trading", 35],
 
     ["sec approves", 35],
     ["sec approval", 35],
@@ -48,18 +51,14 @@ function getBreakingScore(article) {
     ["rate cut", 35],
     ["rate hike", 35],
     ["fed decision", 35],
+    ["federal reserve decision", 35],
 
     ["etf approval", 35],
-
-    ["acquisition", 25],
-    ["merger", 25],
 
     ["indicted", 30],
     ["charged", 25],
 
-    ["emergency", 30],
-    ["halted trading", 35],
-    ["trading halted", 35]
+    ["emergency", 30]
   ];
 
   for (const [phrase, points] of critical) {
@@ -69,7 +68,48 @@ function getBreakingScore(article) {
   }
 
   // --------------------------------------------------
-  // 3. MAJOR MARKET MOVEMENT
+  // REGULATORY / GOVERNMENT ACTION
+  // --------------------------------------------------
+
+  const regulatory = [
+    ["orders", 25],
+    ["ordered", 25],
+    ["bans", 25],
+    ["banned", 25],
+    ["prohibits", 25],
+    ["prohibited", 25],
+
+    ["senate vote", 25],
+    ["senate votes", 25],
+    ["senate passed", 30],
+    ["senate passes", 30],
+
+    ["house vote", 20],
+    ["house passed", 25],
+    ["house passes", 25],
+
+    ["bill passes", 30],
+    ["bill passed", 30],
+
+    ["regulator approves", 30],
+    ["regulator approved", 30],
+
+    ["new rules", 20],
+    ["new regulation", 20],
+    ["regulation takes effect", 25],
+
+    ["lawsuit filed", 25],
+    ["sued", 25]
+  ];
+
+  for (const [phrase, points] of regulatory) {
+    if (text.includes(phrase)) {
+      score += points;
+    }
+  }
+
+  // --------------------------------------------------
+  // MAJOR MARKET MOVEMENT
   // --------------------------------------------------
 
   const marketMoving = [
@@ -110,17 +150,15 @@ function getBreakingScore(article) {
   }
 
   // --------------------------------------------------
-  // 4. EXPLICIT BREAKING LANGUAGE
+  // EXPLICIT BREAKING LANGUAGE
   // --------------------------------------------------
 
   const breakingLanguage = [
     ["breaking:", 30],
     ["breaking news", 30],
     ["just in:", 25],
-    ["just in ", 25],
     ["urgent:", 25],
-    ["developing:", 20],
-    ["breaking", 20]
+    ["developing:", 20]
   ];
 
   for (const [phrase, points] of breakingLanguage) {
@@ -130,7 +168,7 @@ function getBreakingScore(article) {
   }
 
   // --------------------------------------------------
-  // 5. IMPORTANT EVENTS
+  // IMPORTANT EVENTS
   // --------------------------------------------------
 
   const important = [
@@ -140,7 +178,6 @@ function getBreakingScore(article) {
     ["earnings", 10],
     ["ipo", 10],
     ["profit warning", 15],
-    ["guidance", 8],
     ["recall", 10]
   ];
 
@@ -151,7 +188,7 @@ function getBreakingScore(article) {
   }
 
   // --------------------------------------------------
-  // 6. PENALIZE ANALYSIS / OPINION / EDUCATIONAL CONTENT
+  // ANALYSIS / SPECULATION PENALTY
   // --------------------------------------------------
 
   const analysisWords = [
@@ -186,12 +223,10 @@ function getBreakingScore(article) {
   }
 
   // --------------------------------------------------
-  // 7. HARD CAP
+  // FINAL
   // --------------------------------------------------
 
-  score = Math.max(0, Math.min(Math.round(score), 100));
-
-  return score;
+  return Math.max(0, Math.min(Math.round(score), 100));
 }
 
 module.exports = getBreakingScore;

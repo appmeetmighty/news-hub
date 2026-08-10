@@ -1,5 +1,7 @@
 function getBreakingScore(article) {
-  let score = 0;
+  const text =
+    `${article.title || ""} ${article.description || ""}`
+      .toLowerCase();
 
   // =======================================
   // SOURCE RELIABILITY
@@ -9,25 +11,20 @@ function getBreakingScore(article) {
     article.source?.id ||
     "";
 
-  const sourceName =
-    article.source?.name ||
-    "";
-
-  const sourceText =
-    `${sourceId} ${sourceName}`.toLowerCase();
-
   const sourceScores = {
-    sec: 25,
-    cnbc: 22,
-    marketwatch: 20,
-    coindesk: 20,
-    cointelegraph: 18,
-    decrypt: 16
+    sec: 15,
+    cnbc: 12,
+    marketwatch: 10,
+    coindesk: 10,
+    cointelegraph: 8,
+    decrypt: 6
   };
 
+  let sourceScore = 0;
+
   for (const [source, points] of Object.entries(sourceScores)) {
-    if (sourceText.includes(source)) {
-      score += points;
+    if (sourceId.toLowerCase().includes(source)) {
+      sourceScore = points;
       break;
     }
   }
@@ -35,6 +32,8 @@ function getBreakingScore(article) {
   // =======================================
   // FRESHNESS
   // =======================================
+
+  let freshnessScore = 0;
 
   const publishedTime =
     new Date(article.published_at).getTime();
@@ -45,95 +44,76 @@ function getBreakingScore(article) {
       (1000 * 60 * 60);
 
     if (hours <= 1) {
-      score += 50;
+      freshnessScore = 30;
     } else if (hours <= 3) {
-      score += 35;
+      freshnessScore = 22;
     } else if (hours <= 6) {
-      score += 20;
+      freshnessScore = 15;
     } else if (hours <= 12) {
-      score += 10;
+      freshnessScore = 8;
     }
   }
 
   // =======================================
-  // ARTICLE TEXT
+  // MAJOR EVENTS
   // =======================================
 
-  const text =
-    `${article.title || ""} ${article.description || ""}`
-      .toLowerCase();
-
-  // =======================================
-  // MAJOR FINANCIAL EVENTS
-  // =======================================
-
-  const highImpact = {
+  const majorEvents = {
     "rate cut": 35,
     "rate hike": 35,
-    "interest rate": 30,
-    "federal reserve": 30,
     "fed decision": 35,
+    "federal reserve": 25,
+    "interest rate": 20,
     "fomc": 30,
 
     "sec approves": 35,
     "sec approval": 35,
     "sec charges": 30,
-    "sec lawsuit": 30,
     "sec enforcement": 30,
 
     "etf approval": 35,
-    "bitcoin etf": 30,
-    "ethereum etf": 30,
-    "spot etf": 30,
+    "bitcoin etf": 25,
+    "ethereum etf": 25,
+    "spot etf": 25,
 
     "bankruptcy": 35,
     "bankrupt": 35,
 
-    "acquisition": 30,
-    "merger": 30,
+    "acquisition": 25,
+    "merger": 25,
 
-    "ipo": 25,
+    "ipo": 20,
 
-    "earnings": 20,
-    "quarterly results": 20,
+    "earnings": 15,
     "earnings report": 20,
 
-    "guidance": 20,
-    "profit warning": 30,
+    "profit warning": 25,
 
-    "hack": 30,
-    "hacked": 30,
     "cyberattack": 30,
+    "security breach": 25,
 
-    "lawsuit": 20,
-    "indicted": 30,
-    "charged": 25,
-
-    "approval": 20,
-    "approved": 20,
+    "lawsuit": 15,
+    "indicted": 25,
 
     "recall": 20,
 
-    "crash": 25,
     "market crash": 35,
+    "crash": 20,
 
-    "record high": 25,
-    "all-time high": 30,
-
-    "plunges": 20,
-    "plunge": 20,
-    "surges": 20,
-    "surge": 20
+    "record high": 20,
+    "all-time high": 25
   };
 
-  for (const [phrase, points] of Object.entries(highImpact)) {
+  let eventScore = 0;
+
+  for (const [phrase, points] of Object.entries(majorEvents)) {
     if (text.includes(phrase)) {
-      score += points;
+      eventScore += points;
     }
   }
 
   // =======================================
-  // US ECONOMIC EVENTS
+  // IMPORTANT US ECONOMIC EVENTS
   // =======================================
 
   const economicEvents = {
@@ -141,78 +121,92 @@ function getBreakingScore(article) {
     "nonfarm payroll": 30,
     "unemployment rate": 25,
     "consumer price index": 30,
-    "cpi": 25,
     "producer price index": 25,
-    "ppi": 20,
-    "gross domestic product": 25,
+    "inflation data": 25,
     "gdp": 20,
-    "inflation": 20,
-    "treasury": 15,
-    "tariff": 20,
+    "gross domestic product": 25,
     "tariffs": 20,
     "sanctions": 20
   };
 
+  let economicScore = 0;
+
   for (const [phrase, points] of Object.entries(economicEvents)) {
     if (text.includes(phrase)) {
-      score += points;
+      economicScore += points;
     }
   }
 
   // =======================================
-  // BREAKING LANGUAGE
+  // EXPLICIT BREAKING LANGUAGE
   // =======================================
 
   const breakingWords = {
+    "breaking news": 35,
     breaking: 25,
     urgent: 25,
     alert: 20,
     "just in": 20,
-    "developing story": 20,
-    "breaking news": 30
+    "developing story": 20
   };
 
-  for (const [word, points] of Object.entries(breakingWords)) {
-    if (text.includes(word)) {
-      score += points;
+  let breakingLanguageScore = 0;
+
+  for (const [phrase, points] of Object.entries(breakingWords)) {
+    if (text.includes(phrase)) {
+      breakingLanguageScore += points;
     }
   }
 
   // =======================================
-  // MARKET MOVING LANGUAGE
+  // MARKET MOVEMENT
   // =======================================
 
   const marketWords = {
-    "shares rise": 10,
-    "shares fall": 10,
-    "stock rises": 10,
-    "stock falls": 10,
-    "stocks rise": 10,
-    "stocks fall": 10,
-
-    "rally": 10,
+    "plunges": 15,
+    "plunge": 15,
+    "surges": 15,
+    "surge": 15,
     "selloff": 15,
     "sell-off": 15,
-
-    "record": 5,
-    "forecast": 10,
-    "outlook": 10,
-
+    "rally": 10,
     "beats estimates": 15,
     "misses estimates": 15,
     "beats expectations": 15,
-    "misses expectations": 15
+    "misses expectations": 15,
+    "record": 5,
+    "forecast": 5,
+    "outlook": 5
   };
 
-  for (const [word, points] of Object.entries(marketWords)) {
-    if (text.includes(word)) {
-      score += points;
+  let marketScore = 0;
+
+  for (const [phrase, points] of Object.entries(marketWords)) {
+    if (text.includes(phrase)) {
+      marketScore += points;
     }
   }
+
+  // =======================================
+  // PREVENT ONE CATEGORY FROM DOMINATING
+  // =======================================
+
+  eventScore = Math.min(eventScore, 45);
+  economicScore = Math.min(economicScore, 35);
+  breakingLanguageScore = Math.min(breakingLanguageScore, 35);
+  marketScore = Math.min(marketScore, 25);
 
   // =======================================
   // FINAL SCORE
   // =======================================
+
+  const score =
+    freshnessScore +
+    sourceScore +
+    eventScore +
+    economicScore +
+    breakingLanguageScore +
+    marketScore;
 
   return Math.min(Math.round(score), 100);
 }

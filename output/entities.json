@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T16:15:42.596Z",
+  "updated_at": "2026-08-10T16:29:53.125Z",
   "total": 29,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 36
+      "count": 37
     },
     {
       "id": "crypto",
@@ -67,20 +67,29 @@
       "count": 5
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 5
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
       "icon": "",
-      "count": 5
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 5
+      "count": 4
     },
     {
       "id": "etf",
@@ -122,15 +131,6 @@
       "count": 4
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -149,21 +149,19 @@
       "count": 3
     },
     {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "blk",
       "symbol": "BLK",
       "name": "BlackRock",
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 2
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
-      "icon": "",
       "count": 2
     },
     {
@@ -174,6 +172,15 @@
       "path": "tickers/bnb.json",
       "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
       "count": 2
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "intc",
@@ -226,13 +233,6 @@
       "name": "Mastercard",
       "type": "company",
       "path": "tickers/ma.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
       "icon": "",
       "count": 1
     },

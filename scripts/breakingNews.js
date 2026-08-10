@@ -1,11 +1,43 @@
 function getBreakingScore(article) {
   let score = 0;
 
-  const publishedTime = new Date(article.published_at).getTime();
+  // =======================================
+  // SOURCE RELIABILITY
+  // =======================================
 
-  // ---------------------------------------
-  // Freshness
-  // ---------------------------------------
+  const sourceId =
+    article.source?.id ||
+    "";
+
+  const sourceName =
+    article.source?.name ||
+    "";
+
+  const sourceText =
+    `${sourceId} ${sourceName}`.toLowerCase();
+
+  const sourceScores = {
+    sec: 25,
+    cnbc: 22,
+    marketwatch: 20,
+    coindesk: 20,
+    cointelegraph: 18,
+    decrypt: 16
+  };
+
+  for (const [source, points] of Object.entries(sourceScores)) {
+    if (sourceText.includes(source)) {
+      score += points;
+      break;
+    }
+  }
+
+  // =======================================
+  // FRESHNESS
+  // =======================================
+
+  const publishedTime =
+    new Date(article.published_at).getTime();
 
   if (!Number.isNaN(publishedTime)) {
     const hours =
@@ -23,12 +55,17 @@ function getBreakingScore(article) {
     }
   }
 
-  const text =
-    `${article.title || ""} ${article.description || ""}`.toLowerCase();
+  // =======================================
+  // ARTICLE TEXT
+  // =======================================
 
-  // ---------------------------------------
-  // Major financial events
-  // ---------------------------------------
+  const text =
+    `${article.title || ""} ${article.description || ""}`
+      .toLowerCase();
+
+  // =======================================
+  // MAJOR FINANCIAL EVENTS
+  // =======================================
 
   const highImpact = {
     "rate cut": 35,
@@ -36,15 +73,18 @@ function getBreakingScore(article) {
     "interest rate": 30,
     "federal reserve": 30,
     "fed decision": 35,
+    "fomc": 30,
 
     "sec approves": 35,
     "sec approval": 35,
     "sec charges": 30,
     "sec lawsuit": 30,
+    "sec enforcement": 30,
 
     "etf approval": 35,
     "bitcoin etf": 30,
     "ethereum etf": 30,
+    "spot etf": 30,
 
     "bankruptcy": 35,
     "bankrupt": 35,
@@ -56,6 +96,7 @@ function getBreakingScore(article) {
 
     "earnings": 20,
     "quarterly results": 20,
+    "earnings report": 20,
 
     "guidance": 20,
     "profit warning": 30,
@@ -91,16 +132,44 @@ function getBreakingScore(article) {
     }
   }
 
-  // ---------------------------------------
-  // Breaking language
-  // ---------------------------------------
+  // =======================================
+  // US ECONOMIC EVENTS
+  // =======================================
+
+  const economicEvents = {
+    "jobs report": 30,
+    "nonfarm payroll": 30,
+    "unemployment rate": 25,
+    "consumer price index": 30,
+    "cpi": 25,
+    "producer price index": 25,
+    "ppi": 20,
+    "gross domestic product": 25,
+    "gdp": 20,
+    "inflation": 20,
+    "treasury": 15,
+    "tariff": 20,
+    "tariffs": 20,
+    "sanctions": 20
+  };
+
+  for (const [phrase, points] of Object.entries(economicEvents)) {
+    if (text.includes(phrase)) {
+      score += points;
+    }
+  }
+
+  // =======================================
+  // BREAKING LANGUAGE
+  // =======================================
 
   const breakingWords = {
     breaking: 25,
     urgent: 25,
     alert: 20,
     "just in": 20,
-    "developing story": 20
+    "developing story": 20,
+    "breaking news": 30
   };
 
   for (const [word, points] of Object.entries(breakingWords)) {
@@ -109,9 +178,9 @@ function getBreakingScore(article) {
     }
   }
 
-  // ---------------------------------------
-  // Market-moving language
-  // ---------------------------------------
+  // =======================================
+  // MARKET MOVING LANGUAGE
+  // =======================================
 
   const marketWords = {
     "shares rise": 10,
@@ -127,7 +196,12 @@ function getBreakingScore(article) {
 
     "record": 5,
     "forecast": 10,
-    "outlook": 10
+    "outlook": 10,
+
+    "beats estimates": 15,
+    "misses estimates": 15,
+    "beats expectations": 15,
+    "misses expectations": 15
   };
 
   for (const [word, points] of Object.entries(marketWords)) {
@@ -136,9 +210,9 @@ function getBreakingScore(article) {
     }
   }
 
-  // ---------------------------------------
-  // Final score
-  // ---------------------------------------
+  // =======================================
+  // FINAL SCORE
+  // =======================================
 
   return Math.min(Math.round(score), 100);
 }

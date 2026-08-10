@@ -1,11 +1,11 @@
 {
-  "id": "d101c56ad7763f68ba5220bd9e334f1b",
-  "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-  "description": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
+  "id": "75519b533d863d2c0f3c7cde44010d48",
+  "title": "Bitcoin tops $65,000 with US inflation data due this week",
+  "description": "Every major except XRP is green on the week, with BTC, ether and BNB each up nearly 3% as global stocks trade near a record.",
   "reading_time_minutes": 1,
-  "breaking_score": 10,
-  "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-  "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2f6731511c468648ae94fe05f6331efb1318c2f-1500x1071.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+  "breaking_score": 70,
+  "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd01b66b66df0443b467b0ff748fed12359bdc67-5472x3078.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
   "source": {
     "id": "coindesk",
     "name": "CoinDesk",
@@ -21,30 +21,30 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-    }
-  ],
-  "published_at": "2026-08-08T07:46:04.000Z",
-  "related": [
-    {
-      "id": "122afff20cf2bf6dbea6835dbb42c483",
-      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/150bd8fd2754dee0949457a7279cad6ca896ec75-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-08T20:06:47.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 10,
-      "path": "articles/122afff20cf2bf6dbea6835dbb42c483.json"
     },
     {
-      "id": "75519b533d863d2c0f3c7cde44010d48",
-      "title": "Bitcoin tops $65,000 with US inflation data due this week",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd01b66b66df0443b467b0ff748fed12359bdc67-5472x3078.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
+    },
+    {
+      "id": "bnb",
+      "symbol": "BNB",
+      "name": "BNB",
+      "type": "crypto",
+      "path": "tickers/bnb.json",
+      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png"
+    }
+  ],
+  "published_at": "2026-08-10T04:39:37.000Z",
+  "related": [
+    {
+      "id": "1fdb3636621146aa0c88f0545f5356dd",
+      "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/94d6b058781a0a1c3225d8d2d844d7410eb18794-3000x2001.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -52,10 +52,26 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-10T04:39:37.000Z",
+      "published_at": "2026-08-10T04:26:01.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 70,
-      "path": "articles/75519b533d863d2c0f3c7cde44010d48.json"
+      "breaking_score": 40,
+      "path": "articles/1fdb3636621146aa0c88f0545f5356dd.json"
+    },
+    {
+      "id": "9a0e941bbd32d8b33f26a71b0b236387",
+      "title": "XRP, Bitcoin Whales Are Accumulating—Is the Bear Market Nearly Over?",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-05-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-06T18:13:40.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 6,
+      "path": "articles/9a0e941bbd32d8b33f26a71b0b236387.json"
     },
     {
       "id": "f0a79830228f7ec90dc196e7098f95df",
@@ -90,9 +106,9 @@
       "path": "articles/cb91ef0e709b3aee8b6da13318b1f3d1.json"
     },
     {
-      "id": "59a5927d5f64fb5b05b06412017298fc",
-      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/18172463a019e513e643fd2ed9ab0e0806baf68b-1440x810.jpg?auto=format&q=75",
+      "id": "122afff20cf2bf6dbea6835dbb42c483",
+      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/150bd8fd2754dee0949457a7279cad6ca896ec75-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -100,10 +116,10 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-08T14:00:00.000Z",
+      "published_at": "2026-08-08T20:06:47.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 10,
-      "path": "articles/59a5927d5f64fb5b05b06412017298fc.json"
+      "path": "articles/122afff20cf2bf6dbea6835dbb42c483.json"
     }
   ]
 }

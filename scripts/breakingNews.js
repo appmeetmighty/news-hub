@@ -1,47 +1,78 @@
 function getBreakingScore(article) {
   const title = String(article.title || "").toLowerCase().trim();
   const description = String(article.description || "").toLowerCase().trim();
-
   const text = `${title} ${description}`;
 
   let score = 0;
 
-  // ==================================================
-  // CRITICAL EVENTS
-  // ==================================================
+  // --------------------------------------------------
+  // 1. FRESHNESS
+  // --------------------------------------------------
+
+  const published = new Date(article.published_at).getTime();
+
+  if (!Number.isNaN(published)) {
+    const ageHours = Math.max(
+      0,
+      (Date.now() - published) / (1000 * 60 * 60)
+    );
+
+    if (ageHours <= 1) score += 20;
+    else if (ageHours <= 3) score += 14;
+    else if (ageHours <= 6) score += 8;
+    else if (ageHours <= 12) score += 3;
+  }
+
+  // --------------------------------------------------
+  // 2. TRUE BREAKING / CRITICAL EVENTS
+  // --------------------------------------------------
 
   const critical = [
-    ["hack", 35],
-    ["hacked", 35],
-    ["cyberattack", 35],
-    ["security breach", 35],
-    ["exploit", 35],
+    ["breaking:", 80],
+    ["breaking news", 80],
+    ["just in:", 70],
 
-    ["bankruptcy", 35],
-    ["bankrupt", 35],
+    ["hack", 60],
+    ["hacked", 60],
+    ["cyberattack", 60],
+    ["security breach", 60],
+    ["exploit", 60],
 
-    ["market crash", 35],
-    ["flash crash", 35],
+    ["bankruptcy", 60],
+    ["bankrupt", 60],
 
-    ["trading halted", 35],
-    ["halted trading", 35],
+    ["market crash", 60],
+    ["flash crash", 60],
 
-    ["sec approves", 35],
-    ["sec approval", 35],
-    ["sec charges", 35],
-    ["sec lawsuit", 30],
+    ["trading halted", 60],
+    ["halted trading", 60],
 
-    ["rate cut", 35],
-    ["rate hike", 35],
-    ["fed decision", 35],
-    ["federal reserve decision", 35],
+    ["emergency", 55],
 
-    ["etf approval", 35],
+    ["indicted", 50],
+    ["arrested", 50],
+    ["charged", 45],
 
-    ["indicted", 30],
-    ["charged", 25],
+    ["sec approves", 55],
+    ["sec approval", 55],
 
-    ["emergency", 30]
+    ["etf approved", 55],
+    ["etf approval", 55],
+
+    ["rate cut", 55],
+    ["rate hike", 55],
+
+    ["fed decision", 55],
+    ["federal reserve decision", 55],
+
+    ["senate passes", 50],
+    ["senate passed", 50],
+
+    ["house passes", 50],
+    ["house passed", 50],
+
+    ["bill passes", 50],
+    ["bill passed", 50]
   ];
 
   for (const [phrase, points] of critical) {
@@ -50,39 +81,30 @@ function getBreakingScore(article) {
     }
   }
 
-  // ==================================================
-  // REGULATORY / GOVERNMENT ACTION
-  // ==================================================
+  // --------------------------------------------------
+  // 3. MAJOR GOVERNMENT / REGULATORY ACTION
+  // --------------------------------------------------
 
   const regulatory = [
     ["orders", 25],
     ["ordered", 25],
+
     ["bans", 25],
     ["banned", 25],
+
     ["prohibits", 25],
     ["prohibited", 25],
 
-    ["senate vote", 25],
-    ["senate votes", 25],
-    ["senate passed", 30],
-    ["senate passes", 30],
-
-    ["house vote", 20],
-    ["house passed", 25],
-    ["house passes", 25],
-
-    ["bill passes", 30],
-    ["bill passed", 30],
+    ["lawsuit filed", 25],
+    ["sued", 25],
 
     ["regulator approves", 30],
     ["regulator approved", 30],
 
-    ["new rules", 20],
     ["new regulation", 20],
-    ["regulation takes effect", 25],
+    ["new rules", 20],
 
-    ["lawsuit filed", 25],
-    ["sued", 25]
+    ["regulation takes effect", 25]
   ];
 
   for (const [phrase, points] of regulatory) {
@@ -91,39 +113,47 @@ function getBreakingScore(article) {
     }
   }
 
-  // ==================================================
-  // MAJOR MARKET MOVEMENT
-  // ==================================================
+  // --------------------------------------------------
+  // 4. MAJOR MARKET MOVEMENT
+  // --------------------------------------------------
 
   const marketMoving = [
-    ["record high", 20],
-    ["all-time high", 20],
-    ["all time high", 20],
+    ["all-time high", 30],
+    ["all time high", 30],
+    ["record high", 30],
 
-    ["plunges", 15],
-    ["plunge", 15],
-    ["crashes", 15],
-    ["crash", 15],
+    ["plunges", 25],
+    ["plunge", 25],
 
-    ["surges", 12],
-    ["surge", 12],
+    ["crashes", 25],
+    ["crash", 25],
 
-    ["selloff", 12],
-    ["sell-off", 12],
+    ["surges", 20],
+    ["surge", 20],
 
-    ["shares fall", 10],
-    ["shares rise", 10],
-    ["stocks fall", 10],
-    ["stocks rise", 10],
+    ["soars", 20],
+    ["soar", 20],
 
-    ["bitcoin drops", 15],
-    ["bitcoin rises", 10],
-    ["bitcoin surges", 15],
-    ["bitcoin plunges", 20],
+    ["collapses", 25],
+    ["collapse", 25],
 
-    ["ethereum drops", 15],
-    ["ethereum surges", 15],
-    ["ethereum plunges", 20]
+    ["selloff", 20],
+    ["sell-off", 20],
+
+    ["shares fall", 20],
+    ["shares rise", 20],
+
+    ["stocks fall", 20],
+    ["stocks rise", 20],
+
+    ["bitcoin drops", 25],
+    ["bitcoin rises", 20],
+    ["bitcoin surges", 25],
+    ["bitcoin plunges", 30],
+
+    ["ethereum drops", 25],
+    ["ethereum surges", 25],
+    ["ethereum plunges", 30]
   ];
 
   for (const [phrase, points] of marketMoving) {
@@ -132,47 +162,9 @@ function getBreakingScore(article) {
     }
   }
 
-  // ==================================================
-  // EXPLICIT BREAKING LANGUAGE
-  // ==================================================
-
-  const breakingLanguage = [
-    ["breaking:", 30],
-    ["breaking news", 30],
-    ["just in:", 25],
-    ["urgent:", 25],
-    ["developing:", 20]
-  ];
-
-  for (const [phrase, points] of breakingLanguage) {
-    if (title.includes(phrase)) {
-      score += points;
-    }
-  }
-
-  // ==================================================
-  // IMPORTANT EVENTS
-  // ==================================================
-
-  const important = [
-    ["approval", 10],
-    ["approved", 10],
-    ["lawsuit", 10],
-    ["earnings", 10],
-    ["ipo", 10],
-    ["profit warning", 15],
-    ["recall", 10]
-  ];
-
-  for (const [phrase, points] of important) {
-    if (text.includes(phrase)) {
-      score += points;
-    }
-  }
-
-  // ==================================================
-  // ANALYSIS / SPECULATION PENALTY
-  // ==================================================
+  // --------------------------------------------------
+  // 5. STRONG PENALTY FOR ANALYSIS / OPINION / EXPLAINERS
+  // --------------------------------------------------
 
   const analysisWords = [
     "will look like",
@@ -194,18 +186,53 @@ function getBreakingScore(article) {
     "forecast",
     "guide",
     "here's what happened",
-    "what happened"
+    "what happened",
+    "report",
+    "founder says",
+    "founder warns",
+    "experts say",
+    "analysts say"
   ];
 
   for (const phrase of analysisWords) {
     if (title.includes(phrase)) {
-      score -= 25;
+      score -= 45;
     } else if (text.includes(phrase)) {
-      score -= 10;
+      score -= 20;
     }
   }
 
-  return Math.max(0, Math.min(Math.round(score), 100));
+  // --------------------------------------------------
+  // 6. OPINION / FUTURE / SPECULATION TITLES
+  // --------------------------------------------------
+
+  const speculativeTitlePatterns = [
+    "will never",
+    "will look like",
+    "could",
+    "might",
+    "may",
+    "probably",
+    "expected to",
+    "set to",
+    "what happens next",
+    "what to expect",
+    "why it matters"
+  ];
+
+  for (const phrase of speculativeTitlePatterns) {
+    if (title.includes(phrase)) {
+      score -= 35;
+    }
+  }
+
+  // --------------------------------------------------
+  // 7. FINAL NORMALIZATION
+  // --------------------------------------------------
+
+  score = Math.round(score);
+
+  return Math.max(0, Math.min(score, 100));
 }
 
 module.exports = getBreakingScore;

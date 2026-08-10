@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T23:01:06.204Z",
+  "updated_at": "2026-08-10T10:30:50.967Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "b86070c5f38a86f446b7c5cb3ead6b9f",
-      "title": "Google is expanding its AI empire — and losing the people who built it",
-      "description": "Google’s cloud boom is testing the company's commitment to frontier AI as commercial returns take priority.",
+      "id": "2537ac85c0e9b4c557b881359aa8c4f8",
+      "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand ",
+      "description": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
       "reading_time_minutes": 1,
-      "breaking_score": 15,
-      "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108346120-1786035415725-260806_cg_32_demis_hassabis_1.jpg?v=1786035663&w=1920&h=1080",
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108292490-1776347906856-gettyimages-2253792580-US_STOCKS.jpeg?v=1777030120&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,6 +23,14 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
           "id": "googl",
           "symbol": "GOOGL",
           "name": "Google",
@@ -31,17 +39,26 @@
           "icon": "https://logo.clearbit.com/google.com"
         },
         {
+          "id": "tsm",
+          "symbol": "TSM",
+          "name": "TSMC",
+          "type": "company",
+          "path": "tickers/tsm.json",
+          "icon": ""
+        },
+        {
           "id": "ai",
           "name": "AI",
-          "type": "topic"
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-08-06T17:11:01.000Z",
+      "published_at": "2026-08-10T10:29:27.000Z",
       "related": [
         {
-          "id": "5225b26692171193a167337b2d57f175",
-          "title": "Grindr's AI spend is paying off and its pricey new tier has had some surprises, CEO says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108346222-1786043613835-gettyimages-2281609240-GRINDR_CULTURE_HUB.jpeg?v=1786054212&w=1920&h=1080",
+          "id": "797062504bd853caf7a6604815135392",
+          "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347145-1786354053610-gettyimages-2288486994-AA_06082026_2906904.jpeg?v=1786354087&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -49,15 +66,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-06T22:26:01.000Z",
+          "published_at": "2026-08-10T09:33:31.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/5225b26692171193a167337b2d57f175.json"
+          "breaking_score": 0,
+          "path": "articles/797062504bd853caf7a6604815135392.json"
         },
         {
-          "id": "9262111781fcbc69af8c2adfb40c52c9",
-          "title": "Jim Cramer highlights 5 investing themes — and the stocks to buy for each",
-          "image": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
+          "id": "8441e09a70281dbc7a88fdf9b86c87a7",
+          "title": "Australian rare earth miner surges after U.S. Department of War investment",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347104-1786340855855-gettyimages-2059263918-AUSTRALIA_LITHIUM.jpeg?v=1786340889&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -65,15 +82,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-06T22:23:25.000Z",
+          "published_at": "2026-08-10T08:36:11.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 65,
-          "path": "articles/9262111781fcbc69af8c2adfb40c52c9.json"
+          "breaking_score": 40,
+          "path": "articles/8441e09a70281dbc7a88fdf9b86c87a7.json"
         },
         {
-          "id": "35899bc5379b70a37e1f459bb15e5ca7",
-          "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
-          "image": "https://image.cnbcfm.com/api/v1/image/108100933-17393067622025-02-11t204145z_1729317157_rc2jscaafi5c_rtrmadp_0_usa-trump.jpeg?v=1786049729&w=1920&h=1080",
+          "id": "ae59f7d4be0818fd216996cc92d3c7de",
+          "title": "The space boom has created a giant mess. Now startups want to clean it up",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347120-1786347290018-CS-1_2025_Render_02.png?v=1786347382&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -81,15 +98,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-06T22:19:52.000Z",
+          "published_at": "2026-08-10T07:44:33.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 65,
-          "path": "articles/35899bc5379b70a37e1f459bb15e5ca7.json"
+          "breaking_score": 0,
+          "path": "articles/ae59f7d4be0818fd216996cc92d3c7de.json"
         },
         {
-          "id": "ca8fe3d5e5bb6c7732494949be87d028",
-          "title": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
-          "image": "https://image.cnbcfm.com/api/v1/image/108310071-1779306509002-gettyimages-2276716878-AIRBNB_SUMMER_RELEASE.jpeg?v=1786052989&w=1920&h=1080",
+          "id": "ac6d67ab5e071eb4b2fc14ac92037872",
+          "title": "Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108345803-1785998066617-gettyimages-2281779040-boivin-notitle260619_npy5i.jpeg?v=1785998230&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -97,15 +114,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-06T22:01:34.000Z",
+          "published_at": "2026-08-10T06:34:04.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 65,
-          "path": "articles/ca8fe3d5e5bb6c7732494949be87d028.json"
+          "breaking_score": 0,
+          "path": "articles/ac6d67ab5e071eb4b2fc14ac92037872.json"
         },
         {
-          "id": "9456c41502fb6095cbd1303740d46b6d",
-          "title": "AMD buys chip startup that hardwires AI models into its silicon",
-          "image": "https://image.cnbcfm.com/api/v1/image/108336929-1784339113574-Rockdale_Meta_3jpg.png?v=1784339259&w=1920&h=1080",
+          "id": "8ccd366ff37dcbb90262a81a9b6eba59",
+          "title": "Trump says oil supermajors are making too much money. What will they do with it?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108344089-1785786482984-gettyimages-2288924967-_s010936_out3lf4h.jpeg?v=1785786536&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -113,10 +130,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-06T21:42:31.000Z",
+          "published_at": "2026-08-10T05:00:02.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/9456c41502fb6095cbd1303740d46b6d.json"
+          "breaking_score": 0,
+          "path": "articles/8ccd366ff37dcbb90262a81a9b6eba59.json"
         }
       ]
     }

@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-10T10:15:42.313Z",
-  "total": 24,
+  "updated_at": "2026-08-10T10:30:50.978Z",
+  "total": 27,
   "entities": [
+    {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 33
+    },
     {
       "id": "crypto",
       "name": "Crypto",
@@ -10,27 +19,18 @@
       "count": 33
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 32
-    },
-    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 13
+      "count": 12
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 11
+      "count": 10
     },
     {
       "id": "mining",
@@ -45,15 +45,6 @@
       "type": "topic",
       "icon": "",
       "count": 7
-    },
-    {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 6
     },
     {
       "id": "stablecoin",
@@ -72,6 +63,15 @@
       "count": 5
     },
     {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 5
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -81,11 +81,9 @@
       "count": 5
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
       "icon": "",
       "count": 4
     },
@@ -106,9 +104,11 @@
       "count": 3
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
     },
@@ -138,6 +138,33 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 2
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 1
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 1
+    },
+    {
+      "id": "tsm",
+      "symbol": "TSM",
+      "name": "TSMC",
+      "type": "company",
+      "path": "tickers/tsm.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "gemini",

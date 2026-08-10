@@ -1,11 +1,11 @@
 {
-  "id": "e4016aa3a8df859b2655bd197738a058",
-  "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
-  "description": "The market's attention will be on July inflation data.",
+  "id": "cc61115db3fab47f171a0e121b88fa7a",
+  "title": "Intel plans $15 billion stock offering as AI demand accelerates",
+  "description": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/09/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108337520-1784575437411-gettyimages-2286932294-_88a1811_bnlt4id6.jpeg?v=1784575470&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108339566-1784842863353-gettyimages-2287372564-_88a2490_fizf2jun.jpeg?v=1784842934&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,9 +13,56 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-09T13:11:52.000Z",
+  "entities": [
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
+      "icon": ""
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-10T12:49:52.000Z",
   "related": [
+    {
+      "id": "2537ac85c0e9b4c557b881359aa8c4f8",
+      "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108292490-1776347906856-gettyimages-2253792580-US_STOCKS.jpeg?v=1777030120&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-10T10:29:27.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "path": "articles/2537ac85c0e9b4c557b881359aa8c4f8.json"
+    },
+    {
+      "id": "e4016aa3a8df859b2655bd197738a058",
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "image": "https://image.cnbcfm.com/api/v1/image/108337520-1784575437411-gettyimages-2286932294-_88a1811_bnlt4id6.jpeg?v=1784575470&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-09T13:11:52.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/e4016aa3a8df859b2655bd197738a058.json"
+    },
     {
       "id": "83014762aaba1034b41b6e43748a1b85",
       "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question ",
@@ -31,38 +78,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/83014762aaba1034b41b6e43748a1b85.json"
-    },
-    {
-      "id": "cc61115db3fab47f171a0e121b88fa7a",
-      "title": "Intel plans $15 billion stock offering as AI demand accelerates",
-      "image": "https://image.cnbcfm.com/api/v1/image/108339566-1784842863353-gettyimages-2287372564-_88a2490_fizf2jun.jpeg?v=1784842934&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-10T12:49:52.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/cc61115db3fab47f171a0e121b88fa7a.json"
-    },
-    {
-      "id": "c6b1b66f89436be4102940fea0c02d5f",
-      "title": "Elevator giant Otis wants to be a defensive play in a volatile market. It has to prove itself first",
-      "image": "https://image.cnbcfm.com/api/v1/image/108339933-1784912434971-Screenshot_2026-07-24_at_122353_PM.png?v=1784913656&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-08T15:43:23.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/c6b1b66f89436be4102940fea0c02d5f.json"
     },
     {
       "id": "797062504bd853caf7a6604815135392",

@@ -71,6 +71,10 @@ async function fetchFeed(source) {
   title: item.title || "",
   description: item.contentSnippet || item.content || "",
   published_at: normalizeDate(item),
+  source: sourceMeta[source.name] || {
+    id: source.name.toLowerCase().replace(/\s+/g, "-"),
+    name: source.name,
+  },
 }),
 
   url: item.link || "",

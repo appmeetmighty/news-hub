@@ -13,9 +13,9 @@ function getBreakingScore(article) {
       (1000 * 60 * 60);
 
     if (hours <= 1) {
-      score += 50;
+      score += 40;
     } else if (hours <= 3) {
-      score += 35;
+      score += 30;
     } else if (hours <= 6) {
       score += 20;
     } else if (hours <= 12) {
@@ -31,73 +31,73 @@ function getBreakingScore(article) {
   // ---------------------------------------
 
   const highImpact = {
-    "rate cut": 35,
-    "rate hike": 35,
-    "interest rate": 30,
-    "federal reserve": 30,
-    "fed decision": 35,
+    "rate cut": 30,
+    "rate hike": 30,
+    "interest rate": 25,
+    "federal reserve": 25,
+    "fed decision": 30,
 
-    "sec approves": 35,
-    "sec approval": 35,
+    "sec approves": 30,
+    "sec approval": 30,
     "sec charges": 30,
     "sec lawsuit": 30,
 
-    "etf approval": 35,
-    "bitcoin etf": 30,
-    "ethereum etf": 30,
+    "etf approval": 30,
+    "bitcoin etf": 20,
+    "ethereum etf": 20,
 
-    "bankruptcy": 35,
-    "bankrupt": 35,
+    bankruptcy: 30,
+    bankrupt: 30,
 
-    "acquisition": 30,
-    "merger": 30,
+    acquisition: 25,
+    merger: 25,
 
-    "ipo": 25,
+    ipo: 20,
 
-    "earnings": 20,
-    "quarterly results": 20,
+    earnings: 15,
+    "quarterly results": 15,
 
-    "guidance": 20,
-    "profit warning": 30,
+    guidance: 15,
+    "profit warning": 25,
 
-    "hack": 30,
-    "hacked": 30,
-    "cyberattack": 30,
+    hack: 25,
+    hacked: 30,
+    cyberattack: 30,
 
-    "lawsuit": 20,
-    "indicted": 30,
-    "charged": 25,
+    lawsuit: 15,
+    indicted: 25,
+    charged: 20,
 
-    "approval": 20,
-    "approved": 20,
+    approval: 15,
+    approved: 15,
 
-    "recall": 20,
+    recall: 15,
 
-    "crash": 25,
-    "market crash": 35,
+    crash: 25,
+    "market crash": 30,
 
-    "record high": 25,
-    "all-time high": 30,
+    "record high": 20,
+    "all-time high": 25,
 
-    "plunges": 20,
-    "plunge": 20,
-    "surges": 20,
-    "surge": 20,
+    plunges: 15,
+    plunge: 15,
+    surges: 15,
+    surge: 15,
 
-    // Regulatory / government events
+    // Regulatory events
     "regulatory action": 25,
-    "regulatory": 15,
-    "regulator": 15,
-    "orders": 15,
-    "ordered": 15,
-    "banned": 25,
-    "ban": 20,
-    "suspended": 20,
-    "suspends": 20,
-    "offline": 15,
-    "investigation": 20,
-    "investigates": 20,
-    "enforcement": 25
+    regulatory: 15,
+    regulator: 15,
+    ordered: 15,
+    orders: 15,
+    banned: 25,
+    ban: 20,
+    suspended: 20,
+    suspends: 20,
+    offline: 10,
+    investigation: 20,
+    investigates: 20,
+    enforcement: 25
   };
 
   for (const [phrase, points] of Object.entries(highImpact)) {
@@ -111,15 +111,15 @@ function getBreakingScore(article) {
   // ---------------------------------------
 
   const breakingWords = {
-    breaking: 25,
-    urgent: 25,
-    alert: 20,
-    "just in": 20,
-    "developing story": 20
+    breaking: 20,
+    urgent: 20,
+    alert: 15,
+    "just in": 15,
+    "developing story": 15
   };
 
-  for (const [word, points] of Object.entries(breakingWords)) {
-    if (text.includes(word)) {
+  for (const [phrase, points] of Object.entries(breakingWords)) {
+    if (text.includes(phrase)) {
       score += points;
     }
   }
@@ -137,25 +137,53 @@ function getBreakingScore(article) {
     "stocks fall": 10,
 
     rally: 10,
-    selloff: 15,
-    "sell-off": 15,
+    selloff: 10,
+    "sell-off": 10,
 
     record: 5,
     forecast: 10,
     outlook: 10
   };
 
-  for (const [word, points] of Object.entries(marketWords)) {
-    if (text.includes(word)) {
+  for (const [phrase, points] of Object.entries(marketWords)) {
+    if (text.includes(phrase)) {
       score += points;
     }
+  }
+
+  // ---------------------------------------
+  // Avoid false "breaking" signals
+  // ---------------------------------------
+
+  const speculativeWords = [
+    "could",
+    "might",
+    "may",
+    "would",
+    "likely",
+    "probably",
+    "potential",
+    "possible",
+    "expected",
+    "could be"
+  ];
+
+  const hasSpeculativeLanguage = speculativeWords.some(word =>
+    text.includes(word)
+  );
+
+  if (hasSpeculativeLanguage) {
+    score -= 20;
   }
 
   // ---------------------------------------
   // Final score
   // ---------------------------------------
 
-  return Math.min(Math.round(score), 100);
+  return Math.max(
+    0,
+    Math.min(Math.round(score), 100)
+  );
 }
 
 module.exports = getBreakingScore;

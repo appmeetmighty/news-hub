@@ -1,11 +1,11 @@
 {
-  "id": "8ac30c4415433c12839fb8a0592046a6",
-  "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
-  "description": "U.S. social media giant Meta is facing increasing pressure from Indian regulators, including demands to revoke the firm's safe harbor immunity in the country.",
+  "id": "c9372b2fa45dca0afcae93ff2883cd17",
+  "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
+  "description": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108131781-1744668582155-gettyimages-2209215388-HL_VFEURAY_2733474.jpeg?v=1766062034&w=1920&h=1080",
+  "breaking_score": 60,
+  "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108316425-1780524392850-gettyimages-2278944432-AFP_B4XB76X.jpeg?v=1786148009&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,15 +15,29 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
       "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com"
+      "path": "tickers/openai.json",
+      "icon": ""
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": ""
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
     }
   ],
-  "published_at": "2026-08-07T04:11:09.000Z",
+  "published_at": "2026-08-10T11:00:01.000Z",
   "related": [
     {
       "id": "bfa710c79708a6e52831a3c7e16e7fd0",
@@ -58,9 +72,9 @@
       "path": "articles/cd254bfe9955650a64aa972ce341ea19.json"
     },
     {
-      "id": "d4e7d0279815527831aa59056e9caea7",
-      "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
+      "id": "6f49645e53bab0c3ab3452ec628ae65a",
+      "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -68,26 +82,10 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-06T20:31:03.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 100,
-      "path": "articles/d4e7d0279815527831aa59056e9caea7.json"
-    },
-    {
-      "id": "2a04e6546a44f1e175b3e0fccd07b311",
-      "title": "DuckDuckGo’s Meta-Trolling 'Normal F***ing Sunglasses' Sell Out in Under a Week",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/duckduckgo-normal-sunglasses-decrypt-style-1-gID_7.jpg@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-06T16:19:39.000Z",
+      "published_at": "2026-08-07T12:37:14.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/2a04e6546a44f1e175b3e0fccd07b311.json"
+      "path": "articles/6f49645e53bab0c3ab3452ec628ae65a.json"
     },
     {
       "id": "106b8888f173b5f452863e7e13827f9a",
@@ -104,6 +102,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 40,
       "path": "articles/106b8888f173b5f452863e7e13827f9a.json"
+    },
+    {
+      "id": "7c4aafffdf50d44c48a1e23a35367f22",
+      "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-07T16:03:06.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/7c4aafffdf50d44c48a1e23a35367f22.json"
     }
   ]
 }

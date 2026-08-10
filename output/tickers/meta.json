@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-10T15:45:43.310Z",
+  "updated_at": "2026-08-10T16:01:11.547Z",
   "id": "meta",
   "symbol": "META",
   "name": "Meta",
   "type": "company",
-  "total": 5,
+  "total": 3,
   "articles": [
     {
       "id": "d10fe8b6d583ee7a922cbd6399ceca64",
@@ -56,22 +56,6 @@
       "published_at": "2026-08-10T12:40:36.000Z",
       "related": [
         {
-          "id": "bfa710c79708a6e52831a3c7e16e7fd0",
-          "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "image": "https://image.cnbcfm.com/api/v1/image/108346931-1786142982291-gettyimages-2287574652-businessman_hand_operating_tablet_red_hacked_ai_bot_cyber_at.jpeg?v=1786143082&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-09T11:31:42.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/bfa710c79708a6e52831a3c7e16e7fd0.json"
-        },
-        {
           "id": "cd254bfe9955650a64aa972ce341ea19",
           "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
           "image": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
@@ -134,110 +118,11 @@
           "reading_time_minutes": 1,
           "breaking_score": 40,
           "path": "articles/106b8888f173b5f452863e7e13827f9a.json"
-        }
-      ]
-    },
-    {
-      "id": "bfa710c79708a6e52831a3c7e16e7fd0",
-      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-      "description": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
-      "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108346931-1786142982291-gettyimages-2287574652-businessman_hand_operating_tablet_red_hacked_ai_bot_cyber_at.jpeg?v=1786143082&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
-          "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
         },
         {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-08-09T11:31:42.000Z",
-      "related": [
-        {
-          "id": "d10fe8b6d583ee7a922cbd6399ceca64",
-          "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
-          "image": "https://image.cnbcfm.com/api/v1/image/108201478-17583103972025-09-18t012329z_339798057_rc21ugat6ure_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1758310428&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-10T12:40:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d10fe8b6d583ee7a922cbd6399ceca64.json"
-        },
-        {
-          "id": "cd254bfe9955650a64aa972ce341ea19",
-          "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-08T12:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/cd254bfe9955650a64aa972ce341ea19.json"
-        },
-        {
-          "id": "c9372b2fa45dca0afcae93ff2883cd17",
-          "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
-          "image": "https://image.cnbcfm.com/api/v1/image/108316425-1780524392850-gettyimages-2278944432-AFP_B4XB76X.jpeg?v=1786148009&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-10T14:06:08.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/c9372b2fa45dca0afcae93ff2883cd17.json"
-        },
-        {
-          "id": "6f49645e53bab0c3ab3452ec628ae65a",
-          "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
+          "id": "b3abe201e74c3faaf367f51fad04ae72",
+          "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -245,26 +130,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-07T12:37:14.000Z",
+          "published_at": "2026-08-10T15:03:07.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6f49645e53bab0c3ab3452ec628ae65a.json"
-        },
-        {
-          "id": "106b8888f173b5f452863e7e13827f9a",
-          "title": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108320445-17811980572026-06-11t163738z_1389144593_rc2srlaoa7le_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-10T11:04:50.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/106b8888f173b5f452863e7e13827f9a.json"
+          "path": "articles/b3abe201e74c3faaf367f51fad04ae72.json"
         }
       ]
     },
@@ -334,22 +203,6 @@
           "path": "articles/d10fe8b6d583ee7a922cbd6399ceca64.json"
         },
         {
-          "id": "bfa710c79708a6e52831a3c7e16e7fd0",
-          "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "image": "https://image.cnbcfm.com/api/v1/image/108346931-1786142982291-gettyimages-2287574652-businessman_hand_operating_tablet_red_hacked_ai_bot_cyber_at.jpeg?v=1786143082&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-09T11:31:42.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/bfa710c79708a6e52831a3c7e16e7fd0.json"
-        },
-        {
           "id": "c9372b2fa45dca0afcae93ff2883cd17",
           "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
           "image": "https://image.cnbcfm.com/api/v1/image/108316425-1780524392850-gettyimages-2278944432-AFP_B4XB76X.jpeg?v=1786148009&w=1920&h=1080",
@@ -396,6 +249,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/0b77cfcb948f010ef429063ee1b850b4.json"
+        },
+        {
+          "id": "106b8888f173b5f452863e7e13827f9a",
+          "title": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108320445-17811980572026-06-11t163738z_1389144593_rc2srlaoa7le_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-10T11:04:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/106b8888f173b5f452863e7e13827f9a.json"
         }
       ]
     },
@@ -433,22 +302,6 @@
       "published_at": "2026-08-06T20:31:03.000Z",
       "related": [
         {
-          "id": "2a04e6546a44f1e175b3e0fccd07b311",
-          "title": "DuckDuckGo’s Meta-Trolling 'Normal F***ing Sunglasses' Sell Out in Under a Week",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/duckduckgo-normal-sunglasses-decrypt-style-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-06T16:19:39.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2a04e6546a44f1e175b3e0fccd07b311.json"
-        },
-        {
           "id": "d10fe8b6d583ee7a922cbd6399ceca64",
           "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
           "image": "https://image.cnbcfm.com/api/v1/image/108201478-17583103972025-09-18t012329z_339798057_rc21ugat6ure_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1758310428&w=1920&h=1080",
@@ -463,22 +316,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d10fe8b6d583ee7a922cbd6399ceca64.json"
-        },
-        {
-          "id": "bfa710c79708a6e52831a3c7e16e7fd0",
-          "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "image": "https://image.cnbcfm.com/api/v1/image/108346931-1786142982291-gettyimages-2287574652-businessman_hand_operating_tablet_red_hacked_ai_bot_cyber_at.jpeg?v=1786143082&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-09T11:31:42.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/bfa710c79708a6e52831a3c7e16e7fd0.json"
         },
         {
           "id": "cd254bfe9955650a64aa972ce341ea19",
@@ -511,40 +348,11 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b3abe201e74c3faaf367f51fad04ae72.json"
-        }
-      ]
-    },
-    {
-      "id": "2a04e6546a44f1e175b3e0fccd07b311",
-      "title": "DuckDuckGo’s Meta-Trolling 'Normal F***ing Sunglasses' Sell Out in Under a Week",
-      "description": "The $35 frames have polarized lenses, UV protection and no camera, microphone, battery or electronics of any kind.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://decrypt.co/375037/duckduckgos-meta-trolling-normal-fing-sunglasses-sell-out-in-under-a-week",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/duckduckgo-normal-sunglasses-decrypt-style-1-gID_7.jpg@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "entities": [
+        },
         {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
-          "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
-        }
-      ],
-      "published_at": "2026-08-06T16:19:39.000Z",
-      "related": [
-        {
-          "id": "d4e7d0279815527831aa59056e9caea7",
-          "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
+          "id": "36c1edbf14905ef1265878614a40c7b7",
+          "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -552,63 +360,15 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-06T20:31:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/d4e7d0279815527831aa59056e9caea7.json"
-        },
-        {
-          "id": "d10fe8b6d583ee7a922cbd6399ceca64",
-          "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
-          "image": "https://image.cnbcfm.com/api/v1/image/108201478-17583103972025-09-18t012329z_339798057_rc21ugat6ure_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1758310428&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-10T12:40:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d10fe8b6d583ee7a922cbd6399ceca64.json"
-        },
-        {
-          "id": "bfa710c79708a6e52831a3c7e16e7fd0",
-          "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "image": "https://image.cnbcfm.com/api/v1/image/108346931-1786142982291-gettyimages-2287574652-businessman_hand_operating_tablet_red_hacked_ai_bot_cyber_at.jpeg?v=1786143082&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-09T11:31:42.000Z",
+          "published_at": "2026-08-10T15:56:30.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 60,
-          "path": "articles/bfa710c79708a6e52831a3c7e16e7fd0.json"
+          "path": "articles/36c1edbf14905ef1265878614a40c7b7.json"
         },
         {
-          "id": "cd254bfe9955650a64aa972ce341ea19",
-          "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-08T12:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/cd254bfe9955650a64aa972ce341ea19.json"
-        },
-        {
-          "id": "b3abe201e74c3faaf367f51fad04ae72",
-          "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+          "id": "f030ac6b1d6654a8be6df4c6f005da87",
+          "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ethereum-decrypt-style-05-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -616,10 +376,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-10T15:03:07.000Z",
+          "published_at": "2026-08-10T14:12:12.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b3abe201e74c3faaf367f51fad04ae72.json"
+          "path": "articles/f030ac6b1d6654a8be6df4c6f005da87.json"
         }
       ]
     }

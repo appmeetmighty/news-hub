@@ -1,27 +1,152 @@
 {
-  "updated_at": "2026-08-07T18:15:34.877Z",
+  "updated_at": "2026-08-10T12:15:39.617Z",
   "id": "mstr",
   "symbol": "MSTR",
   "name": "Strategy",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
-      "id": "1741e5a6cc50cdb5814ba3d685817b83",
-      "title": "Gulf uncertainty is creating ‘win, win’ strategy with Chevron and other oil majors",
-      "description": "With options premiums still elevated due to the military conflict in the Gulf, selling puts on an energy major posting record free cash flow offers a rare opportunity.",
+      "id": "23c901bf1fba3033ffbcf1e3a3b024bb",
+      "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
+      "description": "The company increased its USD reserve to $4.65 billion while reducing its bitcoin holdings to 840,447 BTC",
       "reading_time_minutes": 1,
-      "breaking_score": 35,
-      "url": "https://www.cnbc.com/2026/08/07/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108289176-1775738724676-gettyimages-2270494304-dji_20260408180245_0708_d_zbvq7b2t.jpeg?v=1775738799&w=1920&h=1080",
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "mstr",
+          "symbol": "MSTR",
+          "name": "Strategy",
+          "type": "company",
+          "path": "tickers/mstr.json",
+          "icon": "https://logo.clearbit.com/strategy.com"
+        }
+      ],
+      "published_at": "2026-08-10T12:09:26.000Z",
+      "related": [
+        {
+          "id": "1229d4182e64c4c6e4b8e091c085ad1d",
+          "title": "Live updates: Bitcoin steady above $65,100 as Strategy reports 1,690 BTC sale",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a1494a3b2a1af72346af846f04df0d718a1bccb-2912x1716.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-10T06:56:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1229d4182e64c4c6e4b8e091c085ad1d.json"
+        },
+        {
+          "id": "f0a79830228f7ec90dc196e7098f95df",
+          "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e183c12b5e1dbaf0e0175a58c3a9425adb7b3de5-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-09T14:19:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f0a79830228f7ec90dc196e7098f95df.json"
+        },
+        {
+          "id": "c0f0d113582653060813e7389efa4f9f",
+          "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d35d215e1e0334fa89d2a682e86c0576bc96b76-1842x1036.jpg?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-10T10:45:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0f0d113582653060813e7389efa4f9f.json"
+        },
+        {
+          "id": "14b4d1dcc334e4720330d36b526ec90f",
+          "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a30cc5909ba74d536022faa3e9dacc8019d48321-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-10T10:13:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/14b4d1dcc334e4720330d36b526ec90f.json"
+        },
+        {
+          "id": "85d440cf1e4c8c82857c1aff472c18e3",
+          "title": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/96665eee3aaf5f2e4c6a8be5b5698ad14f60cfd5-4000x2250.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-10T09:09:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/85d440cf1e4c8c82857c1aff472c18e3.json"
+        }
+      ]
+    },
+    {
+      "id": "1229d4182e64c4c6e4b8e091c085ad1d",
+      "title": "Live updates: Bitcoin steady above $65,100 as Strategy reports 1,690 BTC sale",
+      "description": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a1494a3b2a1af72346af846f04df0d718a1bccb-2912x1716.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "mstr",
           "symbol": "MSTR",
@@ -31,68 +156,24 @@
           "icon": "https://logo.clearbit.com/strategy.com"
         },
         {
-          "id": "oil",
-          "symbol": "OIL",
-          "name": "Oil",
-          "type": "commodity",
-          "path": "tickers/oil.json",
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "etf",
+          "name": "ETF",
+          "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-08-07T16:26:24.000Z",
+      "published_at": "2026-08-10T06:56:50.000Z",
       "related": [
         {
-          "id": "7c55172cce5df157f6c8286d25f88f7c",
-          "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
-          "image": "https://image.cnbcfm.com/api/v1/image/108346275-1786047899210-gettyimages-2289377473-aw1a4478_xxdo1bpb.jpeg?v=1786047995&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-07T17:50:12.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/7c55172cce5df157f6c8286d25f88f7c.json"
-        },
-        {
-          "id": "485763c05ada5e553cc2c898f7f77769",
-          "title": "Top Democrat proposes killing tax breaks for overseas oil production",
-          "image": "https://image.cnbcfm.com/api/v1/image/108291395-1776197869819-gettyimages-2267107434-090a9297_tovlfxz2.jpeg?v=1776197899&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-07T16:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/485763c05ada5e553cc2c898f7f77769.json"
-        },
-        {
-          "id": "cd49f44692975c25f717deb9b163d357",
-          "title": "Gas prices could remain high this fall even if crude prices stabilize. Here's why",
-          "image": "https://image.cnbcfm.com/api/v1/image/108290790-1776276588339-108290790-1776118085723-gettyimages-2271203894-jr_13535_q5qr9nxg-1.jpg?v=1786047777&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-06T20:34:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cd49f44692975c25f717deb9b163d357.json"
-        },
-        {
-          "id": "3ccc396fb63a22195edbd1289ee8e271",
-          "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe04e926bda55bbfbc8b9f01ad56bab3df2f426d-2830x1454.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "23c901bf1fba3033ffbcf1e3a3b024bb",
+          "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -100,26 +181,74 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-07T10:36:14.000Z",
+          "published_at": "2026-08-10T12:09:26.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3ccc396fb63a22195edbd1289ee8e271.json"
+          "path": "articles/23c901bf1fba3033ffbcf1e3a3b024bb.json"
         },
         {
-          "id": "0dbb71f1033c63441aee20f3f98c90a3",
-          "title": "Here are three key takeaways from the disappointing July jobs report",
-          "image": "https://image.cnbcfm.com/api/v1/image/108342392-1785415951067-gettyimages-2287553395-AFP_C3J43BT.jpeg?v=1785416029&w=1920&h=1080",
+          "id": "c0f0d113582653060813e7389efa4f9f",
+          "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d35d215e1e0334fa89d2a682e86c0576bc96b76-1842x1036.jpg?auto=format&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-07T18:09:18.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-10T10:45:43.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/0dbb71f1033c63441aee20f3f98c90a3.json"
+          "breaking_score": 0,
+          "path": "articles/c0f0d113582653060813e7389efa4f9f.json"
+        },
+        {
+          "id": "14b4d1dcc334e4720330d36b526ec90f",
+          "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a30cc5909ba74d536022faa3e9dacc8019d48321-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-10T10:13:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/14b4d1dcc334e4720330d36b526ec90f.json"
+        },
+        {
+          "id": "85d440cf1e4c8c82857c1aff472c18e3",
+          "title": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/96665eee3aaf5f2e4c6a8be5b5698ad14f60cfd5-4000x2250.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-10T09:09:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/85d440cf1e4c8c82857c1aff472c18e3.json"
+        },
+        {
+          "id": "2a8d805cc4f6367b0dff611fe86cfdfa",
+          "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-10T06:25:17.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2a8d805cc4f6367b0dff611fe86cfdfa.json"
         }
       ]
     }

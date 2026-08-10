@@ -1,10 +1,141 @@
 {
-  "updated_at": "2026-08-10T13:30:57.801Z",
+  "updated_at": "2026-08-10T13:45:36.508Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 15,
   "articles": [
+    {
+      "id": "2537ac85c0e9b4c557b881359aa8c4f8",
+      "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand ",
+      "description": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108292490-1776347906856-gettyimages-2253792580-US_STOCKS.jpeg?v=1777030120&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "tsm",
+          "symbol": "TSM",
+          "name": "TSMC",
+          "type": "company",
+          "path": "tickers/tsm.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-10T13:39:56.000Z",
+      "related": [
+        {
+          "id": "cc61115db3fab47f171a0e121b88fa7a",
+          "title": "Intel plans $15 billion stock offering as AI demand accelerates",
+          "image": "https://image.cnbcfm.com/api/v1/image/108339566-1784842863353-gettyimages-2287372564-_88a2490_fizf2jun.jpeg?v=1784842934&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-10T13:15:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cc61115db3fab47f171a0e121b88fa7a.json"
+        },
+        {
+          "id": "f33b4fb5a0337fb5bcf78341ce4d0371",
+          "title": "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
+          "image": "https://image.cnbcfm.com/api/v1/image/108344107-1785787494699-gettyimages-2288932673-_24a4782_jhus5f2u.jpeg?v=1786118372&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-10T13:13:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/f33b4fb5a0337fb5bcf78341ce4d0371.json"
+        },
+        {
+          "id": "1fc176f7ef36608dbea0b0309c4ef397",
+          "title": "SpaceX stock rebounds to near $135 IPO price",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321008-1781271149885-Screenshot_2026-06-12_at_92658_AM.png?v=1781271243&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-10T13:36:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1fc176f7ef36608dbea0b0309c4ef397.json"
+        },
+        {
+          "id": "9677d72d145ce5dca03ab405cd6240dc",
+          "title": "The Club's top 10 things to watch in the stock market Monday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108327012-1782412272907-gettyimages-2283305768-anotherday231781790_02z0qwo8.jpeg?v=1782412363&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-10T13:19:20.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9677d72d145ce5dca03ab405cd6240dc.json"
+        },
+        {
+          "id": "797062504bd853caf7a6604815135392",
+          "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347145-1786354053610-gettyimages-2288486994-AA_06082026_2906904.jpeg?v=1786354087&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-10T12:59:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/797062504bd853caf7a6604815135392.json"
+        }
+      ]
+    },
     {
       "id": "cc61115db3fab47f171a0e121b88fa7a",
       "title": "Intel plans $15 billion stock offering as AI demand accelerates",
@@ -65,10 +196,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-10T10:29:27.000Z",
+          "published_at": "2026-08-10T13:39:56.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/2537ac85c0e9b4c557b881359aa8c4f8.json"
+        },
+        {
+          "id": "1fc176f7ef36608dbea0b0309c4ef397",
+          "title": "SpaceX stock rebounds to near $135 IPO price",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321008-1781271149885-Screenshot_2026-06-12_at_92658_AM.png?v=1781271243&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-10T13:36:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1fc176f7ef36608dbea0b0309c4ef397.json"
         },
         {
           "id": "83014762aaba1034b41b6e43748a1b85",
@@ -101,22 +248,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/f33b4fb5a0337fb5bcf78341ce4d0371.json"
-        },
-        {
-          "id": "797062504bd853caf7a6604815135392",
-          "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347145-1786354053610-gettyimages-2288486994-AA_06082026_2906904.jpeg?v=1786354087&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-10T12:59:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/797062504bd853caf7a6604815135392.json"
         }
       ]
     },
@@ -486,137 +617,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 40,
           "path": "articles/106b8888f173b5f452863e7e13827f9a.json"
-        }
-      ]
-    },
-    {
-      "id": "2537ac85c0e9b4c557b881359aa8c4f8",
-      "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand ",
-      "description": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
-      "reading_time_minutes": 1,
-      "breaking_score": 20,
-      "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108292490-1776347906856-gettyimages-2253792580-US_STOCKS.jpeg?v=1777030120&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
-        {
-          "id": "googl",
-          "symbol": "GOOGL",
-          "name": "Google",
-          "type": "company",
-          "path": "tickers/googl.json",
-          "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "tsm",
-          "symbol": "TSM",
-          "name": "TSMC",
-          "type": "company",
-          "path": "tickers/tsm.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-08-10T10:29:27.000Z",
-      "related": [
-        {
-          "id": "cc61115db3fab47f171a0e121b88fa7a",
-          "title": "Intel plans $15 billion stock offering as AI demand accelerates",
-          "image": "https://image.cnbcfm.com/api/v1/image/108339566-1784842863353-gettyimages-2287372564-_88a2490_fizf2jun.jpeg?v=1784842934&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-10T13:15:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cc61115db3fab47f171a0e121b88fa7a.json"
-        },
-        {
-          "id": "f33b4fb5a0337fb5bcf78341ce4d0371",
-          "title": "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108344107-1785787494699-gettyimages-2288932673-_24a4782_jhus5f2u.jpeg?v=1786118372&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-10T13:13:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/f33b4fb5a0337fb5bcf78341ce4d0371.json"
-        },
-        {
-          "id": "9677d72d145ce5dca03ab405cd6240dc",
-          "title": "The Club's top 10 things to watch in the stock market Monday",
-          "image": "https://image.cnbcfm.com/api/v1/image/108327012-1782412272907-gettyimages-2283305768-anotherday231781790_02z0qwo8.jpeg?v=1782412363&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-10T13:19:20.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9677d72d145ce5dca03ab405cd6240dc.json"
-        },
-        {
-          "id": "797062504bd853caf7a6604815135392",
-          "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347145-1786354053610-gettyimages-2288486994-AA_06082026_2906904.jpeg?v=1786354087&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-10T12:59:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/797062504bd853caf7a6604815135392.json"
-        },
-        {
-          "id": "18f0c64aa2eb28d1ba7f1ef1767febf4",
-          "title": "Interest rates may stay higher for longer. What that means for consumers ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108342818-1785446867713-gettyimages-2288353363-6k4a1338_tvwq6pxf.jpeg?v=1785447011&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-10T12:41:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/18f0c64aa2eb28d1ba7f1ef1767febf4.json"
         }
       ]
     },
@@ -1168,9 +1168,9 @@
           "path": "articles/83014762aaba1034b41b6e43748a1b85.json"
         },
         {
-          "id": "cc61115db3fab47f171a0e121b88fa7a",
-          "title": "Intel plans $15 billion stock offering as AI demand accelerates",
-          "image": "https://image.cnbcfm.com/api/v1/image/108339566-1784842863353-gettyimages-2287372564-_88a2490_fizf2jun.jpeg?v=1784842934&w=1920&h=1080",
+          "id": "2537ac85c0e9b4c557b881359aa8c4f8",
+          "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108292490-1776347906856-gettyimages-2253792580-US_STOCKS.jpeg?v=1777030120&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1178,26 +1178,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-10T13:15:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cc61115db3fab47f171a0e121b88fa7a.json"
-        },
-        {
-          "id": "f33b4fb5a0337fb5bcf78341ce4d0371",
-          "title": "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108344107-1785787494699-gettyimages-2288932673-_24a4782_jhus5f2u.jpeg?v=1786118372&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-10T13:13:31.000Z",
+          "published_at": "2026-08-10T13:39:56.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
-          "path": "articles/f33b4fb5a0337fb5bcf78341ce4d0371.json"
+          "path": "articles/2537ac85c0e9b4c557b881359aa8c4f8.json"
+        },
+        {
+          "id": "1fc176f7ef36608dbea0b0309c4ef397",
+          "title": "SpaceX stock rebounds to near $135 IPO price",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321008-1781271149885-Screenshot_2026-06-12_at_92658_AM.png?v=1781271243&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-10T13:36:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1fc176f7ef36608dbea0b0309c4ef397.json"
         }
       ]
     },

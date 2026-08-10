@@ -1,19 +1,27 @@
 {
-  "id": "0b77cfcb948f010ef429063ee1b850b4",
-  "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack",
-  "description": "The presentation at the annual Black Hat conference sheds new light on how OpenAI's models collaborated to launch the Hugging Face breach.",
+  "id": "d10fe8b6d583ee7a922cbd6399ceca64",
+  "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+  "description": "Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.",
   "reading_time_minutes": 1,
-  "breaking_score": 60,
-  "url": "https://decrypt.co/375058/openai-ai-agents-secretly-coordinated-hugging-face-hack",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+  "breaking_score": 0,
+  "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108201478-17583103972025-09-18t012329z_339798057_rc21ugat6ure_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1758310428&w=1920&h=1080",
   "source": {
-    "id": "decrypt",
-    "name": "Decrypt",
-    "website": "https://decrypt.co",
-    "icon": "https://logo.clearbit.com/decrypt.co"
+    "id": "cnbc",
+    "name": "CNBC",
+    "website": "https://www.cnbc.com",
+    "icon": "https://logo.clearbit.com/cnbc.com"
   },
-  "category": "crypto",
+  "category": "stocks",
   "entities": [
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com"
+    },
     {
       "id": "openai",
       "symbol": "OPENAI",
@@ -23,14 +31,38 @@
       "icon": ""
     },
     {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": ""
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-06T18:26:29.000Z",
+  "published_at": "2026-08-10T12:23:11.000Z",
   "related": [
+    {
+      "id": "bfa710c79708a6e52831a3c7e16e7fd0",
+      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "image": "https://image.cnbcfm.com/api/v1/image/108346931-1786142982291-gettyimages-2287574652-businessman_hand_operating_tablet_red_hacked_ai_bot_cyber_at.jpeg?v=1786143082&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-09T11:31:42.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 60,
+      "path": "articles/bfa710c79708a6e52831a3c7e16e7fd0.json"
+    },
     {
       "id": "cd254bfe9955650a64aa972ce341ea19",
       "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
@@ -48,20 +80,20 @@
       "path": "articles/cd254bfe9955650a64aa972ce341ea19.json"
     },
     {
-      "id": "7c4aafffdf50d44c48a1e23a35367f22",
-      "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+      "id": "c9372b2fa45dca0afcae93ff2883cd17",
+      "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316425-1780524392850-gettyimages-2278944432-AFP_B4XB76X.jpeg?v=1786148009&w=1920&h=1080",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
-      "published_at": "2026-08-07T16:03:06.000Z",
+      "category": "stocks",
+      "published_at": "2026-08-10T11:00:01.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/7c4aafffdf50d44c48a1e23a35367f22.json"
+      "breaking_score": 60,
+      "path": "articles/c9372b2fa45dca0afcae93ff2883cd17.json"
     },
     {
       "id": "6f49645e53bab0c3ab3452ec628ae65a",
@@ -78,22 +110,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/6f49645e53bab0c3ab3452ec628ae65a.json"
-    },
-    {
-      "id": "d10fe8b6d583ee7a922cbd6399ceca64",
-      "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
-      "image": "https://image.cnbcfm.com/api/v1/image/108201478-17583103972025-09-18t012329z_339798057_rc21ugat6ure_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1758310428&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-10T12:23:11.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/d10fe8b6d583ee7a922cbd6399ceca64.json"
     },
     {
       "id": "106b8888f173b5f452863e7e13827f9a",

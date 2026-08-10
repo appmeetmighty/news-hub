@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T12:15:39.639Z",
+  "updated_at": "2026-08-10T12:30:55.545Z",
   "total": 28,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 33
+      "count": 34
     },
     {
       "id": "crypto",
@@ -33,6 +33,15 @@
       "count": 10
     },
     {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 8
+    },
+    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
@@ -40,13 +49,13 @@
       "count": 8
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
       "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 7
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 6
     },
     {
       "id": "mining",
@@ -56,19 +65,19 @@
       "count": 6
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 5
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
       "count": 5
     },
     {
@@ -77,15 +86,6 @@
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 4
     },
@@ -106,6 +106,15 @@
       "count": 4
     },
     {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 3
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -120,15 +129,6 @@
       "type": "topic",
       "icon": "",
       "count": 3
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 2
     },
     {
       "id": "oil",

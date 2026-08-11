@@ -1,6 +1,6 @@
 {
   "id": "4d301b921aa1c35501103edb5c732a38",
-  "title": "Ravencoin could roll back four days of transactions after critical block flaw",
+  "title": "Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions",
   "description": "Two mining pools controlling most of Ravencoin’s hashpower are building a replacement chain from before Friday’s first invalid block, putting deposits, withdrawals and payments made since then at risk of reversal.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
@@ -14,6 +14,20 @@
   },
   "category": "crypto",
   "entities": [
+    {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": ""
+    },
     {
       "id": "mining",
       "name": "Mining",

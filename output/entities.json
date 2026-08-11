@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-11T21:01:11.285Z",
-  "total": 23,
+  "updated_at": "2026-08-11T21:13:02.333Z",
+  "total": 21,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 36
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 37
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 35
     },
     {
@@ -23,14 +23,14 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 21
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 13
+      "count": 14
     },
     {
       "id": "blockchain",
@@ -90,15 +90,6 @@
       "count": 5
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 4
-    },
-    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
@@ -108,12 +99,30 @@
       "count": 4
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 3
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 3
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
       "count": 3
     },
     {
@@ -131,15 +140,6 @@
       "type": "topic",
       "icon": "",
       "count": 3
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 2
     },
     {
       "id": "web3",
@@ -172,22 +172,6 @@
       "name": "Intel",
       "type": "company",
       "path": "tickers/intc.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "blk",
-      "symbol": "BLK",
-      "name": "BlackRock",
-      "type": "company",
-      "path": "tickers/blk.json",
-      "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 1
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
       "icon": "",
       "count": 1
     }

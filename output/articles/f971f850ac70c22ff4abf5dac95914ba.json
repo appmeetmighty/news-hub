@@ -1,11 +1,11 @@
 {
-  "id": "d7664c8a9b970ed06a0781714e061723",
-  "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
-  "description": "The project said it will pay 10% of recovered funds, up to 3 BTC, after attackers stole LND credentials and drained merchant Lightning wallets last week.",
+  "id": "f971f850ac70c22ff4abf5dac95914ba",
+  "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
+  "description": "The Strait of Hormuz relief trade unraveled after Trump demanded 50 years of Iranian compensation, pushing oil back to $89 and leaving crypto and equities unchanged ahead of a pivotal CPI report.",
   "reading_time_minutes": 1,
-  "breaking_score": 60,
-  "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
-  "image": "https://cdn.sanity.io/images/s3y3vcno/production/c97bd815dbaa4d0c149b3c9a15cc76b83b6dab51-720x406.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+  "breaking_score": 0,
+  "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/05b77ba911a6a3107a8ada460c01d26723950dda-1884x1060.jpg?auto=format&q=75",
   "source": {
     "id": "coindesk",
     "name": "CoinDesk",
@@ -21,30 +21,36 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-    }
-  ],
-  "published_at": "2026-08-11T06:19:07.000Z",
-  "related": [
-    {
-      "id": "d9007fd2fed5578d0718bb619095b3ec",
-      "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-07T20:00:34.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/d9007fd2fed5578d0718bb619095b3ec.json"
     },
     {
-      "id": "f971f850ac70c22ff4abf5dac95914ba",
-      "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/05b77ba911a6a3107a8ada460c01d26723950dda-1884x1060.jpg?auto=format&q=75",
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-11T10:48:08.000Z",
+  "related": [
+    {
+      "id": "209b703fa80fa4259e44b8b32779baac",
+      "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f680e6b49e77cb08815db8870b4a9ee5569d61ad-2886x1504.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -52,10 +58,26 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-11T10:48:08.000Z",
+      "published_at": "2026-08-11T04:50:23.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/f971f850ac70c22ff4abf5dac95914ba.json"
+      "path": "articles/209b703fa80fa4259e44b8b32779baac.json"
+    },
+    {
+      "id": "018900e9deb7476004f9e89e9508f15d",
+      "title": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-shakes-market2.jpg",
+      "source": {
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-10T16:14:58.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/018900e9deb7476004f9e89e9508f15d.json"
     },
     {
       "id": "39590527ec525f4a1366019598e60089",

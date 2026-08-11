@@ -1,11 +1,11 @@
 {
-  "id": "18f0c64aa2eb28d1ba7f1ef1767febf4",
-  "title": "Interest rates may stay higher for longer. What that means for consumers ",
-  "description": "Any move toward higher rates would increase borrowing costs for consumers at a time when affordability pressures are already mounting.",
+  "id": "4bcb08000bb3b348287298fb4648e250",
+  "title": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
+  "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/10/fed-rate-hike-prospects-higher-interest-rates.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108342818-1785446867713-gettyimages-2288353363-6k4a1338_tvwq6pxf.jpeg?v=1785447011&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108339567-1784842862625-gettyimages-2287372611-_88a2619_7hjlkutv.jpeg?v=1784842934&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,9 +13,42 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-10T16:10:05.000Z",
+  "entities": [
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
+    },
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-11T16:21:35.000Z",
   "related": [
+    {
+      "id": "cc61115db3fab47f171a0e121b88fa7a",
+      "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
+      "image": "https://image.cnbcfm.com/api/v1/image/108136026-1745498530408-gettyimages-2211018309-INTEL_EARNS.jpeg?v=1758219071&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-11T14:45:44.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/cc61115db3fab47f171a0e121b88fa7a.json"
+    },
     {
       "id": "a702e272bbc96f7254365db676c6adc2",
       "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
@@ -33,20 +66,20 @@
       "path": "articles/a702e272bbc96f7254365db676c6adc2.json"
     },
     {
-      "id": "40b6e2e20a3d9f8ea0b5b336fcf65387",
-      "title": "Singapore revises its annual growth forecast sharply higher on AI-related boost ",
-      "image": "https://image.cnbcfm.com/api/v1/image/108347642-1786414643675-gettyimages-2289245388-AA_10082026_2910062.jpeg?v=1786414691&w=1920&h=1080",
+      "id": "3ba29ad4f94f2132ddc253b645e95c50",
+      "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e9266feac47af2efb0e63d06bff2900b7b377789-2118x1192.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
-      "published_at": "2026-08-11T02:58:27.000Z",
+      "category": "crypto",
+      "published_at": "2026-08-11T10:10:36.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/40b6e2e20a3d9f8ea0b5b336fcf65387.json"
+      "path": "articles/3ba29ad4f94f2132ddc253b645e95c50.json"
     },
     {
       "id": "b146d4587108d55ec333c21fe7fef53e",
@@ -63,22 +96,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/b146d4587108d55ec333c21fe7fef53e.json"
-    },
-    {
-      "id": "4bcb08000bb3b348287298fb4648e250",
-      "title": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
-      "image": "https://image.cnbcfm.com/api/v1/image/108339567-1784842862625-gettyimages-2287372611-_88a2619_7hjlkutv.jpeg?v=1784842934&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-11T16:21:35.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/4bcb08000bb3b348287298fb4648e250.json"
     },
     {
       "id": "36906cfa5777481659a4e583be8c4b37",

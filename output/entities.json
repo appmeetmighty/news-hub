@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T18:45:34.530Z",
+  "updated_at": "2026-08-11T19:01:05.450Z",
   "total": 23,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 41
+      "count": 40
     },
     {
       "id": "crypto",
@@ -23,7 +23,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 18
+      "count": 19
     },
     {
       "id": "regulation",
@@ -56,6 +56,15 @@
       "count": 7
     },
     {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -81,22 +90,13 @@
       "count": 5
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 4
+      "count": 5
     },
     {
       "id": "xrp",
@@ -106,6 +106,15 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 4
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 3
     },
     {
       "id": "nvda",
@@ -133,15 +142,6 @@
       "count": 2
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 2
-    },
-    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
@@ -149,20 +149,20 @@
       "count": 2
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "jpm",
       "symbol": "JPM",
       "name": "JPMorgan",
       "type": "company",
       "path": "tickers/jpm.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
       "icon": "",
       "count": 1
     },

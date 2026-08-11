@@ -1,18 +1,149 @@
 {
-  "updated_at": "2026-08-11T18:45:34.520Z",
+  "updated_at": "2026-08-11T19:01:05.432Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
-      "id": "22b2d918337d763c83b661e672f6e041",
-      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-      "description": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
+      "id": "c1e0e03ad7a0624ab3ba810a1fb1a93f",
+      "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+      "description": "The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.",
+      "reading_time_minutes": 1,
+      "breaking_score": 100,
+      "url": "https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-11T18:56:03.000Z",
+      "related": [
+        {
+          "id": "a0c11940b3080a8b476c3d49cf0efd2a",
+          "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T15:05:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a0c11940b3080a8b476c3d49cf0efd2a.json"
+        },
+        {
+          "id": "b3abe201e74c3faaf367f51fad04ae72",
+          "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-10T15:03:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b3abe201e74c3faaf367f51fad04ae72.json"
+        },
+        {
+          "id": "39590527ec525f4a1366019598e60089",
+          "title": "Live updates: Bitcoin falls to $63,500; Anthropic to watermark Claude's AI content after EU regulations",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/67051b664f53ad70890430a3737ee607d6265ded-2032x1114.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T10:34:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/39590527ec525f4a1366019598e60089.json"
+        },
+        {
+          "id": "38802a3803271a3f1e2274e04914a4b8",
+          "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/52a75fc064d4edec8578d5f50cec80aa05d1162f-1900x1268.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T09:37:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/38802a3803271a3f1e2274e04914a4b8.json"
+        },
+        {
+          "id": "1c1603b265879cb0460d270994270b43",
+          "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-greenhouse.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T08:00:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1c1603b265879cb0460d270994270b43.json"
+        }
+      ]
+    },
+    {
+      "id": "4a9416b5bdd4c11288d1d3651b7cfd51",
+      "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+      "description": "Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the company.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108277549-1773349197756-Rubin_GPU_Feb_13_2026.jpg?v=1773349383&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107371052-17074185042023-06-20t120423z_878485026_rc2ym1alvfpu_rtrmadp_0_advertising-cannes.jpeg?v=1707418585&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -22,24 +153,26 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
-        },
-        {
-          "id": "regulation",
-          "name": "Regulation",
-          "type": "topic",
-          "icon": ""
         }
       ],
-      "published_at": "2026-08-11T18:09:08.000Z",
+      "published_at": "2026-08-11T18:55:16.000Z",
       "related": [
         {
-          "id": "686157e1a29c3d685cffcff905405a84",
-          "title": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347705-1786435983910-gettyimages-2269305616-wlodarczyk-elevated260329_npanO.jpeg?v=1786436052&w=1920&h=1080",
+          "id": "6a224fd91d4a58d2abf14fd3fd230bbd",
+          "title": "OpenAI wraps $7 billion share sale ahead of potential IPO ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108341852-1785344982031-108341852-17853449352026-07-29t170337z_1106617197_rc2tnmac1dmv_rtrmadp_0_usa-congress-openai.jpg?v=1785344994&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -47,74 +180,74 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T10:06:07.000Z",
+          "published_at": "2026-08-10T22:15:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/686157e1a29c3d685cffcff905405a84.json"
+          "path": "articles/6a224fd91d4a58d2abf14fd3fd230bbd.json"
         },
         {
-          "id": "36906cfa5777481659a4e583be8c4b37",
-          "title": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
-          "image": "https://image.cnbcfm.com/api/v1/image/108330706-17833366882026-07-03t131929z_1683992226_rc2tvkas79wg_rtrmadp_0_iran-crisis-oil-exports.jpeg?v=1783336748&w=1920&h=1080",
+          "id": "b3abe201e74c3faaf367f51fad04ae72",
+          "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-08-11T18:40:37.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-10T15:03:07.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/36906cfa5777481659a4e583be8c4b37.json"
+          "path": "articles/b3abe201e74c3faaf367f51fad04ae72.json"
         },
         {
-          "id": "d02131ac884b41cabb36ba32bd9d817f",
-          "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347227-1786365048812-gettyimages-2289076429-FOOD_PRICES.jpeg?v=1786365114&w=1920&h=1080",
+          "id": "c1e0e03ad7a0624ab3ba810a1fb1a93f",
+          "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-08-11T18:34:41.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-11T18:56:03.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d02131ac884b41cabb36ba32bd9d817f.json"
+          "breaking_score": 100,
+          "path": "articles/c1e0e03ad7a0624ab3ba810a1fb1a93f.json"
         },
         {
-          "id": "bc8a1446fc04c3369f726279c11d2e88",
-          "title": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
-          "image": "https://image.cnbcfm.com/api/v1/image/106198592-1571842835262gettyimages-1063780584.jpg?v=1691507931&w=1920&h=1080",
+          "id": "a0c11940b3080a8b476c3d49cf0efd2a",
+          "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-08-11T18:23:43.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-11T15:05:35.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/bc8a1446fc04c3369f726279c11d2e88.json"
+          "path": "articles/a0c11940b3080a8b476c3d49cf0efd2a.json"
         },
         {
-          "id": "25be651863e55729b9c0eaeb5713e0b2",
-          "title": "Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block",
-          "image": "https://image.cnbcfm.com/api/v1/image/108229068-1786463591112-108229068-1763644489571-gettyimages-2246989627-AFP_84KE4NR.jpg?v=1786463606&w=1920&h=1080",
+          "id": "ec5c5371bd8f4adce50a2bacfabc7b0c",
+          "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-8.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-11T18:10:10.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-11T02:08:36.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/25be651863e55729b9c0eaeb5713e0b2.json"
+          "path": "articles/ec5c5371bd8f4adce50a2bacfabc7b0c.json"
         }
       ]
     },
@@ -163,7 +296,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-08-11T17:43:14.000Z",
+      "published_at": "2026-08-11T18:45:40.000Z",
       "related": [
         {
           "id": "1c1603b265879cb0460d270994270b43",
@@ -248,13 +381,13 @@
       ]
     },
     {
-      "id": "4a9416b5bdd4c11288d1d3651b7cfd51",
-      "title": "Longtime OpenAI executive Brad Lightcap leaves as shakeup at AI lab continues",
-      "description": "",
+      "id": "22b2d918337d763c83b661e672f6e041",
+      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
+      "description": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107371052-17074185042023-06-20t120423z_878485026_rc2ym1alvfpu_rtrmadp_0_advertising-cannes.jpeg?v=1707418585&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108277549-1773349197756-Rubin_GPU_Feb_13_2026.jpg?v=1773349383&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -264,26 +397,24 @@
       "category": "stocks",
       "entities": [
         {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
+        },
+        {
+          "id": "regulation",
+          "name": "Regulation",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-08-11T17:04:28.000Z",
+      "published_at": "2026-08-11T18:09:08.000Z",
       "related": [
         {
-          "id": "6a224fd91d4a58d2abf14fd3fd230bbd",
-          "title": "OpenAI wraps $7 billion share sale ahead of potential IPO ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108341852-1785344982031-108341852-17853449352026-07-29t170337z_1106617197_rc2tnmac1dmv_rtrmadp_0_usa-congress-openai.jpg?v=1785344994&w=1920&h=1080",
+          "id": "686157e1a29c3d685cffcff905405a84",
+          "title": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347705-1786435983910-gettyimages-2269305616-wlodarczyk-elevated260329_npanO.jpeg?v=1786436052&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -291,63 +422,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-10T22:15:31.000Z",
+          "published_at": "2026-08-11T10:06:07.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6a224fd91d4a58d2abf14fd3fd230bbd.json"
+          "path": "articles/686157e1a29c3d685cffcff905405a84.json"
         },
         {
-          "id": "b3abe201e74c3faaf367f51fad04ae72",
-          "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-10T15:03:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b3abe201e74c3faaf367f51fad04ae72.json"
-        },
-        {
-          "id": "a0c11940b3080a8b476c3d49cf0efd2a",
-          "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-11T15:05:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a0c11940b3080a8b476c3d49cf0efd2a.json"
-        },
-        {
-          "id": "ec5c5371bd8f4adce50a2bacfabc7b0c",
-          "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-8.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-11T02:08:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ec5c5371bd8f4adce50a2bacfabc7b0c.json"
-        },
-        {
-          "id": "18aa67b8fc461c44e9acbf884b065573",
-          "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347489-1786388613195-gettyimages-2289371376-AFP_C4CJ7NU.jpeg?v=1786394120&w=1920&h=1080",
+          "id": "36906cfa5777481659a4e583be8c4b37",
+          "title": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
+          "image": "https://image.cnbcfm.com/api/v1/image/108330706-17833366882026-07-03t131929z_1683992226_rc2tvkas79wg_rtrmadp_0_iran-crisis-oil-exports.jpeg?v=1783336748&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -355,10 +438,58 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-10T20:51:17.000Z",
+          "published_at": "2026-08-11T18:58:06.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/18aa67b8fc461c44e9acbf884b065573.json"
+          "path": "articles/36906cfa5777481659a4e583be8c4b37.json"
+        },
+        {
+          "id": "4a9416b5bdd4c11288d1d3651b7cfd51",
+          "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+          "image": "https://image.cnbcfm.com/api/v1/image/107371052-17074185042023-06-20t120423z_878485026_rc2ym1alvfpu_rtrmadp_0_advertising-cannes.jpeg?v=1707418585&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-11T18:55:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4a9416b5bdd4c11288d1d3651b7cfd51.json"
+        },
+        {
+          "id": "95fa66e91807c1807b9192cb4e78c1ba",
+          "title": "Why JPMorgan is investing big in the 2028 LA Olympics",
+          "image": "https://image.cnbcfm.com/api/v1/image/108335523-1784137899324-gettyimages-2285617061-DEFENSE_INNOVATION_SUMMIT.jpeg?v=1786463062&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-11T18:50:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/95fa66e91807c1807b9192cb4e78c1ba.json"
+        },
+        {
+          "id": "e42cf22afdc35d8f74227cf04a326cee",
+          "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347847-1786455062599-gettyimages-2227552730-img_1125.jpeg?v=1786455079&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-11T18:45:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e42cf22afdc35d8f74227cf04a326cee.json"
         }
       ]
     },
@@ -420,6 +551,22 @@
           "path": "articles/d2c575108e72f058f76113ff7f99e09c.json"
         },
         {
+          "id": "c1e0e03ad7a0624ab3ba810a1fb1a93f",
+          "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T18:56:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/c1e0e03ad7a0624ab3ba810a1fb1a93f.json"
+        },
+        {
           "id": "a0c11940b3080a8b476c3d49cf0efd2a",
           "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
@@ -466,22 +613,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/14e6e42dba1c77aa702d49616ccbfffb.json"
-        },
-        {
-          "id": "844608ab3ead193772cff7351147b4e7",
-          "title": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/trump-bitcoin.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-11T03:21:27.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/844608ab3ead193772cff7351147b4e7.json"
         }
       ]
     },
@@ -537,15 +668,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T18:40:37.000Z",
+          "published_at": "2026-08-11T18:58:06.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/36906cfa5777481659a4e583be8c4b37.json"
         },
         {
-          "id": "d02131ac884b41cabb36ba32bd9d817f",
-          "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347227-1786365048812-gettyimages-2289076429-FOOD_PRICES.jpeg?v=1786365114&w=1920&h=1080",
+          "id": "4a9416b5bdd4c11288d1d3651b7cfd51",
+          "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+          "image": "https://image.cnbcfm.com/api/v1/image/107371052-17074185042023-06-20t120423z_878485026_rc2ym1alvfpu_rtrmadp_0_advertising-cannes.jpeg?v=1707418585&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -553,15 +684,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T18:34:41.000Z",
+          "published_at": "2026-08-11T18:55:16.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d02131ac884b41cabb36ba32bd9d817f.json"
+          "path": "articles/4a9416b5bdd4c11288d1d3651b7cfd51.json"
         },
         {
-          "id": "bc8a1446fc04c3369f726279c11d2e88",
-          "title": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
-          "image": "https://image.cnbcfm.com/api/v1/image/106198592-1571842835262gettyimages-1063780584.jpg?v=1691507931&w=1920&h=1080",
+          "id": "95fa66e91807c1807b9192cb4e78c1ba",
+          "title": "Why JPMorgan is investing big in the 2028 LA Olympics",
+          "image": "https://image.cnbcfm.com/api/v1/image/108335523-1784137899324-gettyimages-2285617061-DEFENSE_INNOVATION_SUMMIT.jpeg?v=1786463062&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -569,15 +700,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T18:23:43.000Z",
+          "published_at": "2026-08-11T18:50:37.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/bc8a1446fc04c3369f726279c11d2e88.json"
+          "path": "articles/95fa66e91807c1807b9192cb4e78c1ba.json"
         },
         {
-          "id": "25be651863e55729b9c0eaeb5713e0b2",
-          "title": "Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block",
-          "image": "https://image.cnbcfm.com/api/v1/image/108229068-1786463591112-108229068-1763644489571-gettyimages-2246989627-AFP_84KE4NR.jpg?v=1786463606&w=1920&h=1080",
+          "id": "e42cf22afdc35d8f74227cf04a326cee",
+          "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347847-1786455062599-gettyimages-2227552730-img_1125.jpeg?v=1786455079&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -585,10 +716,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T18:10:10.000Z",
+          "published_at": "2026-08-11T18:45:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/25be651863e55729b9c0eaeb5713e0b2.json"
+          "path": "articles/e42cf22afdc35d8f74227cf04a326cee.json"
         }
       ]
     },
@@ -700,7 +831,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T18:40:37.000Z",
+          "published_at": "2026-08-11T18:58:06.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/36906cfa5777481659a4e583be8c4b37.json"
@@ -912,15 +1043,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T18:40:37.000Z",
+          "published_at": "2026-08-11T18:58:06.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/36906cfa5777481659a4e583be8c4b37.json"
         },
         {
-          "id": "bc8a1446fc04c3369f726279c11d2e88",
-          "title": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
-          "image": "https://image.cnbcfm.com/api/v1/image/106198592-1571842835262gettyimages-1063780584.jpg?v=1691507931&w=1920&h=1080",
+          "id": "4a9416b5bdd4c11288d1d3651b7cfd51",
+          "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+          "image": "https://image.cnbcfm.com/api/v1/image/107371052-17074185042023-06-20t120423z_878485026_rc2ym1alvfpu_rtrmadp_0_advertising-cannes.jpeg?v=1707418585&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -928,10 +1059,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T18:23:43.000Z",
+          "published_at": "2026-08-11T18:55:16.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/bc8a1446fc04c3369f726279c11d2e88.json"
+          "path": "articles/4a9416b5bdd4c11288d1d3651b7cfd51.json"
         }
       ]
     },
@@ -1019,7 +1150,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T17:43:14.000Z",
+          "published_at": "2026-08-11T18:45:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e42cf22afdc35d8f74227cf04a326cee.json"
@@ -1253,7 +1384,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T17:43:14.000Z",
+          "published_at": "2026-08-11T18:45:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e42cf22afdc35d8f74227cf04a326cee.json"
@@ -1699,6 +1830,22 @@
       "published_at": "2026-08-10T19:56:50.000Z",
       "related": [
         {
+          "id": "c1e0e03ad7a0624ab3ba810a1fb1a93f",
+          "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T18:56:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/c1e0e03ad7a0624ab3ba810a1fb1a93f.json"
+        },
+        {
           "id": "52b049dae8ee195e0fcf1fb7ae5fecd0",
           "title": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png@png",
@@ -1761,22 +1908,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2fe86fb2b533efde3269281b7d7a7cd2.json"
-        },
-        {
-          "id": "a0c11940b3080a8b476c3d49cf0efd2a",
-          "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-11T15:05:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a0c11940b3080a8b476c3d49cf0efd2a.json"
         }
       ]
     },
@@ -1805,6 +1936,22 @@
       ],
       "published_at": "2026-08-10T18:31:06.000Z",
       "related": [
+        {
+          "id": "c1e0e03ad7a0624ab3ba810a1fb1a93f",
+          "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T18:56:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/c1e0e03ad7a0624ab3ba810a1fb1a93f.json"
+        },
         {
           "id": "52b049dae8ee195e0fcf1fb7ae5fecd0",
           "title": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss",
@@ -1868,22 +2015,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a980e8ee4605421a4e5b67481a547202.json"
-        },
-        {
-          "id": "2fe86fb2b533efde3269281b7d7a7cd2",
-          "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/09/etoro-crypto-defi-portfolio-gID_4.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-11T16:45:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2fe86fb2b533efde3269281b7d7a7cd2.json"
         }
       ]
     },
@@ -1921,6 +2052,22 @@
       "published_at": "2026-08-10T15:03:07.000Z",
       "related": [
         {
+          "id": "c1e0e03ad7a0624ab3ba810a1fb1a93f",
+          "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T18:56:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/c1e0e03ad7a0624ab3ba810a1fb1a93f.json"
+        },
+        {
           "id": "a0c11940b3080a8b476c3d49cf0efd2a",
           "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
@@ -1954,7 +2101,7 @@
         },
         {
           "id": "4a9416b5bdd4c11288d1d3651b7cfd51",
-          "title": "Longtime OpenAI executive Brad Lightcap leaves as shakeup at AI lab continues",
+          "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
           "image": "https://image.cnbcfm.com/api/v1/image/107371052-17074185042023-06-20t120423z_878485026_rc2ym1alvfpu_rtrmadp_0_advertising-cannes.jpeg?v=1707418585&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -1963,7 +2110,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T17:04:28.000Z",
+          "published_at": "2026-08-11T18:55:16.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4a9416b5bdd4c11288d1d3651b7cfd51.json"
@@ -1983,22 +2130,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6a224fd91d4a58d2abf14fd3fd230bbd.json"
-        },
-        {
-          "id": "51bf0bacf37581bbe60ea29384bb1d9c",
-          "title": "Bitcoin Rally Fades—Where Does Price Go Next?",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-10T17:18:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/51bf0bacf37581bbe60ea29384bb1d9c.json"
         }
       ]
     },
@@ -2035,22 +2166,6 @@
       ],
       "published_at": "2026-08-08T17:31:03.000Z",
       "related": [
-        {
-          "id": "d9007fd2fed5578d0718bb619095b3ec",
-          "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-07T20:00:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d9007fd2fed5578d0718bb619095b3ec.json"
-        },
         {
           "id": "31a265242de2ccded869aeacc481f059",
           "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
@@ -2114,6 +2229,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/14e6e42dba1c77aa702d49616ccbfffb.json"
+        },
+        {
+          "id": "ec5c5371bd8f4adce50a2bacfabc7b0c",
+          "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-8.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T02:08:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ec5c5371bd8f4adce50a2bacfabc7b0c.json"
         }
       ]
     }

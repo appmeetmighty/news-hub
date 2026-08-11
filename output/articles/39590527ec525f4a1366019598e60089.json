@@ -1,11 +1,11 @@
 {
-  "id": "044928a863baa619a65150b19571468e",
-  "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
-  "description": "The Securities and Exchange Commission will vote this week to start its first major crypto rulemaking process.",
+  "id": "39590527ec525f4a1366019598e60089",
+  "title": "Live updates: Bitcoin slips as corporate BTC enthusiasm moves to AI",
+  "description": "FxPro’s Alex Kuptsikevich said companies that helped give bitcoin institutional cover are now chasing AI data centers, putting BTC’s flat 50-day moving average in focus.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
-  "image": "https://cdn.sanity.io/images/s3y3vcno/production/7bb0699e8b9da16592a55f2b39f0777935133915-2344x1318.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.6605&fp-y=0.4183&w=1920&h=1080&q=75",
+  "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/4ef8d303f7969904e5e1ae76f9c06eaf7e4ea513-2856x1448.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
   "source": {
     "id": "coindesk",
     "name": "CoinDesk",
@@ -15,19 +15,21 @@
   "category": "crypto",
   "entities": [
     {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": ""
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
     },
     {
-      "id": "regulation",
-      "name": "Regulation",
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-11T04:07:48.000Z",
+  "published_at": "2026-08-11T10:34:52.000Z",
   "related": [
     {
       "id": "1cbc47e968f5e0700acea7c23fdaa21b",
@@ -46,9 +48,9 @@
       "path": "articles/1cbc47e968f5e0700acea7c23fdaa21b.json"
     },
     {
-      "id": "3ba29ad4f94f2132ddc253b645e95c50",
-      "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e9266feac47af2efb0e63d06bff2900b7b377789-2118x1192.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "id": "7e5886343a389cda715c50c7e19940f6",
+      "title": "Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/dc4c12877ab4eb63b5f44ae62d0347edcbabaa90-1920x1080.png?auto=format&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -56,15 +58,15 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-11T10:10:36.000Z",
+      "published_at": "2026-08-11T10:28:19.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/3ba29ad4f94f2132ddc253b645e95c50.json"
+      "path": "articles/7e5886343a389cda715c50c7e19940f6.json"
     },
     {
-      "id": "24dba4839f94ed0e44a9678c2285db93",
-      "title": " UK lawmakers question lenders over lack of banking for the country’s crypto firms",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d4612798d9bbe555c5efe5641284432f65e99e51-1500x938.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "id": "d7664c8a9b970ed06a0781714e061723",
+      "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c97bd815dbaa4d0c149b3c9a15cc76b83b6dab51-720x406.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -72,10 +74,10 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-11T10:06:39.000Z",
+      "published_at": "2026-08-11T06:19:07.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/24dba4839f94ed0e44a9678c2285db93.json"
+      "breaking_score": 60,
+      "path": "articles/d7664c8a9b970ed06a0781714e061723.json"
     },
     {
       "id": "209b703fa80fa4259e44b8b32779baac",

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-11T08:01:16.151Z",
+  "updated_at": "2026-08-11T08:15:42.892Z",
   "articles": {
-    "generated_at": "2026-08-11T08:01:16.151Z",
+    "generated_at": "2026-08-11T08:15:42.892Z",
     "topics": [
       {
         "id": "btc",
@@ -10,6 +10,20 @@
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
         "count": 40,
         "articles": [
+          {
+            "id": "1c1603b265879cb0460d270994270b43",
+            "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-greenhouse.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-11T08:00:26.000Z",
+            "path": "articles/1c1603b265879cb0460d270994270b43.json"
+          },
           {
             "id": "d7664c8a9b970ed06a0781714e061723",
             "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
@@ -135,20 +149,6 @@
             "category": "crypto",
             "published_at": "2026-08-10T21:02:43.000Z",
             "path": "articles/9e7b432c225b26383a50a12561297cb4.json"
-          },
-          {
-            "id": "5f6b652ca5515b0fad604248f1f598fe",
-            "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/6398b4995f520f7aff6cf8486d8ae4c965ff005c-1252x702.png?auto=format&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-10T20:03:24.000Z",
-            "path": "articles/5f6b652ca5515b0fad604248f1f598fe.json"
           }
         ]
       },
@@ -828,6 +828,99 @@
         ]
       },
       {
+        "id": "mining",
+        "name": "Mining",
+        "type": "topic",
+        "icon": "",
+        "count": 6,
+        "articles": [
+          {
+            "id": "1c1603b265879cb0460d270994270b43",
+            "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-greenhouse.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-11T08:00:26.000Z",
+            "path": "articles/1c1603b265879cb0460d270994270b43.json"
+          },
+          {
+            "id": "4e1e1caa25474f04200c31cfa89be741",
+            "title": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-top-mining-hardware-to-expect-in-russia.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-10T13:07:42.000Z",
+            "path": "articles/4e1e1caa25474f04200c31cfa89be741.json"
+          },
+          {
+            "id": "2a8d805cc4f6367b0dff611fe86cfdfa",
+            "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-10T06:25:17.000Z",
+            "path": "articles/2a8d805cc4f6367b0dff611fe86cfdfa.json"
+          },
+          {
+            "id": "b68a79727bd5ee094fa389b1a6582a60",
+            "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-09T19:33:09.000Z",
+            "path": "articles/b68a79727bd5ee094fa389b1a6582a60.json"
+          },
+          {
+            "id": "5d8363c431cc9845b9990598a7b301be",
+            "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-seeks-ipo.png",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-09T11:00:53.000Z",
+            "path": "articles/5d8363c431cc9845b9990598a7b301be.json"
+          },
+          {
+            "id": "47d9c24491828f5b37abd74ef3d31cdb",
+            "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/the-bitcoin-and-bitcoin-cash-wars.png",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-08T21:17:08.000Z",
+            "path": "articles/47d9c24491828f5b37abd74ef3d31cdb.json"
+          }
+        ]
+      },
+      {
         "id": "oil",
         "name": "Oil",
         "type": "commodity",
@@ -1107,85 +1200,6 @@
         ]
       },
       {
-        "id": "mining",
-        "name": "Mining",
-        "type": "topic",
-        "icon": "",
-        "count": 5,
-        "articles": [
-          {
-            "id": "4e1e1caa25474f04200c31cfa89be741",
-            "title": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-top-mining-hardware-to-expect-in-russia.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-10T13:07:42.000Z",
-            "path": "articles/4e1e1caa25474f04200c31cfa89be741.json"
-          },
-          {
-            "id": "2a8d805cc4f6367b0dff611fe86cfdfa",
-            "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-10T06:25:17.000Z",
-            "path": "articles/2a8d805cc4f6367b0dff611fe86cfdfa.json"
-          },
-          {
-            "id": "b68a79727bd5ee094fa389b1a6582a60",
-            "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-09T19:33:09.000Z",
-            "path": "articles/b68a79727bd5ee094fa389b1a6582a60.json"
-          },
-          {
-            "id": "5d8363c431cc9845b9990598a7b301be",
-            "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-seeks-ipo.png",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-09T11:00:53.000Z",
-            "path": "articles/5d8363c431cc9845b9990598a7b301be.json"
-          },
-          {
-            "id": "47d9c24491828f5b37abd74ef3d31cdb",
-            "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/the-bitcoin-and-bitcoin-cash-wars.png",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-08T21:17:08.000Z",
-            "path": "articles/47d9c24491828f5b37abd74ef3d31cdb.json"
-          }
-        ]
-      },
-      {
         "id": "defi",
         "name": "DeFi",
         "type": "topic",
@@ -1312,6 +1326,57 @@
             "category": "crypto",
             "published_at": "2026-08-07T13:26:19.000Z",
             "path": "articles/4ed6387ba65a1411c80c00b0db73ec8c.json"
+          }
+        ]
+      },
+      {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
+        "count": 3,
+        "articles": [
+          {
+            "id": "1c1603b265879cb0460d270994270b43",
+            "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-greenhouse.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-11T08:00:26.000Z",
+            "path": "articles/1c1603b265879cb0460d270994270b43.json"
+          },
+          {
+            "id": "d10fe8b6d583ee7a922cbd6399ceca64",
+            "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+            "image": "https://image.cnbcfm.com/api/v1/image/108201478-17583103972025-09-18t012329z_339798057_rc21ugat6ure_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1758310428&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-10T12:40:36.000Z",
+            "path": "articles/d10fe8b6d583ee7a922cbd6399ceca64.json"
+          },
+          {
+            "id": "6f49645e53bab0c3ab3452ec628ae65a",
+            "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-07T12:37:14.000Z",
+            "path": "articles/6f49645e53bab0c3ab3452ec628ae65a.json"
           }
         ]
       },
@@ -1613,43 +1678,6 @@
             "category": "crypto",
             "published_at": "2026-08-10T13:26:36.000Z",
             "path": "articles/8f7ece4fdde2a9dadd88804372483382.json"
-          }
-        ]
-      },
-      {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "d10fe8b6d583ee7a922cbd6399ceca64",
-            "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
-            "image": "https://image.cnbcfm.com/api/v1/image/108201478-17583103972025-09-18t012329z_339798057_rc21ugat6ure_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1758310428&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-10T12:40:36.000Z",
-            "path": "articles/d10fe8b6d583ee7a922cbd6399ceca64.json"
-          },
-          {
-            "id": "6f49645e53bab0c3ab3452ec628ae65a",
-            "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-07T12:37:14.000Z",
-            "path": "articles/6f49645e53bab0c3ab3452ec628ae65a.json"
           }
         ]
       },

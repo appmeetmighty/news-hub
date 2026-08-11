@@ -1,10 +1,141 @@
 {
-  "updated_at": "2026-08-11T17:15:36.298Z",
+  "updated_at": "2026-08-11T17:30:56.319Z",
   "id": "stablecoin",
   "name": "Stablecoin",
   "type": "topic",
-  "total": 4,
+  "total": 5,
   "articles": [
+    {
+      "id": "31a265242de2ccded869aeacc481f059",
+      "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
+      "description": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
+        {
+          "id": "xrp",
+          "symbol": "XRP",
+          "name": "XRP",
+          "type": "crypto",
+          "path": "tickers/xrp.json",
+          "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
+        },
+        {
+          "id": "stablecoin",
+          "name": "Stablecoin",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-11T17:26:54.000Z",
+      "related": [
+        {
+          "id": "e42535dba86ef71f63cc66e463bc7555",
+          "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/bank-with-crypto-characters.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T12:09:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e42535dba86ef71f63cc66e463bc7555.json"
+        },
+        {
+          "id": "afc3bccd133ff39e1b95aa2be5503128",
+          "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/etf-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-10T12:32:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/afc3bccd133ff39e1b95aa2be5503128.json"
+        },
+        {
+          "id": "7f01a25b5bb44ed2d23190573e19fe98",
+          "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-tether-on-a-brink-of-major-upgrade-eu.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T10:55:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7f01a25b5bb44ed2d23190573e19fe98.json"
+        },
+        {
+          "id": "f971f850ac70c22ff4abf5dac95914ba",
+          "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/05b77ba911a6a3107a8ada460c01d26723950dda-1884x1060.jpg?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T10:48:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f971f850ac70c22ff4abf5dac95914ba.json"
+        },
+        {
+          "id": "209b703fa80fa4259e44b8b32779baac",
+          "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f680e6b49e77cb08815db8870b4a9ee5569d61ad-2886x1504.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T04:50:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/209b703fa80fa4259e44b8b32779baac.json"
+        }
+      ]
+    },
     {
       "id": "e42535dba86ef71f63cc66e463bc7555",
       "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
@@ -38,6 +169,22 @@
       ],
       "published_at": "2026-08-11T12:09:38.000Z",
       "related": [
+        {
+          "id": "31a265242de2ccded869aeacc481f059",
+          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T17:26:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/31a265242de2ccded869aeacc481f059.json"
+        },
         {
           "id": "7f01a25b5bb44ed2d23190573e19fe98",
           "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
@@ -101,22 +248,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d3d3ef3783cc17eb11419371935d1a54.json"
-        },
-        {
-          "id": "1c1603b265879cb0460d270994270b43",
-          "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-greenhouse.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-11T08:00:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1c1603b265879cb0460d270994270b43.json"
         }
       ]
     },
@@ -170,6 +301,22 @@
           "path": "articles/e42535dba86ef71f63cc66e463bc7555.json"
         },
         {
+          "id": "31a265242de2ccded869aeacc481f059",
+          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T17:26:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/31a265242de2ccded869aeacc481f059.json"
+        },
+        {
           "id": "0943d66ddc07c54b25d43f68db15723b",
           "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-extreme-gold-net-longs-can-also-push-bitcoin-price-to-new-highs-in-2021.jpg",
@@ -216,22 +363,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d3d3ef3783cc17eb11419371935d1a54.json"
-        },
-        {
-          "id": "1c1603b265879cb0460d270994270b43",
-          "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-greenhouse.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-11T08:00:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1c1603b265879cb0460d270994270b43.json"
         }
       ]
     },
@@ -309,6 +440,22 @@
           "path": "articles/58c0b466bd34e8140a41ca1216538710.json"
         },
         {
+          "id": "31a265242de2ccded869aeacc481f059",
+          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T17:26:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/31a265242de2ccded869aeacc481f059.json"
+        },
+        {
           "id": "844608ab3ead193772cff7351147b4e7",
           "title": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss",
           "image": "https://s3-images.ctmedia.io/media/article-covers/trump-bitcoin.jpg",
@@ -323,22 +470,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/844608ab3ead193772cff7351147b4e7.json"
-        },
-        {
-          "id": "a980e8ee4605421a4e5b67481a547202",
-          "title": "FlightAware sues Kalshi over flight cancellation data",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-coin-moving-ahead-with-release-but-progress-delayed.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-11T16:55:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a980e8ee4605421a4e5b67481a547202.json"
         }
       ]
     },
@@ -422,6 +553,22 @@
           "path": "articles/282077be99f3778b437c69f441834049.json"
         },
         {
+          "id": "31a265242de2ccded869aeacc481f059",
+          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T17:26:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/31a265242de2ccded869aeacc481f059.json"
+        },
+        {
           "id": "cfedca49fdd5a211258d7ae3c41b2938",
           "title": "South Korea drops Travel Rule threshold for crypto transfers",
           "image": "https://s3-images.ctmedia.io/media/article-covers/south-korea-coin.jpg",
@@ -436,22 +583,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/cfedca49fdd5a211258d7ae3c41b2938.json"
-        },
-        {
-          "id": "018900e9deb7476004f9e89e9508f15d",
-          "title": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-shakes-market2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-10T16:14:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/018900e9deb7476004f9e89e9508f15d.json"
         }
       ]
     }

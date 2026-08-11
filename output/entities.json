@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T16:45:40.796Z",
-  "total": 25,
+  "updated_at": "2026-08-11T17:01:06.606Z",
+  "total": 23,
   "entities": [
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 33
+      "count": 34
     },
     {
       "id": "ai",
@@ -37,7 +37,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 10
+      "count": 9
     },
     {
       "id": "mining",
@@ -45,6 +45,15 @@
       "type": "topic",
       "icon": "",
       "count": 7
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "oil",
@@ -63,15 +72,6 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 6
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "eth",
@@ -189,24 +189,6 @@
       "name": "ETF",
       "type": "topic",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "bnb",
-      "symbol": "BNB",
-      "name": "BNB",
-      "type": "crypto",
-      "path": "tickers/bnb.json",
-      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
-      "count": 1
-    },
-    {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
       "count": 1
     }
   ]

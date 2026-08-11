@@ -1,10 +1,246 @@
 {
-  "updated_at": "2026-08-11T10:01:04.347Z",
+  "updated_at": "2026-08-11T10:15:34.193Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 17,
+  "total": 19,
   "articles": [
+    {
+      "id": "a702e272bbc96f7254365db676c6adc2",
+      "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+      "description": "The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
+      "reading_time_minutes": 1,
+      "breaking_score": 25,
+      "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-11T10:12:14.000Z",
+      "related": [
+        {
+          "id": "2537ac85c0e9b4c557b881359aa8c4f8",
+          "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108292490-1776347906856-gettyimages-2253792580-US_STOCKS.jpeg?v=1777030120&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-10T13:39:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/2537ac85c0e9b4c557b881359aa8c4f8.json"
+        },
+        {
+          "id": "3ba29ad4f94f2132ddc253b645e95c50",
+          "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e9266feac47af2efb0e63d06bff2900b7b377789-2118x1192.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T10:10:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3ba29ad4f94f2132ddc253b645e95c50.json"
+        },
+        {
+          "id": "18f0c64aa2eb28d1ba7f1ef1767febf4",
+          "title": "Interest rates may stay higher for longer. What that means for consumers ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108342818-1785446867713-gettyimages-2288353363-6k4a1338_tvwq6pxf.jpeg?v=1785447011&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-10T16:10:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/18f0c64aa2eb28d1ba7f1ef1767febf4.json"
+        },
+        {
+          "id": "686157e1a29c3d685cffcff905405a84",
+          "title": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347705-1786435983910-gettyimages-2269305616-wlodarczyk-elevated260329_npanO.jpeg?v=1786436052&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-11T10:06:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/686157e1a29c3d685cffcff905405a84.json"
+        },
+        {
+          "id": "6372cddbfe9b6e322ffaeb11c59871e6",
+          "title": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
+          "image": "https://image.cnbcfm.com/api/v1/image/108065955-17321367482024-11-20t205248z_718615329_rc2n1z9xpolb_rtrmadp_0_adani-group-usa.jpeg?v=1732136852&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-11T09:57:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6372cddbfe9b6e322ffaeb11c59871e6.json"
+        }
+      ]
+    },
+    {
+      "id": "3ba29ad4f94f2132ddc253b645e95c50",
+      "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
+      "description": "Nvidia has signed memorandums of understanding with six major Wall Street firms to establish \"AI compute\" as a bankable infrastructure asset.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/tech/2026/08/11/nvidia-wants-to-turn-its-ai-chips-into-an-investable-asset-class",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e9266feac47af2efb0e63d06bff2900b7b377789-2118x1192.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-11T10:10:36.000Z",
+      "related": [
+        {
+          "id": "a702e272bbc96f7254365db676c6adc2",
+          "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-11T10:12:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/a702e272bbc96f7254365db676c6adc2.json"
+        },
+        {
+          "id": "2537ac85c0e9b4c557b881359aa8c4f8",
+          "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108292490-1776347906856-gettyimages-2253792580-US_STOCKS.jpeg?v=1777030120&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-10T13:39:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/2537ac85c0e9b4c557b881359aa8c4f8.json"
+        },
+        {
+          "id": "38802a3803271a3f1e2274e04914a4b8",
+          "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/52a75fc064d4edec8578d5f50cec80aa05d1162f-1900x1268.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T09:37:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/38802a3803271a3f1e2274e04914a4b8.json"
+        },
+        {
+          "id": "7aa40156a1049af80b1796aa813cf152",
+          "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed1f70c8a29fed6e347f5464e05c5fef6c0c998b-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T05:26:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7aa40156a1049af80b1796aa813cf152.json"
+        },
+        {
+          "id": "209b703fa80fa4259e44b8b32779baac",
+          "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f680e6b49e77cb08815db8870b4a9ee5569d61ad-2886x1504.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T04:50:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/209b703fa80fa4259e44b8b32779baac.json"
+        }
+      ]
+    },
     {
       "id": "38802a3803271a3f1e2274e04914a4b8",
       "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
@@ -305,9 +541,9 @@
           "path": "articles/6a224fd91d4a58d2abf14fd3fd230bbd.json"
         },
         {
-          "id": "45f19a97f19d57b39f518bcb126eb283",
-          "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
-          "image": "https://image.cnbcfm.com/api/v1/image/108335936-1784206611053-gettyimages-2286325891-a9t00976_7cmyvuio_doiybs5p.jpeg?v=1784206641&w=1920&h=1080",
+          "id": "686157e1a29c3d685cffcff905405a84",
+          "title": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347705-1786435983910-gettyimages-2269305616-wlodarczyk-elevated260329_npanO.jpeg?v=1786436052&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -315,10 +551,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-10T22:09:00.000Z",
+          "published_at": "2026-08-11T10:06:07.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/45f19a97f19d57b39f518bcb126eb283.json"
+          "path": "articles/686157e1a29c3d685cffcff905405a84.json"
         },
         {
           "id": "1fc176f7ef36608dbea0b0309c4ef397",
@@ -353,9 +589,9 @@
           "path": "articles/2537ac85c0e9b4c557b881359aa8c4f8.json"
         },
         {
-          "id": "6372cddbfe9b6e322ffaeb11c59871e6",
-          "title": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
-          "image": "https://image.cnbcfm.com/api/v1/image/108065955-17321367482024-11-20t205248z_718615329_rc2n1z9xpolb_rtrmadp_0_adani-group-usa.jpeg?v=1732136852&w=1920&h=1080",
+          "id": "a702e272bbc96f7254365db676c6adc2",
+          "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -363,10 +599,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T09:57:10.000Z",
+          "published_at": "2026-08-11T10:12:14.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6372cddbfe9b6e322ffaeb11c59871e6.json"
+          "breaking_score": 25,
+          "path": "articles/a702e272bbc96f7254365db676c6adc2.json"
         }
       ]
     },
@@ -412,6 +648,38 @@
           "path": "articles/18f0c64aa2eb28d1ba7f1ef1767febf4.json"
         },
         {
+          "id": "a702e272bbc96f7254365db676c6adc2",
+          "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-11T10:12:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/a702e272bbc96f7254365db676c6adc2.json"
+        },
+        {
+          "id": "686157e1a29c3d685cffcff905405a84",
+          "title": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347705-1786435983910-gettyimages-2269305616-wlodarczyk-elevated260329_npanO.jpeg?v=1786436052&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-11T10:06:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/686157e1a29c3d685cffcff905405a84.json"
+        },
+        {
           "id": "6372cddbfe9b6e322ffaeb11c59871e6",
           "title": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
           "image": "https://image.cnbcfm.com/api/v1/image/108065955-17321367482024-11-20t205248z_718615329_rc2n1z9xpolb_rtrmadp_0_adani-group-usa.jpeg?v=1732136852&w=1920&h=1080",
@@ -442,38 +710,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1df90fde0938f4589705e0b02049f39e.json"
-        },
-        {
-          "id": "f9f61889516e63179a89de174dd79c1b",
-          "title": "Eli Lilly takes weight-loss pill battle global with first Foundayo approval outside U.S.",
-          "image": "https://image.cnbcfm.com/api/v1/image/108345367-1785944365993-gettyimages-2275860755-64393_48_mso6316.jpeg?v=1785944445&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-11T09:27:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f9f61889516e63179a89de174dd79c1b.json"
-        },
-        {
-          "id": "1f6e67863d7cadccf8da997e3b05a6d5",
-          "title": "Treasury yields up as oil prices jump and investors await inflation data ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108344539-1785853710278-Traders-Photo-20260803-KK-PRESS-016.jpg?v=1785853829&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-11T08:39:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1f6e67863d7cadccf8da997e3b05a6d5.json"
         }
       ]
     },
@@ -910,9 +1146,9 @@
           "path": "articles/0319ac52e6adc8c3e9a6676e39aa298b.json"
         },
         {
-          "id": "6372cddbfe9b6e322ffaeb11c59871e6",
-          "title": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
-          "image": "https://image.cnbcfm.com/api/v1/image/108065955-17321367482024-11-20t205248z_718615329_rc2n1z9xpolb_rtrmadp_0_adani-group-usa.jpeg?v=1732136852&w=1920&h=1080",
+          "id": "a702e272bbc96f7254365db676c6adc2",
+          "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -920,15 +1156,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T09:57:10.000Z",
+          "published_at": "2026-08-11T10:12:14.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6372cddbfe9b6e322ffaeb11c59871e6.json"
+          "breaking_score": 25,
+          "path": "articles/a702e272bbc96f7254365db676c6adc2.json"
         },
         {
-          "id": "1df90fde0938f4589705e0b02049f39e",
-          "title": "'That's a good idea': U.S. and Iran trade reparation demands as Hormuz deal hopes fade",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347513-1786390334284-gettyimages-2289375722-AFP_C4CJ7RZ.jpeg?v=1786390358&w=1920&h=1080",
+          "id": "686157e1a29c3d685cffcff905405a84",
+          "title": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347705-1786435983910-gettyimages-2269305616-wlodarczyk-elevated260329_npanO.jpeg?v=1786436052&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -936,10 +1172,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T09:46:04.000Z",
+          "published_at": "2026-08-11T10:06:07.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1df90fde0938f4589705e0b02049f39e.json"
+          "path": "articles/686157e1a29c3d685cffcff905405a84.json"
         }
       ]
     },
@@ -1330,9 +1566,9 @@
       "published_at": "2026-08-10T13:39:56.000Z",
       "related": [
         {
-          "id": "45f19a97f19d57b39f518bcb126eb283",
-          "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
-          "image": "https://image.cnbcfm.com/api/v1/image/108335936-1784206611053-gettyimages-2286325891-a9t00976_7cmyvuio_doiybs5p.jpeg?v=1784206641&w=1920&h=1080",
+          "id": "a702e272bbc96f7254365db676c6adc2",
+          "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1340,10 +1576,42 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-10T22:09:00.000Z",
+          "published_at": "2026-08-11T10:12:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/a702e272bbc96f7254365db676c6adc2.json"
+        },
+        {
+          "id": "3ba29ad4f94f2132ddc253b645e95c50",
+          "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e9266feac47af2efb0e63d06bff2900b7b377789-2118x1192.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T10:10:36.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/45f19a97f19d57b39f518bcb126eb283.json"
+          "path": "articles/3ba29ad4f94f2132ddc253b645e95c50.json"
+        },
+        {
+          "id": "686157e1a29c3d685cffcff905405a84",
+          "title": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347705-1786435983910-gettyimages-2269305616-wlodarczyk-elevated260329_npanO.jpeg?v=1786436052&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-11T10:06:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/686157e1a29c3d685cffcff905405a84.json"
         },
         {
           "id": "cc61115db3fab47f171a0e121b88fa7a",
@@ -1376,38 +1644,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6372cddbfe9b6e322ffaeb11c59871e6.json"
-        },
-        {
-          "id": "1df90fde0938f4589705e0b02049f39e",
-          "title": "'That's a good idea': U.S. and Iran trade reparation demands as Hormuz deal hopes fade",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347513-1786390334284-gettyimages-2289375722-AFP_C4CJ7RZ.jpeg?v=1786390358&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-11T09:46:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1df90fde0938f4589705e0b02049f39e.json"
-        },
-        {
-          "id": "f9f61889516e63179a89de174dd79c1b",
-          "title": "Eli Lilly takes weight-loss pill battle global with first Foundayo approval outside U.S.",
-          "image": "https://image.cnbcfm.com/api/v1/image/108345367-1785944365993-gettyimages-2275860755-64393_48_mso6316.jpeg?v=1785944445&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-11T09:27:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f9f61889516e63179a89de174dd79c1b.json"
         }
       ]
     },
@@ -1689,6 +1925,22 @@
       "published_at": "2026-08-10T07:00:00.000Z",
       "related": [
         {
+          "id": "3ba29ad4f94f2132ddc253b645e95c50",
+          "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e9266feac47af2efb0e63d06bff2900b7b377789-2118x1192.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T10:10:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3ba29ad4f94f2132ddc253b645e95c50.json"
+        },
+        {
           "id": "38802a3803271a3f1e2274e04914a4b8",
           "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/52a75fc064d4edec8578d5f50cec80aa05d1162f-1900x1268.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1751,22 +2003,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2a1c591e91d5dee36360c8da75fcdfa4.json"
-        },
-        {
-          "id": "cb5ddc5a85e03d756c6f181b42f106ad",
-          "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-10T11:39:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cb5ddc5a85e03d756c6f181b42f106ad.json"
         }
       ]
     },

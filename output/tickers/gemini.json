@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T10:15:34.204Z",
+  "updated_at": "2026-08-12T05:15:45.573Z",
   "id": "gemini",
   "symbol": "GEMINI",
   "name": "Gemini",
@@ -7,21 +7,45 @@
   "total": 1,
   "articles": [
     {
-      "id": "7271ee29496f6f2cf3094d8376f804e7",
-      "title": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
-      "description": "Your look at what's coming in the week starting Aug. 10",
+      "id": "553def146977149dd48f1ec4cc3a29b6",
+      "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
+      "description": "Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f93a68faff56e9b07fbb81cf8ad37ba84d47c186-4920x2768.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
       "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
         {
           "id": "gemini",
           "symbol": "GEMINI",
@@ -31,82 +55,82 @@
           "icon": ""
         },
         {
-          "id": "crypto",
-          "name": "Crypto",
+          "id": "ai",
+          "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-08-10T08:57:04.000Z",
+      "published_at": "2026-08-12T05:00:01.000Z",
       "related": [
         {
-          "id": "3ba29ad4f94f2132ddc253b645e95c50",
-          "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e9266feac47af2efb0e63d06bff2900b7b377789-2118x1192.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "c1e0e03ad7a0624ab3ba810a1fb1a93f",
+          "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-11T10:10:36.000Z",
+          "published_at": "2026-08-11T18:56:03.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3ba29ad4f94f2132ddc253b645e95c50.json"
+          "breaking_score": 100,
+          "path": "articles/c1e0e03ad7a0624ab3ba810a1fb1a93f.json"
         },
         {
-          "id": "209b703fa80fa4259e44b8b32779baac",
-          "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f680e6b49e77cb08815db8870b4a9ee5569d61ad-2886x1504.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "4a9416b5bdd4c11288d1d3651b7cfd51",
+          "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+          "image": "https://image.cnbcfm.com/api/v1/image/107371052-17074185042023-06-20t120423z_878485026_rc2ym1alvfpu_rtrmadp_0_advertising-cannes.jpeg?v=1707418585&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-11T04:50:23.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-11T19:41:17.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/209b703fa80fa4259e44b8b32779baac.json"
+          "path": "articles/4a9416b5bdd4c11288d1d3651b7cfd51.json"
         },
         {
-          "id": "044928a863baa619a65150b19571468e",
-          "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7bb0699e8b9da16592a55f2b39f0777935133915-2344x1318.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.6605&fp-y=0.4183&w=1920&h=1080&q=75",
+          "id": "e42cf22afdc35d8f74227cf04a326cee",
+          "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347847-1786455062599-gettyimages-2227552730-img_1125.jpeg?v=1786455079&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-11T04:07:48.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-11T19:08:16.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/044928a863baa619a65150b19571468e.json"
+          "path": "articles/e42cf22afdc35d8f74227cf04a326cee.json"
         },
         {
-          "id": "2a1c591e91d5dee36360c8da75fcdfa4",
-          "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "0eea80dd2ff7757b98e8087461a86f1a",
+          "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-10T21:12:07.000Z",
+          "published_at": "2026-08-11T22:04:06.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2a1c591e91d5dee36360c8da75fcdfa4.json"
+          "path": "articles/0eea80dd2ff7757b98e8087461a86f1a.json"
         },
         {
-          "id": "cb5ddc5a85e03d756c6f181b42f106ad",
-          "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?auto=format&q=75",
+          "id": "38802a3803271a3f1e2274e04914a4b8",
+          "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/52a75fc064d4edec8578d5f50cec80aa05d1162f-1900x1268.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -114,10 +138,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-10T11:39:44.000Z",
+          "published_at": "2026-08-11T09:37:36.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cb5ddc5a85e03d756c6f181b42f106ad.json"
+          "breaking_score": 40,
+          "path": "articles/38802a3803271a3f1e2274e04914a4b8.json"
         }
       ]
     }

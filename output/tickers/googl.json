@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T14:42:48.413Z",
+  "updated_at": "2026-08-12T05:15:45.572Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "2537ac85c0e9b4c557b881359aa8c4f8",
-      "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand ",
-      "description": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
+      "id": "553def146977149dd48f1ec4cc3a29b6",
+      "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
+      "description": "Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.",
       "reading_time_minutes": 1,
-      "breaking_score": 20,
-      "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108292490-1776347906856-gettyimages-2253792580-US_STOCKS.jpeg?v=1777030120&w=1920&h=1080",
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,14 +23,6 @@
       "category": "stocks",
       "entities": [
         {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
-        {
           "id": "googl",
           "symbol": "GOOGL",
           "name": "Google",
@@ -39,11 +31,27 @@
           "icon": "https://logo.clearbit.com/google.com"
         },
         {
-          "id": "tsm",
-          "symbol": "TSM",
-          "name": "TSMC",
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
           "type": "company",
-          "path": "tickers/tsm.json",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "gemini",
+          "symbol": "GEMINI",
+          "name": "Gemini",
+          "type": "company",
+          "path": "tickers/gemini.json",
           "icon": ""
         },
         {
@@ -53,12 +61,28 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-08-10T13:39:56.000Z",
+      "published_at": "2026-08-12T05:00:01.000Z",
       "related": [
         {
-          "id": "a702e272bbc96f7254365db676c6adc2",
-          "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-          "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
+          "id": "c1e0e03ad7a0624ab3ba810a1fb1a93f",
+          "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T18:56:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/c1e0e03ad7a0624ab3ba810a1fb1a93f.json"
+        },
+        {
+          "id": "4a9416b5bdd4c11288d1d3651b7cfd51",
+          "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+          "image": "https://image.cnbcfm.com/api/v1/image/107371052-17074185042023-06-20t120423z_878485026_rc2ym1alvfpu_rtrmadp_0_advertising-cannes.jpeg?v=1707418585&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -66,15 +90,47 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-11T14:11:05.000Z",
+          "published_at": "2026-08-11T19:41:17.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/a702e272bbc96f7254365db676c6adc2.json"
+          "breaking_score": 0,
+          "path": "articles/4a9416b5bdd4c11288d1d3651b7cfd51.json"
         },
         {
-          "id": "3ba29ad4f94f2132ddc253b645e95c50",
-          "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e9266feac47af2efb0e63d06bff2900b7b377789-2118x1192.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "e42cf22afdc35d8f74227cf04a326cee",
+          "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347847-1786455062599-gettyimages-2227552730-img_1125.jpeg?v=1786455079&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-11T19:08:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e42cf22afdc35d8f74227cf04a326cee.json"
+        },
+        {
+          "id": "0eea80dd2ff7757b98e8087461a86f1a",
+          "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-11T22:04:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0eea80dd2ff7757b98e8087461a86f1a.json"
+        },
+        {
+          "id": "38802a3803271a3f1e2274e04914a4b8",
+          "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/52a75fc064d4edec8578d5f50cec80aa05d1162f-1900x1268.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -82,58 +138,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-11T10:10:36.000Z",
+          "published_at": "2026-08-11T09:37:36.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3ba29ad4f94f2132ddc253b645e95c50.json"
-        },
-        {
-          "id": "4219843d41192664abb1fa304ac260b5",
-          "title": "FIFA World Cup 'will never be as profitable' if Infantino is ousted, Trump warns amid global soccer revolt",
-          "image": "https://image.cnbcfm.com/api/v1/image/108337063-1784503702182-gettyimages-2286811622-ci1_8704_pf5vwfqu.jpeg?v=1784503757&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-11T10:17:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4219843d41192664abb1fa304ac260b5.json"
-        },
-        {
-          "id": "686157e1a29c3d685cffcff905405a84",
-          "title": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347705-1786435983910-gettyimages-2269305616-wlodarczyk-elevated260329_npanO.jpeg?v=1786436052&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-11T10:06:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/686157e1a29c3d685cffcff905405a84.json"
-        },
-        {
-          "id": "cc61115db3fab47f171a0e121b88fa7a",
-          "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
-          "image": "https://image.cnbcfm.com/api/v1/image/108339566-1784842863353-gettyimages-2287372564-_88a2490_fizf2jun.jpeg?v=1784842934&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-11T07:17:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cc61115db3fab47f171a0e121b88fa7a.json"
+          "breaking_score": 40,
+          "path": "articles/38802a3803271a3f1e2274e04914a4b8.json"
         }
       ]
     }

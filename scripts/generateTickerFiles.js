@@ -18,7 +18,10 @@ async function generateTickerFiles(articles) {
         };
       }
 
-      groups[entity.id].articles.push(article);
+      groups[entity.id].articles.push({
+  ...article,
+  path: `articles/${article.id}.json`
+});
     }
   }
 

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:16:24.188Z",
+  "updated_at": "2026-08-12T14:15:49.394Z",
   "id": "aapl",
   "symbol": "AAPL",
   "name": "Apple",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "777b0d0fda7fc91fef0bd35c36f292f9",
-      "title": "Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock",
-      "description": "Jefferies analyst Edison Lee cited supply chain checks.",
+      "id": "0a52adb9095f8b2fcf416db2b86748b6",
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "description": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/10/dont-let-a-wall-street-analysts-downgrade-of-apple-scare-you-out-of-the-stock.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108196550-17574569232025-09-09t222417z_1173162897_rc2joga7qq90_rtrmadp_0_apple-event.jpeg?v=1757456981&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108348358-1786543479864-Portfolio_3-3.png?v=1786543494&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -29,14 +29,36 @@
           "type": "company",
           "path": "tickers/aapl.json",
           "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "gemini",
+          "symbol": "GEMINI",
+          "name": "Gemini",
+          "type": "company",
+          "path": "tickers/gemini.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-08-10T18:06:55.000Z",
+      "published_at": "2026-08-12T14:00:01.000Z",
       "related": [
         {
-          "id": "45f19a97f19d57b39f518bcb126eb283",
-          "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
-          "image": "https://image.cnbcfm.com/api/v1/image/108335936-1784206611053-gettyimages-2286325891-a9t00976_7cmyvuio_doiybs5p.jpeg?v=1784206641&w=1920&h=1080",
+          "id": "553def146977149dd48f1ec4cc3a29b6",
+          "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -44,15 +66,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-10T18:58:47.000Z",
+          "published_at": "2026-08-12T05:00:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/45f19a97f19d57b39f518bcb126eb283.json"
+          "path": "articles/553def146977149dd48f1ec4cc3a29b6.json"
         },
         {
-          "id": "cc61115db3fab47f171a0e121b88fa7a",
-          "title": "Intel plans $15 billion stock offering as AI demand accelerates",
-          "image": "https://image.cnbcfm.com/api/v1/image/108339566-1784842863353-gettyimages-2287372564-_88a2490_fizf2jun.jpeg?v=1784842934&w=1920&h=1080",
+          "id": "22b2d918337d763c83b661e672f6e041",
+          "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
+          "image": "https://image.cnbcfm.com/api/v1/image/108277549-1773349197756-Rubin_GPU_Feb_13_2026.jpg?v=1773349383&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -60,15 +82,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-10T18:20:44.000Z",
+          "published_at": "2026-08-12T14:14:10.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/cc61115db3fab47f171a0e121b88fa7a.json"
+          "path": "articles/22b2d918337d763c83b661e672f6e041.json"
         },
         {
-          "id": "1fc176f7ef36608dbea0b0309c4ef397",
-          "title": "SpaceX stock rebounds to near $135 IPO price",
-          "image": "https://image.cnbcfm.com/api/v1/image/108321008-1781271149885-Screenshot_2026-06-12_at_92658_AM.png?v=1781271243&w=1920&h=1080",
+          "id": "9489e0a54be7bf6712101e649f8411ed",
+          "title": "CoreWeave surges 18% after a 'cleaner quarter.' Here's what's happening",
+          "image": "https://image.cnbcfm.com/api/v1/image/108271054-17722088882026-02-27t161124z_343131313_rc2dujajql90_rtrmadp_0_usa-stocks.jpeg?v=1772209043&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -76,44 +98,45 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-10T17:20:14.000Z",
+          "published_at": "2026-08-12T14:13:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9489e0a54be7bf6712101e649f8411ed.json"
+        },
+        {
+          "id": "ccbe092f929270efc0615d7d7353670b",
+          "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
+          "image": "https://image.cnbcfm.com/api/v1/image/108348451-1786542135771-gettyimages-2289640398-US-NEW_YORK-STOCK.jpeg?v=1786542190&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-12T13:59:17.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/ccbe092f929270efc0615d7d7353670b.json"
+        },
+        {
+          "id": "d981c9e02dbc29dc544f51c41e23eb86",
+          "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
+          "image": "https://image.cnbcfm.com/api/v1/image/108227646-1763490449034-gettyimages-2247325991-dji_20251118092100_0976_d_pnjiyag3.jpeg?v=1769642073&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-12T13:42:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1fc176f7ef36608dbea0b0309c4ef397.json"
-        },
-        {
-          "id": "83014762aaba1034b41b6e43748a1b85",
-          "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108345504-1785952760573-gettyimages-2289192477-mms15378_ienmvr1q.jpeg?v=1785953356&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-08T13:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/83014762aaba1034b41b6e43748a1b85.json"
-        },
-        {
-          "id": "cd254bfe9955650a64aa972ce341ea19",
-          "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-08T12:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/cd254bfe9955650a64aa972ce341ea19.json"
+          "path": "articles/d981c9e02dbc29dc544f51c41e23eb86.json"
         }
-      ]
+      ],
+      "path": "articles/0a52adb9095f8b2fcf416db2b86748b6.json"
     }
   ]
 }

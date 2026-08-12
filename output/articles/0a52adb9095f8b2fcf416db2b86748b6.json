@@ -1,11 +1,11 @@
 {
-  "id": "e6661748a33d65ab413726a2cd30a80d",
-  "title": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
-  "description": "AI agents' 'alarming' hacking skills creates a rush to spend on cybersecurity",
+  "id": "0a52adb9095f8b2fcf416db2b86748b6",
+  "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+  "description": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
   "reading_time_minutes": 1,
-  "breaking_score": 60,
-  "url": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108346931-1786142982291-gettyimages-2287574652-businessman_hand_operating_tablet_red_hacked_ai_bot_cyber_at.jpeg?v=1786143082&w=1920&h=1080",
+  "breaking_score": 0,
+  "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108348358-1786543479864-Portfolio_3-3.png?v=1786543494&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,14 +15,54 @@
   "category": "stocks",
   "entities": [
     {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com"
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com"
+    },
+    {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": ""
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-12T02:58:04.000Z",
+  "published_at": "2026-08-12T14:00:01.000Z",
   "related": [
+    {
+      "id": "553def146977149dd48f1ec4cc3a29b6",
+      "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-12T05:00:01.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/553def146977149dd48f1ec4cc3a29b6.json"
+    },
     {
       "id": "22b2d918337d763c83b661e672f6e041",
       "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
@@ -54,22 +94,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 20,
       "path": "articles/9489e0a54be7bf6712101e649f8411ed.json"
-    },
-    {
-      "id": "0a52adb9095f8b2fcf416db2b86748b6",
-      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-      "image": "https://image.cnbcfm.com/api/v1/image/108348358-1786543479864-Portfolio_3-3.png?v=1786543494&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-12T14:00:01.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/0a52adb9095f8b2fcf416db2b86748b6.json"
     },
     {
       "id": "ccbe092f929270efc0615d7d7353670b",

@@ -1,10 +1,142 @@
 {
-  "updated_at": "2026-08-12T19:15:39.859Z",
+  "updated_at": "2026-08-12T19:30:52.247Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 19,
   "articles": [
+    {
+      "id": "0a52adb9095f8b2fcf416db2b86748b6",
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "description": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108348358-1786543479864-Portfolio_3-3.png?v=1786543494&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
+          "type": "company",
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "gemini",
+          "symbol": "GEMINI",
+          "name": "Gemini",
+          "type": "company",
+          "path": "tickers/gemini.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-12T19:19:18.000Z",
+      "related": [
+        {
+          "id": "553def146977149dd48f1ec4cc3a29b6",
+          "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-12T05:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/553def146977149dd48f1ec4cc3a29b6.json"
+        },
+        {
+          "id": "61a701aff4e8eeff9e593f3a4de5bde5",
+          "title": "How to trade gold prices as Fed rate hike and inflation odds shifts  ",
+          "image": "https://image.cnbcfm.com/api/v1/image/107387754-1710442603582-Fort-Knox-Gold-Pour.jpg?v=1786545406&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-12T19:22:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 10,
+          "path": "articles/61a701aff4e8eeff9e593f3a4de5bde5.json"
+        },
+        {
+          "id": "7c62839cb86169c50b4f9a80e6379a60",
+          "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
+          "image": "https://image.cnbcfm.com/api/v1/image/108344752-1785869234686-gettyimages-2289079342-_73a7123_tubi9bwl.jpeg?v=1786556960&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-12T19:15:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7c62839cb86169c50b4f9a80e6379a60.json"
+        },
+        {
+          "id": "1ea59f1813060d74f9018a8908bdd022",
+          "title": "U.S. budget deficit surged in July to highest level since March 2021",
+          "image": "https://image.cnbcfm.com/api/v1/image/108147005-1747429070387-gettyimages-2212809325-20250430-152105.jpeg?v=1747429097&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-12T18:56:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/1ea59f1813060d74f9018a8908bdd022.json"
+        },
+        {
+          "id": "d760121beca36e4eabefdb097a5b14ad",
+          "title": "CEO of Intel just gave Jim Cramer one more reason to call it his favorite stock",
+          "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-12T18:38:29.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d760121beca36e4eabefdb097a5b14ad.json"
+        }
+      ],
+      "path": "articles/0a52adb9095f8b2fcf416db2b86748b6.json"
+    },
     {
       "id": "07b2bb12560fc6fce5e87f42f09308c2",
       "title": "Bitwise cuts 14% of staff while still expecting growth",
@@ -228,138 +360,6 @@
       "path": "articles/3408d86028432dbd72d84599db2374d8.json"
     },
     {
-      "id": "0a52adb9095f8b2fcf416db2b86748b6",
-      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-      "description": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108348358-1786543479864-Portfolio_3-3.png?v=1786543494&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "aapl",
-          "symbol": "AAPL",
-          "name": "Apple",
-          "type": "company",
-          "path": "tickers/aapl.json",
-          "icon": "https://logo.clearbit.com/apple.com"
-        },
-        {
-          "id": "googl",
-          "symbol": "GOOGL",
-          "name": "Google",
-          "type": "company",
-          "path": "tickers/googl.json",
-          "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "gemini",
-          "symbol": "GEMINI",
-          "name": "Gemini",
-          "type": "company",
-          "path": "tickers/gemini.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-08-12T16:39:34.000Z",
-      "related": [
-        {
-          "id": "553def146977149dd48f1ec4cc3a29b6",
-          "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
-          "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-12T05:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/553def146977149dd48f1ec4cc3a29b6.json"
-        },
-        {
-          "id": "7c62839cb86169c50b4f9a80e6379a60",
-          "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-          "image": "https://image.cnbcfm.com/api/v1/image/108344752-1785869234686-gettyimages-2289079342-_73a7123_tubi9bwl.jpeg?v=1786556960&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-12T19:14:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7c62839cb86169c50b4f9a80e6379a60.json"
-        },
-        {
-          "id": "1ea59f1813060d74f9018a8908bdd022",
-          "title": "U.S. budget deficit surged in July to highest level since March 2021",
-          "image": "https://image.cnbcfm.com/api/v1/image/108147005-1747429070387-gettyimages-2212809325-20250430-152105.jpeg?v=1747429097&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-12T18:56:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/1ea59f1813060d74f9018a8908bdd022.json"
-        },
-        {
-          "id": "d760121beca36e4eabefdb097a5b14ad",
-          "title": "CEO of Intel just gave Jim Cramer one more reason to call it his favorite stock",
-          "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-12T18:38:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d760121beca36e4eabefdb097a5b14ad.json"
-        },
-        {
-          "id": "e371f069a3bdc507bcb8ece45978a590",
-          "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
-          "image": "https://image.cnbcfm.com/api/v1/image/105600084-1543513858328gettyimages-1063901104.jpeg?v=1768353434&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-12T17:57:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/e371f069a3bdc507bcb8ece45978a590.json"
-        }
-      ],
-      "path": "articles/0a52adb9095f8b2fcf416db2b86748b6.json"
-    },
-    {
       "id": "1ad918f870625d490afa1073cc2b4eff",
       "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
       "description": "The firm aims for non-crypto markets to drive over 50% of revenue by 2027, up from 10% currently, as it seeks to diversify its business.",
@@ -499,6 +499,22 @@
       "published_at": "2026-08-12T15:23:12.000Z",
       "related": [
         {
+          "id": "61a701aff4e8eeff9e593f3a4de5bde5",
+          "title": "How to trade gold prices as Fed rate hike and inflation odds shifts  ",
+          "image": "https://image.cnbcfm.com/api/v1/image/107387754-1710442603582-Fort-Knox-Gold-Pour.jpg?v=1786545406&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-12T19:22:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 10,
+          "path": "articles/61a701aff4e8eeff9e593f3a4de5bde5.json"
+        },
+        {
           "id": "126e3227e568047133a3b23b1492b275",
           "title": "Here's the inflation breakdown for July 2026 — in one chart",
           "image": "https://image.cnbcfm.com/api/v1/image/108345963-1786023481238-gettyimages-2286426173-US_GAS.jpeg?v=1786023501&w=1920&h=1080",
@@ -515,6 +531,22 @@
           "path": "articles/126e3227e568047133a3b23b1492b275.json"
         },
         {
+          "id": "0a52adb9095f8b2fcf416db2b86748b6",
+          "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+          "image": "https://image.cnbcfm.com/api/v1/image/108348358-1786543479864-Portfolio_3-3.png?v=1786543494&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-12T19:19:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0a52adb9095f8b2fcf416db2b86748b6.json"
+        },
+        {
           "id": "7c62839cb86169c50b4f9a80e6379a60",
           "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
           "image": "https://image.cnbcfm.com/api/v1/image/108344752-1785869234686-gettyimages-2289079342-_73a7123_tubi9bwl.jpeg?v=1786556960&w=1920&h=1080",
@@ -525,7 +557,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-12T19:14:24.000Z",
+          "published_at": "2026-08-12T19:15:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7c62839cb86169c50b4f9a80e6379a60.json"
@@ -545,38 +577,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/1ea59f1813060d74f9018a8908bdd022.json"
-        },
-        {
-          "id": "d760121beca36e4eabefdb097a5b14ad",
-          "title": "CEO of Intel just gave Jim Cramer one more reason to call it his favorite stock",
-          "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-12T18:38:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d760121beca36e4eabefdb097a5b14ad.json"
-        },
-        {
-          "id": "e371f069a3bdc507bcb8ece45978a590",
-          "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
-          "image": "https://image.cnbcfm.com/api/v1/image/105600084-1543513858328gettyimages-1063901104.jpeg?v=1768353434&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-12T17:57:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/e371f069a3bdc507bcb8ece45978a590.json"
         }
       ],
       "path": "articles/7f7ecce5e2f2f9b0eba53bbd52fa4cd2.json"
@@ -687,9 +687,9 @@
           "path": "articles/553def146977149dd48f1ec4cc3a29b6.json"
         },
         {
-          "id": "7c62839cb86169c50b4f9a80e6379a60",
-          "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-          "image": "https://image.cnbcfm.com/api/v1/image/108344752-1785869234686-gettyimages-2289079342-_73a7123_tubi9bwl.jpeg?v=1786556960&w=1920&h=1080",
+          "id": "61a701aff4e8eeff9e593f3a4de5bde5",
+          "title": "How to trade gold prices as Fed rate hike and inflation odds shifts  ",
+          "image": "https://image.cnbcfm.com/api/v1/image/107387754-1710442603582-Fort-Knox-Gold-Pour.jpg?v=1786545406&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -697,10 +697,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-12T19:14:24.000Z",
+          "published_at": "2026-08-12T19:22:32.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7c62839cb86169c50b4f9a80e6379a60.json"
+          "breaking_score": 10,
+          "path": "articles/61a701aff4e8eeff9e593f3a4de5bde5.json"
         }
       ],
       "path": "articles/3e73fada06b4f97b3b9978a7832dca97.json"
@@ -763,6 +763,38 @@
           "path": "articles/5b00a27f4aa2a6fa962d3baa7c30869d.json"
         },
         {
+          "id": "61a701aff4e8eeff9e593f3a4de5bde5",
+          "title": "How to trade gold prices as Fed rate hike and inflation odds shifts  ",
+          "image": "https://image.cnbcfm.com/api/v1/image/107387754-1710442603582-Fort-Knox-Gold-Pour.jpg?v=1786545406&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-12T19:22:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 10,
+          "path": "articles/61a701aff4e8eeff9e593f3a4de5bde5.json"
+        },
+        {
+          "id": "0a52adb9095f8b2fcf416db2b86748b6",
+          "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+          "image": "https://image.cnbcfm.com/api/v1/image/108348358-1786543479864-Portfolio_3-3.png?v=1786543494&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-12T19:19:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0a52adb9095f8b2fcf416db2b86748b6.json"
+        },
+        {
           "id": "7c62839cb86169c50b4f9a80e6379a60",
           "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
           "image": "https://image.cnbcfm.com/api/v1/image/108344752-1785869234686-gettyimages-2289079342-_73a7123_tubi9bwl.jpeg?v=1786556960&w=1920&h=1080",
@@ -773,42 +805,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-12T19:14:24.000Z",
+          "published_at": "2026-08-12T19:15:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7c62839cb86169c50b4f9a80e6379a60.json"
-        },
-        {
-          "id": "1ea59f1813060d74f9018a8908bdd022",
-          "title": "U.S. budget deficit surged in July to highest level since March 2021",
-          "image": "https://image.cnbcfm.com/api/v1/image/108147005-1747429070387-gettyimages-2212809325-20250430-152105.jpeg?v=1747429097&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-12T18:56:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/1ea59f1813060d74f9018a8908bdd022.json"
-        },
-        {
-          "id": "d760121beca36e4eabefdb097a5b14ad",
-          "title": "CEO of Intel just gave Jim Cramer one more reason to call it his favorite stock",
-          "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-12T18:38:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d760121beca36e4eabefdb097a5b14ad.json"
         }
       ],
       "path": "articles/9489e0a54be7bf6712101e649f8411ed.json"
@@ -1463,7 +1463,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-12T16:39:34.000Z",
+          "published_at": "2026-08-12T19:19:18.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0a52adb9095f8b2fcf416db2b86748b6.json"
@@ -1749,9 +1749,9 @@
           "path": "articles/2773151d862916509f9150b2e19a9c71.json"
         },
         {
-          "id": "7c62839cb86169c50b4f9a80e6379a60",
-          "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-          "image": "https://image.cnbcfm.com/api/v1/image/108344752-1785869234686-gettyimages-2289079342-_73a7123_tubi9bwl.jpeg?v=1786556960&w=1920&h=1080",
+          "id": "61a701aff4e8eeff9e593f3a4de5bde5",
+          "title": "How to trade gold prices as Fed rate hike and inflation odds shifts  ",
+          "image": "https://image.cnbcfm.com/api/v1/image/107387754-1710442603582-Fort-Knox-Gold-Pour.jpg?v=1786545406&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1759,10 +1759,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-12T19:14:24.000Z",
+          "published_at": "2026-08-12T19:22:32.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7c62839cb86169c50b4f9a80e6379a60.json"
+          "breaking_score": 10,
+          "path": "articles/61a701aff4e8eeff9e593f3a4de5bde5.json"
         }
       ],
       "path": "articles/0ae6bd41538fb5451e3833a8a9a0c7f5.json"

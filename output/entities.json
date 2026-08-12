@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T12:45:41.870Z",
+  "updated_at": "2026-08-12T13:01:09.478Z",
   "total": 27,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 32
+      "count": 30
     },
     {
       "id": "crypto",
@@ -30,7 +30,16 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 16
+      "count": 17
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 7
     },
     {
       "id": "stablecoin",
@@ -44,7 +53,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 6
     },
     {
       "id": "openai",
@@ -56,28 +65,26 @@
       "count": 6
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 6
-    },
-    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 5
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 5
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 4
     },
     {
@@ -106,13 +113,6 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 4
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "meta",

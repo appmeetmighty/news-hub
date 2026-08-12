@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T16:01:05.757Z",
+  "updated_at": "2026-08-12T16:15:36.874Z",
   "total": 27,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 30
+      "count": 29
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
+      "count": 26
     },
     {
       "id": "ai",
@@ -37,7 +37,7 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 8
+      "count": 9
     },
     {
       "id": "eth",
@@ -55,13 +55,15 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 5
+      "count": 6
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 5
     },
     {
@@ -83,19 +85,17 @@
       "count": 4
     },
     {
-      "id": "etf",
-      "name": "ETF",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 4
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 4
     },
     {

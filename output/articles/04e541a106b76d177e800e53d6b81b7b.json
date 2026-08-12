@@ -1,11 +1,11 @@
 {
-  "id": "e371f069a3bdc507bcb8ece45978a590",
-  "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
-  "description": "Lettuce prices posted their sharpest month-over-month decline on record as diners reconsider the vegetable amid the cyclospora outbreak.",
+  "id": "04e541a106b76d177e800e53d6b81b7b",
+  "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea ",
+  "description": "Oil exports from Egypt's Mediterranean port of Sidi Kerir have more than doubled. The crude is mostly from Saudi Arabia, according to Kpler.",
   "reading_time_minutes": 1,
-  "breaking_score": 25,
-  "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/105600084-1543513858328gettyimages-1063901104.jpeg?v=1786563550&w=1920&h=1080",
+  "breaking_score": 0,
+  "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/103621307-GettyImages-73375788.jpg?v=1786555785&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,24 +13,33 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-12T19:50:29.000Z",
+  "entities": [
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-12T19:51:51.000Z",
   "related": [
     {
-      "id": "98eded7d62e0d4c2517a72a95ce70536",
-      "title": "Solar eclipse drives Europe hotel prices to over $1,000 a night",
-      "image": "https://image.cnbcfm.com/api/v1/image/108348244-1786518862223-gettyimages-2068493211-imgl6404-.jpeg?v=1786518871&w=1920&h=1080",
+      "id": "73baff8c64b39a4d5eaa93bac22e9a35",
+      "title": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0ed392a316947b20163e59f89946e4b07de2a0fa-1845x1038.jpg?auto=format&q=75",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
-      "published_at": "2026-08-12T13:40:40.000Z",
+      "category": "crypto",
+      "published_at": "2026-08-12T10:30:10.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/98eded7d62e0d4c2517a72a95ce70536.json"
+      "breaking_score": 60,
+      "path": "articles/73baff8c64b39a4d5eaa93bac22e9a35.json"
     },
     {
       "id": "2f5f78bd09e495476605690d9951a5a2",
@@ -65,9 +74,9 @@
       "path": "articles/61a701aff4e8eeff9e593f3a4de5bde5.json"
     },
     {
-      "id": "04e541a106b76d177e800e53d6b81b7b",
-      "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea ",
-      "image": "https://image.cnbcfm.com/api/v1/image/103621307-GettyImages-73375788.jpg?v=1786555785&w=1920&h=1080",
+      "id": "e371f069a3bdc507bcb8ece45978a590",
+      "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
+      "image": "https://image.cnbcfm.com/api/v1/image/105600084-1543513858328gettyimages-1063901104.jpeg?v=1786563550&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -75,10 +84,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-08-12T19:51:51.000Z",
+      "published_at": "2026-08-12T19:50:29.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/04e541a106b76d177e800e53d6b81b7b.json"
+      "breaking_score": 25,
+      "path": "articles/e371f069a3bdc507bcb8ece45978a590.json"
     },
     {
       "id": "9489e0a54be7bf6712101e649f8411ed",

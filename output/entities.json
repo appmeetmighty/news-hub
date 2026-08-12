@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T20:35:12.493Z",
+  "updated_at": "2026-08-12T20:45:37.261Z",
   "total": 30,
   "entities": [
     {
@@ -33,18 +33,18 @@
       "count": 16
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "etf",
+      "name": "ETF",
       "type": "topic",
       "icon": "",
       "count": 8
     },
     {
-      "id": "etf",
-      "name": "ETF",
+      "id": "stablecoin",
+      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 8
     },
     {
       "id": "eth",
@@ -72,6 +72,15 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 4
+    },
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "nvda",
@@ -126,15 +135,6 @@
       "count": 2
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -153,20 +153,20 @@
       "count": 2
     },
     {
-      "id": "gs",
-      "symbol": "GS",
-      "name": "Goldman Sachs",
-      "type": "company",
-      "path": "tickers/gs.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "mining",
       "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "xai",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T10:15:32.361Z",
+  "updated_at": "2026-08-12T10:30:55.720Z",
   "total": 27,
   "entities": [
     {
@@ -23,7 +23,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 23
+      "count": 22
     },
     {
       "id": "regulation",
@@ -45,6 +45,13 @@
       "type": "topic",
       "icon": "",
       "count": 7
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "openai",
@@ -74,11 +81,13 @@
       "count": 5
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
-      "count": 5
+      "count": 4
     },
     {
       "id": "anthropic",
@@ -97,15 +106,6 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 4
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "nvda",

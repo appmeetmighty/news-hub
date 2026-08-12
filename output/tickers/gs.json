@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T18:45:33.099Z",
+  "updated_at": "2026-08-12T19:01:04.205Z",
   "id": "gs",
   "symbol": "GS",
   "name": "Goldman Sachs",
@@ -7,21 +7,29 @@
   "total": 2,
   "articles": [
     {
-      "id": "fa05d37908ba916402265018547f5de4",
-      "title": "The S&P paces to snap a 2-day skid, and Goldman beefs up its asset management unit",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "id": "fa8bb8f136013f3f4409256ccee1214a",
+      "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
+      "description": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/12/the-sp-paces-to-snap-a-2-day-skid-and-goldman-beefs-up-its-asset-management-unit.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+      "url": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/goldman-solomon-decrypt-style-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "gs",
           "symbol": "GS",
@@ -29,9 +37,21 @@
           "type": "company",
           "path": "tickers/gs.json",
           "icon": ""
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "etf",
+          "name": "ETF",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-08-12T18:13:44.000Z",
+      "published_at": "2026-08-12T18:58:26.000Z",
       "related": [
         {
           "id": "29bd3a7684420f557b2c8ee0aa0357b1",
@@ -50,71 +70,71 @@
           "path": "articles/29bd3a7684420f557b2c8ee0aa0357b1.json"
         },
         {
-          "id": "4227c34f7195c1dae639a181657e71ef",
-          "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
-          "image": "https://image.cnbcfm.com/api/v1/image/108348530-1786547869805-gettyimages-2288749340-golba-dailylif260729_npKTw.jpeg?v=1786554097&w=1920&h=1080",
+          "id": "1408933a5f4abbe104bc9186b0cb928d",
+          "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f7aa56b41189d5f33e1de7a8fa506df0c822e553-1920x1280.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-12T17:34:28.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-11T21:38:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4227c34f7195c1dae639a181657e71ef.json"
+          "path": "articles/1408933a5f4abbe104bc9186b0cb928d.json"
         },
         {
-          "id": "1ea59f1813060d74f9018a8908bdd022",
-          "title": "U.S. budget deficit surged in July to highest level since March 2021",
-          "image": "https://image.cnbcfm.com/api/v1/image/108147005-1747429070387-gettyimages-2212809325-20250430-152105.jpeg?v=1747429097&w=1920&h=1080",
+          "id": "f6317982c9abde0b89230960f7d679e7",
+          "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-08-12T18:40:45.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-12T18:16:04.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/1ea59f1813060d74f9018a8908bdd022.json"
+          "breaking_score": 100,
+          "path": "articles/f6317982c9abde0b89230960f7d679e7.json"
         },
         {
-          "id": "7c62839cb86169c50b4f9a80e6379a60",
-          "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-          "image": "https://image.cnbcfm.com/api/v1/image/108344752-1785869234686-gettyimages-2289079342-_73a7123_tubi9bwl.jpeg?v=1786556960&w=1920&h=1080",
+          "id": "6ca03a6c1697098eef0357ec2166a1bd",
+          "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/crypto-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-08-12T18:36:37.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-12T15:54:16.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/7c62839cb86169c50b4f9a80e6379a60.json"
+          "path": "articles/6ca03a6c1697098eef0357ec2166a1bd.json"
         },
         {
-          "id": "e371f069a3bdc507bcb8ece45978a590",
-          "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
-          "image": "https://image.cnbcfm.com/api/v1/image/105600084-1543513858328gettyimages-1063901104.jpeg?v=1768353434&w=1920&h=1080",
+          "id": "0f31ad1c1450f455ef46ba0f79e074d6",
+          "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-08-12T17:57:44.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-12T15:07:56.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/e371f069a3bdc507bcb8ece45978a590.json"
+          "breaking_score": 0,
+          "path": "articles/0f31ad1c1450f455ef46ba0f79e074d6.json"
         }
       ],
-      "path": "articles/fa05d37908ba916402265018547f5de4.json"
+      "path": "articles/fa8bb8f136013f3f4409256ccee1214a.json"
     },
     {
       "id": "29bd3a7684420f557b2c8ee0aa0357b1",
@@ -165,6 +185,22 @@
       ],
       "published_at": "2026-08-12T17:21:03.000Z",
       "related": [
+        {
+          "id": "fa8bb8f136013f3f4409256ccee1214a",
+          "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/goldman-solomon-decrypt-style-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-12T18:58:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fa8bb8f136013f3f4409256ccee1214a.json"
+        },
         {
           "id": "1408933a5f4abbe104bc9186b0cb928d",
           "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
@@ -228,22 +264,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ddf5d7f6aec14f2d5ad00445d2c52a17.json"
-        },
-        {
-          "id": "5870de0d032860f2f47fd2cc2f84f3f8",
-          "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ed99ad8e1d2af4b11b0bb301a546dddccbf65e4-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-12T11:19:32.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5870de0d032860f2f47fd2cc2f84f3f8.json"
         }
       ],
       "path": "articles/29bd3a7684420f557b2c8ee0aa0357b1.json"

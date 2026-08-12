@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T17:30:50.992Z",
-  "total": 28,
+  "updated_at": "2026-08-12T17:40:04.946Z",
+  "total": 30,
   "entities": [
     {
       "id": "crypto",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
+      "count": 25
     },
     {
       "id": "ai",
@@ -49,6 +49,13 @@
       "count": 7
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -56,13 +63,6 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 6
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "xrp",
@@ -158,6 +158,24 @@
       "type": "topic",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
+      "count": 1
+    },
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "aapl",

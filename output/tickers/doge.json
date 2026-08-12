@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T23:01:00.727Z",
+  "updated_at": "2026-08-12T05:01:00.185Z",
   "id": "doge",
   "symbol": "DOGE",
   "name": "Dogecoin",
@@ -7,21 +7,37 @@
   "total": 1,
   "articles": [
     {
-      "id": "35899bc5379b70a37e1f459bb15e5ca7",
-      "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
-      "description": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
+      "id": "3fdfa54d63619e06bfdf29aad775e7c2",
+      "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
+      "description": "DOGE gained almost 3% to 7 cents and BNB 2% to $614, while bitcoin was the only major in the red on both the day and the week.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108100933-17393067622025-02-11t204145z_1729317157_rc2jscaafi5c_rtrmadp_0_usa-trump.jpeg?v=1786049729&w=1920&h=1080",
+      "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a1c824c302f2e2a70e1929e52d4a11dfbfc494e8-2970x1478.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "bnb",
+          "symbol": "BNB",
+          "name": "BNB",
+          "type": "crypto",
+          "path": "tickers/bnb.json",
+          "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png"
+        },
         {
           "id": "doge",
           "symbol": "DOGE",
@@ -29,97 +45,89 @@
           "type": "crypto",
           "path": "tickers/doge.json",
           "icon": "https://assets.coincap.io/assets/icons/doge@2x.png"
-        },
-        {
-          "id": "tsla",
-          "symbol": "TSLA",
-          "name": "Tesla",
-          "type": "company",
-          "path": "tickers/tsla.json",
-          "icon": "https://logo.clearbit.com/tesla.com"
         }
       ],
-      "published_at": "2026-08-06T22:19:52.000Z",
+      "published_at": "2026-08-12T04:53:46.000Z",
       "related": [
         {
-          "id": "58d1c189685fdc2c6f78b971604db421",
-          "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347005-1786209068395-gettyimages-2288486934-AA_06082026_2906895.jpeg?v=1786209117&w=1920&h=1080",
+          "id": "1408933a5f4abbe104bc9186b0cb928d",
+          "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f7aa56b41189d5f33e1de7a8fa506df0c822e553-1920x1280.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-08T17:41:31.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-11T21:38:13.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/58d1c189685fdc2c6f78b971604db421.json"
+          "breaking_score": 0,
+          "path": "articles/1408933a5f4abbe104bc9186b0cb928d.json"
         },
         {
-          "id": "b89e57da7790c235b45a31bb7999039c",
-          "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
-          "image": "https://image.cnbcfm.com/api/v1/image/107427738-17181927622024-06-11t215507z_1740518469_rc2498a9at1q_rtrmadp_0_usa-biden-hunter.jpeg?v=1753132010&w=1920&h=1080",
+          "id": "e0c4700435ef12f1cce75b4b00eca2cf",
+          "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/51585465c8e5765c3b15c8fddc2d86d2c373f603-4294x2415.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-08T17:25:25.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-11T11:13:55.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/b89e57da7790c235b45a31bb7999039c.json"
+          "breaking_score": 0,
+          "path": "articles/e0c4700435ef12f1cce75b4b00eca2cf.json"
         },
         {
-          "id": "c6b1b66f89436be4102940fea0c02d5f",
-          "title": "Elevator giant Otis wants to be a defensive play in a volatile market. It has to prove itself first",
-          "image": "https://image.cnbcfm.com/api/v1/image/108339933-1784912434971-Screenshot_2026-07-24_at_122353_PM.png?v=1784913656&w=1920&h=1080",
+          "id": "f971f850ac70c22ff4abf5dac95914ba",
+          "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/05b77ba911a6a3107a8ada460c01d26723950dda-1884x1060.jpg?auto=format&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-08T15:43:23.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-11T10:48:08.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 10,
-          "path": "articles/c6b1b66f89436be4102940fea0c02d5f.json"
+          "breaking_score": 0,
+          "path": "articles/f971f850ac70c22ff4abf5dac95914ba.json"
         },
         {
-          "id": "e0d9a038d19462e493d6cb5f0641c276",
-          "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
-          "image": "https://image.cnbcfm.com/api/v1/image/108345103-1785924806297-gettyimages-2286557794-AFP_C2VJ6VK.jpeg?v=1785925238&w=1920&h=1080",
+          "id": "39590527ec525f4a1366019598e60089",
+          "title": "Live updates: Bitcoin falls to $63,500; CoreWeave jumps 9% as AI demand pushes backlog over $100 billion",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/67051b664f53ad70890430a3737ee607d6265ded-2032x1114.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-08T15:29:19.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-11T10:34:52.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 10,
-          "path": "articles/e0d9a038d19462e493d6cb5f0641c276.json"
+          "breaking_score": 0,
+          "path": "articles/39590527ec525f4a1366019598e60089.json"
         },
         {
-          "id": "a060e5c1967c35250d5224848a130140",
-          "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-          "image": "https://image.cnbcfm.com/api/v1/image/108319912-1781124546097-gettyimages-2280950739-mms27718_gi746v3u.jpeg?v=1786113960&w=1920&h=1080",
+          "id": "1cbc47e968f5e0700acea7c23fdaa21b",
+          "title": "Software stocks break away from bitcoin: What the rare divergence means for crypto",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fdf51ced1e9ffbb8c0b1d7b79ae3a125caf2fb88-1534x969.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-08T15:00:01.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-11T10:31:26.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/a060e5c1967c35250d5224848a130140.json"
+          "breaking_score": 0,
+          "path": "articles/1cbc47e968f5e0700acea7c23fdaa21b.json"
         }
       ]
     }

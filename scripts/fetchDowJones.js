@@ -3,10 +3,6 @@ require("dotenv").config();
 const axios = require("axios");
 const fs = require("fs-extra");
 
-// ============================================================
-// CONFIG
-// ============================================================
-
 const API_KEY = process.env.SCRAPPA_API_KEY;
 
 const LIVE_URL =
@@ -22,22 +18,20 @@ const LIVE_OUTPUT_FILE = `${OUTPUT_DIR}/dow_jones.json`;
 const HISTORY_OUTPUT_FILE =
   `${OUTPUT_DIR}/dow_jones_history.json`;
 
-
 // ============================================================
-// CHECK API KEY
+// API KEY
 // ============================================================
 
 function checkApiKey() {
   if (!API_KEY) {
     throw new Error(
-      "SCRAPPA_API_KEY is not set. Please configure your environment variable."
+      "SCRAPPA_API_KEY is not set."
     );
   }
 }
 
-
 // ============================================================
-// GET NEW YORK TIME
+// NEW YORK TIME
 // ============================================================
 
 function getNewYorkTime() {
@@ -64,23 +58,19 @@ function getNewYorkTime() {
   };
 }
 
-
 // ============================================================
-// CHECK MARKET OPEN
+// MARKET OPEN CHECK
 // ============================================================
 
 function isMarketOpen() {
   const { weekday, hour, minute } = getNewYorkTime();
 
-  // Saturday / Sunday
   if (weekday === "Sat" || weekday === "Sun") {
     return false;
   }
 
   const currentMinutes = hour * 60 + minute;
 
-  // Regular NYSE session
-  // 9:30 AM - 4:00 PM New York time
   const marketOpen = 9 * 60 + 30;
   const marketClose = 16 * 60;
 
@@ -90,33 +80,80 @@ function isMarketOpen() {
   );
 }
 
+// ============================================================
+// READ EXISTING LIVE DATA
+// ============================================================
+
+async function readExistingLiveData() {
+  try {
+    if (!(await fs.pathExists(LIVE_OUTPUT_FILE))) {
+      return null;
+    }
+
+    return await fs.readJson(LIVE_OUTPUT_FILE);
+  } catch (error) {
+    console.error(
+      "⚠️ Could not read existing DJI data:",
+      error.message
+    );
+
+    return null;
+  }
+}
 
 // ============================================================
 // FETCH LIVE DJI
 // ============================================================
 
 async function fetchLive() {
-  console.log("==========================================");
-  console.log("📈 DOW JONES LIVE UPDATE");
-  console.log("==========================================");
+  console.log("📈 Checking Dow Jones market status...");
 
-  const nyTime = getNewYorkTime();
-
-  console.log(
-    `🕒 New York time: ${nyTime.weekday} ${String(nyTime.hour).padStart(2, "0")}:${String(nyTime.minute).padStart(2, "0")}`
-  );
+  const existingData = await readExistingLiveData();
 
   // ----------------------------------------------------------
-  // MARKET HOURS PROTECTION
+  // MARKET CLOSED
   // ----------------------------------------------------------
 
   if (!isMarketOpen()) {
-    console.log("⏸️ US market is currently closed.");
-    console.log("🚫 Scrappa API request skipped.");
-    console.log("💰 No API credit consumed.");
+    console.log("⏸️ US market is closed.");
+    console.log("🚫 Skipping Scrappa API request.");
+
+    if (existingData) {
+      console.log(
+        `💰 Keeping last price: ${existingData.price}`
+      );
+
+      // Update only status information.
+      // The actual price remains untouched.
+      const closedData = {
+        ...existingData,
+
+        market_status: "closed",
+
+        status_updated_at: new Date().toISOString(),
+      };
+
+      await fs.writeJson(
+        LIVE_OUTPUT_FILE,
+        closedData,
+        {
+          spaces: 2,
+        }
+      );
+
+      console.log("✅ Last DJI price preserved.");
+    } else {
+      console.log(
+        "ℹ️ No previous DJI data exists yet."
+      );
+    }
 
     return;
   }
+
+  // ----------------------------------------------------------
+  // MARKET OPEN
+  // ----------------------------------------------------------
 
   console.log("🟢 US market is open.");
   console.log("📡 Fetching Dow Jones from Scrappa...");
@@ -124,23 +161,41 @@ async function fetchLive() {
   checkApiKey();
 
   try {
-    const response = await axios.get(LIVE_URL, {
-      headers: {
-        "X-API-KEY": API_KEY,
-      },
-      timeout: 15000,
-    });
+    const response = await axios.get(
+      LIVE_URL,
+      {
+        headers: {
+          "X-API-KEY": API_KEY,
+        },
+        timeout: 15000,
+      }
+    );
 
     const index = response.data?.indices?.[0];
 
     if (!index) {
       throw new Error(
-        "Dow Jones data was not found in Scrappa response."
+        "Dow Jones data not found in Scrappa response."
       );
     }
 
+    if (
+      index.current_price === null ||
+      index.current_price === undefined
+    ) {
+      throw new Error(
+        "Scrappa returned an empty current price."
+      );
+    }
+
+    const now = new Date().toISOString();
+
     const output = {
-      updated_at: new Date().toISOString(),
+      updated_at: now,
+
+      last_updated: now,
+
+      market_status: "open",
 
       symbol: index.symbol,
 
@@ -175,50 +230,72 @@ async function fetchLive() {
 
     console.log("");
     console.log("✅ Dow Jones live data saved.");
-    console.log("");
     console.log(`💰 Price: ${output.price}`);
     console.log(`📊 Change: ${output.change}`);
-    console.log(`📈 Change %: ${output.percent_change}%`);
-    console.log(`📌 Previous close: ${output.previous_close}`);
-    console.log("");
-    console.log(`📁 File: ${LIVE_OUTPUT_FILE}`);
+    console.log(
+      `📈 Change %: ${output.percent_change}%`
+    );
+    console.log(
+      `📌 Previous close: ${output.previous_close}`
+    );
+    console.log(
+      `📁 File: ${LIVE_OUTPUT_FILE}`
+    );
     console.log("");
   } catch (error) {
     console.error("");
-    console.error("❌ Failed to fetch Dow Jones live data.");
+    console.error(
+      "❌ Failed to fetch Dow Jones live data."
+    );
 
     if (error.response) {
-      console.error("HTTP Status:", error.response.status);
-      console.error("API Response:", error.response.data);
+      console.error(
+        "HTTP Status:",
+        error.response.status
+      );
+
+      console.error(
+        "API Response:",
+        error.response.data
+      );
     } else {
-      console.error("Error:", error.message);
+      console.error(
+        "Error:",
+        error.message
+      );
     }
+
+    // Important:
+    // Existing JSON is NOT deleted or overwritten.
+    console.log(
+      "💾 Existing DJI data has been preserved."
+    );
 
     throw error;
   }
 }
-
 
 // ============================================================
 // FETCH HISTORICAL DJI
 // ============================================================
 
 async function fetchHistory() {
-  console.log("==========================================");
-  console.log("📊 DOW JONES HISTORICAL UPDATE");
-  console.log("==========================================");
+  console.log(
+    "📊 Fetching Dow Jones historical data..."
+  );
 
   checkApiKey();
 
-  console.log("📡 Fetching historical data from Scrappa...");
-
   try {
-    const response = await axios.get(HISTORY_URL, {
-      headers: {
-        "X-API-KEY": API_KEY,
-      },
-      timeout: 30000,
-    });
+    const response = await axios.get(
+      HISTORY_URL,
+      {
+        headers: {
+          "X-API-KEY": API_KEY,
+        },
+        timeout: 30000,
+      }
+    );
 
     const data = response.data;
 
@@ -230,7 +307,7 @@ async function fetchHistory() {
 
     if (!Array.isArray(data.prices)) {
       throw new Error(
-        "Historical Dow Jones prices were not found in the response."
+        "Historical Dow Jones prices not found."
       );
     }
 
@@ -261,26 +338,45 @@ async function fetchHistory() {
     );
 
     console.log("");
-    console.log("✅ Dow Jones historical data saved.");
-    console.log("");
-    console.log(`📊 Historical records: ${data.prices.length}`);
-    console.log(`📁 File: ${HISTORY_OUTPUT_FILE}`);
+    console.log(
+      "✅ Dow Jones historical data saved."
+    );
+
+    console.log(
+      `📊 Historical records: ${data.prices.length}`
+    );
+
+    console.log(
+      `📁 File: ${HISTORY_OUTPUT_FILE}`
+    );
+
     console.log("");
   } catch (error) {
     console.error("");
-    console.error("❌ Failed to fetch Dow Jones historical data.");
+    console.error(
+      "❌ Failed to fetch Dow Jones historical data."
+    );
 
     if (error.response) {
-      console.error("HTTP Status:", error.response.status);
-      console.error("API Response:", error.response.data);
+      console.error(
+        "HTTP Status:",
+        error.response.status
+      );
+
+      console.error(
+        "API Response:",
+        error.response.data
+      );
     } else {
-      console.error("Error:", error.message);
+      console.error(
+        "Error:",
+        error.message
+      );
     }
 
     throw error;
   }
 }
-
 
 // ============================================================
 // MAIN
@@ -290,27 +386,15 @@ async function main() {
   const mode = process.argv[2] || "live";
 
   try {
-    // --------------------------------------------------------
-    // LIVE
-    // --------------------------------------------------------
-
     if (mode === "live") {
       await fetchLive();
       return;
     }
 
-    // --------------------------------------------------------
-    // HISTORY
-    // --------------------------------------------------------
-
     if (mode === "history") {
       await fetchHistory();
       return;
     }
-
-    // --------------------------------------------------------
-    // BOTH
-    // --------------------------------------------------------
 
     if (mode === "all") {
       await fetchLive();
@@ -318,45 +402,51 @@ async function main() {
       return;
     }
 
-    // --------------------------------------------------------
-    // INVALID COMMAND
-    // --------------------------------------------------------
-
     console.log("");
     console.log("❌ Invalid command.");
     console.log("");
 
-    console.log("Available commands:");
+    console.log(
+      "Live:"
+    );
+
+    console.log(
+      "node scripts/fetchDowJones.js live"
+    );
+
     console.log("");
 
-    console.log("Live DJI:");
-    console.log("node scripts/fetchDowJones.js live");
+    console.log(
+      "History:"
+    );
+
+    console.log(
+      "node scripts/fetchDowJones.js history"
+    );
+
     console.log("");
 
-    console.log("Historical DJI:");
-    console.log("node scripts/fetchDowJones.js history");
-    console.log("");
+    console.log(
+      "Both:"
+    );
 
-    console.log("Both:");
-    console.log("node scripts/fetchDowJones.js all");
+    console.log(
+      "node scripts/fetchDowJones.js all"
+    );
+
     console.log("");
 
     process.exit(1);
   } catch (error) {
     console.error("");
-    console.error("==========================================");
-    console.error("❌ DOW JONES UPDATE FAILED");
-    console.error("==========================================");
+    console.error(
+      "❌ Dow Jones update failed:"
+    );
+
     console.error(error.message);
-    console.error("");
 
     process.exit(1);
   }
 }
-
-
-// ============================================================
-// START
-// ============================================================
 
 main();

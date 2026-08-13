@@ -1,12 +1,6 @@
 name: Dow Jones Historical Data Update
 
 on:
-  schedule:
-    # 5:00 PM New York time.
-    # We cover both EDT and EST with two UTC schedules.
-    - cron: "0 21 * * 1-5"
-    - cron: "0 22 * * 1-5"
-
   workflow_dispatch:
 
 jobs:
@@ -54,4 +48,7 @@ jobs:
           fi
 
           git commit -m "Update Dow Jones historical data"
-          git push
+
+          git pull --rebase origin main
+
+          git push origin main

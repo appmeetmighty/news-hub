@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T18:15:36.988Z",
-  "total": 24,
+  "updated_at": "2026-08-13T18:31:03.043Z",
+  "total": 25,
   "entities": [
     {
       "id": "crypto",
@@ -16,21 +16,21 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
+      "count": 26
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 19
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 16
+      "count": 17
     },
     {
       "id": "blockchain",
@@ -47,13 +47,11 @@
       "count": 6
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
-      "count": 5
+      "count": 4
     },
     {
       "id": "anthropic",
@@ -61,6 +59,15 @@
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
       "count": 4
     },
@@ -99,22 +106,6 @@
       "count": 3
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 3
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -140,6 +131,15 @@
       "count": 2
     },
     {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 2
+    },
+    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
@@ -147,6 +147,15 @@
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
       "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "amzn",

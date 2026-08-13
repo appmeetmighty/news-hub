@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-13T21:31:06.522Z",
+  "updated_at": "2026-08-13T21:45:38.128Z",
   "articles": {
-    "generated_at": "2026-08-13T21:31:06.522Z",
+    "generated_at": "2026-08-13T21:45:38.128Z",
     "topics": [
       {
         "id": "crypto",
@@ -157,7 +157,7 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 25,
+        "count": 24,
         "articles": [
           {
             "id": "6aaceb71d4290699dece98acf9f3993a",
@@ -306,8 +306,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 21,
+        "count": 22,
         "articles": [
+          {
+            "id": "de3ae348f9f4c18b4543b36819d007d3",
+            "title": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-13T21:45:04.000Z",
+            "path": "articles/de3ae348f9f4c18b4543b36819d007d3.json"
+          },
           {
             "id": "41b5d4e7fe0974ec3b664095783990c2",
             "title": "Cisco shares slide 8% despite earnings beat and stronger-than-expected guidance",
@@ -433,20 +447,6 @@
             "category": "crypto",
             "published_at": "2026-08-13T16:00:23.000Z",
             "path": "articles/e3742fc6fdd9a77090458509972cfbe7.json"
-          },
-          {
-            "id": "0b889511e47fb7a9b70a29f83b3387ac",
-            "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
-            "image": "https://image.cnbcfm.com/api/v1/image/107327714-1698931527683-gettyimages-949516886-AFP_13Z2MW.jpeg?v=1698938212&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-13T15:16:00.000Z",
-            "path": "articles/0b889511e47fb7a9b70a29f83b3387ac.json"
           }
         ]
       },
@@ -735,6 +735,99 @@
         ]
       },
       {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
+        "count": 6,
+        "articles": [
+          {
+            "id": "de3ae348f9f4c18b4543b36819d007d3",
+            "title": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-13T21:45:04.000Z",
+            "path": "articles/de3ae348f9f4c18b4543b36819d007d3.json"
+          },
+          {
+            "id": "0c756651bdbe3d0d965dda71ca183ff6",
+            "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-13T20:30:24.000Z",
+            "path": "articles/0c756651bdbe3d0d965dda71ca183ff6.json"
+          },
+          {
+            "id": "74e4d46201d9e77e43af69ee06d6b25d",
+            "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+            "image": "https://image.cnbcfm.com/api/v1/image/108291328-1776192386665-gettyimages-2270583434-raa-anthropi260412_np7gH.jpeg?v=1776192426&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-13T18:44:12.000Z",
+            "path": "articles/74e4d46201d9e77e43af69ee06d6b25d.json"
+          },
+          {
+            "id": "0b889511e47fb7a9b70a29f83b3387ac",
+            "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
+            "image": "https://image.cnbcfm.com/api/v1/image/107327714-1698931527683-gettyimages-949516886-AFP_13Z2MW.jpeg?v=1698938212&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-13T15:16:00.000Z",
+            "path": "articles/0b889511e47fb7a9b70a29f83b3387ac.json"
+          },
+          {
+            "id": "a01a599cc798e61353d42df879a7e61f",
+            "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_4.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-12T20:01:05.000Z",
+            "path": "articles/a01a599cc798e61353d42df879a7e61f.json"
+          },
+          {
+            "id": "c1e0e03ad7a0624ab3ba810a1fb1a93f",
+            "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-11T18:56:03.000Z",
+            "path": "articles/c1e0e03ad7a0624ab3ba810a1fb1a93f.json"
+          }
+        ]
+      },
+      {
         "id": "etf",
         "name": "ETF",
         "type": "topic",
@@ -907,85 +1000,6 @@
         ]
       },
       {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 5,
-        "articles": [
-          {
-            "id": "0c756651bdbe3d0d965dda71ca183ff6",
-            "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-13T20:30:24.000Z",
-            "path": "articles/0c756651bdbe3d0d965dda71ca183ff6.json"
-          },
-          {
-            "id": "74e4d46201d9e77e43af69ee06d6b25d",
-            "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
-            "image": "https://image.cnbcfm.com/api/v1/image/108291328-1776192386665-gettyimages-2270583434-raa-anthropi260412_np7gH.jpeg?v=1776192426&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-13T18:44:12.000Z",
-            "path": "articles/74e4d46201d9e77e43af69ee06d6b25d.json"
-          },
-          {
-            "id": "0b889511e47fb7a9b70a29f83b3387ac",
-            "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
-            "image": "https://image.cnbcfm.com/api/v1/image/107327714-1698931527683-gettyimages-949516886-AFP_13Z2MW.jpeg?v=1698938212&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-13T15:16:00.000Z",
-            "path": "articles/0b889511e47fb7a9b70a29f83b3387ac.json"
-          },
-          {
-            "id": "a01a599cc798e61353d42df879a7e61f",
-            "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_4.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-12T20:01:05.000Z",
-            "path": "articles/a01a599cc798e61353d42df879a7e61f.json"
-          },
-          {
-            "id": "c1e0e03ad7a0624ab3ba810a1fb1a93f",
-            "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-11T18:56:03.000Z",
-            "path": "articles/c1e0e03ad7a0624ab3ba810a1fb1a93f.json"
-          }
-        ]
-      },
-      {
         "id": "openai",
         "name": "OpenAI",
         "type": "company",
@@ -1047,71 +1061,6 @@
             "category": "crypto",
             "published_at": "2026-08-11T18:56:03.000Z",
             "path": "articles/c1e0e03ad7a0624ab3ba810a1fb1a93f.json"
-          }
-        ]
-      },
-      {
-        "id": "eth",
-        "name": "Ethereum",
-        "type": "crypto",
-        "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-        "count": 4,
-        "articles": [
-          {
-            "id": "a79e30a293dd2c1478612e1add401eb1",
-            "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-13T14:01:03.000Z",
-            "path": "articles/a79e30a293dd2c1478612e1add401eb1.json"
-          },
-          {
-            "id": "cad46bd029bcc0ed9ac0b94a7c459b47",
-            "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-08-scaled-gID_7.jpeg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-12T17:13:43.000Z",
-            "path": "articles/cad46bd029bcc0ed9ac0b94a7c459b47.json"
-          },
-          {
-            "id": "6ca03a6c1697098eef0357ec2166a1bd",
-            "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/crypto-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-12T15:54:16.000Z",
-            "path": "articles/6ca03a6c1697098eef0357ec2166a1bd.json"
-          },
-          {
-            "id": "31a265242de2ccded869aeacc481f059",
-            "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-11T17:26:54.000Z",
-            "path": "articles/31a265242de2ccded869aeacc481f059.json"
           }
         ]
       },
@@ -1181,67 +1130,16 @@
         ]
       },
       {
-        "id": "stablecoin",
-        "name": "Stablecoin",
-        "type": "topic",
-        "icon": "",
-        "count": 3,
-        "articles": [
-          {
-            "id": "71acbccd0ad18b2ca590226392fd9964",
-            "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-13T18:39:11.000Z",
-            "path": "articles/71acbccd0ad18b2ca590226392fd9964.json"
-          },
-          {
-            "id": "c63466f25306b0d4a3be234af187f9b6",
-            "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?auto=format&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-13T18:26:21.000Z",
-            "path": "articles/c63466f25306b0d4a3be234af187f9b6.json"
-          },
-          {
-            "id": "31a265242de2ccded869aeacc481f059",
-            "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-11T17:26:54.000Z",
-            "path": "articles/31a265242de2ccded869aeacc481f059.json"
-          }
-        ]
-      },
-      {
-        "id": "xrp",
-        "name": "XRP",
+        "id": "eth",
+        "name": "Ethereum",
         "type": "crypto",
-        "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+        "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
         "count": 3,
         "articles": [
           {
-            "id": "265447f60e9d71c9c01fdf627ac48e9a",
-            "title": "XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/xrp-decrypt-style-02-scaled-gID_7.jpg@png",
+            "id": "a79e30a293dd2c1478612e1add401eb1",
+            "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png",
             "source": {
               "id": "decrypt",
               "name": "Decrypt",
@@ -1249,13 +1147,13 @@
               "icon": "https://logo.clearbit.com/decrypt.co"
             },
             "category": "crypto",
-            "published_at": "2026-08-13T13:01:05.000Z",
-            "path": "articles/265447f60e9d71c9c01fdf627ac48e9a.json"
+            "published_at": "2026-08-13T14:01:03.000Z",
+            "path": "articles/a79e30a293dd2c1478612e1add401eb1.json"
           },
           {
-            "id": "6ecc3de51f2a201f7133d6bd621ed7cf",
-            "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
+            "id": "cad46bd029bcc0ed9ac0b94a7c459b47",
+            "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-08-scaled-gID_7.jpeg@png",
             "source": {
               "id": "decrypt",
               "name": "Decrypt",
@@ -1263,13 +1161,13 @@
               "icon": "https://logo.clearbit.com/decrypt.co"
             },
             "category": "crypto",
-            "published_at": "2026-08-12T16:00:52.000Z",
-            "path": "articles/6ecc3de51f2a201f7133d6bd621ed7cf.json"
+            "published_at": "2026-08-12T17:13:43.000Z",
+            "path": "articles/cad46bd029bcc0ed9ac0b94a7c459b47.json"
           },
           {
-            "id": "31a265242de2ccded869aeacc481f059",
-            "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png",
+            "id": "6ca03a6c1697098eef0357ec2166a1bd",
+            "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/crypto-gID_7.jpg@png",
             "source": {
               "id": "decrypt",
               "name": "Decrypt",
@@ -1277,8 +1175,8 @@
               "icon": "https://logo.clearbit.com/decrypt.co"
             },
             "category": "crypto",
-            "published_at": "2026-08-11T17:26:54.000Z",
-            "path": "articles/31a265242de2ccded869aeacc481f059.json"
+            "published_at": "2026-08-12T15:54:16.000Z",
+            "path": "articles/6ca03a6c1697098eef0357ec2166a1bd.json"
           }
         ]
       },
@@ -1404,6 +1302,80 @@
             "category": "stocks",
             "published_at": "2026-08-13T16:06:38.000Z",
             "path": "articles/158decabab0c14c689a1bd1759b4ae51.json"
+          }
+        ]
+      },
+      {
+        "id": "stablecoin",
+        "name": "Stablecoin",
+        "type": "topic",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "71acbccd0ad18b2ca590226392fd9964",
+            "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-13T18:39:11.000Z",
+            "path": "articles/71acbccd0ad18b2ca590226392fd9964.json"
+          },
+          {
+            "id": "c63466f25306b0d4a3be234af187f9b6",
+            "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?auto=format&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-13T18:26:21.000Z",
+            "path": "articles/c63466f25306b0d4a3be234af187f9b6.json"
+          }
+        ]
+      },
+      {
+        "id": "xrp",
+        "name": "XRP",
+        "type": "crypto",
+        "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+        "count": 2,
+        "articles": [
+          {
+            "id": "265447f60e9d71c9c01fdf627ac48e9a",
+            "title": "XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/xrp-decrypt-style-02-scaled-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-13T13:01:05.000Z",
+            "path": "articles/265447f60e9d71c9c01fdf627ac48e9a.json"
+          },
+          {
+            "id": "6ecc3de51f2a201f7133d6bd621ed7cf",
+            "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-12T16:00:52.000Z",
+            "path": "articles/6ecc3de51f2a201f7133d6bd621ed7cf.json"
           }
         ]
       },

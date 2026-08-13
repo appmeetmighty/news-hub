@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T19:01:09.876Z",
-  "total": 25,
+  "updated_at": "2026-08-13T19:15:36.753Z",
+  "total": 27,
   "entities": [
     {
       "id": "crypto",
@@ -23,7 +23,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 21
     },
     {
       "id": "regulation",
@@ -52,6 +52,24 @@
       "type": "topic",
       "icon": "",
       "count": 5
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 4
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "anthropic",
@@ -88,30 +106,12 @@
       "count": 4
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 3
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 3
     },
     {
@@ -147,6 +147,24 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 2
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 1
+    },
+    {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "gold",

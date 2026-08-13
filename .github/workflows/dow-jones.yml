@@ -1,6 +1,17 @@
 name: Dow Jones Data Update
 
 on:
+  schedule:
+    # Every 15 minutes during US market hours.
+    # GitHub Actions uses UTC.
+    #
+    # 09:30-15:45 America/New_York:
+    # EDT (UTC-4): 13:30-19:45 UTC
+    # EST (UTC-5): 14:30-20:45 UTC
+    #
+    # We intentionally cover both windows.
+    - cron: "*/15 13-20 * * 1-5"
+
   workflow_dispatch:
 
 jobs:

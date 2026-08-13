@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-13T07:15:35.816Z",
+  "updated_at": "2026-08-13T07:31:01.124Z",
   "total": 31,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 28
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,6 +9,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 27
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
       "count": 27
     },
     {
@@ -30,7 +30,7 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 18
     },
     {
       "id": "etf",
@@ -56,21 +56,21 @@
       "count": 5
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 5
-    },
-    {
       "id": "gs",
       "symbol": "GS",
       "name": "Goldman Sachs",
       "type": "company",
       "path": "tickers/gs.json",
       "icon": "",
+      "count": 4
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 4
     },
     {

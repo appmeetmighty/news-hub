@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T21:15:40.425Z",
+  "updated_at": "2026-08-13T21:31:06.519Z",
   "total": 28,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 32
+      "count": 33
     },
     {
       "id": "btc",
@@ -23,7 +23,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 22
+      "count": 21
     },
     {
       "id": "regulation",
@@ -47,6 +47,15 @@
       "count": 6
     },
     {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 5
+    },
+    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
@@ -56,27 +65,11 @@
       "count": 5
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 4
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
       "icon": "",
       "count": 4
     },
@@ -95,6 +88,13 @@
       "type": "topic",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "xrp",
@@ -129,13 +129,6 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -181,6 +174,13 @@
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
       "icon": "",
       "count": 1
     },

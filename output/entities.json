@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T19:01:10.701Z",
+  "updated_at": "2026-08-14T19:14:07.145Z",
   "total": 26,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
+      "count": 28
     },
     {
       "id": "regulation",
@@ -31,6 +31,13 @@
       "type": "topic",
       "icon": "",
       "count": 19
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "mstr",
@@ -51,11 +58,13 @@
       "count": 6
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 6
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 5
     },
     {
       "id": "openai",
@@ -81,15 +90,6 @@
       "count": 4
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 4
-    },
-    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
@@ -97,6 +97,13 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "jpm",
@@ -117,15 +124,17 @@
       "count": 3
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 2
     },
     {
-      "id": "defi",
-      "name": "DeFi",
+      "id": "mining",
+      "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 2
@@ -153,15 +162,6 @@
       "name": "Web3",
       "type": "topic",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "blk",
-      "symbol": "BLK",
-      "name": "BlackRock",
-      "type": "company",
-      "path": "tickers/blk.json",
-      "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 1
     },
     {

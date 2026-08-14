@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T12:05:49.456Z",
+  "updated_at": "2026-08-14T12:15:37.923Z",
   "total": 26,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 33
+      "count": 32
     },
     {
       "id": "regulation",
@@ -40,18 +40,18 @@
       "count": 8
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 6
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
       "icon": "",
       "count": 5
     },
@@ -90,11 +90,13 @@
       "count": 4
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 4
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 3
     },
     {
       "id": "xrp",
@@ -115,21 +117,28 @@
       "count": 3
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "jpm",
       "symbol": "JPM",
       "name": "JPMorgan",
       "type": "company",
       "path": "tickers/jpm.json",
       "icon": "",
-      "count": 2
-    },
-    {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
       "count": 2
     },
     {
@@ -166,15 +175,6 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 1
-    },
-    {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
-      "icon": "",
       "count": 1
     },
     {

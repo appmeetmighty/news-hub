@@ -1,6 +1,6 @@
 {
   "id": "199c122c6c225d15892824281a718f29",
-  "title": "Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises",
+  "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
   "description": "Your day-ahead look for Aug. 14, 2026",
   "reading_time_minutes": 1,
   "breaking_score": 0,
@@ -15,18 +15,28 @@
   "category": "crypto",
   "entities": [
     {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
       "icon": ""
     }
   ],
   "published_at": "2026-08-14T11:33:50.000Z",
   "related": [
     {
-      "id": "5fa303a2261a8ef04bee1abfb1037925",
-      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/090e5c77bf9a39a85f3ba365ccf65e1cbecb6a4f-3781x2129.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.526&fp-y=0.8214&w=1920&h=1080&q=75",
+      "id": "761818e7005fffa3c22dce7102e376c8",
+      "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/74bc3e2ff5cfbae726c42ebcbad0ca2ee9f07754-1749x984.jpg?auto=format&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -34,15 +44,15 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-13T22:18:07.000Z",
+      "published_at": "2026-08-14T11:06:12.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/5fa303a2261a8ef04bee1abfb1037925.json"
+      "path": "articles/761818e7005fffa3c22dce7102e376c8.json"
     },
     {
-      "id": "7a617c825173d8bede858e8f797be522",
-      "title": "Crypto for Advisors: The crypto advice gap",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f4e8f319b4bdb33570deba7727241b4dc16db4b9-4032x2688.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "id": "6f5098af1b3763291bf17288a45cd052",
+      "title": "Live updates: Bitcoin slips below $63,000 as oil, yields climb ",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/bce0f33371330b08e2ce67dd4abee833c362a946-8000x4500.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -50,15 +60,15 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-13T15:00:00.000Z",
+      "published_at": "2026-08-14T08:51:48.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/7a617c825173d8bede858e8f797be522.json"
+      "path": "articles/6f5098af1b3763291bf17288a45cd052.json"
     },
     {
-      "id": "d53500c54d2d4e645221bfe3f363ba98",
-      "title": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/dfcf333f60f7e3c344d0104116ea77b35ddd3a27-500x300.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "id": "640107c39c632cba4a9201e4a95fbbbe",
+      "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/08b73b53b7d99907e25db584d50c4b5d0065ff53-1920x1080.jpg?auto=format&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -66,15 +76,15 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-13T14:43:38.000Z",
+      "published_at": "2026-08-14T07:14:37.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/d53500c54d2d4e645221bfe3f363ba98.json"
+      "path": "articles/640107c39c632cba4a9201e4a95fbbbe.json"
     },
     {
-      "id": "1439ad5db75dae3f8fa3e3020504a716",
-      "title": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/837fe64380b9dc3d548255d2d567d2589dbb7250-1920x1080.jpg?auto=format&q=75",
+      "id": "fb8f861f6746f1febf278e168d45fd93",
+      "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/90e55252ca8600f3f161a4c428bcbc02de07fb89-2316x1046.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -82,26 +92,26 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-13T13:41:32.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 30,
-      "path": "articles/1439ad5db75dae3f8fa3e3020504a716.json"
-    },
-    {
-      "id": "29a8daee5098da699c67a8f204239280",
-      "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab6526a6112137a16ade76be0e301939e1434fb8-6240x3996.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-13T13:37:56.000Z",
+      "published_at": "2026-08-14T06:20:54.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/29a8daee5098da699c67a8f204239280.json"
+      "path": "articles/fb8f861f6746f1febf278e168d45fd93.json"
+    },
+    {
+      "id": "6aaceb71d4290699dece98acf9f3993a",
+      "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/acf831401ea851c7551eb13183b3f53d9be886a8-7146x4766.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-13T17:43:25.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/6aaceb71d4290699dece98acf9f3993a.json"
     }
   ]
 }

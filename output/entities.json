@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T12:15:37.923Z",
+  "updated_at": "2026-08-14T12:30:55.267Z",
   "total": 26,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 32
+      "count": 31
     },
     {
       "id": "regulation",
@@ -23,7 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
+      "count": 23
     },
     {
       "id": "ai",
@@ -133,20 +133,20 @@
       "count": 2
     },
     {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "jpm",
       "symbol": "JPM",
       "name": "JPMorgan",
       "type": "company",
       "path": "tickers/jpm.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "gs",
-      "symbol": "GS",
-      "name": "Goldman Sachs",
-      "type": "company",
-      "path": "tickers/gs.json",
       "icon": "",
       "count": 2
     },
@@ -178,15 +178,6 @@
       "count": 1
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "mining",
       "name": "Mining",
       "type": "topic",
@@ -215,6 +206,15 @@
       "name": "xAI",
       "type": "company",
       "path": "tickers/xai.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
       "icon": "",
       "count": 1
     }

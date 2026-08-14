@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T20:01:00.381Z",
-  "total": 26,
+  "updated_at": "2026-08-14T20:15:34.847Z",
+  "total": 28,
   "entities": [
     {
       "id": "crypto",
@@ -23,21 +23,14 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 23
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 19
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 7
+      "count": 21
     },
     {
       "id": "mstr",
@@ -58,13 +51,11 @@
       "count": 6
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 5
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "openai",
@@ -73,6 +64,15 @@
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
+      "count": 4
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
     },
     {
@@ -113,6 +113,15 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "blk",
@@ -156,6 +165,24 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 2
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 1
+    },
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "web3",
@@ -206,15 +233,6 @@
       "name": "xAI",
       "type": "company",
       "path": "tickers/xai.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "gs",
-      "symbol": "GS",
-      "name": "Goldman Sachs",
-      "type": "company",
-      "path": "tickers/gs.json",
       "icon": "",
       "count": 1
     }

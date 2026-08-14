@@ -1,11 +1,11 @@
 {
-  "id": "6853f2563634fc633d8c9416530a3f45",
-  "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
-  "description": "AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.",
+  "id": "2b3f3ad3f60eac9c186be8b98cb5ebb2",
+  "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+  "description": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108065915-1732132327405-gettyimages-1741939927-tle_9746.jpeg?v=1732132336&w=1920&h=1080",
+  "breaking_score": 20,
+  "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108334981-1784059637128-gettyimages-2285488608-US_STOCKS.jpeg?v=1784059834&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,45 +15,69 @@
   "category": "stocks",
   "entities": [
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
+    },
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": ""
+    },
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
+      "icon": ""
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-14T12:03:32.000Z",
+  "published_at": "2026-08-14T20:05:57.000Z",
   "related": [
     {
-      "id": "2b3f3ad3f60eac9c186be8b98cb5ebb2",
-      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
-      "image": "https://image.cnbcfm.com/api/v1/image/108334981-1784059637128-gettyimages-2285488608-US_STOCKS.jpeg?v=1784059834&w=1920&h=1080",
+      "id": "fa8bb8f136013f3f4409256ccee1214a",
+      "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/goldman-solomon-decrypt-style-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-08-14T20:05:57.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 20,
-      "path": "articles/2b3f3ad3f60eac9c186be8b98cb5ebb2.json"
-    },
-    {
-      "id": "391c409beaa3dd69745d25dca62e26ce",
-      "title": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
-      "image": "https://image.cnbcfm.com/api/v1/image/108348893-1786596567346-gettyimages-2275368013-AFP_B2NX79F.jpeg?v=1786596593&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-14T00:09:11.000Z",
+      "category": "crypto",
+      "published_at": "2026-08-12T18:58:26.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/391c409beaa3dd69745d25dca62e26ce.json"
+      "path": "articles/fa8bb8f136013f3f4409256ccee1214a.json"
+    },
+    {
+      "id": "6853f2563634fc633d8c9416530a3f45",
+      "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
+      "image": "https://image.cnbcfm.com/api/v1/image/108065915-1732132327405-gettyimages-1741939927-tle_9746.jpeg?v=1732132336&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-14T12:03:32.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/6853f2563634fc633d8c9416530a3f45.json"
     },
     {
       "id": "0f9ee2bc4f0072001634df6231f3bfe0",

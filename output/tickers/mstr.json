@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T14:01:04.607Z",
+  "updated_at": "2026-08-14T14:15:39.170Z",
   "id": "mstr",
   "symbol": "MSTR",
   "name": "Strategy",
@@ -7,21 +7,29 @@
   "total": 4,
   "articles": [
     {
-      "id": "b948ce80dda9571f67726196d84fe4fa",
-      "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
-      "description": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
+      "id": "4873c25fa74b25d604407a351e1772f1",
+      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "description": "The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+      "url": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a57323d92b3fa599df2ee442af800248477423c0-6000x3376.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "mstr",
           "symbol": "MSTR",
@@ -29,15 +37,9 @@
           "type": "company",
           "path": "tickers/mstr.json",
           "icon": "https://logo.clearbit.com/strategy.com"
-        },
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
         }
       ],
-      "published_at": "2026-08-14T12:38:39.000Z",
+      "published_at": "2026-08-14T14:12:34.000Z",
       "related": [
         {
           "id": "fb8f861f6746f1febf278e168d45fd93",
@@ -72,9 +74,9 @@
           "path": "articles/4e9898749eaea1779aac48a586182c0a.json"
         },
         {
-          "id": "d3d8d54e5b292ffd00a1f6d16c505155",
-          "title": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/052b07b4d18fa2bfb84d0c75c429af8b04f89c8b-5472x3078.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "199c122c6c225d15892824281a718f29",
+          "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e29ab0b305e82306feadf3c62519eb4807b70897-2854x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -82,10 +84,126 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-13T09:39:52.000Z",
+          "published_at": "2026-08-14T11:33:50.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d3d8d54e5b292ffd00a1f6d16c505155.json"
+          "path": "articles/199c122c6c225d15892824281a718f29.json"
+        },
+        {
+          "id": "d767a9b951f79345feef1e86c1d7bcd1",
+          "title": "Israel’s largest bank to offer crypto trading with Galaxy",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8142dec16a595aba3e6c3f1bb742b14314bedc43-1440x810.jpg?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-14T13:51:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d767a9b951f79345feef1e86c1d7bcd1.json"
+        },
+        {
+          "id": "b948ce80dda9571f67726196d84fe4fa",
+          "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-14T12:38:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b948ce80dda9571f67726196d84fe4fa.json"
+        }
+      ],
+      "path": "articles/4873c25fa74b25d604407a351e1772f1.json"
+    },
+    {
+      "id": "b948ce80dda9571f67726196d84fe4fa",
+      "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
+      "description": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "mstr",
+          "symbol": "MSTR",
+          "name": "Strategy",
+          "type": "company",
+          "path": "tickers/mstr.json",
+          "icon": "https://logo.clearbit.com/strategy.com"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-14T12:38:39.000Z",
+      "related": [
+        {
+          "id": "4873c25fa74b25d604407a351e1772f1",
+          "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a57323d92b3fa599df2ee442af800248477423c0-6000x3376.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-14T14:12:34.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4873c25fa74b25d604407a351e1772f1.json"
+        },
+        {
+          "id": "fb8f861f6746f1febf278e168d45fd93",
+          "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/90e55252ca8600f3f161a4c428bcbc02de07fb89-2316x1046.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-14T06:20:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fb8f861f6746f1febf278e168d45fd93.json"
+        },
+        {
+          "id": "4e9898749eaea1779aac48a586182c0a",
+          "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/45f6f9b38718e6b14ae6bd76d4d513717e5edecc-1500x844.jpg?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-13T11:35:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4e9898749eaea1779aac48a586182c0a.json"
         },
         {
           "id": "3c756cb5b71e106c0151455f061dd163",
@@ -174,9 +292,9 @@
           "path": "articles/4e9898749eaea1779aac48a586182c0a.json"
         },
         {
-          "id": "d3d8d54e5b292ffd00a1f6d16c505155",
-          "title": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/052b07b4d18fa2bfb84d0c75c429af8b04f89c8b-5472x3078.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "4873c25fa74b25d604407a351e1772f1",
+          "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a57323d92b3fa599df2ee442af800248477423c0-6000x3376.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -184,10 +302,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-13T09:39:52.000Z",
+          "published_at": "2026-08-14T14:12:34.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d3d8d54e5b292ffd00a1f6d16c505155.json"
+          "path": "articles/4873c25fa74b25d604407a351e1772f1.json"
         },
         {
           "id": "199c122c6c225d15892824281a718f29",
@@ -292,9 +410,9 @@
           "path": "articles/fb8f861f6746f1febf278e168d45fd93.json"
         },
         {
-          "id": "d3d8d54e5b292ffd00a1f6d16c505155",
-          "title": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/052b07b4d18fa2bfb84d0c75c429af8b04f89c8b-5472x3078.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "4873c25fa74b25d604407a351e1772f1",
+          "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a57323d92b3fa599df2ee442af800248477423c0-6000x3376.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -302,10 +420,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-13T09:39:52.000Z",
+          "published_at": "2026-08-14T14:12:34.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d3d8d54e5b292ffd00a1f6d16c505155.json"
+          "path": "articles/4873c25fa74b25d604407a351e1772f1.json"
         },
         {
           "id": "199c122c6c225d15892824281a718f29",
@@ -357,130 +475,6 @@
         }
       ],
       "path": "articles/4e9898749eaea1779aac48a586182c0a.json"
-    },
-    {
-      "id": "d3d8d54e5b292ffd00a1f6d16c505155",
-      "title": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
-      "description": "DIGY11 aims for annual distributions matching Brazil’s interbank rate plus 3–5 percentage points, net of costs, though investors' actual returns are not guaranteed.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/052b07b4d18fa2bfb84d0c75c429af8b04f89c8b-5472x3078.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-        },
-        {
-          "id": "mstr",
-          "symbol": "MSTR",
-          "name": "Strategy",
-          "type": "company",
-          "path": "tickers/mstr.json",
-          "icon": "https://logo.clearbit.com/strategy.com"
-        },
-        {
-          "id": "etf",
-          "name": "ETF",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-08-13T09:39:52.000Z",
-      "related": [
-        {
-          "id": "640107c39c632cba4a9201e4a95fbbbe",
-          "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/08b73b53b7d99907e25db584d50c4b5d0065ff53-1920x1080.jpg?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-14T07:14:37.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/640107c39c632cba4a9201e4a95fbbbe.json"
-        },
-        {
-          "id": "fb8f861f6746f1febf278e168d45fd93",
-          "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/90e55252ca8600f3f161a4c428bcbc02de07fb89-2316x1046.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-14T06:20:54.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fb8f861f6746f1febf278e168d45fd93.json"
-        },
-        {
-          "id": "4e9898749eaea1779aac48a586182c0a",
-          "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/45f6f9b38718e6b14ae6bd76d4d513717e5edecc-1500x844.jpg?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-13T11:35:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4e9898749eaea1779aac48a586182c0a.json"
-        },
-        {
-          "id": "fa8bb8f136013f3f4409256ccee1214a",
-          "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/goldman-solomon-decrypt-style-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-12T18:58:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fa8bb8f136013f3f4409256ccee1214a.json"
-        },
-        {
-          "id": "199c122c6c225d15892824281a718f29",
-          "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e29ab0b305e82306feadf3c62519eb4807b70897-2854x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-14T11:33:50.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/199c122c6c225d15892824281a718f29.json"
-        }
-      ],
-      "path": "articles/d3d8d54e5b292ffd00a1f6d16c505155.json"
     }
   ]
 }

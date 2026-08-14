@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T15:45:36.459Z",
+  "updated_at": "2026-08-14T16:01:09.626Z",
   "total": 27,
   "entities": [
     {
@@ -16,14 +16,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
+      "count": 27
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 23
+      "count": 22
     },
     {
       "id": "ai",
@@ -31,6 +31,15 @@
       "type": "topic",
       "icon": "",
       "count": 20
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 7
     },
     {
       "id": "mstr",
@@ -42,13 +51,6 @@
       "count": 7
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 7
-    },
-    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
@@ -56,12 +58,10 @@
       "count": 6
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
       "count": 6
     },
     {
@@ -88,6 +88,15 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "jpm",
@@ -138,15 +147,6 @@
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
       "icon": "",
       "count": 2
     },

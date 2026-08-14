@@ -1,11 +1,137 @@
 {
-  "updated_at": "2026-08-14T21:47:23.931Z",
+  "updated_at": "2026-08-14T22:01:02.684Z",
   "id": "xai",
   "symbol": "XAI",
   "name": "xAI",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "49cff1521b5086008bd31109874ee189",
+      "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+      "description": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108228370-1763570016990-gettyimages-2246882266-US_SAUDI.jpeg?v=1763570109&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "xai",
+          "symbol": "XAI",
+          "name": "xAI",
+          "type": "company",
+          "path": "tickers/xai.json",
+          "icon": ""
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-14T21:45:19.000Z",
+      "related": [
+        {
+          "id": "2b3f3ad3f60eac9c186be8b98cb5ebb2",
+          "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+          "image": "https://image.cnbcfm.com/api/v1/image/108334981-1784059637128-gettyimages-2285488608-US_STOCKS.jpeg?v=1784059834&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-14T20:05:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/2b3f3ad3f60eac9c186be8b98cb5ebb2.json"
+        },
+        {
+          "id": "d1eb5726136601087ad951259ecc8f13",
+          "title": "SpaceXAI Wants Grok Bot to Do Your Job—But It Needs Access to Your Accounts",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Grok-app-on-a-smartphone-screen-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-12T19:31:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d1eb5726136601087ad951259ecc8f13.json"
+        },
+        {
+          "id": "583bec9d752f311f978d16c43ba14b65",
+          "title": "Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner",
+          "image": "https://image.cnbcfm.com/api/v1/image/108329324-1782915391897-gettyimages-2282054038-_r7a3045_tx8qn1qc.jpeg?v=1786717082&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-14T16:40:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/583bec9d752f311f978d16c43ba14b65.json"
+        },
+        {
+          "id": "e9fa446fa2f5dd040164159423451188",
+          "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108260683-1770126131917-108260683-1770125907979-gettyimages-1869811750-vcg111470591485.jpg?v=1770126142&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-14T16:27:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e9fa446fa2f5dd040164159423451188.json"
+        },
+        {
+          "id": "b90d46639adc76280ec16cdf72e70d0f",
+          "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+          "image": "https://image.cnbcfm.com/api/v1/image/108317376-1780667558504-gettyimages-2229165999-NASDAQ_OPENING_BELL.jpeg?v=1780852487&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-14T21:10:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b90d46639adc76280ec16cdf72e70d0f.json"
+        }
+      ],
+      "path": "articles/49cff1521b5086008bd31109874ee189.json"
+    },
     {
       "id": "d1eb5726136601087ad951259ecc8f13",
       "title": "SpaceXAI Wants Grok Bot to Do Your Job—But It Needs Access to Your Accounts",
@@ -39,6 +165,22 @@
       ],
       "published_at": "2026-08-12T19:31:04.000Z",
       "related": [
+        {
+          "id": "49cff1521b5086008bd31109874ee189",
+          "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108228370-1763570016990-gettyimages-2246882266-US_SAUDI.jpeg?v=1763570109&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-14T21:45:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/49cff1521b5086008bd31109874ee189.json"
+        },
         {
           "id": "1841499fd8a57091bdb14de8dac1d0fa",
           "title": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
@@ -102,22 +244,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/04543067a1d8167c2b1d7aad2cf8fff6.json"
-        },
-        {
-          "id": "7f981afa966a4abc428ac63659cfd947",
-          "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-14T18:31:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/7f981afa966a4abc428ac63659cfd947.json"
         }
       ],
       "path": "articles/d1eb5726136601087ad951259ecc8f13.json"

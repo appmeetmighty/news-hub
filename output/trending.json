@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-15T14:30:50.306Z",
+  "updated_at": "2026-08-15T14:46:13.193Z",
   "articles": {
-    "generated_at": "2026-08-15T14:30:50.306Z",
+    "generated_at": "2026-08-15T14:46:13.193Z",
     "topics": [
       {
         "id": "crypto",
@@ -455,7 +455,7 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 19,
+        "count": 18,
         "articles": [
           {
             "id": "4536613db99e87ed2326d3fe064929ec",
@@ -570,20 +570,6 @@
             "path": "articles/6853f2563634fc633d8c9416530a3f45.json"
           },
           {
-            "id": "c75bd38270c093611dff06329611a67c",
-            "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
-            "image": "https://image.cnbcfm.com/api/v1/image/108349495-1786662481664-gettyimages-2274169871-AFP_A9WN7K6.jpeg?v=1786662575&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-14T01:02:39.000Z",
-            "path": "articles/c75bd38270c093611dff06329611a67c.json"
-          },
-          {
             "id": "06b7a3966ddbca81409f9e5532dd6a98",
             "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
             "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
@@ -596,6 +582,20 @@
             "category": "crypto",
             "published_at": "2026-08-13T22:36:07.000Z",
             "path": "articles/06b7a3966ddbca81409f9e5532dd6a98.json"
+          },
+          {
+            "id": "de3ae348f9f4c18b4543b36819d007d3",
+            "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-13T21:45:04.000Z",
+            "path": "articles/de3ae348f9f4c18b4543b36819d007d3.json"
           }
         ]
       },
@@ -1051,6 +1051,71 @@
         ]
       },
       {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
+        "count": 4,
+        "articles": [
+          {
+            "id": "84f9dbe8efc383e63f0d3d952776e440",
+            "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+            "image": "",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-15T14:45:31.000Z",
+            "path": "articles/84f9dbe8efc383e63f0d3d952776e440.json"
+          },
+          {
+            "id": "de3ae348f9f4c18b4543b36819d007d3",
+            "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-13T21:45:04.000Z",
+            "path": "articles/de3ae348f9f4c18b4543b36819d007d3.json"
+          },
+          {
+            "id": "0c756651bdbe3d0d965dda71ca183ff6",
+            "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-13T20:30:24.000Z",
+            "path": "articles/0c756651bdbe3d0d965dda71ca183ff6.json"
+          },
+          {
+            "id": "a01a599cc798e61353d42df879a7e61f",
+            "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_4.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-12T20:01:05.000Z",
+            "path": "articles/a01a599cc798e61353d42df879a7e61f.json"
+          }
+        ]
+      },
+      {
         "id": "blk",
         "name": "BlackRock",
         "type": "company",
@@ -1200,57 +1265,6 @@
             "category": "crypto",
             "published_at": "2026-08-14T05:04:52.000Z",
             "path": "articles/a729dfa038b9c95dbff56a435f3b59c1.json"
-          }
-        ]
-      },
-      {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 3,
-        "articles": [
-          {
-            "id": "de3ae348f9f4c18b4543b36819d007d3",
-            "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-13T21:45:04.000Z",
-            "path": "articles/de3ae348f9f4c18b4543b36819d007d3.json"
-          },
-          {
-            "id": "0c756651bdbe3d0d965dda71ca183ff6",
-            "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-13T20:30:24.000Z",
-            "path": "articles/0c756651bdbe3d0d965dda71ca183ff6.json"
-          },
-          {
-            "id": "a01a599cc798e61353d42df879a7e61f",
-            "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_4.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-12T20:01:05.000Z",
-            "path": "articles/a01a599cc798e61353d42df879a7e61f.json"
           }
         ]
       },

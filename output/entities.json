@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T08:45:35.568Z",
+  "updated_at": "2026-08-15T08:52:16.725Z",
   "total": 28,
   "entities": [
     {
@@ -10,15 +10,6 @@
       "count": 37
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
@@ -26,11 +17,20 @@
       "count": 25
     },
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 25
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 19
     },
     {
       "id": "sol",
@@ -58,6 +58,13 @@
       "count": 6
     },
     {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -69,13 +76,6 @@
     {
       "id": "blockchain",
       "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 4
@@ -160,13 +160,6 @@
       "count": 2
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "gemini",
       "symbol": "GEMINI",
       "name": "Gemini",
@@ -208,6 +201,13 @@
       "name": "Intel",
       "type": "company",
       "path": "tickers/intc.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
       "icon": "",
       "count": 1
     },

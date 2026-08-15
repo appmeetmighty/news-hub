@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-15T15:15:34.429Z",
+  "updated_at": "2026-08-15T15:30:49.586Z",
   "articles": {
-    "generated_at": "2026-08-15T15:15:34.429Z",
+    "generated_at": "2026-08-15T15:30:49.586Z",
     "topics": [
       {
         "id": "crypto",
@@ -157,8 +157,22 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 27,
+        "count": 28,
         "articles": [
+          {
+            "id": "6e6c971a7f2a44554514a5be296cdf83",
+            "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ed99ad8e1d2af4b11b0bb301a546dddccbf65e4-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-15T15:21:15.000Z",
+            "path": "articles/6e6c971a7f2a44554514a5be296cdf83.json"
+          },
           {
             "id": "ef3d3fbd76d649a1d02c953507cb010d",
             "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
@@ -284,20 +298,6 @@
             "category": "crypto",
             "published_at": "2026-08-14T17:14:02.000Z",
             "path": "articles/5750ab51b3b148912ac797232b350c80.json"
-          },
-          {
-            "id": "02a960e3ef39eef44253b1c0873dbd20",
-            "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-14T16:23:20.000Z",
-            "path": "articles/02a960e3ef39eef44253b1c0873dbd20.json"
           }
         ]
       },
@@ -1399,6 +1399,43 @@
         ]
       },
       {
+        "id": "mining",
+        "name": "Mining",
+        "type": "topic",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "6e6c971a7f2a44554514a5be296cdf83",
+            "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ed99ad8e1d2af4b11b0bb301a546dddccbf65e4-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-15T15:21:15.000Z",
+            "path": "articles/6e6c971a7f2a44554514a5be296cdf83.json"
+          },
+          {
+            "id": "02a960e3ef39eef44253b1c0873dbd20",
+            "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-14T16:23:20.000Z",
+            "path": "articles/02a960e3ef39eef44253b1c0873dbd20.json"
+          }
+        ]
+      },
+      {
         "id": "nvda",
         "name": "NVIDIA",
         "type": "company",
@@ -1824,29 +1861,6 @@
             "category": "stocks",
             "published_at": "2026-08-14T21:45:19.000Z",
             "path": "articles/49cff1521b5086008bd31109874ee189.json"
-          }
-        ]
-      },
-      {
-        "id": "mining",
-        "name": "Mining",
-        "type": "topic",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "02a960e3ef39eef44253b1c0873dbd20",
-            "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-14T16:23:20.000Z",
-            "path": "articles/02a960e3ef39eef44253b1c0873dbd20.json"
           }
         ]
       },

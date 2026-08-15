@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T12:45:34.008Z",
+  "updated_at": "2026-08-15T13:01:01.973Z",
   "total": 30,
   "entities": [
     {
@@ -8,13 +8,6 @@
       "type": "topic",
       "icon": "",
       "count": 36
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 25
     },
     {
       "id": "btc",
@@ -26,11 +19,27 @@
       "count": 24
     },
     {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 22
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 19
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 7
     },
     {
       "id": "sol",
@@ -49,28 +58,12 @@
       "count": 6
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 6
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 5
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
       "count": 5
     },
     {
@@ -81,18 +74,18 @@
       "count": 5
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
       "icon": "",
       "count": 3
     },
@@ -115,6 +108,15 @@
       "count": 3
     },
     {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 2
+    },
+    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
@@ -133,20 +135,18 @@
       "count": 2
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
-    },
-    {
       "id": "gs",
       "symbol": "GS",
       "name": "Goldman Sachs",
       "type": "company",
       "path": "tickers/gs.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -187,6 +187,15 @@
       "count": 2
     },
     {
+      "id": "ma",
+      "symbol": "MA",
+      "name": "Mastercard",
+      "type": "company",
+      "path": "tickers/ma.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
@@ -225,13 +234,6 @@
     {
       "id": "mining",
       "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
       "type": "topic",
       "icon": "",
       "count": 1

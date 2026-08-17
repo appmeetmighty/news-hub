@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-17T22:01:03.791Z",
+  "updated_at": "2026-08-17T22:15:35.455Z",
   "articles": {
-    "generated_at": "2026-08-17T22:01:03.791Z",
+    "generated_at": "2026-08-17T22:15:35.455Z",
     "topics": [
       {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 31,
+        "count": 30,
         "articles": [
           {
             "id": "f02d4bcf6d855a0ecda4a9c73b6b9afb",
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 11,
+        "count": 12,
         "articles": [
+          {
+            "id": "b6ee58cb412ff25113fe3f18052c3906",
+            "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-17T22:12:00.000Z",
+            "path": "articles/b6ee58cb412ff25113fe3f18052c3906.json"
+          },
           {
             "id": "8cfc89e4a5080ec8fd73692a88fa09ef",
             "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
@@ -582,20 +596,6 @@
             "category": "crypto",
             "published_at": "2026-08-14T18:31:03.000Z",
             "path": "articles/7f981afa966a4abc428ac63659cfd947.json"
-          },
-          {
-            "id": "02a960e3ef39eef44253b1c0873dbd20",
-            "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-14T16:23:20.000Z",
-            "path": "articles/02a960e3ef39eef44253b1c0873dbd20.json"
           }
         ]
       },
@@ -1339,6 +1339,43 @@
         ]
       },
       {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "b6ee58cb412ff25113fe3f18052c3906",
+            "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-17T22:12:00.000Z",
+            "path": "articles/b6ee58cb412ff25113fe3f18052c3906.json"
+          },
+          {
+            "id": "d7e953baefc1ed934276493dc5c8d5a3",
+            "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+            "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-17T21:26:13.000Z",
+            "path": "articles/d7e953baefc1ed934276493dc5c8d5a3.json"
+          }
+        ]
+      },
+      {
         "id": "nvda",
         "name": "NVIDIA",
         "type": "company",
@@ -1520,29 +1557,6 @@
             "category": "crypto",
             "published_at": "2026-08-15T17:01:03.000Z",
             "path": "articles/d2565a675e51719b1a54372d5d9036fc.json"
-          }
-        ]
-      },
-      {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "d7e953baefc1ed934276493dc5c8d5a3",
-            "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
-            "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-17T21:26:13.000Z",
-            "path": "articles/d7e953baefc1ed934276493dc5c8d5a3.json"
           }
         ]
       },

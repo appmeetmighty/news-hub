@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T18:15:38.569Z",
+  "updated_at": "2026-08-17T18:31:08.564Z",
   "total": 28,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 30
+      "count": 31
     },
     {
       "id": "btc",
@@ -33,6 +33,15 @@
       "count": 14
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 8
+    },
+    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -46,16 +55,16 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 8
+      "count": 7
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
       "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 7
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 6
     },
     {
       "id": "oil",
@@ -83,15 +92,6 @@
       "count": 5
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 5
-    },
-    {
       "id": "aapl",
       "symbol": "AAPL",
       "name": "Apple",
@@ -104,15 +104,6 @@
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
     },
@@ -185,6 +176,15 @@
       "name": "Gemini",
       "type": "company",
       "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 2
     },

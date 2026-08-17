@@ -1,11 +1,11 @@
 {
-  "id": "0670839b9cae689036b1501793cfdbd6",
-  "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-  "description": "While the data breach exposed the personal order details of thousands of customers, all private keys, seed phrases, and crypto assets remain completely safe.",
+  "id": "f73167709eecabc286bcc0e3d3581d66",
+  "title": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
+  "description": "Funds and digital assets were not touched, but names, bank account details, and national ID numbers may have been exposed in what the company says was a wider global attack.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-  "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+  "url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
   "source": {
     "id": "coindesk",
     "name": "CoinDesk",
@@ -15,18 +15,26 @@
   "category": "crypto",
   "entities": [
     {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": ""
+    },
+    {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-16T14:02:32.000Z",
+  "published_at": "2026-08-17T11:59:23.000Z",
   "related": [
     {
-      "id": "f73167709eecabc286bcc0e3d3581d66",
-      "title": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "id": "0670839b9cae689036b1501793cfdbd6",
+      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -34,10 +42,10 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-17T11:59:23.000Z",
+      "published_at": "2026-08-16T14:02:32.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/f73167709eecabc286bcc0e3d3581d66.json"
+      "path": "articles/0670839b9cae689036b1501793cfdbd6.json"
     },
     {
       "id": "236ceee39a7e24179a5549089ad65696",
@@ -88,20 +96,20 @@
       "path": "articles/e37c2f4171deae304bf50a2d305b2f2b.json"
     },
     {
-      "id": "98f0a0e132c70793234a802359121720",
-      "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hodlers-15-aug.jpg",
+      "id": "ed0bd7fcad9f3222bf0e620ad12df268",
+      "title": "The SEC meeting that wasn't: State of Crypto ",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fbc7e541d283d1ca139795169dd388c0890fdf2e-2854x1606.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-16T23:54:50.000Z",
+      "published_at": "2026-08-16T18:30:00.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/98f0a0e132c70793234a802359121720.json"
+      "path": "articles/ed0bd7fcad9f3222bf0e620ad12df268.json"
     }
   ]
 }

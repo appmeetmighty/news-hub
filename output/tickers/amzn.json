@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T09:30:47.627Z",
+  "updated_at": "2026-08-17T15:27:41.332Z",
   "id": "amzn",
   "symbol": "AMZN",
   "name": "Amazon",
@@ -7,20 +7,20 @@
   "total": 1,
   "articles": [
     {
-      "id": "a4c45adad2008b55bacc0bfefffa9aeb",
-      "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
-      "description": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
+      "id": "684c3a6fa2998045b164438bba7e7306",
+      "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+      "description": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/twitch-decrypt-style-gID_7.jpg@png",
+      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108299063-1777468291796-gettyimages-2267404607-avdmar26lot4a.jpeg?v=1781652733&w=1920&h=1080",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
         {
           "id": "amzn",
@@ -31,50 +31,60 @@
           "icon": "https://logo.clearbit.com/amazon.com"
         },
         {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
           "icon": ""
+        },
+        {
+          "id": "mstr",
+          "symbol": "MSTR",
+          "name": "Strategy",
+          "type": "company",
+          "path": "tickers/mstr.json",
+          "icon": "https://logo.clearbit.com/strategy.com"
         }
       ],
-      "published_at": "2026-08-13T11:42:27.000Z",
+      "published_at": "2026-08-17T15:26:04.000Z",
       "related": [
         {
-          "id": "d2565a675e51719b1a54372d5d9036fc",
-          "title": "Apple Turns to Alibaba to Help Build AI Model for China",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+          "id": "e925d0d0492417b0651f09d60873143c",
+          "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+          "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-15T17:01:03.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-17T15:26:52.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d2565a675e51719b1a54372d5d9036fc.json"
+          "path": "articles/e925d0d0492417b0651f09d60873143c.json"
         },
         {
-          "id": "06b7a3966ddbca81409f9e5532dd6a98",
-          "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
+          "id": "4247d874bf011d1dca969955d158dfd4",
+          "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+          "image": "https://image.cnbcfm.com/api/v1/image/108350309-1786971877370-gettyimages-2254260823-CES_2026.jpeg?v=1786971906&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-13T22:36:07.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-17T15:04:24.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/06b7a3966ddbca81409f9e5532dd6a98.json"
+          "path": "articles/4247d874bf011d1dca969955d158dfd4.json"
         },
         {
-          "id": "3bb8617b42cd07d6af7e4bfab7aa6701",
-          "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
+          "id": "7f981afa966a4abc428ac63659cfd947",
+          "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -82,15 +92,31 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-16T16:00:05.000Z",
+          "published_at": "2026-08-14T18:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/7f981afa966a4abc428ac63659cfd947.json"
+        },
+        {
+          "id": "16339878cd2db1e709189023a9168304",
+          "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-ai-chatgpt-gemini-claude-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-13T19:11:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3bb8617b42cd07d6af7e4bfab7aa6701.json"
+          "path": "articles/16339878cd2db1e709189023a9168304.json"
         },
         {
-          "id": "7924f19e0c5ce955fc4dbc7b2e67ae14",
-          "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
+          "id": "2177a59268d68bf6aad61dc01eb7b45d",
+          "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -98,29 +124,13 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-16T14:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/7924f19e0c5ce955fc4dbc7b2e67ae14.json"
-        },
-        {
-          "id": "832da33a717c4334a8fe288b9ec179b9",
-          "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-15T15:01:05.000Z",
+          "published_at": "2026-08-17T12:56:55.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/832da33a717c4334a8fe288b9ec179b9.json"
+          "path": "articles/2177a59268d68bf6aad61dc01eb7b45d.json"
         }
       ],
-      "path": "articles/a4c45adad2008b55bacc0bfefffa9aeb.json"
+      "path": "articles/684c3a6fa2998045b164438bba7e7306.json"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T19:01:07.142Z",
+  "updated_at": "2026-08-17T19:07:07.550Z",
   "total": 28,
   "entities": [
     {
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 13
     },
     {
       "id": "mstr",
@@ -51,15 +51,6 @@
       "count": 8
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 6
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -76,12 +67,12 @@
       "count": 6
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 5
     },
     {
@@ -90,6 +81,24 @@
       "type": "topic",
       "icon": "",
       "count": 5
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 3
     },
     {
       "id": "defi",
@@ -135,29 +144,11 @@
       "count": 2
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 2
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
       "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
-    },
-    {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
+      "path": "tickers/gs.json",
       "icon": "",
       "count": 2
     },
@@ -221,11 +212,20 @@
       "count": 1
     },
     {
-      "id": "gs",
-      "symbol": "GS",
-      "name": "Goldman Sachs",
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
       "type": "company",
-      "path": "tickers/gs.json",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 1
+    },
+    {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
       "icon": "",
       "count": 1
     },

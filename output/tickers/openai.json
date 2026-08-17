@@ -1,11 +1,129 @@
 {
-  "updated_at": "2026-08-17T14:01:06.379Z",
+  "updated_at": "2026-08-17T14:15:42.187Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 3,
+  "total": 4,
   "articles": [
+    {
+      "id": "e925d0d0492417b0651f09d60873143c",
+      "title": "Nvidia backs financing for OpenAI data center in Ohio",
+      "description": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-17T14:10:16.000Z",
+      "related": [
+        {
+          "id": "49cff1521b5086008bd31109874ee189",
+          "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108228370-1763570016990-gettyimages-2246882266-US_SAUDI.jpeg?v=1763570109&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-14T21:45:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/49cff1521b5086008bd31109874ee189.json"
+        },
+        {
+          "id": "4247d874bf011d1dca969955d158dfd4",
+          "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+          "image": "https://image.cnbcfm.com/api/v1/image/108350309-1786971877370-gettyimages-2254260823-CES_2026.jpeg?v=1786971906&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-17T13:33:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4247d874bf011d1dca969955d158dfd4.json"
+        },
+        {
+          "id": "7f981afa966a4abc428ac63659cfd947",
+          "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-14T18:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/7f981afa966a4abc428ac63659cfd947.json"
+        },
+        {
+          "id": "16339878cd2db1e709189023a9168304",
+          "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-ai-chatgpt-gemini-claude-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-13T19:11:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/16339878cd2db1e709189023a9168304.json"
+        },
+        {
+          "id": "978ae05ac02221041c22c940adc2102e",
+          "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
+          "image": "https://image.cnbcfm.com/api/v1/image/108030386-17256341152024-09-06t144339z_1377032827_rc22v9akatjt_rtrmadp_0_usa-trump-defamation-appeal.jpeg?v=1725634140&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-17T14:12:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/978ae05ac02221041c22c940adc2102e.json"
+        }
+      ],
+      "path": "articles/e925d0d0492417b0651f09d60873143c.json"
+    },
     {
       "id": "4247d874bf011d1dca969955d158dfd4",
       "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
@@ -33,6 +151,22 @@
       ],
       "published_at": "2026-08-17T13:33:04.000Z",
       "related": [
+        {
+          "id": "e925d0d0492417b0651f09d60873143c",
+          "title": "Nvidia backs financing for OpenAI data center in Ohio",
+          "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-17T14:10:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e925d0d0492417b0651f09d60873143c.json"
+        },
         {
           "id": "7f981afa966a4abc428ac63659cfd947",
           "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
@@ -82,9 +216,9 @@
           "path": "articles/2fd02e738a3511579774b3a2e403a5ed.json"
         },
         {
-          "id": "23b6744a811d8ca51614a48531a91453",
-          "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108350036-1786744616167-gettyimages-2188669640-1009_14_424829.jpeg?v=1786744698&w=1920&h=1080",
+          "id": "978ae05ac02221041c22c940adc2102e",
+          "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
+          "image": "https://image.cnbcfm.com/api/v1/image/108030386-17256341152024-09-06t144339z_1377032827_rc22v9akatjt_rtrmadp_0_usa-trump-defamation-appeal.jpeg?v=1725634140&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -92,26 +226,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-17T13:57:19.000Z",
+          "published_at": "2026-08-17T14:12:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/23b6744a811d8ca51614a48531a91453.json"
-        },
-        {
-          "id": "9587374d92e9c58ac948ac15f0392c52",
-          "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-          "image": "https://image.cnbcfm.com/api/v1/image/108291328-1776192386665-gettyimages-2270583434-raa-anthropi260412_np7gH.jpeg?v=1776192426&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-17T13:29:25.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9587374d92e9c58ac948ac15f0392c52.json"
+          "path": "articles/978ae05ac02221041c22c940adc2102e.json"
         }
       ],
       "path": "articles/4247d874bf011d1dca969955d158dfd4.json"
@@ -166,6 +284,22 @@
           "path": "articles/16339878cd2db1e709189023a9168304.json"
         },
         {
+          "id": "e925d0d0492417b0651f09d60873143c",
+          "title": "Nvidia backs financing for OpenAI data center in Ohio",
+          "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-17T14:10:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e925d0d0492417b0651f09d60873143c.json"
+        },
+        {
           "id": "4247d874bf011d1dca969955d158dfd4",
           "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
           "image": "https://image.cnbcfm.com/api/v1/image/108350309-1786971877370-gettyimages-2254260823-CES_2026.jpeg?v=1786971906&w=1920&h=1080",
@@ -198,36 +332,20 @@
           "path": "articles/66627a453a0396f99b3e80560d037d41.json"
         },
         {
-          "id": "e54a50ecf529a9b6d928000a7fe84e77",
-          "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@png",
+          "id": "052fa87d4ee8d490a21d34c048f64a73",
+          "title": "The Coldcard hack proves reputation is not a security model",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db2191038c41eae1bd0b4fd13d8435563fede3f0-5760x3840.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-17T13:31:04.000Z",
+          "published_at": "2026-08-17T14:09:46.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/e54a50ecf529a9b6d928000a7fe84e77.json"
-        },
-        {
-          "id": "b0d3d5789d9e50aafa6dc4512c51ca8d",
-          "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/donald-trump-bitcoin-statue2-gID_7.jpeg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-17T13:03:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b0d3d5789d9e50aafa6dc4512c51ca8d.json"
+          "breaking_score": 60,
+          "path": "articles/052fa87d4ee8d490a21d34c048f64a73.json"
         }
       ],
       "path": "articles/7f981afa966a4abc428ac63659cfd947.json"

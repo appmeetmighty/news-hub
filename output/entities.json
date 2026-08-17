@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-17T12:45:37.239Z",
+  "updated_at": "2026-08-17T13:01:08.148Z",
   "total": 30,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 34
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 31
+      "count": 33
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 33
     },
     {
       "id": "regulation",
@@ -40,6 +40,15 @@
       "count": 9
     },
     {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 7
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -54,24 +63,6 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 6
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 5
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 5
     },
     {
       "id": "blk",
@@ -92,11 +83,22 @@
       "count": 4
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "meta",
@@ -126,11 +128,9 @@
       "count": 3
     },
     {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
       "icon": "",
       "count": 3
     },
@@ -153,6 +153,15 @@
       "count": 2
     },
     {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "aapl",
       "symbol": "AAPL",
       "name": "Apple",
@@ -172,15 +181,6 @@
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
       "icon": "",
       "count": 2
     },

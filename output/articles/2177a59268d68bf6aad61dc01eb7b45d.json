@@ -1,11 +1,11 @@
 {
-  "id": "b948ce80dda9571f67726196d84fe4fa",
-  "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
-  "description": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
+  "id": "2177a59268d68bf6aad61dc01eb7b45d",
+  "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
+  "description": "The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+  "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
+  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
   "source": {
     "id": "decrypt",
     "name": "Decrypt",
@@ -15,38 +15,24 @@
   "category": "crypto",
   "entities": [
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com"
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": ""
     }
   ],
-  "published_at": "2026-08-14T12:38:39.000Z",
+  "published_at": "2026-08-17T12:56:55.000Z",
   "related": [
-    {
-      "id": "2177a59268d68bf6aad61dc01eb7b45d",
-      "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-17T12:56:55.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/2177a59268d68bf6aad61dc01eb7b45d.json"
-    },
     {
       "id": "2ec1c45451da20a7fc2f63b274ea765b",
       "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
@@ -110,6 +96,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 60,
       "path": "articles/b46811f0001ac92d82ea6d8b041586b1.json"
+    },
+    {
+      "id": "678d9864175c96f2905673fe737baa10",
+      "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-02-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-17T10:31:04.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/678d9864175c96f2905673fe737baa10.json"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "id": "23b6744a811d8ca51614a48531a91453",
-  "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test ",
-  "description": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
+  "id": "2a276d938d456bcb212976931fc3c16e",
+  "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
+  "description": "Alibaba launched a laptop-ready AI model and released the weights of its most powerful Qwen model, escalating its rivalry with Meta in open-weight AI.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108350036-1786744616167-gettyimages-2188669640-1009_14_424829.jpeg?v=1786744698&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108227780-17635012212025-07-16t104346z_1770604358_rc2hnfahkmgb_rtrmadp_0_china-supply-chain.jpeg?v=1763501302&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,24 +13,39 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-15T05:00:01.000Z",
+  "entities": [
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-17T11:24:23.000Z",
   "related": [
     {
-      "id": "2a276d938d456bcb212976931fc3c16e",
-      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
-      "image": "https://image.cnbcfm.com/api/v1/image/108227780-17635012212025-07-16t104346z_1770604358_rc2hnfahkmgb_rtrmadp_0_china-supply-chain.jpeg?v=1763501302&w=1920&h=1080",
+      "id": "832da33a717c4334a8fe288b9ec179b9",
+      "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-08-17T11:24:23.000Z",
+      "category": "crypto",
+      "published_at": "2026-08-15T15:01:05.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/2a276d938d456bcb212976931fc3c16e.json"
+      "path": "articles/832da33a717c4334a8fe288b9ec179b9.json"
     },
     {
       "id": "52cbb4e0233eb8f889b173cd2c205fb1",

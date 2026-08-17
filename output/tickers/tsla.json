@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-08-17T22:15:35.444Z",
+  "updated_at": "2026-08-17T22:30:56.000Z",
   "id": "tsla",
   "symbol": "TSLA",
   "name": "Tesla",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "03d39162e755e333bb1c1822174de96d",
+      "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
+      "description": "Elon Musk’s AI firm says the state’s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Grok-app-on-a-smartphone-screen-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "xai",
+          "symbol": "XAI",
+          "name": "xAI",
+          "type": "company",
+          "path": "tickers/xai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-17T22:16:03.000Z",
+      "related": [
+        {
+          "id": "a80108014087a4d6ca9ec3795c71b0ef",
+          "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+          "image": "https://image.cnbcfm.com/api/v1/image/108344678-17858640942022-04-18t114421z_88518296_rc27lt9gl46l_rtrmadp_0_autos-rivian-factory.jpeg?v=1786742012&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-17T19:14:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a80108014087a4d6ca9ec3795c71b0ef.json"
+        },
+        {
+          "id": "a11a6b01d0bbf78a745bb33e3bfd2f90",
+          "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-17T21:16:17.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a11a6b01d0bbf78a745bb33e3bfd2f90.json"
+        },
+        {
+          "id": "d8f0e9a42d7731053342dde74caae5d6",
+          "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-17T20:31:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d8f0e9a42d7731053342dde74caae5d6.json"
+        },
+        {
+          "id": "8cfc89e4a5080ec8fd73692a88fa09ef",
+          "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-17T19:59:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/8cfc89e4a5080ec8fd73692a88fa09ef.json"
+        },
+        {
+          "id": "1af5b5f1ed24e2a690ddd1f12a4ab872",
+          "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-17T19:01:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1af5b5f1ed24e2a690ddd1f12a4ab872.json"
+        }
+      ],
+      "path": "articles/03d39162e755e333bb1c1822174de96d.json"
+    },
     {
       "id": "a80108014087a4d6ca9ec3795c71b0ef",
       "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
@@ -41,6 +165,22 @@
       ],
       "published_at": "2026-08-17T19:14:03.000Z",
       "related": [
+        {
+          "id": "03d39162e755e333bb1c1822174de96d",
+          "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Grok-app-on-a-smartphone-screen-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-17T22:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/03d39162e755e333bb1c1822174de96d.json"
+        },
         {
           "id": "3b997f6976dc2bcf03e4853df2507ede",
           "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
@@ -90,9 +230,9 @@
           "path": "articles/581fe246938e7e1c849a485a82128586.json"
         },
         {
-          "id": "e12b16441fc36f4f0f6467c3b3d53508",
-          "title": "Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner",
-          "image": "https://image.cnbcfm.com/api/v1/image/108161370-1750282667512-gettyimages-2210461055-ldn-l-lakers-0420-kb73.jpeg?v=1771347498&w=1920&h=1080",
+          "id": "66e10b97d7916467190947889c671149",
+          "title": "Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans",
+          "image": "https://image.cnbcfm.com/api/v1/image/107257426-1686834585502-gettyimages-1247558024-775947490.jpeg?v=1787004735&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -100,26 +240,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-17T22:09:18.000Z",
+          "published_at": "2026-08-17T22:23:20.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e12b16441fc36f4f0f6467c3b3d53508.json"
-        },
-        {
-          "id": "46fe9380e2e4106de2b565459ac03460",
-          "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
-          "image": "https://image.cnbcfm.com/api/v1/image/108346540-1786103503772-gettyimages-2288604996-yanow-paramoun260806_np0Sy.jpeg?v=1786103521&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-17T22:07:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/46fe9380e2e4106de2b565459ac03460.json"
+          "path": "articles/66e10b97d7916467190947889c671149.json"
         }
       ],
       "path": "articles/a80108014087a4d6ca9ec3795c71b0ef.json"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T16:01:05.496Z",
+  "updated_at": "2026-08-17T16:15:47.258Z",
   "total": 31,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 31
+      "count": 32
     },
     {
       "id": "btc",
@@ -42,6 +42,15 @@
       "count": 8
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 7
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -54,24 +63,6 @@
       "type": "topic",
       "icon": "",
       "count": 7
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 6
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 6
     },
     {
       "id": "openai",
@@ -89,6 +80,15 @@
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
+      "count": 5
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 5
     },
     {

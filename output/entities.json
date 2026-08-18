@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-18T09:30:51.890Z",
+  "updated_at": "2026-08-18T09:45:38.061Z",
   "total": 28,
   "entities": [
+    {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 24
+    },
     {
       "id": "crypto",
       "name": "Crypto",
@@ -10,20 +19,11 @@
       "count": 24
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 23
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 14
     },
     {
       "id": "ai",

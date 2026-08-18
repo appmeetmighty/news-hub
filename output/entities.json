@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-18T14:30:54.193Z",
-  "total": 28,
+  "updated_at": "2026-08-18T14:45:37.982Z",
+  "total": 29,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 25
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,14 +9,21 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 21
+      "count": 23
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 23
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 19
     },
     {
       "id": "regulation",
@@ -39,14 +39,14 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 11
+      "count": 10
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 6
+      "count": 7
     },
     {
       "id": "mstr",
@@ -55,7 +55,7 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 5
+      "count": 4
     },
     {
       "id": "defi",
@@ -124,15 +124,6 @@
       "count": 2
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
@@ -149,6 +140,13 @@
       "path": "tickers/aapl.json",
       "icon": "https://logo.clearbit.com/apple.com",
       "count": 2
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "nvda",
@@ -208,6 +206,15 @@
       "name": "xAI",
       "type": "company",
       "path": "tickers/xai.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
       "icon": "",
       "count": 1
     },

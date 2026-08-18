@@ -1,11 +1,11 @@
 {
-  "id": "f9aaed893c3d0478cf31b0f014a45f1c",
-  "title": "Pirated Copies of 'The Odyssey' Are Hiding Crypto-Stealing Malware",
-  "description": "Bitdefender says fake downloads of the newly released blockbuster are already spreading Lumma Stealer, malware that scrapes crypto wallets, passwords and browser sessions from infected machines.",
+  "id": "2fa76f51ede2e8f82ea312c422c708eb",
+  "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+  "description": "The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/christopher-nolan-decrypt-style-gID_7.jpg@png",
+  "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
   "source": {
     "id": "decrypt",
     "name": "Decrypt",
@@ -15,29 +15,45 @@
   "category": "crypto",
   "entities": [
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
+      "icon": ""
+    },
+    {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-17T12:31:04.000Z",
+  "published_at": "2026-08-18T15:56:05.000Z",
   "related": [
     {
-      "id": "2fa76f51ede2e8f82ea312c422c708eb",
-      "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
+      "id": "beda73a103472e44b62b38458577bd44",
+      "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+      "image": "",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-18T15:56:05.000Z",
+      "published_at": "2026-08-18T13:25:13.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/2fa76f51ede2e8f82ea312c422c708eb.json"
+      "path": "articles/beda73a103472e44b62b38458577bd44.json"
     },
     {
       "id": "ffa463ec8e53c41f4139d5c1cda7f569",
@@ -72,25 +88,25 @@
       "path": "articles/7db57c01f007898caea560df90db0869.json"
     },
     {
-      "id": "ccc164b13f3c631fd1b02f4bd47826da",
-      "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Decrypt-Logo-Watermark-Placement-Pump.fun-Logo-scaled-gID_7.jpg@png",
+      "id": "6f5255294f776d009ae24dccbcb4ba90",
+      "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+      "image": "",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-18T12:37:02.000Z",
+      "published_at": "2026-08-18T13:00:00.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/ccc164b13f3c631fd1b02f4bd47826da.json"
+      "path": "articles/6f5255294f776d009ae24dccbcb4ba90.json"
     },
     {
-      "id": "1106bc6a2b6bca83ba0ea137869a50be",
-      "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
+      "id": "2177a59268d68bf6aad61dc01eb7b45d",
+      "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -98,10 +114,10 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-18T11:31:04.000Z",
+      "published_at": "2026-08-17T12:56:55.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/1106bc6a2b6bca83ba0ea137869a50be.json"
+      "path": "articles/2177a59268d68bf6aad61dc01eb7b45d.json"
     }
   ]
 }

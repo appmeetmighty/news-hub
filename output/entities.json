@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-18T15:54:44.284Z",
+  "updated_at": "2026-08-18T16:01:10.580Z",
   "total": 29,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 25
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 24
     },
     {
@@ -92,6 +92,15 @@
       "count": 3
     },
     {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
@@ -155,15 +164,6 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 1
-    },
-    {
-      "id": "c",
-      "symbol": "C",
-      "name": "Citigroup",
-      "type": "company",
-      "path": "tickers/c.json",
-      "icon": "",
       "count": 1
     },
     {

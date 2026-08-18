@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-18T13:01:08.386Z",
+  "updated_at": "2026-08-18T13:15:37.857Z",
   "total": 28,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 25
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,14 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 23
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 23
+      "count": 22
     },
     {
       "id": "ai",
@@ -67,15 +67,6 @@
       "count": 5
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 4
-    },
-    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -89,6 +80,15 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 3
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
       "count": 3
     },
     {

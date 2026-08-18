@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-18T11:17:34.614Z",
+  "updated_at": "2026-08-18T11:30:54.725Z",
   "total": 26,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 24
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
+      "count": 23
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 23
     },
     {
       "id": "ai",
@@ -55,15 +55,6 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 6
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
       "count": 5
     },
     {
@@ -74,6 +65,15 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 5
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "nvda",

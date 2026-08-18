@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-18T12:45:36.828Z",
+  "updated_at": "2026-08-18T13:01:08.386Z",
   "total": 28,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 22
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
+      "count": 23
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 23
     },
     {
       "id": "ai",
@@ -42,6 +42,13 @@
       "count": 11
     },
     {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -49,13 +56,6 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 6
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "openai",
@@ -76,19 +76,19 @@
       "count": 4
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 3
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
       "count": 3
     },
     {
@@ -108,6 +108,15 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 2
     },
     {
       "id": "blockchain",
@@ -144,6 +153,13 @@
       "count": 2
     },
     {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "v",
       "symbol": "V",
       "name": "Visa",
@@ -158,13 +174,6 @@
       "name": "Mastercard",
       "type": "company",
       "path": "tickers/ma.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
       "icon": "",
       "count": 1
     },
@@ -184,15 +193,6 @@
       "type": "company",
       "path": "tickers/xai.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 1
     },
     {

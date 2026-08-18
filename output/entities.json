@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T11:01:04.420Z",
-  "total": 27,
+  "updated_at": "2026-08-18T11:15:35.485Z",
+  "total": 26,
   "entities": [
     {
       "id": "crypto",
@@ -16,18 +16,18 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 23
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 14
+      "count": 22
     },
     {
       "id": "ai",
       "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 15
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
       "type": "topic",
       "icon": "",
       "count": 14
@@ -51,20 +51,20 @@
       "count": 8
     },
     {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 6
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 6
+      "count": 5
     },
     {
       "id": "openai",
@@ -74,6 +74,15 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 5
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 3
     },
     {
       "id": "defi",
@@ -101,31 +110,6 @@
       "count": 3
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 2
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 2
-    },
-    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
@@ -141,6 +125,13 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
+      "count": 2
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 2
     },
     {
@@ -167,20 +158,20 @@
       "count": 1
     },
     {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 1
+    },
+    {
       "id": "xai",
       "symbol": "XAI",
       "name": "xAI",
       "type": "company",
       "path": "tickers/xai.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "rivn",
-      "symbol": "RIVN",
-      "name": "Rivian",
-      "type": "company",
-      "path": "tickers/rivn.json",
       "icon": "",
       "count": 1
     },

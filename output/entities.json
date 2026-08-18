@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-18T11:30:54.725Z",
+  "updated_at": "2026-08-18T11:45:35.884Z",
   "total": 26,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 24
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 23
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 23
     },
     {
@@ -51,13 +51,6 @@
       "count": 8
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -72,6 +65,13 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 4
     },
@@ -110,6 +110,13 @@
       "count": 3
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
@@ -142,13 +149,6 @@
       "path": "tickers/aapl.json",
       "icon": "https://logo.clearbit.com/apple.com",
       "count": 2
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 1
     },
     {
       "id": "web3",

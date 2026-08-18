@@ -1,11 +1,11 @@
 {
-  "id": "a11a6b01d0bbf78a745bb33e3bfd2f90",
-  "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
-  "description": "Traders across Polymarket, Kalshi, and Myriad are leaning the same way: no change at the September meeting.",
+  "id": "ddd73a22d0b90c92d9053d2e887d6781",
+  "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
+  "description": "The Swiss hardware-wallet maker found two severe bugs with the help of frontier AI models, and warns that older firmware leaves you exposed.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
+  "url": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
+  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png@png",
   "source": {
     "id": "decrypt",
     "name": "Decrypt",
@@ -13,13 +13,28 @@
     "icon": "https://logo.clearbit.com/decrypt.co"
   },
   "category": "crypto",
-  "entities": [],
-  "published_at": "2026-08-17T21:16:17.000Z",
+  "entities": [
+    {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-18T18:06:42.000Z",
   "related": [
     {
-      "id": "b0d3d5789d9e50aafa6dc4512c51ca8d",
-      "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/donald-trump-bitcoin-statue2-gID_7.jpeg@png",
+      "id": "7db57c01f007898caea560df90db0869",
+      "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -27,14 +42,14 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-17T13:03:17.000Z",
+      "published_at": "2026-08-18T14:03:34.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/b0d3d5789d9e50aafa6dc4512c51ca8d.json"
+      "path": "articles/7db57c01f007898caea560df90db0869.json"
     },
     {
-      "id": "ddd73a22d0b90c92d9053d2e887d6781",
-      "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
+      "id": "236ceee39a7e24179a5549089ad65696",
+      "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png@png",
       "source": {
         "id": "decrypt",
@@ -43,26 +58,10 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-18T18:06:42.000Z",
+      "published_at": "2026-08-17T09:31:04.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/ddd73a22d0b90c92d9053d2e887d6781.json"
-    },
-    {
-      "id": "d8d59b598d45b88b7dbfdb6f142f9cc5",
-      "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-18T17:19:44.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 40,
-      "path": "articles/d8d59b598d45b88b7dbfdb6f142f9cc5.json"
+      "path": "articles/236ceee39a7e24179a5549089ad65696.json"
     },
     {
       "id": "2fa76f51ede2e8f82ea312c422c708eb",
@@ -95,6 +94,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/ffa463ec8e53c41f4139d5c1cda7f569.json"
+    },
+    {
+      "id": "2177a59268d68bf6aad61dc01eb7b45d",
+      "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-17T12:56:55.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/2177a59268d68bf6aad61dc01eb7b45d.json"
     }
   ]
 }

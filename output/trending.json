@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-18T17:15:38.191Z",
+  "updated_at": "2026-08-18T17:21:16.317Z",
   "articles": {
-    "generated_at": "2026-08-18T17:15:38.191Z",
+    "generated_at": "2026-08-18T17:21:16.317Z",
     "topics": [
       {
         "id": "btc",
@@ -306,8 +306,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 21,
+        "count": 20,
         "articles": [
+          {
+            "id": "d8d59b598d45b88b7dbfdb6f142f9cc5",
+            "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-18T17:19:44.000Z",
+            "path": "articles/d8d59b598d45b88b7dbfdb6f142f9cc5.json"
+          },
           {
             "id": "05b8ab91b35ee30a297dc7469bd2d98a",
             "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
@@ -433,20 +447,6 @@
             "category": "stocks",
             "published_at": "2026-08-18T13:04:04.000Z",
             "path": "articles/1a0113d32cb83714c3087239c5539c95.json"
-          },
-          {
-            "id": "4354c954e6ebc2982e06bf5f6a0173c2",
-            "title": "The startup using AI to help rare disease families develop custom treatments",
-            "image": "https://image.cnbcfm.com/api/v1/image/108348575-1786550431917-Steven_Ringel_Color_Headshot.jpeg?v=1786550531&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-18T11:00:01.000Z",
-            "path": "articles/4354c954e6ebc2982e06bf5f6a0173c2.json"
           }
         ]
       },
@@ -1097,6 +1097,80 @@
         ]
       },
       {
+        "id": "googl",
+        "name": "Google",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/google.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "d8d59b598d45b88b7dbfdb6f142f9cc5",
+            "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-18T17:19:44.000Z",
+            "path": "articles/d8d59b598d45b88b7dbfdb6f142f9cc5.json"
+          },
+          {
+            "id": "3bb8617b42cd07d6af7e4bfab7aa6701",
+            "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-16T16:00:05.000Z",
+            "path": "articles/3bb8617b42cd07d6af7e4bfab7aa6701.json"
+          }
+        ]
+      },
+      {
+        "id": "aapl",
+        "name": "Apple",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/apple.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "0f9f57219099b34d6c6c5b35fb10ebef",
+            "title": "Apple overhauls Europe app store fees to resolve payments clash",
+            "image": "https://image.cnbcfm.com/api/v1/image/108135265-1769525987630-108135265-1745406452820-gettyimages-2158694665-APPLE_APP_STORE.jpg?v=1774914320&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-18T17:16:49.000Z",
+            "path": "articles/0f9f57219099b34d6c6c5b35fb10ebef.json"
+          },
+          {
+            "id": "d2565a675e51719b1a54372d5d9036fc",
+            "title": "Apple Turns to Alibaba to Help Build AI Model for China",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-15T17:01:03.000Z",
+            "path": "articles/d2565a675e51719b1a54372d5d9036fc.json"
+          }
+        ]
+      },
+      {
         "id": "c",
         "name": "Citigroup",
         "type": "company",
@@ -1241,43 +1315,6 @@
             "category": "crypto",
             "published_at": "2026-08-17T22:12:00.000Z",
             "path": "articles/b6ee58cb412ff25113fe3f18052c3906.json"
-          }
-        ]
-      },
-      {
-        "id": "openai",
-        "name": "OpenAI",
-        "type": "company",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "8cfc89e4a5080ec8fd73692a88fa09ef",
-            "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-17T19:59:18.000Z",
-            "path": "articles/8cfc89e4a5080ec8fd73692a88fa09ef.json"
-          },
-          {
-            "id": "7f981afa966a4abc428ac63659cfd947",
-            "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-14T18:31:03.000Z",
-            "path": "articles/7f981afa966a4abc428ac63659cfd947.json"
           }
         ]
       },
@@ -1480,6 +1517,29 @@
         ]
       },
       {
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
+        "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "8cfc89e4a5080ec8fd73692a88fa09ef",
+            "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-17T19:59:18.000Z",
+            "path": "articles/8cfc89e4a5080ec8fd73692a88fa09ef.json"
+          }
+        ]
+      },
+      {
         "id": "gold",
         "name": "Gold",
         "type": "commodity",
@@ -1526,29 +1586,6 @@
         ]
       },
       {
-        "id": "googl",
-        "name": "Google",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/google.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "3bb8617b42cd07d6af7e4bfab7aa6701",
-            "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-16T16:00:05.000Z",
-            "path": "articles/3bb8617b42cd07d6af7e4bfab7aa6701.json"
-          }
-        ]
-      },
-      {
         "id": "gemini",
         "name": "Gemini",
         "type": "company",
@@ -1568,29 +1605,6 @@
             "category": "crypto",
             "published_at": "2026-08-16T16:00:05.000Z",
             "path": "articles/3bb8617b42cd07d6af7e4bfab7aa6701.json"
-          }
-        ]
-      },
-      {
-        "id": "aapl",
-        "name": "Apple",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/apple.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "d2565a675e51719b1a54372d5d9036fc",
-            "title": "Apple Turns to Alibaba to Help Build AI Model for China",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-15T17:01:03.000Z",
-            "path": "articles/d2565a675e51719b1a54372d5d9036fc.json"
           }
         ]
       }

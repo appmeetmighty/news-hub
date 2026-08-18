@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-18T10:30:51.043Z",
-  "total": 28,
+  "updated_at": "2026-08-18T10:45:38.307Z",
+  "total": 27,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 25
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 24
     },
     {
@@ -51,20 +51,20 @@
       "count": 8
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 5
+      "count": 6
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "openai",
@@ -200,15 +200,6 @@
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 1
-    },
-    {
-      "id": "gs",
-      "symbol": "GS",
-      "name": "Goldman Sachs",
-      "type": "company",
-      "path": "tickers/gs.json",
-      "icon": "",
       "count": 1
     },
     {

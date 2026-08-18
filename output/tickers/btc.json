@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T13:30:53.795Z",
+  "updated_at": "2026-08-18T13:45:44.604Z",
   "id": "btc",
   "symbol": "BTC",
   "name": "Bitcoin",
@@ -7,13 +7,13 @@
   "total": 21,
   "articles": [
     {
-      "id": "6f5255294f776d009ae24dccbcb4ba90",
-      "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
-      "description": "Eligible Cash App users will be able to use their balances to purchase digital assets offered by MoonPay, which include ether, solana and stablecoin USDT.",
+      "id": "beda73a103472e44b62b38458577bd44",
+      "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+      "description": "The Wall Street bank plans to let clients hold bitcoin alongside traditional assets through its new Custody+ platform.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "url": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -31,28 +31,32 @@
           "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
-          "id": "sol",
-          "symbol": "SOL",
-          "name": "Solana",
-          "type": "crypto",
-          "path": "tickers/sol.json",
-          "icon": "https://assets.coincap.io/assets/icons/sol@2x.png"
-        },
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        },
-        {
-          "id": "stablecoin",
-          "name": "Stablecoin",
-          "type": "topic",
+          "id": "c",
+          "symbol": "C",
+          "name": "Citigroup",
+          "type": "company",
+          "path": "tickers/c.json",
           "icon": ""
         }
       ],
-      "published_at": "2026-08-18T13:00:00.000Z",
+      "published_at": "2026-08-18T13:25:13.000Z",
       "related": [
+        {
+          "id": "6f5255294f776d009ae24dccbcb4ba90",
+          "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T13:00:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6f5255294f776d009ae24dccbcb4ba90.json"
+        },
         {
           "id": "3be1ab57068e686ea63c46a85306ff81",
           "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
@@ -116,11 +120,61 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1a97a480976998f1d91c09c7842e563d.json"
+        }
+      ],
+      "path": "articles/beda73a103472e44b62b38458577bd44.json"
+    },
+    {
+      "id": "6f5255294f776d009ae24dccbcb4ba90",
+      "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+      "description": "Eligible Cash App users will be able to use their balances to purchase digital assets offered by MoonPay, which include ether, solana and stablecoin USDT.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
-          "id": "7e1c1fda0732ec2e4259512da0fa4773",
-          "title": "The bitcoin price level where leveraged bulls could get whacked",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "sol",
+          "symbol": "SOL",
+          "name": "Solana",
+          "type": "crypto",
+          "path": "tickers/sol.json",
+          "icon": "https://assets.coincap.io/assets/icons/sol@2x.png"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "stablecoin",
+          "name": "Stablecoin",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-18T13:00:00.000Z",
+      "related": [
+        {
+          "id": "beda73a103472e44b62b38458577bd44",
+          "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -128,10 +182,74 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-18T05:55:43.000Z",
+          "published_at": "2026-08-18T13:25:13.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/7e1c1fda0732ec2e4259512da0fa4773.json"
+          "breaking_score": 0,
+          "path": "articles/beda73a103472e44b62b38458577bd44.json"
+        },
+        {
+          "id": "3be1ab57068e686ea63c46a85306ff81",
+          "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ef1b829d4b3ab0d085d535f7a73161a074ca511-1500x997.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T11:21:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3be1ab57068e686ea63c46a85306ff81.json"
+        },
+        {
+          "id": "ed88af1413cb12cf93c0bf4c55a5f050",
+          "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/634eb6a3a714cb9a6e21fb25881f970f578e82b1-1932x1087.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T10:38:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ed88af1413cb12cf93c0bf4c55a5f050.json"
+        },
+        {
+          "id": "e8635465a3935cf1106465a4433d76f7",
+          "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall ",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T10:01:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e8635465a3935cf1106465a4433d76f7.json"
+        },
+        {
+          "id": "1a97a480976998f1d91c09c7842e563d",
+          "title": "Live updates: Bitcoin holds $64,000 as surging yields and rising oil drain risk appetite",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/47e380fa7596ffb7e10bc0b2e5155678c190a770-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T08:16:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1a97a480976998f1d91c09c7842e563d.json"
         }
       ],
       "path": "articles/6f5255294f776d009ae24dccbcb4ba90.json"
@@ -258,20 +376,20 @@
           "path": "articles/2ec1c45451da20a7fc2f63b274ea765b.json"
         },
         {
-          "id": "8c51c831a57cd05977f961f2c1ad99d5",
-          "title": "Bitcoin options remain expensive despite summer calm. Here's why it matters",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7244d49b1561d08b7e690395788cd116e7eba326-1534x969.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "24d5c0509d7d3bdf9fd40fa7a4dbed8c",
+          "title": "BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/walk-b-man-balance-rope-ropewalker-bitcoin-crypto-market-price.jpg",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-17T11:43:02.000Z",
+          "published_at": "2026-08-17T11:38:52.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8c51c831a57cd05977f961f2c1ad99d5.json"
+          "path": "articles/24d5c0509d7d3bdf9fd40fa7a4dbed8c.json"
         }
       ],
       "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
@@ -303,6 +421,22 @@
       ],
       "published_at": "2026-08-18T11:21:51.000Z",
       "related": [
+        {
+          "id": "beda73a103472e44b62b38458577bd44",
+          "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T13:25:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/beda73a103472e44b62b38458577bd44.json"
+        },
         {
           "id": "6f5255294f776d009ae24dccbcb4ba90",
           "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
@@ -366,22 +500,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1a97a480976998f1d91c09c7842e563d.json"
-        },
-        {
-          "id": "7e1c1fda0732ec2e4259512da0fa4773",
-          "title": "The bitcoin price level where leveraged bulls could get whacked",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T05:55:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/7e1c1fda0732ec2e4259512da0fa4773.json"
         }
       ],
       "path": "articles/3be1ab57068e686ea63c46a85306ff81.json"
@@ -476,6 +594,22 @@
           "path": "articles/5690f681ca07bb8bca376fc8983a0926.json"
         },
         {
+          "id": "beda73a103472e44b62b38458577bd44",
+          "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T13:25:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/beda73a103472e44b62b38458577bd44.json"
+        },
+        {
           "id": "6f5255294f776d009ae24dccbcb4ba90",
           "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -490,22 +624,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6f5255294f776d009ae24dccbcb4ba90.json"
-        },
-        {
-          "id": "3be1ab57068e686ea63c46a85306ff81",
-          "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ef1b829d4b3ab0d085d535f7a73161a074ca511-1500x997.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T11:21:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3be1ab57068e686ea63c46a85306ff81.json"
         }
       ],
       "path": "articles/ed88af1413cb12cf93c0bf4c55a5f050.json"
@@ -537,6 +655,22 @@
       ],
       "published_at": "2026-08-18T10:01:23.000Z",
       "related": [
+        {
+          "id": "beda73a103472e44b62b38458577bd44",
+          "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T13:25:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/beda73a103472e44b62b38458577bd44.json"
+        },
         {
           "id": "6f5255294f776d009ae24dccbcb4ba90",
           "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
@@ -600,22 +734,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1a97a480976998f1d91c09c7842e563d.json"
-        },
-        {
-          "id": "7e1c1fda0732ec2e4259512da0fa4773",
-          "title": "The bitcoin price level where leveraged bulls could get whacked",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T05:55:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/7e1c1fda0732ec2e4259512da0fa4773.json"
         }
       ],
       "path": "articles/e8635465a3935cf1106465a4433d76f7.json"
@@ -712,9 +830,9 @@
           "path": "articles/2ec1c45451da20a7fc2f63b274ea765b.json"
         },
         {
-          "id": "6f5255294f776d009ae24dccbcb4ba90",
-          "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "beda73a103472e44b62b38458577bd44",
+          "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -722,10 +840,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-18T13:00:00.000Z",
+          "published_at": "2026-08-18T13:25:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6f5255294f776d009ae24dccbcb4ba90.json"
+          "path": "articles/beda73a103472e44b62b38458577bd44.json"
         }
       ],
       "path": "articles/a183297cfe79ffa19cf1241cedb73d71.json"
@@ -814,6 +932,22 @@
           "path": "articles/5690f681ca07bb8bca376fc8983a0926.json"
         },
         {
+          "id": "beda73a103472e44b62b38458577bd44",
+          "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T13:25:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/beda73a103472e44b62b38458577bd44.json"
+        },
+        {
           "id": "6f5255294f776d009ae24dccbcb4ba90",
           "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -828,22 +962,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6f5255294f776d009ae24dccbcb4ba90.json"
-        },
-        {
-          "id": "3be1ab57068e686ea63c46a85306ff81",
-          "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ef1b829d4b3ab0d085d535f7a73161a074ca511-1500x997.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T11:21:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3be1ab57068e686ea63c46a85306ff81.json"
         }
       ],
       "path": "articles/1a97a480976998f1d91c09c7842e563d.json"
@@ -875,6 +993,22 @@
       ],
       "published_at": "2026-08-18T05:55:43.000Z",
       "related": [
+        {
+          "id": "beda73a103472e44b62b38458577bd44",
+          "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T13:25:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/beda73a103472e44b62b38458577bd44.json"
+        },
         {
           "id": "6f5255294f776d009ae24dccbcb4ba90",
           "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
@@ -938,22 +1072,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e8635465a3935cf1106465a4433d76f7.json"
-        },
-        {
-          "id": "a183297cfe79ffa19cf1241cedb73d71",
-          "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/price-fall-up-road1.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T09:31:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a183297cfe79ffa19cf1241cedb73d71.json"
         }
       ],
       "path": "articles/7e1c1fda0732ec2e4259512da0fa4773.json"
@@ -1024,6 +1142,22 @@
           "path": "articles/1a97a480976998f1d91c09c7842e563d.json"
         },
         {
+          "id": "beda73a103472e44b62b38458577bd44",
+          "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T13:25:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/beda73a103472e44b62b38458577bd44.json"
+        },
+        {
           "id": "6f5255294f776d009ae24dccbcb4ba90",
           "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1054,22 +1188,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3be1ab57068e686ea63c46a85306ff81.json"
-        },
-        {
-          "id": "e8635465a3935cf1106465a4433d76f7",
-          "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall ",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T10:01:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e8635465a3935cf1106465a4433d76f7.json"
         }
       ],
       "path": "articles/5690f681ca07bb8bca376fc8983a0926.json"
@@ -1520,6 +1638,22 @@
           "path": "articles/cea149c4e0e933cff94dadff20ac5663.json"
         },
         {
+          "id": "beda73a103472e44b62b38458577bd44",
+          "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T13:25:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/beda73a103472e44b62b38458577bd44.json"
+        },
+        {
           "id": "6f5255294f776d009ae24dccbcb4ba90",
           "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1534,135 +1668,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6f5255294f776d009ae24dccbcb4ba90.json"
-        },
-        {
-          "id": "3be1ab57068e686ea63c46a85306ff81",
-          "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ef1b829d4b3ab0d085d535f7a73161a074ca511-1500x997.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T11:21:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3be1ab57068e686ea63c46a85306ff81.json"
         }
       ],
       "path": "articles/b7cbee3b3b2d9742bfdb39211307b398.json"
-    },
-    {
-      "id": "8c51c831a57cd05977f961f2c1ad99d5",
-      "title": "Bitcoin options remain expensive despite summer calm. Here's why it matters",
-      "description": "Bitcoin’s implied volatility is near a seasonal floor, but options continue to price substantially more movement than the market is delivering.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7244d49b1561d08b7e690395788cd116e7eba326-1534x969.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-        }
-      ],
-      "published_at": "2026-08-17T11:43:02.000Z",
-      "related": [
-        {
-          "id": "6f5255294f776d009ae24dccbcb4ba90",
-          "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T13:00:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6f5255294f776d009ae24dccbcb4ba90.json"
-        },
-        {
-          "id": "3be1ab57068e686ea63c46a85306ff81",
-          "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ef1b829d4b3ab0d085d535f7a73161a074ca511-1500x997.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T11:21:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3be1ab57068e686ea63c46a85306ff81.json"
-        },
-        {
-          "id": "ed88af1413cb12cf93c0bf4c55a5f050",
-          "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/634eb6a3a714cb9a6e21fb25881f970f578e82b1-1932x1087.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T10:38:56.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ed88af1413cb12cf93c0bf4c55a5f050.json"
-        },
-        {
-          "id": "e8635465a3935cf1106465a4433d76f7",
-          "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall ",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T10:01:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e8635465a3935cf1106465a4433d76f7.json"
-        },
-        {
-          "id": "1a97a480976998f1d91c09c7842e563d",
-          "title": "Live updates: Bitcoin holds $64,000 as surging yields and rising oil drain risk appetite",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/47e380fa7596ffb7e10bc0b2e5155678c190a770-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T08:16:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1a97a480976998f1d91c09c7842e563d.json"
-        }
-      ],
-      "path": "articles/8c51c831a57cd05977f961f2c1ad99d5.json"
     },
     {
       "id": "24d5c0509d7d3bdf9fd40fa7a4dbed8c",
@@ -1832,6 +1840,22 @@
           "path": "articles/2177a59268d68bf6aad61dc01eb7b45d.json"
         },
         {
+          "id": "beda73a103472e44b62b38458577bd44",
+          "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T13:25:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/beda73a103472e44b62b38458577bd44.json"
+        },
+        {
           "id": "2ec1c45451da20a7fc2f63b274ea765b",
           "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-1.jpg",
@@ -1878,22 +1902,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/236ceee39a7e24179a5549089ad65696.json"
-        },
-        {
-          "id": "f140c7ff377e3dca2d1534d1ab5a2c20",
-          "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-14T21:03:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f140c7ff377e3dca2d1534d1ab5a2c20.json"
         }
       ],
       "path": "articles/678d9864175c96f2905673fe737baa10.json"

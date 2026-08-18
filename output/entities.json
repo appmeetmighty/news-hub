@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-18T12:15:38.280Z",
-  "total": 26,
+  "updated_at": "2026-08-18T12:28:39.930Z",
+  "total": 28,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 23
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 23
+      "count": 22
     },
     {
       "id": "ai",
@@ -39,7 +39,7 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 9
+      "count": 10
     },
     {
       "id": "mstr",
@@ -48,7 +48,14 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 8
+      "count": 7
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "openai",
@@ -60,9 +67,11 @@
       "count": 5
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 4
     },
@@ -73,15 +82,6 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 3
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
       "count": 3
     },
     {
@@ -135,13 +135,6 @@
       "count": 2
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "aapl",
       "symbol": "AAPL",
       "name": "Apple",
@@ -149,6 +142,24 @@
       "path": "tickers/aapl.json",
       "icon": "https://logo.clearbit.com/apple.com",
       "count": 2
+    },
+    {
+      "id": "v",
+      "symbol": "V",
+      "name": "Visa",
+      "type": "company",
+      "path": "tickers/v.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "ma",
+      "symbol": "MA",
+      "name": "Mastercard",
+      "type": "company",
+      "path": "tickers/ma.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "web3",
@@ -191,6 +202,13 @@
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
+      "count": 1
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 1
     },
     {

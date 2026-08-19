@@ -1,11 +1,11 @@
 {
-  "id": "f7e1c6fb00639a54662980810c520c80",
-  "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
-  "description": "The company is seeking to launch a \"US500\" perp tied to the MerQube U.S. Large Cap Index, according to a regulatory filing.",
+  "id": "76a4f2c3f274814b2519e86d70c9cf98",
+  "title": "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year",
+  "description": "Amazon has quietly expanded its drone service to more metro areas in recent months after receiving a key regulatory greenlight enabling longer-range deliveries.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108344436-17858457182026-08-04t102722z_1664165591_rc2mrmat3b8n_rtrmadp_0_usa-prediction-markets.jpeg?v=1787061386&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108057788-1730819876336-AMZN_MK30_drone_.png?v=1730819929&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,45 +15,53 @@
   "category": "stocks",
   "entities": [
     {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com"
+    },
+    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-18T16:49:55.000Z",
+  "published_at": "2026-08-19T10:00:01.000Z",
   "related": [
     {
-      "id": "056aab622e193b4f62ad9a9f26e68d2e",
-      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-      "image": "https://image.cnbcfm.com/api/v1/image/108351273-1787098171133-gettyimages-2195000615-jhk250124001.jpeg?v=1787098204&w=1920&h=1080",
+      "id": "1bcb7416d1ed6b89dd0b24846bc9589f",
+      "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-08-19T01:57:05.000Z",
+      "category": "crypto",
+      "published_at": "2026-08-18T21:49:46.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/056aab622e193b4f62ad9a9f26e68d2e.json"
+      "path": "articles/1bcb7416d1ed6b89dd0b24846bc9589f.json"
     },
     {
-      "id": "76a4f2c3f274814b2519e86d70c9cf98",
-      "title": "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year",
-      "image": "https://image.cnbcfm.com/api/v1/image/108057788-1730819876336-AMZN_MK30_drone_.png?v=1730819929&w=1920&h=1080",
+      "id": "0c6aa2d0f20e4f1631b68724c03cc690",
+      "title": "  SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities\n",
+      "image": "",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "sec-press-releases",
+        "name": "SEC Press Releases",
+        "website": "",
+        "icon": ""
       },
       "category": "stocks",
-      "published_at": "2026-08-19T10:00:01.000Z",
+      "published_at": "2026-08-13T20:32:19.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/76a4f2c3f274814b2519e86d70c9cf98.json"
+      "breaking_score": 45,
+      "path": "articles/0c6aa2d0f20e4f1631b68724c03cc690.json"
     },
     {
       "id": "0d95d35c27983cc3350789b9d2906a90",

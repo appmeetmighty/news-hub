@@ -1,11 +1,11 @@
 {
-  "id": "474d3c31a8590b7c14c2e540793f5e23",
-  "title": "We upgraded Home Depot and raised our price target. It made the best of a terrible hand",
-  "description": "Home Depot reported a very good quarter, executing well on things it can control.",
+  "id": "2600cfebebe09d9c0ce53f192e7f50f1",
+  "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
+  "description": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/18/we-upgraded-home-depot-and-raised-our-price-target-it-made-the-best-of-a-terrible-hand.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108349755-1786715385810-gettyimages-2289917159-HOME_DEPOT_EARNS.jpeg?v=1786715420&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108283652-1785343065824-108283652-17745520112026-03-26t190623z_1890999401_rc2ickaaf3hs_rtrmadp_0_usa-congress.jpg?v=1785343074&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,13 +13,22 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-18T19:27:54.000Z",
+  "entities": [
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com"
+    }
+  ],
+  "published_at": "2026-08-19T01:34:22.000Z",
   "related": [
     {
-      "id": "5d1f2c53a81e9b853d55b0c689d5d184",
-      "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
-      "image": "https://image.cnbcfm.com/api/v1/image/108349756-1786715492682-gettyimages-2289917116-HOME_DEPOT_EARNS.jpeg?v=1786715537&w=1920&h=1080",
+      "id": "c7597700888717c34a17ba56e653a14b",
+      "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+      "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -27,10 +36,26 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-08-18T13:43:28.000Z",
+      "published_at": "2026-08-17T16:06:28.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/5d1f2c53a81e9b853d55b0c689d5d184.json"
+      "path": "articles/c7597700888717c34a17ba56e653a14b.json"
+    },
+    {
+      "id": "3f7b5c06f9a9efd0818f164596de63b4",
+      "title": "Disney-owned ABC files First Amendment lawsuit against FCC ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338635-17847380062026-07-22t163224z_1720416452_rc23jmatx1su_rtrmadp_0_usa-fcc.jpeg?v=1784738032&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-18T16:57:08.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 25,
+      "path": "articles/3f7b5c06f9a9efd0818f164596de63b4.json"
     },
     {
       "id": "596a899629c9dce298f7e3e6796f0102",
@@ -63,22 +88,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 20,
       "path": "articles/39810a514c5aa8c04bb1c88ce6c11f08.json"
-    },
-    {
-      "id": "2600cfebebe09d9c0ce53f192e7f50f1",
-      "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
-      "image": "https://image.cnbcfm.com/api/v1/image/108283652-1785343065824-108283652-17745520112026-03-26t190623z_1890999401_rc2ickaaf3hs_rtrmadp_0_usa-congress.jpg?v=1785343074&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-19T01:34:22.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/2600cfebebe09d9c0ce53f192e7f50f1.json"
     },
     {
       "id": "056aab622e193b4f62ad9a9f26e68d2e",

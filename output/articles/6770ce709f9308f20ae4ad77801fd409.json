@@ -1,10 +1,10 @@
 {
-  "id": "0dee6aea703fd2b4dd5d13f99892766d",
-  "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-  "description": "Vlad Tenev says tokenized stocks could bring real-time settlement and 24/7 trading, but U.S. rules remain a hurdle.",
+  "id": "6770ce709f9308f20ae4ad77801fd409",
+  "title": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
+  "description": "The exchange that lost $1.46 billion to North Korean hackers is the first large centralized firm to put numbers on a claim bitcoin developers have been making all month.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
+  "breaking_score": 60,
+  "url": "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million",
   "image": "",
   "source": {
     "id": "coindesk",
@@ -13,12 +13,27 @@
     "icon": "https://logo.clearbit.com/coindesk.com"
   },
   "category": "crypto",
-  "entities": [],
-  "published_at": "2026-08-18T23:11:12.000Z",
+  "entities": [
+    {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-19T12:01:09.000Z",
   "related": [
     {
-      "id": "a549d87f03c5d4fd600f8d44e6aa88cd",
-      "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
+      "id": "cdbfa26bbeee8049a5b3ae90f9da4fed",
+      "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
       "image": "",
       "source": {
         "id": "coindesk",
@@ -27,14 +42,14 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-18T16:08:46.000Z",
+      "published_at": "2026-08-19T06:36:11.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/a549d87f03c5d4fd600f8d44e6aa88cd.json"
+      "breaking_score": 25,
+      "path": "articles/cdbfa26bbeee8049a5b3ae90f9da4fed.json"
     },
     {
-      "id": "6770ce709f9308f20ae4ad77801fd409",
-      "title": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
+      "id": "7541e0a9d4b4faacfd5265b6e42631ff",
+      "title": "Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal",
       "image": "",
       "source": {
         "id": "coindesk",
@@ -43,26 +58,26 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-08-19T12:01:09.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "path": "articles/6770ce709f9308f20ae4ad77801fd409.json"
-    },
-    {
-      "id": "2d4e0912d9596b4258c4acdabb5e4234",
-      "title": "China triples its e-CNY network in 2026 as 8 more banks join the CBDC push this week",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-19T11:55:45.000Z",
+      "published_at": "2026-08-18T14:35:08.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/2d4e0912d9596b4258c4acdabb5e4234.json"
+      "path": "articles/7541e0a9d4b4faacfd5265b6e42631ff.json"
+    },
+    {
+      "id": "beda73a103472e44b62b38458577bd44",
+      "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-18T13:25:13.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/beda73a103472e44b62b38458577bd44.json"
     },
     {
       "id": "d4c4cdcf4bf4c50056bec949e6c40566",

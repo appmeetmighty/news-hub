@@ -1,11 +1,121 @@
 {
-  "updated_at": "2026-08-19T18:15:35.485Z",
+  "updated_at": "2026-08-19T18:22:01.171Z",
   "id": "btc",
   "symbol": "BTC",
   "name": "Bitcoin",
   "type": "crypto",
-  "total": 23,
+  "total": 24,
   "articles": [
+    {
+      "id": "14597145bc61762b1b9b3610e624c2af",
+      "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+      "description": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
+      "reading_time_minutes": 1,
+      "breaking_score": 25,
+      "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        }
+      ],
+      "published_at": "2026-08-19T18:20:35.000Z",
+      "related": [
+        {
+          "id": "cdbfa26bbeee8049a5b3ae90f9da4fed",
+          "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops by $11 million",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T06:36:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/cdbfa26bbeee8049a5b3ae90f9da4fed.json"
+        },
+        {
+          "id": "c619fd7de754d857bb2e00c43527f5f8",
+          "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T16:10:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/c619fd7de754d857bb2e00c43527f5f8.json"
+        },
+        {
+          "id": "e027a36d4fce0afd84dfb2f705a439a6",
+          "title": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T13:31:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e027a36d4fce0afd84dfb2f705a439a6.json"
+        },
+        {
+          "id": "ddd73a22d0b90c92d9053d2e887d6781",
+          "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T18:06:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ddd73a22d0b90c92d9053d2e887d6781.json"
+        },
+        {
+          "id": "2fa76f51ede2e8f82ea312c422c708eb",
+          "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T15:56:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fa76f51ede2e8f82ea312c422c708eb.json"
+        }
+      ],
+      "path": "articles/14597145bc61762b1b9b3610e624c2af.json"
+    },
     {
       "id": "c234dc889b3091e55a1acbe032a9f565",
       "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
@@ -196,6 +306,22 @@
           "path": "articles/2fa76f51ede2e8f82ea312c422c708eb.json"
         },
         {
+          "id": "14597145bc61762b1b9b3610e624c2af",
+          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T18:20:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/14597145bc61762b1b9b3610e624c2af.json"
+        },
+        {
           "id": "e027a36d4fce0afd84dfb2f705a439a6",
           "title": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png",
@@ -226,22 +352,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ddd73a22d0b90c92d9053d2e887d6781.json"
-        },
-        {
-          "id": "ffa463ec8e53c41f4139d5c1cda7f569",
-          "title": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T15:19:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ffa463ec8e53c41f4139d5c1cda7f569.json"
         }
       ],
       "path": "articles/c619fd7de754d857bb2e00c43527f5f8.json"
@@ -626,6 +736,22 @@
           "path": "articles/ffa463ec8e53c41f4139d5c1cda7f569.json"
         },
         {
+          "id": "14597145bc61762b1b9b3610e624c2af",
+          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T18:20:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/14597145bc61762b1b9b3610e624c2af.json"
+        },
+        {
           "id": "c234dc889b3091e55a1acbe032a9f565",
           "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
           "image": "",
@@ -672,22 +798,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/133058585d798eaeb096cfb82e69eb5e.json"
-        },
-        {
-          "id": "aebf4ce07fdfa894ebf34f589b441ad5",
-          "title": "Live updates: Bitcoin and gold jump but rejected at key level as Treasury move pushes yields lower",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-19T09:05:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/aebf4ce07fdfa894ebf34f589b441ad5.json"
         }
       ],
       "path": "articles/e027a36d4fce0afd84dfb2f705a439a6.json"
@@ -1008,6 +1118,22 @@
           "path": "articles/cdbfa26bbeee8049a5b3ae90f9da4fed.json"
         },
         {
+          "id": "14597145bc61762b1b9b3610e624c2af",
+          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T18:20:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/14597145bc61762b1b9b3610e624c2af.json"
+        },
+        {
           "id": "c619fd7de754d857bb2e00c43527f5f8",
           "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
@@ -1038,22 +1164,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e09a0de9188d99888c8db0162c6d47b5.json"
-        },
-        {
-          "id": "0673f6f741fbc6d5cb05e4ae07c9da93",
-          "title": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-19T12:45:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0673f6f741fbc6d5cb05e4ae07c9da93.json"
         }
       ],
       "path": "articles/6770ce709f9308f20ae4ad77801fd409.json"
@@ -1762,6 +1872,22 @@
       "published_at": "2026-08-19T06:36:11.000Z",
       "related": [
         {
+          "id": "14597145bc61762b1b9b3610e624c2af",
+          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T18:20:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/14597145bc61762b1b9b3610e624c2af.json"
+        },
+        {
           "id": "c234dc889b3091e55a1acbe032a9f565",
           "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
           "image": "",
@@ -1824,22 +1950,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/6770ce709f9308f20ae4ad77801fd409.json"
-        },
-        {
-          "id": "4141b402ac6c60e6fa84d133f51541ce",
-          "title": "Sweden’s H100 reports $26M H1 loss driven by falling Bitcoin value",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-an-overview-update-on-the-level-of-institutional-interest-in-bitcoin-breaking-news.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-19T11:59:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4141b402ac6c60e6fa84d133f51541ce.json"
         }
       ],
       "path": "articles/cdbfa26bbeee8049a5b3ae90f9da4fed.json"
@@ -2020,6 +2130,22 @@
           "path": "articles/7db57c01f007898caea560df90db0869.json"
         },
         {
+          "id": "14597145bc61762b1b9b3610e624c2af",
+          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T18:20:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/14597145bc61762b1b9b3610e624c2af.json"
+        },
+        {
           "id": "c619fd7de754d857bb2e00c43527f5f8",
           "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
@@ -2066,22 +2192,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2fa76f51ede2e8f82ea312c422c708eb.json"
-        },
-        {
-          "id": "ffa463ec8e53c41f4139d5c1cda7f569",
-          "title": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T15:19:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ffa463ec8e53c41f4139d5c1cda7f569.json"
         }
       ],
       "path": "articles/ddd73a22d0b90c92d9053d2e887d6781.json"
@@ -2262,6 +2372,22 @@
           "path": "articles/c619fd7de754d857bb2e00c43527f5f8.json"
         },
         {
+          "id": "14597145bc61762b1b9b3610e624c2af",
+          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T18:20:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/14597145bc61762b1b9b3610e624c2af.json"
+        },
+        {
           "id": "e027a36d4fce0afd84dfb2f705a439a6",
           "title": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png",
@@ -2308,22 +2434,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ddd73a22d0b90c92d9053d2e887d6781.json"
-        },
-        {
-          "id": "ffa463ec8e53c41f4139d5c1cda7f569",
-          "title": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T15:19:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ffa463ec8e53c41f4139d5c1cda7f569.json"
         }
       ],
       "path": "articles/2fa76f51ede2e8f82ea312c422c708eb.json"
@@ -2498,6 +2608,22 @@
           "path": "articles/ff57a2d78a9080a7a6433b4e0fab5dd5.json"
         },
         {
+          "id": "14597145bc61762b1b9b3610e624c2af",
+          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T18:20:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/14597145bc61762b1b9b3610e624c2af.json"
+        },
+        {
           "id": "c234dc889b3091e55a1acbe032a9f565",
           "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
           "image": "",
@@ -2528,22 +2654,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/c619fd7de754d857bb2e00c43527f5f8.json"
-        },
-        {
-          "id": "133058585d798eaeb096cfb82e69eb5e",
-          "title": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-you-could-save-money-us-treasury-1.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-19T15:44:09.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/133058585d798eaeb096cfb82e69eb5e.json"
         }
       ],
       "path": "articles/ffa463ec8e53c41f4139d5c1cda7f569.json"
@@ -2592,6 +2702,22 @@
           "path": "articles/ddd73a22d0b90c92d9053d2e887d6781.json"
         },
         {
+          "id": "14597145bc61762b1b9b3610e624c2af",
+          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T18:20:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/14597145bc61762b1b9b3610e624c2af.json"
+        },
+        {
           "id": "c619fd7de754d857bb2e00c43527f5f8",
           "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
@@ -2638,22 +2764,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2fa76f51ede2e8f82ea312c422c708eb.json"
-        },
-        {
-          "id": "ffa463ec8e53c41f4139d5c1cda7f569",
-          "title": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-18T15:19:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ffa463ec8e53c41f4139d5c1cda7f569.json"
         }
       ],
       "path": "articles/7db57c01f007898caea560df90db0869.json"

@@ -1,11 +1,11 @@
 {
-  "id": "0d95d35c27983cc3350789b9d2906a90",
-  "title": "World’s largest olive oil company surges over 20% as rivals circle in takeover battle",
-  "description": "Shares of Spain's Deoleo jumped on Wednesday morning amid an intensifying takeover battle for the world's largest olive oil bottler and marketer.",
+  "id": "2d39164d9fe352a10f401b31349a8f9b",
+  "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
+  "description": "Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.",
   "reading_time_minutes": 1,
-  "breaking_score": 40,
-  "url": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108334751-1784039074271-gettyimages-1060884260-MCP_5888.jpeg?v=1784039218&w=1920&h=1080",
+  "breaking_score": 0,
+  "url": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108330581-1783302717764-gettyimages-2266485037-NVIDIA_GTC.jpeg?v=1784578669&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,20 +15,26 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-19T12:23:39.000Z",
+  "published_at": "2026-08-19T14:25:12.000Z",
   "related": [
     {
-      "id": "858684d25e9e01bf36edb6c8b74be176",
-      "title": "Jim Cramer says the market is too negative — and that’s creating buying opportunities",
-      "image": "https://image.cnbcfm.com/api/v1/image/107113452-NUP_198430_00216r.jpg?v=1697496575&w=1920&h=1080",
+      "id": "4bb1a63d369cfd66878bc6b84a94058c",
+      "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
+      "image": "https://image.cnbcfm.com/api/v1/image/108347890-1786458187052-gettyimages-2286846644-vcg111654898260.jpeg?v=1786458193&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -36,10 +42,26 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-08-18T22:23:36.000Z",
+      "published_at": "2026-08-19T10:32:51.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 5,
+      "path": "articles/4bb1a63d369cfd66878bc6b84a94058c.json"
+    },
+    {
+      "id": "de2de7e4f6bc4792dca323baba1764f6",
+      "title": "Nvidia's AI moat is shifting from chips to capital",
+      "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1780405436&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-18T16:13:21.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/858684d25e9e01bf36edb6c8b74be176.json"
+      "path": "articles/de2de7e4f6bc4792dca323baba1764f6.json"
     },
     {
       "id": "ed0b950e404fe28d7bbeacd857d1c6a4",
@@ -56,22 +78,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/ed0b950e404fe28d7bbeacd857d1c6a4.json"
-    },
-    {
-      "id": "2d39164d9fe352a10f401b31349a8f9b",
-      "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-      "image": "https://image.cnbcfm.com/api/v1/image/108330581-1783302717764-gettyimages-2266485037-NVIDIA_GTC.jpeg?v=1784578669&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-19T14:25:12.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/2d39164d9fe352a10f401b31349a8f9b.json"
     },
     {
       "id": "2ac5ec261ee7d0604bc0e79f5a6f3f20",

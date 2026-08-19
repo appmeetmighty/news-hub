@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-19T10:30:49.552Z",
+  "updated_at": "2026-08-19T10:45:38.228Z",
   "articles": {
-    "generated_at": "2026-08-19T10:30:49.552Z",
+    "generated_at": "2026-08-19T10:45:38.228Z",
     "topics": [
       {
         "id": "crypto",
@@ -306,8 +306,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 20,
+        "count": 21,
         "articles": [
+          {
+            "id": "4bb1a63d369cfd66878bc6b84a94058c",
+            "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
+            "image": "https://image.cnbcfm.com/api/v1/image/108347890-1786458187052-gettyimages-2286846644-vcg111654898260.jpeg?v=1786458193&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-19T10:32:51.000Z",
+            "path": "articles/4bb1a63d369cfd66878bc6b84a94058c.json"
+          },
           {
             "id": "e637fccff5de68661fa824039bba26c5",
             "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
@@ -433,20 +447,6 @@
             "category": "crypto",
             "published_at": "2026-08-18T18:06:42.000Z",
             "path": "articles/ddd73a22d0b90c92d9053d2e887d6781.json"
-          },
-          {
-            "id": "d8d59b598d45b88b7dbfdb6f142f9cc5",
-            "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-18T17:19:44.000Z",
-            "path": "articles/d8d59b598d45b88b7dbfdb6f142f9cc5.json"
           }
         ]
       },
@@ -1213,6 +1213,43 @@
         ]
       },
       {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "4bb1a63d369cfd66878bc6b84a94058c",
+            "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
+            "image": "https://image.cnbcfm.com/api/v1/image/108347890-1786458187052-gettyimages-2286846644-vcg111654898260.jpeg?v=1786458193&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-19T10:32:51.000Z",
+            "path": "articles/4bb1a63d369cfd66878bc6b84a94058c.json"
+          },
+          {
+            "id": "de2de7e4f6bc4792dca323baba1764f6",
+            "title": "Nvidia's AI moat is shifting from chips to capital",
+            "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1780405436&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-18T16:13:21.000Z",
+            "path": "articles/de2de7e4f6bc4792dca323baba1764f6.json"
+          }
+        ]
+      },
+      {
         "id": "amzn",
         "name": "Amazon",
         "type": "company",
@@ -1361,43 +1398,6 @@
         ]
       },
       {
-        "id": "etf",
-        "name": "ETF",
-        "type": "topic",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "596a899629c9dce298f7e3e6796f0102",
-            "title": "Contrarian vs. the crowd: One trader made a massive bet against chip stocks",
-            "image": "https://image.cnbcfm.com/api/v1/image/108350417-1786980367682-NYSE_Traders-OB-Photo-20260817-CC-72.jpg?v=1786980440&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-18T13:13:13.000Z",
-            "path": "articles/596a899629c9dce298f7e3e6796f0102.json"
-          },
-          {
-            "id": "678d9864175c96f2905673fe737baa10",
-            "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-02-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-17T10:31:04.000Z",
-            "path": "articles/678d9864175c96f2905673fe737baa10.json"
-          }
-        ]
-      },
-      {
         "id": "gs",
         "name": "Goldman Sachs",
         "type": "company",
@@ -1536,29 +1536,6 @@
         ]
       },
       {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "de2de7e4f6bc4792dca323baba1764f6",
-            "title": "Nvidia's AI moat is shifting from chips to capital",
-            "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1780405436&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-18T16:13:21.000Z",
-            "path": "articles/de2de7e4f6bc4792dca323baba1764f6.json"
-          }
-        ]
-      },
-      {
         "id": "v",
         "name": "Visa",
         "type": "company",
@@ -1655,6 +1632,29 @@
         "name": "BlackRock",
         "type": "company",
         "icon": "https://logo.clearbit.com/blackrock.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "678d9864175c96f2905673fe737baa10",
+            "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-02-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-17T10:31:04.000Z",
+            "path": "articles/678d9864175c96f2905673fe737baa10.json"
+          }
+        ]
+      },
+      {
+        "id": "etf",
+        "name": "ETF",
+        "type": "topic",
+        "icon": "",
         "count": 1,
         "articles": [
           {

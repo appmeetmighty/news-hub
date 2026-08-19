@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-19T23:15:38.911Z",
+  "updated_at": "2026-08-19T23:30:49.045Z",
   "articles": {
-    "generated_at": "2026-08-19T23:15:38.911Z",
+    "generated_at": "2026-08-19T23:30:49.045Z",
     "topics": [
       {
         "id": "crypto",
@@ -455,7 +455,7 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 22,
+        "count": 21,
         "articles": [
           {
             "id": "e547a012460a55eb1798e0b83a9ac516",
@@ -570,20 +570,6 @@
             "path": "articles/6770ce709f9308f20ae4ad77801fd409.json"
           },
           {
-            "id": "4bb1a63d369cfd66878bc6b84a94058c",
-            "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
-            "image": "https://image.cnbcfm.com/api/v1/image/108347890-1786458187052-gettyimages-2286846644-vcg111654898260.jpeg?v=1786458193&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-19T10:32:51.000Z",
-            "path": "articles/4bb1a63d369cfd66878bc6b84a94058c.json"
-          },
-          {
             "id": "e637fccff5de68661fa824039bba26c5",
             "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
             "image": "",
@@ -596,6 +582,20 @@
             "category": "crypto",
             "published_at": "2026-08-19T09:10:22.000Z",
             "path": "articles/e637fccff5de68661fa824039bba26c5.json"
+          },
+          {
+            "id": "49f3b82f4e4d69995da27dfb99d34be7",
+            "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/arthur-hayes3.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-19T08:34:51.000Z",
+            "path": "articles/49f3b82f4e4d69995da27dfb99d34be7.json"
           }
         ]
       },
@@ -976,57 +976,6 @@
         ]
       },
       {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
-        "count": 3,
-        "articles": [
-          {
-            "id": "7c6098054a80e0acf4b5fba1b6f39558",
-            "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-            "image": "https://image.cnbcfm.com/api/v1/image/108315159-1780405505446-gettyimages-2279396849-042a7130_34vfkowy.jpeg?v=1780405543&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-19T20:01:53.000Z",
-            "path": "articles/7c6098054a80e0acf4b5fba1b6f39558.json"
-          },
-          {
-            "id": "2d39164d9fe352a10f401b31349a8f9b",
-            "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-            "image": "https://image.cnbcfm.com/api/v1/image/108330581-1783302717764-gettyimages-2266485037-NVIDIA_GTC.jpeg?v=1784578669&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-19T14:25:12.000Z",
-            "path": "articles/2d39164d9fe352a10f401b31349a8f9b.json"
-          },
-          {
-            "id": "4bb1a63d369cfd66878bc6b84a94058c",
-            "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
-            "image": "https://image.cnbcfm.com/api/v1/image/108347890-1786458187052-gettyimages-2286846644-vcg111654898260.jpeg?v=1786458193&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-19T10:32:51.000Z",
-            "path": "articles/4bb1a63d369cfd66878bc6b84a94058c.json"
-          }
-        ]
-      },
-      {
         "id": "googl",
         "name": "Google",
         "type": "company",
@@ -1176,6 +1125,43 @@
             "category": "crypto",
             "published_at": "2026-08-18T12:37:02.000Z",
             "path": "articles/ccc164b13f3c631fd1b02f4bd47826da.json"
+          }
+        ]
+      },
+      {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "7c6098054a80e0acf4b5fba1b6f39558",
+            "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+            "image": "https://image.cnbcfm.com/api/v1/image/108315159-1780405505446-gettyimages-2279396849-042a7130_34vfkowy.jpeg?v=1780405543&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-19T20:01:53.000Z",
+            "path": "articles/7c6098054a80e0acf4b5fba1b6f39558.json"
+          },
+          {
+            "id": "2d39164d9fe352a10f401b31349a8f9b",
+            "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
+            "image": "https://image.cnbcfm.com/api/v1/image/108330581-1783302717764-gettyimages-2266485037-NVIDIA_GTC.jpeg?v=1784578669&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-19T14:25:12.000Z",
+            "path": "articles/2d39164d9fe352a10f401b31349a8f9b.json"
           }
         ]
       },

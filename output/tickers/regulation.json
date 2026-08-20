@@ -1,10 +1,132 @@
 {
-  "updated_at": "2026-08-20T05:30:54.858Z",
+  "updated_at": "2026-08-20T05:45:32.263Z",
   "id": "regulation",
   "name": "Regulation",
   "type": "topic",
-  "total": 22,
+  "total": 23,
   "articles": [
+    {
+      "id": "47c056551d60950e7c51dc5ef7ba8b13",
+      "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+      "description": "Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108268514-1771860022958-gettyimages-2259655540-raa-bitcoinc260206_npQ9g.jpeg?v=1771860130&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "regulation",
+          "name": "Regulation",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-20T05:29:50.000Z",
+      "related": [
+        {
+          "id": "57842be71a0cf73f9ba6a1127c3401e2",
+          "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-20T04:10:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/57842be71a0cf73f9ba6a1127c3401e2.json"
+        },
+        {
+          "id": "9b261e43f7627ae223e8ac893b7c762f",
+          "title": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-20T04:29:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 90,
+          "path": "articles/9b261e43f7627ae223e8ac893b7c762f.json"
+        },
+        {
+          "id": "c619fd7de754d857bb2e00c43527f5f8",
+          "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T16:10:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/c619fd7de754d857bb2e00c43527f5f8.json"
+        },
+        {
+          "id": "d4c4cdcf4bf4c50056bec949e6c40566",
+          "title": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-19T11:14:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 75,
+          "path": "articles/d4c4cdcf4bf4c50056bec949e6c40566.json"
+        },
+        {
+          "id": "2fa76f51ede2e8f82ea312c422c708eb",
+          "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-18T15:56:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fa76f51ede2e8f82ea312c422c708eb.json"
+        }
+      ],
+      "path": "articles/47c056551d60950e7c51dc5ef7ba8b13.json"
+    },
     {
       "id": "1ae624fc39f158f8902c53ace0d08834",
       "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
@@ -30,6 +152,22 @@
       ],
       "published_at": "2026-08-19T23:57:47.000Z",
       "related": [
+        {
+          "id": "47c056551d60950e7c51dc5ef7ba8b13",
+          "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+          "image": "https://image.cnbcfm.com/api/v1/image/108268514-1771860022958-gettyimages-2259655540-raa-bitcoinc260206_npQ9g.jpeg?v=1771860130&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-20T05:29:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/47c056551d60950e7c51dc5ef7ba8b13.json"
+        },
         {
           "id": "5139b108e92e32e3c2a9e590ea691ce8",
           "title": "Trump scaling down U.S.-South Korea drills risks more than just joint military readiness",
@@ -93,22 +231,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/cec8f282486a09311d65ec5c273b8d2c.json"
-        },
-        {
-          "id": "2e4bd34a95c9d39326ae84ae918013aa",
-          "title": "China is defying the global bond yield surge, boosting its diversification appeal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351296-1787104608957-gettyimages-2290361698-cfoto-chinesey260817_npHaO.jpeg?v=1787104839&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-20T02:39:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/2e4bd34a95c9d39326ae84ae918013aa.json"
         }
       ],
       "path": "articles/1ae624fc39f158f8902c53ace0d08834.json"
@@ -425,6 +547,22 @@
           "path": "articles/b10abe90472a44149385846c86348dcc.json"
         },
         {
+          "id": "0fe0783f1771cd1a84d3ce6a9d38f7d1",
+          "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-20T05:40:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/0fe0783f1771cd1a84d3ce6a9d38f7d1.json"
+        },
+        {
           "id": "9b261e43f7627ae223e8ac893b7c762f",
           "title": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
           "image": "",
@@ -455,22 +593,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/db9053c9fed3c2c29ed8e131bbccbcc3.json"
-        },
-        {
-          "id": "e547a012460a55eb1798e0b83a9ac516",
-          "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-19T21:36:50.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e547a012460a55eb1798e0b83a9ac516.json"
         }
       ],
       "path": "articles/be4a14d4ab312a072bfd6ccf285d7bd7.json"
@@ -555,24 +677,24 @@
           "path": "articles/aebf4ce07fdfa894ebf34f589b441ad5.json"
         },
         {
-          "id": "9b261e43f7627ae223e8ac893b7c762f",
-          "title": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
-          "image": "",
+          "id": "47c056551d60950e7c51dc5ef7ba8b13",
+          "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+          "image": "https://image.cnbcfm.com/api/v1/image/108268514-1771860022958-gettyimages-2259655540-raa-bitcoinc260206_npQ9g.jpeg?v=1771860130&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-20T04:29:56.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-20T05:29:50.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 90,
-          "path": "articles/9b261e43f7627ae223e8ac893b7c762f.json"
+          "breaking_score": 20,
+          "path": "articles/47c056551d60950e7c51dc5ef7ba8b13.json"
         },
         {
-          "id": "57842be71a0cf73f9ba6a1127c3401e2",
-          "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
+          "id": "0fe0783f1771cd1a84d3ce6a9d38f7d1",
+          "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -581,10 +703,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-20T04:10:40.000Z",
+          "published_at": "2026-08-20T05:40:54.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/57842be71a0cf73f9ba6a1127c3401e2.json"
+          "breaking_score": 45,
+          "path": "articles/0fe0783f1771cd1a84d3ce6a9d38f7d1.json"
         }
       ],
       "path": "articles/b10abe90472a44149385846c86348dcc.json"
@@ -1515,6 +1637,22 @@
       "published_at": "2026-08-18T17:15:48.000Z",
       "related": [
         {
+          "id": "47c056551d60950e7c51dc5ef7ba8b13",
+          "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+          "image": "https://image.cnbcfm.com/api/v1/image/108268514-1771860022958-gettyimages-2259655540-raa-bitcoinc260206_npQ9g.jpeg?v=1771860130&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-20T05:29:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/47c056551d60950e7c51dc5ef7ba8b13.json"
+        },
+        {
           "id": "1f58c4523fe7efc9e9c07ebbafb7d59c",
           "title": "    SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor\n",
           "image": "",
@@ -1577,22 +1715,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 45,
           "path": "articles/05f522d934c5bd45a13bcba663078195.json"
-        },
-        {
-          "id": "a35939a27739300a09905eda06899c26",
-          "title": "  SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-08-05T18:30:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a35939a27739300a09905eda06899c26.json"
         }
       ],
       "path": "articles/ce8a15edb889561342fe08f2049a588e.json"
@@ -1687,20 +1809,20 @@
           "path": "articles/b9b55d548e406ce230a2566cc4a9c592.json"
         },
         {
-          "id": "a281c4c4e11815e765482512e13d9c77",
-          "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
-          "image": "https://image.cnbcfm.com/api/v1/image/108220327-1762005609813-gettyimages-2240467724-AFP_78MT3VF.jpeg?v=1787080939&w=1920&h=1080",
+          "id": "ce8a15edb889561342fe08f2049a588e",
+          "title": "  SEC Proposes New Regulation Crypto Assets\n",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
           },
           "category": "stocks",
-          "published_at": "2026-08-19T03:18:57.000Z",
+          "published_at": "2026-08-18T17:15:48.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/a281c4c4e11815e765482512e13d9c77.json"
+          "path": "articles/ce8a15edb889561342fe08f2049a588e.json"
         }
       ],
       "path": "articles/6bbd0193e19449fc06b248f45d7fe4f3.json"
@@ -2179,6 +2301,22 @@
           "path": "articles/9f1f4f25f8b32ed3029a02b4aada1738.json"
         },
         {
+          "id": "47c056551d60950e7c51dc5ef7ba8b13",
+          "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+          "image": "https://image.cnbcfm.com/api/v1/image/108268514-1771860022958-gettyimages-2259655540-raa-bitcoinc260206_npQ9g.jpeg?v=1771860130&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-20T05:29:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/47c056551d60950e7c51dc5ef7ba8b13.json"
+        },
+        {
           "id": "c4cae3c12956162bc8f5086cf4f4bcf4",
           "title": "Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation\n",
           "image": "https://image.cnbcfm.com/api/v1/image/108350708-1787010982306-gettyimages-2285807956-AFP_C2FB489.jpeg?v=1787011006&w=1920&h=1080",
@@ -2225,22 +2363,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b9b55d548e406ce230a2566cc4a9c592.json"
-        },
-        {
-          "id": "1f58c4523fe7efc9e9c07ebbafb7d59c",
-          "title": "    SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-08-18T19:55:10.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 70,
-          "path": "articles/1f58c4523fe7efc9e9c07ebbafb7d59c.json"
         }
       ],
       "path": "articles/e442269e268b9a1e22878913859d72f9.json"
@@ -2319,22 +2441,6 @@
           "path": "articles/cec8f282486a09311d65ec5c273b8d2c.json"
         },
         {
-          "id": "a281c4c4e11815e765482512e13d9c77",
-          "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
-          "image": "https://image.cnbcfm.com/api/v1/image/108220327-1762005609813-gettyimages-2240467724-AFP_78MT3VF.jpeg?v=1787080939&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-19T03:18:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a281c4c4e11815e765482512e13d9c77.json"
-        },
-        {
           "id": "1f58c4523fe7efc9e9c07ebbafb7d59c",
           "title": "    SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor\n",
           "image": "",
@@ -2349,6 +2455,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 70,
           "path": "articles/1f58c4523fe7efc9e9c07ebbafb7d59c.json"
+        },
+        {
+          "id": "ce8a15edb889561342fe08f2049a588e",
+          "title": "  SEC Proposes New Regulation Crypto Assets\n",
+          "image": "",
+          "source": {
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
+          },
+          "category": "stocks",
+          "published_at": "2026-08-18T17:15:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ce8a15edb889561342fe08f2049a588e.json"
         }
       ],
       "path": "articles/71175668cc3b4af39587c75748651eaf.json"
@@ -2443,20 +2565,20 @@
           "path": "articles/cec8f282486a09311d65ec5c273b8d2c.json"
         },
         {
-          "id": "a281c4c4e11815e765482512e13d9c77",
-          "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
-          "image": "https://image.cnbcfm.com/api/v1/image/108220327-1762005609813-gettyimages-2240467724-AFP_78MT3VF.jpeg?v=1787080939&w=1920&h=1080",
+          "id": "1f58c4523fe7efc9e9c07ebbafb7d59c",
+          "title": "    SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor\n",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
           },
           "category": "stocks",
-          "published_at": "2026-08-19T03:18:57.000Z",
+          "published_at": "2026-08-18T19:55:10.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a281c4c4e11815e765482512e13d9c77.json"
+          "breaking_score": 70,
+          "path": "articles/1f58c4523fe7efc9e9c07ebbafb7d59c.json"
         }
       ],
       "path": "articles/c2762fa6c82ae98bac9ece3b21a7343c.json"

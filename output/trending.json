@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-20T16:45:43.491Z",
+  "updated_at": "2026-08-20T16:59:30.036Z",
   "articles": {
-    "generated_at": "2026-08-20T16:45:43.491Z",
+    "generated_at": "2026-08-20T16:59:30.036Z",
     "topics": [
       {
         "id": "crypto",
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 20,
+        "count": 21,
         "articles": [
+          {
+            "id": "4e964cca25a58dfe58fde3a07a34b31e",
+            "title": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
+            "image": "https://image.cnbcfm.com/api/v1/image/108351829-1787170165769-AI_workplace_drama_v2.png?v=1787170396&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-20T16:30:01.000Z",
+            "path": "articles/4e964cca25a58dfe58fde3a07a34b31e.json"
+          },
           {
             "id": "62f7be0e3aae9ed36e24455a1f2c8e3c",
             "title": "Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1",
@@ -582,20 +596,6 @@
             "category": "crypto",
             "published_at": "2026-08-19T21:36:50.000Z",
             "path": "articles/e547a012460a55eb1798e0b83a9ac516.json"
-          },
-          {
-            "id": "9b663c71d5f13b9175f8b61f4de660e4",
-            "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
-            "image": "https://image.cnbcfm.com/api/v1/image/108047047-1728892512191-gettyimages-1243617876-ITALY_ELKANN.jpeg?v=1738637840&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-19T20:10:01.000Z",
-            "path": "articles/9b663c71d5f13b9175f8b61f4de660e4.json"
           }
         ]
       },
@@ -1013,43 +1013,6 @@
         ]
       },
       {
-        "id": "mining",
-        "name": "Mining",
-        "type": "topic",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "904ec3b84eb85ccae736a4bfbfa5d0d4",
-            "title": "Hong Kong’s IPO boom extends beyond tech, HKEX CEO says, as fundraising tops $40 billion",
-            "image": "https://image.cnbcfm.com/api/v1/image/108351954-1787207987488-gettyimages-2257843477-HK_AFF.jpeg?v=1787208033&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-20T08:08:39.000Z",
-            "path": "articles/904ec3b84eb85ccae736a4bfbfa5d0d4.json"
-          },
-          {
-            "id": "66e18ae186f7583cbb391222552c3b94",
-            "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/cameron-tyler-winklevoss-twins-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-19T09:31:03.000Z",
-            "path": "articles/66e18ae186f7583cbb391222552c3b94.json"
-          }
-        ]
-      },
-      {
         "id": "oil",
         "name": "Oil",
         "type": "commodity",
@@ -1138,6 +1101,29 @@
             "category": "crypto",
             "published_at": "2026-08-19T16:18:04.000Z",
             "path": "articles/c234dc889b3091e55a1acbe032a9f565.json"
+          }
+        ]
+      },
+      {
+        "id": "mining",
+        "name": "Mining",
+        "type": "topic",
+        "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "66e18ae186f7583cbb391222552c3b94",
+            "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/cameron-tyler-winklevoss-twins-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-19T09:31:03.000Z",
+            "path": "articles/66e18ae186f7583cbb391222552c3b94.json"
           }
         ]
       },

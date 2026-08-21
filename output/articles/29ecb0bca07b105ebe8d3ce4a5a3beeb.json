@@ -1,11 +1,11 @@
 {
-  "id": "15dee7bb184b8a88ae4ccb0127d802d3",
-  "title": "Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry",
-  "description": "Micron CEO Sanjay Mehrotra said on Thursday that AI has dramatically changed the memory business.",
+  "id": "29ecb0bca07b105ebe8d3ce4a5a3beeb",
+  "title": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+  "description": "Gold is rebounding as investors weigh U.S. debt concerns, a weaker dollar and stubbornly high Treasury yields.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108279186-1773870972855-108279186-1773779752082-gettyimages-2256072008-MICRON_NY.jpeg?v=1773870991&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108195329-1757299467872-gettyimages-2207845047-20090101250404-99-437442.jpeg?v=1759891627&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,18 +15,20 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-20T22:51:36.000Z",
+  "published_at": "2026-08-21T11:35:46.000Z",
   "related": [
     {
-      "id": "7a3dfdc3645c33fc8952b456d238c200",
-      "title": "Micron CEO pushes back on memory bear case. 3 key takeaways from Cramer's big interview",
-      "image": "https://image.cnbcfm.com/api/v1/image/107433846-1719435864309-gettyimages-2149572500-AFP_34Q48FG.jpeg?v=1774617059&w=1920&h=1080",
+      "id": "2e6ba597905c487560bdfd66cd622ff1",
+      "title": "U.S. bond intervention is like 'paying your mortgage with your credit card,' JPMorgan's Sullivan says ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108254592-1768943730780-gettyimages-2256755088-JPMORGAN_TRUMP.jpeg?v=1784914858&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -34,26 +36,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-08-21T01:07:05.000Z",
+      "published_at": "2026-08-21T02:48:10.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/7a3dfdc3645c33fc8952b456d238c200.json"
-    },
-    {
-      "id": "29ecb0bca07b105ebe8d3ce4a5a3beeb",
-      "title": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
-      "image": "https://image.cnbcfm.com/api/v1/image/108195329-1757299467872-gettyimages-2207845047-20090101250404-99-437442.jpeg?v=1759891627&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-21T11:35:46.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/29ecb0bca07b105ebe8d3ce4a5a3beeb.json"
+      "path": "articles/2e6ba597905c487560bdfd66cd622ff1.json"
     },
     {
       "id": "3b2e9a642a0235279d8606f3599b26ce",
@@ -102,6 +88,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/1bdd871cab56e9ade805873fb8f6573c.json"
+    },
+    {
+      "id": "f352a8f777e7488d65f2cb0ae1b08bee",
+      "title": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
+      "image": "https://image.cnbcfm.com/api/v1/image/105927809-1558541482730gettyimages-462294288.jpeg?v=1787254848&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-21T11:00:01.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/f352a8f777e7488d65f2cb0ae1b08bee.json"
     }
   ]
 }

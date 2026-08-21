@@ -1,11 +1,11 @@
 {
-  "id": "1f6134c8f22eb1cfbc0933fd5ace19f1",
-  "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
-  "description": "It comes weeks after Romania’s Air Force destroyed a Russian drone in its airspace.",
+  "id": "3c7caf4e0e99e952bdc2c8fdd2883b6d",
+  "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
+  "description": "The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108352576-1787299060569-gettyimages-2177330955-urbanandsport-tactical240924_npw2I.jpeg?v=1787299099&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108352272-17872451862026-08-20t165437z_1776288928_rc2g2nazxhmc_rtrmadp_0_iran-crisis-usa-carrier.jpeg?v=1787245310&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,8 +13,17 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-21T10:15:18.000Z",
+  "entities": [
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-21T13:42:28.000Z",
   "related": [
     {
       "id": "98f914814c5606a6e3073f912503153a",
@@ -31,22 +40,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/98f914814c5606a6e3073f912503153a.json"
-    },
-    {
-      "id": "3c7caf4e0e99e952bdc2c8fdd2883b6d",
-      "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
-      "image": "https://image.cnbcfm.com/api/v1/image/108352272-17872451862026-08-20t165437z_1776288928_rc2g2nazxhmc_rtrmadp_0_iran-crisis-usa-carrier.jpeg?v=1787245310&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-21T13:42:28.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/3c7caf4e0e99e952bdc2c8fdd2883b6d.json"
     },
     {
       "id": "f352a8f777e7488d65f2cb0ae1b08bee",
@@ -95,6 +88,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/29ecb0bca07b105ebe8d3ce4a5a3beeb.json"
+    },
+    {
+      "id": "38f662ae3203603effd19b8247dd520b",
+      "title": "The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth",
+      "image": "https://image.cnbcfm.com/api/v1/image/108352318-1787249601193-gettyimages-2275035501-r1g5_04292026_rockets_lakers_pantozzi_468.jpeg?v=1787249645&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-21T13:15:27.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/38f662ae3203603effd19b8247dd520b.json"
     }
   ]
 }

@@ -69,8 +69,11 @@ function isMarketOpen() {
 
   const currentMinutes = hour * 60 + minute;
 
-  const marketOpen = 9 * 60 + 30;
-  const marketClose = 16 * 60;
+  // const marketOpen = 9 * 60 + 30;
+  // const marketClose = 16 * 60;
+
+  const marketOpen = 0;
+const marketClose = 24 * 60;
 
   return (
     currentMinutes >= marketOpen &&

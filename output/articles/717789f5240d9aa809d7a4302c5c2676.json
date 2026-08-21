@@ -1,11 +1,11 @@
 {
-  "id": "e7ab76f5da33a517b509bb0dfa0943f1",
-  "title": "How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown",
-  "description": "Premier League clubs have removed betting brands from shirt fronts, opening new sponsorship opportunities while bookmakers shift spending elsewhere.",
+  "id": "717789f5240d9aa809d7a4302c5c2676",
+  "title": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
+  "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/21/premier-league-gambling-shirt-sponsors.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108352662-1787314505517-gettyimages-2290630660-rp1_4149_9bon535l.jpeg?v=1787314638&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108350416-1786980367682-NYSE_Traders-OB-Photo-20260817-CC-37.jpg?v=1786980440&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,25 +13,24 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-21T14:00:02.000Z",
-  "related": [
+  "entities": [
     {
-      "id": "717789f5240d9aa809d7a4302c5c2676",
-      "title": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
-      "image": "https://image.cnbcfm.com/api/v1/image/108350416-1786980367682-NYSE_Traders-OB-Photo-20260817-CC-37.jpg?v=1786980440&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-21T18:55:05.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/717789f5240d9aa809d7a4302c5c2676.json"
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
     },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-21T18:55:05.000Z",
+  "related": [
     {
       "id": "265b6c79cee218ed7ab16921e5b3b35d",
       "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
@@ -95,6 +94,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/3b2e9a642a0235279d8606f3599b26ce.json"
+    },
+    {
+      "id": "98f914814c5606a6e3073f912503153a",
+      "title": "Trump tariff deadline looms as Canada says it's working to resolve 'trade issues' with U.S.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108352257-1787243975253-gettyimages-2290660212-AFP_C66A67P.jpeg?v=1787244111&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-21T18:23:43.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/98f914814c5606a6e3073f912503153a.json"
     }
   ]
 }

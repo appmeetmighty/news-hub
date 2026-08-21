@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-21T18:53:40.691Z",
+  "updated_at": "2026-08-21T19:01:04.895Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 14,
   "articles": [
     {
-      "id": "af6abc5392325c7e0ca5b84151fcdee2",
-      "title": "Jim Cramer looks at why our AI data center stocks are among the worst of the week",
-      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "id": "717789f5240d9aa809d7a4302c5c2676",
+      "title": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/21/cramer-on-why-our-ai-data-center-stocks-are-among-the-worst-of-the-week.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108215556-1761161061507-gettyimages-617288676-93063630.jpeg?v=1770122193&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108350416-1786980367682-NYSE_Traders-OB-Photo-20260817-CC-37.jpg?v=1786980440&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -22,46 +22,22 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-08-21T17:38:13.000Z",
+      "published_at": "2026-08-21T18:55:05.000Z",
       "related": [
-        {
-          "id": "28d9aaaf4a51f94884f26a8df1456ec9",
-          "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
-          "image": "https://image.cnbcfm.com/api/v1/image/108352515-1787281829441-gettyimages-936532610-_vm26460.jpeg?v=1787314246&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-21T05:27:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/28d9aaaf4a51f94884f26a8df1456ec9.json"
-        },
-        {
-          "id": "b28b5253f649b1f544e4ebaea39de63f",
-          "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
-          "image": "https://image.cnbcfm.com/api/v1/image/108352833-1787330383115-gettyimages-2287101451-1r5_7018_chhoszxl.jpeg?v=1787331731&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-21T18:39:16.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b28b5253f649b1f544e4ebaea39de63f.json"
-        },
         {
           "id": "265b6c79cee218ed7ab16921e5b3b35d",
           "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
@@ -77,6 +53,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/265b6c79cee218ed7ab16921e5b3b35d.json"
+        },
+        {
+          "id": "b28b5253f649b1f544e4ebaea39de63f",
+          "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
+          "image": "https://image.cnbcfm.com/api/v1/image/108352833-1787330383115-gettyimages-2287101451-1r5_7018_chhoszxl.jpeg?v=1787338846&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-21T18:39:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b28b5253f649b1f544e4ebaea39de63f.json"
         },
         {
           "id": "c00ccf8842d970316cf20e41e2a10964",
@@ -109,9 +101,25 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3b2e9a642a0235279d8606f3599b26ce.json"
+        },
+        {
+          "id": "98f914814c5606a6e3073f912503153a",
+          "title": "Trump tariff deadline looms as Canada says it's working to resolve 'trade issues' with U.S.",
+          "image": "https://image.cnbcfm.com/api/v1/image/108352257-1787243975253-gettyimages-2290660212-AFP_C66A67P.jpeg?v=1787244111&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-21T18:23:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/98f914814c5606a6e3073f912503153a.json"
         }
       ],
-      "path": "articles/af6abc5392325c7e0ca5b84151fcdee2.json"
+      "path": "articles/717789f5240d9aa809d7a4302c5c2676.json"
     },
     {
       "id": "6153caaf13f435458d94376fbc89a6e0",
@@ -157,7 +165,7 @@
         {
           "id": "b28b5253f649b1f544e4ebaea39de63f",
           "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
-          "image": "https://image.cnbcfm.com/api/v1/image/108352833-1787330383115-gettyimages-2287101451-1r5_7018_chhoszxl.jpeg?v=1787331731&w=1920&h=1080",
+          "image": "https://image.cnbcfm.com/api/v1/image/108352833-1787330383115-gettyimages-2287101451-1r5_7018_chhoszxl.jpeg?v=1787338846&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -187,6 +195,22 @@
           "path": "articles/6f54f0ac48b4a66bab0f3ea84071b95d.json"
         },
         {
+          "id": "717789f5240d9aa809d7a4302c5c2676",
+          "title": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
+          "image": "https://image.cnbcfm.com/api/v1/image/108350416-1786980367682-NYSE_Traders-OB-Photo-20260817-CC-37.jpg?v=1786980440&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-21T18:55:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/717789f5240d9aa809d7a4302c5c2676.json"
+        },
+        {
           "id": "265b6c79cee218ed7ab16921e5b3b35d",
           "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
           "image": "https://image.cnbcfm.com/api/v1/image/108351071-1787073674686-gettyimages-2291027278-wmr59455_qy9ztowe.jpeg?v=1787073703&w=1920&h=1080",
@@ -201,22 +225,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/265b6c79cee218ed7ab16921e5b3b35d.json"
-        },
-        {
-          "id": "c00ccf8842d970316cf20e41e2a10964",
-          "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
-          "image": "https://image.cnbcfm.com/api/v1/image/108291124-1776177476672-gettyimages-2270816604-IMF_WORLD_BANK.jpeg?v=1776177506&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-21T18:34:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c00ccf8842d970316cf20e41e2a10964.json"
         }
       ],
       "path": "articles/6153caaf13f435458d94376fbc89a6e0.json"
@@ -379,6 +387,22 @@
           "path": "articles/d14d67109cb5160ecfeaf393b278ed76.json"
         },
         {
+          "id": "717789f5240d9aa809d7a4302c5c2676",
+          "title": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
+          "image": "https://image.cnbcfm.com/api/v1/image/108350416-1786980367682-NYSE_Traders-OB-Photo-20260817-CC-37.jpg?v=1786980440&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-21T18:55:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/717789f5240d9aa809d7a4302c5c2676.json"
+        },
+        {
           "id": "265b6c79cee218ed7ab16921e5b3b35d",
           "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
           "image": "https://image.cnbcfm.com/api/v1/image/108351071-1787073674686-gettyimages-2291027278-wmr59455_qy9ztowe.jpeg?v=1787073703&w=1920&h=1080",
@@ -397,7 +421,7 @@
         {
           "id": "b28b5253f649b1f544e4ebaea39de63f",
           "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
-          "image": "https://image.cnbcfm.com/api/v1/image/108352833-1787330383115-gettyimages-2287101451-1r5_7018_chhoszxl.jpeg?v=1787331731&w=1920&h=1080",
+          "image": "https://image.cnbcfm.com/api/v1/image/108352833-1787330383115-gettyimages-2287101451-1r5_7018_chhoszxl.jpeg?v=1787338846&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -425,22 +449,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c00ccf8842d970316cf20e41e2a10964.json"
-        },
-        {
-          "id": "3b2e9a642a0235279d8606f3599b26ce",
-          "title": "Why some of America's biggest brands are losing ground in China",
-          "image": "https://image.cnbcfm.com/api/v1/image/108225358-1763036722236-gettyimages-2244585430-AFP_833D7WD.jpeg?v=1787310624&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-21T18:31:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3b2e9a642a0235279d8606f3599b26ce.json"
         }
       ],
       "path": "articles/4a8342297331b69a3144fbc01b203b70.json"
@@ -601,6 +609,22 @@
       "published_at": "2026-08-20T22:51:36.000Z",
       "related": [
         {
+          "id": "717789f5240d9aa809d7a4302c5c2676",
+          "title": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
+          "image": "https://image.cnbcfm.com/api/v1/image/108350416-1786980367682-NYSE_Traders-OB-Photo-20260817-CC-37.jpg?v=1786980440&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-21T18:55:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/717789f5240d9aa809d7a4302c5c2676.json"
+        },
+        {
           "id": "265b6c79cee218ed7ab16921e5b3b35d",
           "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
           "image": "https://image.cnbcfm.com/api/v1/image/108351071-1787073674686-gettyimages-2291027278-wmr59455_qy9ztowe.jpeg?v=1787073703&w=1920&h=1080",
@@ -619,7 +643,7 @@
         {
           "id": "b28b5253f649b1f544e4ebaea39de63f",
           "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
-          "image": "https://image.cnbcfm.com/api/v1/image/108352833-1787330383115-gettyimages-2287101451-1r5_7018_chhoszxl.jpeg?v=1787331731&w=1920&h=1080",
+          "image": "https://image.cnbcfm.com/api/v1/image/108352833-1787330383115-gettyimages-2287101451-1r5_7018_chhoszxl.jpeg?v=1787338846&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -663,22 +687,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3b2e9a642a0235279d8606f3599b26ce.json"
-        },
-        {
-          "id": "98f914814c5606a6e3073f912503153a",
-          "title": "Trump tariff deadline looms as Canada says it's working to resolve 'trade issues' with U.S.",
-          "image": "https://image.cnbcfm.com/api/v1/image/108352257-1787243975253-gettyimages-2290660212-AFP_C66A67P.jpeg?v=1787244111&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-21T18:23:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/98f914814c5606a6e3073f912503153a.json"
         }
       ],
       "path": "articles/15dee7bb184b8a88ae4ccb0127d802d3.json"

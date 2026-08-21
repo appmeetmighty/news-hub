@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-21T19:20:12.442Z",
-  "total": 24,
+  "updated_at": "2026-08-21T19:45:37.279Z",
+  "total": 25,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 42
+      "count": 44
     },
     {
       "id": "crypto",
@@ -58,6 +58,15 @@
       "count": 4
     },
     {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -74,6 +83,13 @@
       "count": 3
     },
     {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "jpm",
       "symbol": "JPM",
       "name": "JPMorgan",
@@ -88,6 +104,15 @@
       "type": "topic",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 1
     },
     {
       "id": "nvda",
@@ -117,27 +142,11 @@
       "count": 1
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "v",
       "symbol": "V",
       "name": "Visa",
       "type": "company",
       "path": "tickers/v.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
       "icon": "",
       "count": 1
     },

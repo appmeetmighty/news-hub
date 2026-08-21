@@ -1,11 +1,11 @@
 {
-  "id": "1ba0cef6373dae6471d8054f0bd53800",
-  "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
-  "description": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
+  "id": "1bdd871cab56e9ade805873fb8f6573c",
+  "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
+  "description": "\"These trials are often compared to the Big Tobacco lawsuits of the 90s, and the outcome will likely be analogous as well,\" one analyst told CNBC.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108352586-1787302499508-gettyimages-2256247005-237a2895-migliorato-nr.jpeg?v=1787302554&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,13 +13,22 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-20T16:42:56.000Z",
+  "entities": [
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com"
+    }
+  ],
+  "published_at": "2026-08-21T11:01:45.000Z",
   "related": [
     {
-      "id": "563857503a22aa09c3f2492ba32e27c8",
-      "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC ",
-      "image": "https://image.cnbcfm.com/api/v1/image/108294011-17766979032026-04-20t150936z_1985427063_rc22tkajk0nt_rtrmadp_0_autos-hyundai-ceo.jpeg?v=1787261619&w=1920&h=1080",
+      "id": "28d9aaaf4a51f94884f26a8df1456ec9",
+      "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
+      "image": "https://image.cnbcfm.com/api/v1/image/108352515-1787281829441-gettyimages-936532610-_vm26460.jpeg?v=1787290023&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -27,26 +36,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-08-20T21:54:59.000Z",
+      "published_at": "2026-08-21T05:27:28.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/563857503a22aa09c3f2492ba32e27c8.json"
-    },
-    {
-      "id": "1bdd871cab56e9ade805873fb8f6573c",
-      "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
-      "image": "https://image.cnbcfm.com/api/v1/image/108352586-1787302499508-gettyimages-2256247005-237a2895-migliorato-nr.jpeg?v=1787302554&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-21T11:01:45.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/1bdd871cab56e9ade805873fb8f6573c.json"
+      "path": "articles/28d9aaaf4a51f94884f26a8df1456ec9.json"
     },
     {
       "id": "f352a8f777e7488d65f2cb0ae1b08bee",
@@ -95,6 +88,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/1f6134c8f22eb1cfbc0933fd5ace19f1.json"
+    },
+    {
+      "id": "43dbdc9632be5742234e828caf6ebd76",
+      "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341784-17853378942026-07-29t150825z_238271640_rc2pnmak7062_rtrmadp_0_usa-stocks.jpeg?v=1785338016&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-21T09:36:46.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/43dbdc9632be5742234e828caf6ebd76.json"
     }
   ]
 }

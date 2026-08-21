@@ -92,7 +92,7 @@ jobs:
 
           jq -n \
             --arg app_id "$ONESIGNAL_APP_ID" \
-            --arg title "📰 Breaking News" \
+            --arg title "MarketIQ AI" \
             --arg body "$HERO_TITLE" \
             --arg image "$HERO_IMAGE" \
             --arg path "$HERO_PATH" \

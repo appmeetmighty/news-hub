@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-21T05:25:28.121Z",
+  "updated_at": "2026-08-21T05:30:51.131Z",
   "articles": {
-    "generated_at": "2026-08-21T05:25:28.121Z",
+    "generated_at": "2026-08-21T05:30:51.131Z",
     "topics": [
       {
         "id": "crypto",
@@ -157,7 +157,7 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 36,
+        "count": 35,
         "articles": [
           {
             "id": "3f38282f595fe7f550c283cabd025922",
@@ -804,8 +804,22 @@
         "name": "XRP",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-        "count": 3,
+        "count": 4,
         "articles": [
+          {
+            "id": "3e218ca84478db9f6eec4a00c99fc2a1",
+            "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-21T05:29:48.000Z",
+            "path": "articles/3e218ca84478db9f6eec4a00c99fc2a1.json"
+          },
           {
             "id": "dec402d9aeeed2c4fca644483b0be337",
             "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
@@ -962,6 +976,29 @@
         ]
       },
       {
+        "id": "gs",
+        "name": "Goldman Sachs",
+        "type": "company",
+        "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "28d9aaaf4a51f94884f26a8df1456ec9",
+            "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
+            "image": "https://image.cnbcfm.com/api/v1/image/108352515-1787281829441-gettyimages-936532610-_vm26460.jpeg?v=1787290023&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-21T05:27:28.000Z",
+            "path": "articles/28d9aaaf4a51f94884f26a8df1456ec9.json"
+          }
+        ]
+      },
+      {
         "id": "jpm",
         "name": "JPMorgan",
         "type": "company",
@@ -1027,29 +1064,6 @@
             "category": "crypto",
             "published_at": "2026-08-20T19:50:32.000Z",
             "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-          }
-        ]
-      },
-      {
-        "id": "oil",
-        "name": "Oil",
-        "type": "commodity",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "2b25592c73499b1b97a501419b7cc619",
-            "title": "Oil prices rise after Treasury Secretary says U.S. will collapse Iran with economic pressure",
-            "image": "https://image.cnbcfm.com/api/v1/image/108347821-1786452090144-gettyimages-2289259661-img_8455.jpeg?v=1786452116&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-20T19:43:30.000Z",
-            "path": "articles/2b25592c73499b1b97a501419b7cc619.json"
           }
         ]
       },

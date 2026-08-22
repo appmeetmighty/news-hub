@@ -72,9 +72,6 @@ function isMarketOpen() {
   const marketOpen = 9 * 60 + 30;
   const marketClose = 16 * 60;
 
-//   const marketOpen = 0;
-// const marketClose = 24 * 60;
-
   return (
     currentMinutes >= marketOpen &&
     currentMinutes < marketClose
@@ -109,8 +106,6 @@ async function readExistingLiveData() {
 async function fetchLive() {
   console.log("📈 Checking Dow Jones market status...");
 
-  const existingData = await readExistingLiveData();
-
   // ----------------------------------------------------------
   // MARKET CLOSED
   // ----------------------------------------------------------
@@ -118,36 +113,18 @@ async function fetchLive() {
   if (!isMarketOpen()) {
     console.log("⏸️ US market is closed.");
     console.log("🚫 Skipping Scrappa API request.");
+    console.log(
+      "📌 Final closing price will be updated by the history job."
+    );
 
-    if (existingData) {
-      console.log(
-        `💰 Keeping last price: ${existingData.price}`
-      );
-
-      // Update only status information.
-      // The actual price remains untouched.
-      const closedData = {
-        ...existingData,
-
-        market_status: "closed",
-
-        status_updated_at: new Date().toISOString(),
-      };
-
-      await fs.writeJson(
-        LIVE_OUTPUT_FILE,
-        closedData,
-        {
-          spaces: 2,
-        }
-      );
-
-      console.log("✅ Last DJI price preserved.");
-    } else {
-      console.log(
-        "ℹ️ No previous DJI data exists yet."
-      );
-    }
+    // IMPORTANT:
+    // Do not modify dow_jones.json here.
+    //
+    // The last live price may be an intraday price and may NOT
+    // be the actual final closing price.
+    //
+    // The history job will update dow_jones.json with the
+    // actual final closing price after the market closes.
 
     return;
   }
@@ -312,6 +289,16 @@ async function fetchHistory() {
       );
     }
 
+    if (data.prices.length === 0) {
+      throw new Error(
+        "Historical Dow Jones prices are empty."
+      );
+    }
+
+    // ----------------------------------------------------------
+    // SAVE HISTORICAL DATA
+    // ----------------------------------------------------------
+
     const output = {
       updated_at: new Date().toISOString(),
 
@@ -349,6 +336,149 @@ async function fetchHistory() {
 
     console.log(
       `📁 File: ${HISTORY_OUTPUT_FILE}`
+    );
+
+    // ----------------------------------------------------------
+    // GET LATEST COMPLETED DAILY CLOSE
+    // ----------------------------------------------------------
+
+    const latestPrice =
+      data.prices[data.prices.length - 1];
+
+    if (!latestPrice) {
+      throw new Error(
+        "Latest Dow Jones historical record not found."
+      );
+    }
+
+    if (
+      latestPrice.close === null ||
+      latestPrice.close === undefined
+    ) {
+      throw new Error(
+        "Latest Dow Jones closing price is empty."
+      );
+    }
+
+    console.log("");
+    console.log(
+      "📌 Latest completed DJI trading data:"
+    );
+
+    console.log(
+      `💰 Final close: ${latestPrice.close}`
+    );
+
+    console.log(
+      `📊 Change: ${latestPrice.change}`
+    );
+
+    console.log(
+      `📈 Change %: ${latestPrice.percent_change}`
+    );
+
+    console.log(
+      `📅 Date/timestamp: ${latestPrice.date}`
+    );
+
+    // ----------------------------------------------------------
+    // UPDATE LIVE FILE WITH FINAL CLOSE
+    // ----------------------------------------------------------
+
+    const existingLiveData =
+      await readExistingLiveData();
+
+    const now = new Date().toISOString();
+
+    const finalCloseData = {
+      ...(existingLiveData || {}),
+
+      updated_at: now,
+
+      last_updated: now,
+
+      market_status: "closed",
+
+      symbol:
+        existingLiveData?.symbol ||
+        data.symbol,
+
+      name:
+        existingLiveData?.name ||
+        "Dow Jones Industrial Average",
+
+      exchange:
+        existingLiveData?.exchange ||
+        data.exchange,
+
+      full_symbol:
+        existingLiveData?.full_symbol ||
+        ".DJI:INDEXDJX",
+
+      currency:
+        existingLiveData?.currency ||
+        data.currency,
+
+      // IMPORTANT:
+      // Replace the last intraday price with the
+      // actual final daily closing price.
+      price: latestPrice.close,
+
+      change:
+        latestPrice.change,
+
+      percent_change:
+        latestPrice.percent_change,
+
+      previous_close:
+        data.previous_close,
+
+      price_movement: {
+        direction:
+          latestPrice.change > 0
+            ? "Up"
+            : latestPrice.change < 0
+              ? "Down"
+              : "Unchanged",
+
+        value:
+          latestPrice.change,
+
+        percentage:
+          latestPrice.percent_change,
+      },
+
+      closing_date:
+        latestPrice.date,
+    };
+
+    await fs.writeJson(
+      LIVE_OUTPUT_FILE,
+      finalCloseData,
+      {
+        spaces: 2,
+      }
+    );
+
+    console.log("");
+    console.log(
+      "✅ Final DJI closing price updated."
+    );
+
+    console.log(
+      `💰 Final price: ${finalCloseData.price}`
+    );
+
+    console.log(
+      `📊 Market status: ${finalCloseData.market_status}`
+    );
+
+    console.log(
+      `📅 Closing date: ${finalCloseData.closing_date}`
+    );
+
+    console.log(
+      `📁 File: ${LIVE_OUTPUT_FILE}`
     );
 
     console.log("");

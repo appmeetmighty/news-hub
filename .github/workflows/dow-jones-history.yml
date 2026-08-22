@@ -41,6 +41,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add output/market/dow_jones_history.json
+          git add output/market/dow_jones.json
 
           if git diff --cached --quiet; then
             echo "No historical DJI changes to commit."

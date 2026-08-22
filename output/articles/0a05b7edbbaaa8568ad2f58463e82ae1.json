@@ -1,11 +1,11 @@
 {
-  "id": "abc9dd994f8da6a83807911cd13c9b5b",
-  "title": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
-  "description": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
+  "id": "0a05b7edbbaaa8568ad2f58463e82ae1",
+  "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+  "description": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
+  "breaking_score": 40,
+  "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
   "source": {
     "id": "decrypt",
     "name": "Decrypt",
@@ -15,13 +15,15 @@
   "category": "crypto",
   "entities": [
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": ""
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com"
     }
   ],
-  "published_at": "2026-08-19T16:31:04.000Z",
+  "published_at": "2026-08-22T17:31:03.000Z",
   "related": [
     {
       "id": "9290dadb07d105285ec6b5a564079b8b",
@@ -38,22 +40,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 60,
       "path": "articles/9290dadb07d105285ec6b5a564079b8b.json"
-    },
-    {
-      "id": "dbb73806bffa9eff74fd4a69286643f3",
-      "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-21T09:31:05.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/dbb73806bffa9eff74fd4a69286643f3.json"
     },
     {
       "id": "37c4a4827f7b0a56f3e3838e67a50df1",
@@ -88,9 +74,9 @@
       "path": "articles/14597145bc61762b1b9b3610e624c2af.json"
     },
     {
-      "id": "0a05b7edbbaaa8568ad2f58463e82ae1",
-      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
+      "id": "463d84fac777e7f0f4a77d3e2c4a4d62",
+      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-specs-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -98,10 +84,26 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-22T17:31:03.000Z",
+      "published_at": "2026-08-22T15:31:04.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 40,
-      "path": "articles/0a05b7edbbaaa8568ad2f58463e82ae1.json"
+      "breaking_score": 0,
+      "path": "articles/463d84fac777e7f0f4a77d3e2c4a4d62.json"
+    },
+    {
+      "id": "43f6e307b247159c04ac825a4cd0872e",
+      "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-22T14:10:17.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 60,
+      "path": "articles/43f6e307b247159c04ac825a4cd0872e.json"
     }
   ]
 }

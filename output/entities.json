@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T17:30:47.762Z",
-  "total": 23,
+  "updated_at": "2026-08-22T17:35:37.540Z",
+  "total": 24,
   "entities": [
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 34
+      "count": 33
     },
     {
       "id": "regulation",
@@ -56,15 +56,6 @@
       "count": 4
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 4
-    },
-    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
@@ -74,6 +65,15 @@
       "count": 4
     },
     {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -81,6 +81,15 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 3
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 2
     },
     {
       "id": "web3",
@@ -122,21 +131,21 @@
       "count": 2
     },
     {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 1
+    },
+    {
       "id": "bnb",
       "symbol": "BNB",
       "name": "BNB",
       "type": "crypto",
       "path": "tickers/bnb.json",
       "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
-      "count": 1
-    },
-    {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
       "count": 1
     },
     {

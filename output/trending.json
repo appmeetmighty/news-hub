@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-22T20:19:11.647Z",
+  "updated_at": "2026-08-22T20:30:49.609Z",
   "articles": {
-    "generated_at": "2026-08-22T20:19:11.647Z",
+    "generated_at": "2026-08-22T20:30:49.609Z",
     "topics": [
       {
         "id": "btc",
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 44,
+        "count": 43,
         "articles": [
           {
             "id": "463d84fac777e7f0f4a77d3e2c4a4d62",
@@ -137,18 +137,18 @@
             "path": "articles/8ea81636dec5b7089597ae7a45729a73.json"
           },
           {
-            "id": "065e3275412e86be1152f6d68a17c1d3",
-            "title": "Bitcoin surges 22% for the week as investor optimism floods back",
-            "image": "https://image.cnbcfm.com/api/v1/image/100685077-GettyImages-167578473.jpg?v=1532564694&w=1920&h=1080",
+            "id": "6d573dbe0fe35d41f040317693507332",
+            "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/interviewray-dalio.jpg",
             "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
             },
-            "category": "stocks",
-            "published_at": "2026-08-21T20:04:07.000Z",
-            "path": "articles/065e3275412e86be1152f6d68a17c1d3.json"
+            "category": "crypto",
+            "published_at": "2026-08-21T20:00:47.000Z",
+            "path": "articles/6d573dbe0fe35d41f040317693507332.json"
           }
         ]
       },
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 14,
+        "count": 15,
         "articles": [
+          {
+            "id": "b4d26ac3bcf368300a69c58275a4b23e",
+            "title": "Nvidia customers reportedly warned about AI-related price hikes ",
+            "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-22T20:26:44.000Z",
+            "path": "articles/b4d26ac3bcf368300a69c58275a4b23e.json"
+          },
           {
             "id": "463d84fac777e7f0f4a77d3e2c4a4d62",
             "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
@@ -582,20 +596,6 @@
             "category": "crypto",
             "published_at": "2026-08-20T18:32:25.000Z",
             "path": "articles/6042a91bf396cfee652bd69592e194fe.json"
-          },
-          {
-            "id": "62f7be0e3aae9ed36e24455a1f2c8e3c",
-            "title": "Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-eu-vote-on-bitcoin-mining2.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-20T16:12:00.000Z",
-            "path": "articles/62f7be0e3aae9ed36e24455a1f2c8e3c.json"
           }
         ]
       },
@@ -1250,6 +1250,29 @@
             "category": "crypto",
             "published_at": "2026-08-20T09:31:03.000Z",
             "path": "articles/7ca38edb22cbb0979bb56eb43edd6eb3.json"
+          }
+        ]
+      },
+      {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "b4d26ac3bcf368300a69c58275a4b23e",
+            "title": "Nvidia customers reportedly warned about AI-related price hikes ",
+            "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-22T20:26:44.000Z",
+            "path": "articles/b4d26ac3bcf368300a69c58275a4b23e.json"
           }
         ]
       },

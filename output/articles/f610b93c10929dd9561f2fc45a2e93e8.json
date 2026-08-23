@@ -1,11 +1,11 @@
 {
-  "id": "aef783acd585c9d41683b418925cc454",
-  "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
-  "description": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad.",
+  "id": "f610b93c10929dd9561f2fc45a2e93e8",
+  "title": "Here are the 2 big things we're watching in the stock market this week",
+  "description": "Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108292448-1776346447331-108292448-1776344779099-SP_7000-OB-Photo-CC-20260415-PRESS-08.JPG?v=1776373312&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108314325-1780289502127-gettyimages-2278510322-AFP_B4KP4D2.jpeg?v=1780289528&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,13 +13,22 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-23T13:00:01.000Z",
+  "entities": [
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
+    }
+  ],
+  "published_at": "2026-08-23T16:56:02.000Z",
   "related": [
     {
-      "id": "f610b93c10929dd9561f2fc45a2e93e8",
-      "title": "Here are the 2 big things we're watching in the stock market this week",
-      "image": "https://image.cnbcfm.com/api/v1/image/108314325-1780289502127-gettyimages-2278510322-AFP_B4KP4D2.jpeg?v=1780289528&w=1920&h=1080",
+      "id": "b4d26ac3bcf368300a69c58275a4b23e",
+      "title": "Nvidia customers reportedly warned about AI-related price hikes ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -27,26 +36,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-08-23T16:56:02.000Z",
+      "published_at": "2026-08-22T20:26:44.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/f610b93c10929dd9561f2fc45a2e93e8.json"
-    },
-    {
-      "id": "3149c98aee9c28aded45eeefc9477223",
-      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-      "image": "https://image.cnbcfm.com/api/v1/image/108351356-1787125838744-gettyimages-2281261895-AFP_B79K3Z3.jpeg?v=1787125848&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-23T06:39:00.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 25,
-      "path": "articles/3149c98aee9c28aded45eeefc9477223.json"
+      "path": "articles/b4d26ac3bcf368300a69c58275a4b23e.json"
     },
     {
       "id": "acbb63b27b82ffe4b8aef6ae22d8dffc",
@@ -63,6 +56,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/acbb63b27b82ffe4b8aef6ae22d8dffc.json"
+    },
+    {
+      "id": "aef783acd585c9d41683b418925cc454",
+      "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
+      "image": "https://image.cnbcfm.com/api/v1/image/108292448-1776346447331-108292448-1776344779099-SP_7000-OB-Photo-CC-20260415-PRESS-08.JPG?v=1776373312&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-23T13:00:01.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/aef783acd585c9d41683b418925cc454.json"
     },
     {
       "id": "37952803003b6c6c9e40297d415c0138",

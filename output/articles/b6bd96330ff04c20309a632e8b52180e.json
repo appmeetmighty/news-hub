@@ -1,11 +1,11 @@
 {
-  "id": "40e3adc29c4d03a135537412f21bef67",
-  "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
-  "description": "The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.",
+  "id": "b6bd96330ff04c20309a632e8b52180e",
+  "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+  "description": "Witchcraft books had the highest rate of likely AI-generated content at 78%, according to an Originality.ai analysis of more than 2,000 titles.",
   "reading_time_minutes": 1,
-  "breaking_score": 100,
-  "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
+  "breaking_score": 0,
+  "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
   "source": {
     "id": "decrypt",
     "name": "Decrypt",
@@ -15,18 +15,26 @@
   "category": "crypto",
   "entities": [
     {
-      "id": "crypto",
-      "name": "Crypto",
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-20T16:33:38.000Z",
+  "published_at": "2026-08-23T16:31:04.000Z",
   "related": [
     {
-      "id": "b6bd96330ff04c20309a632e8b52180e",
-      "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
+      "id": "016b7d3b513a0d2b3bb721159301b90c",
+      "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -34,10 +42,26 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-23T16:31:04.000Z",
+      "published_at": "2026-08-22T13:31:03.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/b6bd96330ff04c20309a632e8b52180e.json"
+      "path": "articles/016b7d3b513a0d2b3bb721159301b90c.json"
+    },
+    {
+      "id": "0b81231f998e405644bac9060f07a772",
+      "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-future-of-public-finance-will-be-crypto-assets-for-liquid-democracy.jpg",
+      "source": {
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-23T15:30:53.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/0b81231f998e405644bac9060f07a772.json"
     },
     {
       "id": "c9bb190a07c016fbe76a1b1f3af7000a",
@@ -86,22 +110,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/463d84fac777e7f0f4a77d3e2c4a4d62.json"
-    },
-    {
-      "id": "016b7d3b513a0d2b3bb721159301b90c",
-      "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-22T13:31:03.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/016b7d3b513a0d2b3bb721159301b90c.json"
     }
   ]
 }

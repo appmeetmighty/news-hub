@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T04:01:04.120Z",
-  "total": 24,
+  "updated_at": "2026-08-24T04:15:37.233Z",
+  "total": 25,
   "entities": [
     {
       "id": "btc",
@@ -65,10 +65,12 @@
       "count": 4
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
       "count": 3
     },
     {
@@ -90,12 +92,10 @@
       "count": 2
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
       "count": 2
     },
     {
@@ -129,6 +129,15 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 2
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 1
     },
     {
       "id": "oil",

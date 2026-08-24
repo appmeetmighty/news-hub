@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T16:30:55.928Z",
+  "updated_at": "2026-08-24T16:45:34.126Z",
   "total": 27,
   "entities": [
     {
@@ -42,6 +42,15 @@
       "count": 7
     },
     {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -49,6 +58,13 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 6
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "blockchain",
@@ -63,22 +79,6 @@
       "type": "topic",
       "icon": "",
       "count": 5
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 4
     },
     {
       "id": "xrp",

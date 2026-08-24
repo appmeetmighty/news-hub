@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T18:30:50.598Z",
-  "total": 27,
+  "updated_at": "2026-08-24T18:45:36.125Z",
+  "total": 28,
   "entities": [
     {
       "id": "btc",
@@ -42,13 +42,6 @@
       "count": 7
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
@@ -74,8 +67,8 @@
       "count": 5
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 5
@@ -87,6 +80,13 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 4
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
       "count": 4
     },
     {
@@ -140,6 +140,15 @@
       "type": "topic",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "aapl",

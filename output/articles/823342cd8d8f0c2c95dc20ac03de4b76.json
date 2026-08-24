@@ -1,11 +1,11 @@
 {
-  "id": "40e3adc29c4d03a135537412f21bef67",
-  "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
-  "description": "The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.",
+  "id": "823342cd8d8f0c2c95dc20ac03de4b76",
+  "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
+  "description": "Ox Alpha is topping benchmark scores, reads a million tokens, takes video as input, and has developers guessing who's behind it.",
   "reading_time_minutes": 1,
-  "breaking_score": 100,
-  "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
+  "breaking_score": 0,
+  "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
+  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png",
   "source": {
     "id": "decrypt",
     "name": "Decrypt",
@@ -15,18 +15,26 @@
   "category": "crypto",
   "entities": [
     {
-      "id": "crypto",
-      "name": "Crypto",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": ""
+    },
+    {
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-08-20T16:33:38.000Z",
+  "published_at": "2026-08-24T20:46:03.000Z",
   "related": [
     {
-      "id": "f5734ae6ef1d9233a75c454a84e505ca",
-      "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
+      "id": "dbb73806bffa9eff74fd4a69286643f3",
+      "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -34,26 +42,10 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-24T17:50:35.000Z",
+      "published_at": "2026-08-21T09:31:05.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/f5734ae6ef1d9233a75c454a84e505ca.json"
-    },
-    {
-      "id": "823342cd8d8f0c2c95dc20ac03de4b76",
-      "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-24T20:46:03.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/823342cd8d8f0c2c95dc20ac03de4b76.json"
+      "path": "articles/dbb73806bffa9eff74fd4a69286643f3.json"
     },
     {
       "id": "1b1dca80110bf87b1072286711035eb3",
@@ -102,6 +94,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 30,
       "path": "articles/f1f7233a4c0803415980c201125bc124.json"
+    },
+    {
+      "id": "f5734ae6ef1d9233a75c454a84e505ca",
+      "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-24T17:50:35.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/f5734ae6ef1d9233a75c454a84e505ca.json"
     }
   ]
 }

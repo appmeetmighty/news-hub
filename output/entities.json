@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T12:45:36.343Z",
+  "updated_at": "2026-08-24T13:01:07.657Z",
   "total": 25,
   "entities": [
     {
@@ -23,7 +23,7 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 21
     },
     {
       "id": "ai",
@@ -33,18 +33,27 @@
       "count": 13
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 6
+    },
+    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 6
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
       "icon": "",
       "count": 6
     },
@@ -63,12 +72,12 @@
       "count": 5
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
     },
     {
@@ -81,12 +90,12 @@
       "count": 4
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
       "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 3
     },
     {
@@ -108,15 +117,6 @@
       "count": 3
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 2
-    },
-    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -131,12 +131,12 @@
       "count": 2
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 2
     },
     {

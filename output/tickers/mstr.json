@@ -1,27 +1,159 @@
 {
-  "updated_at": "2026-08-24T12:45:36.333Z",
+  "updated_at": "2026-08-24T13:01:07.650Z",
   "id": "mstr",
   "symbol": "MSTR",
   "name": "Strategy",
   "type": "company",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
-      "id": "ecc666411f71b06a635c7f67b0aad9b6",
-      "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
-      "description": "The company sold 18.26 million MSTR shares, increased its USD Reserve to $5.1 billion and repurchased another $136.4 million of STRC.",
+      "id": "e5d78902d3d48db35778fe083e94bbb4",
+      "title": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k",
+      "description": "Bitcoin just closed its biggest weekly candle of all time in notional value, and 10 alt leaders put up 50%+ gains in massive crypto rebound.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
-      "image": "",
+      "breaking_score": 40,
+      "url": "https://decrypt.co/376321/morning-minute-saylors-strategy-back-in-green-as-btc-soars-to-78k",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
       "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "mstr",
+          "symbol": "MSTR",
+          "name": "Strategy",
+          "type": "company",
+          "path": "tickers/mstr.json",
+          "icon": "https://logo.clearbit.com/strategy.com"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-24T12:54:23.000Z",
+      "related": [
+        {
+          "id": "94581cfe67ddcc74400903a6a36656c5",
+          "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:49:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/94581cfe67ddcc74400903a6a36656c5.json"
+        },
+        {
+          "id": "03aac5eddd22ce235ae90126df475079",
+          "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-21T17:28:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/03aac5eddd22ce235ae90126df475079.json"
+        },
+        {
+          "id": "43b0ecc86858e1942447a23073546c02",
+          "title": "Strategy pauses BTC buys, launches $1.6B cash pool after $2B raise",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-2.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:43:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/43b0ecc86858e1942447a23073546c02.json"
+        },
+        {
+          "id": "f5addafe9a519520b6eadcdae1add5c1",
+          "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-all-time-high.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-21T08:48:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f5addafe9a519520b6eadcdae1add5c1.json"
+        },
+        {
+          "id": "374d4e65e7609c18acd9882502a71ea9",
+          "title": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-21T14:27:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/374d4e65e7609c18acd9882502a71ea9.json"
+        }
+      ],
+      "path": "articles/e5d78902d3d48db35778fe083e94bbb4.json"
+    },
+    {
+      "id": "94581cfe67ddcc74400903a6a36656c5",
+      "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
+      "description": "The company has not bought Bitcoin since June, and has now created a liquidity account it said may be spent on more of it.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/376325/strategy-raises-2b-selling-mstr-stock-establishes-usd-cash-pot",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "mstr",
           "symbol": "MSTR",
@@ -31,8 +163,40 @@
           "icon": "https://logo.clearbit.com/strategy.com"
         }
       ],
-      "published_at": "2026-08-24T12:24:58.000Z",
+      "published_at": "2026-08-24T12:49:33.000Z",
       "related": [
+        {
+          "id": "e5d78902d3d48db35778fe083e94bbb4",
+          "title": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:54:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/e5d78902d3d48db35778fe083e94bbb4.json"
+        },
+        {
+          "id": "43b0ecc86858e1942447a23073546c02",
+          "title": "Strategy pauses BTC buys, launches $1.6B cash pool after $2B raise",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-2.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:43:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/43b0ecc86858e1942447a23073546c02.json"
+        },
         {
           "id": "03aac5eddd22ce235ae90126df475079",
           "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
@@ -66,9 +230,63 @@
           "path": "articles/f5addafe9a519520b6eadcdae1add5c1.json"
         },
         {
-          "id": "016903d49e45f9030724af893462470f",
-          "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png@png",
+          "id": "ecc666411f71b06a635c7f67b0aad9b6",
+          "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:24:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ecc666411f71b06a635c7f67b0aad9b6.json"
+        }
+      ],
+      "path": "articles/94581cfe67ddcc74400903a6a36656c5.json"
+    },
+    {
+      "id": "43b0ecc86858e1942447a23073546c02",
+      "title": "Strategy pauses BTC buys, launches $1.6B cash pool after $2B raise",
+      "description": "Strategy held off on new Bitcoin buying, maintaining holdings at 840,447 BTC as it launched a $1.59 billion cash pool after raising $2 billion from MSTR stock sales.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-2.jpg",
+      "source": {
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "mstr",
+          "symbol": "MSTR",
+          "name": "Strategy",
+          "type": "company",
+          "path": "tickers/mstr.json",
+          "icon": "https://logo.clearbit.com/strategy.com"
+        }
+      ],
+      "published_at": "2026-08-24T12:43:00.000Z",
+      "related": [
+        {
+          "id": "94581cfe67ddcc74400903a6a36656c5",
+          "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -76,14 +294,62 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-19T19:51:11.000Z",
+          "published_at": "2026-08-24T12:49:33.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/016903d49e45f9030724af893462470f.json"
+          "path": "articles/94581cfe67ddcc74400903a6a36656c5.json"
         },
         {
-          "id": "441fd2fea1610bf757cd381a5d488fec",
-          "title": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
+          "id": "f5addafe9a519520b6eadcdae1add5c1",
+          "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-all-time-high.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-21T08:48:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f5addafe9a519520b6eadcdae1add5c1.json"
+        },
+        {
+          "id": "e5d78902d3d48db35778fe083e94bbb4",
+          "title": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:54:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/e5d78902d3d48db35778fe083e94bbb4.json"
+        },
+        {
+          "id": "03aac5eddd22ce235ae90126df475079",
+          "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-21T17:28:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/03aac5eddd22ce235ae90126df475079.json"
+        },
+        {
+          "id": "ecc666411f71b06a635c7f67b0aad9b6",
+          "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -92,26 +358,120 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-24T05:12:56.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/441fd2fea1610bf757cd381a5d488fec.json"
-        },
-        {
-          "id": "e2ef49726c9bf88e063fd4aaba4cdfa7",
-          "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T04:45:00.000Z",
+          "published_at": "2026-08-24T12:24:58.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e2ef49726c9bf88e063fd4aaba4cdfa7.json"
+          "path": "articles/ecc666411f71b06a635c7f67b0aad9b6.json"
+        }
+      ],
+      "path": "articles/43b0ecc86858e1942447a23073546c02.json"
+    },
+    {
+      "id": "ecc666411f71b06a635c7f67b0aad9b6",
+      "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
+      "description": "The company sold 18.26 million MSTR shares, increased its USD Reserve to $5.1 billion and repurchased another $136.4 million of STRC.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "mstr",
+          "symbol": "MSTR",
+          "name": "Strategy",
+          "type": "company",
+          "path": "tickers/mstr.json",
+          "icon": "https://logo.clearbit.com/strategy.com"
+        }
+      ],
+      "published_at": "2026-08-24T12:24:58.000Z",
+      "related": [
+        {
+          "id": "94581cfe67ddcc74400903a6a36656c5",
+          "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:49:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/94581cfe67ddcc74400903a6a36656c5.json"
+        },
+        {
+          "id": "43b0ecc86858e1942447a23073546c02",
+          "title": "Strategy pauses BTC buys, launches $1.6B cash pool after $2B raise",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-2.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:43:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/43b0ecc86858e1942447a23073546c02.json"
+        },
+        {
+          "id": "03aac5eddd22ce235ae90126df475079",
+          "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-21T17:28:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/03aac5eddd22ce235ae90126df475079.json"
+        },
+        {
+          "id": "e5d78902d3d48db35778fe083e94bbb4",
+          "title": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:54:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/e5d78902d3d48db35778fe083e94bbb4.json"
+        },
+        {
+          "id": "f5addafe9a519520b6eadcdae1add5c1",
+          "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-all-time-high.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-21T08:48:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f5addafe9a519520b6eadcdae1add5c1.json"
         }
       ],
       "path": "articles/ecc666411f71b06a635c7f67b0aad9b6.json"
@@ -152,6 +512,38 @@
       "published_at": "2026-08-21T17:28:55.000Z",
       "related": [
         {
+          "id": "e5d78902d3d48db35778fe083e94bbb4",
+          "title": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:54:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/e5d78902d3d48db35778fe083e94bbb4.json"
+        },
+        {
+          "id": "94581cfe67ddcc74400903a6a36656c5",
+          "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:49:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/94581cfe67ddcc74400903a6a36656c5.json"
+        },
+        {
           "id": "f5addafe9a519520b6eadcdae1add5c1",
           "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
           "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-all-time-high.jpg",
@@ -168,20 +560,20 @@
           "path": "articles/f5addafe9a519520b6eadcdae1add5c1.json"
         },
         {
-          "id": "016903d49e45f9030724af893462470f",
-          "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png@png",
+          "id": "43b0ecc86858e1942447a23073546c02",
+          "title": "Strategy pauses BTC buys, launches $1.6B cash pool after $2B raise",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-2.jpg",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-19T19:51:11.000Z",
+          "published_at": "2026-08-24T12:43:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/016903d49e45f9030724af893462470f.json"
+          "path": "articles/43b0ecc86858e1942447a23073546c02.json"
         },
         {
           "id": "227491d971160342a0fcc02d76233b13",
@@ -198,38 +590,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/227491d971160342a0fcc02d76233b13.json"
-        },
-        {
-          "id": "142b7050c28d5a9b84ee23fb2a62adf2",
-          "title": "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-20T16:04:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/142b7050c28d5a9b84ee23fb2a62adf2.json"
-        },
-        {
-          "id": "ecc666411f71b06a635c7f67b0aad9b6",
-          "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T12:24:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ecc666411f71b06a635c7f67b0aad9b6.json"
         }
       ],
       "path": "articles/03aac5eddd22ce235ae90126df475079.json"
@@ -270,6 +630,22 @@
       "published_at": "2026-08-21T08:48:52.000Z",
       "related": [
         {
+          "id": "43b0ecc86858e1942447a23073546c02",
+          "title": "Strategy pauses BTC buys, launches $1.6B cash pool after $2B raise",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-2.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:43:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/43b0ecc86858e1942447a23073546c02.json"
+        },
+        {
           "id": "03aac5eddd22ce235ae90126df475079",
           "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
@@ -286,9 +662,9 @@
           "path": "articles/03aac5eddd22ce235ae90126df475079.json"
         },
         {
-          "id": "016903d49e45f9030724af893462470f",
-          "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png@png",
+          "id": "e5d78902d3d48db35778fe083e94bbb4",
+          "title": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -296,10 +672,26 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-19T19:51:11.000Z",
+          "published_at": "2026-08-24T12:54:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/e5d78902d3d48db35778fe083e94bbb4.json"
+        },
+        {
+          "id": "94581cfe67ddcc74400903a6a36656c5",
+          "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:49:33.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/016903d49e45f9030724af893462470f.json"
+          "path": "articles/94581cfe67ddcc74400903a6a36656c5.json"
         },
         {
           "id": "a593ce10ca1df17911862d4506fb9d8b",
@@ -316,165 +708,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 40,
           "path": "articles/a593ce10ca1df17911862d4506fb9d8b.json"
-        },
-        {
-          "id": "142b7050c28d5a9b84ee23fb2a62adf2",
-          "title": "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-20T16:04:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/142b7050c28d5a9b84ee23fb2a62adf2.json"
-        },
-        {
-          "id": "13fea61b84b2bbd2922e6f8ec12a7b8e",
-          "title": "First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/kevin-warsh-2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T11:23:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/13fea61b84b2bbd2922e6f8ec12a7b8e.json"
         }
       ],
       "path": "articles/f5addafe9a519520b6eadcdae1add5c1.json"
-    },
-    {
-      "id": "016903d49e45f9030724af893462470f",
-      "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
-      "description": "Strategy, Coinbase, Circle, and BitMine are riding Bitcoin's short squeeze toward $70K—and two of them may be squeezing equity bears of their own.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-        },
-        {
-          "id": "mstr",
-          "symbol": "MSTR",
-          "name": "Strategy",
-          "type": "company",
-          "path": "tickers/mstr.json",
-          "icon": "https://logo.clearbit.com/strategy.com"
-        },
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-08-19T19:51:11.000Z",
-      "related": [
-        {
-          "id": "03aac5eddd22ce235ae90126df475079",
-          "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-21T17:28:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/03aac5eddd22ce235ae90126df475079.json"
-        },
-        {
-          "id": "f5addafe9a519520b6eadcdae1add5c1",
-          "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-all-time-high.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-21T08:48:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f5addafe9a519520b6eadcdae1add5c1.json"
-        },
-        {
-          "id": "227491d971160342a0fcc02d76233b13",
-          "title": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-21T14:57:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/227491d971160342a0fcc02d76233b13.json"
-        },
-        {
-          "id": "a593ce10ca1df17911862d4506fb9d8b",
-          "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stocks-and-crypto-correlation-is-at-all-time-high-1.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-21T16:11:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/a593ce10ca1df17911862d4506fb9d8b.json"
-        },
-        {
-          "id": "71e148aa50152db78ac867aacc4914ef",
-          "title": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/man-with-a-diplomatic-bag-bitcoin.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-21T15:50:08.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/71e148aa50152db78ac867aacc4914ef.json"
-        }
-      ],
-      "path": "articles/016903d49e45f9030724af893462470f.json"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "id": "ec251bfe3605d09c53cb0c50fa3b977d",
-  "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
-  "description": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
+  "id": "9fccbbcb8923ee8a24bdbf3f1854ac9d",
+  "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+  "description": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108315442-1780426534373-photo_181.jpg?v=1780511397&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108142522-17466508042025-05-07t204524z_1758890738_rc28deam98qs_rtrmadp_0_usa-stocks.jpeg?v=1746650891&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,9 +13,40 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-23T17:58:06.000Z",
+  "entities": [
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": ""
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-24T15:00:01.000Z",
   "related": [
+    {
+      "id": "6c33c8c537bde3f5a20215a2ccf2006c",
+      "title": "Emergency savings shortfall signals 'danger' for working households, Suze Orman says",
+      "image": "https://image.cnbcfm.com/api/v1/image/106863006-1617303553771-gettyimages-458403222-82508703.jpeg?v=1787248224&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-22T13:30:01.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 55,
+      "path": "articles/6c33c8c537bde3f5a20215a2ccf2006c.json"
+    },
     {
       "id": "f669d4831d67a42351e335e34b42b64b",
       "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
@@ -31,22 +62,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/f669d4831d67a42351e335e34b42b64b.json"
-    },
-    {
-      "id": "9fccbbcb8923ee8a24bdbf3f1854ac9d",
-      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-      "image": "https://image.cnbcfm.com/api/v1/image/108142522-17466508042025-05-07t204524z_1758890738_rc28deam98qs_rtrmadp_0_usa-stocks.jpeg?v=1746650891&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-24T15:00:01.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/9fccbbcb8923ee8a24bdbf3f1854ac9d.json"
     },
     {
       "id": "688f56c74aca013b105a57afd58bc34a",

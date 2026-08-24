@@ -1,11 +1,11 @@
 {
-  "id": "d8e925d91d1a451c4139f908e700b610",
-  "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
-  "description": "Bessent told CNBC that the sanctions will be the \"toughest\" in history.",
+  "id": "3887f764aee22665623a9d9de27b0485",
+  "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
+  "description": "Oil prices fell Monday as investors awaited details of what Washington has billed as its toughest-ever sanctions campaign against Iran.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108352211-17872404112026-08-20t153741z_1726519747_rc2f2nag98je_rtrmadp_0_usa-trump.jpeg?v=1787240447&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108330706-17833366882026-07-03t131929z_1683992226_rc2tvkas79wg_rtrmadp_0_iran-crisis-oil-exports.jpeg?v=1783336748&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,13 +13,22 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-23T22:39:41.000Z",
+  "entities": [
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-24T00:59:57.000Z",
   "related": [
     {
-      "id": "3887f764aee22665623a9d9de27b0485",
-      "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
-      "image": "https://image.cnbcfm.com/api/v1/image/108330706-17833366882026-07-03t131929z_1683992226_rc2tvkas79wg_rtrmadp_0_iran-crisis-oil-exports.jpeg?v=1783336748&w=1920&h=1080",
+      "id": "d8e925d91d1a451c4139f908e700b610",
+      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
+      "image": "https://image.cnbcfm.com/api/v1/image/108352211-17872404112026-08-20t153741z_1726519747_rc2f2nag98je_rtrmadp_0_usa-trump.jpeg?v=1787240447&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -27,10 +36,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-08-24T00:59:57.000Z",
+      "published_at": "2026-08-23T22:39:41.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/3887f764aee22665623a9d9de27b0485.json"
+      "path": "articles/d8e925d91d1a451c4139f908e700b610.json"
     },
     {
       "id": "003889879c7dc35f774e89e3e2d2b1fc",
@@ -65,20 +74,20 @@
       "path": "articles/0f863be24e7b95f9a4ae818c77f7d74c.json"
     },
     {
-      "id": "f8bf88879eda1e6660f41a3264c4c062",
-      "title": "Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-speak-iran-2.jpg",
+      "id": "37952803003b6c6c9e40297d415c0138",
+      "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
+      "image": "https://image.cnbcfm.com/api/v1/image/108339511-1784838355906-gettyimages-2286702595-AFP_C3233TH.jpeg?v=1784838383&w=1920&h=1080",
       "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
-      "published_at": "2026-08-20T15:40:54.000Z",
+      "category": "stocks",
+      "published_at": "2026-08-22T05:00:01.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/f8bf88879eda1e6660f41a3264c4c062.json"
+      "path": "articles/37952803003b6c6c9e40297d415c0138.json"
     },
     {
       "id": "6c22347a6c2b74222315906f284d2dc2",

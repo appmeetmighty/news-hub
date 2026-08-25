@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T18:01:05.124Z",
+  "updated_at": "2026-08-25T22:30:58.321Z",
   "id": "tsla",
   "symbol": "TSLA",
   "name": "Tesla",
@@ -7,20 +7,20 @@
   "total": 1,
   "articles": [
     {
-      "id": "34e762ad3064fa1a33bcf7c133471a57",
-      "title": "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring",
-      "description": "Tesla will voluntarily recall about 3 million of its vehicles in China to address doorhandle safety concerns and deficient driver monitoring systems.",
+      "id": "63a46ae8de7c10c0775c4983d7e76e1d",
+      "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
+      "description": "The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108291072-17761734872026-04-14t090502z_1765770947_rc2sokaecd2n_rtrmadp_0_tesla-china.jpeg?v=1776173500&w=1920&h=1080",
+      "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
         {
           "id": "tsla",
@@ -29,14 +29,22 @@
           "type": "company",
           "path": "tickers/tsla.json",
           "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
         }
       ],
-      "published_at": "2026-08-21T19:29:48.000Z",
+      "published_at": "2026-08-25T22:16:03.000Z",
       "related": [
         {
-          "id": "3b2e9a642a0235279d8606f3599b26ce",
-          "title": "Why some of America's biggest brands are losing ground in China",
-          "image": "https://image.cnbcfm.com/api/v1/image/108225358-1763036722236-gettyimages-2244585430-AFP_833D7WD.jpeg?v=1787310624&w=1920&h=1080",
+          "id": "191b7cf26764de88838a1eb020942e94",
+          "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+          "image": "https://image.cnbcfm.com/api/v1/image/108339153-1784809147521-gettyimages-2286629926-mathalone-notitle260722_npJI3.jpeg?v=1784809187&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -44,77 +52,77 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-21T18:31:41.000Z",
+          "published_at": "2026-08-25T22:09:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3b2e9a642a0235279d8606f3599b26ce.json"
+          "path": "articles/191b7cf26764de88838a1eb020942e94.json"
         },
         {
-          "id": "ec251bfe3605d09c53cb0c50fa3b977d",
-          "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
-          "image": "https://image.cnbcfm.com/api/v1/image/108315442-1780426534373-photo_181.jpg?v=1780511397&w=1920&h=1080",
+          "id": "4f1f9f030f9efff0ddce5f3a83639211",
+          "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-08-23T17:58:06.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-24T22:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/4f1f9f030f9efff0ddce5f3a83639211.json"
+        },
+        {
+          "id": "f1f7233a4c0803415980c201125bc124",
+          "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/hyperliquid-hype-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T18:30:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 30,
+          "path": "articles/f1f7233a4c0803415980c201125bc124.json"
+        },
+        {
+          "id": "e49c9bd51ad610147bff9f51793fefc2",
+          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T17:07:32.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/ec251bfe3605d09c53cb0c50fa3b977d.json"
+          "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
         },
         {
-          "id": "266355b55eda7c1f1d47d8f3871943fb",
-          "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108334165-17839619082026-06-30t125836z_380056246_rc2fciazx5cx_rtrmadp_0_warner-bros-dis-m-a-paramount-britain.jpeg?v=1783961940&w=1920&h=1080",
+          "id": "aae9602d24a38de5839a7627182380fb",
+          "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-05-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-08-23T17:30:14.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-25T21:46:04.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/266355b55eda7c1f1d47d8f3871943fb.json"
-        },
-        {
-          "id": "aef783acd585c9d41683b418925cc454",
-          "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
-          "image": "https://image.cnbcfm.com/api/v1/image/108292448-1776346447331-108292448-1776344779099-SP_7000-OB-Photo-CC-20260415-PRESS-08.JPG?v=1776373312&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-23T13:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/aef783acd585c9d41683b418925cc454.json"
-        },
-        {
-          "id": "0f863be24e7b95f9a4ae818c77f7d74c",
-          "title": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353050-1787484353226-gettyimages-2240544545-UK_DATA.jpeg?v=1787484379&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-23T12:46:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/0f863be24e7b95f9a4ae818c77f7d74c.json"
+          "path": "articles/aae9602d24a38de5839a7627182380fb.json"
         }
       ],
-      "path": "articles/34e762ad3064fa1a33bcf7c133471a57.json"
+      "path": "articles/63a46ae8de7c10c0775c4983d7e76e1d.json"
     }
   ]
 }

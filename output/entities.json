@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T13:01:08.770Z",
+  "updated_at": "2026-08-25T13:15:40.857Z",
   "total": 28,
   "entities": [
     {
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 16
     },
     {
       "id": "eth",
@@ -42,11 +42,13 @@
       "count": 8
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 6
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 5
     },
     {
       "id": "openai",
@@ -54,6 +56,13 @@
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
+      "icon": "",
+      "count": 5
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
       "icon": "",
       "count": 5
     },
@@ -90,15 +99,6 @@
       "count": 4
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 4
-    },
-    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
@@ -122,6 +122,15 @@
       "type": "topic",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 3
     },
     {
       "id": "xrp",
@@ -148,24 +157,6 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 2
-    },
-    {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 2
-    },
-    {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
       "count": 2
     },
     {
@@ -198,6 +189,15 @@
       "type": "company",
       "path": "tickers/gemini.json",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
       "count": 1
     },
     {

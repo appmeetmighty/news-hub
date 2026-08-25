@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T08:45:37.048Z",
+  "updated_at": "2026-08-25T08:57:49.203Z",
   "total": 27,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 36
+      "count": 37
     },
     {
       "id": "regulation",
@@ -39,7 +39,16 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 9
+      "count": 8
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "blockchain",
@@ -65,15 +74,6 @@
       "count": 5
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 4
-    },
-    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -88,6 +88,15 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "sol",
@@ -122,15 +131,6 @@
       "type": "topic",
       "icon": "",
       "count": 3
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 2
     },
     {
       "id": "gs",

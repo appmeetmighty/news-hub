@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T02:15:34.589Z",
+  "updated_at": "2026-08-25T02:30:47.889Z",
   "total": 27,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 42
+      "count": 43
     },
     {
       "id": "crypto",
@@ -30,7 +30,16 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 12
+      "count": 10
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 8
     },
     {
       "id": "eth",
@@ -42,21 +51,19 @@
       "count": 8
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 7
-    },
-    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 5
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 5
     },
     {
@@ -94,13 +101,6 @@
     {
       "id": "defi",
       "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
       "type": "topic",
       "icon": "",
       "count": 4

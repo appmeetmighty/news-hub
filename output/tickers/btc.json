@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-25T16:45:37.418Z",
+  "updated_at": "2026-08-25T16:53:03.568Z",
   "id": "btc",
   "symbol": "BTC",
   "name": "Bitcoin",
   "type": "crypto",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "id": "33bc2065b9fed3f255590cf4d4c2b19a",
@@ -37,7 +37,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-08-25T16:45:15.000Z",
+      "published_at": "2026-08-25T16:46:40.000Z",
       "related": [
         {
           "id": "e59e310518447d1b15722b8d10630507",
@@ -72,6 +72,22 @@
           "path": "articles/1de8f61c10e8a69e4e559fc4a5b0473d.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "fb6781afb401e7a63edf41c79fab7cb1",
           "title": "Bitcoin extends 7-day advance to roughly 25% ",
           "image": "",
@@ -102,10 +118,78 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/f00e1df247261e67b48375e64711de18.json"
+        }
+      ],
+      "path": "articles/33bc2065b9fed3f255590cf4d4c2b19a.json"
+    },
+    {
+      "id": "8a1ec25e709b91d525cf48abc6038c62",
+      "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+      "description": "Bitcoin gained roughly 24% this week while the broader crypto market grew by less, a mismatch that shows up clearly in Bitcoin's rising share of the total crypto market.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/376446/bitcoins-price-rally-outrunning-market",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
-          "id": "9953e71c033af5e4e67b02d2163efdb6",
-          "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-25T16:45:59.000Z",
+      "related": [
+        {
+          "id": "8ea81636dec5b7089597ae7a45729a73",
+          "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-21T20:07:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8ea81636dec5b7089597ae7a45729a73.json"
+        },
+        {
+          "id": "1b1dca80110bf87b1072286711035eb3",
+          "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T20:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1b1dca80110bf87b1072286711035eb3.json"
+        },
+        {
+          "id": "e59e310518447d1b15722b8d10630507",
+          "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -114,13 +198,45 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-25T00:55:32.000Z",
+          "published_at": "2026-08-25T05:25:11.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 10,
-          "path": "articles/9953e71c033af5e4e67b02d2163efdb6.json"
+          "breaking_score": 0,
+          "path": "articles/e59e310518447d1b15722b8d10630507.json"
+        },
+        {
+          "id": "00fd7dba9d2bf72659d6929e39c47714",
+          "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T21:28:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/00fd7dba9d2bf72659d6929e39c47714.json"
+        },
+        {
+          "id": "e49c9bd51ad610147bff9f51793fefc2",
+          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T17:07:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
         }
       ],
-      "path": "articles/33bc2065b9fed3f255590cf4d4c2b19a.json"
+      "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
     },
     {
       "id": "dcc0df4368883b6b12c893d96cef72b4",
@@ -314,6 +430,22 @@
           "path": "articles/1de8f61c10e8a69e4e559fc4a5b0473d.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "dcc0df4368883b6b12c893d96cef72b4",
           "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
           "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-btc-price.jpg",
@@ -360,22 +492,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7d48641b06bc9d8aaa6df29d300c14db.json"
-        },
-        {
-          "id": "5ce852982d5d91f89b5fd9af8e3b11a2",
-          "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-supply-bitcoin-audit.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-25T08:46:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/5ce852982d5d91f89b5fd9af8e3b11a2.json"
         }
       ],
       "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
@@ -492,9 +608,9 @@
           "path": "articles/9953e71c033af5e4e67b02d2163efdb6.json"
         },
         {
-          "id": "00fd7dba9d2bf72659d6929e39c47714",
-          "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -502,10 +618,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-24T21:28:30.000Z",
+          "published_at": "2026-08-25T16:45:59.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/00fd7dba9d2bf72659d6929e39c47714.json"
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
         }
       ],
       "path": "articles/d0236639a9831e1c46d242af5f4ce233.json"
@@ -554,6 +670,22 @@
           "path": "articles/f00e1df247261e67b48375e64711de18.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "9ac8e500da316d4e01fea67db08b510d",
           "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
           "image": "",
@@ -600,22 +732,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/f9bc88d5db20d2485f175cf55f1a8490.json"
-        },
-        {
-          "id": "47888385ad874dd3a9325c160733b628",
-          "title": "Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-25T07:40:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/47888385ad874dd3a9325c160733b628.json"
         }
       ],
       "path": "articles/4052461cc61a840d0990659c40e8d01c.json"
@@ -1602,6 +1718,22 @@
           "path": "articles/92606f8cd59bef582490fbedce1c0856.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "9ac8e500da316d4e01fea67db08b510d",
           "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
           "image": "",
@@ -1616,22 +1748,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 50,
           "path": "articles/9ac8e500da316d4e01fea67db08b510d.json"
-        },
-        {
-          "id": "fb6781afb401e7a63edf41c79fab7cb1",
-          "title": "Bitcoin extends 7-day advance to roughly 25% ",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-25T10:52:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fb6781afb401e7a63edf41c79fab7cb1.json"
         }
       ],
       "path": "articles/e59e310518447d1b15722b8d10630507.json"
@@ -1834,6 +1950,22 @@
           "path": "articles/9290dadb07d105285ec6b5a564079b8b.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "f00e1df247261e67b48375e64711de18",
           "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
           "image": "",
@@ -1848,22 +1980,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/f00e1df247261e67b48375e64711de18.json"
-        },
-        {
-          "id": "1b1dca80110bf87b1072286711035eb3",
-          "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T20:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1b1dca80110bf87b1072286711035eb3.json"
         }
       ],
       "path": "articles/00fd7dba9d2bf72659d6929e39c47714.json"
@@ -1920,6 +2036,22 @@
           "path": "articles/dcc0df4368883b6b12c893d96cef72b4.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "8ea81636dec5b7089597ae7a45729a73",
           "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png",
@@ -1966,22 +2098,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/00fd7dba9d2bf72659d6929e39c47714.json"
-        },
-        {
-          "id": "e49c9bd51ad610147bff9f51793fefc2",
-          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T17:07:32.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
         }
       ],
       "path": "articles/1b1dca80110bf87b1072286711035eb3.json"
@@ -2524,6 +2640,22 @@
           "path": "articles/00fd7dba9d2bf72659d6929e39c47714.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "1b1dca80110bf87b1072286711035eb3",
           "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png",
@@ -2538,22 +2670,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1b1dca80110bf87b1072286711035eb3.json"
-        },
-        {
-          "id": "d231d913bef7c1b0c47368f751ac5f5f",
-          "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T19:43:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d231d913bef7c1b0c47368f751ac5f5f.json"
         }
       ],
       "path": "articles/ff2a8e49c588883a01dbf06e716f2fa8.json"
@@ -2585,6 +2701,22 @@
       ],
       "published_at": "2026-08-24T13:30:00.000Z",
       "related": [
+        {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
         {
           "id": "dcc0df4368883b6b12c893d96cef72b4",
           "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
@@ -2648,22 +2780,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e59e310518447d1b15722b8d10630507.json"
-        },
-        {
-          "id": "1b1dca80110bf87b1072286711035eb3",
-          "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T20:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1b1dca80110bf87b1072286711035eb3.json"
         }
       ],
       "path": "articles/4811bb37c9de9e2056fdd9f4e43e94b6.json"
@@ -2876,6 +2992,22 @@
           "path": "articles/03aac5eddd22ce235ae90126df475079.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "d0236639a9831e1c46d242af5f4ce233",
           "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png",
@@ -2890,22 +3022,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d0236639a9831e1c46d242af5f4ce233.json"
-        },
-        {
-          "id": "00fd7dba9d2bf72659d6929e39c47714",
-          "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T21:28:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/00fd7dba9d2bf72659d6929e39c47714.json"
         }
       ],
       "path": "articles/94581cfe67ddcc74400903a6a36656c5.json"
@@ -3072,6 +3188,22 @@
           "path": "articles/92606f8cd59bef582490fbedce1c0856.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "d0236639a9831e1c46d242af5f4ce233",
           "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png",
@@ -3118,22 +3250,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/47888385ad874dd3a9325c160733b628.json"
-        },
-        {
-          "id": "e59e310518447d1b15722b8d10630507",
-          "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-25T05:25:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e59e310518447d1b15722b8d10630507.json"
         }
       ],
       "path": "articles/08eb4a15436e5ca2f4f0258561813ee0.json"
@@ -3171,6 +3287,22 @@
       ],
       "published_at": "2026-08-22T15:31:04.000Z",
       "related": [
+        {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
         {
           "id": "00fd7dba9d2bf72659d6929e39c47714",
           "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
@@ -3234,22 +3366,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ff2a8e49c588883a01dbf06e716f2fa8.json"
-        },
-        {
-          "id": "e5d78902d3d48db35778fe083e94bbb4",
-          "title": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T12:54:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/e5d78902d3d48db35778fe083e94bbb4.json"
         }
       ],
       "path": "articles/463d84fac777e7f0f4a77d3e2c4a4d62.json"
@@ -3298,6 +3414,22 @@
           "path": "articles/00fd7dba9d2bf72659d6929e39c47714.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "f00e1df247261e67b48375e64711de18",
           "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
           "image": "",
@@ -3344,22 +3476,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
-        },
-        {
-          "id": "ff2a8e49c588883a01dbf06e716f2fa8",
-          "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T15:43:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ff2a8e49c588883a01dbf06e716f2fa8.json"
         }
       ],
       "path": "articles/9290dadb07d105285ec6b5a564079b8b.json"
@@ -3397,6 +3513,22 @@
       ],
       "published_at": "2026-08-21T20:07:05.000Z",
       "related": [
+        {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
         {
           "id": "1b1dca80110bf87b1072286711035eb3",
           "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
@@ -3460,22 +3592,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
-        },
-        {
-          "id": "ff2a8e49c588883a01dbf06e716f2fa8",
-          "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T15:43:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ff2a8e49c588883a01dbf06e716f2fa8.json"
         }
       ],
       "path": "articles/8ea81636dec5b7089597ae7a45729a73.json"
@@ -3650,6 +3766,22 @@
           "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "7d48641b06bc9d8aaa6df29d300c14db",
           "title": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-thailand-and-blockchain-etf.jpg",
@@ -3696,22 +3828,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 10,
           "path": "articles/9953e71c033af5e4e67b02d2163efdb6.json"
-        },
-        {
-          "id": "00fd7dba9d2bf72659d6929e39c47714",
-          "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T21:28:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/00fd7dba9d2bf72659d6929e39c47714.json"
         }
       ],
       "path": "articles/b77cbf210ac30d1a8f16438f406f30dc.json"
@@ -3782,6 +3898,22 @@
           "path": "articles/03aac5eddd22ce235ae90126df475079.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "00fd7dba9d2bf72659d6929e39c47714",
           "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
@@ -3812,22 +3944,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1b1dca80110bf87b1072286711035eb3.json"
-        },
-        {
-          "id": "ff2a8e49c588883a01dbf06e716f2fa8",
-          "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T15:43:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ff2a8e49c588883a01dbf06e716f2fa8.json"
         }
       ],
       "path": "articles/227491d971160342a0fcc02d76233b13.json"
@@ -3888,6 +4004,22 @@
           "path": "articles/e5d78902d3d48db35778fe083e94bbb4.json"
         },
         {
+          "id": "8a1ec25e709b91d525cf48abc6038c62",
+          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T16:45:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a1ec25e709b91d525cf48abc6038c62.json"
+        },
+        {
           "id": "78f7a83e386d3f9bd80908be49f28870",
           "title": "Here’s what happened in crypto today",
           "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -3934,22 +4066,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 10,
           "path": "articles/9953e71c033af5e4e67b02d2163efdb6.json"
-        },
-        {
-          "id": "00fd7dba9d2bf72659d6929e39c47714",
-          "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T21:28:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/00fd7dba9d2bf72659d6929e39c47714.json"
         }
       ],
       "path": "articles/374d4e65e7609c18acd9882502a71ea9.json"

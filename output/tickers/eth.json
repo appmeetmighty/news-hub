@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-25T12:01:07.839Z",
+  "updated_at": "2026-08-25T12:15:35.867Z",
   "id": "eth",
   "symbol": "ETH",
   "name": "Ethereum",
   "type": "crypto",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
-      "id": "ddcbb0342d00c1c958ecd5241eab8807",
-      "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
-      "description": "The Ethereum-compatible blockchain wants users to be able to replace the keys controlling an account without changing its address, opening the door to passkeys, recovery tools and post-quantum security.",
+      "id": "f24b157ba6d82a89ef23988b46d3dfb2",
+      "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations ",
+      "description": "One wallet bought heavily into a yield token, which pushed the price of its paired principal token down just enough to trigger liquidations across borrowers using it as collateral.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
+      "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
       "image": "",
       "source": {
         "id": "coindesk",
@@ -31,13 +31,13 @@
           "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
         },
         {
-          "id": "blockchain",
-          "name": "Blockchain",
+          "id": "defi",
+          "name": "DeFi",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-08-25T07:01:49.000Z",
+      "published_at": "2026-08-25T12:03:55.000Z",
       "related": [
         {
           "id": "cfafaa39f6c598c7236bc81f11474c3c",
@@ -54,6 +54,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/cfafaa39f6c598c7236bc81f11474c3c.json"
+        },
+        {
+          "id": "ddcbb0342d00c1c958ecd5241eab8807",
+          "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T07:01:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ddcbb0342d00c1c958ecd5241eab8807.json"
         },
         {
           "id": "d231d913bef7c1b0c47368f751ac5f5f",
@@ -102,11 +118,93 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ff2a8e49c588883a01dbf06e716f2fa8.json"
+        }
+      ],
+      "path": "articles/f24b157ba6d82a89ef23988b46d3dfb2.json"
+    },
+    {
+      "id": "d0236639a9831e1c46d242af5f4ce233",
+      "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
+      "description": "The fund gives brokerage investors exposure to ZEC as Grayscale bets on demand for crypto assets beyond Bitcoin and Ethereum.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
-          "id": "d63eb8af8de00dc41cf40a5e7f87a4cf",
-          "title": "Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-ethereum-with-bitmine-3.jpg",
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "etf",
+          "name": "ETF",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-25T12:01:03.000Z",
+      "related": [
+        {
+          "id": "e49c9bd51ad610147bff9f51793fefc2",
+          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T17:07:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
+        },
+        {
+          "id": "ff2a8e49c588883a01dbf06e716f2fa8",
+          "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T15:43:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ff2a8e49c588883a01dbf06e716f2fa8.json"
+        },
+        {
+          "id": "7d48641b06bc9d8aaa6df29d300c14db",
+          "title": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-thailand-and-blockchain-etf.jpg",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -114,10 +212,158 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-24T15:29:26.000Z",
+          "published_at": "2026-08-25T10:20:14.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d63eb8af8de00dc41cf40a5e7f87a4cf.json"
+          "path": "articles/7d48641b06bc9d8aaa6df29d300c14db.json"
+        },
+        {
+          "id": "9953e71c033af5e4e67b02d2163efdb6",
+          "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T00:55:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 10,
+          "path": "articles/9953e71c033af5e4e67b02d2163efdb6.json"
+        },
+        {
+          "id": "2064434244db3d3faabf294b8486cc2c",
+          "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/b-man-character-running.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T08:56:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2064434244db3d3faabf294b8486cc2c.json"
+        }
+      ],
+      "path": "articles/d0236639a9831e1c46d242af5f4ce233.json"
+    },
+    {
+      "id": "ddcbb0342d00c1c958ecd5241eab8807",
+      "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
+      "description": "The Ethereum-compatible blockchain wants users to be able to replace the keys controlling an account without changing its address, opening the door to passkeys, recovery tools and post-quantum security.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
+        {
+          "id": "blockchain",
+          "name": "Blockchain",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-25T07:01:49.000Z",
+      "related": [
+        {
+          "id": "f24b157ba6d82a89ef23988b46d3dfb2",
+          "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations ",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T12:03:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f24b157ba6d82a89ef23988b46d3dfb2.json"
+        },
+        {
+          "id": "cfafaa39f6c598c7236bc81f11474c3c",
+          "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T12:59:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cfafaa39f6c598c7236bc81f11474c3c.json"
+        },
+        {
+          "id": "d0236639a9831e1c46d242af5f4ce233",
+          "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T12:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d0236639a9831e1c46d242af5f4ce233.json"
+        },
+        {
+          "id": "d231d913bef7c1b0c47368f751ac5f5f",
+          "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T19:43:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d231d913bef7c1b0c47368f751ac5f5f.json"
+        },
+        {
+          "id": "e49c9bd51ad610147bff9f51793fefc2",
+          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T17:07:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
         }
       ],
       "path": "articles/ddcbb0342d00c1c958ecd5241eab8807.json"
@@ -188,6 +434,38 @@
           "path": "articles/ff2a8e49c588883a01dbf06e716f2fa8.json"
         },
         {
+          "id": "f24b157ba6d82a89ef23988b46d3dfb2",
+          "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations ",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T12:03:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f24b157ba6d82a89ef23988b46d3dfb2.json"
+        },
+        {
+          "id": "d0236639a9831e1c46d242af5f4ce233",
+          "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T12:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d0236639a9831e1c46d242af5f4ce233.json"
+        },
+        {
           "id": "21f271e5855ed526a432d81b472d0498",
           "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png@png",
@@ -202,38 +480,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/21f271e5855ed526a432d81b472d0498.json"
-        },
-        {
-          "id": "ddcbb0342d00c1c958ecd5241eab8807",
-          "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-25T07:01:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ddcbb0342d00c1c958ecd5241eab8807.json"
-        },
-        {
-          "id": "d63eb8af8de00dc41cf40a5e7f87a4cf",
-          "title": "Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-ethereum-with-bitmine-3.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T15:29:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d63eb8af8de00dc41cf40a5e7f87a4cf.json"
         }
       ],
       "path": "articles/d231d913bef7c1b0c47368f751ac5f5f.json"
@@ -290,6 +536,22 @@
           "path": "articles/ff2a8e49c588883a01dbf06e716f2fa8.json"
         },
         {
+          "id": "d0236639a9831e1c46d242af5f4ce233",
+          "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T12:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d0236639a9831e1c46d242af5f4ce233.json"
+        },
+        {
           "id": "03aac5eddd22ce235ae90126df475079",
           "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
@@ -336,22 +598,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b77cbf210ac30d1a8f16438f406f30dc.json"
-        },
-        {
-          "id": "7d48641b06bc9d8aaa6df29d300c14db",
-          "title": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-thailand-and-blockchain-etf.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-25T10:20:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7d48641b06bc9d8aaa6df29d300c14db.json"
         }
       ],
       "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
@@ -408,6 +654,22 @@
           "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
         },
         {
+          "id": "d0236639a9831e1c46d242af5f4ce233",
+          "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T12:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d0236639a9831e1c46d242af5f4ce233.json"
+        },
+        {
           "id": "00fd7dba9d2bf72659d6929e39c47714",
           "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
@@ -454,22 +716,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d231d913bef7c1b0c47368f751ac5f5f.json"
-        },
-        {
-          "id": "e6cb34c3a9b06760e16580ba3254d0a1",
-          "title": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-state-backed-crypto-fund-just-made-its-first-buy-and-it-wasnt-bitcoin.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T16:44:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/e6cb34c3a9b06760e16580ba3254d0a1.json"
         }
       ],
       "path": "articles/ff2a8e49c588883a01dbf06e716f2fa8.json"
@@ -534,20 +780,36 @@
           "path": "articles/cfafaa39f6c598c7236bc81f11474c3c.json"
         },
         {
-          "id": "5c1e9bc98160fde5807ec1ef95c7a89c",
-          "title": "Term Finance loses estimated $8.5M in vault governance exploit",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-3.jpg",
+          "id": "f24b157ba6d82a89ef23988b46d3dfb2",
+          "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations ",
+          "image": "",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-24T03:59:29.000Z",
+          "published_at": "2026-08-25T12:03:55.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/5c1e9bc98160fde5807ec1ef95c7a89c.json"
+          "breaking_score": 0,
+          "path": "articles/f24b157ba6d82a89ef23988b46d3dfb2.json"
+        },
+        {
+          "id": "d0236639a9831e1c46d242af5f4ce233",
+          "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T12:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d0236639a9831e1c46d242af5f4ce233.json"
         },
         {
           "id": "ddcbb0342d00c1c958ecd5241eab8807",
@@ -564,22 +826,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ddcbb0342d00c1c958ecd5241eab8807.json"
-        },
-        {
-          "id": "d231d913bef7c1b0c47368f751ac5f5f",
-          "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T19:43:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d231d913bef7c1b0c47368f751ac5f5f.json"
         }
       ],
       "path": "articles/d63eb8af8de00dc41cf40a5e7f87a4cf.json"
@@ -617,6 +863,22 @@
       ],
       "published_at": "2026-08-24T12:59:55.000Z",
       "related": [
+        {
+          "id": "f24b157ba6d82a89ef23988b46d3dfb2",
+          "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations ",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-25T12:03:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f24b157ba6d82a89ef23988b46d3dfb2.json"
+        },
         {
           "id": "ff2a8e49c588883a01dbf06e716f2fa8",
           "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
@@ -666,9 +928,9 @@
           "path": "articles/d63eb8af8de00dc41cf40a5e7f87a4cf.json"
         },
         {
-          "id": "d231d913bef7c1b0c47368f751ac5f5f",
-          "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
+          "id": "d0236639a9831e1c46d242af5f4ce233",
+          "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -676,147 +938,13 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-24T19:43:43.000Z",
+          "published_at": "2026-08-25T12:01:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d231d913bef7c1b0c47368f751ac5f5f.json"
-        },
-        {
-          "id": "e49c9bd51ad610147bff9f51793fefc2",
-          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T17:07:32.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
+          "path": "articles/d0236639a9831e1c46d242af5f4ce233.json"
         }
       ],
       "path": "articles/cfafaa39f6c598c7236bc81f11474c3c.json"
-    },
-    {
-      "id": "5c1e9bc98160fde5807ec1ef95c7a89c",
-      "title": "Term Finance loses estimated $8.5M in vault governance exploit",
-      "description": "Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.",
-      "reading_time_minutes": 1,
-      "breaking_score": 40,
-      "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-3.jpg",
-      "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "eth",
-          "symbol": "ETH",
-          "name": "Ethereum",
-          "type": "crypto",
-          "path": "tickers/eth.json",
-          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
-        },
-        {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
-          "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
-        }
-      ],
-      "published_at": "2026-08-24T03:59:29.000Z",
-      "related": [
-        {
-          "id": "d63eb8af8de00dc41cf40a5e7f87a4cf",
-          "title": "Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-ethereum-with-bitmine-3.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T15:29:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d63eb8af8de00dc41cf40a5e7f87a4cf.json"
-        },
-        {
-          "id": "ddcbb0342d00c1c958ecd5241eab8807",
-          "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-25T07:01:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ddcbb0342d00c1c958ecd5241eab8807.json"
-        },
-        {
-          "id": "d231d913bef7c1b0c47368f751ac5f5f",
-          "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T19:43:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d231d913bef7c1b0c47368f751ac5f5f.json"
-        },
-        {
-          "id": "4ec51375439d113629227b1e18cafaaf",
-          "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T17:12:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/4ec51375439d113629227b1e18cafaaf.json"
-        },
-        {
-          "id": "e49c9bd51ad610147bff9f51793fefc2",
-          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T17:07:32.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e49c9bd51ad610147bff9f51793fefc2.json"
-        }
-      ],
-      "path": "articles/5c1e9bc98160fde5807ec1ef95c7a89c.json"
     }
   ]
 }

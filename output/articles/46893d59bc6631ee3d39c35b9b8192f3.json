@@ -1,11 +1,11 @@
 {
-  "id": "38985b21b4b1f36e21a9f1110c23a87d",
-  "title": "Nvidia’s dependence on hyperscalers faces big test in earnings report",
-  "description": "Nvidia is trying to expand its customer base by creating new financing options that allow for more clients to purchase its costly systems.",
+  "id": "46893d59bc6631ee3d39c35b9b8192f3",
+  "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+  "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108344711-1785865814969-gettyimages-2266485386-NVIDIA_GTC.jpeg?v=1785865841&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108217403-1769610896097-108217403-1761591014974-gettyimages-2233522650-298621final.jpg?v=1773149071&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,47 +15,37 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
       "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com"
-    }
-  ],
-  "published_at": "2026-08-25T14:46:59.000Z",
-  "related": [
-    {
-      "id": "b4f86afb3abbec751b9e3b8daa70e47e",
-      "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-1.png",
-      "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-24T19:11:48.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/b4f86afb3abbec751b9e3b8daa70e47e.json"
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com"
     },
     {
-      "id": "46893d59bc6631ee3d39c35b9b8192f3",
-      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-      "image": "https://image.cnbcfm.com/api/v1/image/108217403-1769610896097-108217403-1761591014974-gettyimages-2233522650-298621final.jpg?v=1773149071&w=1920&h=1080",
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-26T00:34:03.000Z",
+  "related": [
+    {
+      "id": "b6bd96330ff04c20309a632e8b52180e",
+      "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-08-26T00:34:03.000Z",
+      "category": "crypto",
+      "published_at": "2026-08-23T16:31:04.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/46893d59bc6631ee3d39c35b9b8192f3.json"
+      "path": "articles/b6bd96330ff04c20309a632e8b52180e.json"
     },
     {
       "id": "95bfb2c664578bd756570f15a90119b6",
@@ -104,6 +94,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 25,
       "path": "articles/cedcf9cf6eee89b843edd94f1b93019a.json"
+    },
+    {
+      "id": "191b7cf26764de88838a1eb020942e94",
+      "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+      "image": "https://image.cnbcfm.com/api/v1/image/108339153-1784809147521-gettyimages-2286629926-mathalone-notitle260722_npJI3.jpeg?v=1784809187&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-25T22:09:01.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/191b7cf26764de88838a1eb020942e94.json"
     }
   ]
 }

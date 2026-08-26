@@ -1,11 +1,11 @@
 {
-  "id": "c0cff3a090d6873c4184c70ad98b7ada",
-  "title": "I manage Dolly Parton’s Imagination Library in Cincinnati—the No. 1 lesson she taught me about success",
-  "description": "Cincinnati literacy leader Kristy High reflects on Dolly Parton’s Imagination Library and the lesson Parton's philanthropy taught her about success.",
+  "id": "9ba775cdaa597f2e410b5cd20537bc3c",
+  "title": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus ",
+  "description": "Analysts expect the company to launch new iPhones and Apple Watches at the event, including the company's first folding phone",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/26/the-no-1-lesson-dolly-parton-taught-me-about-success.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108354481-1787750352521-gettyimages-452967158-80979102.jpeg?v=1787750370&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/08/26/apple-iphone-launch-date-john-ternus.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108354600-1787760730759-Screenshot_2026-08-26_at_91205_AM.png?v=1787760741&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,9 +13,34 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-26T14:56:51.000Z",
+  "entities": [
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com"
+    }
+  ],
+  "published_at": "2026-08-26T16:26:30.000Z",
   "related": [
+    {
+      "id": "ab924da99444f5fbf22d97828ffa6b1d",
+      "title": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S. ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108289300-1775748036631-gettyimages-2270578340-mms19003_vnsswh1p.jpeg?v=1787693862&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-25T21:47:29.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/ab924da99444f5fbf22d97828ffa6b1d.json"
+    },
     {
       "id": "a56a7ef18875047adad59a9067b94379",
       "title": "Mark Walter's TWG Global says there's 'no fraud' amid probe of insurers' disclosures",
@@ -31,22 +56,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/a56a7ef18875047adad59a9067b94379.json"
-    },
-    {
-      "id": "9ba775cdaa597f2e410b5cd20537bc3c",
-      "title": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus ",
-      "image": "https://image.cnbcfm.com/api/v1/image/108354600-1787760730759-Screenshot_2026-08-26_at_91205_AM.png?v=1787760741&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-26T16:26:30.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/9ba775cdaa597f2e410b5cd20537bc3c.json"
     },
     {
       "id": "5ee3f3d1b893367e252199821400288e",

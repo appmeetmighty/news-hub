@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-26T16:15:50.930Z",
-  "total": 25,
+  "updated_at": "2026-08-26T16:30:58.257Z",
+  "total": 26,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 29
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,25 +16,18 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 27
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 13
     },
     {
       "id": "regulation",
       "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 14
+    },
+    {
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 13
@@ -44,7 +44,7 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 8
+      "count": 7
     },
     {
       "id": "eth",
@@ -122,6 +122,15 @@
       "path": "tickers/spacex.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 1
     },
     {
       "id": "meta",

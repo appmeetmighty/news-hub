@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-26T09:15:35.423Z",
-  "total": 27,
+  "updated_at": "2026-08-26T09:30:53.243Z",
+  "total": 28,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 31
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -19,18 +12,25 @@
       "count": 30
     },
     {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 30
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 16
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 13
     },
     {
       "id": "blockchain",
@@ -167,6 +167,15 @@
       "count": 1
     },
     {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 1
+    },
+    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
@@ -176,12 +185,12 @@
       "count": 1
     },
     {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
       "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 1
     },
     {

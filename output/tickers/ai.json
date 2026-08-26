@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-08-26T19:15:35.236Z",
+  "updated_at": "2026-08-26T19:30:53.531Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 14,
   "articles": [
+    {
+      "id": "dfb9cefa1ee80c9121e5d36a64d42c15",
+      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+      "description": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1785179838&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-26T19:15:53.000Z",
+      "related": [
+        {
+          "id": "6a9cb287e4649281a08d94d85eca7b4e",
+          "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+          "image": "https://image.cnbcfm.com/api/v1/image/108349720-1786712811754-gettyimages-2287521404-ALTMAN_CAPITOL.jpeg?v=1787088846&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-26T19:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 15,
+          "path": "articles/6a9cb287e4649281a08d94d85eca7b4e.json"
+        },
+        {
+          "id": "4f1f9f030f9efff0ddce5f3a83639211",
+          "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T22:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/4f1f9f030f9efff0ddce5f3a83639211.json"
+        },
+        {
+          "id": "a1736fe226ce89fc0fa53093986d6840",
+          "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
+          "image": "https://image.cnbcfm.com/api/v1/image/108351252-1787093366514-gettyimages-2290493102-FLORIDA_PRIMARY.jpeg?v=1787093461&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-26T19:15:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a1736fe226ce89fc0fa53093986d6840.json"
+        },
+        {
+          "id": "386542cfc29a072b6b495f568f49b35c",
+          "title": "Micron elevates two executives. Plus, what the Meta settlement means for its top line",
+          "image": "https://image.cnbcfm.com/api/v1/image/107390372-1710965801682-gettyimages-1859858827-MICRON_EARNS.jpeg?v=1750959911&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-26T18:31:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/386542cfc29a072b6b495f568f49b35c.json"
+        },
+        {
+          "id": "173eee354346fd3221e7e7031e34093c",
+          "title": "Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw",
+          "image": "https://image.cnbcfm.com/api/v1/image/108209958-1760017456789-gettyimages-683673316-MACAU_GAMING_EXPO.jpeg?v=1760017479&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-26T18:17:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/173eee354346fd3221e7e7031e34093c.json"
+        }
+      ],
+      "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"
+    },
     {
       "id": "6a9cb287e4649281a08d94d85eca7b4e",
       "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
@@ -65,7 +189,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-26T13:27:35.000Z",
+          "published_at": "2026-08-26T19:15:53.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"
@@ -97,7 +221,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-26T19:14:49.000Z",
+          "published_at": "2026-08-26T19:15:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a1736fe226ce89fc0fa53093986d6840.json"
@@ -147,6 +271,22 @@
       "published_at": "2026-08-26T16:25:09.000Z",
       "related": [
         {
+          "id": "dfb9cefa1ee80c9121e5d36a64d42c15",
+          "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+          "image": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1785179838&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-26T19:15:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"
+        },
+        {
           "id": "a1736fe226ce89fc0fa53093986d6840",
           "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
           "image": "https://image.cnbcfm.com/api/v1/image/108351252-1787093366514-gettyimages-2290493102-FLORIDA_PRIMARY.jpeg?v=1787093461&w=1920&h=1080",
@@ -157,7 +297,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-26T19:14:49.000Z",
+          "published_at": "2026-08-26T19:15:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a1736fe226ce89fc0fa53093986d6840.json"
@@ -209,22 +349,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/173eee354346fd3221e7e7031e34093c.json"
-        },
-        {
-          "id": "050d4f3de7916652a47efdec024d021f",
-          "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
-          "image": "https://image.cnbcfm.com/api/v1/image/108087664-17370361472025-01-16t110011z_1059436574_rc2z7s94kknq_rtrmadp_0_usa-china-baicells.jpeg?v=1787756840&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-26T18:16:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/050d4f3de7916652a47efdec024d021f.json"
         }
       ],
       "path": "articles/5ee3f3d1b893367e252199821400288e.json"
@@ -352,130 +476,6 @@
       "path": "articles/a475b6cc237a167c1344ae2110aeb828.json"
     },
     {
-      "id": "dfb9cefa1ee80c9121e5d36a64d42c15",
-      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-      "description": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1785179838&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-08-26T13:27:35.000Z",
-      "related": [
-        {
-          "id": "6a9cb287e4649281a08d94d85eca7b4e",
-          "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-          "image": "https://image.cnbcfm.com/api/v1/image/108349720-1786712811754-gettyimages-2287521404-ALTMAN_CAPITOL.jpeg?v=1787088846&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-26T19:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 15,
-          "path": "articles/6a9cb287e4649281a08d94d85eca7b4e.json"
-        },
-        {
-          "id": "4f1f9f030f9efff0ddce5f3a83639211",
-          "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T22:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/4f1f9f030f9efff0ddce5f3a83639211.json"
-        },
-        {
-          "id": "a1736fe226ce89fc0fa53093986d6840",
-          "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351252-1787093366514-gettyimages-2290493102-FLORIDA_PRIMARY.jpeg?v=1787093461&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-26T19:14:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a1736fe226ce89fc0fa53093986d6840.json"
-        },
-        {
-          "id": "386542cfc29a072b6b495f568f49b35c",
-          "title": "Micron elevates two executives. Plus, what the Meta settlement means for its top line",
-          "image": "https://image.cnbcfm.com/api/v1/image/107390372-1710965801682-gettyimages-1859858827-MICRON_EARNS.jpeg?v=1750959911&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-26T18:31:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/386542cfc29a072b6b495f568f49b35c.json"
-        },
-        {
-          "id": "173eee354346fd3221e7e7031e34093c",
-          "title": "Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw",
-          "image": "https://image.cnbcfm.com/api/v1/image/108209958-1760017456789-gettyimages-683673316-MACAU_GAMING_EXPO.jpeg?v=1760017479&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-26T18:17:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/173eee354346fd3221e7e7031e34093c.json"
-        }
-      ],
-      "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"
-    },
-    {
       "id": "46893d59bc6631ee3d39c35b9b8192f3",
       "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
       "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
@@ -509,6 +509,22 @@
       "published_at": "2026-08-26T13:15:24.000Z",
       "related": [
         {
+          "id": "dfb9cefa1ee80c9121e5d36a64d42c15",
+          "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+          "image": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1785179838&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-26T19:15:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"
+        },
+        {
           "id": "a1736fe226ce89fc0fa53093986d6840",
           "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
           "image": "https://image.cnbcfm.com/api/v1/image/108351252-1787093366514-gettyimages-2290493102-FLORIDA_PRIMARY.jpeg?v=1787093461&w=1920&h=1080",
@@ -519,7 +535,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-26T19:14:49.000Z",
+          "published_at": "2026-08-26T19:15:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a1736fe226ce89fc0fa53093986d6840.json"
@@ -571,22 +587,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/173eee354346fd3221e7e7031e34093c.json"
-        },
-        {
-          "id": "050d4f3de7916652a47efdec024d021f",
-          "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
-          "image": "https://image.cnbcfm.com/api/v1/image/108087664-17370361472025-01-16t110011z_1059436574_rc2z7s94kknq_rtrmadp_0_usa-china-baicells.jpeg?v=1787756840&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-26T18:16:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/050d4f3de7916652a47efdec024d021f.json"
         }
       ],
       "path": "articles/46893d59bc6631ee3d39c35b9b8192f3.json"
@@ -741,6 +741,22 @@
           "path": "articles/823342cd8d8f0c2c95dc20ac03de4b76.json"
         },
         {
+          "id": "fb221c14cb86c61afdeb50504cd16e11",
+          "title": "US Banks Join Forces to Build a Blockchain of Their Own",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/blockchain-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-26T19:21:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fb221c14cb86c61afdeb50504cd16e11.json"
+        },
+        {
           "id": "a9aea250e59f17a308cb8975a641f9b6",
           "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-whale-decrypt-style-01-gID_7.png@png",
@@ -787,22 +803,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/438edf191bbe3b163461bbe975958133.json"
-        },
-        {
-          "id": "7b207c1723cf2cb1767a09c09e3d4b68",
-          "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-26T17:15:33.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7b207c1723cf2cb1767a09c09e3d4b68.json"
         }
       ],
       "path": "articles/60bdfc672a59e31ba73c709592cb6b27.json"
@@ -833,6 +833,22 @@
       "published_at": "2026-08-25T18:39:26.000Z",
       "related": [
         {
+          "id": "fb221c14cb86c61afdeb50504cd16e11",
+          "title": "US Banks Join Forces to Build a Blockchain of Their Own",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/blockchain-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-26T19:21:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fb221c14cb86c61afdeb50504cd16e11.json"
+        },
+        {
           "id": "a9aea250e59f17a308cb8975a641f9b6",
           "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-whale-decrypt-style-01-gID_7.png@png",
@@ -895,22 +911,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7b207c1723cf2cb1767a09c09e3d4b68.json"
-        },
-        {
-          "id": "e62e02a22d589dfe60aa5b0cd5517e25",
-          "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-26T16:18:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e62e02a22d589dfe60aa5b0cd5517e25.json"
         }
       ],
       "path": "articles/04b306c531edb098d5c683abfa49cf49.json"
@@ -989,6 +989,22 @@
           "path": "articles/fb717c08b6fb079e748fb277b666217f.json"
         },
         {
+          "id": "78f7a83e386d3f9bd80908be49f28870",
+          "title": "Here’s what happened in crypto today",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-26T19:14:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
+        },
+        {
           "id": "f6b38bf969a3507b3217ba24dcbf30a5",
           "title": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-taxes-on-restricted-crypto-and-options-can-be-confusing.png",
@@ -1003,22 +1019,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/f6b38bf969a3507b3217ba24dcbf30a5.json"
-        },
-        {
-          "id": "7b207c1723cf2cb1767a09c09e3d4b68",
-          "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-26T17:15:33.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7b207c1723cf2cb1767a09c09e3d4b68.json"
         }
       ],
       "path": "articles/32f0a75c15324b52095eeecfad7300aa.json"
@@ -1207,6 +1207,22 @@
           "path": "articles/6a9cb287e4649281a08d94d85eca7b4e.json"
         },
         {
+          "id": "78f7a83e386d3f9bd80908be49f28870",
+          "title": "Here’s what happened in crypto today",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-26T19:14:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
+        },
+        {
           "id": "f6b38bf969a3507b3217ba24dcbf30a5",
           "title": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-taxes-on-restricted-crypto-and-options-can-be-confusing.png",
@@ -1237,22 +1253,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/739fe63a9fcb08bf6d8f564d53c8fbc0.json"
-        },
-        {
-          "id": "331434c0c1b08c5cbaf38b03b04336cf",
-          "title": "77% of Americans see crypto in retirement plans as risky: Survey",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-trumps-9t-executive-order-could-let-you-add-bitcoin-to-your-retirement-plan.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-26T16:10:56.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/331434c0c1b08c5cbaf38b03b04336cf.json"
         }
       ],
       "path": "articles/86728a768ca8c490b073293a87ee5480.json"
@@ -1437,7 +1437,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-26T13:27:35.000Z",
+          "published_at": "2026-08-26T19:15:53.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"
@@ -1559,6 +1559,22 @@
           "path": "articles/60bdfc672a59e31ba73c709592cb6b27.json"
         },
         {
+          "id": "fb221c14cb86c61afdeb50504cd16e11",
+          "title": "US Banks Join Forces to Build a Blockchain of Their Own",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/blockchain-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-26T19:21:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fb221c14cb86c61afdeb50504cd16e11.json"
+        },
+        {
           "id": "a9aea250e59f17a308cb8975a641f9b6",
           "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-whale-decrypt-style-01-gID_7.png@png",
@@ -1589,22 +1605,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2299885bb7a96351c5c30adc897b0d98.json"
-        },
-        {
-          "id": "438edf191bbe3b163461bbe975958133",
-          "title": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/grapheneos-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-26T17:24:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/438edf191bbe3b163461bbe975958133.json"
         }
       ],
       "path": "articles/823342cd8d8f0c2c95dc20ac03de4b76.json"

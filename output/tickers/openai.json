@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-08-26T19:15:35.236Z",
+  "updated_at": "2026-08-26T19:30:53.531Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
   "total": 3,
   "articles": [
+    {
+      "id": "dfb9cefa1ee80c9121e5d36a64d42c15",
+      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+      "description": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1785179838&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-26T19:15:53.000Z",
+      "related": [
+        {
+          "id": "6a9cb287e4649281a08d94d85eca7b4e",
+          "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+          "image": "https://image.cnbcfm.com/api/v1/image/108349720-1786712811754-gettyimages-2287521404-ALTMAN_CAPITOL.jpeg?v=1787088846&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-26T19:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 15,
+          "path": "articles/6a9cb287e4649281a08d94d85eca7b4e.json"
+        },
+        {
+          "id": "4f1f9f030f9efff0ddce5f3a83639211",
+          "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-24T22:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/4f1f9f030f9efff0ddce5f3a83639211.json"
+        },
+        {
+          "id": "a1736fe226ce89fc0fa53093986d6840",
+          "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
+          "image": "https://image.cnbcfm.com/api/v1/image/108351252-1787093366514-gettyimages-2290493102-FLORIDA_PRIMARY.jpeg?v=1787093461&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-26T19:15:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a1736fe226ce89fc0fa53093986d6840.json"
+        },
+        {
+          "id": "386542cfc29a072b6b495f568f49b35c",
+          "title": "Micron elevates two executives. Plus, what the Meta settlement means for its top line",
+          "image": "https://image.cnbcfm.com/api/v1/image/107390372-1710965801682-gettyimages-1859858827-MICRON_EARNS.jpeg?v=1750959911&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-26T18:31:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/386542cfc29a072b6b495f568f49b35c.json"
+        },
+        {
+          "id": "173eee354346fd3221e7e7031e34093c",
+          "title": "Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw",
+          "image": "https://image.cnbcfm.com/api/v1/image/108209958-1760017456789-gettyimages-683673316-MACAU_GAMING_EXPO.jpeg?v=1760017479&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-26T18:17:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/173eee354346fd3221e7e7031e34093c.json"
+        }
+      ],
+      "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"
+    },
     {
       "id": "6a9cb287e4649281a08d94d85eca7b4e",
       "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
@@ -66,7 +190,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-26T13:27:35.000Z",
+          "published_at": "2026-08-26T19:15:53.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"
@@ -98,7 +222,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-26T19:14:49.000Z",
+          "published_at": "2026-08-26T19:15:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a1736fe226ce89fc0fa53093986d6840.json"
@@ -121,130 +245,6 @@
         }
       ],
       "path": "articles/6a9cb287e4649281a08d94d85eca7b4e.json"
-    },
-    {
-      "id": "dfb9cefa1ee80c9121e5d36a64d42c15",
-      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-      "description": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1785179838&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-08-26T13:27:35.000Z",
-      "related": [
-        {
-          "id": "6a9cb287e4649281a08d94d85eca7b4e",
-          "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-          "image": "https://image.cnbcfm.com/api/v1/image/108349720-1786712811754-gettyimages-2287521404-ALTMAN_CAPITOL.jpeg?v=1787088846&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-26T19:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 15,
-          "path": "articles/6a9cb287e4649281a08d94d85eca7b4e.json"
-        },
-        {
-          "id": "4f1f9f030f9efff0ddce5f3a83639211",
-          "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-24T22:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/4f1f9f030f9efff0ddce5f3a83639211.json"
-        },
-        {
-          "id": "a1736fe226ce89fc0fa53093986d6840",
-          "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351252-1787093366514-gettyimages-2290493102-FLORIDA_PRIMARY.jpeg?v=1787093461&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-26T19:14:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a1736fe226ce89fc0fa53093986d6840.json"
-        },
-        {
-          "id": "386542cfc29a072b6b495f568f49b35c",
-          "title": "Micron elevates two executives. Plus, what the Meta settlement means for its top line",
-          "image": "https://image.cnbcfm.com/api/v1/image/107390372-1710965801682-gettyimages-1859858827-MICRON_EARNS.jpeg?v=1750959911&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-26T18:31:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/386542cfc29a072b6b495f568f49b35c.json"
-        },
-        {
-          "id": "173eee354346fd3221e7e7031e34093c",
-          "title": "Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw",
-          "image": "https://image.cnbcfm.com/api/v1/image/108209958-1760017456789-gettyimages-683673316-MACAU_GAMING_EXPO.jpeg?v=1760017479&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-26T18:17:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/173eee354346fd3221e7e7031e34093c.json"
-        }
-      ],
-      "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"
     },
     {
       "id": "4f1f9f030f9efff0ddce5f3a83639211",
@@ -306,7 +306,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-26T13:27:35.000Z",
+          "published_at": "2026-08-26T19:15:53.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"

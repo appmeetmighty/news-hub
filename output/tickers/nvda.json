@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T13:30:54.412Z",
+  "updated_at": "2026-08-26T13:45:37.902Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
@@ -7,13 +7,13 @@
   "total": 3,
   "articles": [
     {
-      "id": "89f56c797275c72b8100d9886f7fe25f",
-      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "description": "It's a monumental day of earnings, led by Nvidia.",
+      "id": "dfb9cefa1ee80c9121e5d36a64d42c15",
+      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+      "description": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353938-1787671146970-gettyimages-2285692692-AFP_C2CE4G7.jpeg?v=1787671381&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1785179838&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -29,10 +29,40 @@
           "type": "company",
           "path": "tickers/nvda.json",
           "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-08-26T12:55:38.000Z",
+      "published_at": "2026-08-26T13:27:35.000Z",
       "related": [
+        {
+          "id": "9f3c37b623d44a126bf59ec97389d88c",
+          "title": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108229968-1763739290840-gettyimages-2236733569-STARGATE_DATA_CENTER.jpeg?v=1770838644&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-25T21:26:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9f3c37b623d44a126bf59ec97389d88c.json"
+        },
         {
           "id": "38985b21b4b1f36e21a9f1110c23a87d",
           "title": "Nvidia’s dependence on hyperscalers faces big test in earnings report",
@@ -51,7 +81,7 @@
         },
         {
           "id": "be5574771f94bad1895816826f90fb01",
-          "title": "Live updates: Bitcoin flat near $78,500 ahead Nvidia earnings",
+          "title": "Live updates: Bitcoin flat near $78,500 ahead of Nvidia earnings",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -66,59 +96,43 @@
           "path": "articles/be5574771f94bad1895816826f90fb01.json"
         },
         {
-          "id": "d2569538fea86657f1a6143d02ccbfa2",
-          "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353104-1787544771455-gettyimages-2290752551-AFP_C679963.jpeg?v=1787544789&w=1920&h=1080",
+          "id": "4f1f9f030f9efff0ddce5f3a83639211",
+          "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-08-26T13:20:34.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-24T22:16:04.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d2569538fea86657f1a6143d02ccbfa2.json"
+          "breaking_score": 100,
+          "path": "articles/4f1f9f030f9efff0ddce5f3a83639211.json"
         },
         {
-          "id": "c61847c937238e7ca827f406411c397e",
-          "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh",
-          "image": "https://image.cnbcfm.com/api/v1/image/108341957-1785351420198-gettyimages-2287525917-AFP_C3HN8FT.jpeg?v=1785968183&w=1920&h=1080",
+          "id": "c9bb190a07c016fbe76a1b1f3af7000a",
+          "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-08-26T13:00:11.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-23T14:31:04.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/c61847c937238e7ca827f406411c397e.json"
-        },
-        {
-          "id": "ab924da99444f5fbf22d97828ffa6b1d",
-          "title": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S. ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108289300-1775748036631-gettyimages-2270578340-mms19003_vnsswh1p.jpeg?v=1787693862&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-25T21:47:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ab924da99444f5fbf22d97828ffa6b1d.json"
+          "path": "articles/c9bb190a07c016fbe76a1b1f3af7000a.json"
         }
       ],
-      "path": "articles/89f56c797275c72b8100d9886f7fe25f.json"
+      "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"
     },
     {
       "id": "be5574771f94bad1895816826f90fb01",
-      "title": "Live updates: Bitcoin flat near $78,500 ahead Nvidia earnings",
+      "title": "Live updates: Bitcoin flat near $78,500 ahead of Nvidia earnings",
       "description": "Markets are also looking ahead to Fed Chair Kevin Warsh's keynote speech at the Jackson Hole conference on Friday.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
@@ -262,9 +276,9 @@
       "published_at": "2026-08-25T14:46:59.000Z",
       "related": [
         {
-          "id": "89f56c797275c72b8100d9886f7fe25f",
-          "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353938-1787671146970-gettyimages-2285692692-AFP_C2CE4G7.jpeg?v=1787671381&w=1920&h=1080",
+          "id": "dfb9cefa1ee80c9121e5d36a64d42c15",
+          "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+          "image": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1785179838&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -272,14 +286,14 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-26T12:55:38.000Z",
+          "published_at": "2026-08-26T13:27:35.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/89f56c797275c72b8100d9886f7fe25f.json"
+          "path": "articles/dfb9cefa1ee80c9121e5d36a64d42c15.json"
         },
         {
           "id": "be5574771f94bad1895816826f90fb01",
-          "title": "Live updates: Bitcoin flat near $78,500 ahead Nvidia earnings",
+          "title": "Live updates: Bitcoin flat near $78,500 ahead of Nvidia earnings",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -294,8 +308,24 @@
           "path": "articles/be5574771f94bad1895816826f90fb01.json"
         },
         {
+          "id": "97ee089535115b37701b9c784f798ca6",
+          "title": "10-year Treasury yield is flat after PCE inflation report is mostly as expected",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353954-1787671978491-Traders-20260825-AS-PRESS-8.jpg?v=1787672206&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-26T13:00:34.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/97ee089535115b37701b9c784f798ca6.json"
+        },
+        {
           "id": "02cb09d24ac6d7d42968552fb6d85682",
-          "title": "Meta settles social media addiction trial with California, other states",
+          "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
           "image": "https://image.cnbcfm.com/api/v1/image/108267294-1771506727822-gettyimages-2261841364-SOCIAL_MEDIA_TRIAL.jpeg?v=1782239516&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -304,15 +334,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-26T13:26:33.000Z",
+          "published_at": "2026-08-26T13:41:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/02cb09d24ac6d7d42968552fb6d85682.json"
         },
         {
-          "id": "50c4f7f292ad5dac3282635d7037775e",
-          "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353833-1787661224123-Dominic4.jpg?v=1787661342&w=1920&h=1080",
+          "id": "56389f4a02870534eb66193b456867f4",
+          "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
+          "image": "https://image.cnbcfm.com/api/v1/image/108354183-1787691152552-gettyimages-2291508234-AFP_C6H6888.jpeg?v=1787691267&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -320,26 +350,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-26T13:24:25.000Z",
+          "published_at": "2026-08-26T13:35:50.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/50c4f7f292ad5dac3282635d7037775e.json"
-        },
-        {
-          "id": "d2569538fea86657f1a6143d02ccbfa2",
-          "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353104-1787544771455-gettyimages-2290752551-AFP_C679963.jpeg?v=1787544789&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-08-26T13:20:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d2569538fea86657f1a6143d02ccbfa2.json"
+          "path": "articles/56389f4a02870534eb66193b456867f4.json"
         }
       ],
       "path": "articles/38985b21b4b1f36e21a9f1110c23a87d.json"

@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-26T10:45:36.649Z",
-  "total": 28,
+  "updated_at": "2026-08-26T11:01:26.915Z",
+  "total": 27,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 30
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
+      "count": 31
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 28
     },
     {
       "id": "ai",
@@ -33,22 +33,22 @@
       "count": 14
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 6
+      "count": 7
     },
     {
       "id": "etf",
       "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 5
@@ -207,15 +207,6 @@
       "type": "crypto",
       "path": "tickers/bnb.json",
       "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
-      "count": 1
-    },
-    {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
-      "icon": "",
       "count": 1
     },
     {

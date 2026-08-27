@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T15:45:38.130Z",
+  "updated_at": "2026-08-27T16:01:09.613Z",
   "total": 24,
   "entities": [
     {
@@ -16,14 +16,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 28
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 16
+      "count": 19
     },
     {
       "id": "regulation",
@@ -31,15 +31,6 @@
       "type": "topic",
       "icon": "",
       "count": 13
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 8
     },
     {
       "id": "blockchain",
@@ -56,6 +47,24 @@
       "count": 8
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 7
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 5
+    },
+    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
@@ -65,13 +74,20 @@
       "count": 5
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 4
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "eth",
@@ -80,14 +96,7 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 4
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 4
+      "count": 3
     },
     {
       "id": "openai",
@@ -97,15 +106,6 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 3
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 2
     },
     {
       "id": "defi",

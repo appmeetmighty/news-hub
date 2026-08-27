@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-27T04:30:51.119Z",
-  "total": 25,
+  "updated_at": "2026-08-27T04:45:32.599Z",
+  "total": 26,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 29
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,14 +9,21 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
+      "count": 28
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 28
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 19
+      "count": 18
     },
     {
       "id": "regulation",
@@ -37,7 +37,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 11
+      "count": 10
     },
     {
       "id": "stablecoin",
@@ -45,6 +45,24 @@
       "type": "topic",
       "icon": "",
       "count": 7
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 5
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 5
     },
     {
       "id": "anthropic",
@@ -65,36 +83,11 @@
       "count": 4
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 4
-    },
-    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 4
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
       "icon": "",
       "count": 4
     },
@@ -114,6 +107,13 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 3
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 3
     },
     {
@@ -138,6 +138,15 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 2
+    },
+    {
+      "id": "bnb",
+      "symbol": "BNB",
+      "name": "BNB",
+      "type": "crypto",
+      "path": "tickers/bnb.json",
+      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
+      "count": 1
     },
     {
       "id": "meta",

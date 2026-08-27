@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-27T07:30:50.018Z",
+  "updated_at": "2026-08-27T07:45:34.615Z",
   "articles": {
-    "generated_at": "2026-08-27T07:30:50.018Z",
+    "generated_at": "2026-08-27T07:45:34.615Z",
     "topics": [
       {
         "id": "btc",
@@ -306,8 +306,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 16,
+        "count": 17,
         "articles": [
+          {
+            "id": "b27e53a3b3487830c1a83c5c85e194c7",
+            "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+            "image": "https://image.cnbcfm.com/api/v1/image/107291118-1692832899082-gettyimages-1608151041-HUGGING_FACE_AI.jpeg?v=1701200698&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-27T07:29:46.000Z",
+            "path": "articles/b27e53a3b3487830c1a83c5c85e194c7.json"
+          },
           {
             "id": "0725e721ea8d28f37eec088dcc2105c7",
             "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
@@ -433,20 +447,6 @@
             "category": "crypto",
             "published_at": "2026-08-26T15:15:13.000Z",
             "path": "articles/a475b6cc237a167c1344ae2110aeb828.json"
-          },
-          {
-            "id": "46893d59bc6631ee3d39c35b9b8192f3",
-            "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-            "image": "https://image.cnbcfm.com/api/v1/image/108354426-1787745711052-gettyimages-111223979-73v05k1p.jpeg?v=1787745741&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-26T13:15:24.000Z",
-            "path": "articles/46893d59bc6631ee3d39c35b9b8192f3.json"
           }
         ]
       },
@@ -1014,6 +1014,71 @@
         ]
       },
       {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 4,
+        "articles": [
+          {
+            "id": "b27e53a3b3487830c1a83c5c85e194c7",
+            "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+            "image": "https://image.cnbcfm.com/api/v1/image/107291118-1692832899082-gettyimages-1608151041-HUGGING_FACE_AI.jpeg?v=1701200698&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-27T07:29:46.000Z",
+            "path": "articles/b27e53a3b3487830c1a83c5c85e194c7.json"
+          },
+          {
+            "id": "3f8e2794db312bfabec6487c11f964e0",
+            "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-26T21:42:42.000Z",
+            "path": "articles/3f8e2794db312bfabec6487c11f964e0.json"
+          },
+          {
+            "id": "40a32573ce35b31f503a13b50a59da98",
+            "title": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-26T20:24:31.000Z",
+            "path": "articles/40a32573ce35b31f503a13b50a59da98.json"
+          },
+          {
+            "id": "be5574771f94bad1895816826f90fb01",
+            "title": "Live updates: Bitcoin trades in tight range above $78,000 as Nvidia tops estimates",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-26T08:51:18.000Z",
+            "path": "articles/be5574771f94bad1895816826f90fb01.json"
+          }
+        ]
+      },
+      {
         "id": "etf",
         "name": "ETF",
         "type": "topic",
@@ -1307,57 +1372,6 @@
             "category": "crypto",
             "published_at": "2026-08-24T22:16:04.000Z",
             "path": "articles/4f1f9f030f9efff0ddce5f3a83639211.json"
-          }
-        ]
-      },
-      {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
-        "count": 3,
-        "articles": [
-          {
-            "id": "3f8e2794db312bfabec6487c11f964e0",
-            "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-26T21:42:42.000Z",
-            "path": "articles/3f8e2794db312bfabec6487c11f964e0.json"
-          },
-          {
-            "id": "40a32573ce35b31f503a13b50a59da98",
-            "title": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-26T20:24:31.000Z",
-            "path": "articles/40a32573ce35b31f503a13b50a59da98.json"
-          },
-          {
-            "id": "be5574771f94bad1895816826f90fb01",
-            "title": "Live updates: Bitcoin trades in tight range above $78,000 as Nvidia tops estimates",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-26T08:51:18.000Z",
-            "path": "articles/be5574771f94bad1895816826f90fb01.json"
           }
         ]
       },

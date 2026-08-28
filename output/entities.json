@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T16:01:04.437Z",
+  "updated_at": "2026-08-28T16:15:33.515Z",
   "total": 22,
   "entities": [
     {
@@ -9,21 +9,21 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 31
+      "count": 33
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 26
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 16
     },
     {
       "id": "regulation",
@@ -39,7 +39,14 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 9
+      "count": 10
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "eth",
@@ -48,14 +55,7 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 7
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 7
+      "count": 6
     },
     {
       "id": "blockchain",
@@ -101,6 +101,22 @@
       "count": 3
     },
     {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 2
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -124,15 +140,6 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 2
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 1
     },
     {
       "id": "web3",
@@ -166,13 +173,6 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 1
-    },
-    {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
       "count": 1
     },
     {

@@ -1,16 +1,16 @@
 {
-  "id": "137fa64d4896c02a91ae96c014311364",
-  "title": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
-  "description": "The proposal would let validator keys grow to 8,192 bytes and adds a switch that permanently retires today's BLS signatures.",
+  "id": "d452e6c8fe4a9d0a2c9cac8ca405631f",
+  "title": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
+  "description": "Eligible holders on Base and BNB Chain will receive Ethereum-based SAND from the project’s treasury, with claims expected to open within two weeks.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg@png",
+  "breaking_score": 60,
+  "url": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "image": "https://s3-images.ctmedia.io/media/article-covers/sand-refund.png",
   "source": {
-    "id": "decrypt",
-    "name": "Decrypt",
-    "website": "https://decrypt.co",
-    "icon": "https://logo.clearbit.com/decrypt.co"
+    "id": "cointelegraph",
+    "name": "Cointelegraph",
+    "website": "https://cointelegraph.com",
+    "icon": "https://logo.clearbit.com/cointelegraph.com"
   },
   "category": "crypto",
   "entities": [
@@ -21,9 +21,17 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+    },
+    {
+      "id": "bnb",
+      "symbol": "BNB",
+      "name": "BNB",
+      "type": "crypto",
+      "path": "tickers/bnb.json",
+      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png"
     }
   ],
-  "published_at": "2026-08-26T15:04:58.000Z",
+  "published_at": "2026-08-28T05:40:48.000Z",
   "related": [
     {
       "id": "6b5381f6ca34b6f837f3aa3621732d23",
@@ -74,25 +82,9 @@
       "path": "articles/f10c58bb3f87ed1052761f113ebd078d.json"
     },
     {
-      "id": "d452e6c8fe4a9d0a2c9cac8ca405631f",
-      "title": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/sand-refund.png",
-      "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-28T05:40:48.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "path": "articles/d452e6c8fe4a9d0a2c9cac8ca405631f.json"
-    },
-    {
-      "id": "40f35c2366045e35d70005e10d4839c6",
-      "title": "AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
+      "id": "137fa64d4896c02a91ae96c014311364",
+      "title": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -100,10 +92,26 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-27T15:45:28.000Z",
+      "published_at": "2026-08-26T15:04:58.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 35,
-      "path": "articles/40f35c2366045e35d70005e10d4839c6.json"
+      "breaking_score": 0,
+      "path": "articles/137fa64d4896c02a91ae96c014311364.json"
+    },
+    {
+      "id": "78f7a83e386d3f9bd80908be49f28870",
+      "title": "Here’s what happened in crypto today",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": {
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-28T05:50:05.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
     }
   ]
 }

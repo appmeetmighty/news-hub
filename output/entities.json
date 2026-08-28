@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T20:15:36.151Z",
+  "updated_at": "2026-08-28T20:30:52.931Z",
   "total": 23,
   "entities": [
     {
@@ -23,7 +23,14 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 18
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 13
     },
     {
       "id": "sol",
@@ -32,14 +39,7 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 13
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 13
+      "count": 12
     },
     {
       "id": "stablecoin",
@@ -101,6 +101,15 @@
       "count": 3
     },
     {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 2
+    },
+    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -112,13 +121,6 @@
     {
       "id": "mining",
       "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
       "type": "topic",
       "icon": "",
       "count": 2
@@ -151,12 +153,10 @@
       "count": 1
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
       "count": 1
     },
     {

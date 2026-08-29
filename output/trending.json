@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-29T13:30:49.877Z",
+  "updated_at": "2026-08-29T13:45:36.644Z",
   "articles": {
-    "generated_at": "2026-08-29T13:30:49.877Z",
+    "generated_at": "2026-08-29T13:45:36.644Z",
     "topics": [
       {
         "id": "btc",
@@ -306,22 +306,8 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 18,
+        "count": 17,
         "articles": [
-          {
-            "id": "1a045f39e10c0c03dea2801b569ff752",
-            "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
-            "image": "https://image.cnbcfm.com/api/v1/image/108351580-1787228224887-108351580-17871510862026-08-19t144330z_988560389_rc2p1naecyjy_rtrmadp_0_usa-stocks.jpeg?v=1787228240&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-29T13:25:55.000Z",
-            "path": "articles/1a045f39e10c0c03dea2801b569ff752.json"
-          },
           {
             "id": "f6e1d5799abc49df4331cf5577e44ef7",
             "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
@@ -447,6 +433,20 @@
             "category": "crypto",
             "published_at": "2026-08-28T11:03:18.000Z",
             "path": "articles/f29113b632a4321e490d733f4a3bfbb2.json"
+          },
+          {
+            "id": "13640c432443c25393c179b8ead322f2",
+            "title": "Judge Rules Trump Administration Illegally Retaliated Against Anthropic Over AI Red Lines",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-28T10:11:34.000Z",
+            "path": "articles/13640c432443c25393c179b8ead322f2.json"
           }
         ]
       },
@@ -991,85 +991,6 @@
         ]
       },
       {
-        "id": "blockchain",
-        "name": "Blockchain",
-        "type": "topic",
-        "icon": "",
-        "count": 5,
-        "articles": [
-          {
-            "id": "78f7a83e386d3f9bd80908be49f28870",
-            "title": "Here’s what happened in crypto today",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-29T12:39:59.000Z",
-            "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-          },
-          {
-            "id": "c201112ab7288c36b2185985e3da3fdf",
-            "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14DS05X6DTJB5K7J056DP3A/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-28T14:53:40.000Z",
-            "path": "articles/c201112ab7288c36b2185985e3da3fdf.json"
-          },
-          {
-            "id": "d34c8b180eaf3baaddf0b30e17f167da",
-            "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-28T12:18:31.000Z",
-            "path": "articles/d34c8b180eaf3baaddf0b30e17f167da.json"
-          },
-          {
-            "id": "ff70959a7184a49ed43a2aff13eefb65",
-            "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.png",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-27T20:39:40.000Z",
-            "path": "articles/ff70959a7184a49ed43a2aff13eefb65.json"
-          },
-          {
-            "id": "fb221c14cb86c61afdeb50504cd16e11",
-            "title": "US Banks Join Forces to Build a Blockchain of Their Own",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/blockchain-decrypt-style-02-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-26T19:21:25.000Z",
-            "path": "articles/fb221c14cb86c61afdeb50504cd16e11.json"
-          }
-        ]
-      },
-      {
         "id": "gold",
         "name": "Gold",
         "type": "commodity",
@@ -1149,30 +1070,16 @@
         ]
       },
       {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
+        "id": "blockchain",
+        "name": "Blockchain",
+        "type": "topic",
+        "icon": "",
         "count": 4,
         "articles": [
           {
-            "id": "1a045f39e10c0c03dea2801b569ff752",
-            "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
-            "image": "https://image.cnbcfm.com/api/v1/image/108351580-1787228224887-108351580-17871510862026-08-19t144330z_988560389_rc2p1naecyjy_rtrmadp_0_usa-stocks.jpeg?v=1787228240&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-29T13:25:55.000Z",
-            "path": "articles/1a045f39e10c0c03dea2801b569ff752.json"
-          },
-          {
-            "id": "f36350c798396debe0550318fc3e54f9",
-            "title": "Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-use-nvidia-stock-for-broad-market-exposure.jpg",
+            "id": "78f7a83e386d3f9bd80908be49f28870",
+            "title": "Here’s what happened in crypto today",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
             "source": {
               "id": "cointelegraph",
               "name": "Cointelegraph",
@@ -1180,36 +1087,50 @@
               "icon": "https://logo.clearbit.com/cointelegraph.com"
             },
             "category": "crypto",
-            "published_at": "2026-08-27T17:15:43.000Z",
-            "path": "articles/f36350c798396debe0550318fc3e54f9.json"
+            "published_at": "2026-08-29T12:39:59.000Z",
+            "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
           },
           {
-            "id": "4e660d3a0889c76bd625920b03db005b",
-            "title": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png@png",
+            "id": "c201112ab7288c36b2185985e3da3fdf",
+            "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14DS05X6DTJB5K7J056DP3A/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto.jpg",
             "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
             },
             "category": "crypto",
-            "published_at": "2026-08-27T17:09:32.000Z",
-            "path": "articles/4e660d3a0889c76bd625920b03db005b.json"
+            "published_at": "2026-08-28T14:53:40.000Z",
+            "path": "articles/c201112ab7288c36b2185985e3da3fdf.json"
           },
           {
-            "id": "3f8e2794db312bfabec6487c11f964e0",
-            "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+            "id": "d34c8b180eaf3baaddf0b30e17f167da",
+            "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+            "image": "",
             "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
             },
             "category": "crypto",
-            "published_at": "2026-08-26T21:42:42.000Z",
-            "path": "articles/3f8e2794db312bfabec6487c11f964e0.json"
+            "published_at": "2026-08-28T12:18:31.000Z",
+            "path": "articles/d34c8b180eaf3baaddf0b30e17f167da.json"
+          },
+          {
+            "id": "ff70959a7184a49ed43a2aff13eefb65",
+            "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.png",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-27T20:39:40.000Z",
+            "path": "articles/ff70959a7184a49ed43a2aff13eefb65.json"
           }
         ]
       },
@@ -1326,6 +1247,57 @@
             "category": "crypto",
             "published_at": "2026-08-26T22:46:03.000Z",
             "path": "articles/dfb5e438486d780e16b216f13fc7aaae.json"
+          }
+        ]
+      },
+      {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 3,
+        "articles": [
+          {
+            "id": "f36350c798396debe0550318fc3e54f9",
+            "title": "Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-use-nvidia-stock-for-broad-market-exposure.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-27T17:15:43.000Z",
+            "path": "articles/f36350c798396debe0550318fc3e54f9.json"
+          },
+          {
+            "id": "4e660d3a0889c76bd625920b03db005b",
+            "title": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-27T17:09:32.000Z",
+            "path": "articles/4e660d3a0889c76bd625920b03db005b.json"
+          },
+          {
+            "id": "3f8e2794db312bfabec6487c11f964e0",
+            "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-26T21:42:42.000Z",
+            "path": "articles/3f8e2794db312bfabec6487c11f964e0.json"
           }
         ]
       },

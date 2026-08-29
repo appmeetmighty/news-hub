@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-29T14:45:36.849Z",
+  "updated_at": "2026-08-29T15:01:01.198Z",
   "id": "regulation",
   "name": "Regulation",
   "type": "topic",
-  "total": 11,
+  "total": 10,
   "articles": [
     {
       "id": "78f7a83e386d3f9bd80908be49f28870",
@@ -179,22 +179,6 @@
       "published_at": "2026-08-28T19:46:03.000Z",
       "related": [
         {
-          "id": "9161bea99550f3138c2f06dae5e175e5",
-          "title": "An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-28T04:21:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9161bea99550f3138c2f06dae5e175e5.json"
-        },
-        {
           "id": "0b1180ca04686bdc8c0e8dc4a0b350f1",
           "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
           "image": "",
@@ -257,6 +241,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 100,
           "path": "articles/6b5381f6ca34b6f837f3aa3621732d23.json"
+        },
+        {
+          "id": "951acb1dcbdf7c34fb97a3e016ee7d53",
+          "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitgo-nyse-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-29T13:31:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/951acb1dcbdf7c34fb97a3e016ee7d53.json"
         }
       ],
       "path": "articles/e7d33d06b8df0f08cff748fa65c330df.json"
@@ -368,122 +368,6 @@
         }
       ],
       "path": "articles/1905f2432c01462729dca6ecdf543c5a.json"
-    },
-    {
-      "id": "9161bea99550f3138c2f06dae5e175e5",
-      "title": "An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq",
-      "description": "The SEC cleared the paperwork for Evernorth's merger with a shell company, setting up a Sept. 30 vote and a listing under the ticker XRPN.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/markets/2026/08/28/an-xrp-treasury-company-backed-by-ripple-is-a-shareholder-vote-away-from-nasdaq",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "xrp",
-          "symbol": "XRP",
-          "name": "XRP",
-          "type": "crypto",
-          "path": "tickers/xrp.json",
-          "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
-        },
-        {
-          "id": "regulation",
-          "name": "Regulation",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-08-28T04:21:22.000Z",
-      "related": [
-        {
-          "id": "e7d33d06b8df0f08cff748fa65c330df",
-          "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/xrp-decrypt-style-02-scaled-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-28T19:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e7d33d06b8df0f08cff748fa65c330df.json"
-        },
-        {
-          "id": "0b1180ca04686bdc8c0e8dc4a0b350f1",
-          "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-29T02:30:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0b1180ca04686bdc8c0e8dc4a0b350f1.json"
-        },
-        {
-          "id": "ea05c1cff07e9e53428a2831625837eb",
-          "title": "Ripple Prime expands into US equity derivatives with Delta One business",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-crypto-in-period-of-crisis-stablecoin-ripple.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-27T13:54:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ea05c1cff07e9e53428a2831625837eb.json"
-        },
-        {
-          "id": "c94453c30481dea5b89d3a9b59e0516c",
-          "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-28T16:12:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c94453c30481dea5b89d3a9b59e0516c.json"
-        },
-        {
-          "id": "87e7166f25769e7ad22d95bc922e66e8",
-          "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/strategy-microstrategy-learn-gID_7-pID_5.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-28T16:08:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/87e7166f25769e7ad22d95bc922e66e8.json"
-        }
-      ],
-      "path": "articles/9161bea99550f3138c2f06dae5e175e5.json"
     },
     {
       "id": "e8730288b11ccb74289045e727496e7e",

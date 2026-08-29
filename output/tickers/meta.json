@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-29T06:01:03.420Z",
+  "updated_at": "2026-08-29T06:15:33.915Z",
   "id": "meta",
   "symbol": "META",
   "name": "Meta",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
-      "id": "f34d9f2046d8dbba58fc18b4c5a60669",
-      "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
-      "description": "Following a major legal settlement, Instagram and Facebook users under age 18 will soon have a daily two-hour limit and won't be able to see reactions on posts.",
+      "id": "ce19f22224c370edde9bcc880ec5abbc",
+      "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+      "description": "\"Meta is seeking to ensure its competitors will face the same rules,\" one business professor told CNBC after Meta called on rivals to protect children online.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108355745-1787924027969-Meta_Platforms_Photo_Illustrations-2291623801-Getty.jpg?v=1787924160&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108267283-1771506323326-gettyimages-2261841633-AA_19022026_2660817.jpeg?v=1776975266&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -31,8 +31,24 @@
           "icon": "https://logo.clearbit.com/meta.com"
         }
       ],
-      "published_at": "2026-08-29T02:11:38.000Z",
+      "published_at": "2026-08-29T05:00:01.000Z",
       "related": [
+        {
+          "id": "f34d9f2046d8dbba58fc18b4c5a60669",
+          "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355745-1787924027969-Meta_Platforms_Photo_Illustrations-2291623801-Getty.jpg?v=1787924160&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-29T02:11:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f34d9f2046d8dbba58fc18b4c5a60669.json"
+        },
         {
           "id": "fed02f8baa726e0bc19f9b2970a09322",
           "title": "Meta Tests Robots to Handle Data Center Work",
@@ -96,11 +112,41 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/02420710a1e289fa543f389fd6aa7e7e.json"
-        },
+        }
+      ],
+      "path": "articles/ce19f22224c370edde9bcc880ec5abbc.json"
+    },
+    {
+      "id": "f34d9f2046d8dbba58fc18b4c5a60669",
+      "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
+      "description": "Following a major legal settlement, Instagram and Facebook users under age 18 will soon have a daily two-hour limit and won't be able to see reactions on posts.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108355745-1787924027969-Meta_Platforms_Photo_Illustrations-2291623801-Getty.jpg?v=1787924160&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
         {
-          "id": "049dca39aa05af77b570999b8ef78286",
-          "title": "Trump loses bid to transfer New York hush money case to federal court",
-          "image": "https://image.cnbcfm.com/api/v1/image/108355330-1787853590384-gettyimages-2291727849-AFP_C6NN3N4.jpeg?v=1787853667&w=1920&h=1080",
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        }
+      ],
+      "published_at": "2026-08-29T02:11:38.000Z",
+      "related": [
+        {
+          "id": "ce19f22224c370edde9bcc880ec5abbc",
+          "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267283-1771506323326-gettyimages-2261841633-AA_19022026_2660817.jpeg?v=1776975266&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -108,10 +154,74 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-28T20:56:24.000Z",
+          "published_at": "2026-08-29T05:00:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/049dca39aa05af77b570999b8ef78286.json"
+          "path": "articles/ce19f22224c370edde9bcc880ec5abbc.json"
+        },
+        {
+          "id": "fed02f8baa726e0bc19f9b2970a09322",
+          "title": "Meta Tests Robots to Handle Data Center Work",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-28T20:19:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fed02f8baa726e0bc19f9b2970a09322.json"
+        },
+        {
+          "id": "fc67d03f85cde03978b79b3516171a67",
+          "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353481-1787597034044-gettyimages-2291340010-AFP_C6EK4VC.jpeg?v=1787597079&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-28T23:42:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fc67d03f85cde03978b79b3516171a67.json"
+        },
+        {
+          "id": "3f3ac5893a00615ec32aeb23b4a5aa1d",
+          "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355936-1787943228467-108355936-1787943060847-gettyimages-2224525376-cgv25071313769_psg_che.jpg?v=1787943238&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-29T02:43:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3f3ac5893a00615ec32aeb23b4a5aa1d.json"
+        },
+        {
+          "id": "02420710a1e289fa543f389fd6aa7e7e",
+          "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+          "image": "https://image.cnbcfm.com/api/v1/image/108284347-1774643253823-Screenshot_2026-03-27_at_41954_PM.png?v=1787952611&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-29T02:23:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/02420710a1e289fa543f389fd6aa7e7e.json"
         }
       ],
       "path": "articles/f34d9f2046d8dbba58fc18b4c5a60669.json"
@@ -149,6 +259,22 @@
       ],
       "published_at": "2026-08-28T20:19:44.000Z",
       "related": [
+        {
+          "id": "ce19f22224c370edde9bcc880ec5abbc",
+          "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267283-1771506323326-gettyimages-2261841633-AA_19022026_2660817.jpeg?v=1776975266&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-29T05:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ce19f22224c370edde9bcc880ec5abbc.json"
+        },
         {
           "id": "f34d9f2046d8dbba58fc18b4c5a60669",
           "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
@@ -212,22 +338,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/59aa8195b83aa4a907f27c517f3a98df.json"
-        },
-        {
-          "id": "e2075fcc553531398ebc98fe1280a74f",
-          "title": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-15-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-28T21:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e2075fcc553531398ebc98fe1280a74f.json"
         }
       ],
       "path": "articles/fed02f8baa726e0bc19f9b2970a09322.json"

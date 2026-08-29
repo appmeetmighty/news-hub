@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T12:01:11.771Z",
+  "updated_at": "2026-08-29T19:15:32.174Z",
   "id": "spacex",
   "symbol": "SPACEX",
   "name": "SpaceX",
@@ -7,20 +7,20 @@
   "total": 1,
   "articles": [
     {
-      "id": "63a46ae8de7c10c0775c4983d7e76e1d",
-      "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
-      "description": "The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.",
+      "id": "23c5540cd599e247f82fbb44a6957e30",
+      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+      "description": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
+      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108299329-17774844982026-04-29t174052z_1503926160_rc21zka40miz_rtrmadp_0_musk-openai-court.jpeg?v=1777484582&w=1920&h=1080",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
         {
           "id": "tsla",
@@ -31,6 +31,14 @@
           "icon": "https://logo.clearbit.com/tesla.com"
         },
         {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
           "id": "spacex",
           "symbol": "SPACEX",
           "name": "SpaceX",
@@ -39,12 +47,12 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-08-25T22:16:03.000Z",
+      "published_at": "2026-08-29T19:06:22.000Z",
       "related": [
         {
-          "id": "dba3c883f45bc359984375fea7932ea3",
-          "title": "$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-whale-decrypt-style-02-gID_7.jpg@png",
+          "id": "4d7817c029d49bb2dcf2ecb84d3ccadc",
+          "title": "Rogue OpenAI Agents Sacrificed Their Own Runs to Hack Hugging Face, Report Finds",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -52,15 +60,15 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-27T19:47:21.000Z",
+          "published_at": "2026-08-27T09:46:19.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/dba3c883f45bc359984375fea7932ea3.json"
+          "breaking_score": 15,
+          "path": "articles/4d7817c029d49bb2dcf2ecb84d3ccadc.json"
         },
         {
-          "id": "3f8e2794db312bfabec6487c11f964e0",
-          "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+          "id": "46eddddbc3567a741842be3686ffba94",
+          "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -68,31 +76,15 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-26T21:42:42.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/3f8e2794db312bfabec6487c11f964e0.json"
-        },
-        {
-          "id": "e62e02a22d589dfe60aa5b0cd5517e25",
-          "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-26T16:18:24.000Z",
+          "published_at": "2026-08-27T21:00:57.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e62e02a22d589dfe60aa5b0cd5517e25.json"
+          "path": "articles/46eddddbc3567a741842be3686ffba94.json"
         },
         {
-          "id": "e0d7f42e5264f8b01df053b078de1a28",
-          "title": "UK Police Seize $1.4M in Bitcoin Traced to Shuttered Darknet Markets",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
+          "id": "dfb5e438486d780e16b216f13fc7aaae",
+          "title": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -100,29 +92,45 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-28T11:34:20.000Z",
+          "published_at": "2026-08-26T22:46:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e0d7f42e5264f8b01df053b078de1a28.json"
+          "path": "articles/dfb5e438486d780e16b216f13fc7aaae.json"
         },
         {
-          "id": "749976eaa680b9d2ec3df96f426f9737",
-          "title": "240 Crypto Millionaires Booked Over Half of Britain's Taxable Crypto Gains",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/hmrc-decrypt-style-1-gID_7.jpg@png",
+          "id": "9eef614186264fcd4fb83223d669bd0a",
+          "title": "Trump administration weighs Yosemite land swap for private developer’s access road",
+          "image": "https://image.cnbcfm.com/api/v1/image/107232756-1682691899277-gettyimages-1485969252-mt_27943_afs5soil.jpeg?v=1713459800&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-28T11:03:04.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-29T18:21:49.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/749976eaa680b9d2ec3df96f426f9737.json"
+          "path": "articles/9eef614186264fcd4fb83223d669bd0a.json"
+        },
+        {
+          "id": "037e7b2c00c5192249df09469f94f818",
+          "title": "National Park Service backs Trump’s 250-foot arch despite ‘adverse effects’ on historic sites",
+          "image": "https://image.cnbcfm.com/api/v1/image/108332979-17836232572026-07-09t182239z_1433587302_rc2hamas5xv4_rtrmadp_0_usa-trump-arch.jpeg?v=1783623291&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-29T18:23:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/037e7b2c00c5192249df09469f94f818.json"
         }
       ],
-      "path": "articles/63a46ae8de7c10c0775c4983d7e76e1d.json"
+      "path": "articles/23c5540cd599e247f82fbb44a6957e30.json"
     }
   ]
 }

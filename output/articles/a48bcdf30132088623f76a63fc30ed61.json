@@ -1,11 +1,11 @@
 {
-  "id": "8b978b02e12317e2e69417fb0677457e",
-  "title": "Corn and wheat prices jump to highest prices in more than three years",
-  "description": "Corn and wheat futures have surged to their highest levels in more than three years. But the reasons for these recent rallies are notably different.",
+  "id": "a48bcdf30132088623f76a63fc30ed61",
+  "title": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues",
+  "description": "In his Sunday column for Investing Club subscribers, Jim Cramer explores the linkage between Nvidia's stock, the oil market, and the Federal Reserve.",
   "reading_time_minutes": 1,
-  "breaking_score": 20,
-  "url": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108348933-1786603272529-gettyimages-2285482828-AA_14072026_2883242.jpeg?v=1786603346&w=1920&h=1080",
+  "breaking_score": 0,
+  "url": "https://www.cnbc.com/2026/08/30/what-caused-nvidias-nasty-reversal-friday-look-to-the-fed-for-clues.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108314498-1780317990187-gettyimages-2278514474-TAIWAN_COMPUTEX.jpeg?v=1780318027&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,8 +13,25 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-28T20:00:56.000Z",
+  "entities": [
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-30T23:26:35.000Z",
   "related": [
     {
       "id": "fc67d03f85cde03978b79b3516171a67",
@@ -33,25 +50,25 @@
       "path": "articles/fc67d03f85cde03978b79b3516171a67.json"
     },
     {
-      "id": "aa67c37eb87c5765c9d4f8642d210a20",
-      "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108355851-1787936063724-Ted_Lasso_Photo_040303.jpg?v=1787936142&w=1920&h=1080",
+      "id": "4e660d3a0889c76bd625920b03db005b",
+      "title": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-08-28T19:09:34.000Z",
+      "category": "crypto",
+      "published_at": "2026-08-27T17:09:32.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/aa67c37eb87c5765c9d4f8642d210a20.json"
+      "path": "articles/4e660d3a0889c76bd625920b03db005b.json"
     },
     {
-      "id": "a48bcdf30132088623f76a63fc30ed61",
-      "title": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues",
-      "image": "https://image.cnbcfm.com/api/v1/image/108314498-1780317990187-gettyimages-2278514474-TAIWAN_COMPUTEX.jpeg?v=1780318027&w=1920&h=1080",
+      "id": "5e076977c168849cda98b066d3476092",
+      "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
+      "image": "https://image.cnbcfm.com/api/v1/image/106604367-15940511662020-07-06t155742z_973713548_rc2rnh95wxb6_rtrmadp_0_health-coronavirus-canada-usa.jpeg?v=1787989867&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -59,10 +76,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-08-30T23:26:35.000Z",
+      "published_at": "2026-08-30T13:00:01.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/a48bcdf30132088623f76a63fc30ed61.json"
+      "path": "articles/5e076977c168849cda98b066d3476092.json"
     },
     {
       "id": "1f1fffc500f5ab2e4e9d4876a2d87c25",

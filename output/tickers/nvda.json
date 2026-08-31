@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-31T14:01:05.049Z",
+  "updated_at": "2026-08-31T14:15:36.338Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
-      "id": "4e660d3a0889c76bd625920b03db005b",
-      "title": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI",
-      "description": "The chipmaker's reported acquisition would concentrate the open-source AI pipeline inside one company, from silicon to distribution — with consequences for builders and users alike.",
+      "id": "bcc3de811d5ef9853a3792da86481e23",
+      "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
+      "description": "Three consortia will run the service, sharing up to 512 Nvidia B200 chips supplied by the state, with beta testing due in September.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://decrypt.co/376725/nvidia-acquisition-hugging-reshape-open-source-ai",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png@png",
+      "url": "https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -37,8 +37,24 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-08-27T17:09:32.000Z",
+      "published_at": "2026-08-31T14:03:39.000Z",
       "related": [
+        {
+          "id": "4e660d3a0889c76bd625920b03db005b",
+          "title": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-27T17:09:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4e660d3a0889c76bd625920b03db005b.json"
+        },
         {
           "id": "5109d2ebd1f3685dc8e78a3e2575f75a",
           "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
@@ -102,11 +118,47 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/7cbacd604b2c0dd9a0da7d173ce5e653.json"
+        }
+      ],
+      "path": "articles/bcc3de811d5ef9853a3792da86481e23.json"
+    },
+    {
+      "id": "4e660d3a0889c76bd625920b03db005b",
+      "title": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI",
+      "description": "The chipmaker's reported acquisition would concentrate the open-source AI pipeline inside one company, from silicon to distribution — with consequences for builders and users alike.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/376725/nvidia-acquisition-hugging-reshape-open-source-ai",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
         },
         {
-          "id": "1e275ea9ebacb3caaca83309b407477f",
-          "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/white-house-podium-decrypt-style-gID_7.png@png",
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-27T17:09:32.000Z",
+      "related": [
+        {
+          "id": "bcc3de811d5ef9853a3792da86481e23",
+          "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -114,10 +166,74 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-30T23:31:03.000Z",
+          "published_at": "2026-08-31T14:03:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1e275ea9ebacb3caaca83309b407477f.json"
+          "path": "articles/bcc3de811d5ef9853a3792da86481e23.json"
+        },
+        {
+          "id": "5109d2ebd1f3685dc8e78a3e2575f75a",
+          "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-31T12:37:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/5109d2ebd1f3685dc8e78a3e2575f75a.json"
+        },
+        {
+          "id": "37b76d2ec0b092fff7b045f2683194f9",
+          "title": "Strategy Buys $370M of Bitcoin in First Purchase Since June",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/michael-saylor-bitcoin-lightning-x-twitter-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-31T12:27:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/37b76d2ec0b092fff7b045f2683194f9.json"
+        },
+        {
+          "id": "4993787d646a1936e60a7446127edf54",
+          "title": "Ireland Bars Crypto From State Savings Scheme Targeting $203B in Deposits",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-31T11:10:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4993787d646a1936e60a7446127edf54.json"
+        },
+        {
+          "id": "7cbacd604b2c0dd9a0da7d173ce5e653",
+          "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-31T09:41:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/7cbacd604b2c0dd9a0da7d173ce5e653.json"
         }
       ],
       "path": "articles/4e660d3a0889c76bd625920b03db005b.json"

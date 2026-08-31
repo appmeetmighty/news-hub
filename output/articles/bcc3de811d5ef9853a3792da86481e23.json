@@ -1,11 +1,11 @@
 {
-  "id": "ac3ee0d644a721fc098a4a6b7e12d700",
-  "title": "Google’s Android 17 Turns On New Privacy Feature—But Your Browsing Isn’t Fully Hidden",
-  "description": "Google's new privacy standard scrambles the one field of a web request that still travels in the clear: the name of the site being opened.",
+  "id": "bcc3de811d5ef9853a3792da86481e23",
+  "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
+  "description": "Three consortia will run the service, sharing up to 512 Nvidia B200 chips supplied by the state, with beta testing due in September.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://decrypt.co/376760/google-android-17-privacy-encrypted-client-hello",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
+  "url": "https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens",
+  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
   "source": {
     "id": "decrypt",
     "name": "Decrypt",
@@ -15,36 +15,26 @@
   "category": "crypto",
   "entities": [
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
       "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com"
-    }
-  ],
-  "published_at": "2026-08-27T22:06:05.000Z",
-  "related": [
-    {
-      "id": "02c110ca275bf5fd024008fe9f4d0c4a",
-      "title": "Bitcoin Privacy Wallet Sparrow Issues Update After AI Flags Fixes",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-27T21:36:05.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/02c110ca275bf5fd024008fe9f4d0c4a.json"
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
     },
     {
-      "id": "bcc3de811d5ef9853a3792da86481e23",
-      "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-08-31T14:03:39.000Z",
+  "related": [
+    {
+      "id": "4e660d3a0889c76bd625920b03db005b",
+      "title": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -52,10 +42,10 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-08-31T14:03:39.000Z",
+      "published_at": "2026-08-27T17:09:32.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/bcc3de811d5ef9853a3792da86481e23.json"
+      "path": "articles/4e660d3a0889c76bd625920b03db005b.json"
     },
     {
       "id": "5109d2ebd1f3685dc8e78a3e2575f75a",
@@ -104,6 +94,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/4993787d646a1936e60a7446127edf54.json"
+    },
+    {
+      "id": "7cbacd604b2c0dd9a0da7d173ce5e653",
+      "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-31T09:41:27.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 60,
+      "path": "articles/7cbacd604b2c0dd9a0da7d173ce5e653.json"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T13:45:37.910Z",
+  "updated_at": "2026-08-31T19:46:25.157Z",
   "id": "msft",
   "symbol": "MSFT",
   "name": "Microsoft",
@@ -7,20 +7,20 @@
   "total": 1,
   "articles": [
     {
-      "id": "0a05b7edbbaaa8568ad2f58463e82ae1",
-      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "description": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
+      "id": "535395d6937efbb8b78e041a119c6ba9",
+      "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages ",
+      "description": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online.",
       "reading_time_minutes": 1,
-      "breaking_score": 40,
-      "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?v=1761347922&w=1920&h=1080",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
         {
           "id": "msft",
@@ -29,92 +29,100 @@
           "type": "company",
           "path": "tickers/msft.json",
           "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
         }
       ],
-      "published_at": "2026-08-22T17:31:03.000Z",
+      "published_at": "2026-08-31T19:31:07.000Z",
       "related": [
         {
-          "id": "9633ab4c406c7330b2763a8ccc1e689f",
-          "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ECB-gID_7.jpg@png",
+          "id": "1329383c1dd0e0d5a0f30d6720048dcf",
+          "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
+          "image": "https://image.cnbcfm.com/api/v1/image/108343087-17854985552026-07-30t192440z_128594779_rc2jomayicqj_rtrmadp_0_usa-trump-altman.jpeg?v=1785498573&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-26T12:51:03.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-31T16:33:46.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9633ab4c406c7330b2763a8ccc1e689f.json"
+          "path": "articles/1329383c1dd0e0d5a0f30d6720048dcf.json"
         },
         {
-          "id": "3d1170e8b06660f12820b12efa327663",
-          "title": "Revolut Launches Euro-Pegged EURR Stablecoin",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg@png",
+          "id": "23c5540cd599e247f82fbb44a6957e30",
+          "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+          "image": "https://image.cnbcfm.com/api/v1/image/108299329-17774844982026-04-29t174052z_1503926160_rc21zka40miz_rtrmadp_0_musk-openai-court.jpeg?v=1777484582&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-26T12:31:13.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-29T19:06:22.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3d1170e8b06660f12820b12efa327663.json"
+          "path": "articles/23c5540cd599e247f82fbb44a6957e30.json"
         },
         {
-          "id": "b58dabd774b5e0c6f10a1a7b1e2e4530",
-          "title": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/LayerZero_Logo_Full-gID_7.jpg@png",
+          "id": "b8906bd10b714edcbfc950173ffe7054",
+          "title": "Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel Securities",
+          "image": "https://image.cnbcfm.com/api/v1/image/108325892-1782269424077-gettyimages-2208582958-TRADERS_CBOE.jpeg?v=1782303324&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-26T11:50:27.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-31T19:25:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b58dabd774b5e0c6f10a1a7b1e2e4530.json"
+          "path": "articles/b8906bd10b714edcbfc950173ffe7054.json"
         },
         {
-          "id": "83088818292b82a43f14f0652c585f64",
-          "title": "Roman Storm's Tornado Cash Retrial Pushed to April 2027",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png@png",
+          "id": "cfd3ca58601a1d81cab1498213045d78",
+          "title": "Brent jumps above $90 after flare-up in U.S.-Iran hostilities",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347819-1786452008208-gettyimages-2289371437-AFP_C4CF39M.jpeg?v=1786452035&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-26T10:42:35.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-31T19:44:53.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/83088818292b82a43f14f0652c585f64.json"
+          "path": "articles/cfd3ca58601a1d81cab1498213045d78.json"
         },
         {
-          "id": "63a46ae8de7c10c0775c4983d7e76e1d",
-          "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
+          "id": "05b5f758eee0e2e98ae27545921b2755",
+          "title": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers",
+          "image": "https://image.cnbcfm.com/api/v1/image/108262089-1770316901095-gettyimages-2259128608-AMAZON_EARNS.jpeg?v=1773702987&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-25T22:16:03.000Z",
+          "category": "stocks",
+          "published_at": "2026-08-31T19:44:16.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/63a46ae8de7c10c0775c4983d7e76e1d.json"
+          "breaking_score": 25,
+          "path": "articles/05b5f758eee0e2e98ae27545921b2755.json"
         }
       ],
-      "path": "articles/0a05b7edbbaaa8568ad2f58463e82ae1.json"
+      "path": "articles/535395d6937efbb8b78e041a119c6ba9.json"
     }
   ]
 }

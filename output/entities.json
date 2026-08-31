@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T18:45:34.146Z",
-  "total": 23,
+  "updated_at": "2026-08-31T19:01:03.733Z",
+  "total": 24,
   "entities": [
     {
       "id": "btc",
@@ -9,14 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 38
+      "count": 37
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 29
+      "count": 30
     },
     {
       "id": "ai",
@@ -33,6 +33,15 @@
       "count": 12
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 10
+    },
+    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -42,13 +51,13 @@
       "count": 10
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 9
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "blockchain",
@@ -58,11 +67,9 @@
       "count": 7
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 6
     },
@@ -74,13 +81,6 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 6
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "openai",
@@ -126,13 +126,13 @@
       "count": 2
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
       "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 2
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 1
     },
     {
       "id": "gemini",
@@ -173,6 +173,15 @@
       "type": "company",
       "path": "tickers/spacex.json",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
       "count": 1
     },
     {

@@ -1,11 +1,11 @@
 {
-  "id": "dc89d476fa1399fd7472b36a72d06352",
-  "title": "Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for",
-  "description": "A federal lawsuit claims that fuel distributor KRSM failed to pay for $4 million worth of fuel, some of which the company sold to the Freedom Fuel network.",
+  "id": "05b5f758eee0e2e98ae27545921b2755",
+  "title": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers",
+  "description": "The FTC sued Amazon, alleging the company misled advertisers through a deceptive auctioning system.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108356137-1788109538992-AP26191544272681.jpg?v=1788109647&w=1920&h=1080",
+  "breaking_score": 25,
+  "url": "https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108262089-1770316901095-gettyimages-2259128608-AMAZON_EARNS.jpeg?v=1773702987&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,25 +13,18 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-30T18:06:41.000Z",
-  "related": [
+  "entities": [
     {
-      "id": "05b5f758eee0e2e98ae27545921b2755",
-      "title": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers",
-      "image": "https://image.cnbcfm.com/api/v1/image/108262089-1770316901095-gettyimages-2259128608-AMAZON_EARNS.jpeg?v=1773702987&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-31T18:55:30.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 25,
-      "path": "articles/05b5f758eee0e2e98ae27545921b2755.json"
-    },
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com"
+    }
+  ],
+  "published_at": "2026-08-31T18:55:30.000Z",
+  "related": [
     {
       "id": "0d29ea11bdeff7044350eadb93595fae",
       "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
@@ -95,6 +88,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/9d9a5d372c2fcc1e2571330838515a26.json"
+    },
+    {
+      "id": "e0c8c5a538b8921c250f93464544042e",
+      "title": "Lilly taps obesity windfall for more M&A. Plus, Elon Musk remarks pull GE Vernova lower",
+      "image": "https://image.cnbcfm.com/api/v1/image/108222575-1762455192681-gettyimages-2244850883-AFP_83BB78P.jpeg?v=1775067290&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-08-31T18:27:11.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/e0c8c5a538b8921c250f93464544042e.json"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T11:01:04.918Z",
-  "total": 24,
+  "updated_at": "2026-08-31T11:15:32.895Z",
+  "total": 25,
   "entities": [
     {
       "id": "btc",
@@ -9,14 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 34
+      "count": 35
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 21
+      "count": 23
     },
     {
       "id": "ai",
@@ -42,13 +42,6 @@
       "count": 8
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 8
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -58,20 +51,18 @@
       "count": 8
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 7
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
-      "count": 5
+      "count": 6
     },
     {
       "id": "meta",
@@ -90,6 +81,15 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 5
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "gold",
@@ -151,6 +151,15 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "defi",

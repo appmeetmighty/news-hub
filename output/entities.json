@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T12:45:33.731Z",
-  "total": 25,
+  "updated_at": "2026-08-31T13:01:05.829Z",
+  "total": 24,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 38
+      "count": 39
     },
     {
       "id": "crypto",
@@ -23,7 +23,14 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 16
+      "count": 15
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 11
     },
     {
       "id": "eth",
@@ -32,14 +39,16 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 11
+      "count": 10
     },
     {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 11
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 9
     },
     {
       "id": "sol",
@@ -58,13 +67,13 @@
       "count": 7
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 7
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "stablecoin",
@@ -72,15 +81,6 @@
       "type": "topic",
       "icon": "",
       "count": 6
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 4
     },
     {
       "id": "meta",
@@ -191,15 +191,6 @@
       "type": "company",
       "path": "tickers/v.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "bnb",
-      "symbol": "BNB",
-      "name": "BNB",
-      "type": "crypto",
-      "path": "tickers/bnb.json",
-      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
       "count": 1
     },
     {

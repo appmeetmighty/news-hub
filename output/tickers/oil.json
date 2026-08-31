@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-31T15:45:37.836Z",
+  "updated_at": "2026-08-31T16:01:09.750Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "633f50af81381bdc46fdc47fd6412a29",
@@ -33,6 +33,22 @@
       ],
       "published_at": "2026-08-31T15:33:30.000Z",
       "related": [
+        {
+          "id": "cfd3ca58601a1d81cab1498213045d78",
+          "title": "Brent jumps 3% to above $90 after flare-up in U.S.-Iran hostilities",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347819-1786452008208-gettyimages-2289371437-AFP_C4CF39M.jpeg?v=1786452035&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-31T12:33:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cfd3ca58601a1d81cab1498213045d78.json"
+        },
         {
           "id": "c2dc24471b3e03744e4ba736e7b6af40",
           "title": "U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024",
@@ -96,11 +112,41 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/04d537bf8dd8c8c670f2907df4cc8b8f.json"
-        },
+        }
+      ],
+      "path": "articles/633f50af81381bdc46fdc47fd6412a29.json"
+    },
+    {
+      "id": "cfd3ca58601a1d81cab1498213045d78",
+      "title": "Brent jumps 3% to above $90 after flare-up in U.S.-Iran hostilities",
+      "description": "Oil prices moved higher Monday, after the U.S. struck Iranian targets for the first time in weeks.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108347819-1786452008208-gettyimages-2289371437-AFP_C4CF39M.jpeg?v=1786452035&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
         {
-          "id": "28fa35613a78c0ef59ed5b7a51d10210",
-          "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
-          "image": "https://image.cnbcfm.com/api/v1/image/108356164-1788133531414-gettyimages-2292268542-AA_30082026_2933783.jpeg?v=1788133636&w=1920&h=1080",
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-08-31T12:33:57.000Z",
+      "related": [
+        {
+          "id": "633f50af81381bdc46fdc47fd6412a29",
+          "title": "Trump warns 'we're going to hit them hard' after Iran targets U.S. forces in Jordan: Report",
+          "image": "https://image.cnbcfm.com/api/v1/image/108352273-17872451872026-08-20t165456z_874129621_rc2k0na5imb6_rtrmadp_0_iran-crisis-usa-carrier.jpeg?v=1788126071&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -108,13 +154,77 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-31T04:57:24.000Z",
+          "published_at": "2026-08-31T15:33:30.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/28fa35613a78c0ef59ed5b7a51d10210.json"
+          "path": "articles/633f50af81381bdc46fdc47fd6412a29.json"
+        },
+        {
+          "id": "c2dc24471b3e03744e4ba736e7b6af40",
+          "title": "U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-31T10:44:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c2dc24471b3e03744e4ba736e7b6af40.json"
+        },
+        {
+          "id": "5d748ff0b2bb49e212e61a0c6789e4f5",
+          "title": "Live updates: Bitcoin trades near $78,000; Strategy buys BTC for first time since late June",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-31T08:18:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5d748ff0b2bb49e212e61a0c6789e4f5.json"
+        },
+        {
+          "id": "937702a1fa2348e977068b40cfa77d03",
+          "title": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-31T04:29:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/937702a1fa2348e977068b40cfa77d03.json"
+        },
+        {
+          "id": "af93082aac6917abbe7910926e3ab650",
+          "title": "U.S.-Iran escalation shows Washington's frustration with slow-moving sanctions",
+          "image": "https://image.cnbcfm.com/api/v1/image/108311028-1779432514944-gettyimages-2276029086-3e7a6436.jpeg?v=1779432590&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-08-31T06:59:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/af93082aac6917abbe7910926e3ab650.json"
         }
       ],
-      "path": "articles/633f50af81381bdc46fdc47fd6412a29.json"
+      "path": "articles/cfd3ca58601a1d81cab1498213045d78.json"
     },
     {
       "id": "c2dc24471b3e03744e4ba736e7b6af40",

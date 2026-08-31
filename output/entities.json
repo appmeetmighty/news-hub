@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T15:45:37.846Z",
+  "updated_at": "2026-08-31T16:01:09.759Z",
   "total": 23,
   "entities": [
     {
@@ -9,21 +9,30 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 40
+      "count": 38
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 27
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 14
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 11
     },
     {
       "id": "regulation",
@@ -33,22 +42,13 @@
       "count": 11
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 10
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 9
+      "count": 10
     },
     {
       "id": "blockchain",
@@ -67,20 +67,20 @@
       "count": 6
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "meta",

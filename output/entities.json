@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T18:01:05.202Z",
+  "updated_at": "2026-09-01T18:15:37.225Z",
   "total": 25,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 31
+      "count": 29
     },
     {
       "id": "btc",
@@ -16,7 +16,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 30
+      "count": 29
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 17
     },
     {
       "id": "ai",
@@ -24,13 +31,6 @@
       "type": "topic",
       "icon": "",
       "count": 17
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 16
     },
     {
       "id": "mstr",
@@ -42,13 +42,20 @@
       "count": 9
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 7
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 8
+      "count": 7
     },
     {
       "id": "oil",
@@ -76,13 +83,6 @@
       "count": 6
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -95,6 +95,15 @@
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
     },
@@ -135,30 +144,21 @@
       "count": 2
     },
     {
-      "id": "amzn",
-      "symbol": "AMZN",
-      "name": "Amazon",
-      "type": "company",
-      "path": "tickers/amzn.json",
-      "icon": "https://logo.clearbit.com/amazon.com",
-      "count": 2
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "aapl",
       "symbol": "AAPL",
       "name": "Apple",
       "type": "company",
       "path": "tickers/aapl.json",
       "icon": "https://logo.clearbit.com/apple.com",
+      "count": 1
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
       "count": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:30:50.921Z",
+  "updated_at": "2026-09-01T21:45:34.197Z",
   "total": 24,
   "entities": [
     {
@@ -16,7 +16,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 30
+      "count": 29
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 18
     },
     {
       "id": "regulation",
@@ -24,13 +31,6 @@
       "type": "topic",
       "icon": "",
       "count": 18
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 17
     },
     {
       "id": "mstr",
@@ -99,6 +99,15 @@
       "count": 4
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 3
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -132,15 +141,6 @@
       "type": "company",
       "path": "tickers/c.json",
       "icon": "",
-      "count": 2
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 2
     },
     {

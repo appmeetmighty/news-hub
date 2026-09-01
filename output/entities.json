@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T06:45:36.168Z",
+  "updated_at": "2026-09-01T07:01:18.865Z",
   "total": 24,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 36
+      "count": 35
     },
     {
       "id": "crypto",
@@ -30,7 +30,16 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 12
+      "count": 13
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 10
     },
     {
       "id": "eth",
@@ -40,15 +49,6 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 10
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 9
     },
     {
       "id": "mstr",
@@ -92,22 +92,13 @@
       "count": 4
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 2
+      "count": 3
     },
     {
       "id": "anthropic",
@@ -122,6 +113,15 @@
       "id": "mining",
       "name": "Mining",
       "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
       "icon": "",
       "count": 2
     },

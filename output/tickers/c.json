@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T03:01:07.237Z",
+  "updated_at": "2026-09-01T15:45:38.961Z",
   "id": "c",
   "symbol": "C",
   "name": "Citigroup",
@@ -7,21 +7,29 @@
   "total": 1,
   "articles": [
     {
-      "id": "6549055a939e4d2868c515d29f8193ca",
-      "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-      "description": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
+      "id": "8febc48aa0ace481ae57fc3988a6943f",
+      "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+      "description": "The group will focus first on a U.S. dollar stablecoin for payments and digital asset settlement, with a euro token a priority for expansion.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108350603-1786995898579-Scharf_Fraser.jpg?v=1786995981&w=1920&h=1080",
+      "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+      "image": "",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "gs",
+          "symbol": "GS",
+          "name": "Goldman Sachs",
+          "type": "company",
+          "path": "tickers/gs.json",
+          "icon": ""
+        },
         {
           "id": "c",
           "symbol": "C",
@@ -29,92 +37,104 @@
           "type": "company",
           "path": "tickers/c.json",
           "icon": ""
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "stablecoin",
+          "name": "Stablecoin",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-08-24T15:22:09.000Z",
+      "published_at": "2026-09-01T15:36:27.000Z",
       "related": [
         {
-          "id": "fcbc16d89ac3b5175a1b706df865fbb0",
-          "title": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
-          "image": "https://image.cnbcfm.com/api/v1/image/108352551-1787290612574-20260821_121048.jpg?v=1787291113&w=1920&h=1080",
+          "id": "c833749889c0bd8432f96c0f68e105ae",
+          "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-24T23:00:01.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-01T10:35:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/fcbc16d89ac3b5175a1b706df865fbb0.json"
+          "path": "articles/c833749889c0bd8432f96c0f68e105ae.json"
         },
         {
-          "id": "07e714c0f3e119c27c5b127246603eeb",
-          "title": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
-          "image": "https://image.cnbcfm.com/api/v1/image/108283781-1774564627659-gettyimages-2266129945-International_Gold_Price.jpeg?v=1776689017&w=1920&h=1080",
+          "id": "a612cfa3e27c7618fe263d40cad66a9c",
+          "title": "Kast launches stablecoin-powered business platform after $80M raise",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DR788HHX4D0SDFTZCJG3HN/stable.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-25T02:28:00.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-01T13:00:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/07e714c0f3e119c27c5b127246603eeb.json"
+          "path": "articles/a612cfa3e27c7618fe263d40cad66a9c.json"
         },
         {
-          "id": "b47dd56ad3f5e07c8003be20338a07a3",
-          "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-          "image": "https://image.cnbcfm.com/api/v1/image/108238393-1765214232072-108238393-1765211822234-gettyimages-2250111360-PARAMOUNT_NYSE.jpeg?v=1770743687&w=1920&h=1080",
+          "id": "4638b724402b88c149c3f3a86d64e45f",
+          "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3FQ7QVW5EGFFBWY7YXEK7/bitfinex-s.png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-25T00:05:29.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-01T10:00:00.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b47dd56ad3f5e07c8003be20338a07a3.json"
+          "breaking_score": 25,
+          "path": "articles/4638b724402b88c149c3f3a86d64e45f.json"
         },
         {
-          "id": "aebbde3c22ec396307f396f59d8829e0",
-          "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
-          "image": "https://image.cnbcfm.com/api/v1/image/108141052-1746462162675-gettyimages-2202369468-2025_nba_0226_pistonsvceltics_19.jpeg?v=1746462341&w=1920&h=1080",
+          "id": "c82b11f2db8f82d1fb47ce4bfa2806aa",
+          "title": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-08-24T23:48:50.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-31T18:46:04.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/aebbde3c22ec396307f396f59d8829e0.json"
+          "path": "articles/c82b11f2db8f82d1fb47ce4bfa2806aa.json"
         },
         {
-          "id": "f669d4831d67a42351e335e34b42b64b",
-          "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-          "image": "https://image.cnbcfm.com/api/v1/image/108352965-1787579279135-108352965-1787345577093-gettyimages-2290821906-AFP_C69G2KC.jpeg?v=1787579300&w=1920&h=1080",
+          "id": "89b517bb499d7e6bb2f3e3c15c9cf05f",
+          "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-08-24T23:27:01.000Z",
+          "category": "crypto",
+          "published_at": "2026-08-30T09:55:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/f669d4831d67a42351e335e34b42b64b.json"
+          "path": "articles/89b517bb499d7e6bb2f3e3c15c9cf05f.json"
         }
       ],
-      "path": "articles/6549055a939e4d2868c515d29f8193ca.json"
+      "path": "articles/8febc48aa0ace481ae57fc3988a6943f.json"
     }
   ]
 }

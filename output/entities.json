@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T15:30:51.037Z",
-  "total": 25,
+  "updated_at": "2026-09-01T15:45:38.970Z",
+  "total": 26,
   "entities": [
     {
       "id": "btc",
@@ -16,18 +16,18 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 30
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 16
+      "count": 31
     },
     {
       "id": "ai",
       "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 17
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
       "type": "topic",
       "icon": "",
       "count": 16
@@ -48,7 +48,7 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 9
+      "count": 8
     },
     {
       "id": "oil",
@@ -58,6 +58,13 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 7
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "xrp",
@@ -76,13 +83,6 @@
       "count": 6
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -92,6 +92,15 @@
       "count": 5
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 4
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -99,21 +108,12 @@
       "count": 3
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
       "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 3
-    },
-    {
-      "id": "amzn",
-      "symbol": "AMZN",
-      "name": "Amazon",
-      "type": "company",
-      "path": "tickers/amzn.json",
-      "icon": "https://logo.clearbit.com/amazon.com",
+      "path": "tickers/openai.json",
+      "icon": "",
       "count": 2
     },
     {
@@ -124,6 +124,33 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 1
     },
     {
       "id": "aapl",
@@ -140,15 +167,6 @@
       "name": "Qualcomm",
       "type": "company",
       "path": "tickers/qcom.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
       "icon": "",
       "count": 1
     },
@@ -182,15 +200,6 @@
       "type": "crypto",
       "path": "tickers/doge.json",
       "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
-      "count": 1
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
       "count": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T20:01:01.493Z",
+  "updated_at": "2026-09-01T20:15:32.583Z",
   "total": 24,
   "entities": [
     {
@@ -19,18 +19,18 @@
       "count": 30
     },
     {
-      "id": "regulation",
-      "name": "Regulation",
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 17
     },
     {
-      "id": "ai",
-      "name": "AI",
+      "id": "regulation",
+      "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 16
+      "count": 17
     },
     {
       "id": "mstr",
@@ -58,15 +58,6 @@
       "count": 7
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -83,6 +74,22 @@
       "count": 6
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 5
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
@@ -92,11 +99,13 @@
       "count": 4
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
-      "count": 4
+      "count": 3
     },
     {
       "id": "sol",
@@ -114,15 +123,6 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
-      "count": 2
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
       "count": 2
     },
     {
@@ -153,6 +153,13 @@
       "count": 2
     },
     {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "aapl",
       "symbol": "AAPL",
       "name": "Apple",
@@ -168,13 +175,6 @@
       "type": "company",
       "path": "tickers/amzn.json",
       "icon": "https://logo.clearbit.com/amazon.com",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
-      "icon": "",
       "count": 1
     },
     {

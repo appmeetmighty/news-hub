@@ -1,11 +1,11 @@
 {
-  "id": "2e5505b4a17ed32613a824d2bb0a87e2",
-  "title": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
-  "description": "Waymo is bringing driverless rides to three more cities, and Amazon plans to start testing in two additional U.S. markets.",
+  "id": "b5005473c8a18ec7639ea6dbdddf6aa6",
+  "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
+  "description": "OpenAI said it will make Astra available \"soon,\" but access to its cybersecurity capabilities will be limited.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108313235-1779981122408-gettyimages-2277937156-1556420-fi-waymo-ojai-ajs-17.jpeg?v=1779981207&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108316427-1780524884815-gettyimages-2278945689-AFP_B4XB779.jpeg?v=1780524953&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,20 +15,26 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "amzn",
-      "symbol": "AMZN",
-      "name": "Amazon",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
       "type": "company",
-      "path": "tickers/amzn.json",
-      "icon": "https://logo.clearbit.com/amazon.com"
+      "path": "tickers/openai.json",
+      "icon": ""
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
     }
   ],
-  "published_at": "2026-09-01T14:00:01.000Z",
+  "published_at": "2026-09-01T20:12:35.000Z",
   "related": [
     {
-      "id": "44f45b68d26e02e8bc64456c84c385b7",
-      "title": "Toyota's hybrid RAV4 is in demand as dealers wait for more supply",
-      "image": "https://image.cnbcfm.com/api/v1/image/108356356-1788182025660-gettyimages-2267901553-CANADA_AUTO_SHOW.jpeg?v=1788182059&w=1920&h=1080",
+      "id": "415c1fa24c79f198e192b362160e1ef0",
+      "title": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI",
+      "image": "https://image.cnbcfm.com/api/v1/image/108276820-1777376999878-108276820-1773254804461-gettyimages-2265991721-0d6a8214_gmhkj3wc.jpg?v=1777377010&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -36,10 +42,26 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-01T12:00:01.000Z",
+      "published_at": "2026-09-01T16:40:27.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/44f45b68d26e02e8bc64456c84c385b7.json"
+      "path": "articles/415c1fa24c79f198e192b362160e1ef0.json"
+    },
+    {
+      "id": "ea7b7370d2d79155799ddf719800a534",
+      "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-01T06:52:10.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/ea7b7370d2d79155799ddf719800a534.json"
     },
     {
       "id": "92b99bcf426c2ae452a31a10e6e7f437",
@@ -56,22 +78,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/92b99bcf426c2ae452a31a10e6e7f437.json"
-    },
-    {
-      "id": "b5005473c8a18ec7639ea6dbdddf6aa6",
-      "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
-      "image": "https://image.cnbcfm.com/api/v1/image/108316427-1780524884815-gettyimages-2278945689-AFP_B4XB779.jpeg?v=1780524953&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-01T20:12:35.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/b5005473c8a18ec7639ea6dbdddf6aa6.json"
     },
     {
       "id": "31830eb8e96b9876b804bc8c868e4b72",

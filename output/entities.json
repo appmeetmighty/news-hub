@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-01T16:45:34.758Z",
+  "updated_at": "2026-09-01T17:01:06.177Z",
   "total": 25,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 31
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 32
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 31
     },
     {
@@ -39,7 +39,7 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 10
+      "count": 9
     },
     {
       "id": "eth",
@@ -60,6 +60,13 @@
       "count": 7
     },
     {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
@@ -74,13 +81,6 @@
       "type": "topic",
       "icon": "",
       "count": 6
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "sol",
@@ -117,6 +117,24 @@
       "count": 2
     },
     {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "amzn",
       "symbol": "AMZN",
       "name": "Amazon",
@@ -141,24 +159,6 @@
       "type": "company",
       "path": "tickers/aapl.json",
       "icon": "https://logo.clearbit.com/apple.com",
-      "count": 1
-    },
-    {
-      "id": "gs",
-      "symbol": "GS",
-      "name": "Goldman Sachs",
-      "type": "company",
-      "path": "tickers/gs.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "c",
-      "symbol": "C",
-      "name": "Citigroup",
-      "type": "company",
-      "path": "tickers/c.json",
-      "icon": "",
       "count": 1
     },
     {

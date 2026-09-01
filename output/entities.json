@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T14:01:06.950Z",
+  "updated_at": "2026-09-01T14:15:35.516Z",
   "total": 25,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 34
+      "count": 35
     },
     {
       "id": "crypto",
@@ -60,6 +60,15 @@
       "count": 8
     },
     {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 6
+    },
+    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
@@ -74,15 +83,6 @@
       "count": 6
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 5
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -90,6 +90,13 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 5
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "nvda",
@@ -110,20 +117,13 @@
       "count": 2
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 1
+      "count": 2
     },
     {
       "id": "aapl",

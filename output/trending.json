@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-01T09:30:50.918Z",
+  "updated_at": "2026-09-01T09:45:33.292Z",
   "articles": {
-    "generated_at": "2026-09-01T09:30:50.918Z",
+    "generated_at": "2026-09-01T09:45:33.292Z",
     "topics": [
       {
         "id": "btc",
@@ -604,7 +604,7 @@
         "name": "Oil",
         "type": "commodity",
         "icon": "",
-        "count": 11,
+        "count": 10,
         "articles": [
           {
             "id": "3fe9954e78bf192e3c42d9d5d8a64ea7",
@@ -617,7 +617,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-09-01T08:25:45.000Z",
+            "published_at": "2026-09-01T09:40:28.000Z",
             "path": "articles/3fe9954e78bf192e3c42d9d5d8a64ea7.json"
           },
           {
@@ -661,20 +661,6 @@
             "category": "stocks",
             "published_at": "2026-09-01T00:49:51.000Z",
             "path": "articles/09d8c09eb0f7ce87b3bfc5518e1ea41b.json"
-          },
-          {
-            "id": "0d29ea11bdeff7044350eadb93595fae",
-            "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
-            "image": "https://image.cnbcfm.com/api/v1/image/108353493-1787598365293-gettyimages-2291340917-TRUMP_SCHOOL_CHOICE.jpeg?v=1787598388&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-08-31T21:22:08.000Z",
-            "path": "articles/0d29ea11bdeff7044350eadb93595fae.json"
           },
           {
             "id": "2c88ee8c5309c7d7a7599f7dfc6be820",
@@ -745,6 +731,20 @@
             "category": "crypto",
             "published_at": "2026-08-31T08:18:03.000Z",
             "path": "articles/5d748ff0b2bb49e212e61a0c6789e4f5.json"
+          },
+          {
+            "id": "937702a1fa2348e977068b40cfa77d03",
+            "title": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-31T04:29:10.000Z",
+            "path": "articles/937702a1fa2348e977068b40cfa77d03.json"
           }
         ]
       },
@@ -1377,6 +1377,57 @@
         ]
       },
       {
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
+        "icon": "",
+        "count": 3,
+        "articles": [
+          {
+            "id": "ea7b7370d2d79155799ddf719800a534",
+            "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-01T06:52:10.000Z",
+            "path": "articles/ea7b7370d2d79155799ddf719800a534.json"
+          },
+          {
+            "id": "535395d6937efbb8b78e041a119c6ba9",
+            "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages ",
+            "image": "https://image.cnbcfm.com/api/v1/image/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?v=1761347922&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-31T21:36:32.000Z",
+            "path": "articles/535395d6937efbb8b78e041a119c6ba9.json"
+          },
+          {
+            "id": "1329383c1dd0e0d5a0f30d6720048dcf",
+            "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
+            "image": "https://image.cnbcfm.com/api/v1/image/108343087-17854985552026-07-30t192440z_128594779_rc2jomayicqj_rtrmadp_0_usa-trump-altman.jpeg?v=1785498573&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-08-31T16:33:46.000Z",
+            "path": "articles/1329383c1dd0e0d5a0f30d6720048dcf.json"
+          }
+        ]
+      },
+      {
         "id": "nvda",
         "name": "NVIDIA",
         "type": "company",
@@ -1414,30 +1465,16 @@
         ]
       },
       {
-        "id": "openai",
-        "name": "OpenAI",
+        "id": "anthropic",
+        "name": "Anthropic",
         "type": "company",
         "icon": "",
         "count": 2,
         "articles": [
           {
-            "id": "ea7b7370d2d79155799ddf719800a534",
-            "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-01T06:52:10.000Z",
-            "path": "articles/ea7b7370d2d79155799ddf719800a534.json"
-          },
-          {
-            "id": "535395d6937efbb8b78e041a119c6ba9",
-            "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages ",
-            "image": "https://image.cnbcfm.com/api/v1/image/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?v=1761347922&w=1920&h=1080",
+            "id": "1329383c1dd0e0d5a0f30d6720048dcf",
+            "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
+            "image": "https://image.cnbcfm.com/api/v1/image/108343087-17854985552026-07-30t192440z_128594779_rc2jomayicqj_rtrmadp_0_usa-trump-altman.jpeg?v=1785498573&w=1920&h=1080",
             "source": {
               "id": "cnbc",
               "name": "CNBC",
@@ -1445,8 +1482,22 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-08-31T21:36:32.000Z",
-            "path": "articles/535395d6937efbb8b78e041a119c6ba9.json"
+            "published_at": "2026-08-31T16:33:46.000Z",
+            "path": "articles/1329383c1dd0e0d5a0f30d6720048dcf.json"
+          },
+          {
+            "id": "13640c432443c25393c179b8ead322f2",
+            "title": "Judge Rules Trump Administration Illegally Retaliated Against Anthropic Over AI Red Lines",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-08-28T10:11:34.000Z",
+            "path": "articles/13640c432443c25393c179b8ead322f2.json"
           }
         ]
       },
@@ -1751,29 +1802,6 @@
             "category": "crypto",
             "published_at": "2026-08-28T20:19:44.000Z",
             "path": "articles/fed02f8baa726e0bc19f9b2970a09322.json"
-          }
-        ]
-      },
-      {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "13640c432443c25393c179b8ead322f2",
-            "title": "Judge Rules Trump Administration Illegally Retaliated Against Anthropic Over AI Red Lines",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-08-28T10:11:34.000Z",
-            "path": "articles/13640c432443c25393c179b8ead322f2.json"
           }
         ]
       }

@@ -1,11 +1,11 @@
 {
-  "id": "18794e3cfcf8149f8fe79f962ef44e8c",
-  "title": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
-  "description": "CNBC's Jim Cramer said August was a comeback month for stocks that had been battered by bearish narratives.",
+  "id": "57656631fc6d12ffd26d895b0b3585a4",
+  "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
+  "description": "Last-mile delivery company OneRail is launching a new platform with Nvidia to use AI to help retailers make faster and more efficient delivery decisions.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/107109966-NUP_198430_00164r.jpg?v=1695081285&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108356412-1788186401084-gettyimages-2177629663-dsc02412.jpeg?v=1788186443&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,29 +13,28 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-31T23:23:38.000Z",
-  "related": [
+  "entities": [
     {
-      "id": "b8906bd10b714edcbfc950173ffe7054",
-      "title": "Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel Securities",
-      "image": "https://image.cnbcfm.com/api/v1/image/108325892-1782269424077-gettyimages-2208582958-TRADERS_CBOE.jpeg?v=1782303324&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-08-31T19:25:54.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/b8906bd10b714edcbfc950173ffe7054.json"
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
     },
     {
-      "id": "2bb17824313fc880ee4694c8b14eb834",
-      "title": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
-      "image": "https://image.cnbcfm.com/api/v1/image/108355815-1787932362659-145_Reade_Street_Pool_1.jpg?v=1787938116&w=1920&h=1080",
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-09-01T11:00:01.000Z",
+  "related": [
+    {
+      "id": "fe287d1229388f4a2a65a81afbde6f41",
+      "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
+      "image": "https://image.cnbcfm.com/api/v1/image/108356855-1788246442208-gettyimages-2215472003-AFP_47DA66K.jpeg?v=1788246564&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -43,10 +42,26 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-08-31T11:27:20.000Z",
+      "published_at": "2026-09-01T08:00:23.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 20,
-      "path": "articles/2bb17824313fc880ee4694c8b14eb834.json"
+      "breaking_score": 0,
+      "path": "articles/fe287d1229388f4a2a65a81afbde6f41.json"
+    },
+    {
+      "id": "bcc3de811d5ef9853a3792da86481e23",
+      "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-31T14:03:39.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/bcc3de811d5ef9853a3792da86481e23.json"
     },
     {
       "id": "3fe9954e78bf192e3c42d9d5d8a64ea7",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T10:30:54.304Z",
+  "updated_at": "2026-09-01T04:45:39.488Z",
   "id": "doge",
   "symbol": "DOGE",
   "name": "Dogecoin",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "b75d091be7dd5d2bdf93821c76799f00",
-      "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
-      "description": "Futures positioning has rebuilt to levels last seen when dogecoin traded at three times today's price, and more than three accounts are betting on a rebound for every one betting against.",
+      "id": "086c5adc1b5b3ad9fc843484340fce58",
+      "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+      "description": "Ether, solana, tron and dogecoin all shed ground over 24 hours while HYPE added about 4%, leaving bitcoin flat on the week after August's 24% run.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?auto=format&q=75",
+      "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+      "image": "",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -23,6 +23,22 @@
       "category": "crypto",
       "entities": [
         {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "sol",
+          "symbol": "SOL",
+          "name": "Solana",
+          "type": "crypto",
+          "path": "tickers/sol.json",
+          "icon": "https://assets.coincap.io/assets/icons/sol@2x.png"
+        },
+        {
           "id": "doge",
           "symbol": "DOGE",
           "name": "Dogecoin",
@@ -31,44 +47,28 @@
           "icon": "https://assets.coincap.io/assets/icons/doge@2x.png"
         }
       ],
-      "published_at": "2026-08-13T04:06:16.000Z",
+      "published_at": "2026-09-01T04:30:28.000Z",
       "related": [
         {
-          "id": "6aaceb71d4290699dece98acf9f3993a",
-          "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/acf831401ea851c7551eb13183b3f53d9be886a8-7146x4766.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "998893db2b8de16a17d7aef3b525b77c",
+          "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-08-13T17:43:25.000Z",
+          "published_at": "2026-08-28T16:39:02.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6aaceb71d4290699dece98acf9f3993a.json"
+          "path": "articles/998893db2b8de16a17d7aef3b525b77c.json"
         },
         {
-          "id": "2e92fb8245dd3e9650cbfb0f11311fc8",
-          "title": "Live updates: Bitcoin slips back even as Fed rate hike expectations dwindle",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8f2d1e697d155bc3963c5a14cfdf6d427890ced9-2894x1510.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-13T09:18:19.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 35,
-          "path": "articles/2e92fb8245dd3e9650cbfb0f11311fc8.json"
-        },
-        {
-          "id": "3e5acd17788284bcdf49b3912f7d51e4",
-          "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-wont-last-long-without-unlocking-bitcoins-treasure-chest-metaplanet-2.jpg",
+          "id": "4bbd02f517cd6c52a4b9dab7788f201b",
+          "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1ABTCJ2NCZ56B6Y07HVQZ2T/magazine-cover-collage.png",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -76,15 +76,31 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-13T04:15:26.000Z",
+          "published_at": "2026-08-30T23:36:16.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3e5acd17788284bcdf49b3912f7d51e4.json"
+          "path": "articles/4bbd02f517cd6c52a4b9dab7788f201b.json"
         },
         {
-          "id": "6f5098af1b3763291bf17288a45cd052",
-          "title": "Live updates: Bitcoin slips below $63,000 as oil, yields climb ",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bce0f33371330b08e2ce67dd4abee833c362a946-8000x4500.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "b7c3da9f2eb4bcd2b50d2cefddac3118",
+          "title": "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-08-31T16:55:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b7c3da9f2eb4bcd2b50d2cefddac3118.json"
+        },
+        {
+          "id": "fb3c347ce7425d217ecbb95b493e9e47",
+          "title": "Strategy returns to bitcoin buys, adding $370 million of BTC last week",
+          "image": "",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -92,15 +108,15 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-14T08:51:48.000Z",
+          "published_at": "2026-08-31T12:11:04.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6f5098af1b3763291bf17288a45cd052.json"
+          "path": "articles/fb3c347ce7425d217ecbb95b493e9e47.json"
         },
         {
-          "id": "640107c39c632cba4a9201e4a95fbbbe",
-          "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/08b73b53b7d99907e25db584d50c4b5d0065ff53-1920x1080.jpg?auto=format&q=75",
+          "id": "c2dc24471b3e03744e4ba736e7b6af40",
+          "title": "U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024",
+          "image": "",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -108,13 +124,13 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-08-14T07:14:37.000Z",
+          "published_at": "2026-08-31T10:44:52.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/640107c39c632cba4a9201e4a95fbbbe.json"
+          "path": "articles/c2dc24471b3e03744e4ba736e7b6af40.json"
         }
       ],
-      "path": "articles/b75d091be7dd5d2bdf93821c76799f00.json"
+      "path": "articles/086c5adc1b5b3ad9fc843484340fce58.json"
     }
   ]
 }

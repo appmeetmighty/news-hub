@@ -1,11 +1,11 @@
 {
-  "id": "bf5e279a26ad93969bf35847265b650b",
-  "title": "India’s economy expands 7.8% in fiscal first quarter, beating estimates",
-  "description": "The economy was driven by a strong performance in the financial, real estate, information technology and professional services sectors.",
+  "id": "fe287d1229388f4a2a65a81afbde6f41",
+  "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
+  "description": "The two companies will work on integrating Nvidia technology with MediaTek's custom AI chip business as well as other areas such as PCs and cars.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/08/31/india-economy-gdp-energy-el-nino.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108356254-1788162657843-gettyimages-2291600870-hazarika-notitle260826_npIVd.jpeg?v=1788162673&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108356855-1788246442208-gettyimages-2215472003-AFP_47DA66K.jpeg?v=1788246564&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,40 +13,47 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-08-31T11:23:42.000Z",
-  "related": [
+  "entities": [
     {
-      "id": "ed778555fb3ac8c1d1adf31061f64803",
-      "title": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen",
-      "image": "https://image.cnbcfm.com/api/v1/image/108351731-1787161820270-gettyimages-2276286002-AFP_B36C6KH.jpeg?v=1787161848&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-01T08:10:42.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/ed778555fb3ac8c1d1adf31061f64803.json"
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
     },
     {
-      "id": "fe287d1229388f4a2a65a81afbde6f41",
-      "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
-      "image": "https://image.cnbcfm.com/api/v1/image/108356855-1788246442208-gettyimages-2215472003-AFP_47DA66K.jpeg?v=1788246564&w=1920&h=1080",
+      "id": "qcom",
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "type": "company",
+      "path": "tickers/qcom.json",
+      "icon": ""
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-09-01T08:00:23.000Z",
+  "related": [
+    {
+      "id": "bcc3de811d5ef9853a3792da86481e23",
+      "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-09-01T08:00:23.000Z",
+      "category": "crypto",
+      "published_at": "2026-08-31T14:03:39.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/fe287d1229388f4a2a65a81afbde6f41.json"
+      "path": "articles/bcc3de811d5ef9853a3792da86481e23.json"
     },
     {
       "id": "0f66f210df863a54f02df6d228fe0781",
@@ -79,6 +86,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/3fe9954e78bf192e3c42d9d5d8a64ea7.json"
+    },
+    {
+      "id": "ed778555fb3ac8c1d1adf31061f64803",
+      "title": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen",
+      "image": "https://image.cnbcfm.com/api/v1/image/108351731-1787161820270-gettyimages-2276286002-AFP_B36C6KH.jpeg?v=1787161848&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-01T08:10:42.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/ed778555fb3ac8c1d1adf31061f64803.json"
     },
     {
       "id": "5f71cd9d9fbe412deecbc9d68ab1bbe2",

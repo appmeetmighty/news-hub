@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T13:01:03.518Z",
+  "updated_at": "2026-09-01T13:15:38.119Z",
   "total": 25,
   "entities": [
     {
@@ -33,15 +33,6 @@
       "count": 15
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 11
-    },
-    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -49,6 +40,15 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 11
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 10
     },
     {
       "id": "eth",
@@ -60,18 +60,18 @@
       "count": 10
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
+      "id": "stablecoin",
+      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 6
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 5
+      "count": 6
     },
     {
       "id": "sol",
@@ -111,15 +111,6 @@
       "id": "mining",
       "name": "Mining",
       "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
       "icon": "",
       "count": 2
     },
@@ -198,6 +189,15 @@
       "type": "company",
       "path": "tickers/amzn.json",
       "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 1
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
       "count": 1
     },
     {

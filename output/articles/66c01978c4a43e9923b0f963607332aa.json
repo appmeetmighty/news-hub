@@ -1,11 +1,11 @@
 {
-  "id": "50474e679c6c3f5659520419b4032543",
-  "title": "Students are reconsidering their majors, career paths and industries due to AI: CNBC survey ",
-  "description": "As AI continues to reshape industries, some students are wondering what their careers will look like once they graduate.",
+  "id": "66c01978c4a43e9923b0f963607332aa",
+  "title": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
+  "description": "Meta Platforms has become a battleground stock.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/01/students-are-reconsidering-majors-career-paths-due-to-ai-cnbc-survey.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108356535-1788195885329-gettyimages-2174212954-dsc01606.jpeg?v=1788196121&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/01/looking-for-evidence-that-metas-ai-investments-are-paying-off-here-are-2-ways.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108282828-1774447284388-gettyimages-2265766831-cros-notitle260305_npx66.jpeg?v=1788282183&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,14 +15,38 @@
   "category": "stocks",
   "entities": [
     {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com"
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-09-01T16:17:59.000Z",
+  "published_at": "2026-09-01T19:48:20.000Z",
   "related": [
+    {
+      "id": "fed02f8baa726e0bc19f9b2970a09322",
+      "title": "Meta Tests Robots to Handle Data Center Work",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-08-28T20:19:44.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/fed02f8baa726e0bc19f9b2970a09322.json"
+    },
     {
       "id": "ef1e7e3c5d5dc188d67055ac47ee3cd4",
       "title": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 38%",
@@ -38,22 +62,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/ef1e7e3c5d5dc188d67055ac47ee3cd4.json"
-    },
-    {
-      "id": "66c01978c4a43e9923b0f963607332aa",
-      "title": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
-      "image": "https://image.cnbcfm.com/api/v1/image/108282828-1774447284388-gettyimages-2265766831-cros-notitle260305_npx66.jpeg?v=1788282183&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-01T19:48:20.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/66c01978c4a43e9923b0f963607332aa.json"
     },
     {
       "id": "a2f4232ba6d390b224361e80c9ed017a",

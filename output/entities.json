@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T12:01:02.443Z",
-  "total": 24,
+  "updated_at": "2026-09-02T12:15:42.868Z",
+  "total": 25,
   "entities": [
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 29
+      "count": 28
     },
     {
       "id": "regulation",
@@ -30,16 +30,16 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 14
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 8
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 9
     },
     {
       "id": "eth",
@@ -58,20 +58,13 @@
       "count": 8
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 7
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
-      "count": 6
+      "count": 7
     },
     {
       "id": "mstr",
@@ -83,11 +76,27 @@
       "count": 6
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
       "icon": "",
       "count": 5
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 4
     },
     {
       "id": "anthropic",
@@ -105,15 +114,6 @@
       "type": "company",
       "path": "tickers/gs.json",
       "icon": "",
-      "count": 3
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 3
     },
     {
@@ -160,12 +160,30 @@
       "count": 2
     },
     {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 1
+    },
+    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
+      "count": 1
+    },
+    {
+      "id": "doge",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "type": "crypto",
+      "path": "tickers/doge.json",
+      "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
       "count": 1
     },
     {
@@ -182,15 +200,6 @@
       "name": "Web3",
       "type": "topic",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
       "count": 1
     },
     {

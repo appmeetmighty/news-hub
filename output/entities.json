@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T04:30:48.509Z",
-  "total": 24,
+  "updated_at": "2026-09-02T04:45:37.114Z",
+  "total": 25,
   "entities": [
     {
       "id": "crypto",
@@ -40,15 +40,6 @@
       "count": 8
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 8
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -65,6 +56,24 @@
       "count": 7
     },
     {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 7
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -79,15 +88,6 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 5
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 4
     },
     {
       "id": "anthropic",
@@ -142,6 +142,15 @@
       "path": "tickers/c.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "web3",

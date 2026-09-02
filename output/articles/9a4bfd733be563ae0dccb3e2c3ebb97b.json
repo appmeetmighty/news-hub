@@ -1,10 +1,10 @@
 {
-  "id": "9c71c669b995d0dc69042fadcca7162c",
-  "title": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch",
-  "description": "BTC trades choppy as $90 oil and rising bond yields weigh on stocks and gold.",
+  "id": "9a4bfd733be563ae0dccb3e2c3ebb97b",
+  "title": "Live updates: BlackRock's IBIT drives $236 million bitcoin ETF outflow",
+  "description": "Bitcoin slipped below $77,500 and every major is red on the day. The smaller crypto ETFs kept taking money while the bitcoin funds gave some back.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch",
+  "url": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
   "image": "",
   "source": {
     "id": "coindesk",
@@ -23,24 +23,44 @@
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com"
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
       "icon": ""
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-09-02T04:40:36.000Z",
+  "published_at": "2026-09-02T08:31:00.000Z",
   "related": [
+    {
+      "id": "bdbcc5aab811fbb638ae75a2daa16040",
+      "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DMR8D8Q7DJ0ETNYGBE2SEM/bitco-etf.png",
+      "source": {
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-01T04:48:47.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/bdbcc5aab811fbb638ae75a2daa16040.json"
+    },
     {
       "id": "af43836720c63b92fe23d437726fd34e",
       "title": "Live updates: Bitcoin slumps as oil surges to three-month high on new Iran strikes",
@@ -58,38 +78,6 @@
       "path": "articles/af43836720c63b92fe23d437726fd34e.json"
     },
     {
-      "id": "b7c3da9f2eb4bcd2b50d2cefddac3118",
-      "title": "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-08-31T16:55:46.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/b7c3da9f2eb4bcd2b50d2cefddac3118.json"
-    },
-    {
-      "id": "9a4bfd733be563ae0dccb3e2c3ebb97b",
-      "title": "Live updates: BlackRock's IBIT drives $236 million bitcoin ETF outflow",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-02T08:31:00.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/9a4bfd733be563ae0dccb3e2c3ebb97b.json"
-    },
-    {
       "id": "e33eae0cf7828820f6fccd26bb89399a",
       "title": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red",
       "image": "",
@@ -104,6 +92,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/e33eae0cf7828820f6fccd26bb89399a.json"
+    },
+    {
+      "id": "9c71c669b995d0dc69042fadcca7162c",
+      "title": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-02T04:40:36.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/9c71c669b995d0dc69042fadcca7162c.json"
     },
     {
       "id": "e98a623cbb2b4057182e3e424f75260e",

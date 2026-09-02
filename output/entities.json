@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T16:45:36.284Z",
-  "total": 26,
+  "updated_at": "2026-09-02T17:01:04.606Z",
+  "total": 25,
   "entities": [
     {
       "id": "btc",
@@ -23,7 +23,7 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 19
+      "count": 20
     },
     {
       "id": "ai",
@@ -31,15 +31,6 @@
       "type": "topic",
       "icon": "",
       "count": 14
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 9
     },
     {
       "id": "stablecoin",
@@ -58,6 +49,15 @@
       "count": 8
     },
     {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 8
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -67,26 +67,17 @@
       "count": 7
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 5
+      "count": 6
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
       "count": 5
     },
     {
@@ -105,6 +96,15 @@
       "type": "company",
       "path": "tickers/gs.json",
       "icon": "",
+      "count": 4
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 4
     },
     {
@@ -131,13 +131,6 @@
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -203,21 +196,19 @@
       "count": 1
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
-      "count": 1
-    },
-    {
-      "id": "blk",
-      "symbol": "BLK",
-      "name": "BlackRock",
-      "type": "company",
-      "path": "tickers/blk.json",
-      "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 1
     }
   ]

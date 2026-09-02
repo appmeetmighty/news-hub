@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-02T05:15:35.630Z",
+  "updated_at": "2026-09-02T05:30:54.735Z",
   "total": 25,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 30
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,6 +9,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 29
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
       "count": 29
     },
     {
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 18
     },
     {
       "id": "blockchain",
@@ -90,6 +90,15 @@
       "count": 5
     },
     {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -106,15 +115,6 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 4
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "nvda",

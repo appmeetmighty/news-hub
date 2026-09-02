@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T20:01:04.293Z",
+  "updated_at": "2026-09-02T20:15:34.771Z",
   "total": 24,
   "entities": [
     {
@@ -30,7 +30,14 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 11
+      "count": 10
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 8
     },
     {
       "id": "xrp",
@@ -40,13 +47,6 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 8
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 7
     },
     {
       "id": "eth",
@@ -74,6 +74,15 @@
       "count": 6
     },
     {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -87,15 +96,6 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 4
-    },
-    {
-      "id": "gs",
-      "symbol": "GS",
-      "name": "Goldman Sachs",
-      "type": "company",
-      "path": "tickers/gs.json",
-      "icon": "",
       "count": 4
     },
     {
@@ -117,30 +117,12 @@
       "count": 3
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
-    },
-    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
       "icon": "",
-      "count": 2
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 2
     },
     {
@@ -166,6 +148,15 @@
       "name": "Web3",
       "type": "topic",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
       "count": 1
     },
     {
@@ -200,6 +191,15 @@
       "name": "ETF",
       "type": "topic",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 1
     }
   ]

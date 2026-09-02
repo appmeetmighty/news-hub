@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-02T10:45:40.358Z",
+  "updated_at": "2026-09-02T11:01:09.691Z",
   "total": 24,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 29
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 28
+      "count": 29
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 29
     },
     {
       "id": "regulation",
@@ -31,6 +31,15 @@
       "type": "topic",
       "icon": "",
       "count": 18
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "xrp",
@@ -72,15 +81,6 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 7
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 6
     },
     {
       "id": "defi",

@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-02T09:45:37.091Z",
+  "updated_at": "2026-09-02T10:01:02.870Z",
   "total": 24,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 30
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,25 +16,18 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 28
     },
     {
-      "id": "ai",
-      "name": "AI",
+      "id": "regulation",
+      "name": "Regulation",
       "type": "topic",
       "icon": "",
       "count": 20
     },
     {
-      "id": "regulation",
-      "name": "Regulation",
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 19
@@ -108,6 +108,13 @@
       "count": 4
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "gs",
       "symbol": "GS",
       "name": "Goldman Sachs",
@@ -132,13 +139,6 @@
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 2
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
       "count": 2
     },
     {

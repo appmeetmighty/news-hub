@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T09:30:53.995Z",
+  "updated_at": "2026-09-03T09:45:54.004Z",
   "total": 26,
   "entities": [
     {
@@ -16,14 +16,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 26
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 21
     },
     {
       "id": "ai",
@@ -42,6 +42,15 @@
       "count": 10
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 8
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -49,13 +58,13 @@
       "count": 7
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 7
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "blockchain",
@@ -72,15 +81,6 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 6
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "defi",
@@ -126,15 +126,6 @@
       "count": 3
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -147,6 +138,15 @@
       "id": "etf",
       "name": "ETF",
       "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 2
     },

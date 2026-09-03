@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T16:30:50.950Z",
+  "updated_at": "2026-09-03T16:45:37.065Z",
   "total": 27,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 34
+      "count": 35
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 32
+      "count": 33
     },
     {
       "id": "regulation",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 16
     },
     {
       "id": "eth",
@@ -65,15 +65,6 @@
       "count": 5
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 5
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -81,6 +72,15 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 5
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 4
     },
     {
       "id": "oil",
@@ -99,13 +99,13 @@
       "count": 4
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
       "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 3
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 4
     },
     {
       "id": "anthropic",
@@ -113,15 +113,6 @@
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
       "icon": "",
       "count": 3
     },
@@ -141,6 +132,15 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
       "count": 2
     },
     {

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-03T12:15:37.016Z",
+  "updated_at": "2026-09-03T12:30:50.648Z",
   "articles": {
-    "generated_at": "2026-09-03T12:15:37.016Z",
+    "generated_at": "2026-09-03T12:30:50.648Z",
     "topics": [
       {
         "id": "btc",
@@ -459,8 +459,8 @@
         "articles": [
           {
             "id": "b83b7bfb7d196d7ed38d9b481b65f508",
-            "title": "Nvidia agrees to buy Hugging Face for almost $13 billion, expanding further up AI stack",
-            "image": "https://image.cnbcfm.com/api/v1/image/108357750-1788358652696-gettyimages-2292610034-g20_2629.jpeg?v=1788358675&w=1920&h=1080",
+            "title": "Hugging Face approached Nvidia's Huang about an acquisition a few weeks ago, CEO tells CNBC",
+            "image": "https://image.cnbcfm.com/api/v1/image/108343877-1785771031007-gettyimages-1663179404-AI_CEOs_555_091323.jpeg?v=1785771160&w=1920&h=1080",
             "source": {
               "id": "cnbc",
               "name": "CNBC",
@@ -468,8 +468,22 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-09-03T12:07:56.000Z",
+            "published_at": "2026-09-03T12:28:56.000Z",
             "path": "articles/b83b7bfb7d196d7ed38d9b481b65f508.json"
+          },
+          {
+            "id": "a7d17aa76ecd172a01b0d9947cf900e5",
+            "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+            "image": "https://image.cnbcfm.com/api/v1/image/108299525-1777493905236-India_AI_Summit-26051213533651-AP.jpg?v=1777493985&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-03T12:25:59.000Z",
+            "path": "articles/a7d17aa76ecd172a01b0d9947cf900e5.json"
           },
           {
             "id": "36854eda83feacc45cdce7ac4478aa05",
@@ -526,20 +540,6 @@
             "category": "crypto",
             "published_at": "2026-09-03T04:57:55.000Z",
             "path": "articles/108ba7af148815152158278c618d1c68.json"
-          },
-          {
-            "id": "a7d17aa76ecd172a01b0d9947cf900e5",
-            "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-            "image": "https://image.cnbcfm.com/api/v1/image/108340158-1784939177232-gettyimages-2262037694-INDIA_AI_SUMMIT.jpeg?v=1784939331&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-03T03:28:07.000Z",
-            "path": "articles/a7d17aa76ecd172a01b0d9947cf900e5.json"
           },
           {
             "id": "5b23d52c8f197b1cf651eb36d98a39d1",
@@ -1296,8 +1296,8 @@
         "articles": [
           {
             "id": "b83b7bfb7d196d7ed38d9b481b65f508",
-            "title": "Nvidia agrees to buy Hugging Face for almost $13 billion, expanding further up AI stack",
-            "image": "https://image.cnbcfm.com/api/v1/image/108357750-1788358652696-gettyimages-2292610034-g20_2629.jpeg?v=1788358675&w=1920&h=1080",
+            "title": "Hugging Face approached Nvidia's Huang about an acquisition a few weeks ago, CEO tells CNBC",
+            "image": "https://image.cnbcfm.com/api/v1/image/108343877-1785771031007-gettyimages-1663179404-AI_CEOs_555_091323.jpeg?v=1785771160&w=1920&h=1080",
             "source": {
               "id": "cnbc",
               "name": "CNBC",
@@ -1305,7 +1305,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-09-03T12:07:56.000Z",
+            "published_at": "2026-09-03T12:28:56.000Z",
             "path": "articles/b83b7bfb7d196d7ed38d9b481b65f508.json"
           },
           {
@@ -1603,6 +1603,29 @@
         ]
       },
       {
+        "id": "googl",
+        "name": "Google",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/google.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "a7d17aa76ecd172a01b0d9947cf900e5",
+            "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+            "image": "https://image.cnbcfm.com/api/v1/image/108299525-1777493905236-India_AI_Summit-26051213533651-AP.jpg?v=1777493985&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-03T12:25:59.000Z",
+            "path": "articles/a7d17aa76ecd172a01b0d9947cf900e5.json"
+          }
+        ]
+      },
+      {
         "id": "tsla",
         "name": "Tesla",
         "type": "company",
@@ -1691,29 +1714,6 @@
             "category": "crypto",
             "published_at": "2026-09-03T04:57:55.000Z",
             "path": "articles/108ba7af148815152158278c618d1c68.json"
-          }
-        ]
-      },
-      {
-        "id": "googl",
-        "name": "Google",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/google.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "a7d17aa76ecd172a01b0d9947cf900e5",
-            "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-            "image": "https://image.cnbcfm.com/api/v1/image/108340158-1784939177232-gettyimages-2262037694-INDIA_AI_SUMMIT.jpeg?v=1784939331&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-03T03:28:07.000Z",
-            "path": "articles/a7d17aa76ecd172a01b0d9947cf900e5.json"
           }
         ]
       },

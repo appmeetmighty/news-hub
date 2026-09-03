@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T10:45:35.886Z",
+  "updated_at": "2026-09-03T11:01:07.249Z",
   "id": "btc",
   "symbol": "BTC",
   "name": "Bitcoin",
@@ -8,7 +8,7 @@
   "articles": [
     {
       "id": "2531dfc7bcbcb5c1648070a94887fa10",
-      "title": "Live updates: Crypto majors bounce while global funds run their lowest dollar hedges since 2015",
+      "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
       "description": "Bitcoin is back above $77,500 with every major green on the day, though the week still reads red. Global investors are carrying their lowest currency protection on U.S. assets in a decade.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
@@ -31,14 +31,32 @@
           "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
           "icon": ""
         }
       ],
       "published_at": "2026-09-03T10:42:15.000Z",
       "related": [
+        {
+          "id": "f25ca932973052eba24bdce28db1f451",
+          "title": "Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-02T10:50:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f25ca932973052eba24bdce28db1f451.json"
+        },
         {
           "id": "9a4bfd733be563ae0dccb3e2c3ebb97b",
           "title": "Live updates: Bitcoin trades near $77,000, with central bank policy rate decisions taking center stage",
@@ -56,8 +74,8 @@
           "path": "articles/9a4bfd733be563ae0dccb3e2c3ebb97b.json"
         },
         {
-          "id": "efe63ee583d4f71b2b0e966dd239220f",
-          "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+          "id": "021e1cc9c33528beb898205ccd162429",
+          "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -66,26 +84,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-03T04:22:40.000Z",
+          "published_at": "2026-09-02T12:13:26.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/efe63ee583d4f71b2b0e966dd239220f.json"
-        },
-        {
-          "id": "f236b755a047327406e308b7992f0496",
-          "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-02T13:14:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f236b755a047327406e308b7992f0496.json"
+          "path": "articles/021e1cc9c33528beb898205ccd162429.json"
         },
         {
           "id": "3573efcda729c6753419b060042a42f1",
@@ -104,20 +106,20 @@
           "path": "articles/3573efcda729c6753419b060042a42f1.json"
         },
         {
-          "id": "d93d17ee054c9556388c342e1a41aa6d",
-          "title": "Ether, XRP ETF inflow streaks end as Bitcoin funds rebound",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K0R10249Q6B17ZZ511GTM6/hi-ethereum-etfs-navigating-tracking-difference-vs-tracking-error.jpg",
+          "id": "6cdf73e673b6ba1986d41f829ebbfe0d",
+          "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
+          "image": "",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-03T07:22:00.000Z",
+          "published_at": "2026-09-03T04:58:05.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d93d17ee054c9556388c342e1a41aa6d.json"
+          "path": "articles/6cdf73e673b6ba1986d41f829ebbfe0d.json"
         }
       ],
       "path": "articles/2531dfc7bcbcb5c1648070a94887fa10.json"
@@ -155,6 +157,22 @@
       ],
       "published_at": "2026-09-03T10:29:52.000Z",
       "related": [
+        {
+          "id": "2531dfc7bcbcb5c1648070a94887fa10",
+          "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-03T10:42:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2531dfc7bcbcb5c1648070a94887fa10.json"
+        },
         {
           "id": "6cdf73e673b6ba1986d41f829ebbfe0d",
           "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
@@ -218,22 +236,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/b0a81b6ae8b060ac7c1a4970242cc47b.json"
-        },
-        {
-          "id": "9405c87ef49a3cb9ab37d97bb3209628",
-          "title": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-02T11:14:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/9405c87ef49a3cb9ab37d97bb3209628.json"
         }
       ],
       "path": "articles/3573efcda729c6753419b060042a42f1.json"
@@ -314,6 +316,22 @@
           "path": "articles/87c9853e1db1b9f5a5f82053e79200e5.json"
         },
         {
+          "id": "2531dfc7bcbcb5c1648070a94887fa10",
+          "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-03T10:42:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2531dfc7bcbcb5c1648070a94887fa10.json"
+        },
+        {
           "id": "3573efcda729c6753419b060042a42f1",
           "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
           "image": "",
@@ -328,22 +346,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3573efcda729c6753419b060042a42f1.json"
-        },
-        {
-          "id": "78f7a83e386d3f9bd80908be49f28870",
-          "title": "Here’s what happened in crypto today",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-03T06:10:27.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
         }
       ],
       "path": "articles/c80ba9f8c68c778cbe823c06dcfb262f.json"
@@ -647,7 +649,7 @@
         },
         {
           "id": "2531dfc7bcbcb5c1648070a94887fa10",
-          "title": "Live updates: Crypto majors bounce while global funds run their lowest dollar hedges since 2015",
+          "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -786,22 +788,6 @@
           "path": "articles/6c5500d751599050c8150c032820fd46.json"
         },
         {
-          "id": "2531dfc7bcbcb5c1648070a94887fa10",
-          "title": "Live updates: Crypto majors bounce while global funds run their lowest dollar hedges since 2015",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-03T10:42:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2531dfc7bcbcb5c1648070a94887fa10.json"
-        },
-        {
           "id": "c80ba9f8c68c778cbe823c06dcfb262f",
           "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KANTKWQNSCNEMJXC5A98C8/hi-crypto-assets-regulation-in-dubai-is-cryptocurrency-regulated-in-uae.jpg",
@@ -848,6 +834,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d93d17ee054c9556388c342e1a41aa6d.json"
+        },
+        {
+          "id": "108ba7af148815152158278c618d1c68",
+          "title": "Hyperscale Data ends Michigan BTC mining as holdings fall 79%",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-03T04:57:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/108ba7af148815152158278c618d1c68.json"
         }
       ],
       "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
@@ -1464,6 +1466,22 @@
           "path": "articles/d059a091922414f2448f3b4c063a9e62.json"
         },
         {
+          "id": "2531dfc7bcbcb5c1648070a94887fa10",
+          "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-03T10:42:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2531dfc7bcbcb5c1648070a94887fa10.json"
+        },
+        {
           "id": "efe63ee583d4f71b2b0e966dd239220f",
           "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
           "image": "",
@@ -1478,22 +1496,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/efe63ee583d4f71b2b0e966dd239220f.json"
-        },
-        {
-          "id": "026baf5f308da89748bfe67cda701952",
-          "title": "Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/Bart-BTC-Gallery-Masterpiece-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-02T18:30:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 85,
-          "path": "articles/026baf5f308da89748bfe67cda701952.json"
         }
       ],
       "path": "articles/cf847b354ed0214ee2ed5b4e5244350f.json"
@@ -2426,6 +2428,22 @@
           "path": "articles/021e1cc9c33528beb898205ccd162429.json"
         },
         {
+          "id": "2531dfc7bcbcb5c1648070a94887fa10",
+          "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-03T10:42:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2531dfc7bcbcb5c1648070a94887fa10.json"
+        },
+        {
           "id": "3573efcda729c6753419b060042a42f1",
           "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
           "image": "",
@@ -2440,22 +2458,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3573efcda729c6753419b060042a42f1.json"
-        },
-        {
-          "id": "6cdf73e673b6ba1986d41f829ebbfe0d",
-          "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-03T04:58:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6cdf73e673b6ba1986d41f829ebbfe0d.json"
         }
       ],
       "path": "articles/b0a81b6ae8b060ac7c1a4970242cc47b.json"
@@ -2646,6 +2648,22 @@
           "path": "articles/e33eae0cf7828820f6fccd26bb89399a.json"
         },
         {
+          "id": "2531dfc7bcbcb5c1648070a94887fa10",
+          "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-03T10:42:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2531dfc7bcbcb5c1648070a94887fa10.json"
+        },
+        {
           "id": "3573efcda729c6753419b060042a42f1",
           "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
           "image": "",
@@ -2676,22 +2694,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6cdf73e673b6ba1986d41f829ebbfe0d.json"
-        },
-        {
-          "id": "efe63ee583d4f71b2b0e966dd239220f",
-          "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-03T04:22:40.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/efe63ee583d4f71b2b0e966dd239220f.json"
         }
       ],
       "path": "articles/9405c87ef49a3cb9ab37d97bb3209628.json"
@@ -2731,6 +2733,22 @@
       ],
       "published_at": "2026-09-02T10:50:38.000Z",
       "related": [
+        {
+          "id": "2531dfc7bcbcb5c1648070a94887fa10",
+          "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-03T10:42:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2531dfc7bcbcb5c1648070a94887fa10.json"
+        },
         {
           "id": "efe63ee583d4f71b2b0e966dd239220f",
           "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
@@ -2794,22 +2812,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/021e1cc9c33528beb898205ccd162429.json"
-        },
-        {
-          "id": "b0a81b6ae8b060ac7c1a4970242cc47b",
-          "title": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-02T11:45:16.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/b0a81b6ae8b060ac7c1a4970242cc47b.json"
         }
       ],
       "path": "articles/f25ca932973052eba24bdce28db1f451.json"
@@ -2843,7 +2845,7 @@
       "related": [
         {
           "id": "2531dfc7bcbcb5c1648070a94887fa10",
-          "title": "Live updates: Crypto majors bounce while global funds run their lowest dollar hedges since 2015",
+          "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -3086,6 +3088,22 @@
           "path": "articles/9405c87ef49a3cb9ab37d97bb3209628.json"
         },
         {
+          "id": "2531dfc7bcbcb5c1648070a94887fa10",
+          "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-03T10:42:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2531dfc7bcbcb5c1648070a94887fa10.json"
+        },
+        {
           "id": "3573efcda729c6753419b060042a42f1",
           "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
           "image": "",
@@ -3132,22 +3150,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/efe63ee583d4f71b2b0e966dd239220f.json"
-        },
-        {
-          "id": "021e1cc9c33528beb898205ccd162429",
-          "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-02T12:13:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/021e1cc9c33528beb898205ccd162429.json"
         }
       ],
       "path": "articles/e33eae0cf7828820f6fccd26bb89399a.json"

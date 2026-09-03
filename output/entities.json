@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-03T05:01:04.077Z",
-  "total": 26,
+  "updated_at": "2026-09-03T05:15:39.135Z",
+  "total": 27,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 30
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
+      "count": 30
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 30
     },
     {
       "id": "regulation",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 16
     },
     {
       "id": "xrp",
@@ -42,19 +42,19 @@
       "count": 10
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 8
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 7
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
       "count": 7
     },
     {
@@ -160,6 +160,13 @@
       "path": "tickers/c.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "googl",

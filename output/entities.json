@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T20:30:47.582Z",
+  "updated_at": "2026-09-03T20:45:36.354Z",
   "total": 27,
   "entities": [
     {
@@ -58,18 +58,18 @@
       "count": 7
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
       "icon": "",
       "count": 5
     },
@@ -83,11 +83,9 @@
       "count": 5
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
       "icon": "",
       "count": 4
     },
@@ -101,19 +99,21 @@
       "count": 4
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 3
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
       "count": 3
     },
     {
@@ -171,6 +171,13 @@
       "count": 2
     },
     {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "msft",
       "symbol": "MSFT",
       "name": "Microsoft",
@@ -186,13 +193,6 @@
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
-      "icon": "",
       "count": 1
     },
     {

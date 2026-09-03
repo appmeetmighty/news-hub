@@ -1,11 +1,11 @@
 {
-  "id": "adb12d4415c5fb8288a67e67782ccb6f",
-  "title": "NFL set for first-ever game in Melbourne, Australia, in international expansion",
-  "description": "The San Francisco 49ers and the L.A. Rams are playing the NFL's first-ever game in Australia, marking an expanded push to grow the game internationally.",
+  "id": "433204549e9aeb224e12e3a8ae285162",
+  "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
+  "description": "Xbox Game Pass subscribers will have cloud gaming capped starting in November.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/03/nfl-rams-49ers-australia-international-expansion.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108261264-1770211433373-gettyimages-2259125946-20090101260203-99-367147.jpeg?v=1770211473&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108358445-1788447829721-gettyimages-2291589796-GERMANY_GAMESCOM.jpeg?v=1788447870&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,8 +13,17 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-03T15:38:01.000Z",
+  "entities": [
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com"
+    }
+  ],
+  "published_at": "2026-09-03T17:00:01.000Z",
   "related": [
     {
       "id": "bbb4a633e05175ac68aa28a5f3876d6f",
@@ -49,22 +58,6 @@
       "path": "articles/5adcd179cb6a382a917eabe6d2d04baa.json"
     },
     {
-      "id": "433204549e9aeb224e12e3a8ae285162",
-      "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
-      "image": "https://image.cnbcfm.com/api/v1/image/108358445-1788447829721-gettyimages-2291589796-GERMANY_GAMESCOM.jpeg?v=1788447870&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-03T17:00:01.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/433204549e9aeb224e12e3a8ae285162.json"
-    },
-    {
       "id": "2131f9b2c0e741207035cb3eb49d2b3a",
       "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
       "image": "https://image.cnbcfm.com/api/v1/image/108333834-1783918441707-gettyimages-2283163436-_DSC4514JPG.jpeg?v=1783918460&w=1920&h=1080",
@@ -95,6 +88,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/b83b7bfb7d196d7ed38d9b481b65f508.json"
+    },
+    {
+      "id": "e38fa9520bc58bd0c44977aa8f393a11",
+      "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
+      "image": "https://image.cnbcfm.com/api/v1/image/108291197-1776182891819-gettyimages-2270831111-AFP_A7RQ38R.jpeg?v=1776182906&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-03T16:06:13.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/e38fa9520bc58bd0c44977aa8f393a11.json"
     }
   ]
 }

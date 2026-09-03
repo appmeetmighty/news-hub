@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-03T04:15:42.612Z",
+  "updated_at": "2026-09-03T04:30:51.223Z",
   "total": 26,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 29
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,6 +9,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 29
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
       "count": 29
     },
     {
@@ -39,7 +39,7 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 9
+      "count": 10
     },
     {
       "id": "stablecoin",
@@ -65,6 +65,15 @@
       "count": 6
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -88,15 +97,6 @@
       "type": "topic",
       "icon": "",
       "count": 5
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 4
     },
     {
       "id": "mstr",

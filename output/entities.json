@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T23:47:20.258Z",
+  "updated_at": "2026-09-04T00:08:56.104Z",
   "total": 27,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 32
+      "count": 31
     },
     {
       "id": "regulation",
@@ -33,20 +33,20 @@
       "count": 16
     },
     {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 8
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 9
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 7
+      "count": 8
     },
     {
       "id": "xrp",
@@ -55,7 +55,7 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 7
+      "count": 6
     },
     {
       "id": "openai",
@@ -80,15 +80,6 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 4
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 4
     },
     {
@@ -126,21 +117,12 @@
       "count": 3
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 3
-    },
-    {
-      "id": "doge",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
       "type": "crypto",
-      "path": "tickers/doge.json",
-      "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 3
     },
     {
@@ -160,12 +142,30 @@
       "count": 2
     },
     {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 2
+    },
+    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
       "icon": "",
+      "count": 2
+    },
+    {
+      "id": "doge",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "type": "crypto",
+      "path": "tickers/doge.json",
+      "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
       "count": 2
     },
     {

@@ -1,11 +1,161 @@
 {
-  "updated_at": "2026-09-04T09:31:02.596Z",
+  "updated_at": "2026-09-04T09:50:34.285Z",
   "id": "msft",
   "symbol": "MSFT",
   "name": "Microsoft",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "820dbe0846c8a0ca8f87e4d29421059f",
+      "title": "Revenge of the 'Magnificent Seven' — Jim Cramer says it’s time to buy",
+      "description": "CNBC's Jim Cramer sees catalysts across Amazon, Alphabet, Meta, Microsoft, Nvidia and Tesla.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/03/magnificent-seven-jim-cramer-says-time-to-buy.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        }
+      ],
+      "published_at": "2026-09-03T22:31:01.000Z",
+      "related": [
+        {
+          "id": "433204549e9aeb224e12e3a8ae285162",
+          "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
+          "image": "https://image.cnbcfm.com/api/v1/image/108358445-1788447829721-gettyimages-2291589796-GERMANY_GAMESCOM.jpeg?v=1788447870&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-03T19:03:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/433204549e9aeb224e12e3a8ae285162.json"
+        },
+        {
+          "id": "8b330a0e4c4fe669facc66a559f7cc69",
+          "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787832050&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-04T09:32:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8b330a0e4c4fe669facc66a559f7cc69.json"
+        },
+        {
+          "id": "0eed1c81b93e90d0c57aa34da9c9f6d6",
+          "title": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
+          "image": "https://image.cnbcfm.com/api/v1/image/108225750-1763069160018-gettyimages-2245970413-CBOE_MARKETS.jpeg?v=1763069191&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-03T19:25:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/0eed1c81b93e90d0c57aa34da9c9f6d6.json"
+        },
+        {
+          "id": "5adcd179cb6a382a917eabe6d2d04baa",
+          "title": "Elon Musk starts spending his midterm election millions, revealing his key Senate targets",
+          "image": "https://image.cnbcfm.com/api/v1/image/108049418-1729201722436-AP24291780639776.jpg?v=1729201817&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-03T17:00:34.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5adcd179cb6a382a917eabe6d2d04baa.json"
+        },
+        {
+          "id": "d92efe20ba5b8c6a7628bdb4a6a92569",
+          "title": "How Meta will pull off massive changes to its social media apps",
+          "image": "https://image.cnbcfm.com/api/v1/image/108283711-1774557077741-gettyimages-2267943807-Zuckerberg_181_032626.jpeg?v=1774897810&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-03T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d92efe20ba5b8c6a7628bdb4a6a92569.json"
+        }
+      ],
+      "path": "articles/820dbe0846c8a0ca8f87e4d29421059f.json"
+    },
     {
       "id": "433204549e9aeb224e12e3a8ae285162",
       "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
@@ -34,6 +184,22 @@
       "published_at": "2026-09-03T19:03:56.000Z",
       "related": [
         {
+          "id": "820dbe0846c8a0ca8f87e4d29421059f",
+          "title": "Revenge of the 'Magnificent Seven' — Jim Cramer says it’s time to buy",
+          "image": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-03T22:31:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/820dbe0846c8a0ca8f87e4d29421059f.json"
+        },
+        {
           "id": "8b330a0e4c4fe669facc66a559f7cc69",
           "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
           "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787832050&w=1920&h=1080",
@@ -44,7 +210,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-04T09:27:10.000Z",
+          "published_at": "2026-09-04T09:32:09.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/8b330a0e4c4fe669facc66a559f7cc69.json"
@@ -66,6 +232,22 @@
           "path": "articles/ebfbd04d943a6cf4495858205a33a24e.json"
         },
         {
+          "id": "795dccaa90c931d1d910891456e0c790",
+          "title": "Argentina's Milei escalates Falklands dispute as Trump questions U.S. support for Britain",
+          "image": "https://image.cnbcfm.com/api/v1/image/108358814-1788505564354-gettyimages-2292810134-AA_04092026_2938216.jpeg?v=1788505879&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-04T07:50:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/795dccaa90c931d1d910891456e0c790.json"
+        },
+        {
           "id": "843f5cf047cfec194288a2815b8345c4",
           "title": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC ",
           "image": "https://image.cnbcfm.com/api/v1/image/107134485-1665700913277-imf.jpg?v=1708455558&w=1920&h=1080",
@@ -80,38 +262,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/843f5cf047cfec194288a2815b8345c4.json"
-        },
-        {
-          "id": "34f286fbe184e64b514763d7ee1306a4",
-          "title": "The inflation genie could be out of the bottle — and bond markets are sounding the alarm",
-          "image": "https://image.cnbcfm.com/api/v1/image/108199776-1758101378069-gettyimages-2227303022-US_STOCKS_TARIFFS.jpeg?v=1759236869&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-04T07:05:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/34f286fbe184e64b514763d7ee1306a4.json"
-        },
-        {
-          "id": "1e05060043d7c2f9ef48e489ce233cf5",
-          "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358787-1788499774131-gettyimages-1730657667-NORWAY_ECONOMY.jpeg?v=1788499914&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-04T06:46:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1e05060043d7c2f9ef48e489ce233cf5.json"
         }
       ],
       "path": "articles/433204549e9aeb224e12e3a8ae285162.json"

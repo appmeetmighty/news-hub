@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T19:15:42.198Z",
+  "updated_at": "2026-09-04T09:50:34.285Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "a7d17aa76ecd172a01b0d9947cf900e5",
-      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-      "description": "After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.",
+      "id": "820dbe0846c8a0ca8f87e4d29421059f",
+      "title": "Revenge of the 'Magnificent Seven' — Jim Cramer says it’s time to buy",
+      "description": "CNBC's Jim Cramer sees catalysts across Amazon, Alphabet, Meta, Microsoft, Nvidia and Tesla.",
       "reading_time_minutes": 1,
-      "breaking_score": 20,
-      "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108299525-1777493905236-India_AI_Summit-26051213533651-AP.jpg?v=1777493985&w=1920&h=1080",
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/03/magnificent-seven-jim-cramer-says-time-to-buy.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,26 +23,60 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
           "id": "googl",
           "symbol": "GOOGL",
           "name": "Google",
           "type": "company",
           "path": "tickers/googl.json",
           "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
         }
       ],
-      "published_at": "2026-09-03T12:31:15.000Z",
+      "published_at": "2026-09-03T22:31:01.000Z",
       "related": [
         {
-          "id": "bbb4a633e05175ac68aa28a5f3876d6f",
-          "title": "ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358418-1788446023097-gettyimages-2169557788-CHARGEPOINT_EARNS.jpeg?v=1788446099&w=1920&h=1080",
+          "id": "433204549e9aeb224e12e3a8ae285162",
+          "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
+          "image": "https://image.cnbcfm.com/api/v1/image/108358445-1788447829721-gettyimages-2291589796-GERMANY_GAMESCOM.jpeg?v=1788447870&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -50,10 +84,42 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-03T17:05:08.000Z",
+          "published_at": "2026-09-03T19:03:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/433204549e9aeb224e12e3a8ae285162.json"
+        },
+        {
+          "id": "8b330a0e4c4fe669facc66a559f7cc69",
+          "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787832050&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-04T09:32:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8b330a0e4c4fe669facc66a559f7cc69.json"
+        },
+        {
+          "id": "0eed1c81b93e90d0c57aa34da9c9f6d6",
+          "title": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
+          "image": "https://image.cnbcfm.com/api/v1/image/108225750-1763069160018-gettyimages-2245970413-CBOE_MARKETS.jpeg?v=1763069191&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-03T19:25:11.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
-          "path": "articles/bbb4a633e05175ac68aa28a5f3876d6f.json"
+          "path": "articles/0eed1c81b93e90d0c57aa34da9c9f6d6.json"
         },
         {
           "id": "5adcd179cb6a382a917eabe6d2d04baa",
@@ -72,9 +138,9 @@
           "path": "articles/5adcd179cb6a382a917eabe6d2d04baa.json"
         },
         {
-          "id": "f0abe12b8f0d1f0645ac9f4e14bf0e22",
-          "title": "Oil prices little changed after Iran fires missiles at Kuwait ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108354962-1787810582819-gettyimages-2291320726-koutsokostas-notitle260824_npYkV.jpeg?v=1787810594&w=1920&h=1080",
+          "id": "d92efe20ba5b8c6a7628bdb4a6a92569",
+          "title": "How Meta will pull off massive changes to its social media apps",
+          "image": "https://image.cnbcfm.com/api/v1/image/108283711-1774557077741-gettyimages-2267943807-Zuckerberg_181_032626.jpeg?v=1774897810&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -82,45 +148,13 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-03T19:14:06.000Z",
+          "published_at": "2026-09-03T12:00:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/f0abe12b8f0d1f0645ac9f4e14bf0e22.json"
-        },
-        {
-          "id": "e38fa9520bc58bd0c44977aa8f393a11",
-          "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108291197-1776182891819-gettyimages-2270831111-AFP_A7RQ38R.jpeg?v=1776182906&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-03T19:12:12.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e38fa9520bc58bd0c44977aa8f393a11.json"
-        },
-        {
-          "id": "433204549e9aeb224e12e3a8ae285162",
-          "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358445-1788447829721-gettyimages-2291589796-GERMANY_GAMESCOM.jpeg?v=1788447870&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-03T19:03:56.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/433204549e9aeb224e12e3a8ae285162.json"
+          "path": "articles/d92efe20ba5b8c6a7628bdb4a6a92569.json"
         }
       ],
-      "path": "articles/a7d17aa76ecd172a01b0d9947cf900e5.json"
+      "path": "articles/820dbe0846c8a0ca8f87e4d29421059f.json"
     }
   ]
 }

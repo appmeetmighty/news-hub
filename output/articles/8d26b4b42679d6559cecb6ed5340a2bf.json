@@ -1,11 +1,11 @@
 {
-  "id": "db5353a99a2c8b5f2ee7869922d957c1",
-  "title": "THC drinks could soon be harder to find as Congress delays hemp ban again",
-  "description": "THC drinks are booming as an alcohol alternative, but a looming federal crackdown is squeezing makers, distributors and consumers.",
+  "id": "8d26b4b42679d6559cecb6ed5340a2bf",
+  "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
+  "description": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108358486-1788451885607-gettyimages-2247013004-hc1102urbanflower.jpeg?v=1788469116&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108275228-1773036724724-gettyimages-2178325356-khargiran2024.jpeg?v=1774871530&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,8 +13,17 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-04T11:00:01.000Z",
+  "entities": [
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-09-05T15:00:03.000Z",
   "related": [
     {
       "id": "43e9ed38c9f2eb5fa904f99911221dba",
@@ -31,22 +40,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/43e9ed38c9f2eb5fa904f99911221dba.json"
-    },
-    {
-      "id": "8d26b4b42679d6559cecb6ed5340a2bf",
-      "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
-      "image": "https://image.cnbcfm.com/api/v1/image/108275228-1773036724724-gettyimages-2178325356-khargiran2024.jpeg?v=1774871530&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-05T15:00:03.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/8d26b4b42679d6559cecb6ed5340a2bf.json"
     },
     {
       "id": "5ebbe5dbc79cf4e2a432c80ce72c302a",
@@ -95,6 +88,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/adc2a235a782bab8ac5b0559091d77c9.json"
+    },
+    {
+      "id": "61db86aeea8e6d2450476153331d7d5b",
+      "title": "Abel: Two ways Berkshire hopes to cash in on AI",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359281-1788580142241-2026-09-04_Abel_screen_grab.png?v=1788580233&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-05T12:45:44.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/61db86aeea8e6d2450476153331d7d5b.json"
     }
   ]
 }

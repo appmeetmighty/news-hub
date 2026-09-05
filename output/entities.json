@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T13:01:04.521Z",
+  "updated_at": "2026-09-05T13:15:31.037Z",
   "total": 24,
   "entities": [
     {
@@ -16,7 +16,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
+      "count": 28
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 18
     },
     {
       "id": "regulation",
@@ -24,13 +31,6 @@
       "type": "topic",
       "icon": "",
       "count": 18
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 17
     },
     {
       "id": "blockchain",
@@ -54,6 +54,15 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 5
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "xrp",
@@ -117,30 +126,12 @@
       "count": 2
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "xai",
       "symbol": "XAI",
       "name": "xAI",
       "type": "company",
       "path": "tickers/xai.json",
       "icon": "",
-      "count": 2
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 2
     },
     {
@@ -171,6 +162,15 @@
       "name": "Mining",
       "type": "topic",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 1
     },
     {

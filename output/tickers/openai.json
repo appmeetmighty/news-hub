@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T12:01:03.389Z",
+  "updated_at": "2026-09-06T12:15:32.973Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
@@ -7,13 +7,13 @@
   "total": 5,
   "articles": [
     {
-      "id": "2821b5405ad8c54022179f7da35b3025",
-      "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-      "description": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
+      "id": "edbb972b73f0840a37a0253049484798",
+      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+      "description": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.",
       "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "url": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&w=1920&h=1080",
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,11 +23,43 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
           "id": "openai",
           "symbol": "OPENAI",
           "name": "OpenAI",
           "type": "company",
           "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
           "icon": ""
         },
         {
@@ -37,12 +69,12 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-05T12:00:01.000Z",
+      "published_at": "2026-09-06T12:13:49.000Z",
       "related": [
         {
-          "id": "5c25bb590c4de74a9e5ed066d84b9f3a",
-          "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+          "id": "cbd55b5c0d2898648c41df85739be75b",
+          "title": "ChatGPT, Claude and Grok Outages Leave Users Asking How to Work Without AI",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -50,26 +82,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-04T15:36:04.000Z",
+          "published_at": "2026-09-03T18:31:26.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5c25bb590c4de74a9e5ed066d84b9f3a.json"
-        },
-        {
-          "id": "8586c908f3a67ff6e95db31c4a414c63",
-          "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-04T05:49:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8586c908f3a67ff6e95db31c4a414c63.json"
+          "path": "articles/cbd55b5c0d2898648c41df85739be75b.json"
         },
         {
           "id": "ae061b569e46fe564a6f8a21406859c4",
@@ -88,9 +104,9 @@
           "path": "articles/ae061b569e46fe564a6f8a21406859c4.json"
         },
         {
-          "id": "cbd55b5c0d2898648c41df85739be75b",
-          "title": "ChatGPT, Claude and Grok Outages Leave Users Asking How to Work Without AI",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
+          "id": "18bef56348cf59f65a65a1e4afeb741f",
+          "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -98,29 +114,45 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-03T18:31:26.000Z",
+          "published_at": "2026-09-05T15:01:04.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cbd55b5c0d2898648c41df85739be75b.json"
+          "breaking_score": 60,
+          "path": "articles/18bef56348cf59f65a65a1e4afeb741f.json"
         },
         {
-          "id": "94874ef5674e9a56435ffbb93d487c41",
-          "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358598-1788463381941-gettyimages-2286044364-fff04975.jpeg?v=1788463495&w=1920&h=1080",
+          "id": "6bd761c0b0dd6d8893b124d821f33fc8",
+          "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/12/math-1500720_1920-gID_4.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-05T23:55:52.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-05T13:01:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/94874ef5674e9a56435ffbb93d487c41.json"
+          "path": "articles/6bd761c0b0dd6d8893b124d821f33fc8.json"
+        },
+        {
+          "id": "5c25bb590c4de74a9e5ed066d84b9f3a",
+          "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-04T15:36:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5c25bb590c4de74a9e5ed066d84b9f3a.json"
         }
       ],
-      "path": "articles/2821b5405ad8c54022179f7da35b3025.json"
+      "path": "articles/edbb972b73f0840a37a0253049484798.json"
     },
     {
       "id": "5c25bb590c4de74a9e5ed066d84b9f3a",
@@ -204,9 +236,9 @@
           "path": "articles/cbd55b5c0d2898648c41df85739be75b.json"
         },
         {
-          "id": "2821b5405ad8c54022179f7da35b3025",
-          "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&w=1920&h=1080",
+          "id": "edbb972b73f0840a37a0253049484798",
+          "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -214,10 +246,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-05T12:00:01.000Z",
+          "published_at": "2026-09-06T12:13:49.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/2821b5405ad8c54022179f7da35b3025.json"
+          "breaking_score": 0,
+          "path": "articles/edbb972b73f0840a37a0253049484798.json"
         },
         {
           "id": "807074c0163b47bcc07d1954aac08b5b",
@@ -320,9 +352,9 @@
           "path": "articles/cbd55b5c0d2898648c41df85739be75b.json"
         },
         {
-          "id": "2821b5405ad8c54022179f7da35b3025",
-          "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&w=1920&h=1080",
+          "id": "edbb972b73f0840a37a0253049484798",
+          "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -330,10 +362,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-05T12:00:01.000Z",
+          "published_at": "2026-09-06T12:13:49.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/2821b5405ad8c54022179f7da35b3025.json"
+          "breaking_score": 0,
+          "path": "articles/edbb972b73f0840a37a0253049484798.json"
         },
         {
           "id": "4049251f1acb59adfbf5c7b598b14fa9",
@@ -436,9 +468,9 @@
           "path": "articles/cbd55b5c0d2898648c41df85739be75b.json"
         },
         {
-          "id": "2821b5405ad8c54022179f7da35b3025",
-          "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&w=1920&h=1080",
+          "id": "edbb972b73f0840a37a0253049484798",
+          "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -446,10 +478,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-05T12:00:01.000Z",
+          "published_at": "2026-09-06T12:13:49.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/2821b5405ad8c54022179f7da35b3025.json"
+          "breaking_score": 0,
+          "path": "articles/edbb972b73f0840a37a0253049484798.json"
         },
         {
           "id": "c98b5d76df5aec7c1d396b6e51b1bd01",
@@ -520,6 +552,22 @@
       "published_at": "2026-09-03T18:31:26.000Z",
       "related": [
         {
+          "id": "edbb972b73f0840a37a0253049484798",
+          "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-06T12:13:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/edbb972b73f0840a37a0253049484798.json"
+        },
+        {
           "id": "cfbc44b68ef5242dc0310dd533335569",
           "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
@@ -582,22 +630,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/ae061b569e46fe564a6f8a21406859c4.json"
-        },
-        {
-          "id": "8586c908f3a67ff6e95db31c4a414c63",
-          "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-04T05:49:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8586c908f3a67ff6e95db31c4a414c63.json"
         }
       ],
       "path": "articles/cbd55b5c0d2898648c41df85739be75b.json"

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T12:01:03.394Z",
-  "total": 22,
+  "updated_at": "2026-09-06T12:15:32.985Z",
+  "total": 23,
   "entities": [
     {
       "id": "crypto",
@@ -19,18 +19,18 @@
       "count": 27
     },
     {
-      "id": "regulation",
-      "name": "Regulation",
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 18
     },
     {
-      "id": "ai",
-      "name": "AI",
+      "id": "regulation",
+      "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 18
     },
     {
       "id": "blockchain",
@@ -56,13 +56,13 @@
       "count": 5
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 3
+      "count": 4
     },
     {
       "id": "eth",
@@ -74,13 +74,31 @@
       "count": 3
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
       "type": "company",
-      "path": "tickers/anthropic.json",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 2
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 2
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
-      "count": 3
+      "count": 2
     },
     {
       "id": "etf",
@@ -99,15 +117,6 @@
       "count": 2
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 2
-    },
-    {
       "id": "blk",
       "symbol": "BLK",
       "name": "BlackRock",
@@ -117,12 +126,12 @@
       "count": 2
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
       "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
       "count": 1
     },
     {
@@ -137,6 +146,15 @@
       "name": "Web3",
       "type": "topic",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 1
     },
     {
@@ -162,15 +180,6 @@
       "type": "company",
       "path": "tickers/xai.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 1
     },
     {

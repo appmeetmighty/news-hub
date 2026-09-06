@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-06T16:01:01.279Z",
+  "updated_at": "2026-09-06T16:15:36.742Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "edbb972b73f0840a37a0253049484798",
@@ -88,6 +88,22 @@
           "path": "articles/cbd55b5c0d2898648c41df85739be75b.json"
         },
         {
+          "id": "2821b5405ad8c54022179f7da35b3025",
+          "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-05T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/2821b5405ad8c54022179f7da35b3025.json"
+        },
+        {
           "id": "ae061b569e46fe564a6f8a21406859c4",
           "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
@@ -134,6 +150,58 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6bd761c0b0dd6d8893b124d821f33fc8.json"
+        }
+      ],
+      "path": "articles/edbb972b73f0840a37a0253049484798.json"
+    },
+    {
+      "id": "2821b5405ad8c54022179f7da35b3025",
+      "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+      "description": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
+      "reading_time_minutes": 1,
+      "breaking_score": 60,
+      "url": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-05T12:00:01.000Z",
+      "related": [
+        {
+          "id": "edbb972b73f0840a37a0253049484798",
+          "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-06T12:13:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/edbb972b73f0840a37a0253049484798.json"
         },
         {
           "id": "5c25bb590c4de74a9e5ed066d84b9f3a",
@@ -150,9 +218,57 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/5c25bb590c4de74a9e5ed066d84b9f3a.json"
+        },
+        {
+          "id": "8586c908f3a67ff6e95db31c4a414c63",
+          "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-04T05:49:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8586c908f3a67ff6e95db31c4a414c63.json"
+        },
+        {
+          "id": "ae061b569e46fe564a6f8a21406859c4",
+          "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-03T19:24:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/ae061b569e46fe564a6f8a21406859c4.json"
+        },
+        {
+          "id": "cbd55b5c0d2898648c41df85739be75b",
+          "title": "ChatGPT, Claude and Grok Outages Leave Users Asking How to Work Without AI",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-03T18:31:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cbd55b5c0d2898648c41df85739be75b.json"
         }
       ],
-      "path": "articles/edbb972b73f0840a37a0253049484798.json"
+      "path": "articles/2821b5405ad8c54022179f7da35b3025.json"
     },
     {
       "id": "5c25bb590c4de74a9e5ed066d84b9f3a",
@@ -252,20 +368,20 @@
           "path": "articles/edbb972b73f0840a37a0253049484798.json"
         },
         {
-          "id": "807074c0163b47bcc07d1954aac08b5b",
-          "title": "Bitcoin Slides as Blowout Jobs Report Revives Fed Hike Odds",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/nyse-decrypt-style-gID_7.jpg@png",
+          "id": "2821b5405ad8c54022179f7da35b3025",
+          "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-04T15:13:28.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-05T12:00:01.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/807074c0163b47bcc07d1954aac08b5b.json"
+          "breaking_score": 60,
+          "path": "articles/2821b5405ad8c54022179f7da35b3025.json"
         }
       ],
       "path": "articles/5c25bb590c4de74a9e5ed066d84b9f3a.json"
@@ -368,20 +484,20 @@
           "path": "articles/edbb972b73f0840a37a0253049484798.json"
         },
         {
-          "id": "1388db0637da69a7046e861b3e86bc78",
-          "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
-          "image": "",
+          "id": "2821b5405ad8c54022179f7da35b3025",
+          "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-06T16:00:00.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-05T12:00:01.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1388db0637da69a7046e861b3e86bc78.json"
+          "breaking_score": 60,
+          "path": "articles/2821b5405ad8c54022179f7da35b3025.json"
         }
       ],
       "path": "articles/8586c908f3a67ff6e95db31c4a414c63.json"
@@ -484,20 +600,20 @@
           "path": "articles/edbb972b73f0840a37a0253049484798.json"
         },
         {
-          "id": "be7b465da04591a3fa8333b25257ff40",
-          "title": "Stablecoins Won't Scale Without Banks",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
+          "id": "2821b5405ad8c54022179f7da35b3025",
+          "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-06T15:01:03.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-05T12:00:01.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/be7b465da04591a3fa8333b25257ff40.json"
+          "breaking_score": 60,
+          "path": "articles/2821b5405ad8c54022179f7da35b3025.json"
         }
       ],
       "path": "articles/ae061b569e46fe564a6f8a21406859c4.json"
@@ -568,22 +684,6 @@
           "path": "articles/edbb972b73f0840a37a0253049484798.json"
         },
         {
-          "id": "cfbc44b68ef5242dc0310dd533335569",
-          "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-02T23:46:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/cfbc44b68ef5242dc0310dd533335569.json"
-        },
-        {
           "id": "6bd761c0b0dd6d8893b124d821f33fc8",
           "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/12/math-1500720_1920-gID_4.jpg@png",
@@ -630,6 +730,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/ae061b569e46fe564a6f8a21406859c4.json"
+        },
+        {
+          "id": "8586c908f3a67ff6e95db31c4a414c63",
+          "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-04T05:49:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8586c908f3a67ff6e95db31c4a414c63.json"
         }
       ],
       "path": "articles/cbd55b5c0d2898648c41df85739be75b.json"

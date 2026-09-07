@@ -1,11 +1,11 @@
 {
-  "id": "a8d3015b7a269abd6a788ef1d2a7fd2f",
-  "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
-  "description": "Power demand in the U.S. is rising. Fervo Energy bets that its project in Utah will prove that enhanced geothermal can be part of the power mix going forward.",
+  "id": "6e19be9713230f2ea12397fa94f294ea",
+  "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
+  "description": "",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108359049-1788538398356-Google_Geothermal_Energy-23332020667147-AP.jpg?v=1788561812&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/47565107-private_space_race--1612160365_v2.jpg?v=1349505474&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,13 +13,22 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-05T12:20:42.000Z",
+  "entities": [
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com"
+    }
+  ],
+  "published_at": "2026-09-07T00:06:18.000Z",
   "related": [
     {
-      "id": "6e19be9713230f2ea12397fa94f294ea",
-      "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
-      "image": "https://image.cnbcfm.com/api/v1/image/47565107-private_space_race--1612160365_v2.jpg?v=1349505474&w=1920&h=1080",
+      "id": "c9b3993a41f870a0fa419b86397971b1",
+      "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
+      "image": "https://image.cnbcfm.com/api/v1/image/108358940-1788527112511-gettyimages-2292810316-AFP_C7B322X.jpeg?v=1788550249&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -27,10 +36,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-07T00:06:18.000Z",
+      "published_at": "2026-09-04T20:06:13.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/6e19be9713230f2ea12397fa94f294ea.json"
+      "path": "articles/c9b3993a41f870a0fa419b86397971b1.json"
     },
     {
       "id": "6c9fa87e122dea9fda233014ccdb80f2",
@@ -65,6 +74,22 @@
       "path": "articles/b6e60ae99b9212ee90441104880e2fe5.json"
     },
     {
+      "id": "a8d3015b7a269abd6a788ef1d2a7fd2f",
+      "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359049-1788538398356-Google_Geothermal_Energy-23332020667147-AP.jpg?v=1788561812&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-05T12:20:42.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/a8d3015b7a269abd6a788ef1d2a7fd2f.json"
+    },
+    {
       "id": "de2fde6bc82f26306937f06ffebd10ff",
       "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
       "image": "https://image.cnbcfm.com/api/v1/image/108306327-1778680897174-gettyimages-2275447146-AFP_B2QM89F.jpeg?v=1778680915&w=1920&h=1080",
@@ -79,22 +104,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/de2fde6bc82f26306937f06ffebd10ff.json"
-    },
-    {
-      "id": "8117eabab177ff9b853b028e4dc6bf48",
-      "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
-      "image": "https://image.cnbcfm.com/api/v1/image/108312455-1779885957667-gettyimages-2278350700-20260526-151940.jpeg?v=1779885978&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-06T17:53:53.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 25,
-      "path": "articles/8117eabab177ff9b853b028e4dc6bf48.json"
     }
   ]
 }

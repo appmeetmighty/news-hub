@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-07T05:01:00.846Z",
+  "updated_at": "2026-09-07T05:15:31.394Z",
   "articles": {
-    "generated_at": "2026-09-07T05:01:00.846Z",
+    "generated_at": "2026-09-07T05:15:31.394Z",
     "topics": [
       {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 37,
+        "count": 36,
         "articles": [
           {
             "id": "dc01bef7662d8ada92bd0d68b527a580",
@@ -604,8 +604,22 @@
         "name": "Blockchain",
         "type": "topic",
         "icon": "",
-        "count": 12,
+        "count": 13,
         "articles": [
+          {
+            "id": "a3a291bc7efc0affd19ada5faa6fdc2f",
+            "title": "Harmony proposes shutting down layer 1, migrating ONE to Ethereum",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X3TQW8VBS6ZBQQFGKK9XGD/hi-bancor-excludes-users-2.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-07T05:00:49.000Z",
+            "path": "articles/a3a291bc7efc0affd19ada5faa6fdc2f.json"
+          },
           {
             "id": "78f7a83e386d3f9bd80908be49f28870",
             "title": "Here’s what happened in crypto today",
@@ -731,20 +745,6 @@
             "category": "crypto",
             "published_at": "2026-09-04T12:31:31.000Z",
             "path": "articles/e8141d6d14e6cd3bbe448e89a4dc62c8.json"
-          },
-          {
-            "id": "eb68255180ab97f8e89b2ccdff886b0e",
-            "title": "South Korea targets February 2027 rollout for full tokenized securities market",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-04T09:41:31.000Z",
-            "path": "articles/eb68255180ab97f8e89b2ccdff886b0e.json"
           }
         ]
       },
@@ -963,6 +963,57 @@
         ]
       },
       {
+        "id": "eth",
+        "name": "Ethereum",
+        "type": "crypto",
+        "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+        "count": 3,
+        "articles": [
+          {
+            "id": "a3a291bc7efc0affd19ada5faa6fdc2f",
+            "title": "Harmony proposes shutting down layer 1, migrating ONE to Ethereum",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X3TQW8VBS6ZBQQFGKK9XGD/hi-bancor-excludes-users-2.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-07T05:00:49.000Z",
+            "path": "articles/a3a291bc7efc0affd19ada5faa6fdc2f.json"
+          },
+          {
+            "id": "c44aee85f9e01d3871f61bc55c2f8438",
+            "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/robinhood-chain-learn-gID_7-pID_2.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-05T16:06:41.000Z",
+            "path": "articles/c44aee85f9e01d3871f61bc55c2f8438.json"
+          },
+          {
+            "id": "6149d2e349364eef87de8457ba5233bd",
+            "title": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-03T18:15:07.000Z",
+            "path": "articles/6149d2e349364eef87de8457ba5233bd.json"
+          }
+        ]
+      },
+      {
         "id": "xrp",
         "name": "XRP",
         "type": "crypto",
@@ -1172,43 +1223,6 @@
             "category": "crypto",
             "published_at": "2026-09-05T15:01:04.000Z",
             "path": "articles/18bef56348cf59f65a65a1e4afeb741f.json"
-          }
-        ]
-      },
-      {
-        "id": "eth",
-        "name": "Ethereum",
-        "type": "crypto",
-        "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-        "count": 2,
-        "articles": [
-          {
-            "id": "c44aee85f9e01d3871f61bc55c2f8438",
-            "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/robinhood-chain-learn-gID_7-pID_2.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-05T16:06:41.000Z",
-            "path": "articles/c44aee85f9e01d3871f61bc55c2f8438.json"
-          },
-          {
-            "id": "6149d2e349364eef87de8457ba5233bd",
-            "title": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-03T18:15:07.000Z",
-            "path": "articles/6149d2e349364eef87de8457ba5233bd.json"
           }
         ]
       },

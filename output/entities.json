@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T10:30:47.400Z",
-  "total": 22,
+  "updated_at": "2026-09-07T10:45:33.476Z",
+  "total": 23,
   "entities": [
     {
       "id": "btc",
@@ -9,14 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 34
+      "count": 33
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 34
+      "count": 33
     },
     {
       "id": "ai",
@@ -37,7 +37,14 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 11
+      "count": 13
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "openai",
@@ -47,13 +54,6 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 6
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "eth",
@@ -81,6 +81,13 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "oil",
@@ -115,6 +122,15 @@
       "count": 2
     },
     {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -126,13 +142,6 @@
     {
       "id": "defi",
       "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
       "type": "topic",
       "icon": "",
       "count": 1

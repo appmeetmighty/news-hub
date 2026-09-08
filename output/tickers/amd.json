@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T12:01:16.625Z",
+  "updated_at": "2026-09-08T22:30:49.276Z",
   "id": "amd",
   "symbol": "AMD",
   "name": "AMD",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "9456c41502fb6095cbd1303740d46b6d",
-      "title": "AMD buys chip startup that hardwires AI models into its silicon",
-      "description": "Taalas' current chip runs a small version of Meta's Llama 3.1, though the company is working on chips for bigger and more advanced models.",
+      "id": "f8cdcd3c90ea7d1a557f53b2c057975d",
+      "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning",
+      "description": "Shares of Qualcom, Corning, Intel, Advanced Micro Devices and others tied to the AI infrastructure trade popped on Tuesday.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108336929-1784339113574-Rockdale_Meta_3jpg.png?v=1784339259&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108302672-1778030248073-260109_cn_30_tech_corning_meta_cleanmp400_00_27_00Still014.jpg?v=1785269699&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,19 +23,27 @@
       "category": "stocks",
       "entities": [
         {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
-          "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
-        },
-        {
           "id": "amd",
           "symbol": "AMD",
           "name": "AMD",
           "type": "company",
           "path": "tickers/amd.json",
+          "icon": ""
+        },
+        {
+          "id": "intc",
+          "symbol": "INTC",
+          "name": "Intel",
+          "type": "company",
+          "path": "tickers/intc.json",
+          "icon": ""
+        },
+        {
+          "id": "qcom",
+          "symbol": "QCOM",
+          "name": "Qualcomm",
+          "type": "company",
+          "path": "tickers/qcom.json",
           "icon": ""
         },
         {
@@ -45,60 +53,28 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-08-06T21:42:31.000Z",
+      "published_at": "2026-09-08T22:02:53.000Z",
       "related": [
         {
-          "id": "d4e7d0279815527831aa59056e9caea7",
-          "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
+          "id": "921698a55fd737721897fc14c2a83cca",
+          "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-08-06T20:31:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/d4e7d0279815527831aa59056e9caea7.json"
-        },
-        {
-          "id": "2a04e6546a44f1e175b3e0fccd07b311",
-          "title": "DuckDuckGo’s Meta-Trolling 'Normal F***ing Sunglasses' Sell Out in Under a Week",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/duckduckgo-normal-sunglasses-decrypt-style-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-06T16:19:39.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-08T20:12:25.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2a04e6546a44f1e175b3e0fccd07b311.json"
+          "path": "articles/921698a55fd737721897fc14c2a83cca.json"
         },
         {
-          "id": "5384b471cac597c486f20f2f8d610f4c",
-          "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-08-05T21:24:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/5384b471cac597c486f20f2f8d610f4c.json"
-        },
-        {
-          "id": "e0d9a038d19462e493d6cb5f0641c276",
-          "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
-          "image": "https://image.cnbcfm.com/api/v1/image/108345103-1785924806297-gettyimages-2286557794-AFP_C2VJ6VK.jpeg?v=1785925238&w=1920&h=1080",
+          "id": "421bf7459de6336be7030de31029c9da",
+          "title": "These dividend stocks could catch a tailwind from data center pushback",
+          "image": "https://image.cnbcfm.com/api/v1/image/108039426-1727328143599-gettyimages-2171751221-pdjg3krrmw6r7nqtn2iw3f3cyu.jpeg?v=1754074690&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -106,15 +82,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-08T05:21:12.000Z",
+          "published_at": "2026-09-08T19:29:41.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 10,
-          "path": "articles/e0d9a038d19462e493d6cb5f0641c276.json"
+          "breaking_score": 0,
+          "path": "articles/421bf7459de6336be7030de31029c9da.json"
         },
         {
-          "id": "24f96a50b66897e08afe0d93fde318a1",
-          "title": "SK Hynix to invest $38 billion building new memory chip plants as demand soars",
-          "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
+          "id": "00e884ee35493a48480ecfb69ff85e28",
+          "title": "Lilly perseveres in a bad day for drug stocks — plus, Boeing's mixed deliveries",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359875-17888859092026-09-08t164028z_1466658885_rc22fnav82e2_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -122,12 +98,45 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-08-07T09:02:59.000Z",
+          "published_at": "2026-09-08T19:03:06.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/24f96a50b66897e08afe0d93fde318a1.json"
+          "breaking_score": 0,
+          "path": "articles/00e884ee35493a48480ecfb69ff85e28.json"
+        },
+        {
+          "id": "92f27b8c3ac1a81d59bec820ae46c2b2",
+          "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357942-1788371823130-gettyimages-2292633736-AFP_C7797D6.jpeg?v=1788371880&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T12:27:29.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/92f27b8c3ac1a81d59bec820ae46c2b2.json"
+        },
+        {
+          "id": "aa5d9bdf121f885ec530b0de743545af",
+          "title": "LIV Golf files for Chapter 11 bankruptcy protection",
+          "image": "https://image.cnbcfm.com/api/v1/image/108360036-1788900125453-gettyimages-2291856679-livmsm08232026_529.jpeg?v=1788903475&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T21:45:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/aa5d9bdf121f885ec530b0de743545af.json"
         }
-      ]
+      ],
+      "path": "articles/f8cdcd3c90ea7d1a557f53b2c057975d.json"
     }
   ]
 }

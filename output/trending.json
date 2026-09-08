@@ -1,15 +1,29 @@
 {
-  "updated_at": "2026-09-08T11:15:32.627Z",
+  "updated_at": "2026-09-08T11:30:50.153Z",
   "articles": {
-    "generated_at": "2026-09-08T11:15:32.627Z",
+    "generated_at": "2026-09-08T11:30:50.153Z",
     "topics": [
       {
         "id": "btc",
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 35,
+        "count": 34,
         "articles": [
+          {
+            "id": "f5b110119e948c00d4887ae56dc7d6e4",
+            "title": "Bitcoin ETFs are still $1 billion shy of breaking even in 2026",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-08T11:26:27.000Z",
+            "path": "articles/f5b110119e948c00d4887ae56dc7d6e4.json"
+          },
           {
             "id": "bc44c003db71d48899e8cd682efc4df0",
             "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
@@ -135,20 +149,6 @@
             "category": "crypto",
             "published_at": "2026-09-07T19:13:56.000Z",
             "path": "articles/0a05fe5fee5c96cb0f22ec772e787287.json"
-          },
-          {
-            "id": "46bf15ad092fd94a08db03889506af58",
-            "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-07T18:16:04.000Z",
-            "path": "articles/46bf15ad092fd94a08db03889506af58.json"
           }
         ]
       },
@@ -157,7 +157,7 @@
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 22,
+        "count": 21,
         "articles": [
           {
             "id": "9e72581a4e4a8b227815b375b9753ef0",
@@ -1014,6 +1014,57 @@
         ]
       },
       {
+        "id": "defi",
+        "name": "DeFi",
+        "type": "topic",
+        "icon": "",
+        "count": 3,
+        "articles": [
+          {
+            "id": "bee73faa3756ef35712c590c3c759b75",
+            "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-08T11:06:31.000Z",
+            "path": "articles/bee73faa3756ef35712c590c3c759b75.json"
+          },
+          {
+            "id": "bc44c003db71d48899e8cd682efc4df0",
+            "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-08T10:33:17.000Z",
+            "path": "articles/bc44c003db71d48899e8cd682efc4df0.json"
+          },
+          {
+            "id": "78f7a83e386d3f9bd80908be49f28870",
+            "title": "Here’s what happened in crypto today",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-08T05:52:38.000Z",
+            "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
+          }
+        ]
+      },
+      {
         "id": "anthropic",
         "name": "Anthropic",
         "type": "company",
@@ -1061,43 +1112,6 @@
             "category": "crypto",
             "published_at": "2026-09-05T13:01:03.000Z",
             "path": "articles/6bd761c0b0dd6d8893b124d821f33fc8.json"
-          }
-        ]
-      },
-      {
-        "id": "defi",
-        "name": "DeFi",
-        "type": "topic",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "bc44c003db71d48899e8cd682efc4df0",
-            "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-08T10:33:17.000Z",
-            "path": "articles/bc44c003db71d48899e8cd682efc4df0.json"
-          },
-          {
-            "id": "78f7a83e386d3f9bd80908be49f28870",
-            "title": "Here’s what happened in crypto today",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-08T05:52:38.000Z",
-            "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
           }
         ]
       },

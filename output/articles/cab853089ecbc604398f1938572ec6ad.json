@@ -1,28 +1,30 @@
 {
-  "id": "1c3e8cd0d2141855ed80313a114dc595",
-  "title": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
-  "description": "The rating agency's new framework combines Wall Street financial auditing with Web3 code reviews to evaluate both off-chain reserves and on-chain security.",
+  "id": "cab853089ecbc604398f1938572ec6ad",
+  "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
+  "description": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps",
-  "image": "",
+  "breaking_score": 40,
+  "url": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108341104-1785249291222-gettyimages-2278013093-TFSPI_28052026-5649.jpeg?v=1785249316&w=1920&h=1080",
   "source": {
-    "id": "coindesk",
-    "name": "CoinDesk",
-    "website": "https://www.coindesk.com",
-    "icon": "https://logo.clearbit.com/coindesk.com"
+    "id": "cnbc",
+    "name": "CNBC",
+    "website": "https://www.cnbc.com",
+    "icon": "https://logo.clearbit.com/cnbc.com"
   },
-  "category": "crypto",
+  "category": "stocks",
   "entities": [
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
+      "id": "v",
+      "symbol": "V",
+      "name": "Visa",
+      "type": "company",
+      "path": "tickers/v.json",
       "icon": ""
     },
     {
-      "id": "web3",
-      "name": "Web3",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": ""
     },
@@ -33,40 +35,8 @@
       "icon": ""
     }
   ],
-  "published_at": "2026-09-07T10:35:23.000Z",
+  "published_at": "2026-09-08T11:30:01.000Z",
   "related": [
-    {
-      "id": "b81d6e9d3e22f5d930a56c889ccdd85f",
-      "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-08T09:51:01.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/b81d6e9d3e22f5d930a56c889ccdd85f.json"
-    },
-    {
-      "id": "f1c3816c3e0d779b8b579d25d5ebbec2",
-      "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-07T14:12:15.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/f1c3816c3e0d779b8b579d25d5ebbec2.json"
-    },
     {
       "id": "727385ccf4cc2f69c4855561f9e45f54",
       "title": "Circle to acquire Tazapay to expand USDC cross-border payments",
@@ -100,6 +70,22 @@
       "path": "articles/00e8778fa26baf62c8900d244c5df4df.json"
     },
     {
+      "id": "b81d6e9d3e22f5d930a56c889ccdd85f",
+      "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-08T09:51:01.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/b81d6e9d3e22f5d930a56c889ccdd85f.json"
+    },
+    {
       "id": "1760fdde7476f10cdf7919441a5ef94c",
       "title": "Swiss stablecoin sandbox enters testing phase, adds two new partners",
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZX2FFP141K4E1MB6ZD752S/switzerlandcryptovalley.jpg",
@@ -114,6 +100,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/1760fdde7476f10cdf7919441a5ef94c.json"
+    },
+    {
+      "id": "f1c3816c3e0d779b8b579d25d5ebbec2",
+      "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-07T14:12:15.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/f1c3816c3e0d779b8b579d25d5ebbec2.json"
     }
   ]
 }

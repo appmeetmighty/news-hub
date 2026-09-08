@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-09-08T05:01:01.944Z",
+  "updated_at": "2026-09-08T05:15:33.940Z",
   "id": "anthropic",
   "symbol": "ANTHROPIC",
   "name": "Anthropic",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
+    {
+      "id": "220a55b6fdf9741cc2bc649b03d987a3",
+      "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+      "description": "Mistral is betting on open-weight AI models to help it compete with players like OpenAI and Anthropic.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-08T05:00:01.000Z",
+      "related": [
+        {
+          "id": "edbb972b73f0840a37a0253049484798",
+          "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-06T12:13:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/edbb972b73f0840a37a0253049484798.json"
+        },
+        {
+          "id": "2821b5405ad8c54022179f7da35b3025",
+          "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-05T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/2821b5405ad8c54022179f7da35b3025.json"
+        },
+        {
+          "id": "9c089f7a72dbbff8b3062578907f3fb8",
+          "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-07T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"
+        },
+        {
+          "id": "3abf309240ca07fdc9e2e8dcf1c9cc16",
+          "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-06T17:01:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3abf309240ca07fdc9e2e8dcf1c9cc16.json"
+        },
+        {
+          "id": "6bd761c0b0dd6d8893b124d821f33fc8",
+          "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/12/math-1500720_1920-gID_4.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-05T13:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6bd761c0b0dd6d8893b124d821f33fc8.json"
+        }
+      ],
+      "path": "articles/220a55b6fdf9741cc2bc649b03d987a3.json"
+    },
     {
       "id": "edbb972b73f0840a37a0253049484798",
       "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
@@ -72,6 +196,22 @@
       "published_at": "2026-09-06T12:13:49.000Z",
       "related": [
         {
+          "id": "220a55b6fdf9741cc2bc649b03d987a3",
+          "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+          "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T05:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/220a55b6fdf9741cc2bc649b03d987a3.json"
+        },
+        {
           "id": "c81baaed53353195790db49fa6de27f5",
           "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
           "image": "https://image.cnbcfm.com/api/v1/image/108338267-1784689458606-gettyimages-2196620649-PSWAT_DSC05175.jpeg?v=1784689470&w=1920&h=1080",
@@ -134,22 +274,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3abf309240ca07fdc9e2e8dcf1c9cc16.json"
-        },
-        {
-          "id": "18bef56348cf59f65a65a1e4afeb741f",
-          "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-05T15:01:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/18bef56348cf59f65a65a1e4afeb741f.json"
         }
       ],
       "path": "articles/edbb972b73f0840a37a0253049484798.json"
@@ -187,6 +311,22 @@
       ],
       "published_at": "2026-09-05T13:01:03.000Z",
       "related": [
+        {
+          "id": "220a55b6fdf9741cc2bc649b03d987a3",
+          "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+          "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T05:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/220a55b6fdf9741cc2bc649b03d987a3.json"
+        },
         {
           "id": "edbb972b73f0840a37a0253049484798",
           "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
@@ -250,22 +390,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/5cbf80285b30ff7036f4bf5ef91effc3.json"
-        },
-        {
-          "id": "9c089f7a72dbbff8b3062578907f3fb8",
-          "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-07T21:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"
         }
       ],
       "path": "articles/6bd761c0b0dd6d8893b124d821f33fc8.json"

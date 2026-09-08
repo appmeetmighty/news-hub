@@ -1,10 +1,142 @@
 {
-  "updated_at": "2026-09-08T13:15:38.233Z",
+  "updated_at": "2026-09-08T13:30:52.799Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 13,
+  "total": 14,
   "articles": [
+    {
+      "id": "921698a55fd737721897fc14c2a83cca",
+      "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon ",
+      "description": "Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "qcom",
+          "symbol": "QCOM",
+          "name": "Qualcomm",
+          "type": "company",
+          "path": "tickers/qcom.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-08T13:24:47.000Z",
+      "related": [
+        {
+          "id": "c81baaed53353195790db49fa6de27f5",
+          "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338267-1784689458606-gettyimages-2196620649-PSWAT_DSC05175.jpeg?v=1788873998&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T03:54:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/c81baaed53353195790db49fa6de27f5.json"
+        },
+        {
+          "id": "e826376044b5866d9c8df944a374f77d",
+          "title": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359491-1788809835140-gettyimages-2293457090-MIAMI_CARGO_CRASH.jpeg?v=1788809878&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-07T21:36:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/e826376044b5866d9c8df944a374f77d.json"
+        },
+        {
+          "id": "edbb972b73f0840a37a0253049484798",
+          "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-06T12:13:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/edbb972b73f0840a37a0253049484798.json"
+        },
+        {
+          "id": "f19be4ea58e6cfaf7e2b71e36b020564",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108320444-17811980572026-06-11t163738z_1837455652_rc2srlabsnhz_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f19be4ea58e6cfaf7e2b71e36b020564.json"
+        },
+        {
+          "id": "b8ddec914c2c0e90d81c3059ba808630",
+          "title": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
+          "image": "https://image.cnbcfm.com/api/v1/image/108205733-17592427952025-09-30t142745z_1546551272_rc2d2haa5ryh_rtrmadp_0_astrazeneca-listing-analysis.jpeg?v=1759242830&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T12:32:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b8ddec914c2c0e90d81c3059ba808630.json"
+        }
+      ],
+      "path": "articles/921698a55fd737721897fc14c2a83cca.json"
+    },
     {
       "id": "92f27b8c3ac1a81d59bec820ae46c2b2",
       "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
@@ -47,22 +179,6 @@
           "path": "articles/0c91a36ad9d760bc0e57804aa37f809e.json"
         },
         {
-          "id": "df731cf757796c05dd19e97e8f72b7eb",
-          "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359358-1788744345070-gettyimages-2286037889-img_0187.jpeg?v=1788744405&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-07T23:23:10.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/df731cf757796c05dd19e97e8f72b7eb.json"
-        },
-        {
           "id": "8117eabab177ff9b853b028e4dc6bf48",
           "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
           "image": "https://image.cnbcfm.com/api/v1/image/108312455-1779885957667-gettyimages-2278350700-20260526-151940.jpeg?v=1779885978&w=1920&h=1080",
@@ -79,9 +195,9 @@
           "path": "articles/8117eabab177ff9b853b028e4dc6bf48.json"
         },
         {
-          "id": "a0a0bcb9ddc16368f1e7391fc9d006e6",
-          "title": "Here’s where rental demand is heading and what it means for future home sales",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358689-1788469880413-gettyimages-2206674974-dji_0367-1copy.jpeg?v=1788469941&w=1920&h=1080",
+          "id": "d5faed90ab625b99563658ccafbcedb6",
+          "title": "Pharma major Novartis falls 9% after three drug trial setbacks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108228575-1777380338033-108228575-17635800222025-11-19t184505z_634187656_rc2tzhab4gku_rtrmadp_0_novartis-usa.jpg?v=1777380346&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -89,15 +205,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-08T13:14:56.000Z",
+          "published_at": "2026-09-08T13:26:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/a0a0bcb9ddc16368f1e7391fc9d006e6.json"
+          "path": "articles/d5faed90ab625b99563658ccafbcedb6.json"
         },
         {
-          "id": "b8ddec914c2c0e90d81c3059ba808630",
-          "title": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
-          "image": "https://image.cnbcfm.com/api/v1/image/108205733-17592427952025-09-30t142745z_1546551272_rc2d2haa5ryh_rtrmadp_0_astrazeneca-listing-analysis.jpeg?v=1759242830&w=1920&h=1080",
+          "id": "921698a55fd737721897fc14c2a83cca",
+          "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -105,10 +221,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-08T12:32:44.000Z",
+          "published_at": "2026-09-08T13:24:47.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b8ddec914c2c0e90d81c3059ba808630.json"
+          "path": "articles/921698a55fd737721897fc14c2a83cca.json"
+        },
+        {
+          "id": "52bfc5c0d7e28b3770703ce030063c2f",
+          "title": "Brent crude oil near $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:17:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/52bfc5c0d7e28b3770703ce030063c2f.json"
         }
       ],
       "path": "articles/92f27b8c3ac1a81d59bec820ae46c2b2.json"
@@ -139,6 +271,22 @@
       "published_at": "2026-09-08T10:03:30.000Z",
       "related": [
         {
+          "id": "78f7a83e386d3f9bd80908be49f28870",
+          "title": "Here’s what happened in crypto today",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-08T13:24:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
+        },
+        {
           "id": "0496be5c2e810b1dad526726783dff38",
           "title": "Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20FPT8H132TZGKAJWQX1YBC/hi-michael-saylors-bitcoin-obsession-how-it-all-started-1.jpg",
@@ -149,7 +297,7 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-08T12:49:00.000Z",
+          "published_at": "2026-09-08T12:51:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0496be5c2e810b1dad526726783dff38.json"
@@ -201,22 +349,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/727385ccf4cc2f69c4855561f9e45f54.json"
-        },
-        {
-          "id": "00e8778fa26baf62c8900d244c5df4df",
-          "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M206SWCMNKXPJXWKTH0HCEYH/s.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-08T10:07:10.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/00e8778fa26baf62c8900d244c5df4df.json"
         }
       ],
       "path": "articles/553e0394baa7797c222d3108e234cd2b.json"
@@ -303,9 +435,9 @@
           "path": "articles/220a55b6fdf9741cc2bc649b03d987a3.json"
         },
         {
-          "id": "b8ddec914c2c0e90d81c3059ba808630",
-          "title": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
-          "image": "https://image.cnbcfm.com/api/v1/image/108205733-17592427952025-09-30t142745z_1546551272_rc2d2haa5ryh_rtrmadp_0_astrazeneca-listing-analysis.jpeg?v=1759242830&w=1920&h=1080",
+          "id": "d5faed90ab625b99563658ccafbcedb6",
+          "title": "Pharma major Novartis falls 9% after three drug trial setbacks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108228575-1777380338033-108228575-17635800222025-11-19t184505z_634187656_rc2tzhab4gku_rtrmadp_0_novartis-usa.jpg?v=1777380346&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -313,15 +445,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-08T12:32:44.000Z",
+          "published_at": "2026-09-08T13:26:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b8ddec914c2c0e90d81c3059ba808630.json"
+          "path": "articles/d5faed90ab625b99563658ccafbcedb6.json"
         },
         {
-          "id": "92f27b8c3ac1a81d59bec820ae46c2b2",
-          "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357942-1788371823130-gettyimages-2292633736-AFP_C7797D6.jpeg?v=1788371880&w=1920&h=1080",
+          "id": "921698a55fd737721897fc14c2a83cca",
+          "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -329,10 +461,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-08T12:27:29.000Z",
+          "published_at": "2026-09-08T13:24:47.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/92f27b8c3ac1a81d59bec820ae46c2b2.json"
+          "path": "articles/921698a55fd737721897fc14c2a83cca.json"
         }
       ],
       "path": "articles/46d5274703189beedf33432cf8fcc4ec.json"
@@ -378,6 +510,22 @@
       ],
       "published_at": "2026-09-08T08:30:30.000Z",
       "related": [
+        {
+          "id": "1954b8fcf5006bdda2b4c7c27132b62d",
+          "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-08T13:18:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1954b8fcf5006bdda2b4c7c27132b62d.json"
+        },
         {
           "id": "f5b110119e948c00d4887ae56dc7d6e4",
           "title": "Bitcoin ETFs are still $1 billion shy of breaking even in 2026",
@@ -441,22 +589,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/531379c2de59ab7cd37f74b2249423b0.json"
-        },
-        {
-          "id": "ece1d1da3f1247d1bac0266b95950148",
-          "title": "Bitcoin blinks less than gold when Treasury yields move",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-07T11:15:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ece1d1da3f1247d1bac0266b95950148.json"
         }
       ],
       "path": "articles/41356f07d205ac5a1134c99a722425fe.json"
@@ -519,6 +651,22 @@
           "path": "articles/edbb972b73f0840a37a0253049484798.json"
         },
         {
+          "id": "f19be4ea58e6cfaf7e2b71e36b020564",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108320444-17811980572026-06-11t163738z_1837455652_rc2srlabsnhz_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f19be4ea58e6cfaf7e2b71e36b020564.json"
+        },
+        {
           "id": "9c089f7a72dbbff8b3062578907f3fb8",
           "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
@@ -565,22 +713,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6bd761c0b0dd6d8893b124d821f33fc8.json"
-        },
-        {
-          "id": "5c25bb590c4de74a9e5ed066d84b9f3a",
-          "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-04T15:36:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5c25bb590c4de74a9e5ed066d84b9f3a.json"
         }
       ],
       "path": "articles/220a55b6fdf9741cc2bc649b03d987a3.json"
@@ -667,6 +799,22 @@
           "path": "articles/edbb972b73f0840a37a0253049484798.json"
         },
         {
+          "id": "f19be4ea58e6cfaf7e2b71e36b020564",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108320444-17811980572026-06-11t163738z_1837455652_rc2srlabsnhz_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f19be4ea58e6cfaf7e2b71e36b020564.json"
+        },
+        {
           "id": "220a55b6fdf9741cc2bc649b03d987a3",
           "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
           "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
@@ -681,22 +829,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/220a55b6fdf9741cc2bc649b03d987a3.json"
-        },
-        {
-          "id": "3e59c46120b22e3b1b539867f17c3937",
-          "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-04T21:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3e59c46120b22e3b1b539867f17c3937.json"
         }
       ],
       "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"
@@ -789,6 +921,22 @@
           "path": "articles/c44aee85f9e01d3871f61bc55c2f8438.json"
         },
         {
+          "id": "741dd8befac56627927a0fd59d823eaa",
+          "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-08T13:18:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/741dd8befac56627927a0fd59d823eaa.json"
+        },
+        {
           "id": "6a9a0923b4885969460ffb77e19fc1c7",
           "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
           "image": "",
@@ -803,22 +951,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6a9a0923b4885969460ffb77e19fc1c7.json"
-        },
-        {
-          "id": "741dd8befac56627927a0fd59d823eaa",
-          "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-08T12:27:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/741dd8befac56627927a0fd59d823eaa.json"
         }
       ],
       "path": "articles/533d25b70b922a84f07fa63752eb7b18.json"
@@ -905,9 +1037,41 @@
           "path": "articles/220a55b6fdf9741cc2bc649b03d987a3.json"
         },
         {
+          "id": "921698a55fd737721897fc14c2a83cca",
+          "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:24:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/921698a55fd737721897fc14c2a83cca.json"
+        },
+        {
+          "id": "f19be4ea58e6cfaf7e2b71e36b020564",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108320444-17811980572026-06-11t163738z_1837455652_rc2srlabsnhz_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f19be4ea58e6cfaf7e2b71e36b020564.json"
+        },
+        {
           "id": "c81baaed53353195790db49fa6de27f5",
           "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
-          "image": "https://image.cnbcfm.com/api/v1/image/108338267-1784689458606-gettyimages-2196620649-PSWAT_DSC05175.jpeg?v=1784689470&w=1920&h=1080",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338267-1784689458606-gettyimages-2196620649-PSWAT_DSC05175.jpeg?v=1788873998&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -935,38 +1099,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"
-        },
-        {
-          "id": "3abf309240ca07fdc9e2e8dcf1c9cc16",
-          "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-06T17:01:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3abf309240ca07fdc9e2e8dcf1c9cc16.json"
-        },
-        {
-          "id": "18bef56348cf59f65a65a1e4afeb741f",
-          "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-05T15:01:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/18bef56348cf59f65a65a1e4afeb741f.json"
         }
       ],
       "path": "articles/edbb972b73f0840a37a0253049484798.json"
@@ -996,6 +1128,22 @@
       ],
       "published_at": "2026-09-06T12:00:01.000Z",
       "related": [
+        {
+          "id": "921698a55fd737721897fc14c2a83cca",
+          "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:24:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/921698a55fd737721897fc14c2a83cca.json"
+        },
         {
           "id": "b8ddec914c2c0e90d81c3059ba808630",
           "title": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
@@ -1045,9 +1193,9 @@
           "path": "articles/a39877a683c51ed63a5b882126376f4d.json"
         },
         {
-          "id": "a0a0bcb9ddc16368f1e7391fc9d006e6",
-          "title": "Here’s where rental demand is heading and what it means for future home sales",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358689-1788469880413-gettyimages-2206674974-dji_0367-1copy.jpeg?v=1788469941&w=1920&h=1080",
+          "id": "d5faed90ab625b99563658ccafbcedb6",
+          "title": "Pharma major Novartis falls 9% after three drug trial setbacks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108228575-1777380338033-108228575-17635800222025-11-19t184505z_634187656_rc2tzhab4gku_rtrmadp_0_novartis-usa.jpg?v=1777380346&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1055,26 +1203,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-08T13:14:56.000Z",
+          "published_at": "2026-09-08T13:26:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/a0a0bcb9ddc16368f1e7391fc9d006e6.json"
-        },
-        {
-          "id": "92f27b8c3ac1a81d59bec820ae46c2b2",
-          "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357942-1788371823130-gettyimages-2292633736-AFP_C7797D6.jpeg?v=1788371880&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-08T12:27:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/92f27b8c3ac1a81d59bec820ae46c2b2.json"
+          "path": "articles/d5faed90ab625b99563658ccafbcedb6.json"
         }
       ],
       "path": "articles/b6e60ae99b9212ee90441104880e2fe5.json"
@@ -1369,6 +1501,22 @@
           "path": "articles/3abf309240ca07fdc9e2e8dcf1c9cc16.json"
         },
         {
+          "id": "f19be4ea58e6cfaf7e2b71e36b020564",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108320444-17811980572026-06-11t163738z_1837455652_rc2srlabsnhz_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f19be4ea58e6cfaf7e2b71e36b020564.json"
+        },
+        {
           "id": "220a55b6fdf9741cc2bc649b03d987a3",
           "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
           "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
@@ -1399,22 +1547,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/edbb972b73f0840a37a0253049484798.json"
-        },
-        {
-          "id": "46bf15ad092fd94a08db03889506af58",
-          "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-07T18:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/46bf15ad092fd94a08db03889506af58.json"
         }
       ],
       "path": "articles/5c25bb590c4de74a9e5ed066d84b9f3a.json"

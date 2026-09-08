@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-09-08T13:15:38.237Z",
+  "updated_at": "2026-09-08T13:30:52.798Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
+    {
+      "id": "921698a55fd737721897fc14c2a83cca",
+      "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon ",
+      "description": "Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "qcom",
+          "symbol": "QCOM",
+          "name": "Qualcomm",
+          "type": "company",
+          "path": "tickers/qcom.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-08T13:24:47.000Z",
+      "related": [
+        {
+          "id": "c81baaed53353195790db49fa6de27f5",
+          "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338267-1784689458606-gettyimages-2196620649-PSWAT_DSC05175.jpeg?v=1788873998&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T03:54:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/c81baaed53353195790db49fa6de27f5.json"
+        },
+        {
+          "id": "e826376044b5866d9c8df944a374f77d",
+          "title": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359491-1788809835140-gettyimages-2293457090-MIAMI_CARGO_CRASH.jpeg?v=1788809878&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-07T21:36:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/e826376044b5866d9c8df944a374f77d.json"
+        },
+        {
+          "id": "edbb972b73f0840a37a0253049484798",
+          "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-06T12:13:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/edbb972b73f0840a37a0253049484798.json"
+        },
+        {
+          "id": "f19be4ea58e6cfaf7e2b71e36b020564",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108320444-17811980572026-06-11t163738z_1837455652_rc2srlabsnhz_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f19be4ea58e6cfaf7e2b71e36b020564.json"
+        },
+        {
+          "id": "b8ddec914c2c0e90d81c3059ba808630",
+          "title": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
+          "image": "https://image.cnbcfm.com/api/v1/image/108205733-17592427952025-09-30t142745z_1546551272_rc2d2haa5ryh_rtrmadp_0_astrazeneca-listing-analysis.jpeg?v=1759242830&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T12:32:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b8ddec914c2c0e90d81c3059ba808630.json"
+        }
+      ],
+      "path": "articles/921698a55fd737721897fc14c2a83cca.json"
+    },
     {
       "id": "c81baaed53353195790db49fa6de27f5",
       "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
@@ -13,7 +145,7 @@
       "reading_time_minutes": 1,
       "breaking_score": 20,
       "url": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108338267-1784689458606-gettyimages-2196620649-PSWAT_DSC05175.jpeg?v=1784689470&w=1920&h=1080",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338267-1784689458606-gettyimages-2196620649-PSWAT_DSC05175.jpeg?v=1788873998&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -34,6 +166,22 @@
       "published_at": "2026-09-08T03:54:54.000Z",
       "related": [
         {
+          "id": "921698a55fd737721897fc14c2a83cca",
+          "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:24:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/921698a55fd737721897fc14c2a83cca.json"
+        },
+        {
           "id": "edbb972b73f0840a37a0253049484798",
           "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
           "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
@@ -48,6 +196,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/edbb972b73f0840a37a0253049484798.json"
+        },
+        {
+          "id": "f19be4ea58e6cfaf7e2b71e36b020564",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108320444-17811980572026-06-11t163738z_1837455652_rc2srlabsnhz_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f19be4ea58e6cfaf7e2b71e36b020564.json"
         },
         {
           "id": "0bac17f0e14edc980016ec23bc46e401",
@@ -80,38 +244,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/1143f96ce4b123904eadd2311c820920.json"
-        },
-        {
-          "id": "4d62d8ff518e95fcee69153a0eaa9de2",
-          "title": "Global shipping authorities warn of maritime trade breakdown amid geopolitical turmoil",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347200-1786361743566-gettyimages-2289247271-AFP_C4AZ2JM.jpeg?v=1786361786&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-08T07:28:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4d62d8ff518e95fcee69153a0eaa9de2.json"
-        },
-        {
-          "id": "220a55b6fdf9741cc2bc649b03d987a3",
-          "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
-          "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-08T07:27:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/220a55b6fdf9741cc2bc649b03d987a3.json"
         }
       ],
       "path": "articles/c81baaed53353195790db49fa6de27f5.json"
@@ -198,9 +330,41 @@
           "path": "articles/220a55b6fdf9741cc2bc649b03d987a3.json"
         },
         {
+          "id": "921698a55fd737721897fc14c2a83cca",
+          "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:24:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/921698a55fd737721897fc14c2a83cca.json"
+        },
+        {
+          "id": "f19be4ea58e6cfaf7e2b71e36b020564",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108320444-17811980572026-06-11t163738z_1837455652_rc2srlabsnhz_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T13:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f19be4ea58e6cfaf7e2b71e36b020564.json"
+        },
+        {
           "id": "c81baaed53353195790db49fa6de27f5",
           "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
-          "image": "https://image.cnbcfm.com/api/v1/image/108338267-1784689458606-gettyimages-2196620649-PSWAT_DSC05175.jpeg?v=1784689470&w=1920&h=1080",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338267-1784689458606-gettyimages-2196620649-PSWAT_DSC05175.jpeg?v=1788873998&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -228,38 +392,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"
-        },
-        {
-          "id": "3abf309240ca07fdc9e2e8dcf1c9cc16",
-          "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-06T17:01:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3abf309240ca07fdc9e2e8dcf1c9cc16.json"
-        },
-        {
-          "id": "18bef56348cf59f65a65a1e4afeb741f",
-          "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-05T15:01:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/18bef56348cf59f65a65a1e4afeb741f.json"
         }
       ],
       "path": "articles/edbb972b73f0840a37a0253049484798.json"

@@ -1,11 +1,159 @@
 {
-  "updated_at": "2026-09-08T09:45:33.882Z",
+  "updated_at": "2026-09-08T10:01:03.451Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "edbb972b73f0840a37a0253049484798",
+      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+      "description": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-06T12:13:49.000Z",
+      "related": [
+        {
+          "id": "220a55b6fdf9741cc2bc649b03d987a3",
+          "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+          "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T07:27:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/220a55b6fdf9741cc2bc649b03d987a3.json"
+        },
+        {
+          "id": "c81baaed53353195790db49fa6de27f5",
+          "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338267-1784689458606-gettyimages-2196620649-PSWAT_DSC05175.jpeg?v=1784689470&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T03:54:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/c81baaed53353195790db49fa6de27f5.json"
+        },
+        {
+          "id": "9c089f7a72dbbff8b3062578907f3fb8",
+          "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-07T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"
+        },
+        {
+          "id": "3abf309240ca07fdc9e2e8dcf1c9cc16",
+          "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-06T17:01:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3abf309240ca07fdc9e2e8dcf1c9cc16.json"
+        },
+        {
+          "id": "18bef56348cf59f65a65a1e4afeb741f",
+          "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-05T15:01:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/18bef56348cf59f65a65a1e4afeb741f.json"
+        }
+      ],
+      "path": "articles/edbb972b73f0840a37a0253049484798.json"
+    },
     {
       "id": "18bef56348cf59f65a65a1e4afeb741f",
       "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
@@ -33,6 +181,22 @@
       ],
       "published_at": "2026-09-05T15:01:04.000Z",
       "related": [
+        {
+          "id": "edbb972b73f0840a37a0253049484798",
+          "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-06T12:13:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/edbb972b73f0840a37a0253049484798.json"
+        },
         {
           "id": "0a05fe5fee5c96cb0f22ec772e787287",
           "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
@@ -66,6 +230,22 @@
           "path": "articles/ea168f7e9cb38ed9c5d55f74dcbfe513.json"
         },
         {
+          "id": "5f96eb87cccf495f93c088858f9c4c0e",
+          "title": "Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-08T09:54:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5f96eb87cccf495f93c088858f9c4c0e.json"
+        },
+        {
           "id": "c6353dd1c2199981bccd9bd44ff262b7",
           "title": "Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already",
           "image": "",
@@ -80,38 +260,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c6353dd1c2199981bccd9bd44ff262b7.json"
-        },
-        {
-          "id": "e4eeebc99a9893c7831b99b4c95b0454",
-          "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-08T04:41:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/e4eeebc99a9893c7831b99b4c95b0454.json"
-        },
-        {
-          "id": "5cbf80285b30ff7036f4bf5ef91effc3",
-          "title": "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/tv-listening-gID_1.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-07T21:46:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5cbf80285b30ff7036f4bf5ef91effc3.json"
         }
       ],
       "path": "articles/18bef56348cf59f65a65a1e4afeb741f.json"

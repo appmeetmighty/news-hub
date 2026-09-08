@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-08T14:30:56.638Z",
+  "updated_at": "2026-09-08T14:45:36.533Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "52bfc5c0d7e28b3770703ce030063c2f",
@@ -31,8 +31,24 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-08T14:13:55.000Z",
+      "published_at": "2026-09-08T14:31:25.000Z",
       "related": [
+        {
+          "id": "ed20f94baf3ea5284a303f198e0bb8be",
+          "title": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359767-1788876189618-gettyimages-2180328801-nikoubazl-iraniana241016_npBsN.jpeg?v=1788876212&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T14:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ed20f94baf3ea5284a303f198e0bb8be.json"
+        },
         {
           "id": "41356f07d205ac5a1134c99a722425fe",
           "title": "Live updates: Bitcoin below Friday's post-jobs report low as oil and copper surge higher",
@@ -76,7 +92,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-08T14:29:07.000Z",
+          "published_at": "2026-09-08T14:43:12.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/921698a55fd737721897fc14c2a83cca.json"
@@ -96,6 +112,100 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3b937032e44d473918f65222040ec8cb.json"
+        }
+      ],
+      "path": "articles/52bfc5c0d7e28b3770703ce030063c2f.json"
+    },
+    {
+      "id": "ed20f94baf3ea5284a303f198e0bb8be",
+      "title": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises ",
+      "description": "The latest U.S. action under \"Operation Economic Outcast\" targets all Iranian airlines that were not already facing sanctions.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359767-1788876189618-gettyimages-2180328801-nikoubazl-iraniana241016_npBsN.jpeg?v=1788876212&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-08T14:30:01.000Z",
+      "related": [
+        {
+          "id": "52bfc5c0d7e28b3770703ce030063c2f",
+          "title": "Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
+          "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T14:31:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/52bfc5c0d7e28b3770703ce030063c2f.json"
+        },
+        {
+          "id": "41356f07d205ac5a1134c99a722425fe",
+          "title": "Live updates: Bitcoin below Friday's post-jobs report low as oil and copper surge higher",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-08T08:30:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 5,
+          "path": "articles/41356f07d205ac5a1134c99a722425fe.json"
+        },
+        {
+          "id": "3b937032e44d473918f65222040ec8cb",
+          "title": "UK announces new Israeli settlement sanctions, despite U.S. warning of economic consequences",
+          "image": "https://image.cnbcfm.com/api/v1/image/108000265-1719841882166-gettyimages-2158994421-pbn21819.jpeg?v=1732893832&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T14:15:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3b937032e44d473918f65222040ec8cb.json"
+        },
+        {
+          "id": "921698a55fd737721897fc14c2a83cca",
+          "title": "Qualcomm issues Amazon warrants to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-08T14:43:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/921698a55fd737721897fc14c2a83cca.json"
         },
         {
           "id": "454af08fd95068d65d11f4f67ea2ed2a",
@@ -114,7 +224,7 @@
           "path": "articles/454af08fd95068d65d11f4f67ea2ed2a.json"
         }
       ],
-      "path": "articles/52bfc5c0d7e28b3770703ce030063c2f.json"
+      "path": "articles/ed20f94baf3ea5284a303f198e0bb8be.json"
     },
     {
       "id": "41356f07d205ac5a1134c99a722425fe",

@@ -1,11 +1,11 @@
 {
-  "id": "18bef56348cf59f65a65a1e4afeb741f",
-  "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
-  "description": "The update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.",
+  "id": "54d51e009533ce4688916fb025722599",
+  "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+  "description": "NYU's Tristan Buckmaster accuses OpenAI's Sébastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alpöge.",
   "reading_time_minutes": 1,
-  "breaking_score": 60,
-  "url": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
+  "breaking_score": 0,
+  "url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7-pID_2.png@png",
   "source": {
     "id": "decrypt",
     "name": "Decrypt",
@@ -15,20 +15,28 @@
   "category": "crypto",
   "entities": [
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
       "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com"
+      "path": "tickers/openai.json",
+      "icon": ""
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": ""
     }
   ],
-  "published_at": "2026-09-05T15:01:04.000Z",
+  "published_at": "2026-09-08T21:38:34.000Z",
   "related": [
     {
-      "id": "0a05fe5fee5c96cb0f22ec772e787287",
-      "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+      "id": "6bd761c0b0dd6d8893b124d821f33fc8",
+      "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/12/math-1500720_1920-gID_4.jpg@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -36,42 +44,42 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-09-07T19:13:56.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "path": "articles/0a05fe5fee5c96cb0f22ec772e787287.json"
-    },
-    {
-      "id": "ea168f7e9cb38ed9c5d55f74dcbfe513",
-      "title": "'Purported White-Hat Hackers' Withdraw $320M in Bitcoin From Liquid",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-07T09:55:42.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "path": "articles/ea168f7e9cb38ed9c5d55f74dcbfe513.json"
-    },
-    {
-      "id": "54d51e009533ce4688916fb025722599",
-      "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7-pID_2.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-08T21:38:34.000Z",
+      "published_at": "2026-09-05T13:01:03.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/54d51e009533ce4688916fb025722599.json"
+      "path": "articles/6bd761c0b0dd6d8893b124d821f33fc8.json"
+    },
+    {
+      "id": "9c089f7a72dbbff8b3062578907f3fb8",
+      "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-07T21:16:03.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"
+    },
+    {
+      "id": "3abf309240ca07fdc9e2e8dcf1c9cc16",
+      "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-06T17:01:04.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/3abf309240ca07fdc9e2e8dcf1c9cc16.json"
     },
     {
       "id": "1200cc8363751d25fef7f1f4e797219c",

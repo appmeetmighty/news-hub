@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T16:15:36.938Z",
-  "total": 27,
+  "updated_at": "2026-09-08T16:30:52.058Z",
+  "total": 28,
   "entities": [
     {
       "id": "btc",
@@ -40,20 +40,20 @@
       "count": 13
     },
     {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 9
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 10
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 8
+      "count": 9
     },
     {
       "id": "openai",
@@ -74,12 +74,12 @@
       "count": 4
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
+      "id": "v",
+      "symbol": "V",
+      "name": "Visa",
       "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
+      "path": "tickers/v.json",
+      "icon": "",
       "count": 3
     },
     {
@@ -97,6 +97,15 @@
       "type": "topic",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 2
     },
     {
       "id": "amzn",
@@ -117,15 +126,6 @@
       "count": 2
     },
     {
-      "id": "v",
-      "symbol": "V",
-      "name": "Visa",
-      "type": "company",
-      "path": "tickers/v.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
@@ -142,6 +142,15 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 1
     },
     {
       "id": "qcom",

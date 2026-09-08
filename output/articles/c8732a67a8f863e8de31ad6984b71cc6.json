@@ -1,10 +1,10 @@
 {
-  "id": "f1c3816c3e0d779b8b579d25d5ebbec2",
-  "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
-  "description": "Industry leaders debate whether digital dollar wallets will dismantle traditional bank accounts or simply modernize the underlying infrastructure.",
+  "id": "c8732a67a8f863e8de31ad6984b71cc6",
+  "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
+  "description": "Visa's stablecoin settlement volume surpassed a $20 billion annualized run rate, up 15x year over year. Now it wants blockchain lenders to use that data to extend credit to the issuers driving the growth.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
+  "url": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
   "image": "",
   "source": {
     "id": "coindesk",
@@ -15,17 +15,47 @@
   "category": "crypto",
   "entities": [
     {
+      "id": "v",
+      "symbol": "V",
+      "name": "Visa",
+      "type": "company",
+      "path": "tickers/v.json",
+      "icon": ""
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": ""
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-09-07T14:12:15.000Z",
+  "published_at": "2026-09-08T14:29:14.000Z",
   "related": [
     {
-      "id": "c8732a67a8f863e8de31ad6984b71cc6",
-      "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
+      "id": "cab853089ecbc604398f1938572ec6ad",
+      "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341104-1785249291222-gettyimages-2278013093-TFSPI_28052026-5649.jpeg?v=1785249316&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-08T11:30:01.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 40,
+      "path": "articles/cab853089ecbc604398f1938572ec6ad.json"
+    },
+    {
+      "id": "f1c3816c3e0d779b8b579d25d5ebbec2",
+      "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
       "image": "",
       "source": {
         "id": "coindesk",
@@ -34,10 +64,10 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-09-08T14:29:14.000Z",
+      "published_at": "2026-09-07T14:12:15.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/c8732a67a8f863e8de31ad6984b71cc6.json"
+      "path": "articles/f1c3816c3e0d779b8b579d25d5ebbec2.json"
     },
     {
       "id": "00e8778fa26baf62c8900d244c5df4df",
@@ -86,22 +116,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/1760fdde7476f10cdf7919441a5ef94c.json"
-    },
-    {
-      "id": "50221b0a32d1643ce8b275fe8209db8e",
-      "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-04T17:19:55.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/50221b0a32d1643ce8b275fe8209db8e.json"
     }
   ]
 }

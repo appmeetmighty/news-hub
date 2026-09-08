@@ -1,11 +1,11 @@
 {
-  "id": "edd4affbb3110400c44275f958613c2e",
-  "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
-  "description": "Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand.",
+  "id": "62347144beb0b580749feba3d700fe16",
+  "title": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety",
+  "description": "Meta unveiled its Muse personal agent app that comes in a free tier or a monthly subscription costing $20 or $100 depending on usage.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108359455-1788783695273-c_Isar_Aerospace_Flight_2.jpg?v=1788783960&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108333030-17836276302026-07-09t193642z_2135966945_rc2iama4gjkq_rtrmadp_0_media-sunvalley.jpeg?v=1783627672&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,20 +15,26 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
       "type": "company",
-      "path": "tickers/spacex.json",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-09-07T12:26:40.000Z",
+  "published_at": "2026-09-08T19:09:43.000Z",
   "related": [
     {
-      "id": "a68b81cc6fa5f12cf2455aafd4fba182",
-      "title": "This data center stock is up over 1000% in the last five years. Trader Mike Khouw sees more gains",
-      "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&w=1920&h=1080",
+      "id": "edbb972b73f0840a37a0253049484798",
+      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+      "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -36,26 +42,26 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-08T17:06:39.000Z",
+      "published_at": "2026-09-06T12:13:49.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/a68b81cc6fa5f12cf2455aafd4fba182.json"
+      "path": "articles/edbb972b73f0840a37a0253049484798.json"
     },
     {
-      "id": "62347144beb0b580749feba3d700fe16",
-      "title": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety",
-      "image": "https://image.cnbcfm.com/api/v1/image/108333030-17836276302026-07-09t193642z_2135966945_rc2iama4gjkq_rtrmadp_0_media-sunvalley.jpeg?v=1783627672&w=1920&h=1080",
+      "id": "35c3deb1f15e14546149c7041c87e4d3",
+      "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-09-08T19:09:43.000Z",
+      "category": "crypto",
+      "published_at": "2026-09-08T15:28:43.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/62347144beb0b580749feba3d700fe16.json"
+      "path": "articles/35c3deb1f15e14546149c7041c87e4d3.json"
     },
     {
       "id": "5907df18471105014f0ab54109149d86",

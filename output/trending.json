@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-08T15:15:42.778Z",
+  "updated_at": "2026-09-08T15:30:52.528Z",
   "articles": {
-    "generated_at": "2026-09-08T15:15:42.778Z",
+    "generated_at": "2026-09-08T15:30:52.528Z",
     "topics": [
       {
         "id": "btc",
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 31,
+        "count": 30,
         "articles": [
           {
             "id": "8dfde9c2c2e52929a57f751cb0471f16",
@@ -157,8 +157,22 @@
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 22,
+        "count": 23,
         "articles": [
+          {
+            "id": "4d67cc9d24a607665606155e1950d4e5",
+            "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/crypto-com-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-08T15:25:16.000Z",
+            "path": "articles/4d67cc9d24a607665606155e1950d4e5.json"
+          },
           {
             "id": "750916650908af9b99d9bf0a55416197",
             "title": "Is Bitcoin too volatile to risk your retirement on?",
@@ -284,20 +298,6 @@
             "category": "crypto",
             "published_at": "2026-09-08T05:10:33.000Z",
             "path": "articles/967ba6b10b68a52506c0511349c30398.json"
-          },
-          {
-            "id": "634273e9cf2e7b4dcc4c34159aac0c8a",
-            "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-07T20:31:03.000Z",
-            "path": "articles/634273e9cf2e7b4dcc4c34159aac0c8a.json"
           }
         ]
       },
@@ -1098,6 +1098,57 @@
         ]
       },
       {
+        "id": "oil",
+        "name": "Oil",
+        "type": "commodity",
+        "icon": "",
+        "count": 3,
+        "articles": [
+          {
+            "id": "52bfc5c0d7e28b3770703ce030063c2f",
+            "title": "Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
+            "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-08T15:30:21.000Z",
+            "path": "articles/52bfc5c0d7e28b3770703ce030063c2f.json"
+          },
+          {
+            "id": "ed20f94baf3ea5284a303f198e0bb8be",
+            "title": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises ",
+            "image": "https://image.cnbcfm.com/api/v1/image/108359767-1788876189618-gettyimages-2180328801-nikoubazl-iraniana241016_npBsN.jpeg?v=1788876212&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-08T14:30:01.000Z",
+            "path": "articles/ed20f94baf3ea5284a303f198e0bb8be.json"
+          },
+          {
+            "id": "41356f07d205ac5a1134c99a722425fe",
+            "title": "Live updates: Bitcoin below Friday's post-jobs report low as oil and copper surge higher",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-08T08:30:30.000Z",
+            "path": "articles/41356f07d205ac5a1134c99a722425fe.json"
+          }
+        ]
+      },
+      {
         "id": "nvda",
         "name": "NVIDIA",
         "type": "company",
@@ -1200,57 +1251,6 @@
         ]
       },
       {
-        "id": "oil",
-        "name": "Oil",
-        "type": "commodity",
-        "icon": "",
-        "count": 3,
-        "articles": [
-          {
-            "id": "52bfc5c0d7e28b3770703ce030063c2f",
-            "title": "Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
-            "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-08T14:31:25.000Z",
-            "path": "articles/52bfc5c0d7e28b3770703ce030063c2f.json"
-          },
-          {
-            "id": "ed20f94baf3ea5284a303f198e0bb8be",
-            "title": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises ",
-            "image": "https://image.cnbcfm.com/api/v1/image/108359767-1788876189618-gettyimages-2180328801-nikoubazl-iraniana241016_npBsN.jpeg?v=1788876212&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-08T14:30:01.000Z",
-            "path": "articles/ed20f94baf3ea5284a303f198e0bb8be.json"
-          },
-          {
-            "id": "41356f07d205ac5a1134c99a722425fe",
-            "title": "Live updates: Bitcoin below Friday's post-jobs report low as oil and copper surge higher",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-08T08:30:30.000Z",
-            "path": "articles/41356f07d205ac5a1134c99a722425fe.json"
-          }
-        ]
-      },
-      {
         "id": "defi",
         "name": "DeFi",
         "type": "topic",
@@ -1298,6 +1298,43 @@
             "category": "crypto",
             "published_at": "2026-09-08T10:33:17.000Z",
             "path": "articles/bc44c003db71d48899e8cd682efc4df0.json"
+          }
+        ]
+      },
+      {
+        "id": "meta",
+        "name": "Meta",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/meta.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "35c3deb1f15e14546149c7041c87e4d3",
+            "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-08T15:28:43.000Z",
+            "path": "articles/35c3deb1f15e14546149c7041c87e4d3.json"
+          },
+          {
+            "id": "edbb972b73f0840a37a0253049484798",
+            "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+            "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-06T12:13:49.000Z",
+            "path": "articles/edbb972b73f0840a37a0253049484798.json"
           }
         ]
       },
@@ -1690,29 +1727,6 @@
             "category": "crypto",
             "published_at": "2026-09-06T16:01:03.000Z",
             "path": "articles/53508f02e959e892fd79db40346877a5.json"
-          }
-        ]
-      },
-      {
-        "id": "meta",
-        "name": "Meta",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/meta.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "edbb972b73f0840a37a0253049484798",
-            "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-            "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-06T12:13:49.000Z",
-            "path": "articles/edbb972b73f0840a37a0253049484798.json"
           }
         ]
       }

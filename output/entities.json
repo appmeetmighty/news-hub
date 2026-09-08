@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T12:45:34.388Z",
-  "total": 27,
+  "updated_at": "2026-09-08T13:01:07.190Z",
+  "total": 28,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 33
+      "count": 34
     },
     {
       "id": "crypto",
@@ -65,13 +65,6 @@
       "count": 5
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -93,6 +86,13 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -138,6 +138,15 @@
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
       "count": 2
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 1
     },
     {
       "id": "v",

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-08T19:15:37.616Z",
+  "updated_at": "2026-09-08T19:30:52.062Z",
   "articles": {
-    "generated_at": "2026-09-08T19:15:37.616Z",
+    "generated_at": "2026-09-08T19:30:52.062Z",
     "topics": [
       {
         "id": "btc",
@@ -1037,8 +1037,22 @@
         "name": "Oil",
         "type": "commodity",
         "icon": "",
-        "count": 5,
+        "count": 6,
         "articles": [
+          {
+            "id": "86a96474a61eaccd75bcf4344b7c9f15",
+            "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
+            "image": "https://image.cnbcfm.com/api/v1/image/106137180-1568840625341rts2ne6y.jpg?v=1788892533&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-08T19:27:16.000Z",
+            "path": "articles/86a96474a61eaccd75bcf4344b7c9f15.json"
+          },
           {
             "id": "6a0158bb4e1d25de13bd414fe8ce2751",
             "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
@@ -1307,71 +1321,6 @@
         ]
       },
       {
-        "id": "openai",
-        "name": "OpenAI",
-        "type": "company",
-        "icon": "",
-        "count": 4,
-        "articles": [
-          {
-            "id": "29e3f4eba6156b0e8fe1ce7b8786193d",
-            "title": "Cramer says these 2 stocks are big winners from OpenAI's new model release ",
-            "image": "https://image.cnbcfm.com/api/v1/image/108278545-17736875242026-03-16t185752z_189989858_rc2u5kadcuos_rtrmadp_0_nvidia-gtc.jpeg?v=1773687557&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-08T16:41:42.000Z",
-            "path": "articles/29e3f4eba6156b0e8fe1ce7b8786193d.json"
-          },
-          {
-            "id": "9c089f7a72dbbff8b3062578907f3fb8",
-            "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-07T21:16:03.000Z",
-            "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"
-          },
-          {
-            "id": "3abf309240ca07fdc9e2e8dcf1c9cc16",
-            "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-06T17:01:04.000Z",
-            "path": "articles/3abf309240ca07fdc9e2e8dcf1c9cc16.json"
-          },
-          {
-            "id": "edbb972b73f0840a37a0253049484798",
-            "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-            "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-06T12:13:49.000Z",
-            "path": "articles/edbb972b73f0840a37a0253049484798.json"
-          }
-        ]
-      },
-      {
         "id": "meta",
         "name": "Meta",
         "type": "company",
@@ -1423,11 +1372,62 @@
         ]
       },
       {
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
+        "icon": "",
+        "count": 3,
+        "articles": [
+          {
+            "id": "9c089f7a72dbbff8b3062578907f3fb8",
+            "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-07T21:16:03.000Z",
+            "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"
+          },
+          {
+            "id": "3abf309240ca07fdc9e2e8dcf1c9cc16",
+            "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-06T17:01:04.000Z",
+            "path": "articles/3abf309240ca07fdc9e2e8dcf1c9cc16.json"
+          },
+          {
+            "id": "edbb972b73f0840a37a0253049484798",
+            "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+            "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-06T12:13:49.000Z",
+            "path": "articles/edbb972b73f0840a37a0253049484798.json"
+          }
+        ]
+      },
+      {
         "id": "nvda",
         "name": "NVIDIA",
         "type": "company",
         "icon": "https://logo.clearbit.com/nvidia.com",
-        "count": 3,
+        "count": 2,
         "articles": [
           {
             "id": "921698a55fd737721897fc14c2a83cca",
@@ -1442,20 +1442,6 @@
             "category": "stocks",
             "published_at": "2026-09-08T17:54:07.000Z",
             "path": "articles/921698a55fd737721897fc14c2a83cca.json"
-          },
-          {
-            "id": "29e3f4eba6156b0e8fe1ce7b8786193d",
-            "title": "Cramer says these 2 stocks are big winners from OpenAI's new model release ",
-            "image": "https://image.cnbcfm.com/api/v1/image/108278545-17736875242026-03-16t185752z_189989858_rc2u5kadcuos_rtrmadp_0_nvidia-gtc.jpeg?v=1773687557&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-08T16:41:42.000Z",
-            "path": "articles/29e3f4eba6156b0e8fe1ce7b8786193d.json"
           },
           {
             "id": "edbb972b73f0840a37a0253049484798",

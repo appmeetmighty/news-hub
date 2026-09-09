@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:45:35.024Z",
+  "updated_at": "2026-09-09T07:30:50.260Z",
   "id": "sol",
   "symbol": "SOL",
   "name": "Solana",
@@ -7,21 +7,29 @@
   "total": 1,
   "articles": [
     {
-      "id": "dd98ec019d475677a0ce44560dde9eef",
-      "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
-      "description": "Fomo generated $1.76 million on Friday, beating Pump.fun’s $1.1 million, though the memecoin launchpad remains ahead over 30 days.",
+      "id": "3e0c04f3d71263b0fe48d4896a85b75d",
+      "title": "Live updates: XRP funds stand out among U.S. ETFs as bitcoin, ether, solana funds see outflows",
+      "description": "XRP ETFs took nearly $2 million on Tuesday while bitcoin, ether, solana and hyperliquid funds all lost money. Grayscale's products account for the entire outflow in both bitcoin and ether.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XA5XHGVP1S4E8DGH0JJ4XZ/sponsor-screen-traid2.jpg",
+      "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
+      "image": "",
       "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "sol",
           "symbol": "SOL",
@@ -29,92 +37,100 @@
           "type": "crypto",
           "path": "tickers/sol.json",
           "icon": "https://assets.coincap.io/assets/icons/sol@2x.png"
+        },
+        {
+          "id": "xrp",
+          "symbol": "XRP",
+          "name": "XRP",
+          "type": "crypto",
+          "path": "tickers/xrp.json",
+          "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
         }
       ],
-      "published_at": "2026-09-07T07:45:39.000Z",
+      "published_at": "2026-09-09T07:20:51.000Z",
       "related": [
         {
-          "id": "441aa8f448a718a46eb1ac3cc51dcad1",
-          "title": "Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20X8RTKQJQJ462YAJQDMNR1/hi-new-industry-new-rules-building-an-industry-without-bias.png",
+          "id": "41356f07d205ac5a1134c99a722425fe",
+          "title": "Live updates: Bitcoin slips below $78,500 as stocks close lower",
+          "image": "",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-08T17:03:47.000Z",
+          "published_at": "2026-09-08T08:30:30.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/441aa8f448a718a46eb1ac3cc51dcad1.json"
+          "breaking_score": 30,
+          "path": "articles/41356f07d205ac5a1134c99a722425fe.json"
         },
         {
-          "id": "325bb595bc5d960b48371084e3145e1f",
-          "title": "Visa brings onchain credit to its growing stablecoin card business",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20SBKPJPVDD6E1F2T89YK6W/hi-your-crypto-wallet-is-the-key-to-your-web3.jpg",
+          "id": "f5b110119e948c00d4887ae56dc7d6e4",
+          "title": "Bitcoin ETFs are still $1 billion shy of breaking even in 2026",
+          "image": "",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-08T16:11:53.000Z",
+          "published_at": "2026-09-08T11:26:27.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/325bb595bc5d960b48371084e3145e1f.json"
+          "path": "articles/f5b110119e948c00d4887ae56dc7d6e4.json"
         },
         {
-          "id": "00c730c14d581c9f73ab54bdef68ab7b",
-          "title": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20T148B6W28RQ4JBENHW4HR/hi-how-to-make-a-profit-when-bitcoin-prices-are-stagnant-oil-1.jpg",
+          "id": "016abc7efb4884a6071fd99d7e0ada64",
+          "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
+          "image": "",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-08T15:41:11.000Z",
+          "published_at": "2026-09-09T04:35:55.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/00c730c14d581c9f73ab54bdef68ab7b.json"
+          "path": "articles/016abc7efb4884a6071fd99d7e0ada64.json"
         },
         {
-          "id": "40e581ed12d2e74a354e2ff1964d2cb4",
-          "title": "Bitmine buys 28k ETH, completes 97% of treasury accumulation goal",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20KSZECABXAPAY6J96Y7ZX7/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings-bitmine-4.jpg",
+          "id": "1954b8fcf5006bdda2b4c7c27132b62d",
+          "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
+          "image": "",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-08T13:51:04.000Z",
+          "published_at": "2026-09-08T13:18:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/40e581ed12d2e74a354e2ff1964d2cb4.json"
+          "path": "articles/1954b8fcf5006bdda2b4c7c27132b62d.json"
         },
         {
-          "id": "750916650908af9b99d9bf0a55416197",
-          "title": "Is Bitcoin too volatile to risk your retirement on?",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZBNEHJ54QYSM9PS5HZF0CH/magazine-retire-early-with-crypto.jpg",
+          "id": "bc44c003db71d48899e8cd682efc4df0",
+          "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
+          "image": "",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-08T13:30:00.000Z",
+          "published_at": "2026-09-08T10:33:17.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/750916650908af9b99d9bf0a55416197.json"
+          "breaking_score": 20,
+          "path": "articles/bc44c003db71d48899e8cd682efc4df0.json"
         }
       ],
-      "path": "articles/dd98ec019d475677a0ce44560dde9eef.json"
+      "path": "articles/3e0c04f3d71263b0fe48d4896a85b75d.json"
     }
   ]
 }

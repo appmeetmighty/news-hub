@@ -1,11 +1,11 @@
 {
-  "id": "a9685d28d5290eb69d353277941fac50",
-  "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
-  "description": "The investors will subscribe to new shares in three tranches and collectively own about 5.54% of the airport operator after the final tranche.",
+  "id": "c3d6c533a6c097100eaacb8cdb99f473",
+  "title": "Silver Lake merges Cegid and Silae in 10 billion euro bet on AI-era software",
+  "description": "French firms Cegid, which sells business management software, and Silae, a payroll and HR platform, are set to combine.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108360192-1788933235128-gettyimages-2244423827-INDIA_ADANI.jpeg?v=1788933250&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/09/silver-lake-merges-cegid-silae-ai-software-deal.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108360430-1788962923947-gettyimages-1516232466-a7m07726copy.jpeg?v=1788962930&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,25 +13,24 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-09T06:26:59.000Z",
-  "related": [
+  "entities": [
     {
-      "id": "c3d6c533a6c097100eaacb8cdb99f473",
-      "title": "Silver Lake merges Cegid and Silae in 10 billion euro bet on AI-era software",
-      "image": "https://image.cnbcfm.com/api/v1/image/108360430-1788962923947-gettyimages-1516232466-a7m07726copy.jpeg?v=1788962930&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-09T14:26:10.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/c3d6c533a6c097100eaacb8cdb99f473.json"
+      "id": "silver",
+      "symbol": "SILVER",
+      "name": "Silver",
+      "type": "commodity",
+      "path": "tickers/silver.json",
+      "icon": ""
     },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-09-09T14:26:10.000Z",
+  "related": [
     {
       "id": "d745806b567ab964171485318a4176c5",
       "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
@@ -47,6 +46,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/d745806b567ab964171485318a4176c5.json"
+    },
+    {
+      "id": "a9685d28d5290eb69d353277941fac50",
+      "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
+      "image": "https://image.cnbcfm.com/api/v1/image/108360192-1788933235128-gettyimages-2244423827-INDIA_ADANI.jpeg?v=1788933250&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-09T06:26:59.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/a9685d28d5290eb69d353277941fac50.json"
     },
     {
       "id": "0bac17f0e14edc980016ec23bc46e401",

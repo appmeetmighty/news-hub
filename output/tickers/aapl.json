@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T15:45:35.671Z",
+  "updated_at": "2026-09-09T17:59:40.697Z",
   "id": "aapl",
   "symbol": "AAPL",
   "name": "Apple",
@@ -7,20 +7,20 @@
   "total": 1,
   "articles": [
     {
-      "id": "5907df18471105014f0ab54109149d86",
-      "title": "Chinese giants Xiaomi, Huawei race to get ahead of Apple’s rumored foldable iPhone",
-      "description": "Xiaomi and Huawei launched new foldables ahead of Apple’s event, where the company is rumored to unveil its first foldable iPhone.",
+      "id": "27e9e5814bb09389c630613de1e05404",
+      "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
+      "description": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/08/xiaomi-huawei-apple-foldable-iphone.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108359710-1788870312281-gettyimages-2294087912-vcg111664633725.jpeg?v=1788870362&w=1920&h=1080",
+      "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
         {
           "id": "aapl",
@@ -29,92 +29,106 @@
           "type": "company",
           "path": "tickers/aapl.json",
           "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "gemini",
+          "symbol": "GEMINI",
+          "name": "Gemini",
+          "type": "company",
+          "path": "tickers/gemini.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-09-08T20:21:37.000Z",
+      "published_at": "2026-09-09T17:50:14.000Z",
       "related": [
         {
-          "id": "4beb88386f0cbd1ea80df1adf75b8af0",
-          "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level",
-          "image": "https://image.cnbcfm.com/api/v1/image/108356369-1788183022484-gettyimages-2233913598-kd205923_mxbxztip.jpeg?v=1788183085&w=1920&h=1080",
+          "id": "baf5699c2e8413291943f1f80fa20510",
+          "title": "Gemini receives Singapore payment license for crypto services",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22A0GM1G22S8VPZXWGBQS1G/hi-time-to-switch-license-singapore.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-09T15:42:04.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-09T05:27:12.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4beb88386f0cbd1ea80df1adf75b8af0.json"
+          "path": "articles/baf5699c2e8413291943f1f80fa20510.json"
         },
         {
-          "id": "dcb59b0e857113646bc619bba6f6ed20",
-          "title": "Anthropic researchers warn of AI threat to humanity. Here's what experts say about the risk",
-          "image": "https://image.cnbcfm.com/api/v1/image/108342851-1785448588442-gettyimages-2283765640-AI_MODELS.jpeg?v=1786641567&w=1920&h=1080",
+          "id": "7090be4a3897e345916a801d3f77aa6e",
+          "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-09T15:40:44.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-09T16:46:05.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/dcb59b0e857113646bc619bba6f6ed20.json"
+          "path": "articles/7090be4a3897e345916a801d3f77aa6e.json"
         },
         {
-          "id": "cfac671e0cfd40ad1131e5133ccdb651",
-          "title": "Meta shares are still cheap and worth buying. Here's why",
-          "image": "https://image.cnbcfm.com/api/v1/image/108217759-1761656513846-gettyimages-2235448475-META_CONNECT.jpeg?v=1769640322&w=1920&h=1080",
+          "id": "1348cd7d76b0701ee05d8a0552b2a47b",
+          "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/hunter-biden-decrypt-style-01-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-09T15:37:56.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-09T15:47:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/1348cd7d76b0701ee05d8a0552b2a47b.json"
+        },
+        {
+          "id": "a1668e481f09856567bb60d00d1c8825",
+          "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/bitcoin-ice-frozen-gID_7.jpeg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-09T17:16:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/cfac671e0cfd40ad1131e5133ccdb651.json"
+          "path": "articles/a1668e481f09856567bb60d00d1c8825.json"
         },
         {
-          "id": "91acffc6f1bc9aa76ccaad651cd72603",
-          "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-          "image": "https://image.cnbcfm.com/api/v1/image/108360193-1788933400290-gettyimages-2202775479-CANADA_TARIFF_ALCOHOL.jpeg?v=1788933406&w=1920&h=1080",
+          "id": "8be7514be588f76243cd88d7919e1791",
+          "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/laptop-meme-coin-learn-gID_4-pID_2.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-09T15:24:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/91acffc6f1bc9aa76ccaad651cd72603.json"
-        },
-        {
-          "id": "b52469d84e800c10547a6167d21dc0ed",
-          "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
-          "image": "https://image.cnbcfm.com/api/v1/image/108360395-1788958326899-docs_a555b6d1-e963-4ac1-afeb-eb82babbab7b_riviera_images_1.jpg?v=1788958414&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-09T15:20:33.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-09T16:40:50.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b52469d84e800c10547a6167d21dc0ed.json"
+          "path": "articles/8be7514be588f76243cd88d7919e1791.json"
         }
       ],
-      "path": "articles/5907df18471105014f0ab54109149d86.json"
+      "path": "articles/27e9e5814bb09389c630613de1e05404.json"
     }
   ]
 }

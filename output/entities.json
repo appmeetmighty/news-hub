@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T01:45:32.152Z",
-  "total": 28,
+  "updated_at": "2026-09-09T02:01:01.868Z",
+  "total": 29,
   "entities": [
     {
       "id": "btc",
@@ -99,6 +99,24 @@
       "count": 3
     },
     {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 2
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 2
+    },
+    {
       "id": "qcom",
       "symbol": "QCOM",
       "name": "Qualcomm",
@@ -124,6 +142,15 @@
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
       "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "amd",
@@ -157,15 +184,6 @@
       "type": "company",
       "path": "tickers/spacex.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
       "count": 1
     },
     {
@@ -225,15 +243,6 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 1
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
       "count": 1
     }
   ]

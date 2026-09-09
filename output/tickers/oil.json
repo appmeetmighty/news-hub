@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-09T10:15:36.077Z",
+  "updated_at": "2026-09-09T10:30:49.492Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 5,
+  "total": 4,
   "articles": [
     {
       "id": "86a96474a61eaccd75bcf4344b7c9f15",
@@ -33,22 +33,6 @@
       ],
       "published_at": "2026-09-09T09:08:39.000Z",
       "related": [
-        {
-          "id": "22e4757fad44723bf59438869443fd5a",
-          "title": "This alternative energy stock is more popular than SpaceX in the options pits. Here's why",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357832-1788364301709-Traders-OB-20260902-ACJ-PRESS-7.jpg?v=1788364539&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-08T20:23:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/22e4757fad44723bf59438869443fd5a.json"
-        },
         {
           "id": "3e0c04f3d71263b0fe48d4896a85b75d",
           "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin trades around $79,000",
@@ -112,6 +96,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a0445e44f17dadc81283887e3dd4b6a1.json"
+        },
+        {
+          "id": "b52469d84e800c10547a6167d21dc0ed",
+          "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
+          "image": "https://image.cnbcfm.com/api/v1/image/108341453-1785281973756-gettyimages-2185689219-935a8717.jpeg?v=1785281985&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-09T10:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b52469d84e800c10547a6167d21dc0ed.json"
         }
       ],
       "path": "articles/86a96474a61eaccd75bcf4344b7c9f15.json"
@@ -233,124 +233,6 @@
         }
       ],
       "path": "articles/3e0c04f3d71263b0fe48d4896a85b75d.json"
-    },
-    {
-      "id": "22e4757fad44723bf59438869443fd5a",
-      "title": "This alternative energy stock is more popular than SpaceX in the options pits. Here's why",
-      "description": "Crude oil is back above $90 and energy stocks in the S&P 500 index are approaching fresh 52-week highs.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/08/bloom-energy-is-trading-more-options-than-spacex.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108357832-1788364301709-Traders-OB-20260902-ACJ-PRESS-7.jpg?v=1788364539&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "spacex",
-          "symbol": "SPACEX",
-          "name": "SpaceX",
-          "type": "company",
-          "path": "tickers/spacex.json",
-          "icon": ""
-        },
-        {
-          "id": "oil",
-          "symbol": "OIL",
-          "name": "Oil",
-          "type": "commodity",
-          "path": "tickers/oil.json",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-08T20:23:21.000Z",
-      "related": [
-        {
-          "id": "86a96474a61eaccd75bcf4344b7c9f15",
-          "title": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
-          "image": "https://image.cnbcfm.com/api/v1/image/108343444-1785534847210-260729-N-QP244-1122.jpeg?v=1785535017&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-09T09:08:39.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/86a96474a61eaccd75bcf4344b7c9f15.json"
-        },
-        {
-          "id": "3e0c04f3d71263b0fe48d4896a85b75d",
-          "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin trades around $79,000",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-09T07:20:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3e0c04f3d71263b0fe48d4896a85b75d.json"
-        },
-        {
-          "id": "6a0158bb4e1d25de13bd414fe8ce2751",
-          "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-08T18:59:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6a0158bb4e1d25de13bd414fe8ce2751.json"
-        },
-        {
-          "id": "00c730c14d581c9f73ab54bdef68ab7b",
-          "title": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20T148B6W28RQ4JBENHW4HR/hi-how-to-make-a-profit-when-bitcoin-prices-are-stagnant-oil-1.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-08T15:41:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/00c730c14d581c9f73ab54bdef68ab7b.json"
-        },
-        {
-          "id": "dcb59b0e857113646bc619bba6f6ed20",
-          "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
-          "image": "https://image.cnbcfm.com/api/v1/image/108342851-1785448588442-gettyimages-2283765640-AI_MODELS.jpeg?v=1786641567&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-09T08:48:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/dcb59b0e857113646bc619bba6f6ed20.json"
-        }
-      ],
-      "path": "articles/22e4757fad44723bf59438869443fd5a.json"
     },
     {
       "id": "6a0158bb4e1d25de13bd414fe8ce2751",
@@ -538,6 +420,22 @@
           "path": "articles/6a0158bb4e1d25de13bd414fe8ce2751.json"
         },
         {
+          "id": "561d1403a75851d5ce5369a56502fdc3",
+          "title": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-09T10:12:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/561d1403a75851d5ce5369a56502fdc3.json"
+        },
+        {
           "id": "4049bb2eb444c1fcf1b7f2a12f2cc262",
           "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22GDYQR3DVCE1PJVZEV5JJ4/hi-who-is-jack-dorsey-profile-and-biography.jpg",
@@ -568,22 +466,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/750916650908af9b99d9bf0a55416197.json"
-        },
-        {
-          "id": "0496be5c2e810b1dad526726783dff38",
-          "title": "Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20FPT8H132TZGKAJWQX1YBC/hi-michael-saylors-bitcoin-obsession-how-it-all-started-1.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-08T12:51:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0496be5c2e810b1dad526726783dff38.json"
         }
       ],
       "path": "articles/00c730c14d581c9f73ab54bdef68ab7b.json"

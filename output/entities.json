@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T15:45:35.673Z",
+  "updated_at": "2026-09-09T16:01:06.632Z",
   "total": 22,
   "entities": [
     {
@@ -26,6 +26,13 @@
       "count": 16
     },
     {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 13
+    },
+    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
@@ -33,18 +40,20 @@
       "count": 13
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 12
-    },
-    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 9
+      "count": 10
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "openai",
@@ -65,28 +74,10 @@
       "count": 7
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 7
-    },
-    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
       "icon": "",
-      "count": 4
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 4
     },
     {
@@ -96,6 +87,15 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
+      "count": 3
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 3
     },
     {
@@ -133,6 +133,15 @@
       "count": 2
     },
     {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
@@ -162,15 +171,6 @@
       "name": "ETF",
       "type": "topic",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
       "count": 1
     },
     {

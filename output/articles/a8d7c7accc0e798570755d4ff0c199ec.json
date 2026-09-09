@@ -1,19 +1,35 @@
 {
-  "id": "86a96474a61eaccd75bcf4344b7c9f15",
-  "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
-  "description": "The U.S. denied Iran’s claim that it struck two American vessels as the two sides traded attacks near the Strait of Hormuz and Brent crude hit $100 a barrel.",
+  "id": "a8d7c7accc0e798570755d4ff0c199ec",
+  "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
+  "description": "Bitcoin advanced to as high as $79,700 while Brent crude topped $100 and European shares fell, leaving crypto tracking gold rather than equities.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108343444-1785534847210-260729-N-QP244-1122.jpeg?v=1785535017&w=1920&h=1080",
+  "url": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
+  "image": "",
   "source": {
-    "id": "cnbc",
-    "name": "CNBC",
-    "website": "https://www.cnbc.com",
-    "icon": "https://logo.clearbit.com/cnbc.com"
+    "id": "coindesk",
+    "name": "CoinDesk",
+    "website": "https://www.coindesk.com",
+    "icon": "https://logo.clearbit.com/coindesk.com"
   },
-  "category": "stocks",
+  "category": "crypto",
   "entities": [
+    {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": ""
+    },
     {
       "id": "oil",
       "symbol": "OIL",
@@ -21,26 +37,16 @@
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": ""
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": ""
     }
   ],
-  "published_at": "2026-09-09T10:35:02.000Z",
+  "published_at": "2026-09-09T10:47:23.000Z",
   "related": [
-    {
-      "id": "a8d7c7accc0e798570755d4ff0c199ec",
-      "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-09T10:47:23.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/a8d7c7accc0e798570755d4ff0c199ec.json"
-    },
     {
       "id": "3e0c04f3d71263b0fe48d4896a85b75d",
       "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin trades around $79,000",
@@ -90,20 +96,36 @@
       "path": "articles/00c730c14d581c9f73ab54bdef68ab7b.json"
     },
     {
-      "id": "16396e418a49ffb66bfb0d0c6d134394",
-      "title": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours ",
-      "image": "https://image.cnbcfm.com/api/v1/image/108360206-1788935108315-gettyimages-2271060387-boivin-notitle260416_npYv5.jpeg?v=1788935125&w=1920&h=1080",
+      "id": "016abc7efb4884a6071fd99d7e0ada64",
+      "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
+      "image": "",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
-      "published_at": "2026-09-09T08:34:55.000Z",
+      "category": "crypto",
+      "published_at": "2026-09-09T04:35:55.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/16396e418a49ffb66bfb0d0c6d134394.json"
+      "path": "articles/016abc7efb4884a6071fd99d7e0ada64.json"
+    },
+    {
+      "id": "1954b8fcf5006bdda2b4c7c27132b62d",
+      "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-08T13:18:21.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/1954b8fcf5006bdda2b4c7c27132b62d.json"
     }
   ]
 }

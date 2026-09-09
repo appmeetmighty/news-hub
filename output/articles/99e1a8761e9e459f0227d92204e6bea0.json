@@ -1,10 +1,10 @@
 {
-  "id": "016abc7efb4884a6071fd99d7e0ada64",
-  "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
-  "description": "Bitcoin fell to nearly $77,600 on Tuesday before clawing most of it back, leaving it little changed on the day while zcash gained roughly 43% on the week and Grayscale's new fund crossed half a billion dollars.",
+  "id": "99e1a8761e9e459f0227d92204e6bea0",
+  "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+  "description": "The threat is not here yet, but fault-tolerant machines and crypto’s migration plans are starting to converge on the same 2029 window.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
+  "url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
   "image": "",
   "source": {
     "id": "coindesk",
@@ -23,17 +23,25 @@
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
     },
     {
-      "id": "etf",
-      "name": "ETF",
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-09-09T04:35:55.000Z",
+  "published_at": "2026-09-09T15:30:00.000Z",
   "related": [
     {
-      "id": "99e1a8761e9e459f0227d92204e6bea0",
-      "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+      "id": "016abc7efb4884a6071fd99d7e0ada64",
+      "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
       "image": "",
       "source": {
         "id": "coindesk",
@@ -42,26 +50,10 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-09-09T15:30:00.000Z",
+      "published_at": "2026-09-09T04:35:55.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/99e1a8761e9e459f0227d92204e6bea0.json"
-    },
-    {
-      "id": "0d6569eb7bf7bb949dcc8c4b4be36788",
-      "title": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-03-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-08T17:46:05.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/0d6569eb7bf7bb949dcc8c4b4be36788.json"
+      "path": "articles/016abc7efb4884a6071fd99d7e0ada64.json"
     },
     {
       "id": "b7f89be129d70897475cf9f6aa51e5c0",
@@ -110,6 +102,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 45,
       "path": "articles/38ea59a7c1b6b36fc19f471ff3a7e8fa.json"
+    },
+    {
+      "id": "3e0c04f3d71263b0fe48d4896a85b75d",
+      "title": "Live updates: Bitcoin gives up gains as yields head higher following Treasury buyback announcement",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-09T07:20:51.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/3e0c04f3d71263b0fe48d4896a85b75d.json"
     }
   ]
 }

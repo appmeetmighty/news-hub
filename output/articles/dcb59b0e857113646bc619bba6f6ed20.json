@@ -1,7 +1,7 @@
 {
   "id": "dcb59b0e857113646bc619bba6f6ed20",
-  "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
-  "description": "An Anthropic safety researcher said there is a greater than 10% chance AI could \"kill all humans\" after a former colleague quits over safety concerns.",
+  "title": "Anthropic researchers warn of AI threat to humanity. Here's what experts say about the risk",
+  "description": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\"",
   "reading_time_minutes": 1,
   "breaking_score": 0,
   "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
@@ -14,6 +14,14 @@
   },
   "category": "stocks",
   "entities": [
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": ""
+    },
     {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
@@ -29,24 +37,8 @@
       "icon": ""
     }
   ],
-  "published_at": "2026-09-09T12:26:29.000Z",
+  "published_at": "2026-09-09T15:40:44.000Z",
   "related": [
-    {
-      "id": "bf1cd5d294d109844eb2b20c12d66ad7",
-      "title": "AI could kill us, Anthropic researcher says after resigning",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-09T06:20:38.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/bf1cd5d294d109844eb2b20c12d66ad7.json"
-    },
     {
       "id": "54d51e009533ce4688916fb025722599",
       "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
@@ -64,9 +56,9 @@
       "path": "articles/54d51e009533ce4688916fb025722599.json"
     },
     {
-      "id": "4beb88386f0cbd1ea80df1adf75b8af0",
-      "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level",
-      "image": "https://image.cnbcfm.com/api/v1/image/108356368-1788183026034-gettyimages-2233244372-TRUMP_OVAL.jpeg?v=1788183085&w=1920&h=1080",
+      "id": "16396e418a49ffb66bfb0d0c6d134394",
+      "title": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108360206-1788935108315-gettyimages-2271060387-boivin-notitle260416_npYv5.jpeg?v=1788935125&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -74,42 +66,58 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-09T15:25:53.000Z",
+      "published_at": "2026-09-09T08:34:55.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/4beb88386f0cbd1ea80df1adf75b8af0.json"
+      "path": "articles/16396e418a49ffb66bfb0d0c6d134394.json"
     },
     {
-      "id": "91acffc6f1bc9aa76ccaad651cd72603",
-      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "image": "https://image.cnbcfm.com/api/v1/image/108360193-1788933400290-gettyimages-2202775479-CANADA_TARIFF_ALCOHOL.jpeg?v=1788933406&w=1920&h=1080",
+      "id": "bf1cd5d294d109844eb2b20c12d66ad7",
+      "title": "AI could kill us, Anthropic researcher says after resigning",
+      "image": "",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
-      "published_at": "2026-09-09T15:24:45.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 25,
-      "path": "articles/91acffc6f1bc9aa76ccaad651cd72603.json"
-    },
-    {
-      "id": "b52469d84e800c10547a6167d21dc0ed",
-      "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
-      "image": "https://image.cnbcfm.com/api/v1/image/108360395-1788958326899-docs_a555b6d1-e963-4ac1-afeb-eb82babbab7b_riviera_images_1.jpg?v=1788958414&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-09T15:20:33.000Z",
+      "category": "crypto",
+      "published_at": "2026-09-09T06:20:38.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/b52469d84e800c10547a6167d21dc0ed.json"
+      "path": "articles/bf1cd5d294d109844eb2b20c12d66ad7.json"
+    },
+    {
+      "id": "8ab28070629c85f974a99617a71feb85",
+      "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/decrypt-style-erik-voorhees-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-09T13:28:52.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 40,
+      "path": "articles/8ab28070629c85f974a99617a71feb85.json"
+    },
+    {
+      "id": "9fc967b09375c597975ae6e86a652304",
+      "title": "OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-09T11:23:50.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/9fc967b09375c597975ae6e86a652304.json"
     }
   ]
 }

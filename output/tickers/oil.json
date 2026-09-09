@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-09T15:30:54.533Z",
+  "updated_at": "2026-09-09T15:45:35.667Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 8,
+  "total": 7,
   "articles": [
     {
       "id": "596865c24a10a0ff25666c6784aa45e5",
@@ -48,22 +48,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/86a96474a61eaccd75bcf4344b7c9f15.json"
-        },
-        {
-          "id": "8af4692404932c283a7c3dc662bf80d4",
-          "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-09T12:53:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8af4692404932c283a7c3dc662bf80d4.json"
         },
         {
           "id": "ed0c49b3f68374522fcb6cee3b294425",
@@ -112,6 +96,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a8d7c7accc0e798570755d4ff0c199ec.json"
+        },
+        {
+          "id": "00c730c14d581c9f73ab54bdef68ab7b",
+          "title": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20T148B6W28RQ4JBENHW4HR/hi-how-to-make-a-profit-when-bitcoin-prices-are-stagnant-oil-1.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-08T15:41:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/00c730c14d581c9f73ab54bdef68ab7b.json"
         }
       ],
       "path": "articles/596865c24a10a0ff25666c6784aa45e5.json"
@@ -286,22 +286,6 @@
           "path": "articles/596865c24a10a0ff25666c6784aa45e5.json"
         },
         {
-          "id": "8af4692404932c283a7c3dc662bf80d4",
-          "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-09T12:53:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8af4692404932c283a7c3dc662bf80d4.json"
-        },
-        {
           "id": "a8d7c7accc0e798570755d4ff0c199ec",
           "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
           "image": "",
@@ -332,113 +316,11 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b4175869b79de41e5d932bcba7ffa31a.json"
-        }
-      ],
-      "path": "articles/86a96474a61eaccd75bcf4344b7c9f15.json"
-    },
-    {
-      "id": "8af4692404932c283a7c3dc662bf80d4",
-      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "description": "Stocks face an uphill climb against $100 oil. Plus, it's iPhone launch day.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "aapl",
-          "symbol": "AAPL",
-          "name": "Apple",
-          "type": "company",
-          "path": "tickers/aapl.json",
-          "icon": "https://logo.clearbit.com/apple.com"
         },
         {
-          "id": "oil",
-          "symbol": "OIL",
-          "name": "Oil",
-          "type": "commodity",
-          "path": "tickers/oil.json",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-09T12:53:57.000Z",
-      "related": [
-        {
-          "id": "596865c24a10a0ff25666c6784aa45e5",
-          "title": "Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-09T15:20:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/596865c24a10a0ff25666c6784aa45e5.json"
-        },
-        {
-          "id": "86a96474a61eaccd75bcf4344b7c9f15",
-          "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
-          "image": "https://image.cnbcfm.com/api/v1/image/108343444-1785534847210-260729-N-QP244-1122.jpeg?v=1785535017&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-09T13:46:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/86a96474a61eaccd75bcf4344b7c9f15.json"
-        },
-        {
-          "id": "ed0c49b3f68374522fcb6cee3b294425",
-          "title": "Trump's oil investments have gained millions during Iran war as his accounts keep trading",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351625-17871534152026-08-19t152922z_1488525833_rc2r1nalvhpd_rtrmadp_0_usa-trump.jpeg?v=1788886167&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-09T10:30:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ed0c49b3f68374522fcb6cee3b294425.json"
-        },
-        {
-          "id": "5907df18471105014f0ab54109149d86",
-          "title": "Chinese giants Xiaomi, Huawei race to get ahead of Apple’s rumored foldable iPhone",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359710-1788870312281-gettyimages-2294087912-vcg111664633725.jpeg?v=1788870362&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-08T20:21:37.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5907df18471105014f0ab54109149d86.json"
-        },
-        {
-          "id": "b4175869b79de41e5d932bcba7ffa31a",
-          "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/oil-market-decrypt-style-gID_7.jpg@png",
+          "id": "6a0158bb4e1d25de13bd414fe8ce2751",
+          "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -446,13 +328,13 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-09T15:15:01.000Z",
+          "published_at": "2026-09-08T18:59:35.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b4175869b79de41e5d932bcba7ffa31a.json"
+          "path": "articles/6a0158bb4e1d25de13bd414fe8ce2751.json"
         }
       ],
-      "path": "articles/8af4692404932c283a7c3dc662bf80d4.json"
+      "path": "articles/86a96474a61eaccd75bcf4344b7c9f15.json"
     },
     {
       "id": "a8d7c7accc0e798570755d4ff0c199ec",
@@ -646,22 +528,6 @@
           "path": "articles/596865c24a10a0ff25666c6784aa45e5.json"
         },
         {
-          "id": "8af4692404932c283a7c3dc662bf80d4",
-          "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-09T12:53:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8af4692404932c283a7c3dc662bf80d4.json"
-        },
-        {
           "id": "a8d7c7accc0e798570755d4ff0c199ec",
           "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
           "image": "",
@@ -692,6 +558,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b4175869b79de41e5d932bcba7ffa31a.json"
+        },
+        {
+          "id": "6a0158bb4e1d25de13bd414fe8ce2751",
+          "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-08T18:59:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6a0158bb4e1d25de13bd414fe8ce2751.json"
         }
       ],
       "path": "articles/ed0c49b3f68374522fcb6cee3b294425.json"

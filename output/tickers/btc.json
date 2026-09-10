@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-10T17:01:06.360Z",
+  "updated_at": "2026-09-10T17:15:38.048Z",
   "id": "btc",
   "symbol": "BTC",
   "name": "Bitcoin",
   "type": "crypto",
-  "total": 23,
+  "total": 22,
   "articles": [
     {
       "id": "37c87c4adad9137fa66ee01577d97337",
@@ -540,22 +540,6 @@
       "published_at": "2026-09-10T13:00:00.000Z",
       "related": [
         {
-          "id": "99e1a8761e9e459f0227d92204e6bea0",
-          "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-09T15:30:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/99e1a8761e9e459f0227d92204e6bea0.json"
-        },
-        {
           "id": "11ecb1ef77413d62f25f737b1d510abd",
           "title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
           "image": "",
@@ -618,6 +602,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/15ca19e78f404557c022d17046596347.json"
+        },
+        {
+          "id": "ee59393ff36cc11189c089eac5ee7892",
+          "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-10T07:01:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ee59393ff36cc11189c089eac5ee7892.json"
         }
       ],
       "path": "articles/5df8cc33ae510489c758db19a48efb24.json"
@@ -1764,20 +1764,20 @@
           "path": "articles/1c1beb97bceb7d0014a91313ca9d3347.json"
         },
         {
-          "id": "99e1a8761e9e459f0227d92204e6bea0",
-          "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-          "image": "",
+          "id": "ac0a10b2ef7eba4a13a0ce5026a040f5",
+          "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-09T15:30:00.000Z",
+          "published_at": "2026-09-09T08:26:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/99e1a8761e9e459f0227d92204e6bea0.json"
+          "path": "articles/ac0a10b2ef7eba4a13a0ce5026a040f5.json"
         }
       ],
       "path": "articles/7090be4a3897e345916a801d3f77aa6e.json"
@@ -2001,130 +2001,6 @@
         }
       ],
       "path": "articles/1c1beb97bceb7d0014a91313ca9d3347.json"
-    },
-    {
-      "id": "99e1a8761e9e459f0227d92204e6bea0",
-      "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-      "description": "The threat is not here yet, but fault-tolerant machines and crypto’s migration plans are starting to converge on the same 2029 window.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-        },
-        {
-          "id": "eth",
-          "symbol": "ETH",
-          "name": "Ethereum",
-          "type": "crypto",
-          "path": "tickers/eth.json",
-          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
-        },
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-09T15:30:00.000Z",
-      "related": [
-        {
-          "id": "5df8cc33ae510489c758db19a48efb24",
-          "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-10T13:00:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5df8cc33ae510489c758db19a48efb24.json"
-        },
-        {
-          "id": "37c87c4adad9137fa66ee01577d97337",
-          "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-10T15:14:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/37c87c4adad9137fa66ee01577d97337.json"
-        },
-        {
-          "id": "0c795c2a401a0d4f26e2cec973099c45",
-          "title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-10T11:15:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0c795c2a401a0d4f26e2cec973099c45.json"
-        },
-        {
-          "id": "11ecb1ef77413d62f25f737b1d510abd",
-          "title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-10T10:24:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/11ecb1ef77413d62f25f737b1d510abd.json"
-        },
-        {
-          "id": "15ca19e78f404557c022d17046596347",
-          "title": "Live updates: Bitcoin slumps as oil and bond yields surge to new highs",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-10T07:45:46.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/15ca19e78f404557c022d17046596347.json"
-        }
-      ],
-      "path": "articles/99e1a8761e9e459f0227d92204e6bea0.json"
     },
     {
       "id": "ac0a10b2ef7eba4a13a0ce5026a040f5",
@@ -2556,20 +2432,20 @@
           "path": "articles/1c1beb97bceb7d0014a91313ca9d3347.json"
         },
         {
-          "id": "99e1a8761e9e459f0227d92204e6bea0",
-          "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-          "image": "",
+          "id": "ac0a10b2ef7eba4a13a0ce5026a040f5",
+          "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-09T15:30:00.000Z",
+          "published_at": "2026-09-09T08:26:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/99e1a8761e9e459f0227d92204e6bea0.json"
+          "path": "articles/ac0a10b2ef7eba4a13a0ce5026a040f5.json"
         }
       ],
       "path": "articles/0d6569eb7bf7bb949dcc8c4b4be36788.json"

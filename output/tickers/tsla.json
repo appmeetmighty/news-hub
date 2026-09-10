@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:01:06.178Z",
+  "updated_at": "2026-09-10T17:15:38.043Z",
   "id": "tsla",
   "symbol": "TSLA",
   "name": "Tesla",
@@ -7,20 +7,20 @@
   "total": 1,
   "articles": [
     {
-      "id": "6e19be9713230f2ea12397fa94f294ea",
-      "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
-      "description": "",
+      "id": "1a6b29f39fa3ce69fcc1a79c9117047e",
+      "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
+      "description": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/47565107-private_space_race--1612160365_v2.jpg?v=1349505474&w=1920&h=1080",
+      "url": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/sam-altman-elon-musk-decrypt-style-gID_7.jpg@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
         {
           "id": "tsla",
@@ -29,92 +29,106 @@
           "type": "company",
           "path": "tickers/tsla.json",
           "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "xai",
+          "symbol": "XAI",
+          "name": "xAI",
+          "type": "company",
+          "path": "tickers/xai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-09-07T05:56:40.000Z",
+      "published_at": "2026-09-10T17:07:50.000Z",
       "related": [
         {
-          "id": "b6e60ae99b9212ee90441104880e2fe5",
-          "title": "AI data centers are transforming rural land markets — and fueling a backlash",
-          "image": "https://image.cnbcfm.com/api/v1/image/108354712-1787768514226-gettyimages-2292182187-dji_20260826130903_0048_d_q8u6ngun.jpeg?v=1787768547&w=1920&h=1080",
+          "id": "55914589ed9755eaff6e0139b1787099",
+          "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-06T12:00:01.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-10T15:33:11.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b6e60ae99b9212ee90441104880e2fe5.json"
+          "breaking_score": 60,
+          "path": "articles/55914589ed9755eaff6e0139b1787099.json"
         },
         {
-          "id": "d5faed90ab625b99563658ccafbcedb6",
-          "title": "Pharma major Novartis falls 9% after three drug trial setbacks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108228575-1777380338033-108228575-17635800222025-11-19t184505z_634187656_rc2tzhab4gku_rtrmadp_0_novartis-usa.jpg?v=1777380346&w=1920&h=1080",
+          "id": "a9c7ee4f27d49edc5cd9bb2c993d801f",
+          "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-08T09:23:07.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-10T13:04:27.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d5faed90ab625b99563658ccafbcedb6.json"
+          "path": "articles/a9c7ee4f27d49edc5cd9bb2c993d801f.json"
         },
         {
-          "id": "46d5274703189beedf33432cf8fcc4ec",
-          "title": "TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand",
-          "image": "https://image.cnbcfm.com/api/v1/image/108149105-1747878898420-Thumbnail_5.jpg?v=1747881259&w=1920&h=1080",
+          "id": "ea88116daf053e25865f0cf367c91aec",
+          "title": "Morning Minute: Hunter Biden’s LAPTOP Crashes",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/hunter-biden-decrypt-style-02-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-08T08:32:02.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-10T12:10:48.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/46d5274703189beedf33432cf8fcc4ec.json"
+          "breaking_score": 75,
+          "path": "articles/ea88116daf053e25865f0cf367c91aec.json"
         },
         {
-          "id": "52bfc5c0d7e28b3770703ce030063c2f",
-          "title": "Brent crude nears $100 after strikes on Saudi energy sites amid renewed Mideast hostilities ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
+          "id": "41343c5cafce59bdade6f0b24dad07ca",
+          "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/kraken-decrypt-style-01-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-08T08:23:17.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-10T11:28:55.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/52bfc5c0d7e28b3770703ce030063c2f.json"
+          "path": "articles/41343c5cafce59bdade6f0b24dad07ca.json"
         },
         {
-          "id": "0bac17f0e14edc980016ec23bc46e401",
-          "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359569-1788846459498-gettyimages-2293432420-AFP_C7HJ9Q4.jpeg?v=1788846498&w=1920&h=1080",
+          "id": "bb89d516761f340cfa9c35cbbe402974",
+          "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-08T08:21:33.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-10T10:11:52.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/0bac17f0e14edc980016ec23bc46e401.json"
+          "path": "articles/bb89d516761f340cfa9c35cbbe402974.json"
         }
       ],
-      "path": "articles/6e19be9713230f2ea12397fa94f294ea.json"
+      "path": "articles/1a6b29f39fa3ce69fcc1a79c9117047e.json"
     }
   ]
 }

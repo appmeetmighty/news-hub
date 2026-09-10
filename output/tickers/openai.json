@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-09-10T13:01:09.303Z",
+  "updated_at": "2026-09-10T13:15:35.781Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 5,
+  "total": 6,
   "articles": [
+    {
+      "id": "5213184f7eed0a0184026db4b6f4ead8",
+      "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
+      "description": "Amazon has been hesitant to open its sprawling webstore to external AI platforms.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326148-1782310849149-gettyimages-2223548919-AMAZON_PRIME_DAY.jpeg?v=1785775644&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-10T13:02:50.000Z",
+      "related": [
+        {
+          "id": "da3ba6a24f1fc593fec77e12ac0b1d0b",
+          "title": "Amazon backs Ariane with rocket launch orders as Europe battles to close its space gap ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108003406-1720552729130-Ariane_6_first_liftoff.png?v=1720553006&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-10T11:26:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/da3ba6a24f1fc593fec77e12ac0b1d0b.json"
+        },
+        {
+          "id": "63af379d15222e4a3fa1757166a727cd",
+          "title": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google",
+          "image": "https://image.cnbcfm.com/api/v1/image/106990442-1639676366140-gettyimages-1231345161-775624067.jpeg?v=1773094383&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-09T21:45:34.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/63af379d15222e4a3fa1757166a727cd.json"
+        },
+        {
+          "id": "f93a03a12b150cdd3ff982503e74f4b2",
+          "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
+          "image": "https://image.cnbcfm.com/api/v1/image/108350358-1786976228145-gettyimages-2285051375-HL_IBENYOUSSEF_3228460.jpeg?v=1786976252&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-10T10:49:29.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/f93a03a12b150cdd3ff982503e74f4b2.json"
+        },
+        {
+          "id": "d01218731edfef86fb6dc60b3c3f6604",
+          "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_4.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-09T20:31:29.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d01218731edfef86fb6dc60b3c3f6604.json"
+        },
+        {
+          "id": "8ab28070629c85f974a99617a71feb85",
+          "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/decrypt-style-erik-voorhees-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-09T13:28:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/8ab28070629c85f974a99617a71feb85.json"
+        }
+      ],
+      "path": "articles/5213184f7eed0a0184026db4b6f4ead8.json"
+    },
     {
       "id": "f93a03a12b150cdd3ff982503e74f4b2",
       "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
@@ -80,6 +204,22 @@
           "path": "articles/d01218731edfef86fb6dc60b3c3f6604.json"
         },
         {
+          "id": "5213184f7eed0a0184026db4b6f4ead8",
+          "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326148-1782310849149-gettyimages-2223548919-AMAZON_PRIME_DAY.jpeg?v=1785775644&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-10T13:02:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5213184f7eed0a0184026db4b6f4ead8.json"
+        },
+        {
           "id": "8ab28070629c85f974a99617a71feb85",
           "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/decrypt-style-erik-voorhees-gID_7.png@png",
@@ -110,22 +250,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"
-        },
-        {
-          "id": "62f07e61b3f403095160afa3580d59d9",
-          "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
-          "image": "https://image.cnbcfm.com/api/v1/image/108361128-1789043876518-gettyimages-2293792094-boivin-photoill260909_np8Q3.jpeg?v=1789043906&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-10T13:00:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/62f07e61b3f403095160afa3580d59d9.json"
         }
       ],
       "path": "articles/f93a03a12b150cdd3ff982503e74f4b2.json"
@@ -236,20 +360,20 @@
           "path": "articles/8ab28070629c85f974a99617a71feb85.json"
         },
         {
-          "id": "2a044fbee3f1f92ea994cfce8cb196a4",
-          "title": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/nca-national-crime-agency-decrypt-style-gID_7.jpg@png",
+          "id": "5213184f7eed0a0184026db4b6f4ead8",
+          "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326148-1782310849149-gettyimages-2223548919-AMAZON_PRIME_DAY.jpeg?v=1785775644&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-09T11:43:53.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-10T13:02:50.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2a044fbee3f1f92ea994cfce8cb196a4.json"
+          "path": "articles/5213184f7eed0a0184026db4b6f4ead8.json"
         }
       ],
       "path": "articles/d01218731edfef86fb6dc60b3c3f6604.json"
@@ -352,20 +476,20 @@
           "path": "articles/f93a03a12b150cdd3ff982503e74f4b2.json"
         },
         {
-          "id": "ea88116daf053e25865f0cf367c91aec",
-          "title": "Morning Minute: Hunter Biden’s LAPTOP Crashes",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/hunter-biden-decrypt-style-02-gID_7.jpg@png",
+          "id": "5213184f7eed0a0184026db4b6f4ead8",
+          "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326148-1782310849149-gettyimages-2223548919-AMAZON_PRIME_DAY.jpeg?v=1785775644&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-10T12:10:48.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-10T13:02:50.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 75,
-          "path": "articles/ea88116daf053e25865f0cf367c91aec.json"
+          "breaking_score": 0,
+          "path": "articles/5213184f7eed0a0184026db4b6f4ead8.json"
         }
       ],
       "path": "articles/8ab28070629c85f974a99617a71feb85.json"
@@ -470,20 +594,20 @@
           "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"
         },
         {
-          "id": "ea88116daf053e25865f0cf367c91aec",
-          "title": "Morning Minute: Hunter Biden’s LAPTOP Crashes",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/hunter-biden-decrypt-style-02-gID_7.jpg@png",
+          "id": "5213184f7eed0a0184026db4b6f4ead8",
+          "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326148-1782310849149-gettyimages-2223548919-AMAZON_PRIME_DAY.jpeg?v=1785775644&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-10T12:10:48.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-10T13:02:50.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 75,
-          "path": "articles/ea88116daf053e25865f0cf367c91aec.json"
+          "breaking_score": 0,
+          "path": "articles/5213184f7eed0a0184026db4b6f4ead8.json"
         }
       ],
       "path": "articles/54d51e009533ce4688916fb025722599.json"
@@ -586,20 +710,20 @@
           "path": "articles/f93a03a12b150cdd3ff982503e74f4b2.json"
         },
         {
-          "id": "469ba381d0beb87803fa9a96a9924bd5",
-          "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks",
-          "image": "",
+          "id": "5213184f7eed0a0184026db4b6f4ead8",
+          "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326148-1782310849149-gettyimages-2223548919-AMAZON_PRIME_DAY.jpeg?v=1785775644&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-10T12:00:36.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-10T13:02:50.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/469ba381d0beb87803fa9a96a9924bd5.json"
+          "path": "articles/5213184f7eed0a0184026db4b6f4ead8.json"
         }
       ],
       "path": "articles/9c089f7a72dbbff8b3062578907f3fb8.json"

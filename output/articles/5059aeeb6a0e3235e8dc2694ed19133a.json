@@ -1,11 +1,11 @@
 {
-  "id": "f05bae7903482bc3960d517c0501f735",
-  "title": "Oracle options are doing something curious heading into earnings",
-  "description": "If ever there were a stock that captured the hopes and fear of the AI trade, it's Oracle.",
+  "id": "5059aeeb6a0e3235e8dc2694ed19133a",
+  "title": "Wealthy investors seek oil and gas assets, but bargains are scarce",
+  "description": "The Iran war and the AI boom have created a crowded market for mineral rights and other energy assets.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108348677-1786560865437-gettyimages-2289704306-US_STOCKS.jpeg?v=1786560938&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/10/wealthy-investors-oil-gas-assets.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108360367-1788956512636-gettyimages-2294232167-dji_20260908173505_0159_d_copy_oa4ltmgb.jpeg?v=1788984649&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,13 +15,21 @@
   "category": "stocks",
   "entities": [
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-09-10T12:20:51.000Z",
+  "published_at": "2026-09-10T12:59:11.000Z",
   "related": [
     {
       "id": "62f07e61b3f403095160afa3580d59d9",
@@ -40,22 +48,6 @@
       "path": "articles/62f07e61b3f403095160afa3580d59d9.json"
     },
     {
-      "id": "5059aeeb6a0e3235e8dc2694ed19133a",
-      "title": "Wealthy investors seek oil and gas assets, but bargains are scarce",
-      "image": "https://image.cnbcfm.com/api/v1/image/108360367-1788956512636-gettyimages-2294232167-dji_20260908173505_0159_d_copy_oa4ltmgb.jpeg?v=1788984649&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-10T12:59:11.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/5059aeeb6a0e3235e8dc2694ed19133a.json"
-    },
-    {
       "id": "805864eb30ba5883ae45c16466fe7c40",
       "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
       "image": "https://image.cnbcfm.com/api/v1/image/108311920-1779805922260-gettyimages-2278301221-mms24146_spltijn9.jpeg?v=1779805998&w=1920&h=1080",
@@ -72,9 +64,9 @@
       "path": "articles/805864eb30ba5883ae45c16466fe7c40.json"
     },
     {
-      "id": "7b3424af04e39054944045bbbad79c45",
-      "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361107-1789041210752-gettyimages-2294421522-dsc_9640_kog8cmka.jpeg?v=1789041231&w=1920&h=1080",
+      "id": "be77e0a21825652dff08158ce639246c",
+      "title": "Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108092535-1737964208975-gettyimages-2089420037-AFP_34LT8UZ.jpeg?v=1747640810&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -82,15 +74,15 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-10T12:53:20.000Z",
+      "published_at": "2026-09-10T09:35:14.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/7b3424af04e39054944045bbbad79c45.json"
+      "breaking_score": 20,
+      "path": "articles/be77e0a21825652dff08158ce639246c.json"
     },
     {
-      "id": "c5eae7597af44ffd63d47f68e8a9c5cf",
-      "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
-      "image": "https://image.cnbcfm.com/api/v1/image/108313290-1779985103558-gettyimages-2252283674-1535022-me-glendale-galleria-holiday-shopping-12-mjc.jpeg?v=1779985128&w=1920&h=1080",
+      "id": "3c93645f3a332dbc0d2a0b4ef3743309",
+      "title": "'Saved the day': How China helped keep the lid on oil price surge as Iran war disrupted supplies",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359543-1788833216665-gettyimages-2292683397-img_8748.jpeg?v=1788833249&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -98,10 +90,26 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-10T12:53:05.000Z",
+      "published_at": "2026-09-10T06:23:14.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "path": "articles/3c93645f3a332dbc0d2a0b4ef3743309.json"
+    },
+    {
+      "id": "beaf6707d1ee562b5f2a370da869f4d7",
+      "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-10T11:47:41.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/c5eae7597af44ffd63d47f68e8a9c5cf.json"
+      "path": "articles/beaf6707d1ee562b5f2a370da869f4d7.json"
     }
   ]
 }

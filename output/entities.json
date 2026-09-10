@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-10T10:01:04.706Z",
-  "total": 28,
+  "updated_at": "2026-09-10T10:15:33.138Z",
+  "total": 30,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 34
+      "count": 33
     },
     {
       "id": "btc",
@@ -16,18 +16,18 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 17
+      "count": 26
     },
     {
       "id": "blockchain",
       "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 16
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
       "type": "topic",
       "icon": "",
       "count": 16
@@ -56,6 +56,15 @@
       "count": 8
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 6
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -63,15 +72,6 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 6
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 5
     },
     {
       "id": "defi",
@@ -149,6 +149,22 @@
       "type": "topic",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 1
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "tsm",

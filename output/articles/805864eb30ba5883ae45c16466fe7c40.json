@@ -1,7 +1,7 @@
 {
   "id": "805864eb30ba5883ae45c16466fe7c40",
-  "title": "Treasury yields hit multi-year highs as investors await key wholesale inflation data",
-  "description": "Treasury yields moved higher on Thursday as traders await the release of U.S. wholesale inflation data.",
+  "title": "Treasury yields rise to multi-year highs as surging oil outweighs tame inflation report",
+  "description": "Treasury yields moved higher on Thursday as U.S. oil prices hit $100 per barrel.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
   "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
@@ -13,44 +13,37 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-10T12:01:04.000Z",
+  "entities": [
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-09-10T12:41:47.000Z",
   "related": [
     {
-      "id": "c675f1128b39a98a315e7ce6678a575d",
-      "title": "European Central Bank hikes interest rates to 2.5% as policymakers see risk of higher inflation, weaker growth",
-      "image": "https://image.cnbcfm.com/api/v1/image/108320235-1781186107366-gettyimages-2280390387-GERMANY_ECB.jpeg?v=1781186133&w=1920&h=1080",
+      "id": "beaf6707d1ee562b5f2a370da869f4d7",
+      "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
+      "image": "",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
-      "published_at": "2026-09-10T12:25:32.000Z",
+      "category": "crypto",
+      "published_at": "2026-09-10T11:47:41.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/c675f1128b39a98a315e7ce6678a575d.json"
-    },
-    {
-      "id": "cc4f359cb283dc39bc204fbd23edb290",
-      "title": "Investors seek hedges as midterms and geopolitical risks threaten market calm",
-      "image": "https://image.cnbcfm.com/api/v1/image/108172683-1752671621281-gettyimages-2165732414-fintechv1_0007r.jpeg?v=1763389388&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-10T11:10:20.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/cc4f359cb283dc39bc204fbd23edb290.json"
+      "path": "articles/beaf6707d1ee562b5f2a370da869f4d7.json"
     },
     {
       "id": "62f07e61b3f403095160afa3580d59d9",
-      "title": "U.S. crude oil hits $99 per barrel as market braces for prolonged Iran war",
+      "title": "U.S. crude oil tops $100 per barrel as market braces for prolonged Iran war",
       "image": "https://image.cnbcfm.com/api/v1/image/108359885-1788886376917-gettyimages-2293681007-AA_08092026_2943612.jpeg?v=1788886580&w=1920&h=1080",
       "source": {
         "id": "cnbc",
@@ -59,15 +52,15 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-10T12:27:29.000Z",
+      "published_at": "2026-09-10T12:44:30.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/62f07e61b3f403095160afa3580d59d9.json"
     },
     {
-      "id": "c5eae7597af44ffd63d47f68e8a9c5cf",
-      "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
-      "image": "https://image.cnbcfm.com/api/v1/image/108313290-1779985103558-gettyimages-2252283674-1535022-me-glendale-galleria-holiday-shopping-12-mjc.jpeg?v=1779985128&w=1920&h=1080",
+      "id": "be77e0a21825652dff08158ce639246c",
+      "title": "Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108092535-1737964208975-gettyimages-2089420037-AFP_34LT8UZ.jpeg?v=1747640810&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -75,15 +68,15 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-10T12:26:57.000Z",
+      "published_at": "2026-09-10T09:35:14.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/c5eae7597af44ffd63d47f68e8a9c5cf.json"
+      "breaking_score": 20,
+      "path": "articles/be77e0a21825652dff08158ce639246c.json"
     },
     {
-      "id": "83efc8ae26eaa52e8191fd921de83b44",
-      "title": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361118-1789043058399-gettyimages-2294388889-kbd10819_zkjzoucf.jpeg?v=1789043081&w=1920&h=1080",
+      "id": "3c93645f3a332dbc0d2a0b4ef3743309",
+      "title": "'Saved the day': How China helped keep the lid on oil price surge as Iran war disrupted supplies",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359543-1788833216665-gettyimages-2292683397-img_8748.jpeg?v=1788833249&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -91,10 +84,26 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-10T12:25:00.000Z",
+      "published_at": "2026-09-10T06:23:14.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/83efc8ae26eaa52e8191fd921de83b44.json"
+      "breaking_score": 20,
+      "path": "articles/3c93645f3a332dbc0d2a0b4ef3743309.json"
+    },
+    {
+      "id": "15ca19e78f404557c022d17046596347",
+      "title": "Live updates: Bitcoin slumps as ECB hikes rates and U.S. core PPI eases, but remains hot",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-10T07:45:46.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "path": "articles/15ca19e78f404557c022d17046596347.json"
     }
   ]
 }

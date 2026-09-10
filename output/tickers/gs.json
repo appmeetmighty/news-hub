@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T12:45:33.586Z",
+  "updated_at": "2026-09-10T16:15:32.895Z",
   "id": "gs",
   "symbol": "GS",
   "name": "Goldman Sachs",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "65ee9be365bf82d117bb92858e2923d1",
-      "title": "Conversations from Goldman Sachs' Communacopia: AI blowback, broadband and Disney's free tier",
-      "description": "CoreWeave CEO Mike Intrator spoke to CNBC at the Goldman Sachs' Communacopia + Technology Conference this week.",
+      "id": "dd548a39e824f45b0ef64286643f071e",
+      "title": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
+      "description": "Nvidia CEO Jensen Huang, Uber CEO Dara Khosrowshahi, and SpaceX CFO Bret Johnsen are set to speak at the Goldman Sachs Communacopia + Technology Conference.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108271054-17722088882026-02-27t161124z_343131313_rc2dujajql90_rtrmadp_0_usa-stocks.jpeg?v=1772209043&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108310073-1779306507208-gettyimages-2276716958-AIRBNB_SUMMER_RELEASE.jpeg?v=1779306647&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,11 +23,27 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
           "id": "gs",
           "symbol": "GS",
           "name": "Goldman Sachs",
           "type": "company",
           "path": "tickers/gs.json",
+          "icon": ""
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
           "icon": ""
         },
         {
@@ -37,27 +53,11 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-09T21:37:34.000Z",
+      "published_at": "2026-09-10T15:46:35.000Z",
       "related": [
         {
-          "id": "62f07e61b3f403095160afa3580d59d9",
-          "title": "U.S. crude oil tops $100 per barrel as market braces for prolonged Iran war",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359885-1788886376917-gettyimages-2293681007-AA_08092026_2943612.jpeg?v=1788886580&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-10T12:44:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/62f07e61b3f403095160afa3580d59d9.json"
-        },
-        {
           "id": "805864eb30ba5883ae45c16466fe7c40",
-          "title": "Treasury yields rise to multi-year highs as surging oil outweighs tame inflation report",
+          "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
           "image": "https://image.cnbcfm.com/api/v1/image/108311920-1779805922260-gettyimages-2278301221-mms24146_spltijn9.jpeg?v=1779805998&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -66,15 +66,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-10T12:41:47.000Z",
+          "published_at": "2026-09-10T16:14:25.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
+          "breaking_score": 20,
           "path": "articles/805864eb30ba5883ae45c16466fe7c40.json"
         },
         {
-          "id": "c675f1128b39a98a315e7ce6678a575d",
-          "title": "European Central Bank hikes interest rates to 2.5% as policymakers see risk of higher inflation, weaker growth",
-          "image": "https://image.cnbcfm.com/api/v1/image/108320235-1781186107366-gettyimages-2280390387-GERMANY_ECB.jpeg?v=1781186133&w=1920&h=1080",
+          "id": "4123939bf13c5f3a60d18644344cf91e",
+          "title": "Affordability takes center stage in North Carolina’s pivotal Senate race",
+          "image": "https://image.cnbcfm.com/api/v1/image/108361199-1789050190443-img_1166.jpg?v=1789050238&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -82,15 +82,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-10T12:39:01.000Z",
+          "published_at": "2026-09-10T16:10:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/c675f1128b39a98a315e7ce6678a575d.json"
+          "path": "articles/4123939bf13c5f3a60d18644344cf91e.json"
         },
         {
-          "id": "83efc8ae26eaa52e8191fd921de83b44",
-          "title": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
-          "image": "https://image.cnbcfm.com/api/v1/image/108361118-1789043058399-gettyimages-2294388889-kbd10819_zkjzoucf.jpeg?v=1789043081&w=1920&h=1080",
+          "id": "2ecc2caa14814b6e0cf30338401f8f1b",
+          "title": "Starbucks is back, CEO Brian Niccol says. Here is what he's focused on next",
+          "image": "https://image.cnbcfm.com/api/v1/image/108259045-17697076772026-01-29t172604z_10150558_rc20bja2ybrx_rtrmadp_0_starbucks-investor-day.jpeg?v=1769707764&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -98,15 +98,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-10T12:35:53.000Z",
+          "published_at": "2026-09-10T15:55:58.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/83efc8ae26eaa52e8191fd921de83b44.json"
+          "path": "articles/2ecc2caa14814b6e0cf30338401f8f1b.json"
         },
         {
-          "id": "09dd03790e55bb36e42c95e5ed5d0eee",
-          "title": "Wholesale prices rose 0.4% in August, as expected",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359250-1788556763771-gettyimages-2293564592-6k7a0759_ru7r5yzd.jpeg?v=1788556808&w=1920&h=1080",
+          "id": "7b3424af04e39054944045bbbad79c45",
+          "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
+          "image": "https://image.cnbcfm.com/api/v1/image/108361107-1789041210752-gettyimages-2294421522-dsc_9640_kog8cmka.jpeg?v=1789041231&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -114,13 +114,29 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-10T12:33:58.000Z",
+          "published_at": "2026-09-10T15:53:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/09dd03790e55bb36e42c95e5ed5d0eee.json"
+          "path": "articles/7b3424af04e39054944045bbbad79c45.json"
+        },
+        {
+          "id": "289c88781b676b15b22312e55abc03ed",
+          "title": "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
+          "image": "https://image.cnbcfm.com/api/v1/image/108203208-1758714033778-gettyimages-2236595528-179178_0142.jpeg?v=1777316014&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-10T15:45:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/289c88781b676b15b22312e55abc03ed.json"
         }
       ],
-      "path": "articles/65ee9be365bf82d117bb92858e2923d1.json"
+      "path": "articles/dd548a39e824f45b0ef64286643f071e.json"
     }
   ]
 }

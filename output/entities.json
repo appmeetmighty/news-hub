@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-10T16:01:12.187Z",
-  "total": 28,
+  "updated_at": "2026-09-10T16:15:32.903Z",
+  "total": 31,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 26
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
+      "count": 23
     },
     {
       "id": "regulation",
@@ -26,15 +26,15 @@
       "count": 18
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 13
     },
     {
-      "id": "ai",
-      "name": "AI",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 12
@@ -53,7 +53,7 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 8
     },
     {
       "id": "eth",
@@ -83,29 +83,13 @@
       "count": 4
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
-      "count": 3
-    },
-    {
       "id": "amzn",
       "symbol": "AMZN",
       "name": "Amazon",
       "type": "company",
       "path": "tickers/amzn.json",
       "icon": "https://logo.clearbit.com/amazon.com",
-      "count": 2
+      "count": 3
     },
     {
       "id": "v",
@@ -114,6 +98,22 @@
       "type": "company",
       "path": "tickers/v.json",
       "icon": "",
+      "count": 3
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
       "count": 2
     },
     {
@@ -133,6 +133,33 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 2
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 1
+    },
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "gold",

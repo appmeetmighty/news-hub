@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-11T00:15:36.655Z",
+  "updated_at": "2026-09-11T00:30:47.324Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 8,
+  "total": 7,
   "articles": [
     {
       "id": "92685829014c97731a0b0421c274f1f9",
@@ -150,22 +150,6 @@
       "published_at": "2026-09-10T19:02:58.000Z",
       "related": [
         {
-          "id": "5213184f7eed0a0184026db4b6f4ead8",
-          "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
-          "image": "https://image.cnbcfm.com/api/v1/image/108326148-1782310849149-gettyimages-2223548919-AMAZON_PRIME_DAY.jpeg?v=1785775644&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-10T15:25:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5213184f7eed0a0184026db4b6f4ead8.json"
-        },
-        {
           "id": "f93a03a12b150cdd3ff982503e74f4b2",
           "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
           "image": "https://image.cnbcfm.com/api/v1/image/108350358-1786976228145-gettyimages-2285051375-HL_IBENYOUSSEF_3228460.jpeg?v=1786976252&w=1920&h=1080",
@@ -228,6 +212,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/54d51e009533ce4688916fb025722599.json"
+        },
+        {
+          "id": "92685829014c97731a0b0421c274f1f9",
+          "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-10T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/92685829014c97731a0b0421c274f1f9.json"
         }
       ],
       "path": "articles/7f011c08f4ae853998a0e4f6203a79e8.json"
@@ -351,130 +351,6 @@
       "path": "articles/e8de04850be3916810a0336791492a2c.json"
     },
     {
-      "id": "5213184f7eed0a0184026db4b6f4ead8",
-      "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
-      "description": "Amazon has been hesitant to open its sprawling webstore to external AI platforms.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326148-1782310849149-gettyimages-2223548919-AMAZON_PRIME_DAY.jpeg?v=1785775644&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "amzn",
-          "symbol": "AMZN",
-          "name": "Amazon",
-          "type": "company",
-          "path": "tickers/amzn.json",
-          "icon": "https://logo.clearbit.com/amazon.com"
-        },
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-10T15:25:58.000Z",
-      "related": [
-        {
-          "id": "7f011c08f4ae853998a0e4f6203a79e8",
-          "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-          "image": "https://image.cnbcfm.com/api/v1/image/108361349-1789061236185-gettyimages-2221337331-kokovlis-notitle250625_npN2j.jpeg?v=1789061264&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-10T19:02:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7f011c08f4ae853998a0e4f6203a79e8.json"
-        },
-        {
-          "id": "f93a03a12b150cdd3ff982503e74f4b2",
-          "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
-          "image": "https://image.cnbcfm.com/api/v1/image/108350358-1786976228145-gettyimages-2285051375-HL_IBENYOUSSEF_3228460.jpeg?v=1786976252&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-10T10:49:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/f93a03a12b150cdd3ff982503e74f4b2.json"
-        },
-        {
-          "id": "61eba81e4f7e5e23baf8b46586308740",
-          "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-10T16:10:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/61eba81e4f7e5e23baf8b46586308740.json"
-        },
-        {
-          "id": "92685829014c97731a0b0421c274f1f9",
-          "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-10T21:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/92685829014c97731a0b0421c274f1f9.json"
-        },
-        {
-          "id": "e8de04850be3916810a0336791492a2c",
-          "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-10T17:07:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e8de04850be3916810a0336791492a2c.json"
-        }
-      ],
-      "path": "articles/5213184f7eed0a0184026db4b6f4ead8.json"
-    },
-    {
       "id": "f93a03a12b150cdd3ff982503e74f4b2",
       "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
       "description": "There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models",
@@ -580,20 +456,20 @@
           "path": "articles/7f011c08f4ae853998a0e4f6203a79e8.json"
         },
         {
-          "id": "5213184f7eed0a0184026db4b6f4ead8",
-          "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
-          "image": "https://image.cnbcfm.com/api/v1/image/108326148-1782310849149-gettyimages-2223548919-AMAZON_PRIME_DAY.jpeg?v=1785775644&w=1920&h=1080",
+          "id": "55914589ed9755eaff6e0139b1787099",
+          "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-10T15:25:58.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-10T15:33:11.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5213184f7eed0a0184026db4b6f4ead8.json"
+          "breaking_score": 60,
+          "path": "articles/55914589ed9755eaff6e0139b1787099.json"
         }
       ],
       "path": "articles/f93a03a12b150cdd3ff982503e74f4b2.json"

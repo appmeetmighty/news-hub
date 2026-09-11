@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T14:30:53.722Z",
+  "updated_at": "2026-09-11T14:45:37.468Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
@@ -7,8 +7,118 @@
   "total": 8,
   "articles": [
     {
+      "id": "47f493faa7cefb6ee91e982f90077ea3",
+      "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+      "description": "The advance raises the threat to shipping near the Bab el-Mandeb Strait, a waterway that connects the Red Sea to the Gulf of Aden to global markets.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-11T14:35:54.000Z",
+      "related": [
+        {
+          "id": "c99a475f4803dbf435a18df5733bccdb",
+          "title": "Oil prices fall after double-digit weekly gains above $100 ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T14:34:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
+        },
+        {
+          "id": "62297b5584a3e6cd3427b01df90cc440",
+          "title": "The oil shock is testing private credit borrowers already burdened by high debt costs",
+          "image": "https://image.cnbcfm.com/api/v1/image/108275200-1773166619288-108275200-1773026122072-gettyimages-2209133716-935a77271.jpeg?v=1773385515&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T14:33:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/62297b5584a3e6cd3427b01df90cc440.json"
+        },
+        {
+          "id": "2ff60bcc87bd154efc6ebdd92fd5520f",
+          "title": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market",
+          "image": "https://image.cnbcfm.com/api/v1/image/108350460-1786983947638-gettyimages-2290347496-dji_20260813083559_0458_d_admeepqz.jpeg?v=1787573737&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T10:56:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2ff60bcc87bd154efc6ebdd92fd5520f.json"
+        },
+        {
+          "id": "ece226aad32678ebbb426a567c550c33",
+          "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-11T11:20:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ece226aad32678ebbb426a567c550c33.json"
+        },
+        {
+          "id": "063971d9ba82a48fd5d019818289d389",
+          "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-10T14:52:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/063971d9ba82a48fd5d019818289d389.json"
+        }
+      ],
+      "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
+    },
+    {
       "id": "c99a475f4803dbf435a18df5733bccdb",
-      "title": "Oil prices fall sharply after double-digit weekly gains above $100 ",
+      "title": "Oil prices fall after double-digit weekly gains above $100 ",
       "description": "The decline snapped multi-day winning streaks for both Brent and WTI crude oil futures.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
@@ -31,7 +141,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-11T14:30:06.000Z",
+      "published_at": "2026-09-11T14:34:11.000Z",
       "related": [
         {
           "id": "47f493faa7cefb6ee91e982f90077ea3",
@@ -44,10 +154,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-11T13:22:59.000Z",
+          "published_at": "2026-09-11T14:35:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
+        },
+        {
+          "id": "62297b5584a3e6cd3427b01df90cc440",
+          "title": "The oil shock is testing private credit borrowers already burdened by high debt costs",
+          "image": "https://image.cnbcfm.com/api/v1/image/108275200-1773166619288-108275200-1773026122072-gettyimages-2209133716-935a77271.jpeg?v=1773385515&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T14:33:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/62297b5584a3e6cd3427b01df90cc440.json"
         },
         {
           "id": "2ff60bcc87bd154efc6ebdd92fd5520f",
@@ -64,22 +190,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2ff60bcc87bd154efc6ebdd92fd5520f.json"
-        },
-        {
-          "id": "62297b5584a3e6cd3427b01df90cc440",
-          "title": "The oil shock is testing private credit borrowers already burdened by high debt costs",
-          "image": "https://image.cnbcfm.com/api/v1/image/108275200-1773166619288-108275200-1773026122072-gettyimages-2209133716-935a77271.jpeg?v=1773385515&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-11T10:55:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/62297b5584a3e6cd3427b01df90cc440.json"
         },
         {
           "id": "ece226aad32678ebbb426a567c550c33",
@@ -117,13 +227,13 @@
       "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
     },
     {
-      "id": "47f493faa7cefb6ee91e982f90077ea3",
-      "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
-      "description": "The advance raises the threat to shipping near the Bab el-Mandeb Strait, a waterway that connects the Red Sea to the Gulf of Aden to global markets.",
+      "id": "62297b5584a3e6cd3427b01df90cc440",
+      "title": "The oil shock is testing private credit borrowers already burdened by high debt costs",
+      "description": "Oil near $100 could further squeeze leveraged private credit borrowers as investors weigh the risk that inflation could push interest rates higher again.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/09/11/oil-private-credit-refinancing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108275200-1773166619288-108275200-1773026122072-gettyimages-2209133716-935a77271.jpeg?v=1773385515&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -141,11 +251,27 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-11T13:22:59.000Z",
+      "published_at": "2026-09-11T14:33:08.000Z",
       "related": [
         {
+          "id": "47f493faa7cefb6ee91e982f90077ea3",
+          "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+          "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T14:35:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
+        },
+        {
           "id": "c99a475f4803dbf435a18df5733bccdb",
-          "title": "Oil prices fall sharply after double-digit weekly gains above $100 ",
+          "title": "Oil prices fall after double-digit weekly gains above $100 ",
           "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -154,7 +280,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-11T14:30:06.000Z",
+          "published_at": "2026-09-11T14:34:11.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
@@ -176,20 +302,20 @@
           "path": "articles/2ff60bcc87bd154efc6ebdd92fd5520f.json"
         },
         {
-          "id": "62297b5584a3e6cd3427b01df90cc440",
-          "title": "The oil shock is testing private credit borrowers already burdened by high debt costs",
-          "image": "https://image.cnbcfm.com/api/v1/image/108275200-1773166619288-108275200-1773026122072-gettyimages-2209133716-935a77271.jpeg?v=1773385515&w=1920&h=1080",
+          "id": "063971d9ba82a48fd5d019818289d389",
+          "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-11T10:55:21.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-10T14:52:15.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/62297b5584a3e6cd3427b01df90cc440.json"
+          "breaking_score": 20,
+          "path": "articles/063971d9ba82a48fd5d019818289d389.json"
         },
         {
           "id": "ece226aad32678ebbb426a567c550c33",
@@ -206,25 +332,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ece226aad32678ebbb426a567c550c33.json"
-        },
-        {
-          "id": "063971d9ba82a48fd5d019818289d389",
-          "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-10T14:52:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/063971d9ba82a48fd5d019818289d389.json"
         }
       ],
-      "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
+      "path": "articles/62297b5584a3e6cd3427b01df90cc440.json"
     },
     {
       "id": "ece226aad32678ebbb426a567c550c33",
@@ -372,22 +482,6 @@
       "published_at": "2026-09-11T10:56:45.000Z",
       "related": [
         {
-          "id": "c99a475f4803dbf435a18df5733bccdb",
-          "title": "Oil prices fall sharply after double-digit weekly gains above $100 ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-11T14:30:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
-        },
-        {
           "id": "47f493faa7cefb6ee91e982f90077ea3",
           "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
           "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
@@ -398,10 +492,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-11T13:22:59.000Z",
+          "published_at": "2026-09-11T14:35:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
+        },
+        {
+          "id": "c99a475f4803dbf435a18df5733bccdb",
+          "title": "Oil prices fall after double-digit weekly gains above $100 ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T14:34:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
         },
         {
           "id": "62297b5584a3e6cd3427b01df90cc440",
@@ -414,7 +524,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-11T10:55:21.000Z",
+          "published_at": "2026-09-11T14:33:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/62297b5584a3e6cd3427b01df90cc440.json"
@@ -453,116 +563,6 @@
         }
       ],
       "path": "articles/2ff60bcc87bd154efc6ebdd92fd5520f.json"
-    },
-    {
-      "id": "62297b5584a3e6cd3427b01df90cc440",
-      "title": "The oil shock is testing private credit borrowers already burdened by high debt costs",
-      "description": "Oil near $100 could further squeeze leveraged private credit borrowers as investors weigh the risk that inflation could push interest rates higher again.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/11/oil-private-credit-refinancing.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108275200-1773166619288-108275200-1773026122072-gettyimages-2209133716-935a77271.jpeg?v=1773385515&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "oil",
-          "symbol": "OIL",
-          "name": "Oil",
-          "type": "commodity",
-          "path": "tickers/oil.json",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-11T10:55:21.000Z",
-      "related": [
-        {
-          "id": "c99a475f4803dbf435a18df5733bccdb",
-          "title": "Oil prices fall sharply after double-digit weekly gains above $100 ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-11T14:30:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
-        },
-        {
-          "id": "47f493faa7cefb6ee91e982f90077ea3",
-          "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
-          "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-11T13:22:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
-        },
-        {
-          "id": "2ff60bcc87bd154efc6ebdd92fd5520f",
-          "title": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market",
-          "image": "https://image.cnbcfm.com/api/v1/image/108350460-1786983947638-gettyimages-2290347496-dji_20260813083559_0458_d_admeepqz.jpeg?v=1787573737&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-11T10:56:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2ff60bcc87bd154efc6ebdd92fd5520f.json"
-        },
-        {
-          "id": "063971d9ba82a48fd5d019818289d389",
-          "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-10T14:52:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/063971d9ba82a48fd5d019818289d389.json"
-        },
-        {
-          "id": "ece226aad32678ebbb426a567c550c33",
-          "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-11T11:20:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ece226aad32678ebbb426a567c550c33.json"
-        }
-      ],
-      "path": "articles/62297b5584a3e6cd3427b01df90cc440.json"
     },
     {
       "id": "063971d9ba82a48fd5d019818289d389",
@@ -758,22 +758,6 @@
           "path": "articles/b4175869b79de41e5d932bcba7ffa31a.json"
         },
         {
-          "id": "c99a475f4803dbf435a18df5733bccdb",
-          "title": "Oil prices fall sharply after double-digit weekly gains above $100 ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-11T14:30:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
-        },
-        {
           "id": "47f493faa7cefb6ee91e982f90077ea3",
           "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
           "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
@@ -784,10 +768,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-11T13:22:59.000Z",
+          "published_at": "2026-09-11T14:35:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
+        },
+        {
+          "id": "c99a475f4803dbf435a18df5733bccdb",
+          "title": "Oil prices fall after double-digit weekly gains above $100 ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T14:34:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
         }
       ],
       "path": "articles/beaf6707d1ee562b5f2a370da869f4d7.json"
@@ -868,22 +868,6 @@
           "path": "articles/beaf6707d1ee562b5f2a370da869f4d7.json"
         },
         {
-          "id": "c99a475f4803dbf435a18df5733bccdb",
-          "title": "Oil prices fall sharply after double-digit weekly gains above $100 ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-11T14:30:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
-        },
-        {
           "id": "47f493faa7cefb6ee91e982f90077ea3",
           "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
           "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
@@ -894,10 +878,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-11T13:22:59.000Z",
+          "published_at": "2026-09-11T14:35:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
+        },
+        {
+          "id": "c99a475f4803dbf435a18df5733bccdb",
+          "title": "Oil prices fall after double-digit weekly gains above $100 ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T14:34:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
         }
       ],
       "path": "articles/b4175869b79de41e5d932bcba7ffa31a.json"

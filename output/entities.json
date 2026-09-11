@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T12:01:05.378Z",
+  "updated_at": "2026-09-11T12:15:36.137Z",
   "total": 26,
   "entities": [
     {
@@ -9,21 +9,21 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
+      "count": 26
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 23
+      "count": 24
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 19
     },
     {
       "id": "regulation",
@@ -39,15 +39,6 @@
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 10
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
       "count": 9
     },
     {
@@ -60,25 +51,20 @@
       "count": 9
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 8
+    },
+    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 7
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 4
     },
     {
       "id": "mstr",
@@ -87,7 +73,14 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 3
+      "count": 4
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "etf",
@@ -106,11 +99,9 @@
       "count": 3
     },
     {
-      "id": "v",
-      "symbol": "V",
-      "name": "Visa",
-      "type": "company",
-      "path": "tickers/v.json",
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 3
     },
@@ -142,12 +133,12 @@
       "count": 2
     },
     {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
+      "id": "v",
+      "symbol": "V",
+      "name": "Visa",
       "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
+      "path": "tickers/v.json",
+      "icon": "",
       "count": 2
     },
     {
@@ -200,6 +191,15 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
+      "count": 1
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
       "count": 1
     },
     {

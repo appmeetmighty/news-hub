@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T18:15:36.226Z",
+  "updated_at": "2026-09-11T18:30:54.740Z",
   "total": 25,
   "entities": [
     {
@@ -19,6 +19,13 @@
       "count": 23
     },
     {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 18
+    },
+    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
@@ -26,11 +33,13 @@
       "count": 18
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
-      "count": 17
+      "count": 8
     },
     {
       "id": "anthropic",
@@ -42,29 +51,20 @@
       "count": 8
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 7
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 7
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 7
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 7
+      "count": 6
     },
     {
       "id": "defi",

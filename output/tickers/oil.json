@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-09-11T16:15:35.612Z",
+  "updated_at": "2026-09-11T16:30:52.467Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
-      "id": "c99a475f4803dbf435a18df5733bccdb",
-      "title": "Oil prices fall after double-digit weekly gains above $100 ",
-      "description": "The decline snapped multiday winning streaks for both Brent and WTI crude oil futures.",
+      "id": "12e6c6e982db7da25f8bd241d980990e",
+      "title": "The inside story on the historic U.S.-Venezuela oil deal and how it will work",
+      "description": "CNBC was one of just a handful of news organizations allowed to travel to Caracas with the U.S. secretary of energy.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357880-1788368526390-gettyimages-2292619592-AFP_C76Z6NG.jpeg?v=1788368563&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -31,8 +31,24 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-11T16:13:41.000Z",
+      "published_at": "2026-09-11T16:23:06.000Z",
       "related": [
+        {
+          "id": "c99a475f4803dbf435a18df5733bccdb",
+          "title": "U.S. crude oil falls back below $100 but heads to weekly gain",
+          "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T16:21:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
+        },
         {
           "id": "47f493faa7cefb6ee91e982f90077ea3",
           "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
@@ -96,6 +112,100 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ece226aad32678ebbb426a567c550c33.json"
+        }
+      ],
+      "path": "articles/12e6c6e982db7da25f8bd241d980990e.json"
+    },
+    {
+      "id": "c99a475f4803dbf435a18df5733bccdb",
+      "title": "U.S. crude oil falls back below $100 but heads to weekly gain",
+      "description": "The decline snapped multiday winning streaks for both Brent and WTI crude oil futures.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-11T16:21:45.000Z",
+      "related": [
+        {
+          "id": "12e6c6e982db7da25f8bd241d980990e",
+          "title": "The inside story on the historic U.S.-Venezuela oil deal and how it will work",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357880-1788368526390-gettyimages-2292619592-AFP_C76Z6NG.jpeg?v=1788368563&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T16:23:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/12e6c6e982db7da25f8bd241d980990e.json"
+        },
+        {
+          "id": "47f493faa7cefb6ee91e982f90077ea3",
+          "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+          "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T14:35:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
+        },
+        {
+          "id": "62297b5584a3e6cd3427b01df90cc440",
+          "title": "The oil shock is testing private credit borrowers already burdened by high debt costs",
+          "image": "https://image.cnbcfm.com/api/v1/image/108275200-1773166619288-108275200-1773026122072-gettyimages-2209133716-935a77271.jpeg?v=1773385515&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T14:33:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/62297b5584a3e6cd3427b01df90cc440.json"
+        },
+        {
+          "id": "2ff60bcc87bd154efc6ebdd92fd5520f",
+          "title": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market",
+          "image": "https://image.cnbcfm.com/api/v1/image/108350460-1786983947638-gettyimages-2290347496-dji_20260813083559_0458_d_admeepqz.jpeg?v=1787573737&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T10:56:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2ff60bcc87bd154efc6ebdd92fd5520f.json"
         },
         {
           "id": "063971d9ba82a48fd5d019818289d389",
@@ -144,8 +254,24 @@
       "published_at": "2026-09-11T14:35:54.000Z",
       "related": [
         {
+          "id": "12e6c6e982db7da25f8bd241d980990e",
+          "title": "The inside story on the historic U.S.-Venezuela oil deal and how it will work",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357880-1788368526390-gettyimages-2292619592-AFP_C76Z6NG.jpeg?v=1788368563&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T16:23:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/12e6c6e982db7da25f8bd241d980990e.json"
+        },
+        {
           "id": "c99a475f4803dbf435a18df5733bccdb",
-          "title": "Oil prices fall after double-digit weekly gains above $100 ",
+          "title": "U.S. crude oil falls back below $100 but heads to weekly gain",
           "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -154,7 +280,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-11T16:13:41.000Z",
+          "published_at": "2026-09-11T16:21:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
@@ -206,22 +332,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ece226aad32678ebbb426a567c550c33.json"
-        },
-        {
-          "id": "063971d9ba82a48fd5d019818289d389",
-          "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-10T14:52:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/063971d9ba82a48fd5d019818289d389.json"
         }
       ],
       "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
@@ -254,8 +364,24 @@
       "published_at": "2026-09-11T14:33:08.000Z",
       "related": [
         {
+          "id": "12e6c6e982db7da25f8bd241d980990e",
+          "title": "The inside story on the historic U.S.-Venezuela oil deal and how it will work",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357880-1788368526390-gettyimages-2292619592-AFP_C76Z6NG.jpeg?v=1788368563&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T16:23:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/12e6c6e982db7da25f8bd241d980990e.json"
+        },
+        {
           "id": "c99a475f4803dbf435a18df5733bccdb",
-          "title": "Oil prices fall after double-digit weekly gains above $100 ",
+          "title": "U.S. crude oil falls back below $100 but heads to weekly gain",
           "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -264,7 +390,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-11T16:13:41.000Z",
+          "published_at": "2026-09-11T16:21:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
@@ -316,22 +442,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/063971d9ba82a48fd5d019818289d389.json"
-        },
-        {
-          "id": "ece226aad32678ebbb426a567c550c33",
-          "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-11T11:20:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ece226aad32678ebbb426a567c550c33.json"
         }
       ],
       "path": "articles/62297b5584a3e6cd3427b01df90cc440.json"
@@ -482,8 +592,24 @@
       "published_at": "2026-09-11T10:56:45.000Z",
       "related": [
         {
+          "id": "12e6c6e982db7da25f8bd241d980990e",
+          "title": "The inside story on the historic U.S.-Venezuela oil deal and how it will work",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357880-1788368526390-gettyimages-2292619592-AFP_C76Z6NG.jpeg?v=1788368563&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T16:23:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/12e6c6e982db7da25f8bd241d980990e.json"
+        },
+        {
           "id": "c99a475f4803dbf435a18df5733bccdb",
-          "title": "Oil prices fall after double-digit weekly gains above $100 ",
+          "title": "U.S. crude oil falls back below $100 but heads to weekly gain",
           "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -492,7 +618,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-11T16:13:41.000Z",
+          "published_at": "2026-09-11T16:21:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
@@ -544,22 +670,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 30,
           "path": "articles/a151286f6cebf7a9f4a3a6483d0ed6cc.json"
-        },
-        {
-          "id": "ece226aad32678ebbb426a567c550c33",
-          "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-11T11:20:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ece226aad32678ebbb426a567c550c33.json"
         }
       ],
       "path": "articles/2ff60bcc87bd154efc6ebdd92fd5520f.json"
@@ -742,8 +852,24 @@
           "path": "articles/063971d9ba82a48fd5d019818289d389.json"
         },
         {
+          "id": "12e6c6e982db7da25f8bd241d980990e",
+          "title": "The inside story on the historic U.S.-Venezuela oil deal and how it will work",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357880-1788368526390-gettyimages-2292619592-AFP_C76Z6NG.jpeg?v=1788368563&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T16:23:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/12e6c6e982db7da25f8bd241d980990e.json"
+        },
+        {
           "id": "c99a475f4803dbf435a18df5733bccdb",
-          "title": "Oil prices fall after double-digit weekly gains above $100 ",
+          "title": "U.S. crude oil falls back below $100 but heads to weekly gain",
           "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -752,7 +878,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-11T16:13:41.000Z",
+          "published_at": "2026-09-11T16:21:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c99a475f4803dbf435a18df5733bccdb.json"
@@ -772,22 +898,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
-        },
-        {
-          "id": "62297b5584a3e6cd3427b01df90cc440",
-          "title": "The oil shock is testing private credit borrowers already burdened by high debt costs",
-          "image": "https://image.cnbcfm.com/api/v1/image/108275200-1773166619288-108275200-1773026122072-gettyimages-2209133716-935a77271.jpeg?v=1773385515&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-11T14:33:08.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/62297b5584a3e6cd3427b01df90cc440.json"
         }
       ],
       "path": "articles/b4175869b79de41e5d932bcba7ffa31a.json"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T16:15:35.624Z",
+  "updated_at": "2026-09-11T16:30:52.479Z",
   "total": 27,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
+      "count": 26
     },
     {
       "id": "crypto",
@@ -19,6 +19,13 @@
       "count": 24
     },
     {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 18
+    },
+    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
@@ -26,11 +33,13 @@
       "count": 18
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
-      "count": 17
+      "count": 8
     },
     {
       "id": "anthropic",
@@ -40,15 +49,6 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 8
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 7
     },
     {
       "id": "openai",
@@ -74,6 +74,13 @@
       "count": 5
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -88,13 +95,6 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 4
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "tsla",
@@ -113,6 +113,15 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 3
+    },
+    {
+      "id": "doge",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "type": "crypto",
+      "path": "tickers/doge.json",
+      "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
+      "count": 2
     },
     {
       "id": "sol",
@@ -155,15 +164,6 @@
       "name": "Web3",
       "type": "topic",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "doge",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "type": "crypto",
-      "path": "tickers/doge.json",
-      "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
       "count": 1
     },
     {

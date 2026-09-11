@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-09-11T08:30:49.684Z",
+  "updated_at": "2026-09-11T08:45:32.457Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
-      "id": "62f07e61b3f403095160afa3580d59d9",
-      "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
-      "description": "Oil prices remain elevated amid worries that escalating tensions in the Middle East could further exacerbate supply disruptions",
+      "id": "47f493faa7cefb6ee91e982f90077ea3",
+      "title": "Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point",
+      "description": "The advance raises the threat to shipping near the Bab el-Mandeb Strait, a waterway that connects the Red Sea to the Gulf of Aden to global markets.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361128-1789043876518-gettyimages-2293792094-boivin-photoill260909_np8Q3.jpeg?v=1789043906&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -31,8 +31,24 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-10T19:23:21.000Z",
+      "published_at": "2026-09-11T08:44:52.000Z",
       "related": [
+        {
+          "id": "62f07e61b3f403095160afa3580d59d9",
+          "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
+          "image": "https://image.cnbcfm.com/api/v1/image/108361128-1789043876518-gettyimages-2293792094-boivin-photoill260909_np8Q3.jpeg?v=1789043906&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-10T19:23:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/62f07e61b3f403095160afa3580d59d9.json"
+        },
         {
           "id": "063971d9ba82a48fd5d019818289d389",
           "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
@@ -96,11 +112,105 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b4175869b79de41e5d932bcba7ffa31a.json"
+        }
+      ],
+      "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
+    },
+    {
+      "id": "62f07e61b3f403095160afa3580d59d9",
+      "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
+      "description": "Oil prices remain elevated amid worries that escalating tensions in the Middle East could further exacerbate supply disruptions",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108361128-1789043876518-gettyimages-2293792094-boivin-photoill260909_np8Q3.jpeg?v=1789043906&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-10T19:23:21.000Z",
+      "related": [
+        {
+          "id": "47f493faa7cefb6ee91e982f90077ea3",
+          "title": "Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point",
+          "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-11T08:44:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
         },
         {
-          "id": "6a0158bb4e1d25de13bd414fe8ce2751",
-          "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png",
+          "id": "063971d9ba82a48fd5d019818289d389",
+          "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-10T14:52:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/063971d9ba82a48fd5d019818289d389.json"
+        },
+        {
+          "id": "beaf6707d1ee562b5f2a370da869f4d7",
+          "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-10T11:47:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/beaf6707d1ee562b5f2a370da869f4d7.json"
+        },
+        {
+          "id": "15ca19e78f404557c022d17046596347",
+          "title": "Live updates: Bitcoin slumps as oil and bond yields surge to new highs",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-10T07:45:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/15ca19e78f404557c022d17046596347.json"
+        },
+        {
+          "id": "b4175869b79de41e5d932bcba7ffa31a",
+          "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/oil-market-decrypt-style-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -108,10 +218,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-08T18:59:35.000Z",
+          "published_at": "2026-09-09T15:15:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6a0158bb4e1d25de13bd414fe8ce2751.json"
+          "path": "articles/b4175869b79de41e5d932bcba7ffa31a.json"
         }
       ],
       "path": "articles/62f07e61b3f403095160afa3580d59d9.json"
@@ -326,9 +436,9 @@
           "path": "articles/6a0158bb4e1d25de13bd414fe8ce2751.json"
         },
         {
-          "id": "62f07e61b3f403095160afa3580d59d9",
-          "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
-          "image": "https://image.cnbcfm.com/api/v1/image/108361128-1789043876518-gettyimages-2293792094-boivin-photoill260909_np8Q3.jpeg?v=1789043906&w=1920&h=1080",
+          "id": "47f493faa7cefb6ee91e982f90077ea3",
+          "title": "Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point",
+          "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -336,10 +446,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-10T19:23:21.000Z",
+          "published_at": "2026-09-11T08:44:52.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/62f07e61b3f403095160afa3580d59d9.json"
+          "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
         }
       ],
       "path": "articles/beaf6707d1ee562b5f2a370da869f4d7.json"
@@ -554,9 +664,9 @@
           "path": "articles/15ca19e78f404557c022d17046596347.json"
         },
         {
-          "id": "62f07e61b3f403095160afa3580d59d9",
-          "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
-          "image": "https://image.cnbcfm.com/api/v1/image/108361128-1789043876518-gettyimages-2293792094-boivin-photoill260909_np8Q3.jpeg?v=1789043906&w=1920&h=1080",
+          "id": "47f493faa7cefb6ee91e982f90077ea3",
+          "title": "Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point",
+          "image": "https://image.cnbcfm.com/api/v1/image/108361610-1789108103624-gettyimages-2293945965-AFP_C7VR3NQ.jpeg?v=1789108203&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -564,10 +674,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-10T19:23:21.000Z",
+          "published_at": "2026-09-11T08:44:52.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/62f07e61b3f403095160afa3580d59d9.json"
+          "path": "articles/47f493faa7cefb6ee91e982f90077ea3.json"
         }
       ],
       "path": "articles/b4175869b79de41e5d932bcba7ffa31a.json"

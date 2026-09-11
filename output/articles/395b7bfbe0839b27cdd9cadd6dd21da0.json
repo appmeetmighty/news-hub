@@ -1,11 +1,11 @@
 {
-  "id": "7f011c08f4ae853998a0e4f6203a79e8",
-  "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-  "description": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+  "id": "395b7bfbe0839b27cdd9cadd6dd21da0",
+  "title": "AI regulation calls grow in D.C. after researcher's extinction warning",
+  "description": "Members of Congress are calling for AI regulation after a researcher warned that OpenAI and Anthropic are acting irresponsibly.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108361349-1789061236185-gettyimages-2221337331-kokovlis-notitle250625_npN2j.jpeg?v=1789061264&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/11/ai-regulation-anthropic-researcher-extinction-warning.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108338677-1784741729407-gettyimages-2271654767-_04a6709_lptf6aqj.jpeg?v=1784741748&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -21,9 +21,29 @@
       "type": "company",
       "path": "tickers/openai.json",
       "icon": ""
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": ""
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": ""
     }
   ],
-  "published_at": "2026-09-10T19:02:58.000Z",
+  "published_at": "2026-09-11T13:44:59.000Z",
   "related": [
     {
       "id": "9bcfa740d666ea5f9ec73c5c07ea9bb8",
@@ -58,22 +78,6 @@
       "path": "articles/84b9ef7a1d7fbdab737c85ee921de7d3.json"
     },
     {
-      "id": "395b7bfbe0839b27cdd9cadd6dd21da0",
-      "title": "AI regulation calls grow in D.C. after researcher's extinction warning",
-      "image": "https://image.cnbcfm.com/api/v1/image/108338677-1784741729407-gettyimages-2271654767-_04a6709_lptf6aqj.jpeg?v=1784741748&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-11T13:44:59.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/395b7bfbe0839b27cdd9cadd6dd21da0.json"
-    },
-    {
       "id": "e8de04850be3916810a0336791492a2c",
       "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
       "image": "",
@@ -90,9 +94,9 @@
       "path": "articles/e8de04850be3916810a0336791492a2c.json"
     },
     {
-      "id": "8ab28070629c85f974a99617a71feb85",
-      "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/decrypt-style-erik-voorhees-gID_7.png@png",
+      "id": "d01218731edfef86fb6dc60b3c3f6604",
+      "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_4.jpg@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -100,10 +104,26 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-09-09T13:28:52.000Z",
+      "published_at": "2026-09-09T20:31:29.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 40,
-      "path": "articles/8ab28070629c85f974a99617a71feb85.json"
+      "breaking_score": 0,
+      "path": "articles/d01218731edfef86fb6dc60b3c3f6604.json"
+    },
+    {
+      "id": "54d51e009533ce4688916fb025722599",
+      "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7-pID_2.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-08T21:38:34.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/54d51e009533ce4688916fb025722599.json"
     }
   ]
 }

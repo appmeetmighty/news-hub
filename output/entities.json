@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T05:01:12.896Z",
-  "total": 22,
+  "updated_at": "2026-09-13T05:15:39.731Z",
+  "total": 25,
   "entities": [
     {
       "id": "btc",
@@ -9,28 +9,28 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 20
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 16
+      "count": 29
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 24
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 17
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 16
     },
     {
       "id": "openai",
@@ -42,13 +42,50 @@
       "count": 8
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
+      "count": 6
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
       "count": 5
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 5
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "tsla",
@@ -60,19 +97,12 @@
       "count": 3
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
       "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 3
     },
     {
@@ -85,24 +115,26 @@
       "count": 2
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
       "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 2
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "doge",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "type": "crypto",
+      "path": "tickers/doge.json",
+      "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
+      "count": 2
+    },
+    {
+      "id": "web3",
+      "name": "Web3",
       "type": "topic",
       "icon": "",
       "count": 1
@@ -117,15 +149,6 @@
       "count": 1
     },
     {
-      "id": "doge",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "type": "crypto",
-      "path": "tickers/doge.json",
-      "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
-      "count": 1
-    },
-    {
       "id": "amd",
       "symbol": "AMD",
       "name": "AMD",
@@ -135,19 +158,12 @@
       "count": 1
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 1
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 1
     },
     {
@@ -156,6 +172,15 @@
       "name": "xAI",
       "type": "company",
       "path": "tickers/xai.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "v",
+      "symbol": "V",
+      "name": "Visa",
+      "type": "company",
+      "path": "tickers/v.json",
       "icon": "",
       "count": 1
     },

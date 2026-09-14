@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T09:01:12.011Z",
-  "total": 25,
+  "updated_at": "2026-09-14T09:15:42.672Z",
+  "total": 26,
   "entities": [
     {
       "id": "btc",
@@ -12,15 +12,15 @@
       "count": 28
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 26
-    },
-    {
       "id": "crypto",
       "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 24
+    },
+    {
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 23
@@ -39,7 +39,7 @@
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 11
+      "count": 10
     },
     {
       "id": "anthropic",
@@ -48,14 +48,7 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 9
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 6
+      "count": 8
     },
     {
       "id": "oil",
@@ -64,7 +57,14 @@
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 5
+      "count": 7
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "etf",
@@ -113,6 +113,15 @@
       "path": "tickers/doge.json",
       "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
       "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "blk",

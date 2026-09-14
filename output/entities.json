@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T15:45:37.516Z",
+  "updated_at": "2026-09-14T16:16:32.532Z",
   "total": 25,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 29
+      "count": 31
     },
     {
       "id": "ai",
@@ -48,7 +48,7 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 7
+      "count": 8
     },
     {
       "id": "oil",
@@ -60,18 +60,27 @@
       "count": 7
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 6
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 5
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 4
     },
     {
       "id": "etf",
@@ -97,30 +106,12 @@
       "count": 3
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 2
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 2
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 2
     },
     {
@@ -164,6 +155,15 @@
       "type": "company",
       "path": "tickers/msft.json",
       "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 1
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 1
     },
     {

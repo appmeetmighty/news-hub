@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-14T15:15:43.348Z",
+  "updated_at": "2026-09-14T15:30:52.556Z",
   "total": 25,
   "entities": [
     {
-      "id": "ai",
-      "name": "AI",
+      "id": "crypto",
+      "name": "Crypto",
       "type": "topic",
       "icon": "",
       "count": 29
     },
     {
-      "id": "crypto",
-      "name": "Crypto",
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 28
@@ -39,7 +39,7 @@
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 11
+      "count": 10
     },
     {
       "id": "anthropic",
@@ -48,7 +48,7 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 8
+      "count": 7
     },
     {
       "id": "oil",
@@ -56,6 +56,13 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
+      "icon": "",
+      "count": 7
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 6
     },
@@ -65,13 +72,6 @@
       "type": "topic",
       "icon": "",
       "count": 6
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "etf",
@@ -85,6 +85,15 @@
       "name": "DeFi",
       "type": "topic",
       "icon": "",
+      "count": 3
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 2
     },
     {
@@ -191,15 +200,6 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 1
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 1
     },
     {

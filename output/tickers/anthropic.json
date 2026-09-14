@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T13:01:11.337Z",
+  "updated_at": "2026-09-14T13:15:48.744Z",
   "id": "anthropic",
   "symbol": "ANTHROPIC",
   "name": "Anthropic",
@@ -7,13 +7,13 @@
   "total": 8,
   "articles": [
     {
-      "id": "0cda873c0bb193b73750ae3d002cd5f0",
-      "title": "AI stocks slide after major CEOs unite to urge slowdown",
-      "description": "Anthropic CEO Dario Amodei said the industry \"must slow the pace at which we improve the capabilities of AI models,\" amid growing concerns over risks from AI.",
+      "id": "355b6809469d7be39746f32f8d8e3bcb",
+      "title": "What Amodei's AI slowdown could mean for Anthropic's imminent IPO",
+      "description": "As Anthropic meets with prospective investors ahead of its potentially historic market debut, CEO Dario Amodei is pushing for a slowdown in AI.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108269268-1771956503109-gettyimages-2261589230-INDIA_ANTHROPIC.jpeg?v=1778093790&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -37,12 +37,12 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-14T10:56:37.000Z",
+      "published_at": "2026-09-14T13:13:12.000Z",
       "related": [
         {
-          "id": "db6ceb63c4d5d3829e02c2b24aef80a3",
-          "title": "Jim Cramer questions Anthropic CEO's slowdown manifesto and puts forth an action plan",
-          "image": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
+          "id": "66597141079e33ac1cefd099b54b14c8",
+          "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+          "image": "https://image.cnbcfm.com/api/v1/image/108192018-1789391328142-108192018-1756403834043-gettyimages-2207890426-MICROSOFT_COPILOT.jpg?v=1789391342&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -50,10 +50,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-13T23:47:14.000Z",
+          "published_at": "2026-09-14T13:09:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/db6ceb63c4d5d3829e02c2b24aef80a3.json"
+          "path": "articles/66597141079e33ac1cefd099b54b14c8.json"
         },
         {
           "id": "2674d41aae09ab1e1ac6e31a920cd59a",
@@ -120,16 +120,16 @@
           "path": "articles/0c2be39813129bb6f736e0539b5e705b.json"
         }
       ],
-      "path": "articles/0cda873c0bb193b73750ae3d002cd5f0.json"
+      "path": "articles/355b6809469d7be39746f32f8d8e3bcb.json"
     },
     {
-      "id": "db6ceb63c4d5d3829e02c2b24aef80a3",
-      "title": "Jim Cramer questions Anthropic CEO's slowdown manifesto and puts forth an action plan",
-      "description": "While I have grown tired of his endless proclamations, Dario Amodei does raise points that will impact many stocks if the spending curb proceeds.",
+      "id": "66597141079e33ac1cefd099b54b14c8",
+      "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+      "description": "Microsoft wants to be seen as a responsible AI entity as it ramps up model development alongside partners Anthropic and OpenAI.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/13/cramer-questions-anthropic-ceos-slowdown-manifesto-puts-forth-an-action-plan.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108192018-1789391328142-108192018-1756403834043-gettyimages-2207890426-MICROSOFT_COPILOT.jpg?v=1789391342&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -139,32 +139,38 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
           "id": "anthropic",
           "symbol": "ANTHROPIC",
           "name": "Anthropic",
           "type": "company",
           "path": "tickers/anthropic.json",
           "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-09-13T23:47:14.000Z",
+      "published_at": "2026-09-14T13:09:31.000Z",
       "related": [
-        {
-          "id": "0cda873c0bb193b73750ae3d002cd5f0",
-          "title": "AI stocks slide after major CEOs unite to urge slowdown",
-          "image": "https://image.cnbcfm.com/api/v1/image/108269268-1771956503109-gettyimages-2261589230-INDIA_ANTHROPIC.jpeg?v=1778093790&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-14T10:56:37.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0cda873c0bb193b73750ae3d002cd5f0.json"
-        },
         {
           "id": "2674d41aae09ab1e1ac6e31a920cd59a",
           "title": "Anthropic chief urges slowdown in AI development to safer pace",
@@ -198,39 +204,55 @@
           "path": "articles/9f3efc79f2ccd91da9b8070f5f1796bb.json"
         },
         {
-          "id": "4202cdf6d226aa9299730cdfe2a3423f",
-          "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters  ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2B2TW953PW8GZE67G0P6MYC/nvidia-anthropic-ipo-artwork.png",
+          "id": "d01218731edfef86fb6dc60b3c3f6604",
+          "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_4.jpg@png",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-12T15:12:40.000Z",
+          "published_at": "2026-09-09T20:31:29.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4202cdf6d226aa9299730cdfe2a3423f.json"
+          "path": "articles/d01218731edfef86fb6dc60b3c3f6604.json"
         },
         {
-          "id": "0c2be39813129bb6f736e0539b5e705b",
-          "title": "Anthropic says Claude used for cyberattacks and surveillance",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27SRX88XKNDWW1G5YXF19F2/hi-amm-are-dead-1.jpg",
+          "id": "91175b178eef300171214f8e0f311767",
+          "title": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control' ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357960-1788373276791-gettyimages-2292640346-g20_7000.jpeg?v=1788373294&w=1920&h=1080",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-11T09:47:31.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-14T12:31:47.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/0c2be39813129bb6f736e0539b5e705b.json"
+          "breaking_score": 0,
+          "path": "articles/91175b178eef300171214f8e0f311767.json"
+        },
+        {
+          "id": "355b6809469d7be39746f32f8d8e3bcb",
+          "title": "What Amodei's AI slowdown could mean for Anthropic's imminent IPO",
+          "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-14T13:13:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/355b6809469d7be39746f32f8d8e3bcb.json"
         }
       ],
-      "path": "articles/db6ceb63c4d5d3829e02c2b24aef80a3.json"
+      "path": "articles/66597141079e33ac1cefd099b54b14c8.json"
     },
     {
       "id": "2674d41aae09ab1e1ac6e31a920cd59a",
@@ -306,6 +328,22 @@
           "path": "articles/d01218731edfef86fb6dc60b3c3f6604.json"
         },
         {
+          "id": "66597141079e33ac1cefd099b54b14c8",
+          "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+          "image": "https://image.cnbcfm.com/api/v1/image/108192018-1789391328142-108192018-1756403834043-gettyimages-2207890426-MICROSOFT_COPILOT.jpg?v=1789391342&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-14T13:09:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/66597141079e33ac1cefd099b54b14c8.json"
+        },
+        {
           "id": "4202cdf6d226aa9299730cdfe2a3423f",
           "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters  ",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2B2TW953PW8GZE67G0P6MYC/nvidia-anthropic-ipo-artwork.png",
@@ -336,22 +374,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/0c2be39813129bb6f736e0539b5e705b.json"
-        },
-        {
-          "id": "aba6b759e010cd46d39e3774144fd598",
-          "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-11T18:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
         }
       ],
       "path": "articles/2674d41aae09ab1e1ac6e31a920cd59a.json"
@@ -438,6 +460,22 @@
           "path": "articles/d01218731edfef86fb6dc60b3c3f6604.json"
         },
         {
+          "id": "66597141079e33ac1cefd099b54b14c8",
+          "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+          "image": "https://image.cnbcfm.com/api/v1/image/108192018-1789391328142-108192018-1756403834043-gettyimages-2207890426-MICROSOFT_COPILOT.jpg?v=1789391342&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-14T13:09:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/66597141079e33ac1cefd099b54b14c8.json"
+        },
+        {
           "id": "b8ab32ad7c86bf987f88e981bd94699e",
           "title": "OpenAI IPO won't happen this year, says Sam Altman",
           "image": "",
@@ -468,22 +506,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1a6b29f39fa3ce69fcc1a79c9117047e.json"
-        },
-        {
-          "id": "91175b178eef300171214f8e0f311767",
-          "title": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control' ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357960-1788373276791-gettyimages-2292640346-g20_7000.jpeg?v=1788373294&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-14T12:31:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/91175b178eef300171214f8e0f311767.json"
         }
       ],
       "path": "articles/9f3efc79f2ccd91da9b8070f5f1796bb.json"
@@ -912,6 +934,22 @@
           "path": "articles/9f3efc79f2ccd91da9b8070f5f1796bb.json"
         },
         {
+          "id": "66597141079e33ac1cefd099b54b14c8",
+          "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+          "image": "https://image.cnbcfm.com/api/v1/image/108192018-1789391328142-108192018-1756403834043-gettyimages-2207890426-MICROSOFT_COPILOT.jpg?v=1789391342&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-14T13:09:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/66597141079e33ac1cefd099b54b14c8.json"
+        },
+        {
           "id": "ead4de61737e4ba5ed031bdd674bcd37",
           "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
@@ -942,22 +980,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
-        },
-        {
-          "id": "aba6b759e010cd46d39e3774144fd598",
-          "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-11T18:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
         }
       ],
       "path": "articles/d01218731edfef86fb6dc60b3c3f6604.json"

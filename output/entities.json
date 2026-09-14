@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-09-14T12:01:15.435Z",
+  "updated_at": "2026-09-14T12:15:38.378Z",
   "total": 26,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 29
+    },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 29
+      "count": 28
     },
     {
       "id": "btc",
@@ -16,14 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 28
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 28
+      "count": 27
     },
     {
       "id": "regulation",
@@ -42,20 +42,20 @@
       "count": 10
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 8
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
+      "icon": "",
+      "count": 7
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 7
     },

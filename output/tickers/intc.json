@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:01:04.347Z",
+  "updated_at": "2026-09-14T17:45:40.104Z",
   "id": "intc",
   "symbol": "INTC",
   "name": "Intel",
@@ -7,21 +7,37 @@
   "total": 1,
   "articles": [
     {
-      "id": "f8cdcd3c90ea7d1a557f53b2c057975d",
-      "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning",
-      "description": "Shares of Qualcom, Corning, Intel, Advanced Micro Devices and others tied to the AI infrastructure trade popped on Tuesday.",
+      "id": "3be54dc636a3c5eea726ba2fb6572824",
+      "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
+      "description": "AI CEOs want the industry to pump the brakes on capability gains. Nvidia, Intel, and AMD didn't like the sound of that. Bitcoin didn't seem to mind.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108302672-1778030248073-260109_cn_30_tech_corning_meta_cleanmp400_00_27_00Still014.jpg?v=1785269699&w=1920&h=1080",
+      "url": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
         {
           "id": "amd",
           "symbol": "AMD",
@@ -39,104 +55,96 @@
           "icon": ""
         },
         {
-          "id": "qcom",
-          "symbol": "QCOM",
-          "name": "Qualcomm",
-          "type": "company",
-          "path": "tickers/qcom.json",
-          "icon": ""
-        },
-        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-09-08T22:02:53.000Z",
+      "published_at": "2026-09-14T17:40:04.000Z",
       "related": [
         {
-          "id": "d745806b567ab964171485318a4176c5",
-          "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080",
+          "id": "fdfd6a66588a3ebebfdec657f31366c8",
+          "title": "Live updates: Bitcoin climbs as stocks drop, U.S. 10-year yield rises to 5%",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-09T09:15:41.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-14T11:44:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d745806b567ab964171485318a4176c5.json"
+          "path": "articles/fdfd6a66588a3ebebfdec657f31366c8.json"
         },
         {
-          "id": "a9685d28d5290eb69d353277941fac50",
-          "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108360192-1788933235128-gettyimages-2244423827-INDIA_ADANI.jpeg?v=1788933250&w=1920&h=1080",
+          "id": "c1242a007cb94e7a6b9e65b69d3f073b",
+          "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-09T06:26:59.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-14T15:41:46.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/a9685d28d5290eb69d353277941fac50.json"
+          "path": "articles/c1242a007cb94e7a6b9e65b69d3f073b.json"
         },
         {
-          "id": "12bf2b70f909a156c2a642e818c15f75",
-          "title": "Jim Cramer says investors are too focused on AI stocks. Here’s where he says to look instead",
-          "image": "https://image.cnbcfm.com/api/v1/image/107109969-NUP_198430_00200r.jpg?v=1694042675&w=1920&h=1080",
+          "id": "7cdcd3247cc180a0139c9255a114eac1",
+          "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-08T22:25:23.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-14T10:09:41.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/12bf2b70f909a156c2a642e818c15f75.json"
+          "breaking_score": 20,
+          "path": "articles/7cdcd3247cc180a0139c9255a114eac1.json"
         },
         {
-          "id": "00e884ee35493a48480ecfb69ff85e28",
-          "title": "Lilly perseveres in a bad day for drug stocks — plus, Boeing's mixed deliveries",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359875-17888859092026-09-08t164028z_1466658885_rc22fnav82e2_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
+          "id": "94704137b5ec63278720137c5e6dd846",
+          "title": "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-08T19:03:06.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-14T09:01:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/00e884ee35493a48480ecfb69ff85e28.json"
+          "path": "articles/94704137b5ec63278720137c5e6dd846.json"
         },
         {
-          "id": "86a96474a61eaccd75bcf4344b7c9f15",
-          "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
-          "image": "https://image.cnbcfm.com/api/v1/image/108343444-1785534847210-260729-N-QP244-1122.jpeg?v=1785535017&w=1920&h=1080",
+          "id": "93f2ef676fe2fbdffb28a9eac39c376f",
+          "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-09T10:35:02.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-14T08:07:16.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/86a96474a61eaccd75bcf4344b7c9f15.json"
+          "breaking_score": 20,
+          "path": "articles/93f2ef676fe2fbdffb28a9eac39c376f.json"
         }
       ],
-      "path": "articles/f8cdcd3c90ea7d1a557f53b2c057975d.json"
+      "path": "articles/3be54dc636a3c5eea726ba2fb6572824.json"
     }
   ]
 }

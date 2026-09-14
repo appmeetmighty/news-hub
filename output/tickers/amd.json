@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:15:40.466Z",
+  "updated_at": "2026-09-14T17:45:40.103Z",
   "id": "amd",
   "symbol": "AMD",
   "name": "AMD",
@@ -7,21 +7,37 @@
   "total": 1,
   "articles": [
     {
-      "id": "c1f32adf3e3aed79bbaf1c17b7c7f7f1",
-      "title": "Leopold Aschenbrenner's Situational Awareness is active in options market, sources say",
-      "description": "Situational Awareness has been buying options positions in stocks including Advanced Micro Devices, Bloom Energy and Coreweave, sources told CNBC's David Faber.",
+      "id": "3be54dc636a3c5eea726ba2fb6572824",
+      "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
+      "description": "AI CEOs want the industry to pump the brakes on capability gains. Nvidia, Intel, and AMD didn't like the sound of that. Bitcoin didn't seem to mind.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&w=1920&h=1080",
+      "url": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
         {
           "id": "amd",
           "symbol": "AMD",
@@ -29,92 +45,106 @@
           "type": "company",
           "path": "tickers/amd.json",
           "icon": ""
+        },
+        {
+          "id": "intc",
+          "symbol": "INTC",
+          "name": "Intel",
+          "type": "company",
+          "path": "tickers/intc.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-09-11T14:02:38.000Z",
+      "published_at": "2026-09-14T17:40:04.000Z",
       "related": [
         {
-          "id": "46ee1298e58356c1fe5e76006e997077",
-          "title": "Cramer: This market has eerie parallels with 2018. Here's what investors should do",
-          "image": "https://image.cnbcfm.com/api/v1/image/107109966-NUP_198430_00164r.jpg?v=1695081285&w=1920&h=1080",
+          "id": "fdfd6a66588a3ebebfdec657f31366c8",
+          "title": "Live updates: Bitcoin climbs as stocks drop, U.S. 10-year yield rises to 5%",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-11T23:09:35.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-14T11:44:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fdfd6a66588a3ebebfdec657f31366c8.json"
+        },
+        {
+          "id": "c1242a007cb94e7a6b9e65b69d3f073b",
+          "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T15:41:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c1242a007cb94e7a6b9e65b69d3f073b.json"
+        },
+        {
+          "id": "7cdcd3247cc180a0139c9255a114eac1",
+          "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T10:09:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
-          "path": "articles/46ee1298e58356c1fe5e76006e997077.json"
+          "path": "articles/7cdcd3247cc180a0139c9255a114eac1.json"
         },
         {
-          "id": "4b80e0716a9c9707b8ccdf3a8a7877e0",
-          "title": "China's Xi urges BRICS nations to work towards peace in the Middle East",
-          "image": "https://image.cnbcfm.com/api/v1/image/108362176-1789292022821-gettyimages-2294350827-AFP_C8424TC.jpeg?v=1789292035&w=1920&h=1080",
+          "id": "94704137b5ec63278720137c5e6dd846",
+          "title": "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-13T09:41:53.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-14T09:01:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4b80e0716a9c9707b8ccdf3a8a7877e0.json"
+          "path": "articles/94704137b5ec63278720137c5e6dd846.json"
         },
         {
-          "id": "6b559a049b693179e96c3cbca14c009a",
-          "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-          "image": "https://image.cnbcfm.com/api/v1/image/108361067-1789037433629-gettyimages-2281437466-HL_IBENYOUSSEF_3200131.jpeg?v=1789037452&w=1920&h=1080",
+          "id": "93f2ef676fe2fbdffb28a9eac39c376f",
+          "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-12T23:20:43.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-14T08:07:16.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6b559a049b693179e96c3cbca14c009a.json"
-        },
-        {
-          "id": "0e3b7118b23e3e3d6464c5afd48a2c66",
-          "title": "Conversations that AIs are having in the office that may influence your performance review and pay",
-          "image": "https://image.cnbcfm.com/api/v1/image/108360033-1788899990732-gettyimages-1364344587-img_1534-edit.jpeg?v=1788900013&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-12T17:39:10.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0e3b7118b23e3e3d6464c5afd48a2c66.json"
-        },
-        {
-          "id": "a6282b0924a81c52c09e1cb9376c645f",
-          "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108196838-1757513446511-2014-06-10T120000Z_1307590048_GM1EA6B083401_RTRMADP_3_ORACLE-DATABASE.JPG?v=1757518920&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-12T17:14:56.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a6282b0924a81c52c09e1cb9376c645f.json"
+          "breaking_score": 20,
+          "path": "articles/93f2ef676fe2fbdffb28a9eac39c376f.json"
         }
       ],
-      "path": "articles/c1f32adf3e3aed79bbaf1c17b7c7f7f1.json"
+      "path": "articles/3be54dc636a3c5eea726ba2fb6572824.json"
     }
   ]
 }

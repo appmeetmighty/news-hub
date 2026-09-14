@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T17:30:50.940Z",
-  "total": 25,
+  "updated_at": "2026-09-14T17:45:40.111Z",
+  "total": 27,
   "entities": [
     {
       "id": "crypto",
@@ -14,7 +14,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 28
     },
     {
       "id": "btc",
@@ -23,7 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
+      "count": 25
     },
     {
       "id": "regulation",
@@ -42,6 +42,15 @@
       "count": 10
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 8
+    },
+    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
@@ -49,15 +58,6 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 8
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 7
     },
     {
       "id": "blockchain",
@@ -106,6 +106,15 @@
       "count": 3
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 2
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -140,6 +149,24 @@
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
       "count": 2
+    },
+    {
+      "id": "amd",
+      "symbol": "AMD",
+      "name": "AMD",
+      "type": "company",
+      "path": "tickers/amd.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "msft",
@@ -182,15 +209,6 @@
       "type": "company",
       "path": "tickers/gs.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 1
     },
     {

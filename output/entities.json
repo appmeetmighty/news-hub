@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-14T12:45:39.107Z",
+  "updated_at": "2026-09-14T13:01:11.340Z",
   "total": 26,
   "entities": [
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 29
+    },
     {
       "id": "crypto",
       "name": "Crypto",
@@ -10,20 +17,13 @@
       "count": 29
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 28
-    },
-    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
+      "count": 28
     },
     {
       "id": "regulation",
@@ -42,20 +42,20 @@
       "count": 10
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 7
-    },
-    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 8
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 7
     },
@@ -79,6 +79,15 @@
       "type": "topic",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 2
     },
     {
       "id": "sol",
@@ -191,15 +200,6 @@
       "type": "company",
       "path": "tickers/xai.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 1
     },
     {

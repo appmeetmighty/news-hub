@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-14T19:01:09.817Z",
-  "total": 27,
+  "updated_at": "2026-09-14T19:15:35.163Z",
+  "total": 29,
   "entities": [
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 33
+    },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
       "count": 32
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 30
     },
     {
       "id": "btc",
@@ -39,16 +39,7 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 8
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 8
+      "count": 9
     },
     {
       "id": "openai",
@@ -56,6 +47,15 @@
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
+      "icon": "",
+      "count": 9
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 8
     },
@@ -72,13 +72,6 @@
       "type": "topic",
       "icon": "",
       "count": 6
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 4
     },
     {
       "id": "mstr",
@@ -106,21 +99,28 @@
       "count": 3
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 2
+    },
+    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 2
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 2
     },
     {
@@ -140,6 +140,15 @@
       "path": "tickers/gold.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 1
     },
     {
       "id": "bac",
@@ -173,6 +182,15 @@
       "name": "Web3",
       "type": "topic",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 1
     },
     {

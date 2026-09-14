@@ -1,11 +1,141 @@
 {
-  "updated_at": "2026-09-14T10:01:10.786Z",
+  "updated_at": "2026-09-14T10:15:38.580Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 7,
+  "total": 8,
   "articles": [
+    {
+      "id": "7cdcd3247cc180a0139c9255a114eac1",
+      "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+      "description": "Bitcoin rose 1.9% since midnight UTC while Nasdaq 100 index futures fell 1.65% on calls to slow AI development and crude gained almost 4% on a Saudi pipeline closure.",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "url": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-14T10:09:41.000Z",
+      "related": [
+        {
+          "id": "93f2ef676fe2fbdffb28a9eac39c376f",
+          "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T08:07:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/93f2ef676fe2fbdffb28a9eac39c376f.json"
+        },
+        {
+          "id": "ece226aad32678ebbb426a567c550c33",
+          "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-11T11:20:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ece226aad32678ebbb426a567c550c33.json"
+        },
+        {
+          "id": "7ea7846b534b2e005c862744b4be791e",
+          "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-12T16:00:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ea7846b534b2e005c862744b4be791e.json"
+        },
+        {
+          "id": "025aca416fcaad4c7f6fa042be3cb6fd",
+          "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-12T21:09:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/025aca416fcaad4c7f6fa042be3cb6fd.json"
+        },
+        {
+          "id": "c11e05aac1fdfa8b96edb5fe622a9f68",
+          "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-12T10:11:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c11e05aac1fdfa8b96edb5fe622a9f68.json"
+        }
+      ],
+      "path": "articles/7cdcd3247cc180a0139c9255a114eac1.json"
+    },
     {
       "id": "165443a5ebb3659f4d638c770534d567",
       "title": "Brent crude jumps above $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
@@ -98,8 +228,8 @@
           "path": "articles/31d127d45d4526c291431ba655a16e6f.json"
         },
         {
-          "id": "93f2ef676fe2fbdffb28a9eac39c376f",
-          "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+          "id": "7cdcd3247cc180a0139c9255a114eac1",
+          "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -108,10 +238,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-14T08:07:16.000Z",
+          "published_at": "2026-09-14T10:09:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
-          "path": "articles/93f2ef676fe2fbdffb28a9eac39c376f.json"
+          "path": "articles/7cdcd3247cc180a0139c9255a114eac1.json"
         }
       ],
       "path": "articles/165443a5ebb3659f4d638c770534d567.json"
@@ -208,8 +338,8 @@
           "path": "articles/31d127d45d4526c291431ba655a16e6f.json"
         },
         {
-          "id": "93f2ef676fe2fbdffb28a9eac39c376f",
-          "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+          "id": "7cdcd3247cc180a0139c9255a114eac1",
+          "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -218,10 +348,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-14T08:07:16.000Z",
+          "published_at": "2026-09-14T10:09:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
-          "path": "articles/93f2ef676fe2fbdffb28a9eac39c376f.json"
+          "path": "articles/7cdcd3247cc180a0139c9255a114eac1.json"
         }
       ],
       "path": "articles/3a98968a031c70512d4ed762e13b44da.json"
@@ -318,8 +448,8 @@
           "path": "articles/31d127d45d4526c291431ba655a16e6f.json"
         },
         {
-          "id": "93f2ef676fe2fbdffb28a9eac39c376f",
-          "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+          "id": "7cdcd3247cc180a0139c9255a114eac1",
+          "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -328,10 +458,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-14T08:07:16.000Z",
+          "published_at": "2026-09-14T10:09:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
-          "path": "articles/93f2ef676fe2fbdffb28a9eac39c376f.json"
+          "path": "articles/7cdcd3247cc180a0139c9255a114eac1.json"
         }
       ],
       "path": "articles/13902d9ccd25de78438a8579f1890d05.json"
@@ -377,6 +507,22 @@
       ],
       "published_at": "2026-09-14T08:07:16.000Z",
       "related": [
+        {
+          "id": "7cdcd3247cc180a0139c9255a114eac1",
+          "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T10:09:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/7cdcd3247cc180a0139c9255a114eac1.json"
+        },
         {
           "id": "ece226aad32678ebbb426a567c550c33",
           "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
@@ -440,22 +586,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c11e05aac1fdfa8b96edb5fe622a9f68.json"
-        },
-        {
-          "id": "0071cdb1a1663520d5760c4b2d90084e",
-          "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-11T11:04:12.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 35,
-          "path": "articles/0071cdb1a1663520d5760c4b2d90084e.json"
         }
       ],
       "path": "articles/93f2ef676fe2fbdffb28a9eac39c376f.json"
@@ -552,8 +682,8 @@
           "path": "articles/31d127d45d4526c291431ba655a16e6f.json"
         },
         {
-          "id": "93f2ef676fe2fbdffb28a9eac39c376f",
-          "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+          "id": "7cdcd3247cc180a0139c9255a114eac1",
+          "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -562,10 +692,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-14T08:07:16.000Z",
+          "published_at": "2026-09-14T10:09:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
-          "path": "articles/93f2ef676fe2fbdffb28a9eac39c376f.json"
+          "path": "articles/7cdcd3247cc180a0139c9255a114eac1.json"
         }
       ],
       "path": "articles/90bc76994aef0ce4f86f1ac4428e367f.json"
@@ -662,8 +792,8 @@
           "path": "articles/90bc76994aef0ce4f86f1ac4428e367f.json"
         },
         {
-          "id": "93f2ef676fe2fbdffb28a9eac39c376f",
-          "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+          "id": "7cdcd3247cc180a0139c9255a114eac1",
+          "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -672,10 +802,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-14T08:07:16.000Z",
+          "published_at": "2026-09-14T10:09:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
-          "path": "articles/93f2ef676fe2fbdffb28a9eac39c376f.json"
+          "path": "articles/7cdcd3247cc180a0139c9255a114eac1.json"
         }
       ],
       "path": "articles/31d127d45d4526c291431ba655a16e6f.json"
@@ -715,6 +845,22 @@
       ],
       "published_at": "2026-09-11T11:20:26.000Z",
       "related": [
+        {
+          "id": "7cdcd3247cc180a0139c9255a114eac1",
+          "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T10:09:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/7cdcd3247cc180a0139c9255a114eac1.json"
+        },
         {
           "id": "93f2ef676fe2fbdffb28a9eac39c376f",
           "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
@@ -778,22 +924,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7ea7846b534b2e005c862744b4be791e.json"
-        },
-        {
-          "id": "c11e05aac1fdfa8b96edb5fe622a9f68",
-          "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-12T10:11:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c11e05aac1fdfa8b96edb5fe622a9f68.json"
         }
       ],
       "path": "articles/ece226aad32678ebbb426a567c550c33.json"

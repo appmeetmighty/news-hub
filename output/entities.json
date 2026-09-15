@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T21:15:48.119Z",
+  "updated_at": "2026-09-15T21:30:52.577Z",
   "total": 25,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 37
+      "count": 38
     },
     {
       "id": "btc",
@@ -58,6 +58,15 @@
       "count": 7
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 6
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -83,13 +92,11 @@
       "count": 5
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 5
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "nvda",
@@ -108,13 +115,6 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 3
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 2
     },
     {
       "id": "googl",

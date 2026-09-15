@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-09-15T18:01:06.932Z",
+  "updated_at": "2026-09-15T18:15:39.256Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 5,
+  "total": 6,
   "articles": [
+    {
+      "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
+      "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+      "description": "Anthropic and OpenAI have called for mandatory safety checks to be put in place as fears intensify that AI can soon be too powerful to control.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/15/trump-opposition-to-ai-rules-undercuts-industrys-calls-for-a-slowdown.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-15T17:38:35.000Z",
+      "related": [
+        {
+          "id": "708b746ec6a04f20ac1a8c7a48495b46",
+          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T17:01:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+        },
+        {
+          "id": "aba6b759e010cd46d39e3774144fd598",
+          "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-11T18:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
+        },
+        {
+          "id": "b65aefcf83cb298a2c0def0a26a76d33",
+          "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T21:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
+        },
+        {
+          "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
+          "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T18:26:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
+        },
+        {
+          "id": "ead4de61737e4ba5ed031bdd674bcd37",
+          "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-12T16:01:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ead4de61737e4ba5ed031bdd674bcd37.json"
+        }
+      ],
+      "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
+    },
     {
       "id": "708b746ec6a04f20ac1a8c7a48495b46",
       "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
@@ -47,6 +171,22 @@
       ],
       "published_at": "2026-09-15T17:01:13.000Z",
       "related": [
+        {
+          "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
+          "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T17:38:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
+        },
         {
           "id": "b65aefcf83cb298a2c0def0a26a76d33",
           "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
@@ -110,22 +250,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
-        },
-        {
-          "id": "aba6b759e010cd46d39e3774144fd598",
-          "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-11T18:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
         }
       ],
       "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
@@ -212,6 +336,22 @@
           "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
         },
         {
+          "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
+          "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T17:38:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
+        },
+        {
           "id": "708b746ec6a04f20ac1a8c7a48495b46",
           "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
           "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
@@ -226,22 +366,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
-        {
-          "id": "225cb3f35e7611df5ced387ad5793464",
-          "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T17:49:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 45,
-          "path": "articles/225cb3f35e7611df5ced387ad5793464.json"
         }
       ],
       "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
@@ -322,6 +446,22 @@
           "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
         },
         {
+          "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
+          "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T17:38:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
+        },
+        {
           "id": "708b746ec6a04f20ac1a8c7a48495b46",
           "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
           "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
@@ -336,22 +476,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
-        {
-          "id": "cd4a4322db03b99015136f336621ddff",
-          "title": "Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T15:08:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cd4a4322db03b99015136f336621ddff.json"
         }
       ],
       "path": "articles/ead4de61737e4ba5ed031bdd674bcd37.json"
@@ -440,6 +564,22 @@
           "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
         },
         {
+          "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
+          "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T17:38:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
+        },
+        {
           "id": "708b746ec6a04f20ac1a8c7a48495b46",
           "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
           "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
@@ -454,22 +594,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
-        {
-          "id": "225cb3f35e7611df5ced387ad5793464",
-          "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T17:49:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 45,
-          "path": "articles/225cb3f35e7611df5ced387ad5793464.json"
         }
       ],
       "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
@@ -556,6 +680,22 @@
           "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
         },
         {
+          "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
+          "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T17:38:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
+        },
+        {
           "id": "708b746ec6a04f20ac1a8c7a48495b46",
           "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
           "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
@@ -570,22 +710,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
-        {
-          "id": "191b444ddb1694350e035af195397b0f",
-          "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T13:00:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/191b444ddb1694350e035af195397b0f.json"
         }
       ],
       "path": "articles/aba6b759e010cd46d39e3774144fd598.json"

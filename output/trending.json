@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-15T16:15:38.633Z",
+  "updated_at": "2026-09-15T16:30:55.552Z",
   "articles": {
-    "generated_at": "2026-09-15T16:15:38.633Z",
+    "generated_at": "2026-09-15T16:30:55.552Z",
     "topics": [
       {
         "id": "crypto",
@@ -306,7 +306,7 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 18,
+        "count": 19,
         "articles": [
           {
             "id": "f4545aaf7603a29af369a29323bab5f8",
@@ -321,6 +321,20 @@
             "category": "stocks",
             "published_at": "2026-09-15T16:14:29.000Z",
             "path": "articles/f4545aaf7603a29af369a29323bab5f8.json"
+          },
+          {
+            "id": "708b746ec6a04f20ac1a8c7a48495b46",
+            "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+            "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-15T13:24:21.000Z",
+            "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
           },
           {
             "id": "191b444ddb1694350e035af195397b0f",
@@ -433,20 +447,6 @@
             "category": "crypto",
             "published_at": "2026-09-14T20:07:41.000Z",
             "path": "articles/be3139095029e1904a1caa02611baafe.json"
-          },
-          {
-            "id": "080fb77530c1ea01ba7e95d52b653652",
-            "title": "Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/microsoft-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-14T19:07:28.000Z",
-            "path": "articles/080fb77530c1ea01ba7e95d52b653652.json"
           }
         ]
       },
@@ -1000,6 +1000,85 @@
         ]
       },
       {
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
+        "icon": "",
+        "count": 5,
+        "articles": [
+          {
+            "id": "708b746ec6a04f20ac1a8c7a48495b46",
+            "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+            "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-15T13:24:21.000Z",
+            "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+          },
+          {
+            "id": "b65aefcf83cb298a2c0def0a26a76d33",
+            "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-14T21:16:04.000Z",
+            "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
+          },
+          {
+            "id": "ead4de61737e4ba5ed031bdd674bcd37",
+            "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-12T16:01:04.000Z",
+            "path": "articles/ead4de61737e4ba5ed031bdd674bcd37.json"
+          },
+          {
+            "id": "454fe6b9575d3020016a27369b4cfac7",
+            "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/ChatGPT-Images-Review-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-12T13:01:03.000Z",
+            "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
+          },
+          {
+            "id": "aba6b759e010cd46d39e3774144fd598",
+            "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-11T18:16:04.000Z",
+            "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
+          }
+        ]
+      },
+      {
         "id": "sol",
         "name": "Solana",
         "type": "crypto",
@@ -1130,44 +1209,44 @@
         ]
       },
       {
-        "id": "openai",
-        "name": "OpenAI",
+        "id": "anthropic",
+        "name": "Anthropic",
         "type": "company",
         "icon": "",
-        "count": 4,
+        "count": 3,
         "articles": [
           {
-            "id": "b65aefcf83cb298a2c0def0a26a76d33",
-            "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+            "id": "708b746ec6a04f20ac1a8c7a48495b46",
+            "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+            "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
             "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
             },
-            "category": "crypto",
-            "published_at": "2026-09-14T21:16:04.000Z",
-            "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
+            "category": "stocks",
+            "published_at": "2026-09-15T13:24:21.000Z",
+            "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
           },
           {
-            "id": "ead4de61737e4ba5ed031bdd674bcd37",
-            "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+            "id": "cee92a6185699a036e4b115a6d081fe0",
+            "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+            "image": "https://image.cnbcfm.com/api/v1/image/105018157-RTX4WGMG.jpg?v=1725569568&w=1920&h=1080",
             "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
             },
-            "category": "crypto",
-            "published_at": "2026-09-12T16:01:04.000Z",
-            "path": "articles/ead4de61737e4ba5ed031bdd674bcd37.json"
+            "category": "stocks",
+            "published_at": "2026-09-14T22:43:25.000Z",
+            "path": "articles/cee92a6185699a036e4b115a6d081fe0.json"
           },
           {
-            "id": "454fe6b9575d3020016a27369b4cfac7",
-            "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/ChatGPT-Images-Review-gID_7.jpg@png",
+            "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
+            "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
             "source": {
               "id": "decrypt",
               "name": "Decrypt",
@@ -1175,22 +1254,8 @@
               "icon": "https://logo.clearbit.com/decrypt.co"
             },
             "category": "crypto",
-            "published_at": "2026-09-12T13:01:03.000Z",
-            "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
-          },
-          {
-            "id": "aba6b759e010cd46d39e3774144fd598",
-            "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-11T18:16:04.000Z",
-            "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
+            "published_at": "2026-09-14T18:26:04.000Z",
+            "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
           }
         ]
       },
@@ -1279,43 +1344,6 @@
             "category": "crypto",
             "published_at": "2026-09-14T08:57:00.000Z",
             "path": "articles/cca06043784a95b42f4c63b175d767bb.json"
-          }
-        ]
-      },
-      {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "cee92a6185699a036e4b115a6d081fe0",
-            "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
-            "image": "https://image.cnbcfm.com/api/v1/image/105018157-RTX4WGMG.jpg?v=1725569568&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-14T22:43:25.000Z",
-            "path": "articles/cee92a6185699a036e4b115a6d081fe0.json"
-          },
-          {
-            "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
-            "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-14T18:26:04.000Z",
-            "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
           }
         ]
       },

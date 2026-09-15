@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:45:47.037Z",
+  "updated_at": "2026-09-15T09:01:05.481Z",
   "total": 28,
   "entities": [
     {
@@ -14,7 +14,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 28
+      "count": 27
     },
     {
       "id": "btc",
@@ -33,6 +33,22 @@
       "count": 19
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 7
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 7
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -42,20 +58,11 @@
       "count": 7
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 6
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 6
+      "count": 5
     },
     {
       "id": "anthropic",
@@ -64,22 +71,6 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 6
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 5
     },
     {
@@ -89,6 +80,15 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 4
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 4
     },
     {

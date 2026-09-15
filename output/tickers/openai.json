@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-09-15T13:15:37.332Z",
+  "updated_at": "2026-09-15T13:30:58.222Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 7,
+  "total": 8,
   "articles": [
+    {
+      "id": "708b746ec6a04f20ac1a8c7a48495b46",
+      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+      "description": "AI pioneers and 'godfathers' have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-15T13:24:21.000Z",
+      "related": [
+        {
+          "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
+          "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T13:06:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
+        },
+        {
+          "id": "2674d41aae09ab1e1ac6e31a920cd59a",
+          "title": "Anthropic chief urges slowdown in AI development to safer pace",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2D73RC4KZ3H9HDSX589ZA4R/dario-amodei-ai-caution.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-13T11:09:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2674d41aae09ab1e1ac6e31a920cd59a.json"
+        },
+        {
+          "id": "cee92a6185699a036e4b115a6d081fe0",
+          "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+          "image": "https://image.cnbcfm.com/api/v1/image/105018157-RTX4WGMG.jpg?v=1725569568&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-14T22:43:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cee92a6185699a036e4b115a6d081fe0.json"
+        },
+        {
+          "id": "b65aefcf83cb298a2c0def0a26a76d33",
+          "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T21:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
+        },
+        {
+          "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
+          "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T18:26:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
+        }
+      ],
+      "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+    },
     {
       "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
       "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
@@ -47,6 +171,22 @@
       ],
       "published_at": "2026-09-15T13:06:22.000Z",
       "related": [
+        {
+          "id": "708b746ec6a04f20ac1a8c7a48495b46",
+          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T13:24:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+        },
         {
           "id": "2674d41aae09ab1e1ac6e31a920cd59a",
           "title": "Anthropic chief urges slowdown in AI development to safer pace",
@@ -110,22 +250,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
-        },
-        {
-          "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
-          "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-14T18:26:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
         }
       ],
       "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
@@ -304,6 +428,22 @@
           "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
         },
         {
+          "id": "708b746ec6a04f20ac1a8c7a48495b46",
+          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T13:24:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+        },
+        {
           "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
           "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
@@ -350,22 +490,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
-        },
-        {
-          "id": "ead4de61737e4ba5ed031bdd674bcd37",
-          "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-12T16:01:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ead4de61737e4ba5ed031bdd674bcd37.json"
         }
       ],
       "path": "articles/2674d41aae09ab1e1ac6e31a920cd59a.json"

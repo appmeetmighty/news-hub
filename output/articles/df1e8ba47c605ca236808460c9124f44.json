@@ -1,10 +1,10 @@
 {
-  "id": "bf75969b844633b3d720d1abc83083f3",
-  "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
-  "description": "Batch V1.1 would let users bundle up to eight linked transactions into one operation, with 27 of 35 trusted validators now backing the change.",
+  "id": "df1e8ba47c605ca236808460c9124f44",
+  "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+  "description": "Two software bugs allowed the attacker to create more than 2,000 times Bitcoin’s maximum supply in unbacked syBTC. Symbiosis puts preliminary losses at 9.97 BTC.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
+  "breaking_score": 60,
+  "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
   "image": "",
   "source": {
     "id": "coindesk",
@@ -15,35 +15,25 @@
   "category": "crypto",
   "entities": [
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
-    }
-  ],
-  "published_at": "2026-09-15T05:58:41.000Z",
-  "related": [
-    {
-      "id": "4053069e44091f2fc59a9f0b7708a9e5",
-      "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-15T11:15:44.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/4053069e44091f2fc59a9f0b7708a9e5.json"
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
     },
     {
-      "id": "06de8188903c12cd0cf302249d90e86d",
-      "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-09-15T13:43:50.000Z",
+  "related": [
+    {
+      "id": "20746319047091b35a85509fba41acdf",
+      "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
       "image": "",
       "source": {
         "id": "coindesk",
@@ -52,10 +42,26 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-09-15T11:00:00.000Z",
+      "published_at": "2026-09-15T10:41:35.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/06de8188903c12cd0cf302249d90e86d.json"
+      "path": "articles/20746319047091b35a85509fba41acdf.json"
+    },
+    {
+      "id": "50e975a42ded9852bd2c15ccccf620fa",
+      "title": "Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-15T10:06:40.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/50e975a42ded9852bd2c15ccccf620fa.json"
     },
     {
       "id": "b5f6d9e7bf123bdcb7066e835dd2430e",
@@ -90,20 +96,20 @@
       "path": "articles/1b6e704c556f99ed6515b16b0e446ee1.json"
     },
     {
-      "id": "f08af1893ac9b222c801f8fb6f1eb041",
-      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
-      "image": "",
+      "id": "ca9f12c6ec80870883abcdc573eeab21",
+      "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg@png",
       "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-09-14T17:51:20.000Z",
+      "published_at": "2026-09-12T17:01:04.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/f08af1893ac9b222c801f8fb6f1eb041.json"
+      "path": "articles/ca9f12c6ec80870883abcdc573eeab21.json"
     }
   ]
 }

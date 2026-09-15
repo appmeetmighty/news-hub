@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-09-15T18:45:40.797Z",
+  "updated_at": "2026-09-15T19:01:56.235Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 6,
+  "total": 7,
   "articles": [
+    {
+      "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
+      "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+      "description": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1788371827&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-15T18:33:21.000Z",
+      "related": [
+        {
+          "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
+          "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T17:38:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
+        },
+        {
+          "id": "708b746ec6a04f20ac1a8c7a48495b46",
+          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T17:01:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+        },
+        {
+          "id": "454fe6b9575d3020016a27369b4cfac7",
+          "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/ChatGPT-Images-Review-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-12T13:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
+        },
+        {
+          "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
+          "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T18:26:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
+        },
+        {
+          "id": "aba6b759e010cd46d39e3774144fd598",
+          "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-11T18:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
+        }
+      ],
+      "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
+    },
     {
       "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
       "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
@@ -47,6 +179,22 @@
       ],
       "published_at": "2026-09-15T17:38:35.000Z",
       "related": [
+        {
+          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
+          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1788371827&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T18:33:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
+        },
         {
           "id": "708b746ec6a04f20ac1a8c7a48495b46",
           "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
@@ -110,22 +258,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
-        },
-        {
-          "id": "ead4de61737e4ba5ed031bdd674bcd37",
-          "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-12T16:01:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ead4de61737e4ba5ed031bdd674bcd37.json"
         }
       ],
       "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
@@ -171,6 +303,22 @@
       ],
       "published_at": "2026-09-15T17:01:13.000Z",
       "related": [
+        {
+          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
+          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1788371827&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T18:33:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
+        },
         {
           "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
           "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
@@ -234,22 +382,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ead4de61737e4ba5ed031bdd674bcd37.json"
-        },
-        {
-          "id": "454fe6b9575d3020016a27369b4cfac7",
-          "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/ChatGPT-Images-Review-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-12T13:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
         }
       ],
       "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
@@ -336,6 +468,22 @@
           "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
         },
         {
+          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
+          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1788371827&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T18:33:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
+        },
+        {
           "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
           "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
           "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
@@ -350,22 +498,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
-        },
-        {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-15T17:01:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
         }
       ],
       "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
@@ -446,6 +578,22 @@
           "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
         },
         {
+          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
+          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1788371827&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T18:33:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
+        },
+        {
           "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
           "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
           "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
@@ -460,22 +608,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
-        },
-        {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-15T17:01:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
         }
       ],
       "path": "articles/ead4de61737e4ba5ed031bdd674bcd37.json"
@@ -515,6 +647,22 @@
       ],
       "published_at": "2026-09-12T13:01:03.000Z",
       "related": [
+        {
+          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
+          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1788371827&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T18:33:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
+        },
         {
           "id": "b65aefcf83cb298a2c0def0a26a76d33",
           "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
@@ -578,22 +726,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
-        },
-        {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-15T17:01:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
         }
       ],
       "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
@@ -680,6 +812,22 @@
           "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
         },
         {
+          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
+          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1788371827&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T18:33:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
+        },
+        {
           "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
           "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
           "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
@@ -694,22 +842,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
-        },
-        {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-15T17:01:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
         }
       ],
       "path": "articles/aba6b759e010cd46d39e3774144fd598.json"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T20:30:54.970Z",
+  "updated_at": "2026-09-15T20:45:39.182Z",
   "total": 25,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 36
+      "count": 37
     },
     {
       "id": "btc",
@@ -16,6 +16,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 22
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
       "count": 21
     },
     {
@@ -26,11 +33,13 @@
       "count": 20
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
-      "count": 20
+      "count": 9
     },
     {
       "id": "oil",
@@ -38,15 +47,6 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
-      "icon": "",
-      "count": 9
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
       "icon": "",
       "count": 8
     },
@@ -135,15 +135,6 @@
       "count": 2
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
@@ -174,6 +165,15 @@
       "name": "Visa",
       "type": "company",
       "path": "tickers/v.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
       "icon": "",
       "count": 1
     },

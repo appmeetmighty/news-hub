@@ -1,19 +1,27 @@
 {
-  "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
-  "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-  "description": "The president dismissed calls for tighter AI controls as industry leaders push to slow development and address safety failures.",
+  "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
+  "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+  "description": "Anthropic and OpenAI have called for mandatory safety checks to be put in place as fears intensify that AI can soon be too powerful to control.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
+  "url": "https://www.cnbc.com/2026/09/15/trump-opposition-to-ai-rules-undercuts-industrys-calls-for-a-slowdown.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
   "source": {
-    "id": "decrypt",
-    "name": "Decrypt",
-    "website": "https://decrypt.co",
-    "icon": "https://logo.clearbit.com/decrypt.co"
+    "id": "cnbc",
+    "name": "CNBC",
+    "website": "https://www.cnbc.com",
+    "icon": "https://logo.clearbit.com/cnbc.com"
   },
-  "category": "crypto",
+  "category": "stocks",
   "entities": [
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": ""
+    },
     {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
@@ -29,7 +37,7 @@
       "icon": ""
     }
   ],
-  "published_at": "2026-09-14T18:26:04.000Z",
+  "published_at": "2026-09-15T11:00:01.000Z",
   "related": [
     {
       "id": "2674d41aae09ab1e1ac6e31a920cd59a",
@@ -64,22 +72,6 @@
       "path": "articles/0778b85fcbd9429d4a4f61754740ee32.json"
     },
     {
-      "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
-      "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-15T11:00:01.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
-    },
-    {
       "id": "cee92a6185699a036e4b115a6d081fe0",
       "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
       "image": "https://image.cnbcfm.com/api/v1/image/105018157-RTX4WGMG.jpg?v=1725569568&w=1920&h=1080",
@@ -96,9 +88,9 @@
       "path": "articles/cee92a6185699a036e4b115a6d081fe0.json"
     },
     {
-      "id": "be3139095029e1904a1caa02611baafe",
-      "title": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-11-gID_7.png@png",
+      "id": "aba6b759e010cd46d39e3774144fd598",
+      "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -106,10 +98,26 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-09-14T20:07:41.000Z",
+      "published_at": "2026-09-11T18:16:04.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/be3139095029e1904a1caa02611baafe.json"
+      "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
+    },
+    {
+      "id": "b65aefcf83cb298a2c0def0a26a76d33",
+      "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-14T21:16:04.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
     }
   ]
 }

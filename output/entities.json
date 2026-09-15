@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:15:33.871Z",
+  "updated_at": "2026-09-15T11:30:48.924Z",
   "total": 28,
   "entities": [
     {
@@ -30,7 +30,7 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 19
+      "count": 18
     },
     {
       "id": "oil",
@@ -42,6 +42,15 @@
       "count": 9
     },
     {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 7
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -49,13 +58,13 @@
       "count": 6
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
       "type": "company",
-      "path": "tickers/openai.json",
+      "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 6
+      "count": 5
     },
     {
       "id": "blockchain",
@@ -63,6 +72,24 @@
       "type": "topic",
       "icon": "",
       "count": 5
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 4
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 4
     },
     {
       "id": "defi",
@@ -88,33 +115,6 @@
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 4
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 3
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 3
     },
     {
       "id": "gold",

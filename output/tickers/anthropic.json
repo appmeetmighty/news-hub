@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-09-15T20:01:09.087Z",
+  "updated_at": "2026-09-15T20:15:39.311Z",
   "id": "anthropic",
   "symbol": "ANTHROPIC",
   "name": "Anthropic",
   "type": "company",
-  "total": 4,
+  "total": 5,
   "articles": [
+    {
+      "id": "70a525a05fa020b79e6b258f0715b8c8",
+      "title": "Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce: Huang says fast vs. pacing is 'false choice'",
+      "description": "Comments from the two tech leaders landed days after Anthropic's Dario Amodei published an essay urging the AI industry to slow the pace of model development.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363215-17894958302026-09-15t180726z_262957654_rc2ujna1bqby_rtrmadp_0_tech-ai.jpeg?v=1789495910&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-15T20:00:16.000Z",
+      "related": [
+        {
+          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
+          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1789498979&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T19:13:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
+        },
+        {
+          "id": "76e7e1ad991b904be7ba84fc6b2f5c40",
+          "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T17:38:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
+        },
+        {
+          "id": "708b746ec6a04f20ac1a8c7a48495b46",
+          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T17:01:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+        },
+        {
+          "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
+          "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T18:26:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
+        },
+        {
+          "id": "3be54dc636a3c5eea726ba2fb6572824",
+          "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T17:40:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3be54dc636a3c5eea726ba2fb6572824.json"
+        }
+      ],
+      "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
+    },
     {
       "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
       "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
@@ -104,25 +228,25 @@
           "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
         },
         {
-          "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
-          "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
+          "id": "70a525a05fa020b79e6b258f0715b8c8",
+          "title": "Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce: Huang says fast vs. pacing is 'false choice'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363215-17894958302026-09-15t180726z_262957654_rc2ujna1bqby_rtrmadp_0_tech-ai.jpeg?v=1789495910&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-14T18:26:04.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-15T20:00:16.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
+          "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
         },
         {
-          "id": "aba6b759e010cd46d39e3774144fd598",
-          "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "id": "ad82737ff09a4f68297dbd4a60a689d6",
+          "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -130,10 +254,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-11T18:16:04.000Z",
+          "published_at": "2026-09-15T20:09:19.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
+          "breaking_score": 100,
+          "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
         }
       ],
       "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
@@ -212,6 +336,22 @@
           "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
         },
         {
+          "id": "70a525a05fa020b79e6b258f0715b8c8",
+          "title": "Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce: Huang says fast vs. pacing is 'false choice'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363215-17894958302026-09-15t180726z_262957654_rc2ujna1bqby_rtrmadp_0_tech-ai.jpeg?v=1789495910&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T20:00:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
+        },
+        {
           "id": "aba6b759e010cd46d39e3774144fd598",
           "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
@@ -228,9 +368,9 @@
           "path": "articles/aba6b759e010cd46d39e3774144fd598.json"
         },
         {
-          "id": "b65aefcf83cb298a2c0def0a26a76d33",
-          "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+          "id": "ad82737ff09a4f68297dbd4a60a689d6",
+          "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -238,26 +378,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-14T21:16:04.000Z",
+          "published_at": "2026-09-15T20:09:19.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
-        },
-        {
-          "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
-          "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-14T18:26:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
+          "breaking_score": 100,
+          "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
         }
       ],
       "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
@@ -336,6 +460,38 @@
           "path": "articles/76e7e1ad991b904be7ba84fc6b2f5c40.json"
         },
         {
+          "id": "70a525a05fa020b79e6b258f0715b8c8",
+          "title": "Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce: Huang says fast vs. pacing is 'false choice'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363215-17894958302026-09-15t180726z_262957654_rc2ujna1bqby_rtrmadp_0_tech-ai.jpeg?v=1789495910&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T20:00:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
+        },
+        {
+          "id": "ad82737ff09a4f68297dbd4a60a689d6",
+          "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-15T20:09:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
+        },
+        {
           "id": "b65aefcf83cb298a2c0def0a26a76d33",
           "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
@@ -350,38 +506,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
-        },
-        {
-          "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
-          "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-14T18:26:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
-        },
-        {
-          "id": "ead4de61737e4ba5ed031bdd674bcd37",
-          "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-12T16:01:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ead4de61737e4ba5ed031bdd674bcd37.json"
         }
       ],
       "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
@@ -419,6 +543,22 @@
       ],
       "published_at": "2026-09-14T18:26:04.000Z",
       "related": [
+        {
+          "id": "70a525a05fa020b79e6b258f0715b8c8",
+          "title": "Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce: Huang says fast vs. pacing is 'false choice'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363215-17894958302026-09-15t180726z_262957654_rc2ujna1bqby_rtrmadp_0_tech-ai.jpeg?v=1789495910&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T20:00:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
+        },
         {
           "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
           "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
@@ -482,22 +622,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/be3139095029e1904a1caa02611baafe.json"
-        },
-        {
-          "id": "043a885c96c39842cad169093b7ab2e7",
-          "title": "Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/trump-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-14T15:22:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/043a885c96c39842cad169093b7ab2e7.json"
         }
       ],
       "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T19:30:54.515Z",
-  "total": 23,
+  "updated_at": "2026-09-16T19:45:39.463Z",
+  "total": 20,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 34
+      "count": 33
     },
     {
       "id": "crypto",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 18
+      "count": 17
     },
     {
       "id": "blockchain",
@@ -56,20 +56,20 @@
       "count": 6
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 4
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 4
     },
@@ -81,6 +81,13 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "xrp",
@@ -101,20 +108,11 @@
       "count": 2
     },
     {
-      "id": "intc",
-      "symbol": "INTC",
-      "name": "Intel",
-      "type": "company",
-      "path": "tickers/intc.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
+      "id": "web3",
+      "name": "Web3",
       "type": "topic",
       "icon": "",
-      "count": 2
+      "count": 1
     },
     {
       "id": "meta",
@@ -144,13 +142,6 @@
       "count": 1
     },
     {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -173,24 +164,6 @@
       "type": "company",
       "path": "tickers/msft.json",
       "icon": "https://logo.clearbit.com/microsoft.com",
-      "count": 1
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 1
-    },
-    {
-      "id": "amd",
-      "symbol": "AMD",
-      "name": "AMD",
-      "type": "company",
-      "path": "tickers/amd.json",
-      "icon": "",
       "count": 1
     }
   ]

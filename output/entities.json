@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T08:15:42.270Z",
+  "updated_at": "2026-09-16T08:30:51.201Z",
   "total": 26,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 41
+      "count": 40
     },
     {
       "id": "btc",
@@ -42,18 +42,27 @@
       "count": 8
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 7
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 6
     },
     {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 6
     },
@@ -80,15 +89,6 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 5
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
     },
     {

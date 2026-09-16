@@ -1,11 +1,11 @@
 {
-  "id": "12971fb1cb37eeecae164fcee82a6509",
-  "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
-  "description": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+  "id": "818553b02d8949f46611becfeb103346",
+  "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+  "description": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
   "reading_time_minutes": 1,
-  "breaking_score": 30,
-  "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108354867-1787783196641-gettyimages-2291635347-AFP_C6KY7DE.jpeg?v=1787783566&w=1920&h=1080",
+  "breaking_score": 0,
+  "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108214315-17609846542025-10-20t181904z_237714832_rc2ofhalqo8x_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,13 +13,22 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-16T20:22:24.000Z",
+  "entities": [
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com"
+    }
+  ],
+  "published_at": "2026-09-16T21:13:10.000Z",
   "related": [
     {
-      "id": "7871c8c57a5480eb0ae659d17d5365c9",
-      "title": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363769-1789576513126-gettyimages-2173285508-AFP_36H26AA.jpeg?v=1789576568&w=1920&h=1080",
+      "id": "9c23aa260d3cf3b7be18fb85b0c88c24",
+      "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
+      "image": "https://image.cnbcfm.com/api/v1/image/108213023-1760627767381-gettyimages-1237808627-JB_HUNT_TRANSPORT_EARNS.jpeg?v=1789576718&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -27,10 +36,26 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-16T19:56:09.000Z",
+      "published_at": "2026-09-16T20:00:36.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 50,
+      "path": "articles/9c23aa260d3cf3b7be18fb85b0c88c24.json"
+    },
+    {
+      "id": "57b69376fd8fc7519369e54ff0a84177",
+      "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363567-1789560081695-gettyimages-1279456205-0111_auckland.jpeg?v=1789560159&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-16T14:31:24.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/7871c8c57a5480eb0ae659d17d5365c9.json"
+      "path": "articles/57b69376fd8fc7519369e54ff0a84177.json"
     },
     {
       "id": "916021f56739c72854b7374f83bfc047",
@@ -47,22 +72,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/916021f56739c72854b7374f83bfc047.json"
-    },
-    {
-      "id": "818553b02d8949f46611becfeb103346",
-      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-      "image": "https://image.cnbcfm.com/api/v1/image/108214315-17609846542025-10-20t181904z_237714832_rc2ofhalqo8x_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-16T21:13:10.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/818553b02d8949f46611becfeb103346.json"
     },
     {
       "id": "ac1f9066db442e2ff847d465db8324b4",

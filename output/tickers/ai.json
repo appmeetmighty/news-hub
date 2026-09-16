@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-09-16T08:30:51.193Z",
+  "updated_at": "2026-09-16T08:45:40.408Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 21,
+  "total": 20,
   "articles": [
+    {
+      "id": "708b746ec6a04f20ac1a8c7a48495b46",
+      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+      "description": "AI pioneers and \"godfathers\" have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-16T08:33:00.000Z",
+      "related": [
+        {
+          "id": "70a525a05fa020b79e6b258f0715b8c8",
+          "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363215-1789503252674-108363215-17894958302026-09-15t180726z_262957654_rc2ujna1bqby_rtrmadp_0_tech-ai.jpeg?v=1789503265&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T04:21:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
+        },
+        {
+          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
+          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1789498979&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T19:13:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
+        },
+        {
+          "id": "7ca1d70a6d6b00648f37ec5babe9b590",
+          "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T01:56:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ca1d70a6d6b00648f37ec5babe9b590.json"
+        },
+        {
+          "id": "4acab3069ed25c96f2e7dff428ff818e",
+          "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108351788-17871676152024-12-10t222453z_120651712_rc2mmbax87hk_rtrmadp_0_reuters-next.jpeg?v=1787167654&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T00:12:29.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4acab3069ed25c96f2e7dff428ff818e.json"
+        },
+        {
+          "id": "ad82737ff09a4f68297dbd4a60a689d6",
+          "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-15T20:09:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
+        }
+      ],
+      "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+    },
     {
       "id": "42400668f3caa97a7b74d499fd8478f0",
       "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
@@ -153,6 +277,22 @@
       "published_at": "2026-09-16T05:51:13.000Z",
       "related": [
         {
+          "id": "a1a83ad3dd20895dd035863af5049ad0",
+          "title": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363459-1789535140451-gettyimages-2291692437-uk_20260827ukr007JPG.jpeg?v=1789535164&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T08:00:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a1a83ad3dd20895dd035863af5049ad0.json"
+        },
+        {
           "id": "4063592592d2a9cfef65e0d346957183",
           "title": "Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure",
           "image": "https://image.cnbcfm.com/api/v1/image/108359880-1788886357349-gettyimages-2293680927-AA_08092026_2943632.jpeg?v=1788886580&w=1920&h=1080",
@@ -215,22 +355,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/f21461f95efd55e037e2e556810a63c7.json"
-        },
-        {
-          "id": "cc58e5509f374cfc638a31902702ab42",
-          "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GMDWFDT25SQYFK0HHP7F8E/oil-bitcoin-petrol-2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-14T18:56:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cc58e5509f374cfc638a31902702ab42.json"
         }
       ],
       "path": "articles/f004fa5b8395150744366b1e246a628e.json"
@@ -327,7 +451,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-15T17:01:13.000Z",
+          "published_at": "2026-09-16T08:33:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
@@ -393,6 +517,22 @@
       "published_at": "2026-09-16T04:01:59.000Z",
       "related": [
         {
+          "id": "708b746ec6a04f20ac1a8c7a48495b46",
+          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T08:33:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+        },
+        {
           "id": "98069106b93ac2d2e1e2f24b9f5456f5",
           "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
           "image": "https://image.cnbcfm.com/api/v1/image/108363257-1789499224405-gettyimages-2294936718-2026_sep_14_dreamforce_2920.jpeg?v=1789499276&w=1920&h=1080",
@@ -409,24 +549,8 @@
           "path": "articles/98069106b93ac2d2e1e2f24b9f5456f5.json"
         },
         {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-15T17:01:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
-        {
           "id": "007095aeeb645aae92e361ba61a16ed2",
-          "title": "Canada could become 'first associate member' of EU, bloc's chief says",
+          "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
           "image": "https://image.cnbcfm.com/api/v1/image/108363491-1789546805377-gettyimages-2294992967-AFP_C8FK6G6.jpeg?v=1789546871&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -435,15 +559,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-16T08:21:45.000Z",
+          "published_at": "2026-09-16T08:45:10.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/007095aeeb645aae92e361ba61a16ed2.json"
         },
         {
-          "id": "53cdd09165268c88445e5f0e292b13d0",
-          "title": "UK inflation jumps to 3.1% as energy costs soar",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363465-1789539393529-gettyimages-2287341585-ln1_2254_w5i5mau7.jpeg?v=1789539410&w=1920&h=1080",
+          "id": "1152998e170cb7962fee380c0252ca66",
+          "title": "Crypto exchange Binance takes on tradfi by courting rich investors to join its expanded wealth-management platform\n",
+          "image": "https://image.cnbcfm.com/api/v1/image/108115177-1741830451002-gettyimages-2198692502-TFSPI_12022025-4523.jpeg?v=1764917048&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -451,26 +575,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-16T07:18:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/53cdd09165268c88445e5f0e292b13d0.json"
-        },
-        {
-          "id": "1c6eee8f57505f323d8cb847a54ca7a2",
-          "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351545-1787149017645-gettyimages-2287694998-JAPAN_BOJ.jpeg?v=1787149037&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T06:53:09.000Z",
+          "published_at": "2026-09-16T08:04:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1c6eee8f57505f323d8cb847a54ca7a2.json"
+          "path": "articles/1152998e170cb7962fee380c0252ca66.json"
+        },
+        {
+          "id": "a1a83ad3dd20895dd035863af5049ad0",
+          "title": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363459-1789535140451-gettyimages-2291692437-uk_20260827ukr007JPG.jpeg?v=1789535164&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T08:00:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a1a83ad3dd20895dd035863af5049ad0.json"
         }
       ],
       "path": "articles/7da91a2bf4ec40fafb77c75882eae8de.json"
@@ -583,7 +707,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-15T17:01:13.000Z",
+          "published_at": "2026-09-16T08:33:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
@@ -688,7 +812,7 @@
         },
         {
           "id": "007095aeeb645aae92e361ba61a16ed2",
-          "title": "Canada could become 'first associate member' of EU, bloc's chief says",
+          "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
           "image": "https://image.cnbcfm.com/api/v1/image/108363491-1789546805377-gettyimages-2294992967-AFP_C8FK6G6.jpeg?v=1789546871&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -697,15 +821,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-16T08:21:45.000Z",
+          "published_at": "2026-09-16T08:45:10.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/007095aeeb645aae92e361ba61a16ed2.json"
         },
         {
-          "id": "1c6eee8f57505f323d8cb847a54ca7a2",
-          "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351545-1787149017645-gettyimages-2287694998-JAPAN_BOJ.jpeg?v=1787149037&w=1920&h=1080",
+          "id": "708b746ec6a04f20ac1a8c7a48495b46",
+          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -713,10 +837,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-16T06:53:09.000Z",
+          "published_at": "2026-09-16T08:33:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1c6eee8f57505f323d8cb847a54ca7a2.json"
+          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
         }
       ],
       "path": "articles/c31833b9473332de4945d3b7c9bd13f1.json"
@@ -797,7 +921,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-15T17:01:13.000Z",
+          "published_at": "2026-09-16T08:33:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
@@ -1145,7 +1269,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-15T17:01:13.000Z",
+          "published_at": "2026-09-16T08:33:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
@@ -1200,238 +1324,6 @@
         }
       ],
       "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
-    },
-    {
-      "id": "b19703baa0e836a5c17aae60f5ee8386",
-      "title": "Trump admin. says private sector can solve AI threats as critics balk",
-      "description": "President Donald Trump's AI-friendly administration argues U.S. dominance over China in the fast-expanding industry is essential.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108362977-1789480156237-108362977-1789475249536-gettyimages-2292914887-ah806129.jpeg?v=1789480202&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-15T17:31:17.000Z",
-      "related": [
-        {
-          "id": "09311593bd8b50775f6554b90a07c2ae",
-          "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363141-1789488905151-gettyimages-2292781476-KENNEDY_CENTER.jpeg?v=1789488937&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-15T21:46:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 5,
-          "path": "articles/09311593bd8b50775f6554b90a07c2ae.json"
-        },
-        {
-          "id": "2f47b7532110e84cf6cb06d2683db1bf",
-          "title": "Trump Account contributions have a Dec. 31 deadline — and employers can complicate the math",
-          "image": "https://image.cnbcfm.com/api/v1/image/108270383-1772113137107-gettyimages-2258090030-TRUMP_ACCOUNTS.jpeg?v=1772113199&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-15T20:10:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2f47b7532110e84cf6cb06d2683db1bf.json"
-        },
-        {
-          "id": "007095aeeb645aae92e361ba61a16ed2",
-          "title": "Canada could become 'first associate member' of EU, bloc's chief says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363491-1789546805377-gettyimages-2294992967-AFP_C8FK6G6.jpeg?v=1789546871&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T08:21:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/007095aeeb645aae92e361ba61a16ed2.json"
-        },
-        {
-          "id": "53cdd09165268c88445e5f0e292b13d0",
-          "title": "UK inflation jumps to 3.1% as energy costs soar",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363465-1789539393529-gettyimages-2287341585-ln1_2254_w5i5mau7.jpeg?v=1789539410&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T07:18:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/53cdd09165268c88445e5f0e292b13d0.json"
-        },
-        {
-          "id": "1c6eee8f57505f323d8cb847a54ca7a2",
-          "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351545-1787149017645-gettyimages-2287694998-JAPAN_BOJ.jpeg?v=1787149037&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T06:53:09.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1c6eee8f57505f323d8cb847a54ca7a2.json"
-        }
-      ],
-      "path": "articles/b19703baa0e836a5c17aae60f5ee8386.json"
-    },
-    {
-      "id": "708b746ec6a04f20ac1a8c7a48495b46",
-      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-      "description": "AI pioneers and \"godfathers\" have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-15T17:01:13.000Z",
-      "related": [
-        {
-          "id": "70a525a05fa020b79e6b258f0715b8c8",
-          "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363215-1789503252674-108363215-17894958302026-09-15t180726z_262957654_rc2ujna1bqby_rtrmadp_0_tech-ai.jpeg?v=1789503265&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T04:21:39.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
-        },
-        {
-          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
-          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1789498979&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-15T19:13:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
-        },
-        {
-          "id": "7ca1d70a6d6b00648f37ec5babe9b590",
-          "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
-          "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T01:56:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7ca1d70a6d6b00648f37ec5babe9b590.json"
-        },
-        {
-          "id": "4acab3069ed25c96f2e7dff428ff818e",
-          "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351788-17871676152024-12-10t222453z_120651712_rc2mmbax87hk_rtrmadp_0_reuters-next.jpeg?v=1787167654&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T00:12:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4acab3069ed25c96f2e7dff428ff818e.json"
-        },
-        {
-          "id": "ad82737ff09a4f68297dbd4a60a689d6",
-          "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T20:09:19.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
-        }
-      ],
-      "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
     },
     {
       "id": "191b444ddb1694350e035af195397b0f",
@@ -1623,6 +1515,22 @@
           "path": "articles/454fe6b9575d3020016a27369b4cfac7.json"
         },
         {
+          "id": "708b746ec6a04f20ac1a8c7a48495b46",
+          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T08:33:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+        },
+        {
           "id": "70a525a05fa020b79e6b258f0715b8c8",
           "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
           "image": "https://image.cnbcfm.com/api/v1/image/108363215-1789503252674-108363215-17894958302026-09-15t180726z_262957654_rc2ujna1bqby_rtrmadp_0_tech-ai.jpeg?v=1789503265&w=1920&h=1080",
@@ -1637,22 +1545,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
-        },
-        {
-          "id": "4acab3069ed25c96f2e7dff428ff818e",
-          "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351788-17871676152024-12-10t222453z_120651712_rc2mmbax87hk_rtrmadp_0_reuters-next.jpeg?v=1787167654&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T00:12:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4acab3069ed25c96f2e7dff428ff818e.json"
         }
       ],
       "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
@@ -1947,6 +1839,22 @@
           "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
         },
         {
+          "id": "708b746ec6a04f20ac1a8c7a48495b46",
+          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T08:33:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+        },
+        {
           "id": "7ca1d70a6d6b00648f37ec5babe9b590",
           "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
           "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
@@ -1961,22 +1869,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7ca1d70a6d6b00648f37ec5babe9b590.json"
-        },
-        {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-15T17:01:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
         },
         {
           "id": "d131d0e003ad383a1a040ce81a51d962",

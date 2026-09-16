@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T09:01:05.696Z",
-  "total": 25,
+  "updated_at": "2026-09-16T09:15:38.038Z",
+  "total": 26,
   "entities": [
     {
       "id": "crypto",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
+      "count": 26
     },
     {
       "id": "ai",
@@ -33,13 +33,22 @@
       "count": 18
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 7
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 8
+      "count": 7
     },
     {
       "id": "oil",
@@ -49,15 +58,6 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 7
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 6
     },
     {
       "id": "defi",
@@ -117,15 +117,6 @@
       "count": 3
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
-    },
-    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
@@ -148,6 +139,24 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
+      "count": 1
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 1
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
       "count": 1
     },
     {

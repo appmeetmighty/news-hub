@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-16T17:15:38.660Z",
-  "total": 25,
+  "updated_at": "2026-09-16T17:30:53.705Z",
+  "total": 24,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 33
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 33
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 32
     },
     {
@@ -200,15 +200,6 @@
       "type": "company",
       "path": "tickers/amd.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 1
     }
   ]

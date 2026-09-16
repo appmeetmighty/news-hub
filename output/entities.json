@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-16T15:45:37.664Z",
-  "total": 26,
+  "updated_at": "2026-09-16T16:01:09.599Z",
+  "total": 25,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 33
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,14 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 32
+      "count": 33
     },
     {
-      "id": "ai",
-      "name": "AI",
+      "id": "crypto",
+      "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 19
+      "count": 32
     },
     {
       "id": "regulation",
@@ -33,11 +26,27 @@
       "count": 19
     },
     {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 18
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 10
+      "count": 9
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 7
     },
     {
       "id": "blockchain",
@@ -45,15 +54,6 @@
       "type": "topic",
       "icon": "",
       "count": 7
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 6
     },
     {
       "id": "oil",
@@ -65,13 +65,13 @@
       "count": 6
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 6
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "anthropic",
@@ -80,7 +80,7 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 4
+      "count": 3
     },
     {
       "id": "defi",
@@ -97,6 +97,15 @@
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 3
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 2
     },
     {
       "id": "blk",
@@ -151,30 +160,12 @@
       "count": 1
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 1
-    },
-    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
-      "count": 1
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
       "count": 1
     },
     {

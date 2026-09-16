@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-16T20:45:36.444Z",
+  "updated_at": "2026-09-16T21:01:06.579Z",
   "total": 20,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 34
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 33
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 33
     },
     {
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 16
     },
     {
       "id": "blockchain",
@@ -47,21 +47,21 @@
       "count": 7
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 6
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
+      "count": 5
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
     },
     {

@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-16T18:01:11.792Z",
+  "updated_at": "2026-09-16T18:15:37.012Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 6,
+  "total": 5,
   "articles": [
     {
       "id": "51e0109c706f9e486776746cdd1b403f",
@@ -31,8 +31,24 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-16T17:59:53.000Z",
+      "published_at": "2026-09-16T18:14:51.000Z",
       "related": [
+        {
+          "id": "4063592592d2a9cfef65e0d346957183",
+          "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+          "image": "https://image.cnbcfm.com/api/v1/image/103621307-GettyImages-73375788.jpg?v=1789563785&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T18:03:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4063592592d2a9cfef65e0d346957183.json"
+        },
         {
           "id": "840463004374d1ba624af5c427715584",
           "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
@@ -48,22 +64,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/840463004374d1ba624af5c427715584.json"
-        },
-        {
-          "id": "4063592592d2a9cfef65e0d346957183",
-          "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
-          "image": "https://image.cnbcfm.com/api/v1/image/103621307-GettyImages-73375788.jpg?v=1789563785&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T17:03:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4063592592d2a9cfef65e0d346957183.json"
         },
         {
           "id": "43e1fec52508cc682523fc7f33bff9eb",
@@ -98,9 +98,103 @@
           "path": "articles/1a929c5d8724a315daa019db8dd4c982.json"
         },
         {
-          "id": "f21461f95efd55e037e2e556810a63c7",
-          "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0JSDM845NTQMSBRH4G509/stablecoin-tetherr.png",
+          "id": "da7f9266b94c977dc18c7d6b19287623",
+          "title": "10-year Treasury yield falls as traders bet Fed rate increase can tamp down inflation",
+          "image": "https://image.cnbcfm.com/api/v1/image/108322715-1781634215588-gettyimages-2277694873-0d6a1831_hsignhnx.jpeg?v=1781634243&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T18:14:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/da7f9266b94c977dc18c7d6b19287623.json"
+        }
+      ],
+      "path": "articles/51e0109c706f9e486776746cdd1b403f.json"
+    },
+    {
+      "id": "4063592592d2a9cfef65e0d346957183",
+      "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+      "description": "The pipeline has allowed the Saudis to shift oil exports to the Red Sea while the U.S. and Iran battle for control over Hormuz.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/103621307-GettyImages-73375788.jpg?v=1789563785&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-16T18:03:35.000Z",
+      "related": [
+        {
+          "id": "51e0109c706f9e486776746cdd1b403f",
+          "title": "Continental Resources to develop massive oil patch in Venezuela ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363801-1789578130855-gettyimages-2295037615-AFP_C8HP8GF.jpeg?v=1789578173&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T18:14:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/51e0109c706f9e486776746cdd1b403f.json"
+        },
+        {
+          "id": "840463004374d1ba624af5c427715584",
+          "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+          "image": "https://image.cnbcfm.com/api/v1/image/108278918-17737568702026-03-17t141246z_604984502_rc2iyjas9hqi_rtrmadp_0_markets-fed.jpeg?v=1773756890&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T17:32:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/840463004374d1ba624af5c427715584.json"
+        },
+        {
+          "id": "43e1fec52508cc682523fc7f33bff9eb",
+          "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-15T17:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/43e1fec52508cc682523fc7f33bff9eb.json"
+        },
+        {
+          "id": "1a929c5d8724a315daa019db8dd4c982",
+          "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -108,13 +202,29 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-15T08:46:35.000Z",
+          "published_at": "2026-09-15T13:37:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/f21461f95efd55e037e2e556810a63c7.json"
+          "path": "articles/1a929c5d8724a315daa019db8dd4c982.json"
+        },
+        {
+          "id": "12971fb1cb37eeecae164fcee82a6509",
+          "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
+          "image": "https://image.cnbcfm.com/api/v1/image/108354867-1787783196641-gettyimages-2291635347-AFP_C6KY7DE.jpeg?v=1787783566&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T17:50:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 30,
+          "path": "articles/12971fb1cb37eeecae164fcee82a6509.json"
         }
       ],
-      "path": "articles/51e0109c706f9e486776746cdd1b403f.json"
+      "path": "articles/4063592592d2a9cfef65e0d346957183.json"
     },
     {
       "id": "840463004374d1ba624af5c427715584",
@@ -154,7 +264,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-16T17:59:53.000Z",
+          "published_at": "2026-09-16T18:14:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/51e0109c706f9e486776746cdd1b403f.json"
@@ -170,7 +280,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-16T17:03:21.000Z",
+          "published_at": "2026-09-16T18:03:35.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4063592592d2a9cfef65e0d346957183.json"
@@ -208,133 +318,23 @@
           "path": "articles/1a929c5d8724a315daa019db8dd4c982.json"
         },
         {
-          "id": "f21461f95efd55e037e2e556810a63c7",
-          "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0JSDM845NTQMSBRH4G509/stablecoin-tetherr.png",
+          "id": "8b5cd1079cc181a73b4dec21f094393d",
+          "title": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333745-1783863442096-gettyimages-2273443703-_04a0673_e8ckmedi.jpeg?v=1783863464&w=1920&h=1080",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-15T08:46:35.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-16T16:08:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/f21461f95efd55e037e2e556810a63c7.json"
+          "path": "articles/8b5cd1079cc181a73b4dec21f094393d.json"
         }
       ],
       "path": "articles/840463004374d1ba624af5c427715584.json"
-    },
-    {
-      "id": "4063592592d2a9cfef65e0d346957183",
-      "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
-      "description": "The pipeline has allowed the Saudis to shift oil exports to the Red Sea while the U.S. and Iran battle for control over Hormuz.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/103621307-GettyImages-73375788.jpg?v=1789563785&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "oil",
-          "symbol": "OIL",
-          "name": "Oil",
-          "type": "commodity",
-          "path": "tickers/oil.json",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-16T17:03:21.000Z",
-      "related": [
-        {
-          "id": "51e0109c706f9e486776746cdd1b403f",
-          "title": "Continental Resources to develop massive oil patch in Venezuela ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363801-1789578130855-gettyimages-2295037615-AFP_C8HP8GF.jpeg?v=1789578173&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T17:59:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/51e0109c706f9e486776746cdd1b403f.json"
-        },
-        {
-          "id": "840463004374d1ba624af5c427715584",
-          "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
-          "image": "https://image.cnbcfm.com/api/v1/image/108278918-17737568702026-03-17t141246z_604984502_rc2iyjas9hqi_rtrmadp_0_markets-fed.jpeg?v=1773756890&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T17:32:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/840463004374d1ba624af5c427715584.json"
-        },
-        {
-          "id": "43e1fec52508cc682523fc7f33bff9eb",
-          "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T17:06:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/43e1fec52508cc682523fc7f33bff9eb.json"
-        },
-        {
-          "id": "1a929c5d8724a315daa019db8dd4c982",
-          "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T13:37:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1a929c5d8724a315daa019db8dd4c982.json"
-        },
-        {
-          "id": "f21461f95efd55e037e2e556810a63c7",
-          "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0JSDM845NTQMSBRH4G509/stablecoin-tetherr.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T08:46:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f21461f95efd55e037e2e556810a63c7.json"
-        }
-      ],
-      "path": "articles/4063592592d2a9cfef65e0d346957183.json"
     },
     {
       "id": "43e1fec52508cc682523fc7f33bff9eb",
@@ -370,22 +370,6 @@
       "published_at": "2026-09-15T17:06:03.000Z",
       "related": [
         {
-          "id": "f21461f95efd55e037e2e556810a63c7",
-          "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0JSDM845NTQMSBRH4G509/stablecoin-tetherr.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T08:46:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f21461f95efd55e037e2e556810a63c7.json"
-        },
-        {
           "id": "1a929c5d8724a315daa019db8dd4c982",
           "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg",
@@ -412,10 +396,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-16T17:59:53.000Z",
+          "published_at": "2026-09-16T18:14:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/51e0109c706f9e486776746cdd1b403f.json"
+        },
+        {
+          "id": "4063592592d2a9cfef65e0d346957183",
+          "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+          "image": "https://image.cnbcfm.com/api/v1/image/103621307-GettyImages-73375788.jpg?v=1789563785&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T18:03:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4063592592d2a9cfef65e0d346957183.json"
         },
         {
           "id": "840463004374d1ba624af5c427715584",
@@ -434,20 +434,20 @@
           "path": "articles/840463004374d1ba624af5c427715584.json"
         },
         {
-          "id": "4063592592d2a9cfef65e0d346957183",
-          "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
-          "image": "https://image.cnbcfm.com/api/v1/image/103621307-GettyImages-73375788.jpg?v=1789563785&w=1920&h=1080",
+          "id": "225cb3f35e7611df5ced387ad5793464",
+          "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-16T17:03:21.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-15T17:49:23.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4063592592d2a9cfef65e0d346957183.json"
+          "breaking_score": 45,
+          "path": "articles/225cb3f35e7611df5ced387ad5793464.json"
         }
       ],
       "path": "articles/43e1fec52508cc682523fc7f33bff9eb.json"
@@ -485,22 +485,6 @@
       ],
       "published_at": "2026-09-15T13:37:31.000Z",
       "related": [
-        {
-          "id": "f21461f95efd55e037e2e556810a63c7",
-          "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0JSDM845NTQMSBRH4G509/stablecoin-tetherr.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T08:46:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f21461f95efd55e037e2e556810a63c7.json"
-        },
         {
           "id": "09549752517ec0e2fcf2aac2a4f1d5a8",
           "title": "Circle launches Arc mainnet with USDC as native gas token",
@@ -564,111 +548,11 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3cba676096dffa162136b2f7191e0b1f.json"
-        }
-      ],
-      "path": "articles/1a929c5d8724a315daa019db8dd4c982.json"
-    },
-    {
-      "id": "f21461f95efd55e037e2e556810a63c7",
-      "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
-      "description": "Tether froze $61.19 million across 10 Tron addresses in 2025 that prosecutors allege were connected to black-market Iranian oil proceeds.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0JSDM845NTQMSBRH4G509/stablecoin-tetherr.png",
-      "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "oil",
-          "symbol": "OIL",
-          "name": "Oil",
-          "type": "commodity",
-          "path": "tickers/oil.json",
-          "icon": ""
         },
         {
-          "id": "stablecoin",
-          "name": "Stablecoin",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-15T08:46:35.000Z",
-      "related": [
-        {
-          "id": "1a929c5d8724a315daa019db8dd4c982",
-          "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T13:37:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1a929c5d8724a315daa019db8dd4c982.json"
-        },
-        {
-          "id": "43e1fec52508cc682523fc7f33bff9eb",
-          "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T17:06:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/43e1fec52508cc682523fc7f33bff9eb.json"
-        },
-        {
-          "id": "09549752517ec0e2fcf2aac2a4f1d5a8",
-          "title": "Circle launches Arc mainnet with USDC as native gas token",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MYP3FVRTZGH6TV5Y41301B/rocket-without-logo.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-16T11:39:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/09549752517ec0e2fcf2aac2a4f1d5a8.json"
-        },
-        {
-          "id": "aef4fbae2e4617609ed0f582b357add4",
-          "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZTTWXRSC00VVMGKVA4JWM/hi-central-bank-issued-digital-currency-the-new-bank-account-uk2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T17:53:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/aef4fbae2e4617609ed0f582b357add4.json"
-        },
-        {
-          "id": "612077b669eb2436f69741e27a53a14c",
-          "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1655a19e778e4e75df0ba088282ada6352c0206-7924x5285.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "2065f9a3622a4002355e409a27dab1c8",
+          "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -676,13 +560,13 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-16T11:00:00.000Z",
+          "published_at": "2026-09-16T10:30:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/612077b669eb2436f69741e27a53a14c.json"
+          "path": "articles/2065f9a3622a4002355e409a27dab1c8.json"
         }
       ],
-      "path": "articles/f21461f95efd55e037e2e556810a63c7.json"
+      "path": "articles/1a929c5d8724a315daa019db8dd4c982.json"
     }
   ]
 }

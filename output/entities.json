@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T06:30:50.266Z",
+  "updated_at": "2026-09-16T06:45:41.465Z",
   "total": 26,
   "entities": [
     {
@@ -16,7 +16,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
+      "count": 26
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 21
     },
     {
       "id": "regulation",
@@ -26,11 +33,13 @@
       "count": 20
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
-      "count": 20
+      "count": 8
     },
     {
       "id": "oil",
@@ -38,15 +47,6 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
-      "icon": "",
-      "count": 8
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
       "icon": "",
       "count": 7
     },
@@ -65,31 +65,13 @@
       "count": 6
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 6
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 5
-    },
-    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 4
+      "count": 5
     },
     {
       "id": "anthropic",
@@ -98,7 +80,16 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 5
     },
     {
       "id": "xrp",
@@ -107,6 +98,15 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 4
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 4
     },
     {
@@ -126,15 +126,6 @@
       "count": 2
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 2
-    },
-    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
@@ -151,12 +142,12 @@
       "count": 1
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
       "count": 1
     },
     {
@@ -218,6 +209,15 @@
       "type": "company",
       "path": "tickers/intc.json",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 1
     }
   ]

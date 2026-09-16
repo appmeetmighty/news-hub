@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-16T06:30:50.263Z",
+  "updated_at": "2026-09-16T06:45:41.462Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
   "type": "company",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "70a525a05fa020b79e6b258f0715b8c8",
@@ -56,6 +56,22 @@
       "published_at": "2026-09-16T04:21:39.000Z",
       "related": [
         {
+          "id": "7ca1d70a6d6b00648f37ec5babe9b590",
+          "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T01:56:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ca1d70a6d6b00648f37ec5babe9b590.json"
+        },
+        {
           "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
           "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
           "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1789498979&w=1920&h=1080",
@@ -88,6 +104,106 @@
           "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
         },
         {
+          "id": "4acab3069ed25c96f2e7dff428ff818e",
+          "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108351788-17871676152024-12-10t222453z_120651712_rc2mmbax87hk_rtrmadp_0_reuters-next.jpeg?v=1787167654&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T00:12:29.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4acab3069ed25c96f2e7dff428ff818e.json"
+        },
+        {
+          "id": "98069106b93ac2d2e1e2f24b9f5456f5",
+          "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363257-1789499224405-gettyimages-2294936718-2026_sep_14_dreamforce_2920.jpeg?v=1789499276&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T22:06:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/98069106b93ac2d2e1e2f24b9f5456f5.json"
+        }
+      ],
+      "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
+    },
+    {
+      "id": "7ca1d70a6d6b00648f37ec5babe9b590",
+      "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+      "description": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-16T01:56:47.000Z",
+      "related": [
+        {
+          "id": "70a525a05fa020b79e6b258f0715b8c8",
+          "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363215-1789503252674-108363215-17894958302026-09-15t180726z_262957654_rc2ujna1bqby_rtrmadp_0_tech-ai.jpeg?v=1789503265&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T04:21:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
+        },
+        {
           "id": "98069106b93ac2d2e1e2f24b9f5456f5",
           "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
           "image": "https://image.cnbcfm.com/api/v1/image/108363257-1789499224405-gettyimages-2294936718-2026_sep_14_dreamforce_2920.jpeg?v=1789499276&w=1920&h=1080",
@@ -104,39 +220,55 @@
           "path": "articles/98069106b93ac2d2e1e2f24b9f5456f5.json"
         },
         {
-          "id": "ad82737ff09a4f68297dbd4a60a689d6",
-          "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
+          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1789498979&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-15T20:09:19.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
-        },
-        {
-          "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
-          "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-14T18:26:04.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-15T19:13:30.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
+          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
+        },
+        {
+          "id": "708b746ec6a04f20ac1a8c7a48495b46",
+          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T17:01:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+        },
+        {
+          "id": "3be54dc636a3c5eea726ba2fb6572824",
+          "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T17:40:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3be54dc636a3c5eea726ba2fb6572824.json"
         }
       ],
-      "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
+      "path": "articles/7ca1d70a6d6b00648f37ec5babe9b590.json"
     },
     {
       "id": "98069106b93ac2d2e1e2f24b9f5456f5",
@@ -188,6 +320,22 @@
           "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
         },
         {
+          "id": "7ca1d70a6d6b00648f37ec5babe9b590",
+          "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T01:56:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ca1d70a6d6b00648f37ec5babe9b590.json"
+        },
+        {
           "id": "3be54dc636a3c5eea726ba2fb6572824",
           "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
@@ -234,22 +382,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7da91a2bf4ec40fafb77c75882eae8de.json"
-        },
-        {
-          "id": "53cdd09165268c88445e5f0e292b13d0",
-          "title": "UK inflation jumps to 3.1% as energy costs soar",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363465-1789539393529-gettyimages-2287341585-ln1_2254_w5i5mau7.jpeg?v=1789539410&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T06:18:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/53cdd09165268c88445e5f0e292b13d0.json"
         }
       ],
       "path": "articles/98069106b93ac2d2e1e2f24b9f5456f5.json"
@@ -320,6 +452,22 @@
           "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
         },
         {
+          "id": "7ca1d70a6d6b00648f37ec5babe9b590",
+          "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T01:56:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ca1d70a6d6b00648f37ec5babe9b590.json"
+        },
+        {
           "id": "98069106b93ac2d2e1e2f24b9f5456f5",
           "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
           "image": "https://image.cnbcfm.com/api/v1/image/108363257-1789499224405-gettyimages-2294936718-2026_sep_14_dreamforce_2920.jpeg?v=1789499276&w=1920&h=1080",
@@ -350,22 +498,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3576d63bb6efefa5777c90611496b40b.json"
-        },
-        {
-          "id": "6e6e0a912fa485172d86caddb3c53727",
-          "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KBJH6XJV6JTEGJY5Q2A9NA/hi-intel-research.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T20:37:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6e6e0a912fa485172d86caddb3c53727.json"
         }
       ],
       "path": "articles/349a926f66523e72700769cc76f1eb72.json"

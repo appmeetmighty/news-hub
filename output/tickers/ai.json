@@ -1,40 +1,30 @@
 {
-  "updated_at": "2026-09-16T09:30:51.537Z",
+  "updated_at": "2026-09-16T09:45:37.140Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
-      "id": "708b746ec6a04f20ac1a8c7a48495b46",
-      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-      "description": "AI pioneers and \"godfathers\" have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
+      "id": "2433785e76ca19936e3010dfc71164b3",
+      "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
+      "description": "The Home Office names crypto alongside fintech and AI as drivers of a threat the NCA puts at £100 billion a year in the UK.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+      "url": "https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/UK-Parliament-gID_7.jpg@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
         {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
           "icon": ""
         },
         {
@@ -44,76 +34,12 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-16T08:33:00.000Z",
+      "published_at": "2026-09-16T09:41:53.000Z",
       "related": [
         {
-          "id": "70a525a05fa020b79e6b258f0715b8c8",
-          "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363215-1789503252674-108363215-17894958302026-09-15t180726z_262957654_rc2ujna1bqby_rtrmadp_0_tech-ai.jpeg?v=1789503265&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T04:21:39.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
-        },
-        {
-          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
-          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1789498979&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-15T19:13:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
-        },
-        {
-          "id": "7ca1d70a6d6b00648f37ec5babe9b590",
-          "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
-          "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T01:56:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7ca1d70a6d6b00648f37ec5babe9b590.json"
-        },
-        {
-          "id": "4acab3069ed25c96f2e7dff428ff818e",
-          "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351788-17871676152024-12-10t222453z_120651712_rc2mmbax87hk_rtrmadp_0_reuters-next.jpeg?v=1787167654&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T00:12:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4acab3069ed25c96f2e7dff428ff818e.json"
-        },
-        {
-          "id": "ad82737ff09a4f68297dbd4a60a689d6",
-          "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "id": "fc3e0e40c5a20c1bb79ea5ecc636e710",
+          "title": "AI Agents Spending Money Online? New Research Says Not Really",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -121,13 +47,77 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-15T20:09:19.000Z",
+          "published_at": "2026-09-13T13:01:03.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
+          "breaking_score": 0,
+          "path": "articles/fc3e0e40c5a20c1bb79ea5ecc636e710.json"
+        },
+        {
+          "id": "113fb423fac6c71162109ef065a7312b",
+          "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/toncoin-ton-decrypt-style-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-16T09:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/113fb423fac6c71162109ef065a7312b.json"
+        },
+        {
+          "id": "6e6096069d9e203c1e0f9e25002120dc",
+          "title": "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/closed-sign-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-16T08:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6e6096069d9e203c1e0f9e25002120dc.json"
+        },
+        {
+          "id": "d131d0e003ad383a1a040ce81a51d962",
+          "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-15T21:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 35,
+          "path": "articles/d131d0e003ad383a1a040ce81a51d962.json"
+        },
+        {
+          "id": "3ed231016a7f28c33eaf10b3dbd44ba3",
+          "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-15T21:10:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3ed231016a7f28c33eaf10b3dbd44ba3.json"
         }
       ],
-      "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+      "path": "articles/2433785e76ca19936e3010dfc71164b3.json"
     },
     {
       "id": "42400668f3caa97a7b74d499fd8478f0",
@@ -325,22 +315,6 @@
           "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
         },
         {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T08:33:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
-        {
           "id": "4acab3069ed25c96f2e7dff428ff818e",
           "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development ",
           "image": "https://image.cnbcfm.com/api/v1/image/108351788-17871676152024-12-10t222453z_120651712_rc2mmbax87hk_rtrmadp_0_reuters-next.jpeg?v=1787167654&w=1920&h=1080",
@@ -371,6 +345,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/98069106b93ac2d2e1e2f24b9f5456f5.json"
+        },
+        {
+          "id": "ad82737ff09a4f68297dbd4a60a689d6",
+          "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-15T20:09:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
         }
       ],
       "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
@@ -382,7 +372,7 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108362853-1789450355490-gettyimages-2291459513-AFP_C6G27NB.jpeg?v=1789451011&w=1920&h=1080",
+      "image": "",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -400,22 +390,6 @@
       ],
       "published_at": "2026-09-16T04:01:59.000Z",
       "related": [
-        {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T08:33:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
         {
           "id": "98069106b93ac2d2e1e2f24b9f5456f5",
           "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
@@ -479,6 +453,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 55,
           "path": "articles/da7f9266b94c977dc18c7d6b19287623.json"
+        },
+        {
+          "id": "1152998e170cb7962fee380c0252ca66",
+          "title": "Crypto exchange Binance takes on tradfi by courting rich investors to join its expanded wealth-management platform\n",
+          "image": "https://image.cnbcfm.com/api/v1/image/108115177-1741830451002-gettyimages-2198692502-TFSPI_12022025-4523.jpeg?v=1764917048&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T08:04:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1152998e170cb7962fee380c0252ca66.json"
         }
       ],
       "path": "articles/7da91a2bf4ec40fafb77c75882eae8de.json"
@@ -581,22 +571,6 @@
           "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
         },
         {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T08:33:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
-        {
           "id": "3be54dc636a3c5eea726ba2fb6572824",
           "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
@@ -611,6 +585,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3be54dc636a3c5eea726ba2fb6572824.json"
+        },
+        {
+          "id": "349a926f66523e72700769cc76f1eb72",
+          "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GSWMB1C2Z7PZH9MAVV9T6X/hi-crypto-market-trading-1-breaking-news.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T20:54:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/349a926f66523e72700769cc76f1eb72.json"
         }
       ],
       "path": "articles/7ca1d70a6d6b00648f37ec5babe9b590.json"
@@ -649,7 +639,7 @@
         {
           "id": "53cdd09165268c88445e5f0e292b13d0",
           "title": "UK inflation jumps to 3.1% as energy costs soar",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363465-1789539393529-gettyimages-2287341585-ln1_2254_w5i5mau7.jpeg?v=1789539410&w=1920&h=1080",
+          "image": "",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -795,22 +785,6 @@
           "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
         },
         {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T08:33:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
-        {
           "id": "ad82737ff09a4f68297dbd4a60a689d6",
           "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
@@ -841,6 +815,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
+        },
+        {
+          "id": "ead4de61737e4ba5ed031bdd674bcd37",
+          "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-12T16:01:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ead4de61737e4ba5ed031bdd674bcd37.json"
         }
       ],
       "path": "articles/4acab3069ed25c96f2e7dff428ff818e.json"
@@ -945,7 +935,7 @@
         {
           "id": "7da91a2bf4ec40fafb77c75882eae8de",
           "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108362853-1789450355490-gettyimages-2291459513-AFP_C6G27NB.jpeg?v=1789451011&w=1920&h=1080",
+          "image": "",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1059,9 +1049,9 @@
           "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
         },
         {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
+          "id": "4acab3069ed25c96f2e7dff428ff818e",
+          "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108351788-17871676152024-12-10t222453z_120651712_rc2mmbax87hk_rtrmadp_0_reuters-next.jpeg?v=1787167654&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1069,10 +1059,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-16T08:33:00.000Z",
+          "published_at": "2026-09-16T00:12:29.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
+          "path": "articles/4acab3069ed25c96f2e7dff428ff818e.json"
         }
       ],
       "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
@@ -1143,22 +1133,6 @@
           "path": "articles/70a525a05fa020b79e6b258f0715b8c8.json"
         },
         {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T08:33:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
-        {
           "id": "7ca1d70a6d6b00648f37ec5babe9b590",
           "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
           "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
@@ -1205,9 +1179,133 @@
           "reading_time_minutes": 1,
           "breaking_score": 100,
           "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
+        },
+        {
+          "id": "3f64f7ab65ab4e27a07d388cf1f4710f",
+          "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T18:26:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
         }
       ],
       "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
+    },
+    {
+      "id": "b19703baa0e836a5c17aae60f5ee8386",
+      "title": "Trump admin. says private sector can solve AI threats as critics balk",
+      "description": "President Donald Trump's AI-friendly administration argues U.S. dominance over China in the fast-expanding industry is essential.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108362977-1789480156237-108362977-1789475249536-gettyimages-2292914887-ah806129.jpeg?v=1789480202&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-15T17:31:17.000Z",
+      "related": [
+        {
+          "id": "007095aeeb645aae92e361ba61a16ed2",
+          "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363491-1789546805377-gettyimages-2294992967-AFP_C8FK6G6.jpeg?v=1789546871&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T09:19:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/007095aeeb645aae92e361ba61a16ed2.json"
+        },
+        {
+          "id": "09311593bd8b50775f6554b90a07c2ae",
+          "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363141-1789488905151-gettyimages-2292781476-KENNEDY_CENTER.jpeg?v=1789488937&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T21:46:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 5,
+          "path": "articles/09311593bd8b50775f6554b90a07c2ae.json"
+        },
+        {
+          "id": "2f47b7532110e84cf6cb06d2683db1bf",
+          "title": "Trump Account contributions have a Dec. 31 deadline — and employers can complicate the math",
+          "image": "https://image.cnbcfm.com/api/v1/image/108270383-1772113137107-gettyimages-2258090030-TRUMP_ACCOUNTS.jpeg?v=1772113199&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T20:10:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f47b7532110e84cf6cb06d2683db1bf.json"
+        },
+        {
+          "id": "96cffeb4d12194bd6773adb2761194cf",
+          "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
+          "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T09:15:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/96cffeb4d12194bd6773adb2761194cf.json"
+        },
+        {
+          "id": "da7f9266b94c977dc18c7d6b19287623",
+          "title": "Yield on 10-year Treasury hovers above 5% as investors await Fed decision ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363128-17894885332026-09-15t160320z_883427878_rc2pjnai9xue_rtrmadp_0_usa-stocks.jpeg?v=1789488721&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T08:58:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 55,
+          "path": "articles/da7f9266b94c977dc18c7d6b19287623.json"
+        }
+      ],
+      "path": "articles/b19703baa0e836a5c17aae60f5ee8386.json"
     },
     {
       "id": "191b444ddb1694350e035af195397b0f",
@@ -1249,6 +1347,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3be54dc636a3c5eea726ba2fb6572824.json"
+        },
+        {
+          "id": "2433785e76ca19936e3010dfc71164b3",
+          "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/UK-Parliament-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-16T09:41:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2433785e76ca19936e3010dfc71164b3.json"
         },
         {
           "id": "113fb423fac6c71162109ef065a7312b",
@@ -1297,22 +1411,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 35,
           "path": "articles/d131d0e003ad383a1a040ce81a51d962.json"
-        },
-        {
-          "id": "3ed231016a7f28c33eaf10b3dbd44ba3",
-          "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-03-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T21:10:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3ed231016a7f28c33eaf10b3dbd44ba3.json"
         }
       ],
       "path": "articles/191b444ddb1694350e035af195397b0f.json"
@@ -1383,22 +1481,6 @@
           "path": "articles/ead4de61737e4ba5ed031bdd674bcd37.json"
         },
         {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T08:33:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
-        {
           "id": "70a525a05fa020b79e6b258f0715b8c8",
           "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
           "image": "https://image.cnbcfm.com/api/v1/image/108363215-1789503252674-108363215-17894958302026-09-15t180726z_262957654_rc2ujna1bqby_rtrmadp_0_tech-ai.jpeg?v=1789503265&w=1920&h=1080",
@@ -1429,6 +1511,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4acab3069ed25c96f2e7dff428ff818e.json"
+        },
+        {
+          "id": "7ecb5f2c6013d45887ef051e1e0e32cc",
+          "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357926-1788371185493-gettyimages-2292626601-g20_6268.jpeg?v=1789498979&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-15T19:13:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
         }
       ],
       "path": "articles/b65aefcf83cb298a2c0def0a26a76d33.json"
@@ -1575,6 +1673,22 @@
       "published_at": "2026-09-14T19:07:28.000Z",
       "related": [
         {
+          "id": "2433785e76ca19936e3010dfc71164b3",
+          "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/UK-Parliament-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-16T09:41:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2433785e76ca19936e3010dfc71164b3.json"
+        },
+        {
           "id": "113fb423fac6c71162109ef065a7312b",
           "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/toncoin-ton-decrypt-style-1-gID_7.jpg@png",
@@ -1637,22 +1751,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3ed231016a7f28c33eaf10b3dbd44ba3.json"
-        },
-        {
-          "id": "ad82737ff09a4f68297dbd4a60a689d6",
-          "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T20:09:19.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
         }
       ],
       "path": "articles/080fb77530c1ea01ba7e95d52b653652.json"
@@ -1723,22 +1821,6 @@
           "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
         },
         {
-          "id": "708b746ec6a04f20ac1a8c7a48495b46",
-          "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-          "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T08:33:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/708b746ec6a04f20ac1a8c7a48495b46.json"
-        },
-        {
           "id": "7ca1d70a6d6b00648f37ec5babe9b590",
           "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
           "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
@@ -1769,6 +1851,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 35,
           "path": "articles/d131d0e003ad383a1a040ce81a51d962.json"
+        },
+        {
+          "id": "be3139095029e1904a1caa02611baafe",
+          "title": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-11-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-14T20:07:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/be3139095029e1904a1caa02611baafe.json"
         }
       ],
       "path": "articles/3f64f7ab65ab4e27a07d388cf1f4710f.json"
@@ -1939,6 +2037,22 @@
       "published_at": "2026-09-13T13:01:03.000Z",
       "related": [
         {
+          "id": "2433785e76ca19936e3010dfc71164b3",
+          "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/UK-Parliament-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-16T09:41:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2433785e76ca19936e3010dfc71164b3.json"
+        },
+        {
           "id": "113fb423fac6c71162109ef065a7312b",
           "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/toncoin-ton-decrypt-style-1-gID_7.jpg@png",
@@ -2001,22 +2115,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 35,
           "path": "articles/d131d0e003ad383a1a040ce81a51d962.json"
-        },
-        {
-          "id": "3ed231016a7f28c33eaf10b3dbd44ba3",
-          "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-03-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T21:10:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3ed231016a7f28c33eaf10b3dbd44ba3.json"
         }
       ],
       "path": "articles/fc3e0e40c5a20c1bb79ea5ecc636e710.json"

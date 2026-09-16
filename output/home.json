@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T12:58:42.823Z",
+  "updated_at": "2026-09-16T13:01:10.937Z",
   "articles": {
     "hero": {
       "id": "4063592592d2a9cfef65e0d346957183",
@@ -13,7 +13,7 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-16T12:58:00.000Z",
+      "published_at": "2026-09-16T13:00:25.000Z",
       "path": "articles/4063592592d2a9cfef65e0d346957183.json"
     },
     "breaking": [],
@@ -30,8 +30,23 @@
           "icon": "https://logo.clearbit.com/cnbc.com"
         },
         "category": "stocks",
-        "published_at": "2026-09-16T12:58:00.000Z",
+        "published_at": "2026-09-16T13:00:25.000Z",
         "path": "articles/4063592592d2a9cfef65e0d346957183.json"
+      },
+      {
+        "id": "63af3ddced8c235f066f0c017e1469d8",
+        "title": "A stolen coin can be returned. A leaked identity cannot. ",
+        "description": "We keep building the honeypots, and we are about to hand the same architecture to billions of AI agents, writes Evin McMullen, CEO and co-founder of Billions.",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/15f66a30a01957f367082b4b01102502387516e0-7952x5304.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "source": {
+          "id": "coindesk",
+          "name": "CoinDesk",
+          "website": "https://www.coindesk.com",
+          "icon": "https://logo.clearbit.com/coindesk.com"
+        },
+        "category": "crypto",
+        "published_at": "2026-09-16T13:00:00.000Z",
+        "path": "articles/63af3ddced8c235f066f0c017e1469d8.json"
       },
       {
         "id": "67dfd357cb68582419e20ce4d6b8e14c",
@@ -302,12 +317,14 @@
         "category": "crypto",
         "published_at": "2026-09-16T10:48:44.000Z",
         "path": "articles/b45c4eeba3c2ccbd6fa42aea472c09b3.json"
-      },
+      }
+    ],
+    "crypto": [
       {
-        "id": "3cba676096dffa162136b2f7191e0b1f",
-        "title": "Deutsche Bank close to debuting crypto custody for institutions",
-        "description": "The service will support a select range of cryptocurrencies at debut, including bitcoin and ether and stablecoins like USDC and EURC.",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2e6ebd42c43e90cdd701eefeb607a0dff7f8d82-2560x1785.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "id": "63af3ddced8c235f066f0c017e1469d8",
+        "title": "A stolen coin can be returned. A leaked identity cannot. ",
+        "description": "We keep building the honeypots, and we are about to hand the same architecture to billions of AI agents, writes Evin McMullen, CEO and co-founder of Billions.",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/15f66a30a01957f367082b4b01102502387516e0-7952x5304.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
         "source": {
           "id": "coindesk",
           "name": "CoinDesk",
@@ -315,11 +332,9 @@
           "icon": "https://logo.clearbit.com/coindesk.com"
         },
         "category": "crypto",
-        "published_at": "2026-09-16T10:46:28.000Z",
-        "path": "articles/3cba676096dffa162136b2f7191e0b1f.json"
-      }
-    ],
-    "crypto": [
+        "published_at": "2026-09-16T13:00:00.000Z",
+        "path": "articles/63af3ddced8c235f066f0c017e1469d8.json"
+      },
       {
         "id": "333237aeef34ed287bec88309e1439c3",
         "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
@@ -454,21 +469,6 @@
         "category": "crypto",
         "published_at": "2026-09-16T11:00:00.000Z",
         "path": "articles/0ea30c598819650270a22f3792fbc6dc.json"
-      },
-      {
-        "id": "b45c4eeba3c2ccbd6fa42aea472c09b3",
-        "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
-        "description": "U.S. spot bitcoin ETFs shed $450 million, the most since June, as the Senate's failure to advance the Clarity Act sent regulatory-sensitive tokens sharply lower.",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5fd904349db1854350f6e1be97b52ee9471c9e23-1920x1080.png?auto=format&q=75",
-        "source": {
-          "id": "coindesk",
-          "name": "CoinDesk",
-          "website": "https://www.coindesk.com",
-          "icon": "https://logo.clearbit.com/coindesk.com"
-        },
-        "category": "crypto",
-        "published_at": "2026-09-16T10:48:44.000Z",
-        "path": "articles/b45c4eeba3c2ccbd6fa42aea472c09b3.json"
       }
     ],
     "stocks": [
@@ -484,7 +484,7 @@
           "icon": "https://logo.clearbit.com/cnbc.com"
         },
         "category": "stocks",
-        "published_at": "2026-09-16T12:58:00.000Z",
+        "published_at": "2026-09-16T13:00:25.000Z",
         "path": "articles/4063592592d2a9cfef65e0d346957183.json"
       },
       {
@@ -1076,8 +1076,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 17,
+        "count": 18,
         "articles": [
+          {
+            "id": "63af3ddced8c235f066f0c017e1469d8",
+            "title": "A stolen coin can be returned. A leaked identity cannot. ",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/15f66a30a01957f367082b4b01102502387516e0-7952x5304.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-16T13:00:00.000Z",
+            "path": "articles/63af3ddced8c235f066f0c017e1469d8.json"
+          },
           {
             "id": "2433785e76ca19936e3010dfc71164b3",
             "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
@@ -1203,20 +1217,6 @@
             "category": "stocks",
             "published_at": "2026-09-15T19:13:30.000Z",
             "path": "articles/7ecb5f2c6013d45887ef051e1e0e32cc.json"
-          },
-          {
-            "id": "191b444ddb1694350e035af195397b0f",
-            "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-15T13:00:05.000Z",
-            "path": "articles/191b444ddb1694350e035af195397b0f.json"
           }
         ]
       },
@@ -1387,7 +1387,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-09-16T12:58:00.000Z",
+            "published_at": "2026-09-16T13:00:25.000Z",
             "path": "articles/4063592592d2a9cfef65e0d346957183.json"
           },
           {

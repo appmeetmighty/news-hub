@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T07:15:36.666Z",
-  "total": 20,
+  "updated_at": "2026-09-17T07:30:52.121Z",
+  "total": 21,
   "entities": [
     {
       "id": "btc",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 16
     },
     {
       "id": "blockchain",
@@ -56,6 +56,15 @@
       "count": 5
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -63,15 +72,6 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "defi",
@@ -97,6 +97,15 @@
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "web3",

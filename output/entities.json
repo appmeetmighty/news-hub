@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T10:01:07.792Z",
-  "total": 21,
+  "updated_at": "2026-09-17T10:15:39.489Z",
+  "total": 23,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 34
+      "count": 35
     },
     {
       "id": "crypto",
@@ -40,18 +40,18 @@
       "count": 7
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
+      "icon": "",
+      "count": 5
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 5
     },
@@ -63,6 +63,15 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 3
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 2
     },
     {
       "id": "xrp",
@@ -115,6 +124,15 @@
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 2
+    },
+    {
+      "id": "nflx",
+      "symbol": "NFLX",
+      "name": "Netflix",
+      "type": "company",
+      "path": "tickers/nflx.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "gold",

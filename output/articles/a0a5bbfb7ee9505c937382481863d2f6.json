@@ -1,11 +1,11 @@
 {
-  "id": "818553b02d8949f46611becfeb103346",
-  "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-  "description": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
+  "id": "a0a5bbfb7ee9505c937382481863d2f6",
+  "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
+  "description": "Bajaria said Netflix would be open to a package of international NFL games if one becomes available when the league renegotiates its media rights agreements.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108214315-17609846542025-10-20t181904z_237714832_rc2ofhalqo8x_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108364044-1789589810562-gettyimages-2270145889-jaa_1413_gxdq6trt.jpeg?v=1789589908&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,48 +15,24 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "amzn",
-      "symbol": "AMZN",
-      "name": "Amazon",
+      "id": "nflx",
+      "symbol": "NFLX",
+      "name": "Netflix",
       "type": "company",
-      "path": "tickers/amzn.json",
-      "icon": "https://logo.clearbit.com/amazon.com"
+      "path": "tickers/nflx.json",
+      "icon": ""
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com"
     }
   ],
-  "published_at": "2026-09-16T21:40:18.000Z",
+  "published_at": "2026-09-17T10:00:01.000Z",
   "related": [
-    {
-      "id": "d5ac6257ced92df50c35267f74d96327",
-      "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
-      "image": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1785789937&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-16T23:40:05.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/d5ac6257ced92df50c35267f74d96327.json"
-    },
-    {
-      "id": "a0a5bbfb7ee9505c937382481863d2f6",
-      "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
-      "image": "https://image.cnbcfm.com/api/v1/image/108364044-1789589810562-gettyimages-2270145889-jaa_1413_gxdq6trt.jpeg?v=1789589908&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-17T10:00:01.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/a0a5bbfb7ee9505c937382481863d2f6.json"
-    },
     {
       "id": "7a60dd0040420a16c2212057843b7e4f",
       "title": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion ",
@@ -72,6 +48,38 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/7a60dd0040420a16c2212057843b7e4f.json"
+    },
+    {
+      "id": "a6d5589ffcff9ec602ab09c4a156c97a",
+      "title": "Arm CEO says he's more confident its new AI chip can meet a loftier $2B revenue goal",
+      "image": "https://image.cnbcfm.com/api/v1/image/108282352-1774374295227-gettyimages-2267714027-ARM_EVERYWHERE.jpeg?v=1777055543&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-16T22:52:20.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/a6d5589ffcff9ec602ab09c4a156c97a.json"
+    },
+    {
+      "id": "d5d7823d5283b6902af0eba9f6714701",
+      "title": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
+      "image": "https://image.cnbcfm.com/api/v1/image/108142524-17466508932025-05-07t204532z_1130329156_rc28deaf88ly_rtrmadp_0_usa-stocks.jpeg?v=1789588220&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-16T19:38:41.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/d5d7823d5283b6902af0eba9f6714701.json"
     },
     {
       "id": "dbd743590d912cf7cade26d6ad8ca7f2",

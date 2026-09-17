@@ -1,11 +1,11 @@
 {
-  "id": "d5ac6257ced92df50c35267f74d96327",
-  "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
-  "description": "Snap is partnering with Nvidia, Amazon Web Services and Salesforce as part of an enterprise sales push centered on its $2,000 Specs AR glasses.",
+  "id": "30c3f70a5368b27955cad70df124f37e",
+  "title": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
+  "description": "U.S. semiconductor manufacturing faces a historic worker shortage as demand soars. Here’s how chipmakers and U.S. universities aim to fix it.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1785789937&w=1920&h=1080",
+  "breaking_score": 40,
+  "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108363362-1789509870506-5.jpg?v=1789509961&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,28 +15,20 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
+      "id": "tsm",
+      "symbol": "TSM",
+      "name": "TSMC",
       "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com"
-    },
-    {
-      "id": "amzn",
-      "symbol": "AMZN",
-      "name": "Amazon",
-      "type": "company",
-      "path": "tickers/amzn.json",
-      "icon": "https://logo.clearbit.com/amazon.com"
+      "path": "tickers/tsm.json",
+      "icon": ""
     }
   ],
-  "published_at": "2026-09-16T23:40:05.000Z",
+  "published_at": "2026-09-17T11:00:01.000Z",
   "related": [
     {
-      "id": "89bac887d8788ad669a271158a915acc",
-      "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
-      "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
+      "id": "a6d5589ffcff9ec602ab09c4a156c97a",
+      "title": "Arm CEO says he's more confident its new AI chip can meet a loftier $2B revenue goal",
+      "image": "https://image.cnbcfm.com/api/v1/image/108282352-1774374295227-gettyimages-2267714027-ARM_EVERYWHERE.jpeg?v=1777055543&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -44,26 +36,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-17T10:23:31.000Z",
+      "published_at": "2026-09-16T22:52:20.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/89bac887d8788ad669a271158a915acc.json"
-    },
-    {
-      "id": "a49234a001bfa488266b2934b7a6db2f",
-      "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
-      "image": "https://image.cnbcfm.com/api/v1/image/108364034-1789589336289-gettyimages-2294936771-DREAMFORCE_2026.jpeg?v=1789589480&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-16T23:13:45.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 25,
-      "path": "articles/a49234a001bfa488266b2934b7a6db2f.json"
+      "path": "articles/a6d5589ffcff9ec602ab09c4a156c97a.json"
     },
     {
       "id": "0639cf3823ea9dd7fcb916c4a1b1f3a3",
@@ -112,6 +88,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/02870ee395cd559c1fd467bfdab4b6d5.json"
+    },
+    {
+      "id": "89bac887d8788ad669a271158a915acc",
+      "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+      "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-17T10:23:31.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/89bac887d8788ad669a271158a915acc.json"
     }
   ]
 }

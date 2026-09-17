@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-09-17T11:01:04.635Z",
+  "updated_at": "2026-09-17T11:15:36.739Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "89bac887d8788ad669a271158a915acc",
+      "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+      "description": "Charles will convene senior tech leaders today as the debate around the risks involved in AI development ramps up.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/17/king-charles-nvidia-openai-anthropic-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-17T10:23:31.000Z",
+      "related": [
+        {
+          "id": "d5ac6257ced92df50c35267f74d96327",
+          "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
+          "image": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1785789937&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T23:40:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d5ac6257ced92df50c35267f74d96327.json"
+        },
+        {
+          "id": "da03ff2d6e106871352b8014ad315f12",
+          "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363594-1789562931546-gettyimages-2294958253-train0827.jpeg?v=1789562967&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T23:05:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/da03ff2d6e106871352b8014ad315f12.json"
+        },
+        {
+          "id": "e646fb252561e548f9bcf2c985c959aa",
+          "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PYG783YDGVTZQ6W3CRT5PZ/ai-hack-2.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T05:49:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/e646fb252561e548f9bcf2c985c959aa.json"
+        },
+        {
+          "id": "ad82737ff09a4f68297dbd4a60a689d6",
+          "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-15T20:09:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
+        },
+        {
+          "id": "68fcae09b29fd09ada0201af6049b8b2",
+          "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-16T20:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
+        }
+      ],
+      "path": "articles/89bac887d8788ad669a271158a915acc.json"
+    },
     {
       "id": "d5ac6257ced92df50c35267f74d96327",
       "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
@@ -42,9 +174,9 @@
       "published_at": "2026-09-16T23:40:05.000Z",
       "related": [
         {
-          "id": "818553b02d8949f46611becfeb103346",
-          "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-          "image": "https://image.cnbcfm.com/api/v1/image/108214315-17609846542025-10-20t181904z_237714832_rc2ofhalqo8x_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
+          "id": "89bac887d8788ad669a271158a915acc",
+          "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -52,10 +184,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-16T21:40:18.000Z",
+          "published_at": "2026-09-17T10:23:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/818553b02d8949f46611becfeb103346.json"
+          "path": "articles/89bac887d8788ad669a271158a915acc.json"
         },
         {
           "id": "a49234a001bfa488266b2934b7a6db2f",
@@ -74,8 +206,24 @@
           "path": "articles/a49234a001bfa488266b2934b7a6db2f.json"
         },
         {
+          "id": "0639cf3823ea9dd7fcb916c4a1b1f3a3",
+          "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364207-1789623411905-gettyimages-2283591551-AFP_B8WN4ZA.jpeg?v=1789623422&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T11:12:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0639cf3823ea9dd7fcb916c4a1b1f3a3.json"
+        },
+        {
           "id": "bef1c623e77e19beeda6a9384746bfce",
-          "title": "‘Stronger together’: Carney welcomes EU invite for Canada to become first-ever associate member",
+          "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
           "image": "https://image.cnbcfm.com/api/v1/image/108364249-1789634871930-gettyimages-2295045083-UK_CARNEY.jpeg?v=1789634978&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -84,15 +232,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T10:42:48.000Z",
+          "published_at": "2026-09-17T11:05:36.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bef1c623e77e19beeda6a9384746bfce.json"
         },
         {
-          "id": "f3e4641745e5aaf310203cac327f8533",
-          "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
-          "image": "https://image.cnbcfm.com/api/v1/image/108352657-17873141172026-08-21t100029z_470843486_rc24vmai1wk3_rtrmadp_0_venezuela-oil-exports.jpeg?v=1787314184&w=1920&h=1080",
+          "id": "02870ee395cd559c1fd467bfdab4b6d5",
+          "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355817-1787935170986-108355817-1787932538588-_05A6238-1.jpg?v=1787943832&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -100,26 +248,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T10:12:36.000Z",
+          "published_at": "2026-09-17T11:01:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/f3e4641745e5aaf310203cac327f8533.json"
-        },
-        {
-          "id": "a0a5bbfb7ee9505c937382481863d2f6",
-          "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364044-1789589810562-gettyimages-2270145889-jaa_1413_gxdq6trt.jpeg?v=1789589908&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T10:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a0a5bbfb7ee9505c937382481863d2f6.json"
+          "path": "articles/02870ee395cd559c1fd467bfdab4b6d5.json"
         }
       ],
       "path": "articles/d5ac6257ced92df50c35267f74d96327.json"

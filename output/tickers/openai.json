@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-09-17T11:01:04.635Z",
+  "updated_at": "2026-09-17T11:15:36.739Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 4,
+  "total": 5,
   "articles": [
+    {
+      "id": "89bac887d8788ad669a271158a915acc",
+      "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+      "description": "Charles will convene senior tech leaders today as the debate around the risks involved in AI development ramps up.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/17/king-charles-nvidia-openai-anthropic-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-17T10:23:31.000Z",
+      "related": [
+        {
+          "id": "d5ac6257ced92df50c35267f74d96327",
+          "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
+          "image": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1785789937&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T23:40:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d5ac6257ced92df50c35267f74d96327.json"
+        },
+        {
+          "id": "da03ff2d6e106871352b8014ad315f12",
+          "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363594-1789562931546-gettyimages-2294958253-train0827.jpeg?v=1789562967&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T23:05:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/da03ff2d6e106871352b8014ad315f12.json"
+        },
+        {
+          "id": "e646fb252561e548f9bcf2c985c959aa",
+          "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PYG783YDGVTZQ6W3CRT5PZ/ai-hack-2.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T05:49:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/e646fb252561e548f9bcf2c985c959aa.json"
+        },
+        {
+          "id": "ad82737ff09a4f68297dbd4a60a689d6",
+          "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-15T20:09:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
+        },
+        {
+          "id": "68fcae09b29fd09ada0201af6049b8b2",
+          "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-16T20:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
+        }
+      ],
+      "path": "articles/89bac887d8788ad669a271158a915acc.json"
+    },
     {
       "id": "e646fb252561e548f9bcf2c985c959aa",
       "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
@@ -88,6 +220,22 @@
           "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
         },
         {
+          "id": "89bac887d8788ad669a271158a915acc",
+          "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T10:23:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/89bac887d8788ad669a271158a915acc.json"
+        },
+        {
           "id": "6d43bd12fb72dec1c6f37cb523ff9cd8",
           "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment ",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QD479E84FW5KWH0FVCRS42/hi-how-zcash-went-from-low-profile-token-to-the-most-searched-asset-in-november-2.jpg",
@@ -102,22 +250,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6d43bd12fb72dec1c6f37cb523ff9cd8.json"
-        },
-        {
-          "id": "6bf4847893150feba2902cb14730441b",
-          "title": "Revolut says no direct contact after $3 million public ransom demand",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q83QQQWRKSXT4SW5VX5T0H/man-hacker-breaking-blockchain-2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T09:57:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6bf4847893150feba2902cb14730441b.json"
         }
       ],
       "path": "articles/e646fb252561e548f9bcf2c985c959aa.json"
@@ -155,6 +287,22 @@
       ],
       "published_at": "2026-09-16T23:05:48.000Z",
       "related": [
+        {
+          "id": "89bac887d8788ad669a271158a915acc",
+          "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T10:23:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/89bac887d8788ad669a271158a915acc.json"
+        },
         {
           "id": "e646fb252561e548f9bcf2c985c959aa",
           "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
@@ -204,9 +352,9 @@
           "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"
         },
         {
-          "id": "bef1c623e77e19beeda6a9384746bfce",
-          "title": "‘Stronger together’: Carney welcomes EU invite for Canada to become first-ever associate member",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364249-1789634871930-gettyimages-2295045083-UK_CARNEY.jpeg?v=1789634978&w=1920&h=1080",
+          "id": "0639cf3823ea9dd7fcb916c4a1b1f3a3",
+          "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364207-1789623411905-gettyimages-2283591551-AFP_B8WN4ZA.jpeg?v=1789623422&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -214,26 +362,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T10:42:48.000Z",
+          "published_at": "2026-09-17T11:12:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/bef1c623e77e19beeda6a9384746bfce.json"
-        },
-        {
-          "id": "f3e4641745e5aaf310203cac327f8533",
-          "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
-          "image": "https://image.cnbcfm.com/api/v1/image/108352657-17873141172026-08-21t100029z_470843486_rc24vmai1wk3_rtrmadp_0_venezuela-oil-exports.jpeg?v=1787314184&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T10:12:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f3e4641745e5aaf310203cac327f8533.json"
+          "path": "articles/0639cf3823ea9dd7fcb916c4a1b1f3a3.json"
         }
       ],
       "path": "articles/da03ff2d6e106871352b8014ad315f12.json"
@@ -304,6 +436,22 @@
           "path": "articles/e646fb252561e548f9bcf2c985c959aa.json"
         },
         {
+          "id": "89bac887d8788ad669a271158a915acc",
+          "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T10:23:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/89bac887d8788ad669a271158a915acc.json"
+        },
+        {
           "id": "da03ff2d6e106871352b8014ad315f12",
           "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
           "image": "https://image.cnbcfm.com/api/v1/image/108363594-1789562931546-gettyimages-2294958253-train0827.jpeg?v=1789562967&w=1920&h=1080",
@@ -334,22 +482,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/d081071cf9db4ad03a0fc64af01319f8.json"
-        },
-        {
-          "id": "cd4a4322db03b99015136f336621ddff",
-          "title": "Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-15T15:08:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cd4a4322db03b99015136f336621ddff.json"
         }
       ],
       "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
@@ -420,6 +552,22 @@
           "path": "articles/e646fb252561e548f9bcf2c985c959aa.json"
         },
         {
+          "id": "89bac887d8788ad669a271158a915acc",
+          "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T10:23:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/89bac887d8788ad669a271158a915acc.json"
+        },
+        {
           "id": "da03ff2d6e106871352b8014ad315f12",
           "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
           "image": "https://image.cnbcfm.com/api/v1/image/108363594-1789562931546-gettyimages-2294958253-train0827.jpeg?v=1789562967&w=1920&h=1080",
@@ -450,22 +598,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/66925f3e218cb81d80fcecb7344e8be6.json"
-        },
-        {
-          "id": "38e430da0bbdf8ed29b70893c78747fa",
-          "title": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T10:24:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/38e430da0bbdf8ed29b70893c78747fa.json"
         }
       ],
       "path": "articles/ad82737ff09a4f68297dbd4a60a689d6.json"

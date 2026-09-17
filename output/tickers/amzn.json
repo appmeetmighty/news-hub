@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-17T11:15:36.743Z",
+  "updated_at": "2026-09-17T11:31:28.046Z",
   "id": "amzn",
   "symbol": "AMZN",
   "name": "Amazon",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "d5ac6257ced92df50c35267f74d96327",
@@ -58,6 +58,22 @@
           "path": "articles/89bac887d8788ad669a271158a915acc.json"
         },
         {
+          "id": "818553b02d8949f46611becfeb103346",
+          "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+          "image": "https://image.cnbcfm.com/api/v1/image/108214315-17609846542025-10-20t181904z_237714832_rc2ofhalqo8x_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T21:40:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/818553b02d8949f46611becfeb103346.json"
+        },
+        {
           "id": "a49234a001bfa488266b2934b7a6db2f",
           "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
           "image": "https://image.cnbcfm.com/api/v1/image/108364034-1789589336289-gettyimages-2294936771-DREAMFORCE_2026.jpeg?v=1789589480&w=1920&h=1080",
@@ -74,9 +90,9 @@
           "path": "articles/a49234a001bfa488266b2934b7a6db2f.json"
         },
         {
-          "id": "0639cf3823ea9dd7fcb916c4a1b1f3a3",
-          "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364207-1789623411905-gettyimages-2283591551-AFP_B8WN4ZA.jpeg?v=1789623422&w=1920&h=1080",
+          "id": "02870ee395cd559c1fd467bfdab4b6d5",
+          "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355817-1787935170986-108355817-1787932538588-_05A6238-1.jpg?v=1787943832&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -84,15 +100,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T11:12:21.000Z",
+          "published_at": "2026-09-17T11:30:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/0639cf3823ea9dd7fcb916c4a1b1f3a3.json"
+          "path": "articles/02870ee395cd559c1fd467bfdab4b6d5.json"
         },
         {
           "id": "bef1c623e77e19beeda6a9384746bfce",
           "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364249-1789634871930-gettyimages-2295045083-UK_CARNEY.jpeg?v=1789634978&w=1920&h=1080",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364295-1789644146167-gettyimages-2295116999-AFP_C8KQ9WT.jpeg?v=1789644175&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -100,10 +116,56 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T11:05:36.000Z",
+          "published_at": "2026-09-17T11:23:27.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bef1c623e77e19beeda6a9384746bfce.json"
+        }
+      ],
+      "path": "articles/d5ac6257ced92df50c35267f74d96327.json"
+    },
+    {
+      "id": "818553b02d8949f46611becfeb103346",
+      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+      "description": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108214315-17609846542025-10-20t181904z_237714832_rc2ofhalqo8x_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        }
+      ],
+      "published_at": "2026-09-16T21:40:18.000Z",
+      "related": [
+        {
+          "id": "d5ac6257ced92df50c35267f74d96327",
+          "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
+          "image": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1785789937&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T23:40:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d5ac6257ced92df50c35267f74d96327.json"
         },
         {
           "id": "02870ee395cd559c1fd467bfdab4b6d5",
@@ -116,13 +178,61 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T11:01:41.000Z",
+          "published_at": "2026-09-17T11:30:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/02870ee395cd559c1fd467bfdab4b6d5.json"
+        },
+        {
+          "id": "bef1c623e77e19beeda6a9384746bfce",
+          "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364295-1789644146167-gettyimages-2295116999-AFP_C8KQ9WT.jpeg?v=1789644175&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T11:23:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bef1c623e77e19beeda6a9384746bfce.json"
+        },
+        {
+          "id": "0639cf3823ea9dd7fcb916c4a1b1f3a3",
+          "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364207-1789623411905-gettyimages-2283591551-AFP_B8WN4ZA.jpeg?v=1789623422&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T11:17:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0639cf3823ea9dd7fcb916c4a1b1f3a3.json"
+        },
+        {
+          "id": "30c3f70a5368b27955cad70df124f37e",
+          "title": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363362-1789509870506-5.jpg?v=1789509961&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T11:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/30c3f70a5368b27955cad70df124f37e.json"
         }
       ],
-      "path": "articles/d5ac6257ced92df50c35267f74d96327.json"
+      "path": "articles/818553b02d8949f46611becfeb103346.json"
     }
   ]
 }

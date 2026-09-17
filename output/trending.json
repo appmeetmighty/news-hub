@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-17T17:30:56.681Z",
+  "updated_at": "2026-09-17T17:45:50.003Z",
   "articles": {
-    "generated_at": "2026-09-17T17:30:56.681Z",
+    "generated_at": "2026-09-17T17:45:50.003Z",
     "topics": [
       {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 36,
+        "count": 34,
         "articles": [
           {
             "id": "95b5101086f4e584a4045f3efce911bc",
@@ -157,7 +157,7 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 29,
+        "count": 28,
         "articles": [
           {
             "id": "95b5101086f4e584a4045f3efce911bc",
@@ -306,7 +306,7 @@
         "name": "Regulation",
         "type": "topic",
         "icon": "",
-        "count": 29,
+        "count": 27,
         "articles": [
           {
             "id": "929051d33f6051ddb7a0ae02216a110c",
@@ -458,6 +458,20 @@
         "count": 14,
         "articles": [
           {
+            "id": "eb0cec691ba424df00b2f3270d497f4b",
+            "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-17T17:36:02.000Z",
+            "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+          },
+          {
             "id": "929051d33f6051ddb7a0ae02216a110c",
             "title": "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
             "image": "https://image.cnbcfm.com/api/v1/image/108358009-1788376886015-gettyimages-2292651452-G20_INNOVATION_MINISTERIAL.jpeg?v=1788376911&w=1920&h=1080",
@@ -526,20 +540,6 @@
             "category": "crypto",
             "published_at": "2026-09-17T05:49:06.000Z",
             "path": "articles/e646fb252561e548f9bcf2c985c959aa.json"
-          },
-          {
-            "id": "c31833b9473332de4945d3b7c9bd13f1",
-            "title": "House advances bill to rein in AI data center utility costs",
-            "image": "https://image.cnbcfm.com/api/v1/image/108362661-1789414670042-gettyimages-2292179802-dji_20260826105109_0043_d_ip1gjufd.jpeg?v=1789512644&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-17T00:08:01.000Z",
-            "path": "articles/c31833b9473332de4945d3b7c9bd13f1.json"
           },
           {
             "id": "da03ff2d6e106871352b8014ad315f12",
@@ -749,72 +749,16 @@
         ]
       },
       {
-        "id": "oil",
-        "name": "Oil",
-        "type": "commodity",
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
         "icon": "",
-        "count": 5,
+        "count": 6,
         "articles": [
           {
-            "id": "f3e4641745e5aaf310203cac327f8533",
-            "title": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
-            "image": "https://image.cnbcfm.com/api/v1/image/108352657-17873141172026-08-21t100029z_470843486_rc24vmai1wk3_rtrmadp_0_venezuela-oil-exports.jpeg?v=1787314184&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-17T16:53:14.000Z",
-            "path": "articles/f3e4641745e5aaf310203cac327f8533.json"
-          },
-          {
-            "id": "aa64f9c118bb5cfa020856494b2819e4",
-            "title": "Trump gains a tariff weapon against China and India. Will he use it?",
-            "image": "https://image.cnbcfm.com/api/v1/image/108364200-1789620964655-gettyimages-2294377623-AA_12092026_2948255.jpeg?v=1789621003&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-17T08:46:04.000Z",
-            "path": "articles/aa64f9c118bb5cfa020856494b2819e4.json"
-          },
-          {
-            "id": "8f5363800e1970fc4675703130939794",
-            "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/6611d576e10d0b5c10391e872f9116f58bc22514-2854x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-17T07:27:07.000Z",
-            "path": "articles/8f5363800e1970fc4675703130939794.json"
-          },
-          {
-            "id": "1a929c5d8724a315daa019db8dd4c982",
-            "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-16T21:00:00.000Z",
-            "path": "articles/1a929c5d8724a315daa019db8dd4c982.json"
-          },
-          {
-            "id": "43e1fec52508cc682523fc7f33bff9eb",
-            "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png",
+            "id": "eb0cec691ba424df00b2f3270d497f4b",
+            "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
             "source": {
               "id": "decrypt",
               "name": "Decrypt",
@@ -822,18 +766,9 @@
               "icon": "https://logo.clearbit.com/decrypt.co"
             },
             "category": "crypto",
-            "published_at": "2026-09-15T17:06:03.000Z",
-            "path": "articles/43e1fec52508cc682523fc7f33bff9eb.json"
-          }
-        ]
-      },
-      {
-        "id": "openai",
-        "name": "OpenAI",
-        "type": "company",
-        "icon": "",
-        "count": 5,
-        "articles": [
+            "published_at": "2026-09-17T17:36:02.000Z",
+            "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+          },
           {
             "id": "89bac887d8788ad669a271158a915acc",
             "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
@@ -911,8 +846,22 @@
         "name": "Stablecoin",
         "type": "topic",
         "icon": "",
-        "count": 3,
+        "count": 4,
         "articles": [
+          {
+            "id": "bdbeab7c4d2251a0126509be1cce5488",
+            "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R5J17NDWSVXF414T1MASHP/hi-why-weisdomtree-needs-a-stablecoin.png",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-17T17:31:12.000Z",
+            "path": "articles/bdbeab7c4d2251a0126509be1cce5488.json"
+          },
           {
             "id": "5e13bf4ddf57ba0d812a422e83244d7f",
             "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
@@ -954,6 +903,122 @@
             "category": "crypto",
             "published_at": "2026-09-16T11:39:44.000Z",
             "path": "articles/09549752517ec0e2fcf2aac2a4f1d5a8.json"
+          }
+        ]
+      },
+      {
+        "id": "oil",
+        "name": "Oil",
+        "type": "commodity",
+        "icon": "",
+        "count": 4,
+        "articles": [
+          {
+            "id": "f3e4641745e5aaf310203cac327f8533",
+            "title": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
+            "image": "https://image.cnbcfm.com/api/v1/image/108352657-17873141172026-08-21t100029z_470843486_rc24vmai1wk3_rtrmadp_0_venezuela-oil-exports.jpeg?v=1787314184&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-17T16:53:14.000Z",
+            "path": "articles/f3e4641745e5aaf310203cac327f8533.json"
+          },
+          {
+            "id": "aa64f9c118bb5cfa020856494b2819e4",
+            "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+            "image": "https://image.cnbcfm.com/api/v1/image/108364200-1789620964655-gettyimages-2294377623-AA_12092026_2948255.jpeg?v=1789621003&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-17T08:46:04.000Z",
+            "path": "articles/aa64f9c118bb5cfa020856494b2819e4.json"
+          },
+          {
+            "id": "8f5363800e1970fc4675703130939794",
+            "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/6611d576e10d0b5c10391e872f9116f58bc22514-2854x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-17T07:27:07.000Z",
+            "path": "articles/8f5363800e1970fc4675703130939794.json"
+          },
+          {
+            "id": "1a929c5d8724a315daa019db8dd4c982",
+            "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-16T21:00:00.000Z",
+            "path": "articles/1a929c5d8724a315daa019db8dd4c982.json"
+          }
+        ]
+      },
+      {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 3,
+        "articles": [
+          {
+            "id": "eb0cec691ba424df00b2f3270d497f4b",
+            "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-17T17:36:02.000Z",
+            "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+          },
+          {
+            "id": "89bac887d8788ad669a271158a915acc",
+            "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+            "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-17T10:23:31.000Z",
+            "path": "articles/89bac887d8788ad669a271158a915acc.json"
+          },
+          {
+            "id": "d5ac6257ced92df50c35267f74d96327",
+            "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
+            "image": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1785789937&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-16T23:40:05.000Z",
+            "path": "articles/d5ac6257ced92df50c35267f74d96327.json"
           }
         ]
       },
@@ -1005,6 +1070,43 @@
             "category": "crypto",
             "published_at": "2026-09-16T09:01:03.000Z",
             "path": "articles/113fb423fac6c71162109ef065a7312b.json"
+          }
+        ]
+      },
+      {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "eb0cec691ba424df00b2f3270d497f4b",
+            "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-17T17:36:02.000Z",
+            "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+          },
+          {
+            "id": "89bac887d8788ad669a271158a915acc",
+            "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+            "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-17T10:23:31.000Z",
+            "path": "articles/89bac887d8788ad669a271158a915acc.json"
           }
         ]
       },
@@ -1079,43 +1181,6 @@
             "category": "crypto",
             "published_at": "2026-09-17T12:00:00.000Z",
             "path": "articles/3b01b5f2544a38a1e68e4f21b8744a74.json"
-          }
-        ]
-      },
-      {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "89bac887d8788ad669a271158a915acc",
-            "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
-            "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-17T10:23:31.000Z",
-            "path": "articles/89bac887d8788ad669a271158a915acc.json"
-          },
-          {
-            "id": "d5ac6257ced92df50c35267f74d96327",
-            "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
-            "image": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1785789937&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-16T23:40:05.000Z",
-            "path": "articles/d5ac6257ced92df50c35267f74d96327.json"
           }
         ]
       },
@@ -1231,6 +1296,29 @@
         ]
       },
       {
+        "id": "googl",
+        "name": "Google",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/google.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "eb0cec691ba424df00b2f3270d497f4b",
+            "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-17T17:36:02.000Z",
+            "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+          }
+        ]
+      },
+      {
         "id": "nflx",
         "name": "Netflix",
         "type": "company",
@@ -1342,29 +1430,6 @@
             "category": "crypto",
             "published_at": "2026-09-17T12:00:00.000Z",
             "path": "articles/2b5dc49faea36809fb2a288dc6d9aaf2.json"
-          }
-        ]
-      },
-      {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "89bac887d8788ad669a271158a915acc",
-            "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
-            "image": "https://image.cnbcfm.com/api/v1/image/108364263-1789640536137-gettyimages-2273726569-dsc_8960_54xkczpi.jpeg?v=1789640595&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-17T10:23:31.000Z",
-            "path": "articles/89bac887d8788ad669a271158a915acc.json"
           }
         ]
       },

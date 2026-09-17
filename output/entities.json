@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-09-17T18:30:55.536Z",
-  "total": 28,
+  "updated_at": "2026-09-17T18:45:41.213Z",
+  "total": 27,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 34
+      "count": 35
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 28
     },
     {
       "id": "btc",
@@ -16,13 +23,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
       "count": 27
     },
     {
@@ -37,7 +37,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 12
+      "count": 10
     },
     {
       "id": "openai",
@@ -90,6 +90,13 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 3
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "mstr",
@@ -149,13 +156,6 @@
       "name": "Netflix",
       "type": "company",
       "path": "tickers/nflx.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
       "icon": "",
       "count": 1
     },
@@ -226,15 +226,6 @@
       "name": "Visa",
       "type": "company",
       "path": "tickers/v.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "silver",
-      "symbol": "SILVER",
-      "name": "Silver",
-      "type": "commodity",
-      "path": "tickers/silver.json",
       "icon": "",
       "count": 1
     }

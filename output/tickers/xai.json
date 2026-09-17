@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-09-17T21:15:38.368Z",
+  "updated_at": "2026-09-17T21:30:51.586Z",
   "id": "xai",
   "symbol": "XAI",
   "name": "xAI",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "1802bd4b797c9713e899daf6017ed9f6",
+      "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
+      "description": "SpaceX's AI division has held internal talks about buying customer records from dead startups—cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "xai",
+          "symbol": "XAI",
+          "name": "xAI",
+          "type": "company",
+          "path": "tickers/xai.json",
+          "icon": ""
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-17T21:16:03.000Z",
+      "related": [
+        {
+          "id": "158ab229b0119d1dcd62c3972bab1bdc",
+          "title": "House heads home to campaign amid calls for urgent AI action",
+          "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T20:41:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
+        },
+        {
+          "id": "51eab1091a610cb7626c5bcdcfa657f9",
+          "title": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T16:33:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/51eab1091a610cb7626c5bcdcfa657f9.json"
+        },
+        {
+          "id": "e9cffe6fe3435ead4ca2c8d79898f0fb",
+          "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T12:53:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 15,
+          "path": "articles/e9cffe6fe3435ead4ca2c8d79898f0fb.json"
+        },
+        {
+          "id": "a87ea35d805b25015cc2214e3735d3fb",
+          "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/chipotle-unsplash-gID_4.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T20:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a87ea35d805b25015cc2214e3735d3fb.json"
+        },
+        {
+          "id": "b52ce96dcedcb89a954f7caf21a7f684",
+          "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T20:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b52ce96dcedcb89a954f7caf21a7f684.json"
+        }
+      ],
+      "path": "articles/1802bd4b797c9713e899daf6017ed9f6.json"
+    },
     {
       "id": "158ab229b0119d1dcd62c3972bab1bdc",
       "title": "House heads home to campaign amid calls for urgent AI action",
@@ -88,6 +220,22 @@
           "path": "articles/da03ff2d6e106871352b8014ad315f12.json"
         },
         {
+          "id": "1802bd4b797c9713e899daf6017ed9f6",
+          "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1802bd4b797c9713e899daf6017ed9f6.json"
+        },
+        {
           "id": "baf870dabc67f192c079376b9eaca211",
           "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
@@ -118,22 +266,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 100,
           "path": "articles/e646fb252561e548f9bcf2c985c959aa.json"
-        },
-        {
-          "id": "68fcae09b29fd09ada0201af6049b8b2",
-          "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-16T20:31:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
         }
       ],
       "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"

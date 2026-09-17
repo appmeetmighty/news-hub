@@ -1,10 +1,142 @@
 {
-  "updated_at": "2026-09-17T22:45:39.871Z",
+  "updated_at": "2026-09-17T23:01:10.296Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 21,
   "articles": [
+    {
+      "id": "158ab229b0119d1dcd62c3972bab1bdc",
+      "title": "House heads home to campaign amid calls for urgent AI action",
+      "description": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "xai",
+          "symbol": "XAI",
+          "name": "xAI",
+          "type": "company",
+          "path": "tickers/xai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-17T22:48:08.000Z",
+      "related": [
+        {
+          "id": "eb0cec691ba424df00b2f3270d497f4b",
+          "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T17:36:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+        },
+        {
+          "id": "fa436f01659fd43001fe85f5d732bbe0",
+          "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
+          "image": "https://image.cnbcfm.com/api/v1/image/108342837-1785448087702-gettyimages-2256654494-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T22:22:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fa436f01659fd43001fe85f5d732bbe0.json"
+        },
+        {
+          "id": "da03ff2d6e106871352b8014ad315f12",
+          "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363594-1789562931546-gettyimages-2294958253-train0827.jpeg?v=1789562967&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T23:05:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/da03ff2d6e106871352b8014ad315f12.json"
+        },
+        {
+          "id": "bc9a8ef47292950dafa0e1f077da0bb9",
+          "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T22:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bc9a8ef47292950dafa0e1f077da0bb9.json"
+        },
+        {
+          "id": "1802bd4b797c9713e899daf6017ed9f6",
+          "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1802bd4b797c9713e899daf6017ed9f6.json"
+        }
+      ],
+      "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
+    },
     {
       "id": "bc9a8ef47292950dafa0e1f077da0bb9",
       "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
@@ -165,7 +297,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T20:41:54.000Z",
+          "published_at": "2026-09-17T22:48:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
@@ -203,6 +335,22 @@
           "path": "articles/12971fb1cb37eeecae164fcee82a6509.json"
         },
         {
+          "id": "d87acd01707779474ef15d42c2a5eca8",
+          "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363818-17895791972026-09-16t171402z_912914715_rc2hkna0kgel_rtrmadp_0_global-oil.jpeg?v=1789579261&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T22:59:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d87acd01707779474ef15d42c2a5eca8.json"
+        },
+        {
           "id": "30c3f70a5368b27955cad70df124f37e",
           "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers",
           "image": "https://image.cnbcfm.com/api/v1/image/108363361-1789509583442-1.jpg?v=1789509734&w=1920&h=1080",
@@ -217,22 +365,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/30c3f70a5368b27955cad70df124f37e.json"
-        },
-        {
-          "id": "7dc7a4a46cf067be799ee450cd9c9664",
-          "title": "Jensen Huang says Nvidia will sell twice as many chips next year ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363600-1789563173894-gettyimages-2294939592-DREAMFORCE_2026.jpeg?v=1789678347&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T21:00:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7dc7a4a46cf067be799ee450cd9c9664.json"
         }
       ],
       "path": "articles/fa436f01659fd43001fe85f5d732bbe0.json"
@@ -419,9 +551,9 @@
           "path": "articles/a0a5bbfb7ee9505c937382481863d2f6.json"
         },
         {
-          "id": "fa436f01659fd43001fe85f5d732bbe0",
-          "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-          "image": "https://image.cnbcfm.com/api/v1/image/108342837-1785448087702-gettyimages-2256654494-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
+          "id": "d87acd01707779474ef15d42c2a5eca8",
+          "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363818-17895791972026-09-16t171402z_912914715_rc2hkna0kgel_rtrmadp_0_global-oil.jpeg?v=1789579261&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -429,15 +561,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T22:22:53.000Z",
+          "published_at": "2026-09-17T22:59:23.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/fa436f01659fd43001fe85f5d732bbe0.json"
+          "path": "articles/d87acd01707779474ef15d42c2a5eca8.json"
         },
         {
-          "id": "7dc7a4a46cf067be799ee450cd9c9664",
-          "title": "Jensen Huang says Nvidia will sell twice as many chips next year ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363600-1789563173894-gettyimages-2294939592-DREAMFORCE_2026.jpeg?v=1789678347&w=1920&h=1080",
+          "id": "158ab229b0119d1dcd62c3972bab1bdc",
+          "title": "House heads home to campaign amid calls for urgent AI action",
+          "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -445,10 +577,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T21:00:47.000Z",
+          "published_at": "2026-09-17T22:48:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/7dc7a4a46cf067be799ee450cd9c9664.json"
+          "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
         }
       ],
       "path": "articles/30c3f70a5368b27955cad70df124f37e.json"
@@ -513,7 +645,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T20:41:54.000Z",
+          "published_at": "2026-09-17T22:48:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
@@ -586,138 +718,6 @@
       "path": "articles/1802bd4b797c9713e899daf6017ed9f6.json"
     },
     {
-      "id": "158ab229b0119d1dcd62c3972bab1bdc",
-      "title": "House heads home to campaign amid calls for urgent AI action",
-      "description": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
-        },
-        {
-          "id": "xai",
-          "symbol": "XAI",
-          "name": "xAI",
-          "type": "company",
-          "path": "tickers/xai.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-17T20:41:54.000Z",
-      "related": [
-        {
-          "id": "eb0cec691ba424df00b2f3270d497f4b",
-          "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T17:36:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
-        },
-        {
-          "id": "fa436f01659fd43001fe85f5d732bbe0",
-          "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-          "image": "https://image.cnbcfm.com/api/v1/image/108342837-1785448087702-gettyimages-2256654494-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T22:22:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fa436f01659fd43001fe85f5d732bbe0.json"
-        },
-        {
-          "id": "da03ff2d6e106871352b8014ad315f12",
-          "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363594-1789562931546-gettyimages-2294958253-train0827.jpeg?v=1789562967&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T23:05:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/da03ff2d6e106871352b8014ad315f12.json"
-        },
-        {
-          "id": "bc9a8ef47292950dafa0e1f077da0bb9",
-          "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T22:31:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bc9a8ef47292950dafa0e1f077da0bb9.json"
-        },
-        {
-          "id": "1802bd4b797c9713e899daf6017ed9f6",
-          "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T21:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1802bd4b797c9713e899daf6017ed9f6.json"
-        }
-      ],
-      "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
-    },
-    {
       "id": "b9a9695cd283d2354492eafe4e7d39c2",
       "title": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate",
       "description": "The problem for investors: much of what's flowing through the airwaves is noise and won't help you make money.",
@@ -753,10 +753,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T17:02:07.000Z",
+          "published_at": "2026-09-17T22:59:23.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d87acd01707779474ef15d42c2a5eca8.json"
+        },
+        {
+          "id": "158ab229b0119d1dcd62c3972bab1bdc",
+          "title": "House heads home to campaign amid calls for urgent AI action",
+          "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T22:48:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
         },
         {
           "id": "fa436f01659fd43001fe85f5d732bbe0",
@@ -805,22 +821,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7dc7a4a46cf067be799ee450cd9c9664.json"
-        },
-        {
-          "id": "158ab229b0119d1dcd62c3972bab1bdc",
-          "title": "House heads home to campaign amid calls for urgent AI action",
-          "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T20:41:54.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
         }
       ],
       "path": "articles/b9a9695cd283d2354492eafe4e7d39c2.json"
@@ -1123,7 +1123,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T20:41:54.000Z",
+          "published_at": "2026-09-17T22:48:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
@@ -1243,6 +1243,38 @@
           "path": "articles/30c3f70a5368b27955cad70df124f37e.json"
         },
         {
+          "id": "d87acd01707779474ef15d42c2a5eca8",
+          "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363818-17895791972026-09-16t171402z_912914715_rc2hkna0kgel_rtrmadp_0_global-oil.jpeg?v=1789579261&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T22:59:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d87acd01707779474ef15d42c2a5eca8.json"
+        },
+        {
+          "id": "158ab229b0119d1dcd62c3972bab1bdc",
+          "title": "House heads home to campaign amid calls for urgent AI action",
+          "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T22:48:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
+        },
+        {
           "id": "fa436f01659fd43001fe85f5d732bbe0",
           "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
           "image": "https://image.cnbcfm.com/api/v1/image/108342837-1785448087702-gettyimages-2256654494-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
@@ -1273,38 +1305,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7dc7a4a46cf067be799ee450cd9c9664.json"
-        },
-        {
-          "id": "158ab229b0119d1dcd62c3972bab1bdc",
-          "title": "House heads home to campaign amid calls for urgent AI action",
-          "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T20:41:54.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
-        },
-        {
-          "id": "d79eed3ba69ed4b5678e23db9b2f2fe6",
-          "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364635-1789677070399-gettyimages-2222880844-TRUMP_TAX_BILL.jpeg?v=1789677107&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T20:32:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d79eed3ba69ed4b5678e23db9b2f2fe6.json"
         }
       ],
       "path": "articles/929051d33f6051ddb7a0ae02216a110c.json"
@@ -1351,6 +1351,38 @@
           "path": "articles/da03ff2d6e106871352b8014ad315f12.json"
         },
         {
+          "id": "d87acd01707779474ef15d42c2a5eca8",
+          "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363818-17895791972026-09-16t171402z_912914715_rc2hkna0kgel_rtrmadp_0_global-oil.jpeg?v=1789579261&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T22:59:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d87acd01707779474ef15d42c2a5eca8.json"
+        },
+        {
+          "id": "158ab229b0119d1dcd62c3972bab1bdc",
+          "title": "House heads home to campaign amid calls for urgent AI action",
+          "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T22:48:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
+        },
+        {
           "id": "fa436f01659fd43001fe85f5d732bbe0",
           "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
           "image": "https://image.cnbcfm.com/api/v1/image/108342837-1785448087702-gettyimages-2256654494-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
@@ -1381,38 +1413,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/30c3f70a5368b27955cad70df124f37e.json"
-        },
-        {
-          "id": "7dc7a4a46cf067be799ee450cd9c9664",
-          "title": "Jensen Huang says Nvidia will sell twice as many chips next year ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363600-1789563173894-gettyimages-2294939592-DREAMFORCE_2026.jpeg?v=1789678347&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T21:00:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7dc7a4a46cf067be799ee450cd9c9664.json"
-        },
-        {
-          "id": "158ab229b0119d1dcd62c3972bab1bdc",
-          "title": "House heads home to campaign amid calls for urgent AI action",
-          "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T20:41:54.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
         }
       ],
       "path": "articles/bacf0a4f971e41bced20c368ae5debfa.json"
@@ -1693,7 +1693,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T20:41:54.000Z",
+          "published_at": "2026-09-17T22:48:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
@@ -1989,7 +1989,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T20:41:54.000Z",
+          "published_at": "2026-09-17T22:48:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"

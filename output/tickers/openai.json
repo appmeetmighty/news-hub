@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-09-17T20:30:50.942Z",
+  "updated_at": "2026-09-17T20:45:36.051Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
   "total": 7,
   "articles": [
+    {
+      "id": "158ab229b0119d1dcd62c3972bab1bdc",
+      "title": "House heads home to campaign amid calls for urgent AI action",
+      "description": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "xai",
+          "symbol": "XAI",
+          "name": "xAI",
+          "type": "company",
+          "path": "tickers/xai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-17T20:41:54.000Z",
+      "related": [
+        {
+          "id": "eb0cec691ba424df00b2f3270d497f4b",
+          "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T17:36:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+        },
+        {
+          "id": "da03ff2d6e106871352b8014ad315f12",
+          "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363594-1789562931546-gettyimages-2294958253-train0827.jpeg?v=1789562967&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-16T23:05:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/da03ff2d6e106871352b8014ad315f12.json"
+        },
+        {
+          "id": "baf870dabc67f192c079376b9eaca211",
+          "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T19:32:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/baf870dabc67f192c079376b9eaca211.json"
+        },
+        {
+          "id": "e646fb252561e548f9bcf2c985c959aa",
+          "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PYG783YDGVTZQ6W3CRT5PZ/ai-hack-2.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T05:49:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/e646fb252561e548f9bcf2c985c959aa.json"
+        },
+        {
+          "id": "68fcae09b29fd09ada0201af6049b8b2",
+          "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-16T20:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
+        }
+      ],
+      "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
+    },
     {
       "id": "baf870dabc67f192c079376b9eaca211",
       "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
@@ -117,138 +249,6 @@
       "path": "articles/baf870dabc67f192c079376b9eaca211.json"
     },
     {
-      "id": "158ab229b0119d1dcd62c3972bab1bdc",
-      "title": "Amid calls for urgent AI action from Congress, House heads home to campaign",
-      "description": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
-        },
-        {
-          "id": "xai",
-          "symbol": "XAI",
-          "name": "xAI",
-          "type": "company",
-          "path": "tickers/xai.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-17T17:42:00.000Z",
-      "related": [
-        {
-          "id": "eb0cec691ba424df00b2f3270d497f4b",
-          "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T17:36:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
-        },
-        {
-          "id": "da03ff2d6e106871352b8014ad315f12",
-          "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363594-1789562931546-gettyimages-2294958253-train0827.jpeg?v=1789562967&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-16T23:05:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/da03ff2d6e106871352b8014ad315f12.json"
-        },
-        {
-          "id": "baf870dabc67f192c079376b9eaca211",
-          "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T19:32:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/baf870dabc67f192c079376b9eaca211.json"
-        },
-        {
-          "id": "e646fb252561e548f9bcf2c985c959aa",
-          "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PYG783YDGVTZQ6W3CRT5PZ/ai-hack-2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T05:49:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/e646fb252561e548f9bcf2c985c959aa.json"
-        },
-        {
-          "id": "68fcae09b29fd09ada0201af6049b8b2",
-          "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-16T20:31:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
-        }
-      ],
-      "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
-    },
-    {
       "id": "eb0cec691ba424df00b2f3270d497f4b",
       "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
       "description": "King Charles hosted senior AI executives at his Scottish estate to discuss keeping the technology \"in the service of humanity,\" days after industry leaders called for a slowdown.",
@@ -307,7 +307,7 @@
       "related": [
         {
           "id": "158ab229b0119d1dcd62c3972bab1bdc",
-          "title": "Amid calls for urgent AI action from Congress, House heads home to campaign",
+          "title": "House heads home to campaign amid calls for urgent AI action",
           "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -316,7 +316,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T17:42:00.000Z",
+          "published_at": "2026-09-17T20:41:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
@@ -539,7 +539,7 @@
       "related": [
         {
           "id": "158ab229b0119d1dcd62c3972bab1bdc",
-          "title": "Amid calls for urgent AI action from Congress, House heads home to campaign",
+          "title": "House heads home to campaign amid calls for urgent AI action",
           "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -548,7 +548,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T17:42:00.000Z",
+          "published_at": "2026-09-17T20:41:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
@@ -719,7 +719,7 @@
         },
         {
           "id": "158ab229b0119d1dcd62c3972bab1bdc",
-          "title": "Amid calls for urgent AI action from Congress, House heads home to campaign",
+          "title": "House heads home to campaign amid calls for urgent AI action",
           "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -728,7 +728,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T17:42:00.000Z",
+          "published_at": "2026-09-17T20:41:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
@@ -835,7 +835,7 @@
         },
         {
           "id": "158ab229b0119d1dcd62c3972bab1bdc",
-          "title": "Amid calls for urgent AI action from Congress, House heads home to campaign",
+          "title": "House heads home to campaign amid calls for urgent AI action",
           "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -844,7 +844,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T17:42:00.000Z",
+          "published_at": "2026-09-17T20:41:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"

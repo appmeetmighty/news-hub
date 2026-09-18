@@ -1,11 +1,137 @@
 {
-  "updated_at": "2026-09-18T16:15:43.138Z",
+  "updated_at": "2026-09-18T16:31:07.761Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 7,
+  "total": 8,
   "articles": [
+    {
+      "id": "4f4453f869b06eae1e26f0019bb5e599",
+      "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
+      "description": "Dimon joins OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "jpm",
+          "symbol": "JPM",
+          "name": "JPMorgan",
+          "type": "company",
+          "path": "tickers/jpm.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-18T16:21:20.000Z",
+      "related": [
+        {
+          "id": "eb0cec691ba424df00b2f3270d497f4b",
+          "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T17:36:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+        },
+        {
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T14:36:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
+        },
+        {
+          "id": "1c08fff901c71259c8579753880b77c4",
+          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
+          "image": "https://image.cnbcfm.com/api/v1/image/108227464-1763479721013-gettyimages-2245836911-kokovlis-notitle251112_nppPs.jpeg?v=1771016381&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T09:38:17.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1c08fff901c71259c8579753880b77c4.json"
+        },
+        {
+          "id": "7dc7a4a46cf067be799ee450cd9c9664",
+          "title": "Jensen Huang says Nvidia will sell twice as many chips next year ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363600-1789563173894-gettyimages-2294939592-DREAMFORCE_2026.jpeg?v=1789678347&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T21:00:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7dc7a4a46cf067be799ee450cd9c9664.json"
+        },
+        {
+          "id": "2764c5cd9a119baf5ce69cf9e2a15b26",
+          "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-18T12:52:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2764c5cd9a119baf5ce69cf9e2a15b26.json"
+        }
+      ],
+      "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
+    },
     {
       "id": "fe5ce4991dac94274c71e12fb595597c",
       "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
@@ -80,6 +206,22 @@
           "path": "articles/1c08fff901c71259c8579753880b77c4.json"
         },
         {
+          "id": "4f4453f869b06eae1e26f0019bb5e599",
+          "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
+          "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T16:21:20.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
+        },
+        {
           "id": "68fcae09b29fd09ada0201af6049b8b2",
           "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
@@ -110,22 +252,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bc9a8ef47292950dafa0e1f077da0bb9.json"
-        },
-        {
-          "id": "baf870dabc67f192c079376b9eaca211",
-          "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T19:32:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/baf870dabc67f192c079376b9eaca211.json"
         }
       ],
       "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
@@ -328,6 +454,22 @@
           "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
         },
         {
+          "id": "4f4453f869b06eae1e26f0019bb5e599",
+          "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
+          "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T16:21:20.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
+        },
+        {
           "id": "bc9a8ef47292950dafa0e1f077da0bb9",
           "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
@@ -358,22 +500,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/baf870dabc67f192c079376b9eaca211.json"
-        },
-        {
-          "id": "2764c5cd9a119baf5ce69cf9e2a15b26",
-          "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-18T12:52:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2764c5cd9a119baf5ce69cf9e2a15b26.json"
         }
       ],
       "path": "articles/1c08fff901c71259c8579753880b77c4.json"
@@ -678,6 +804,22 @@
           "path": "articles/1c08fff901c71259c8579753880b77c4.json"
         },
         {
+          "id": "4f4453f869b06eae1e26f0019bb5e599",
+          "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
+          "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T16:21:20.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
+        },
+        {
           "id": "bc9a8ef47292950dafa0e1f077da0bb9",
           "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
@@ -724,22 +866,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2764c5cd9a119baf5ce69cf9e2a15b26.json"
-        },
-        {
-          "id": "68fcae09b29fd09ada0201af6049b8b2",
-          "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-16T20:31:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
         }
       ],
       "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T17:30:50.900Z",
+  "updated_at": "2026-09-18T17:45:39.396Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
@@ -8,8 +8,8 @@
   "articles": [
     {
       "id": "4f4453f869b06eae1e26f0019bb5e599",
-      "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
-      "description": "Dimon joins OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+      "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+      "description": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
@@ -45,9 +45,17 @@
           "type": "company",
           "path": "tickers/jpm.json",
           "icon": ""
+        },
+        {
+          "id": "c",
+          "symbol": "C",
+          "name": "Citigroup",
+          "type": "company",
+          "path": "tickers/c.json",
+          "icon": ""
         }
       ],
-      "published_at": "2026-09-18T16:21:20.000Z",
+      "published_at": "2026-09-18T17:34:49.000Z",
       "related": [
         {
           "id": "eb0cec691ba424df00b2f3270d497f4b",
@@ -66,22 +74,6 @@
           "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
         },
         {
-          "id": "fe5ce4991dac94274c71e12fb595597c",
-          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T14:36:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
-        },
-        {
           "id": "1c08fff901c71259c8579753880b77c4",
           "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
           "image": "https://image.cnbcfm.com/api/v1/image/108227464-1763479721013-gettyimages-2245836911-kokovlis-notitle251112_nppPs.jpeg?v=1771016381&w=1920&h=1080",
@@ -98,6 +90,38 @@
           "path": "articles/1c08fff901c71259c8579753880b77c4.json"
         },
         {
+          "id": "c1779e3e7003bb8f8e125437f793d5b9",
+          "title": "StubHub shares tick higher for third day in a row after Citi upgrade",
+          "image": "https://image.cnbcfm.com/api/v1/image/108200067-1758126385911-STUB-OB-Photo-20250917-CC-PRESS-19.jpg?v=1758127167&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T15:09:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c1779e3e7003bb8f8e125437f793d5b9.json"
+        },
+        {
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T14:36:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
+        },
+        {
           "id": "7dc7a4a46cf067be799ee450cd9c9664",
           "title": "Jensen Huang says Nvidia will sell twice as many chips next year ",
           "image": "https://image.cnbcfm.com/api/v1/image/108363600-1789563173894-gettyimages-2294939592-DREAMFORCE_2026.jpeg?v=1789678347&w=1920&h=1080",
@@ -112,22 +136,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7dc7a4a46cf067be799ee450cd9c9664.json"
-        },
-        {
-          "id": "2764c5cd9a119baf5ce69cf9e2a15b26",
-          "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-18T12:52:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2764c5cd9a119baf5ce69cf9e2a15b26.json"
         }
       ],
       "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
@@ -161,7 +169,7 @@
       "related": [
         {
           "id": "4f4453f869b06eae1e26f0019bb5e599",
-          "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
+          "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
           "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -170,7 +178,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T16:21:20.000Z",
+          "published_at": "2026-09-18T17:34:49.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
@@ -317,7 +325,7 @@
         },
         {
           "id": "4f4453f869b06eae1e26f0019bb5e599",
-          "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
+          "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
           "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -326,7 +334,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T16:21:20.000Z",
+          "published_at": "2026-09-18T17:34:49.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"

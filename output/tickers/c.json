@@ -1,11 +1,145 @@
 {
-  "updated_at": "2026-09-18T17:30:50.902Z",
+  "updated_at": "2026-09-18T17:45:39.398Z",
   "id": "c",
   "symbol": "C",
   "name": "Citigroup",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "4f4453f869b06eae1e26f0019bb5e599",
+      "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+      "description": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "jpm",
+          "symbol": "JPM",
+          "name": "JPMorgan",
+          "type": "company",
+          "path": "tickers/jpm.json",
+          "icon": ""
+        },
+        {
+          "id": "c",
+          "symbol": "C",
+          "name": "Citigroup",
+          "type": "company",
+          "path": "tickers/c.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-18T17:34:49.000Z",
+      "related": [
+        {
+          "id": "eb0cec691ba424df00b2f3270d497f4b",
+          "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T17:36:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+        },
+        {
+          "id": "1c08fff901c71259c8579753880b77c4",
+          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
+          "image": "https://image.cnbcfm.com/api/v1/image/108227464-1763479721013-gettyimages-2245836911-kokovlis-notitle251112_nppPs.jpeg?v=1771016381&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T09:38:17.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1c08fff901c71259c8579753880b77c4.json"
+        },
+        {
+          "id": "c1779e3e7003bb8f8e125437f793d5b9",
+          "title": "StubHub shares tick higher for third day in a row after Citi upgrade",
+          "image": "https://image.cnbcfm.com/api/v1/image/108200067-1758126385911-STUB-OB-Photo-20250917-CC-PRESS-19.jpg?v=1758127167&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T15:09:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c1779e3e7003bb8f8e125437f793d5b9.json"
+        },
+        {
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T14:36:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
+        },
+        {
+          "id": "7dc7a4a46cf067be799ee450cd9c9664",
+          "title": "Jensen Huang says Nvidia will sell twice as many chips next year ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363600-1789563173894-gettyimages-2294939592-DREAMFORCE_2026.jpeg?v=1789678347&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T21:00:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7dc7a4a46cf067be799ee450cd9c9664.json"
+        }
+      ],
+      "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
+    },
     {
       "id": "c1779e3e7003bb8f8e125437f793d5b9",
       "title": "StubHub shares tick higher for third day in a row after Citi upgrade",
@@ -33,6 +167,22 @@
       ],
       "published_at": "2026-09-18T15:09:10.000Z",
       "related": [
+        {
+          "id": "4f4453f869b06eae1e26f0019bb5e599",
+          "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+          "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T17:34:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
+        },
         {
           "id": "7dd59a5ca1c86d413cef08e2329c4039",
           "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
@@ -96,22 +246,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b0e2c2bec694a89250ccf096e01c3ab1.json"
-        },
-        {
-          "id": "0ab2a766de59658e51c6c1a9218caba2",
-          "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364335-1789647767748-US_Federal_Reserve_Chair_Kevin_Warsh_Holds_Press_C-2295666677-Getty.jpg?v=1789647774&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T16:33:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 35,
-          "path": "articles/0ab2a766de59658e51c6c1a9218caba2.json"
         }
       ],
       "path": "articles/c1779e3e7003bb8f8e125437f793d5b9.json"

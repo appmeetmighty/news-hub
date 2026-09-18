@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-18T03:01:05.666Z",
+  "updated_at": "2026-09-18T03:15:35.211Z",
   "articles": {
-    "generated_at": "2026-09-18T03:01:05.666Z",
+    "generated_at": "2026-09-18T03:15:35.211Z",
     "topics": [
       {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 33,
+        "count": 32,
         "articles": [
           {
             "id": "4fffbedbf5bdfbc148f46c38f78e436b",
@@ -306,8 +306,22 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 26,
+        "count": 27,
         "articles": [
+          {
+            "id": "a2e6188c97c2f1451d192c6e923f7821",
+            "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin rises against yen",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d87eabe2ada7e5c5fb5014805876879c803feba-3388x2472.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-18T03:03:38.000Z",
+            "path": "articles/a2e6188c97c2f1451d192c6e923f7821.json"
+          },
           {
             "id": "072cdf3758a36601ea806597528063a5",
             "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
@@ -433,20 +447,6 @@
             "category": "crypto",
             "published_at": "2026-09-17T10:41:15.000Z",
             "path": "articles/2461031c9d73f4f9adf0914377bbaaa8.json"
-          },
-          {
-            "id": "425d5dd65f6f10bc42c555bb34d5888a",
-            "title": "Crypto rallies through the Fed's first rate increase since 2023",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/91f3ce4b062bc760da8b3f8f70d238bc125a9f65-1920x1080.png?auto=format&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-17T10:40:01.000Z",
-            "path": "articles/425d5dd65f6f10bc42c555bb34d5888a.json"
           }
         ]
       },
@@ -455,7 +455,7 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 21,
+        "count": 22,
         "articles": [
           {
             "id": "929051d33f6051ddb7a0ae02216a110c",
@@ -753,7 +753,7 @@
         "name": "OpenAI",
         "type": "company",
         "icon": "",
-        "count": 7,
+        "count": 8,
         "articles": [
           {
             "id": "158ab229b0119d1dcd62c3972bab1bdc",
@@ -810,6 +810,20 @@
             "category": "crypto",
             "published_at": "2026-09-17T17:36:02.000Z",
             "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+          },
+          {
+            "id": "eb3b88f3c737374063153a4bca19ab97",
+            "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+            "image": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-17T09:00:01.000Z",
+            "path": "articles/eb3b88f3c737374063153a4bca19ab97.json"
           },
           {
             "id": "e646fb252561e548f9bcf2c985c959aa",
@@ -935,6 +949,71 @@
         ]
       },
       {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
+        "count": 4,
+        "articles": [
+          {
+            "id": "158ab229b0119d1dcd62c3972bab1bdc",
+            "title": "House heads home to campaign amid calls for urgent AI action",
+            "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-17T22:48:08.000Z",
+            "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
+          },
+          {
+            "id": "fa436f01659fd43001fe85f5d732bbe0",
+            "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
+            "image": "https://image.cnbcfm.com/api/v1/image/108342837-1785448087702-gettyimages-2256654494-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-17T22:22:53.000Z",
+            "path": "articles/fa436f01659fd43001fe85f5d732bbe0.json"
+          },
+          {
+            "id": "eb0cec691ba424df00b2f3270d497f4b",
+            "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-17T17:36:02.000Z",
+            "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+          },
+          {
+            "id": "eb3b88f3c737374063153a4bca19ab97",
+            "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+            "image": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-17T09:00:01.000Z",
+            "path": "articles/eb3b88f3c737374063153a4bca19ab97.json"
+          }
+        ]
+      },
+      {
         "id": "eth",
         "name": "Ethereum",
         "type": "crypto",
@@ -996,57 +1075,6 @@
             "category": "crypto",
             "published_at": "2026-09-16T09:01:03.000Z",
             "path": "articles/113fb423fac6c71162109ef065a7312b.json"
-          }
-        ]
-      },
-      {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 3,
-        "articles": [
-          {
-            "id": "158ab229b0119d1dcd62c3972bab1bdc",
-            "title": "House heads home to campaign amid calls for urgent AI action",
-            "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-17T22:48:08.000Z",
-            "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
-          },
-          {
-            "id": "fa436f01659fd43001fe85f5d732bbe0",
-            "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-            "image": "https://image.cnbcfm.com/api/v1/image/108342837-1785448087702-gettyimages-2256654494-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-17T22:22:53.000Z",
-            "path": "articles/fa436f01659fd43001fe85f5d732bbe0.json"
-          },
-          {
-            "id": "eb0cec691ba424df00b2f3270d497f4b",
-            "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-17T17:36:02.000Z",
-            "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
           }
         ]
       },
@@ -1209,43 +1237,6 @@
             "category": "crypto",
             "published_at": "2026-09-17T18:38:10.000Z",
             "path": "articles/c1d4dfdc117002e17a173c28b6dc8a1d.json"
-          }
-        ]
-      },
-      {
-        "id": "mstr",
-        "name": "Strategy",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/strategy.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "a0a5bbfb7ee9505c937382481863d2f6",
-            "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
-            "image": "https://image.cnbcfm.com/api/v1/image/108364044-1789589810562-gettyimages-2270145889-jaa_1413_gxdq6trt.jpeg?v=1789659738&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-17T16:00:17.000Z",
-            "path": "articles/a0a5bbfb7ee9505c937382481863d2f6.json"
-          },
-          {
-            "id": "7a60dd0040420a16c2212057843b7e4f",
-            "title": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion ",
-            "image": "https://image.cnbcfm.com/api/v1/image/108363795-1789578058219-gettyimages-2293982402-POWER_PLAYERS_NY.jpeg?v=1789589801&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-17T10:00:01.000Z",
-            "path": "articles/7a60dd0040420a16c2212057843b7e4f.json"
           }
         ]
       },
@@ -1457,6 +1448,29 @@
         "name": "Netflix",
         "type": "company",
         "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "a0a5bbfb7ee9505c937382481863d2f6",
+            "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
+            "image": "https://image.cnbcfm.com/api/v1/image/108364044-1789589810562-gettyimages-2270145889-jaa_1413_gxdq6trt.jpeg?v=1789659738&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-17T16:00:17.000Z",
+            "path": "articles/a0a5bbfb7ee9505c937382481863d2f6.json"
+          }
+        ]
+      },
+      {
+        "id": "mstr",
+        "name": "Strategy",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/strategy.com",
         "count": 1,
         "articles": [
           {

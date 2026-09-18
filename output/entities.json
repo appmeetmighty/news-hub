@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T12:30:55.620Z",
+  "updated_at": "2026-09-18T12:45:46.115Z",
   "total": 24,
   "entities": [
     {
@@ -7,7 +7,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 30
+      "count": 29
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 27
     },
     {
       "id": "btc",
@@ -16,14 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 26
+      "count": 25
     },
     {
       "id": "ai",
@@ -37,7 +37,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 13
+      "count": 14
     },
     {
       "id": "openai",
@@ -47,6 +47,15 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 8
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 5
     },
     {
       "id": "anthropic",
@@ -63,15 +72,6 @@
       "type": "topic",
       "icon": "",
       "count": 5
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 4
     },
     {
       "id": "oil",

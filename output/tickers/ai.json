@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-09-18T13:30:52.531Z",
+  "updated_at": "2026-09-18T13:45:39.271Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 25,
+  "total": 24,
   "articles": [
+    {
+      "id": "fe5ce4991dac94274c71e12fb595597c",
+      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+      "description": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-18T13:40:46.000Z",
+      "related": [
+        {
+          "id": "2764c5cd9a119baf5ce69cf9e2a15b26",
+          "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-18T12:52:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2764c5cd9a119baf5ce69cf9e2a15b26.json"
+        },
+        {
+          "id": "1c08fff901c71259c8579753880b77c4",
+          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
+          "image": "https://image.cnbcfm.com/api/v1/image/108227464-1763479721013-gettyimages-2245836911-kokovlis-notitle251112_nppPs.jpeg?v=1771016381&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T09:38:17.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1c08fff901c71259c8579753880b77c4.json"
+        },
+        {
+          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
+          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T13:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
+        },
+        {
+          "id": "158ab229b0119d1dcd62c3972bab1bdc",
+          "title": "House heads home to campaign amid calls for urgent AI action",
+          "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-17T22:48:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
+        },
+        {
+          "id": "68fcae09b29fd09ada0201af6049b8b2",
+          "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-16T20:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
+        }
+      ],
+      "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
+    },
     {
       "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
       "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
@@ -63,22 +187,6 @@
           "path": "articles/1c08fff901c71259c8579753880b77c4.json"
         },
         {
-          "id": "eb3b88f3c737374063153a4bca19ab97",
-          "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T09:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/eb3b88f3c737374063153a4bca19ab97.json"
-        },
-        {
           "id": "eb0cec691ba424df00b2f3270d497f4b",
           "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
@@ -125,6 +233,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/fa436f01659fd43001fe85f5d732bbe0.json"
+        },
+        {
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T13:40:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
         }
       ],
       "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
@@ -187,22 +311,6 @@
           "path": "articles/af9cc9576d498a4a3480e8276c3a2312.json"
         },
         {
-          "id": "929051d33f6051ddb7a0ae02216a110c",
-          "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358009-1788376886015-gettyimages-2292651452-G20_INNOVATION_MINISTERIAL.jpeg?v=1788376911&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T23:56:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/929051d33f6051ddb7a0ae02216a110c.json"
-        },
-        {
           "id": "8727cc5b6d9e5fe1ed04a28a45c75006",
           "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
           "image": "https://image.cnbcfm.com/api/v1/image/108217644-1761647141904-gettyimages-1680306744-MESSARI_MAINNET.jpeg?v=1789669147&w=1920&h=1080",
@@ -219,9 +327,9 @@
           "path": "articles/8727cc5b6d9e5fe1ed04a28a45c75006.json"
         },
         {
-          "id": "53506360616dc2fcba3fbcd05e034d90",
-          "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357250-1788288878932-gettyimages-2292525866-TSEdouard.jpeg?v=1788288933&w=1920&h=1080",
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -229,10 +337,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T12:20:03.000Z",
+          "published_at": "2026-09-18T13:40:46.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/53506360616dc2fcba3fbcd05e034d90.json"
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
+        },
+        {
+          "id": "b0e2c2bec694a89250ccf096e01c3ab1",
+          "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+          "image": "https://image.cnbcfm.com/api/v1/image/108270486-17721235542026-02-26t163115z_844363929_rc2rtja79a2n_rtrmadp_0_usa-fed-bowman-senate.jpeg?v=1772123603&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T13:36:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b0e2c2bec694a89250ccf096e01c3ab1.json"
         }
       ],
       "path": "articles/654218d4253cd8c195fc23b6734f4005.json"
@@ -278,6 +402,22 @@
       ],
       "published_at": "2026-09-18T12:52:03.000Z",
       "related": [
+        {
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T13:40:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
+        },
         {
           "id": "bc9a8ef47292950dafa0e1f077da0bb9",
           "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
@@ -341,22 +481,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 40,
           "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
-        },
-        {
-          "id": "e646fb252561e548f9bcf2c985c959aa",
-          "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PYG783YDGVTZQ6W3CRT5PZ/ai-hack-2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T05:49:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/e646fb252561e548f9bcf2c985c959aa.json"
         }
       ],
       "path": "articles/2764c5cd9a119baf5ce69cf9e2a15b26.json"
@@ -403,6 +527,54 @@
           "path": "articles/f4cf5ce756496acbe7b6167e8c949c1f.json"
         },
         {
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T13:40:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
+        },
+        {
+          "id": "b0e2c2bec694a89250ccf096e01c3ab1",
+          "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+          "image": "https://image.cnbcfm.com/api/v1/image/108270486-17721235542026-02-26t163115z_844363929_rc2rtja79a2n_rtrmadp_0_usa-fed-bowman-senate.jpeg?v=1772123603&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T13:36:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b0e2c2bec694a89250ccf096e01c3ab1.json"
+        },
+        {
+          "id": "d5e7268ea8b6736b6cee9eb03076c84f",
+          "title": "Social Security reform plans could sway voters in battleground Senate races, survey finds",
+          "image": "https://image.cnbcfm.com/api/v1/image/108166365-1751380219316-gettyimages-2208901888-MEI-USA-BD-FTRUSC-20250410-030.jpeg?v=1789684961&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T13:15:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d5e7268ea8b6736b6cee9eb03076c84f.json"
+        },
+        {
           "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
           "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
           "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
@@ -417,54 +589,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
-        },
-        {
-          "id": "654218d4253cd8c195fc23b6734f4005",
-          "title": "AI stock swings could affect your 401(k). Here’s what retirement savers need to know",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364509-1789664633343-gettyimages-2289794867-rpmg-g-dv-compoundclip46-xxx-ptg-524.jpeg?v=1789664676&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T12:52:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/654218d4253cd8c195fc23b6734f4005.json"
-        },
-        {
-          "id": "53506360616dc2fcba3fbcd05e034d90",
-          "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357250-1788288878932-gettyimages-2292525866-TSEdouard.jpeg?v=1788288933&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T12:20:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/53506360616dc2fcba3fbcd05e034d90.json"
-        },
-        {
-          "id": "8789d6e91c22c23e3cd13c640aa3b73e",
-          "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
-          "image": "https://image.cnbcfm.com/api/v1/image/107319809-1697706238236-gettyimages-1234257586-UK_NESTLE.jpeg?v=1697707649&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T12:18:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8789d6e91c22c23e3cd13c640aa3b73e.json"
         }
       ],
       "path": "articles/db1bac6d48db770a11eef7d4fbc2d275.json"
@@ -527,9 +651,9 @@
           "path": "articles/8789d6e91c22c23e3cd13c640aa3b73e.json"
         },
         {
-          "id": "eb3b88f3c737374063153a4bca19ab97",
-          "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -537,15 +661,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T09:00:01.000Z",
+          "published_at": "2026-09-18T13:40:46.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/eb3b88f3c737374063153a4bca19ab97.json"
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
         },
         {
-          "id": "654218d4253cd8c195fc23b6734f4005",
-          "title": "AI stock swings could affect your 401(k). Here’s what retirement savers need to know",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364509-1789664633343-gettyimages-2289794867-rpmg-g-dv-compoundclip46-xxx-ptg-524.jpeg?v=1789664676&w=1920&h=1080",
+          "id": "b0e2c2bec694a89250ccf096e01c3ab1",
+          "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+          "image": "https://image.cnbcfm.com/api/v1/image/108270486-17721235542026-02-26t163115z_844363929_rc2rtja79a2n_rtrmadp_0_usa-fed-bowman-senate.jpeg?v=1772123603&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -553,15 +677,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T12:52:14.000Z",
+          "published_at": "2026-09-18T13:36:46.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/654218d4253cd8c195fc23b6734f4005.json"
+          "path": "articles/b0e2c2bec694a89250ccf096e01c3ab1.json"
         },
         {
-          "id": "53506360616dc2fcba3fbcd05e034d90",
-          "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357250-1788288878932-gettyimages-2292525866-TSEdouard.jpeg?v=1788288933&w=1920&h=1080",
+          "id": "d5e7268ea8b6736b6cee9eb03076c84f",
+          "title": "Social Security reform plans could sway voters in battleground Senate races, survey finds",
+          "image": "https://image.cnbcfm.com/api/v1/image/108166365-1751380219316-gettyimages-2208901888-MEI-USA-BD-FTRUSC-20250410-030.jpeg?v=1789684961&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -569,10 +693,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T12:20:03.000Z",
+          "published_at": "2026-09-18T13:15:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/53506360616dc2fcba3fbcd05e034d90.json"
+          "path": "articles/d5e7268ea8b6736b6cee9eb03076c84f.json"
         }
       ],
       "path": "articles/b6f311a8a37e6f41c53c7e98fcec1bff.json"
@@ -635,22 +759,6 @@
           "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
         },
         {
-          "id": "eb3b88f3c737374063153a4bca19ab97",
-          "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T09:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/eb3b88f3c737374063153a4bca19ab97.json"
-        },
-        {
           "id": "158ab229b0119d1dcd62c3972bab1bdc",
           "title": "House heads home to campaign amid calls for urgent AI action",
           "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
@@ -681,6 +789,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+        },
+        {
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T13:40:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
         },
         {
           "id": "fa436f01659fd43001fe85f5d732bbe0",
@@ -743,22 +867,6 @@
           "path": "articles/1c08fff901c71259c8579753880b77c4.json"
         },
         {
-          "id": "929051d33f6051ddb7a0ae02216a110c",
-          "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358009-1788376886015-gettyimages-2292651452-G20_INNOVATION_MINISTERIAL.jpeg?v=1788376911&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T23:56:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/929051d33f6051ddb7a0ae02216a110c.json"
-        },
-        {
           "id": "47a3bb29bf0240336678455b593e4fa9",
           "title": "Bill to curb AI data center utility costs hits snag in Senate",
           "image": "https://image.cnbcfm.com/api/v1/image/108291395-1776197869819-gettyimages-2267107434-090a9297_tovlfxz2.jpeg?v=1789676244&w=1920&h=1080",
@@ -775,9 +883,9 @@
           "path": "articles/47a3bb29bf0240336678455b593e4fa9.json"
         },
         {
-          "id": "eb3b88f3c737374063153a4bca19ab97",
-          "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -785,15 +893,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T09:00:01.000Z",
+          "published_at": "2026-09-18T13:40:46.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/eb3b88f3c737374063153a4bca19ab97.json"
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
         },
         {
-          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
-          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "id": "b0e2c2bec694a89250ccf096e01c3ab1",
+          "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+          "image": "https://image.cnbcfm.com/api/v1/image/108270486-17721235542026-02-26t163115z_844363929_rc2rtja79a2n_rtrmadp_0_usa-fed-bowman-senate.jpeg?v=1772123603&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -801,10 +909,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T13:00:01.000Z",
+          "published_at": "2026-09-18T13:36:46.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
+          "path": "articles/b0e2c2bec694a89250ccf096e01c3ab1.json"
+        },
+        {
+          "id": "d5e7268ea8b6736b6cee9eb03076c84f",
+          "title": "Social Security reform plans could sway voters in battleground Senate races, survey finds",
+          "image": "https://image.cnbcfm.com/api/v1/image/108166365-1751380219316-gettyimages-2208901888-MEI-USA-BD-FTRUSC-20250410-030.jpeg?v=1789684961&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T13:15:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d5e7268ea8b6736b6cee9eb03076c84f.json"
         }
       ],
       "path": "articles/bacf0a4f971e41bced20c368ae5debfa.json"
@@ -849,6 +973,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/34b485a54e5466ceb6092b1c8e970a14.json"
+        },
+        {
+          "id": "78f7a83e386d3f9bd80908be49f28870",
+          "title": "Here’s what happened in crypto today",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-18T13:34:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
         },
         {
           "id": "c2645fc3175fb83c26fd3b0516b98e3c",
@@ -897,139 +1037,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dba8dc6e9aa226ba78bca8ad890450f3.json"
-        },
-        {
-          "id": "93354d2e6cc6a372b96ae1e84be42eac",
-          "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XA5XHGVP1S4E8DGH0JJ4XZ/sponsor-screen-traid2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-18T10:46:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/93354d2e6cc6a372b96ae1e84be42eac.json"
         }
       ],
       "path": "articles/e6766616697e0c59b74f83986a44cdc4.json"
-    },
-    {
-      "id": "929051d33f6051ddb7a0ae02216a110c",
-      "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
-      "description": "Palantir CEO Alex Karp called for \"reasonable guidelines\" on artificial intelligence regulation as tech and policy leaders deliberate over the technology.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108358009-1788376886015-gettyimages-2292651452-G20_INNOVATION_MINISTERIAL.jpeg?v=1788376911&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        },
-        {
-          "id": "regulation",
-          "name": "Regulation",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-17T23:56:17.000Z",
-      "related": [
-        {
-          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
-          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T13:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
-        },
-        {
-          "id": "654218d4253cd8c195fc23b6734f4005",
-          "title": "AI stock swings could affect your 401(k). Here’s what retirement savers need to know",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364509-1789664633343-gettyimages-2289794867-rpmg-g-dv-compoundclip46-xxx-ptg-524.jpeg?v=1789664676&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T12:52:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/654218d4253cd8c195fc23b6734f4005.json"
-        },
-        {
-          "id": "1c08fff901c71259c8579753880b77c4",
-          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-          "image": "https://image.cnbcfm.com/api/v1/image/108227464-1763479721013-gettyimages-2245836911-kokovlis-notitle251112_nppPs.jpeg?v=1771016381&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T09:38:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1c08fff901c71259c8579753880b77c4.json"
-        },
-        {
-          "id": "bacf0a4f971e41bced20c368ae5debfa",
-          "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364242-1789632281214-gettyimages-2286500505-CHINA_KIMI.jpeg?v=1789632321&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T08:41:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bacf0a4f971e41bced20c368ae5debfa.json"
-        },
-        {
-          "id": "a7dfceda417817ca3672d69152c15c00",
-          "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364205-1789623066424-gettyimages-2295400558-dsc02989_rz4zdho6.jpeg?v=1789623129&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T03:31:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a7dfceda417817ca3672d69152c15c00.json"
-        }
-      ],
-      "path": "articles/929051d33f6051ddb7a0ae02216a110c.json"
     },
     {
       "id": "158ab229b0119d1dcd62c3972bab1bdc",
@@ -1113,22 +1123,6 @@
           "path": "articles/1c08fff901c71259c8579753880b77c4.json"
         },
         {
-          "id": "eb3b88f3c737374063153a4bca19ab97",
-          "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T09:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/eb3b88f3c737374063153a4bca19ab97.json"
-        },
-        {
           "id": "eb0cec691ba424df00b2f3270d497f4b",
           "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
@@ -1143,6 +1137,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+        },
+        {
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T13:40:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
         },
         {
           "id": "fa436f01659fd43001fe85f5d732bbe0",
@@ -1345,22 +1355,6 @@
           "path": "articles/1c08fff901c71259c8579753880b77c4.json"
         },
         {
-          "id": "eb3b88f3c737374063153a4bca19ab97",
-          "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T09:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/eb3b88f3c737374063153a4bca19ab97.json"
-        },
-        {
           "id": "158ab229b0119d1dcd62c3972bab1bdc",
           "title": "House heads home to campaign amid calls for urgent AI action",
           "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
@@ -1391,6 +1385,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+        },
+        {
+          "id": "e4614e32118eaecb664450f6470eb678",
+          "title": "Pokémon card curbs send shares of Japanese online marketplace Mercari on a bumpy ride\n",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364726-1789696382773-gettyimages-2201092910-dsc_8820_vlcykedb.jpeg?v=1789696394&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T04:09:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/e4614e32118eaecb664450f6470eb678.json"
         }
       ],
       "path": "articles/fa436f01659fd43001fe85f5d732bbe0.json"
@@ -1677,6 +1687,22 @@
           "path": "articles/1c08fff901c71259c8579753880b77c4.json"
         },
         {
+          "id": "d5e7268ea8b6736b6cee9eb03076c84f",
+          "title": "Social Security reform plans could sway voters in battleground Senate races, survey finds",
+          "image": "https://image.cnbcfm.com/api/v1/image/108166365-1751380219316-gettyimages-2208901888-MEI-USA-BD-FTRUSC-20250410-030.jpeg?v=1789684961&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T13:15:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d5e7268ea8b6736b6cee9eb03076c84f.json"
+        },
+        {
           "id": "bacf0a4f971e41bced20c368ae5debfa",
           "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
           "image": "https://image.cnbcfm.com/api/v1/image/108364242-1789632281214-gettyimages-2286500505-CHINA_KIMI.jpeg?v=1789632321&w=1920&h=1080",
@@ -1693,9 +1719,9 @@
           "path": "articles/bacf0a4f971e41bced20c368ae5debfa.json"
         },
         {
-          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
-          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1703,15 +1729,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T13:00:01.000Z",
+          "published_at": "2026-09-18T13:40:46.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
         },
         {
-          "id": "654218d4253cd8c195fc23b6734f4005",
-          "title": "AI stock swings could affect your 401(k). Here’s what retirement savers need to know",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364509-1789664633343-gettyimages-2289794867-rpmg-g-dv-compoundclip46-xxx-ptg-524.jpeg?v=1789664676&w=1920&h=1080",
+          "id": "b0e2c2bec694a89250ccf096e01c3ab1",
+          "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+          "image": "https://image.cnbcfm.com/api/v1/image/108270486-17721235542026-02-26t163115z_844363929_rc2rtja79a2n_rtrmadp_0_usa-fed-bowman-senate.jpeg?v=1772123603&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1719,26 +1745,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T12:52:14.000Z",
+          "published_at": "2026-09-18T13:36:46.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/654218d4253cd8c195fc23b6734f4005.json"
-        },
-        {
-          "id": "53506360616dc2fcba3fbcd05e034d90",
-          "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357250-1788288878932-gettyimages-2292525866-TSEdouard.jpeg?v=1788288933&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T12:20:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/53506360616dc2fcba3fbcd05e034d90.json"
+          "path": "articles/b0e2c2bec694a89250ccf096e01c3ab1.json"
         }
       ],
       "path": "articles/47a3bb29bf0240336678455b593e4fa9.json"
@@ -2063,22 +2073,6 @@
           "path": "articles/1c08fff901c71259c8579753880b77c4.json"
         },
         {
-          "id": "eb3b88f3c737374063153a4bca19ab97",
-          "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T09:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/eb3b88f3c737374063153a4bca19ab97.json"
-        },
-        {
           "id": "158ab229b0119d1dcd62c3972bab1bdc",
           "title": "House heads home to campaign amid calls for urgent AI action",
           "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
@@ -2109,103 +2103,11 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bc9a8ef47292950dafa0e1f077da0bb9.json"
-        }
-      ],
-      "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
-    },
-    {
-      "id": "eb3b88f3c737374063153a4bca19ab97",
-      "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-      "description": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
         },
         {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-17T09:00:01.000Z",
-      "related": [
-        {
-          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
-          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T13:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
-        },
-        {
-          "id": "1c08fff901c71259c8579753880b77c4",
-          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-          "image": "https://image.cnbcfm.com/api/v1/image/108227464-1763479721013-gettyimages-2245836911-kokovlis-notitle251112_nppPs.jpeg?v=1771016381&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T09:38:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1c08fff901c71259c8579753880b77c4.json"
-        },
-        {
-          "id": "158ab229b0119d1dcd62c3972bab1bdc",
-          "title": "House heads home to campaign amid calls for urgent AI action",
-          "image": "https://image.cnbcfm.com/api/v1/image/108362648-1789413608892-gettyimages-2295263899-cs018683_4w4xlpwy.jpeg?v=1789413681&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T22:48:08.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/158ab229b0119d1dcd62c3972bab1bdc.json"
-        },
-        {
-          "id": "eb0cec691ba424df00b2f3270d497f4b",
-          "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+          "id": "baf870dabc67f192c079376b9eaca211",
+          "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -2213,29 +2115,13 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-17T17:36:02.000Z",
+          "published_at": "2026-09-17T19:32:22.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
-        },
-        {
-          "id": "fa436f01659fd43001fe85f5d732bbe0",
-          "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-          "image": "https://image.cnbcfm.com/api/v1/image/108342837-1785448087702-gettyimages-2256654494-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-17T22:22:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fa436f01659fd43001fe85f5d732bbe0.json"
+          "path": "articles/baf870dabc67f192c079376b9eaca211.json"
         }
       ],
-      "path": "articles/eb3b88f3c737374063153a4bca19ab97.json"
+      "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
     },
     {
       "id": "e646fb252561e548f9bcf2c985c959aa",

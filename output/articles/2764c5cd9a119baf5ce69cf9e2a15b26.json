@@ -1,11 +1,11 @@
 {
-  "id": "baf870dabc67f192c079376b9eaca211",
-  "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
-  "description": "Days after its disputed Navier-Stokes claim, OpenAI says it's made \"substantial progress\" on another Millennium Prize math problem—and won't say which one yet.",
+  "id": "2764c5cd9a119baf5ce69cf9e2a15b26",
+  "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
+  "description": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
-  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+  "url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
+  "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
   "source": {
     "id": "decrypt",
     "name": "Decrypt",
@@ -15,15 +15,29 @@
   "category": "crypto",
   "entities": [
     {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com"
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
       "icon": ""
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
     }
   ],
-  "published_at": "2026-09-17T19:32:22.000Z",
+  "published_at": "2026-09-18T12:52:03.000Z",
   "related": [
     {
       "id": "bc9a8ef47292950dafa0e1f077da0bb9",
@@ -42,6 +56,22 @@
       "path": "articles/bc9a8ef47292950dafa0e1f077da0bb9.json"
     },
     {
+      "id": "baf870dabc67f192c079376b9eaca211",
+      "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-17T19:32:22.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/baf870dabc67f192c079376b9eaca211.json"
+    },
+    {
       "id": "eb0cec691ba424df00b2f3270d497f4b",
       "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
@@ -58,9 +88,9 @@
       "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
     },
     {
-      "id": "2764c5cd9a119baf5ce69cf9e2a15b26",
-      "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
+      "id": "68fcae09b29fd09ada0201af6049b8b2",
+      "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
       "source": {
         "id": "decrypt",
         "name": "Decrypt",
@@ -68,10 +98,10 @@
         "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-09-18T12:52:03.000Z",
+      "published_at": "2026-09-16T20:31:03.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/2764c5cd9a119baf5ce69cf9e2a15b26.json"
+      "breaking_score": 40,
+      "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
     },
     {
       "id": "e646fb252561e548f9bcf2c985c959aa",
@@ -88,22 +118,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 100,
       "path": "articles/e646fb252561e548f9bcf2c985c959aa.json"
-    },
-    {
-      "id": "68fcae09b29fd09ada0201af6049b8b2",
-      "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-16T20:31:03.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 40,
-      "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
     }
   ]
 }

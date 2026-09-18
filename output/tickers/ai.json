@@ -1,10 +1,242 @@
 {
-  "updated_at": "2026-09-18T18:01:11.021Z",
+  "updated_at": "2026-09-18T18:15:50.895Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 20,
+  "total": 21,
   "articles": [
+    {
+      "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
+      "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+      "description": "A coalition of over 100 AI experts are urging independence and transparency from Anthropic, OpenAI and other foundation model labs to conduct evaluations.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-18T17:02:32.000Z",
+      "related": [
+        {
+          "id": "1c08fff901c71259c8579753880b77c4",
+          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
+          "image": "https://image.cnbcfm.com/api/v1/image/108227464-1763479721013-gettyimages-2245836911-kokovlis-notitle251112_nppPs.jpeg?v=1771016381&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T09:38:17.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1c08fff901c71259c8579753880b77c4.json"
+        },
+        {
+          "id": "eb0cec691ba424df00b2f3270d497f4b",
+          "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T17:36:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+        },
+        {
+          "id": "4f4453f869b06eae1e26f0019bb5e599",
+          "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+          "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T17:34:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
+        },
+        {
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T14:36:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
+        },
+        {
+          "id": "bc9a8ef47292950dafa0e1f077da0bb9",
+          "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T22:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bc9a8ef47292950dafa0e1f077da0bb9.json"
+        }
+      ],
+      "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
+    },
+    {
+      "id": "b6f311a8a37e6f41c53c7e98fcec1bff",
+      "title": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
+      "description": "At Salesforce's annual mega-conference in San Francisco, attendees said they get enough value from older AI models.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363216-17894958302026-09-15t180749z_2054840051_rc2ujnapd4i5_rtrmadp_0_tech-ai.jpeg?v=1789495910&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-18T16:31:03.000Z",
+      "related": [
+        {
+          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
+          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T17:02:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
+        },
+        {
+          "id": "8789d6e91c22c23e3cd13c640aa3b73e",
+          "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
+          "image": "https://image.cnbcfm.com/api/v1/image/107319809-1697706238236-gettyimages-1234257586-UK_NESTLE.jpeg?v=1697707649&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T12:18:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8789d6e91c22c23e3cd13c640aa3b73e.json"
+        },
+        {
+          "id": "93b0ef35290e1d154b3147a7672ce6ea",
+          "title": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364556-1789668251957-108364556-1789668204365-gettyimages-2292279246-AFP_C6VB6HD.jpg?v=1789668262&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T18:01:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/93b0ef35290e1d154b3147a7672ce6ea.json"
+        },
+        {
+          "id": "63518d5669f05e6a09036387253a7a6e",
+          "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108265642-1770999745605-gettyimages-2260929059-NASAs_SpaceX_Crew-12_Launch.jpeg?v=1770999822&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T17:41:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/63518d5669f05e6a09036387253a7a6e.json"
+        },
+        {
+          "id": "4f4453f869b06eae1e26f0019bb5e599",
+          "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+          "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T17:34:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
+        }
+      ],
+      "path": "articles/b6f311a8a37e6f41c53c7e98fcec1bff.json"
+    },
     {
       "id": "0c3a63544184245d00ce533ee069518a",
       "title": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
@@ -41,7 +273,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T17:50:11.000Z",
+          "published_at": "2026-09-18T18:01:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/93b0ef35290e1d154b3147a7672ce6ea.json"
@@ -95,9 +327,9 @@
           "path": "articles/7dd59a5ca1c86d413cef08e2329c4039.json"
         },
         {
-          "id": "5bb7b8095ab9f2143bbaad80d7f999a6",
-          "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364511-1789664854712-gettyimages-2295659037-0d6a0926_vbu8bfgq.jpeg?v=1789664883&w=1920&h=1080",
+          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
+          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -105,10 +337,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T16:49:03.000Z",
+          "published_at": "2026-09-18T17:02:32.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5bb7b8095ab9f2143bbaad80d7f999a6.json"
+          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
         }
       ],
       "path": "articles/0c3a63544184245d00ce533ee069518a.json"
@@ -203,6 +435,22 @@
           "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
         },
         {
+          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
+          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T17:02:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
+        },
+        {
           "id": "68fcae09b29fd09ada0201af6049b8b2",
           "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
@@ -217,22 +465,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 40,
           "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
-        },
-        {
-          "id": "bc9a8ef47292950dafa0e1f077da0bb9",
-          "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T22:31:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bc9a8ef47292950dafa0e1f077da0bb9.json"
         }
       ],
       "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
@@ -273,7 +505,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T17:50:11.000Z",
+          "published_at": "2026-09-18T18:01:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/93b0ef35290e1d154b3147a7672ce6ea.json"
@@ -327,9 +559,9 @@
           "path": "articles/7dd59a5ca1c86d413cef08e2329c4039.json"
         },
         {
-          "id": "5bb7b8095ab9f2143bbaad80d7f999a6",
-          "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364511-1789664854712-gettyimages-2295659037-0d6a0926_vbu8bfgq.jpeg?v=1789664883&w=1920&h=1080",
+          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
+          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -337,10 +569,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T16:49:03.000Z",
+          "published_at": "2026-09-18T17:02:32.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5bb7b8095ab9f2143bbaad80d7f999a6.json"
+          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
         }
       ],
       "path": "articles/fd6d8cb913764b7b4dab7fb6e719e67d.json"
@@ -371,6 +603,22 @@
       "published_at": "2026-09-18T12:52:14.000Z",
       "related": [
         {
+          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
+          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T17:02:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
+        },
+        {
           "id": "94ef0d5752c8a2cd9ec81d39afc41f24",
           "title": "We're buying more of this defensive stock ahead of an upcoming long-term catalyst",
           "image": "https://image.cnbcfm.com/api/v1/image/108220762-1762198495342-gettyimages-2244833483-l1066929_qhb4dq4e.jpeg?v=1771535830&w=1920&h=1080",
@@ -397,7 +645,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T17:50:11.000Z",
+          "published_at": "2026-09-18T18:01:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/93b0ef35290e1d154b3147a7672ce6ea.json"
@@ -433,22 +681,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
-        },
-        {
-          "id": "7dd59a5ca1c86d413cef08e2329c4039",
-          "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
-          "image": "https://image.cnbcfm.com/api/v1/image/108306406-1778686452071-gettyimages-2276026044-aw1a4784_cd0lqp8b.jpeg?v=1789748958&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T17:11:39.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7dd59a5ca1c86d413cef08e2329c4039.json"
         }
       ],
       "path": "articles/654218d4253cd8c195fc23b6734f4005.json"
@@ -613,7 +845,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T17:50:11.000Z",
+          "published_at": "2026-09-18T18:01:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/93b0ef35290e1d154b3147a7672ce6ea.json"
@@ -667,9 +899,9 @@
           "path": "articles/7dd59a5ca1c86d413cef08e2329c4039.json"
         },
         {
-          "id": "5bb7b8095ab9f2143bbaad80d7f999a6",
-          "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364511-1789664854712-gettyimages-2295659037-0d6a0926_vbu8bfgq.jpeg?v=1789664883&w=1920&h=1080",
+          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
+          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -677,10 +909,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T16:49:03.000Z",
+          "published_at": "2026-09-18T17:02:32.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5bb7b8095ab9f2143bbaad80d7f999a6.json"
+          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
         }
       ],
       "path": "articles/db1bac6d48db770a11eef7d4fbc2d275.json"
@@ -726,6 +958,22 @@
       ],
       "published_at": "2026-09-18T09:38:17.000Z",
       "related": [
+        {
+          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
+          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T17:02:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
+        },
         {
           "id": "eb0cec691ba424df00b2f3270d497f4b",
           "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
@@ -789,133 +1037,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bc9a8ef47292950dafa0e1f077da0bb9.json"
-        },
-        {
-          "id": "baf870dabc67f192c079376b9eaca211",
-          "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-17T19:32:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/baf870dabc67f192c079376b9eaca211.json"
         }
       ],
       "path": "articles/1c08fff901c71259c8579753880b77c4.json"
-    },
-    {
-      "id": "bacf0a4f971e41bced20c368ae5debfa",
-      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-      "description": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108364242-1789632281214-gettyimages-2286500505-CHINA_KIMI.jpeg?v=1789632321&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-18T08:41:11.000Z",
-      "related": [
-        {
-          "id": "7dd59a5ca1c86d413cef08e2329c4039",
-          "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
-          "image": "https://image.cnbcfm.com/api/v1/image/108306406-1778686452071-gettyimages-2276026044-aw1a4784_cd0lqp8b.jpeg?v=1789748958&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T17:11:39.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7dd59a5ca1c86d413cef08e2329c4039.json"
-        },
-        {
-          "id": "0ab2a766de59658e51c6c1a9218caba2",
-          "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364335-1789647767748-US_Federal_Reserve_Chair_Kevin_Warsh_Holds_Press_C-2295666677-Getty.jpg?v=1789647774&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T16:33:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 35,
-          "path": "articles/0ab2a766de59658e51c6c1a9218caba2.json"
-        },
-        {
-          "id": "1c08fff901c71259c8579753880b77c4",
-          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-          "image": "https://image.cnbcfm.com/api/v1/image/108227464-1763479721013-gettyimages-2245836911-kokovlis-notitle251112_nppPs.jpeg?v=1771016381&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T09:38:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1c08fff901c71259c8579753880b77c4.json"
-        },
-        {
-          "id": "93b0ef35290e1d154b3147a7672ce6ea",
-          "title": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364556-1789668251957-108364556-1789668204365-gettyimages-2292279246-AFP_C6VB6HD.jpg?v=1789668262&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T17:50:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/93b0ef35290e1d154b3147a7672ce6ea.json"
-        },
-        {
-          "id": "63518d5669f05e6a09036387253a7a6e",
-          "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108265642-1770999745605-gettyimages-2260929059-NASAs_SpaceX_Crew-12_Launch.jpeg?v=1770999822&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T17:41:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/63518d5669f05e6a09036387253a7a6e.json"
-        }
-      ],
-      "path": "articles/bacf0a4f971e41bced20c368ae5debfa.json"
     },
     {
       "id": "e6766616697e0c59b74f83986a44cdc4",
@@ -943,9 +1067,9 @@
       "published_at": "2026-09-18T04:11:40.000Z",
       "related": [
         {
-          "id": "34b485a54e5466ceb6092b1c8e970a14",
-          "title": "Polymarket users referred to prosecutors in South Korea: Report",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q8HM2XMP2QNNDJSY3Y2316/hi-polymarket-ban-sk.png",
+          "id": "a8df690f3af70528441b6f24a3d583bf",
+          "title": "Crypto stocks rebound after CLARITY Act selloff",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TRCGEVT9CNFA3RQBK4NDTE/hi-japan-ipo-stocks-explained2.png",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -953,10 +1077,10 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-17T09:37:32.000Z",
+          "published_at": "2026-09-18T17:55:57.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/34b485a54e5466ceb6092b1c8e970a14.json"
+          "breaking_score": 20,
+          "path": "articles/a8df690f3af70528441b6f24a3d583bf.json"
         },
         {
           "id": "dabf7c40942055cd2576ae22cba8e8e8",
@@ -1123,9 +1247,9 @@
           "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
         },
         {
-          "id": "1c08fff901c71259c8579753880b77c4",
-          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-          "image": "https://image.cnbcfm.com/api/v1/image/108227464-1763479721013-gettyimages-2245836911-kokovlis-notitle251112_nppPs.jpeg?v=1771016381&w=1920&h=1080",
+          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
+          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1133,10 +1257,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T09:38:17.000Z",
+          "published_at": "2026-09-18T17:02:32.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1c08fff901c71259c8579753880b77c4.json"
+          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
         }
       ],
       "path": "articles/bc9a8ef47292950dafa0e1f077da0bb9.json"
@@ -1669,6 +1793,22 @@
       "published_at": "2026-09-17T17:36:02.000Z",
       "related": [
         {
+          "id": "1cbb07f1fd48d167f4d1e0f65ee797f0",
+          "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T17:02:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1cbb07f1fd48d167f4d1e0f65ee797f0.json"
+        },
+        {
           "id": "1c08fff901c71259c8579753880b77c4",
           "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
           "image": "https://image.cnbcfm.com/api/v1/image/108227464-1763479721013-gettyimages-2245836911-kokovlis-notitle251112_nppPs.jpeg?v=1771016381&w=1920&h=1080",
@@ -1731,22 +1871,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/baf870dabc67f192c079376b9eaca211.json"
-        },
-        {
-          "id": "2764c5cd9a119baf5ce69cf9e2a15b26",
-          "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-18T12:52:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2764c5cd9a119baf5ce69cf9e2a15b26.json"
         }
       ],
       "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"

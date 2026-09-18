@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T21:01:05.506Z",
-  "total": 26,
+  "updated_at": "2026-09-18T21:15:41.051Z",
+  "total": 27,
   "entities": [
     {
       "id": "crypto",
@@ -14,7 +14,7 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 31
+      "count": 32
     },
     {
       "id": "btc",
@@ -23,7 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
+      "count": 24
     },
     {
       "id": "ai",
@@ -49,29 +49,11 @@
       "count": 9
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 5
-    },
-    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 5
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 4
     },
     {
       "id": "nvda",
@@ -80,6 +62,31 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 4
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 4
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 3
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
       "count": 3
     },
     {
@@ -92,6 +99,15 @@
       "count": 3
     },
     {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 3
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -99,22 +115,6 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 3
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 2
     },
     {
       "id": "mstr",
@@ -169,18 +169,27 @@
       "count": 2
     },
     {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
       "type": "company",
-      "path": "tickers/jpm.json",
-      "icon": "",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
       "count": 1
     },
     {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
       "icon": "",
       "count": 1
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T16:01:09.946Z",
+  "updated_at": "2026-09-18T21:15:41.038Z",
   "id": "aapl",
   "symbol": "AAPL",
   "name": "Apple",
@@ -7,20 +7,20 @@
   "total": 1,
   "articles": [
     {
-      "id": "52014d60e0dbe3b23d3a3568854d98d7",
-      "title": "What Jim Cramer learned at NYC's flagship Apple Store for the iPhone 18 launch",
-      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "id": "d05bd6b800e89a198d4d332351b5048d",
+      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+      "description": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/18/what-cramer-learned-at-nycs-flagship-apple-store-for-iphone-18-launch.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108360599-1788973859322-Screenshot_2026-09-09_at_10932_PM.png?v=1788973905&w=1920&h=1080",
+      "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_flag-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
         {
           "id": "aapl",
@@ -29,14 +29,36 @@
           "type": "company",
           "path": "tickers/aapl.json",
           "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "regulation",
+          "name": "Regulation",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-09-18T15:53:36.000Z",
+      "published_at": "2026-09-18T21:01:30.000Z",
       "related": [
         {
-          "id": "654218d4253cd8c195fc23b6734f4005",
-          "title": "AI stock swings could affect your 401(k). Here’s what retirement savers need to know",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364509-1789664633343-gettyimages-2289794867-rpmg-g-dv-compoundclip46-xxx-ptg-524.jpeg?v=1789664676&w=1920&h=1080",
+          "id": "d0978272c6714ae2a74d57beaaac09bb",
+          "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+          "image": "https://image.cnbcfm.com/api/v1/image/108315896-1780491649482-gettyimages-1175168392-AFP_1LB3WB.jpeg?v=1781036537&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -44,63 +66,47 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T12:52:14.000Z",
+          "published_at": "2026-09-18T19:15:24.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/654218d4253cd8c195fc23b6734f4005.json"
+          "path": "articles/d0978272c6714ae2a74d57beaaac09bb.json"
         },
         {
-          "id": "86043b3a14796e5f4df1c03280566f17",
-          "title": "Jim Cramer says history offers a playbook for navigating a Fed rate-hiking cycle",
-          "image": "https://image.cnbcfm.com/api/v1/image/107109969-NUP_198430_00200r.jpg?v=1694042675&w=1920&h=1080",
+          "id": "eb0cec691ba424df00b2f3270d497f4b",
+          "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-17T22:58:28.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-17T17:36:02.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/86043b3a14796e5f4df1c03280566f17.json"
+          "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
         },
         {
-          "id": "75c762b3c51406f72a560f3235478a43",
-          "title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
-          "image": "https://image.cnbcfm.com/api/v1/image/108348529-1786547823964-gettyimages-2249470426-301076final.jpeg?v=1789742470&w=1920&h=1080",
+          "id": "1802bd4b797c9713e899daf6017ed9f6",
+          "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-18T15:41:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/75c762b3c51406f72a560f3235478a43.json"
-        },
-        {
-          "id": "93b0ef35290e1d154b3147a7672ce6ea",
-          "title": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364556-1789668251957-108364556-1789668204365-gettyimages-2292279246-AFP_C6VB6HD.jpg?v=1789668262&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T15:33:54.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-17T21:16:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/93b0ef35290e1d154b3147a7672ce6ea.json"
+          "path": "articles/1802bd4b797c9713e899daf6017ed9f6.json"
         },
         {
-          "id": "146dbfddd779c667681b9ba0fdf5e3f4",
-          "title": "Why more companies are fighting over consumers' beauty, health and wellness spending",
-          "image": "https://image.cnbcfm.com/api/v1/image/108244150-1766153945265-IMG_0265.jpg?v=1766411885&w=1920&h=1080",
+          "id": "4f4453f869b06eae1e26f0019bb5e599",
+          "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+          "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -108,13 +114,29 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T15:18:38.000Z",
+          "published_at": "2026-09-18T17:34:49.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/146dbfddd779c667681b9ba0fdf5e3f4.json"
+          "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
+        },
+        {
+          "id": "d69efa6f0715150813fda13461239cd7",
+          "title": "Coinbase files to bring single-stock perpetual futures to US market",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2V02EPZ2W43H6167S8HZBPZ/hi-uk-compliance-deadline-is-upcoming-coinbase.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-18T19:53:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d69efa6f0715150813fda13461239cd7.json"
         }
       ],
-      "path": "articles/52014d60e0dbe3b23d3a3568854d98d7.json"
+      "path": "articles/d05bd6b800e89a198d4d332351b5048d.json"
     }
   ]
 }

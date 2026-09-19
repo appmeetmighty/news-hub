@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T13:01:02.780Z",
-  "total": 27,
+  "updated_at": "2026-09-19T13:07:51.923Z",
+  "total": 28,
   "entities": [
     {
       "id": "crypto",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 19
     },
     {
       "id": "blockchain",
@@ -83,15 +83,6 @@
       "count": 4
     },
     {
-      "id": "c",
-      "symbol": "C",
-      "name": "Citigroup",
-      "type": "company",
-      "path": "tickers/c.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
@@ -126,11 +117,29 @@
       "count": 3
     },
     {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 2
+    },
+    {
       "id": "jpm",
       "symbol": "JPM",
       "name": "JPMorgan",
       "type": "company",
       "path": "tickers/jpm.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
       "icon": "",
       "count": 2
     },
@@ -160,13 +169,13 @@
       "count": 2
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
       "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 2
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "nflx",
@@ -203,15 +212,6 @@
       "count": 1
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 1
-    },
-    {
       "id": "xai",
       "symbol": "XAI",
       "name": "xAI",
@@ -227,6 +227,15 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
+      "count": 1
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
       "count": 1
     }
   ]

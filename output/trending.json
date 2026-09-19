@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-19T00:45:35.943Z",
+  "updated_at": "2026-09-19T01:01:02.181Z",
   "articles": {
-    "generated_at": "2026-09-19T00:45:35.943Z",
+    "generated_at": "2026-09-19T01:01:02.181Z",
     "topics": [
       {
         "id": "crypto",
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 21,
+        "count": 22,
         "articles": [
+          {
+            "id": "aff845cc49464eecaddcf339d45b9ebf",
+            "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+            "image": "https://image.cnbcfm.com/api/v1/image/108338205-1784672318255-gettyimages-2286486173-ALPHABET_EARNS.jpeg?v=1784672362&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-19T00:53:27.000Z",
+            "path": "articles/aff845cc49464eecaddcf339d45b9ebf.json"
+          },
           {
             "id": "9dfe2d692b50ec7bd9b23c8ce021164f",
             "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
@@ -582,20 +596,6 @@
             "category": "stocks",
             "published_at": "2026-09-18T12:52:14.000Z",
             "path": "articles/654218d4253cd8c195fc23b6734f4005.json"
-          },
-          {
-            "id": "2764c5cd9a119baf5ce69cf9e2a15b26",
-            "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-18T12:52:03.000Z",
-            "path": "articles/2764c5cd9a119baf5ce69cf9e2a15b26.json"
           }
         ]
       },
@@ -1376,6 +1376,43 @@
         ]
       },
       {
+        "id": "googl",
+        "name": "Google",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/google.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "aff845cc49464eecaddcf339d45b9ebf",
+            "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+            "image": "https://image.cnbcfm.com/api/v1/image/108338205-1784672318255-gettyimages-2286486173-ALPHABET_EARNS.jpeg?v=1784672362&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-19T00:53:27.000Z",
+            "path": "articles/aff845cc49464eecaddcf339d45b9ebf.json"
+          },
+          {
+            "id": "eb0cec691ba424df00b2f3270d497f4b",
+            "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-17T17:36:02.000Z",
+            "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+          }
+        ]
+      },
+      {
         "id": "msft",
         "name": "Microsoft",
         "type": "company",
@@ -1598,6 +1635,29 @@
         ]
       },
       {
+        "id": "gemini",
+        "name": "Gemini",
+        "type": "company",
+        "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "aff845cc49464eecaddcf339d45b9ebf",
+            "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+            "image": "https://image.cnbcfm.com/api/v1/image/108338205-1784672318255-gettyimages-2286486173-ALPHABET_EARNS.jpeg?v=1784672362&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-19T00:53:27.000Z",
+            "path": "articles/aff845cc49464eecaddcf339d45b9ebf.json"
+          }
+        ]
+      },
+      {
         "id": "aapl",
         "name": "Apple",
         "type": "company",
@@ -1709,29 +1769,6 @@
             "category": "crypto",
             "published_at": "2026-09-17T21:16:03.000Z",
             "path": "articles/1802bd4b797c9713e899daf6017ed9f6.json"
-          }
-        ]
-      },
-      {
-        "id": "googl",
-        "name": "Google",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/google.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "eb0cec691ba424df00b2f3270d497f4b",
-            "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-17T17:36:02.000Z",
-            "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
           }
         ]
       },

@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-09-19T18:30:49.521Z",
+  "updated_at": "2026-09-19T18:42:25.852Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "aff845cc49464eecaddcf339d45b9ebf",
+      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+      "description": "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.",
+      "reading_time_minutes": 1,
+      "breaking_score": 60,
+      "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338205-1784672318255-gettyimages-2286486173-ALPHABET_EARNS.jpeg?v=1784672362&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "gemini",
+          "symbol": "GEMINI",
+          "name": "Gemini",
+          "type": "company",
+          "path": "tickers/gemini.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-19T01:41:49.000Z",
+      "related": [
+        {
+          "id": "eb0cec691ba424df00b2f3270d497f4b",
+          "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/king-charles-iii-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-17T17:36:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
+        },
+        {
+          "id": "fe5ce4991dac94274c71e12fb595597c",
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-18T21:35:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fe5ce4991dac94274c71e12fb595597c.json"
+        },
+        {
+          "id": "0476f9b882149398b384dd6cbbd7b97a",
+          "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357948-1788372284045-gettyimages-2293207351-_d3_6965_rh8ewujl.jpeg?v=1788372441&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-19T18:12:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/0476f9b882149398b384dd6cbbd7b97a.json"
+        },
+        {
+          "id": "280c05900b9c24c2a16c607e96069b74",
+          "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-19T16:03:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/280c05900b9c24c2a16c607e96069b74.json"
+        },
+        {
+          "id": "29b4e6af53d4f3beddaef1dba58e7596",
+          "title": "She pays $96 a month to live in Yellowstone National Park: 'Being here has changed my life'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364480-1789748359778-zoe_dlp_sewing_2.jpg?v=1789748579&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-19T14:10:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/29b4e6af53d4f3beddaef1dba58e7596.json"
+        }
+      ],
+      "path": "articles/aff845cc49464eecaddcf339d45b9ebf.json"
+    },
     {
       "id": "eb0cec691ba424df00b2f3270d497f4b",
       "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",

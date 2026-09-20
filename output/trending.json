@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-20T16:01:04.314Z",
+  "updated_at": "2026-09-20T16:15:36.036Z",
   "articles": {
-    "generated_at": "2026-09-20T16:01:04.314Z",
+    "generated_at": "2026-09-20T16:15:36.036Z",
     "topics": [
       {
         "id": "crypto",
@@ -455,7 +455,7 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 23,
+        "count": 22,
         "articles": [
           {
             "id": "008b54e5e59b929889f9aa281c8be518",
@@ -753,7 +753,7 @@
         "name": "OpenAI",
         "type": "company",
         "icon": "",
-        "count": 10,
+        "count": 9,
         "articles": [
           {
             "id": "9dfe2d692b50ec7bd9b23c8ce021164f",
@@ -880,20 +880,6 @@
             "category": "crypto",
             "published_at": "2026-09-17T17:36:02.000Z",
             "path": "articles/eb0cec691ba424df00b2f3270d497f4b.json"
-          },
-          {
-            "id": "68fcae09b29fd09ada0201af6049b8b2",
-            "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-16T20:31:03.000Z",
-            "path": "articles/68fcae09b29fd09ada0201af6049b8b2.json"
           }
         ]
       },
@@ -902,8 +888,22 @@
         "name": "Stablecoin",
         "type": "topic",
         "icon": "",
-        "count": 7,
+        "count": 8,
         "articles": [
+          {
+            "id": "d10f4fd058932230f0e19389098452e7",
+            "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-20T16:01:03.000Z",
+            "path": "articles/d10f4fd058932230f0e19389098452e7.json"
+          },
           {
             "id": "f89a05447405d8b66ca7290f989ee142",
             "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
@@ -1358,6 +1358,57 @@
         ]
       },
       {
+        "id": "jpm",
+        "name": "JPMorgan",
+        "type": "company",
+        "icon": "",
+        "count": 3,
+        "articles": [
+          {
+            "id": "d10f4fd058932230f0e19389098452e7",
+            "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-20T16:01:03.000Z",
+            "path": "articles/d10f4fd058932230f0e19389098452e7.json"
+          },
+          {
+            "id": "62c874e0a153a1901bac7f918325e017",
+            "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/b18ee53b50842f9ee6f7eb1059651463c7e51c9a-765x430.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-19T12:00:00.000Z",
+            "path": "articles/62c874e0a153a1901bac7f918325e017.json"
+          },
+          {
+            "id": "4f4453f869b06eae1e26f0019bb5e599",
+            "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+            "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-18T17:34:49.000Z",
+            "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
+          }
+        ]
+      },
+      {
         "id": "tsla",
         "name": "Tesla",
         "type": "company",
@@ -1534,43 +1585,6 @@
         ]
       },
       {
-        "id": "jpm",
-        "name": "JPMorgan",
-        "type": "company",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "62c874e0a153a1901bac7f918325e017",
-            "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/b18ee53b50842f9ee6f7eb1059651463c7e51c9a-765x430.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-19T12:00:00.000Z",
-            "path": "articles/62c874e0a153a1901bac7f918325e017.json"
-          },
-          {
-            "id": "4f4453f869b06eae1e26f0019bb5e599",
-            "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
-            "image": "https://image.cnbcfm.com/api/v1/image/108332296-1783536310484-gettyimages-2283873133-AFP_B93Z3NJ.jpeg?v=1784054916&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-18T17:34:49.000Z",
-            "path": "articles/4f4453f869b06eae1e26f0019bb5e599.json"
-          }
-        ]
-      },
-      {
         "id": "c",
         "name": "Citigroup",
         "type": "company",
@@ -1715,6 +1729,29 @@
             "category": "crypto",
             "published_at": "2026-09-17T21:16:03.000Z",
             "path": "articles/1802bd4b797c9713e899daf6017ed9f6.json"
+          }
+        ]
+      },
+      {
+        "id": "v",
+        "name": "Visa",
+        "type": "company",
+        "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "d10f4fd058932230f0e19389098452e7",
+            "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-20T16:01:03.000Z",
+            "path": "articles/d10f4fd058932230f0e19389098452e7.json"
           }
         ]
       },

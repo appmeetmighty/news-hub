@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-21T18:30:57.234Z",
-  "total": 31,
+  "updated_at": "2026-09-21T18:45:41.528Z",
+  "total": 32,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 41
+      "count": 40
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 34
+      "count": 33
     },
     {
       "id": "regulation",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 16
+      "count": 18
     },
     {
       "id": "blockchain",
@@ -47,11 +47,11 @@
       "count": 7
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
       "count": 5
     },
@@ -63,6 +63,15 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "mstr",
@@ -81,13 +90,22 @@
       "count": 4
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
       "type": "company",
-      "path": "tickers/openai.json",
+      "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 4
+      "count": 3
+    },
+    {
+      "id": "xai",
+      "symbol": "XAI",
+      "name": "xAI",
+      "type": "company",
+      "path": "tickers/xai.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "aapl",
@@ -117,15 +135,6 @@
       "count": 3
     },
     {
-      "id": "xai",
-      "symbol": "XAI",
-      "name": "xAI",
-      "type": "company",
-      "path": "tickers/xai.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "nft",
       "name": "NFT",
       "type": "topic",
@@ -138,15 +147,6 @@
       "name": "Goldman Sachs",
       "type": "company",
       "path": "tickers/gs.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 2
     },
@@ -178,11 +178,11 @@
       "count": 2
     },
     {
-      "id": "amd",
-      "symbol": "AMD",
-      "name": "AMD",
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
       "type": "company",
-      "path": "tickers/amd.json",
+      "path": "tickers/intc.json",
       "icon": "",
       "count": 1
     },
@@ -193,6 +193,15 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
+      "count": 1
+    },
+    {
+      "id": "amd",
+      "symbol": "AMD",
+      "name": "AMD",
+      "type": "company",
+      "path": "tickers/amd.json",
+      "icon": "",
       "count": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T02:15:40.283Z",
+  "updated_at": "2026-09-21T02:30:52.900Z",
   "total": 32,
   "entities": [
     {
@@ -46,7 +46,7 @@
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 9
+      "count": 8
     },
     {
       "id": "stablecoin",
@@ -54,15 +54,6 @@
       "type": "topic",
       "icon": "",
       "count": 7
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 5
     },
     {
       "id": "anthropic",
@@ -74,10 +65,28 @@
       "count": 5
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
       "icon": "",
+      "count": 4
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 4
     },
     {
@@ -99,15 +108,6 @@
       "count": 4
     },
     {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
@@ -117,13 +117,13 @@
       "count": 3
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
       "icon": "",
-      "count": 3
+      "count": 2
     },
     {
       "id": "sol",
@@ -132,15 +132,6 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 2
-    },
-    {
-      "id": "c",
-      "symbol": "C",
-      "name": "Citigroup",
-      "type": "company",
-      "path": "tickers/c.json",
-      "icon": "",
       "count": 2
     },
     {
@@ -199,6 +190,15 @@
       "name": "Netflix",
       "type": "company",
       "path": "tickers/nflx.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
       "icon": "",
       "count": 1
     },

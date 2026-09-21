@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T15:01:14.930Z",
+  "updated_at": "2026-09-21T15:15:47.473Z",
   "total": 31,
   "entities": [
     {
@@ -37,7 +37,16 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 9
+      "count": 10
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 6
     },
     {
       "id": "stablecoin",
@@ -53,15 +62,6 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 5
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
     },
     {
@@ -117,15 +117,6 @@
       "count": 2
     },
     {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "gs",
       "symbol": "GS",
       "name": "Goldman Sachs",
@@ -171,6 +162,15 @@
       "count": 2
     },
     {
+      "id": "amd",
+      "symbol": "AMD",
+      "name": "AMD",
+      "type": "company",
+      "path": "tickers/amd.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
@@ -201,6 +201,15 @@
       "count": 1
     },
     {
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "v",
       "symbol": "V",
       "name": "Visa",
@@ -224,15 +233,6 @@
       "name": "Netflix",
       "type": "company",
       "path": "tickers/nflx.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "c",
-      "symbol": "C",
-      "name": "Citigroup",
-      "type": "company",
-      "path": "tickers/c.json",
       "icon": "",
       "count": 1
     },

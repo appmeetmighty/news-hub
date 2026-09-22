@@ -1,11 +1,11 @@
 {
-  "id": "4de70f3d9836839c12e72e67219eafd7",
-  "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
-  "description": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
+  "id": "d04a9150d3aa65b228cb7d2def6ecae4",
+  "title": "Trump discloses more than 1,100 July trades, including up to $25 million sales of Microsoft and Amazon",
+  "description": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108306883-1778770220615-108306883-1778759349633-gettyimages-2275560543-CHINA-US-DIPLOMACY.jpg?v=1790028089&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108365805-1790015831463-gettyimages-2294838569-mq2_9537_wghmsdas.jpeg?v=1790015864&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,14 +15,40 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": ""
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com"
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com"
     }
   ],
-  "published_at": "2026-09-21T22:25:33.000Z",
+  "published_at": "2026-09-22T17:10:22.000Z",
   "related": [
+    {
+      "id": "2764c5cd9a119baf5ce69cf9e2a15b26",
+      "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-18T12:52:03.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/2764c5cd9a119baf5ce69cf9e2a15b26.json"
+    },
     {
       "id": "564b8e36855d88ccd4c56e610ee5c319",
       "title": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections",
@@ -56,22 +82,6 @@
       "path": "articles/8f5f482e2551a50fd1384566905281ae.json"
     },
     {
-      "id": "d04a9150d3aa65b228cb7d2def6ecae4",
-      "title": "Trump discloses more than 1,100 July trades, including up to $25 million sales of Microsoft and Amazon",
-      "image": "https://image.cnbcfm.com/api/v1/image/108365805-1790015831463-gettyimages-2294838569-mq2_9537_wghmsdas.jpeg?v=1790015864&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-22T17:10:22.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/d04a9150d3aa65b228cb7d2def6ecae4.json"
-    },
-    {
       "id": "0b5f4b29be8474e1fab32ac5f6cc0daf",
       "title": "Trump snaps at CNN at United Nations: 'You should not be here covering me'",
       "image": "https://image.cnbcfm.com/api/v1/image/108366273-1790092985823-gettyimages-2296573079-20260922_ajr_6184_uc7yby4n.jpeg?v=1790093013&w=1920&h=1080",
@@ -88,9 +98,9 @@
       "path": "articles/0b5f4b29be8474e1fab32ac5f6cc0daf.json"
     },
     {
-      "id": "71263acb60adf608ea0a77d1d280e04e",
-      "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
-      "image": "https://image.cnbcfm.com/api/v1/image/108337032-1784492634402-gettyimages-2281336658-om_strait_of_hormuz_overview_01_jun16_2026_maps4media.jpeg?v=1784492692&w=1920&h=1080",
+      "id": "da06e14a18d6806ccfdca5f714b24a54",
+      "title": "Circle lands $100 million from Binance to ramp up global USDC expansion ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -98,10 +108,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-22T14:05:04.000Z",
+      "published_at": "2026-09-22T15:48:46.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/71263acb60adf608ea0a77d1d280e04e.json"
+      "path": "articles/da06e14a18d6806ccfdca5f714b24a54.json"
     }
   ]
 }

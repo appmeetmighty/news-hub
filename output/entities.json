@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T17:01:22.761Z",
-  "total": 29,
+  "updated_at": "2026-09-22T17:15:41.317Z",
+  "total": 30,
   "entities": [
     {
       "id": "btc",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 14
     },
     {
       "id": "stablecoin",
@@ -65,13 +65,13 @@
       "count": 5
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
       "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 4
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 3
     },
     {
       "id": "jpm",
@@ -89,6 +89,15 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 3
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
       "count": 3
     },
     {
@@ -119,19 +128,37 @@
       "count": 3
     },
     {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 2
+    },
+    {
+      "id": "doge",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "type": "crypto",
+      "path": "tickers/doge.json",
+      "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
+      "count": 2
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 2
+    },
+    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
       "icon": "",
-      "count": 2
-    },
-    {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 2
     },
     {
@@ -162,6 +189,15 @@
       "count": 2
     },
     {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 1
+    },
+    {
       "id": "mining",
       "name": "Mining",
       "type": "topic",
@@ -180,15 +216,6 @@
       "name": "Web3",
       "type": "topic",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "doge",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "type": "crypto",
-      "path": "tickers/doge.json",
-      "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
       "count": 1
     },
     {
@@ -223,24 +250,6 @@
       "type": "company",
       "path": "tickers/v.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 1
-    },
-    {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
       "count": 1
     }
   ]

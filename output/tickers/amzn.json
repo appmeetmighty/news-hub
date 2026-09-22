@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T03:15:35.206Z",
+  "updated_at": "2026-09-22T17:15:41.303Z",
   "id": "amzn",
   "symbol": "AMZN",
   "name": "Amazon",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "818553b02d8949f46611becfeb103346",
-      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-      "description": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
+      "id": "d04a9150d3aa65b228cb7d2def6ecae4",
+      "title": "Trump discloses more than 1,100 July trades, including up to $25 million sales of Microsoft and Amazon",
+      "description": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108214315-17609846542025-10-20t181904z_237714832_rc2ofhalqo8x_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108365805-1790015831463-gettyimages-2294838569-mq2_9537_wghmsdas.jpeg?v=1790015864&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,6 +23,14 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
           "id": "amzn",
           "symbol": "AMZN",
           "name": "Amazon",
@@ -31,44 +39,28 @@
           "icon": "https://logo.clearbit.com/amazon.com"
         }
       ],
-      "published_at": "2026-09-16T21:40:18.000Z",
+      "published_at": "2026-09-22T17:10:22.000Z",
       "related": [
         {
-          "id": "8727cc5b6d9e5fe1ed04a28a45c75006",
-          "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
-          "image": "https://image.cnbcfm.com/api/v1/image/108217644-1761647141904-gettyimages-1680306744-MESSARI_MAINNET.jpeg?v=1789669147&w=1920&h=1080",
+          "id": "2764c5cd9a119baf5ce69cf9e2a15b26",
+          "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-17T17:59:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/8727cc5b6d9e5fe1ed04a28a45c75006.json"
-        },
-        {
-          "id": "609ee8a08a7b63cb64d2066144e1e5d2",
-          "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359692-1788868554792-gettyimages-2293552508-AFP_C7KL3ZQ.jpeg?v=1788868568&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-18T03:09:22.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-18T12:52:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/609ee8a08a7b63cb64d2066144e1e5d2.json"
+          "path": "articles/2764c5cd9a119baf5ce69cf9e2a15b26.json"
         },
         {
-          "id": "53506360616dc2fcba3fbcd05e034d90",
-          "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357250-1788288878932-gettyimages-2292525866-TSEdouard.jpeg?v=1788288933&w=1920&h=1080",
+          "id": "564b8e36855d88ccd4c56e610ee5c319",
+          "title": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364363-1789650417851-gettyimages-2294896333-AA_15092026_2952042.jpeg?v=1789650470&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -76,15 +68,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T01:35:38.000Z",
+          "published_at": "2026-09-22T16:28:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/53506360616dc2fcba3fbcd05e034d90.json"
+          "path": "articles/564b8e36855d88ccd4c56e610ee5c319.json"
         },
         {
-          "id": "d87acd01707779474ef15d42c2a5eca8",
-          "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363818-17895791972026-09-16t171402z_912914715_rc2hkna0kgel_rtrmadp_0_global-oil.jpeg?v=1789579261&w=1920&h=1080",
+          "id": "8f5f482e2551a50fd1384566905281ae",
+          "title": "Trump slams Iran and Cuba, defends AI growth and recounts record in UN speech",
+          "image": "https://image.cnbcfm.com/api/v1/image/108366202-17900877252026-09-22t143106z_725695937_rc2eonax5a1m_rtrmadp_0_un-assembly.jpeg?v=1790087827&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -92,15 +84,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-18T01:04:06.000Z",
+          "published_at": "2026-09-22T16:14:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d87acd01707779474ef15d42c2a5eca8.json"
+          "path": "articles/8f5f482e2551a50fd1384566905281ae.json"
         },
         {
-          "id": "929051d33f6051ddb7a0ae02216a110c",
-          "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358009-1788376886015-gettyimages-2292651452-G20_INNOVATION_MINISTERIAL.jpeg?v=1788376911&w=1920&h=1080",
+          "id": "0b5f4b29be8474e1fab32ac5f6cc0daf",
+          "title": "Trump snaps at CNN at United Nations: 'You should not be here covering me'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108366273-1790092985823-gettyimages-2296573079-20260922_ajr_6184_uc7yby4n.jpeg?v=1790093013&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -108,13 +100,29 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-17T23:56:17.000Z",
+          "published_at": "2026-09-22T16:11:12.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/929051d33f6051ddb7a0ae02216a110c.json"
+          "path": "articles/0b5f4b29be8474e1fab32ac5f6cc0daf.json"
+        },
+        {
+          "id": "da06e14a18d6806ccfdca5f714b24a54",
+          "title": "Circle lands $100 million from Binance to ramp up global USDC expansion ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-22T15:48:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/da06e14a18d6806ccfdca5f714b24a54.json"
         }
       ],
-      "path": "articles/818553b02d8949f46611becfeb103346.json"
+      "path": "articles/d04a9150d3aa65b228cb7d2def6ecae4.json"
     }
   ]
 }

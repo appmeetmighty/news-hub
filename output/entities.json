@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T12:15:37.050Z",
-  "total": 30,
+  "updated_at": "2026-09-22T12:30:56.358Z",
+  "total": 29,
   "entities": [
     {
       "id": "btc",
@@ -23,21 +23,21 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 19
+      "count": 20
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 19
+      "count": 16
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 10
+      "count": 11
     },
     {
       "id": "oil",
@@ -65,15 +65,6 @@
       "count": 5
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 4
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -92,12 +83,12 @@
       "count": 4
     },
     {
-      "id": "xai",
-      "symbol": "XAI",
-      "name": "xAI",
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
       "type": "company",
-      "path": "tickers/xai.json",
-      "icon": "",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 3
     },
     {
@@ -164,9 +155,11 @@
       "count": 2
     },
     {
-      "id": "nft",
-      "name": "NFT",
-      "type": "topic",
+      "id": "xai",
+      "symbol": "XAI",
+      "name": "xAI",
+      "type": "company",
+      "path": "tickers/xai.json",
       "icon": "",
       "count": 2
     },
@@ -212,6 +205,13 @@
       "count": 1
     },
     {
+      "id": "nft",
+      "name": "NFT",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "v",
       "symbol": "V",
       "name": "Visa",
@@ -243,15 +243,6 @@
       "type": "company",
       "path": "tickers/msft.json",
       "icon": "https://logo.clearbit.com/microsoft.com",
-      "count": 1
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
-      "icon": "",
       "count": 1
     }
   ]

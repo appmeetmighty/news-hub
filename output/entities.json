@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T19:15:41.124Z",
-  "total": 30,
+  "updated_at": "2026-09-22T19:30:56.218Z",
+  "total": 29,
   "entities": [
     {
       "id": "btc",
@@ -33,20 +33,20 @@
       "count": 13
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 11
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 11
+      "count": 10
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 9
     },
     {
       "id": "sol",
@@ -55,24 +55,6 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 5
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
       "count": 5
     },
     {
@@ -90,6 +72,24 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "tsla",
@@ -153,30 +153,12 @@
       "count": 2
     },
     {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 2
-    },
-    {
-      "id": "xai",
-      "symbol": "XAI",
-      "name": "xAI",
-      "type": "company",
-      "path": "tickers/xai.json",
-      "icon": "",
       "count": 2
     },
     {
@@ -219,15 +201,6 @@
       "count": 1
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 1
-    },
-    {
       "id": "gemini",
       "symbol": "GEMINI",
       "name": "Gemini",
@@ -237,9 +210,27 @@
       "count": 1
     },
     {
+      "id": "xai",
+      "symbol": "XAI",
+      "name": "xAI",
+      "type": "company",
+      "path": "tickers/xai.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "nft",
       "name": "NFT",
       "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
       "icon": "",
       "count": 1
     },

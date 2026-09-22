@@ -1,11 +1,129 @@
 {
-  "updated_at": "2026-09-22T05:15:40.825Z",
+  "updated_at": "2026-09-22T05:30:50.810Z",
   "id": "tsla",
   "symbol": "TSLA",
   "name": "Tesla",
   "type": "company",
-  "total": 3,
+  "total": 4,
   "articles": [
+    {
+      "id": "c86aebcac072b716268c3446fdbb8a87",
+      "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+      "description": "Elon Musk’s X lets U.S. users tap cashtags such as $BTC to view live charts and access Coinbase, Kraken and other trading platforms.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/163774b1444abc52081546c972d6d021d51f57bd-4076x2913.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        }
+      ],
+      "published_at": "2026-09-22T05:26:00.000Z",
+      "related": [
+        {
+          "id": "14e44b0a1b3dbac1f9d5c0e7d7a0d6ca",
+          "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2dcd10662003a0022d93984b817a9c73360589f8-1510x862.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-22T04:33:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/14e44b0a1b3dbac1f9d5c0e7d7a0d6ca.json"
+        },
+        {
+          "id": "2da93bd8ab632e41b9d4a1c91f1af24a",
+          "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a1e2f13205efa97cb4ae861806260e274408e8f-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-21T20:39:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2da93bd8ab632e41b9d4a1c91f1af24a.json"
+        },
+        {
+          "id": "8a445718cdbab0f11fa948bcff8e32b4",
+          "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-21T12:08:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a445718cdbab0f11fa948bcff8e32b4.json"
+        },
+        {
+          "id": "e4d85ad4754d36bc56bb70367b0aa5f9",
+          "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d107334cc6651d7b9ebd1efc12c22ecb3f170d14-2108x1488.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-21T11:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e4d85ad4754d36bc56bb70367b0aa5f9.json"
+        },
+        {
+          "id": "3b0d1998b2c71d86c698440d06f14694",
+          "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/3575c3207ed2bc2bd87c51cc10597661852223cf-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-21T10:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3b0d1998b2c71d86c698440d06f14694.json"
+        }
+      ],
+      "path": "articles/c86aebcac072b716268c3446fdbb8a87.json"
+    },
     {
       "id": "1f26f983363f630d5f31383afc0e95a1",
       "title": "Tesla makes a move on Southeast Asia's largest EV market. A homegrown giant awaits",
@@ -48,6 +166,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d05bd6b800e89a198d4d332351b5048d.json"
+        },
+        {
+          "id": "c86aebcac072b716268c3446fdbb8a87",
+          "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/163774b1444abc52081546c972d6d021d51f57bd-4076x2913.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-22T05:26:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c86aebcac072b716268c3446fdbb8a87.json"
         },
         {
           "id": "1802bd4b797c9713e899daf6017ed9f6",
@@ -96,22 +230,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/5c6c36210f61902df0d0a310a862451b.json"
-        },
-        {
-          "id": "d9dd7de8e8dd0e97b7485f8c15e59e60",
-          "title": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dog-sled outpost and reopen Cold War base: report",
-          "image": "https://image.cnbcfm.com/api/v1/image/108256548-1769198310705-gettyimages-2257829943-2s4a4978_f5t6ftkr.jpeg?v=1769198363&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-22T05:00:18.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d9dd7de8e8dd0e97b7485f8c15e59e60.json"
         }
       ],
       "path": "articles/1f26f983363f630d5f31383afc0e95a1.json"
@@ -214,6 +332,22 @@
           "path": "articles/1802bd4b797c9713e899daf6017ed9f6.json"
         },
         {
+          "id": "c86aebcac072b716268c3446fdbb8a87",
+          "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/163774b1444abc52081546c972d6d021d51f57bd-4076x2913.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-22T05:26:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c86aebcac072b716268c3446fdbb8a87.json"
+        },
+        {
           "id": "1f26f983363f630d5f31383afc0e95a1",
           "title": "Tesla makes a move on Southeast Asia's largest EV market. A homegrown giant awaits",
           "image": "https://image.cnbcfm.com/api/v1/image/108365413-1789915794841-gettyimages-2290083656-golba-dailylif260808_npwhO.jpeg?v=1789915826&w=1920&h=1080",
@@ -228,22 +362,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1f26f983363f630d5f31383afc0e95a1.json"
-        },
-        {
-          "id": "464984e3725cf486d771c2e35a7e61c3",
-          "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-21T19:26:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/464984e3725cf486d771c2e35a7e61c3.json"
         }
       ],
       "path": "articles/d05bd6b800e89a198d4d332351b5048d.json"
@@ -297,6 +415,22 @@
       ],
       "published_at": "2026-09-17T21:16:03.000Z",
       "related": [
+        {
+          "id": "c86aebcac072b716268c3446fdbb8a87",
+          "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/163774b1444abc52081546c972d6d021d51f57bd-4076x2913.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-22T05:26:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c86aebcac072b716268c3446fdbb8a87.json"
+        },
         {
           "id": "7622f6dd59e9bbe06efef7f93c6f8487",
           "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
@@ -360,22 +494,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/beb0455797612136d7ef71342c784a2a.json"
-        },
-        {
-          "id": "67d28fb3f8f462c6cf06b9c47f7a84cc",
-          "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-21T22:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/67d28fb3f8f462c6cf06b9c47f7a84cc.json"
         }
       ],
       "path": "articles/1802bd4b797c9713e899daf6017ed9f6.json"

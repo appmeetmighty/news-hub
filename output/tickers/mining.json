@@ -1,26 +1,34 @@
 {
-  "updated_at": "2026-09-21T12:01:10.561Z",
+  "updated_at": "2026-09-22T13:45:41.379Z",
   "id": "mining",
   "name": "Mining",
   "type": "topic",
   "total": 1,
   "articles": [
     {
-      "id": "f5fc4baaad1209a1af49df63d24232ce",
-      "title": "Zcash targets November upgrade to make private payments up to three times faster",
-      "description": "NU7 would reduce block times to 25 seconds while setting aside at least 60% of transaction fees to supplement mining rewards beginning in 2031.",
+      "id": "c4e0c2ef0e33498b126b5936f7922829",
+      "title": "Big Questions: Does Satoshi actually own 1.1 million Bitcoin? ",
+      "description": "Researchers can trace an estimated 1.1 million BTC to a distinctive early mining operation. The harder question is whether that miner was actually Satoshi.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/837700a2c31b20bd836c2e16853b6d25f4e30f7f-5400x3600.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "url": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33BT0Q1BGHTTCMHG3PRS55W/magazine-satoshi-may-have-needed-an-alias.jpg",
       "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "mining",
           "name": "Mining",
@@ -28,12 +36,12 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-18T12:50:01.000Z",
+      "published_at": "2026-09-22T13:30:00.000Z",
       "related": [
         {
-          "id": "d79a0f10898406319c5170086db4f88f",
-          "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "37e79010626a589362bf20ca0880c80a",
+          "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f6494245169a9d500020af970873e671f316e11a-1257x707.jpg?auto=format&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -41,77 +49,77 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-19T13:39:15.000Z",
+          "published_at": "2026-09-22T11:35:43.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d79a0f10898406319c5170086db4f88f.json"
+          "path": "articles/37e79010626a589362bf20ca0880c80a.json"
         },
         {
-          "id": "e6272b8cb3c1a6fd21d680d62d108e82",
-          "title": "Zcash Is Running—Devs Want to Make It Faster",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
+          "id": "5175eff6197979ae081388523fcb9bbb",
+          "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M348REMRPFT3JRDK7677JZW0/hi-btc-the-most-popular-crypto-for-purchases-but-bch-and-dash-for-selling-1.jpg",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-18T19:16:03.000Z",
+          "published_at": "2026-09-22T10:00:43.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e6272b8cb3c1a6fd21d680d62d108e82.json"
+          "path": "articles/5175eff6197979ae081388523fcb9bbb.json"
         },
         {
-          "id": "b98092110e69bd157c09143543fdf1a5",
-          "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/836022e61beb061b3b2bfa45f7533380ab7c91f0-1514x848.png?auto=format&q=75",
+          "id": "086b0b7e06bcf67b819c3b853d16ceeb",
+          "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M347CJJKYJ5RRPMPG1G7A89B/market-retake.png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-21T04:03:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/b98092110e69bd157c09143543fdf1a5.json"
-        },
-        {
-          "id": "f5a91db851926a3a6d291ed4e5da4df9",
-          "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-19T13:01:04.000Z",
+          "published_at": "2026-09-22T09:58:26.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/f5a91db851926a3a6d291ed4e5da4df9.json"
+          "path": "articles/086b0b7e06bcf67b819c3b853d16ceeb.json"
         },
         {
-          "id": "96b166a7680bc95549935ac3f399caab",
-          "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/uk-police-decrypt-style-gID_7.jpg@png",
+          "id": "6964d770821529a59f44eec3f26dd81b",
+          "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33Y5TYZKZESE6DRNC3V960G/hi-a-stronger-foundation-for-bitcoin-etf-applications1-3.jpg",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-17T15:21:19.000Z",
+          "published_at": "2026-09-22T07:33:37.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/96b166a7680bc95549935ac3f399caab.json"
+          "path": "articles/6964d770821529a59f44eec3f26dd81b.json"
+        },
+        {
+          "id": "0c761b10a6d38071ac8eae5905d29677",
+          "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32CF788SWBBCQ9G0KVD8FQK/article-covers-253627-bitcoin-bull-trap-bear-market-phase-middle-willy-woo-analyst-960x640.webp",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-21T16:39:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0c761b10a6d38071ac8eae5905d29677.json"
         }
       ],
-      "path": "articles/f5fc4baaad1209a1af49df63d24232ce.json"
+      "path": "articles/c4e0c2ef0e33498b126b5936f7922829.json"
     }
   ]
 }

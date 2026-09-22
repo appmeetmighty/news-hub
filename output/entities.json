@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-22T07:30:54.985Z",
+  "updated_at": "2026-09-22T07:45:39.203Z",
   "total": 30,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 34
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 33
+      "count": 35
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 32
     },
     {
       "id": "ai",
@@ -171,15 +171,6 @@
       "count": 2
     },
     {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "nft",
       "name": "NFT",
       "type": "topic",
@@ -207,6 +198,15 @@
       "type": "crypto",
       "path": "tickers/doge.json",
       "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
+      "count": 1
+    },
+    {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": "",
       "count": 1
     },
     {

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T17:15:40.395Z",
+  "updated_at": "2026-09-23T17:30:55.287Z",
   "id": "stablecoin",
   "name": "Stablecoin",
   "type": "topic",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "0774450090086d19b8b220d85f6418f6",
@@ -42,6 +42,22 @@
       ],
       "published_at": "2026-09-23T15:07:21.000Z",
       "related": [
+        {
+          "id": "69884d27b0549fde88082c9c660024db",
+          "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/42b96dc1a724b07b78b9639f25ea772c627e0e00-1500x801.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T09:17:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/69884d27b0549fde88082c9c660024db.json"
+        },
         {
           "id": "54d4dec11689c897aea410424a0eb61d",
           "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
@@ -105,22 +121,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ead066055a5528111fbba74ff697bec8.json"
-        },
-        {
-          "id": "c8f00a76cb42bce748a0246522032b26",
-          "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-22T15:37:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c8f00a76cb42bce748a0246522032b26.json"
         }
       ],
       "path": "articles/0774450090086d19b8b220d85f6418f6.json"
@@ -156,6 +156,22 @@
       ],
       "published_at": "2026-09-23T13:00:00.000Z",
       "related": [
+        {
+          "id": "69884d27b0549fde88082c9c660024db",
+          "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/42b96dc1a724b07b78b9639f25ea772c627e0e00-1500x801.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T09:17:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/69884d27b0549fde88082c9c660024db.json"
+        },
         {
           "id": "54d4dec11689c897aea410424a0eb61d",
           "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
@@ -219,11 +235,75 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c8f00a76cb42bce748a0246522032b26.json"
+        }
+      ],
+      "path": "articles/2e2cec0039d3394daca901ffeeb859d8.json"
+    },
+    {
+      "id": "69884d27b0549fde88082c9c660024db",
+      "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
+      "description": "The asset manager sees payments as the nearer-term opportunity, while markets for computing capacity remain at an early stage",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/42b96dc1a724b07b78b9639f25ea772c627e0e00-1500x801.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "blk",
+          "symbol": "BLK",
+          "name": "BlackRock",
+          "type": "company",
+          "path": "tickers/blk.json",
+          "icon": "https://logo.clearbit.com/blackrock.com"
         },
         {
-          "id": "521235ed7d60cbe97ae69b7566f7855e",
-          "title": "Binance takes $100M stake in Circle under expanded USDC deal",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34EG4VHJABBH8BW3DK0M075/binance-circle.jpg",
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "stablecoin",
+          "name": "Stablecoin",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-23T09:17:53.000Z",
+      "related": [
+        {
+          "id": "7193ccd5316139e72b3f4e32510d49ff",
+          "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T15:41:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7193ccd5316139e72b3f4e32510d49ff.json"
+        },
+        {
+          "id": "d86f28675682ce227441180e3bc238bb",
+          "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M368H3Z8D0XWGWSGQZKMAXQJ/ai-crypto.jpg",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -231,13 +311,61 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-22T12:18:41.000Z",
+          "published_at": "2026-09-23T04:33:18.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/521235ed7d60cbe97ae69b7566f7855e.json"
+          "path": "articles/d86f28675682ce227441180e3bc238bb.json"
+        },
+        {
+          "id": "54d4dec11689c897aea410424a0eb61d",
+          "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f345c7f333b3a15d015ff97d1ff55ff3908e078d-1352x924.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-22T14:32:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/54d4dec11689c897aea410424a0eb61d.json"
+        },
+        {
+          "id": "0774450090086d19b8b220d85f6418f6",
+          "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/3f541ca1c4a292027ccea331a59077292160ec46-5700x3800.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T15:07:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0774450090086d19b8b220d85f6418f6.json"
+        },
+        {
+          "id": "2e2cec0039d3394daca901ffeeb859d8",
+          "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35XTWCZDYM99J0YR24QM5JZ/stablecoin.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T13:00:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/2e2cec0039d3394daca901ffeeb859d8.json"
         }
       ],
-      "path": "articles/2e2cec0039d3394daca901ffeeb859d8.json"
+      "path": "articles/69884d27b0549fde88082c9c660024db.json"
     },
     {
       "id": "ead066055a5528111fbba74ff697bec8",
@@ -274,7 +402,7 @@
       "related": [
         {
           "id": "5def2ac8b862cb028871111d067a2c46",
-          "title": "Live updates: Bitcoin slips as higher rates and dollar pressure markets",
+          "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/aee32795c430aa165ac30a11d276b0cfb1941893-1920x1030.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
@@ -445,9 +573,9 @@
           "path": "articles/b34e844156f61b6b8a2dcf92c7762b6c.json"
         },
         {
-          "id": "ead066055a5528111fbba74ff697bec8",
-          "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "69884d27b0549fde88082c9c660024db",
+          "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/42b96dc1a724b07b78b9639f25ea772c627e0e00-1500x801.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -455,10 +583,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-23T07:49:23.000Z",
+          "published_at": "2026-09-23T09:17:53.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/ead066055a5528111fbba74ff697bec8.json"
+          "path": "articles/69884d27b0549fde88082c9c660024db.json"
         }
       ],
       "path": "articles/c8f00a76cb42bce748a0246522032b26.json"
@@ -494,6 +622,22 @@
       ],
       "published_at": "2026-09-22T14:32:59.000Z",
       "related": [
+        {
+          "id": "69884d27b0549fde88082c9c660024db",
+          "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/42b96dc1a724b07b78b9639f25ea772c627e0e00-1500x801.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T09:17:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/69884d27b0549fde88082c9c660024db.json"
+        },
         {
           "id": "6b5762cb7dc57375ef25ca1cb48d1e83",
           "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
@@ -557,22 +701,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ead066055a5528111fbba74ff697bec8.json"
-        },
-        {
-          "id": "b34e844156f61b6b8a2dcf92c7762b6c",
-          "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7c7479f93348940c1e771095a453239b6b0e99ae-4898x3265.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-22T12:05:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b34e844156f61b6b8a2dcf92c7762b6c.json"
         }
       ],
       "path": "articles/54d4dec11689c897aea410424a0eb61d.json"
@@ -743,6 +871,22 @@
           "path": "articles/2e2cec0039d3394daca901ffeeb859d8.json"
         },
         {
+          "id": "69884d27b0549fde88082c9c660024db",
+          "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/42b96dc1a724b07b78b9639f25ea772c627e0e00-1500x801.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T09:17:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/69884d27b0549fde88082c9c660024db.json"
+        },
+        {
           "id": "ead066055a5528111fbba74ff697bec8",
           "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -773,22 +917,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c8f00a76cb42bce748a0246522032b26.json"
-        },
-        {
-          "id": "54d4dec11689c897aea410424a0eb61d",
-          "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f345c7f333b3a15d015ff97d1ff55ff3908e078d-1352x924.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-22T14:32:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/54d4dec11689c897aea410424a0eb61d.json"
         }
       ],
       "path": "articles/b34e844156f61b6b8a2dcf92c7762b6c.json"
@@ -991,9 +1119,9 @@
           "path": "articles/0774450090086d19b8b220d85f6418f6.json"
         },
         {
-          "id": "54d4dec11689c897aea410424a0eb61d",
-          "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f345c7f333b3a15d015ff97d1ff55ff3908e078d-1352x924.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "69884d27b0549fde88082c9c660024db",
+          "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/42b96dc1a724b07b78b9639f25ea772c627e0e00-1500x801.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -1001,10 +1129,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-22T14:32:59.000Z",
+          "published_at": "2026-09-23T09:17:53.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/54d4dec11689c897aea410424a0eb61d.json"
+          "path": "articles/69884d27b0549fde88082c9c660024db.json"
         }
       ],
       "path": "articles/3a588b177bf3e5c36414f57b23625d78.json"
@@ -1095,6 +1223,22 @@
           "path": "articles/2e2cec0039d3394daca901ffeeb859d8.json"
         },
         {
+          "id": "69884d27b0549fde88082c9c660024db",
+          "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/42b96dc1a724b07b78b9639f25ea772c627e0e00-1500x801.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T09:17:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/69884d27b0549fde88082c9c660024db.json"
+        },
+        {
           "id": "67d28fb3f8f462c6cf06b9c47f7a84cc",
           "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
@@ -1125,22 +1269,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0774450090086d19b8b220d85f6418f6.json"
-        },
-        {
-          "id": "3322544bec89ce500010d9edce3de5ad",
-          "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M369MS3S9YPWJYY37QN69SJ6/apple-ios-hacker.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-23T05:22:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/3322544bec89ce500010d9edce3de5ad.json"
         }
       ],
       "path": "articles/6b5762cb7dc57375ef25ca1cb48d1e83.json"

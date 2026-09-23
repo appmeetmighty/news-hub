@@ -1,11 +1,11 @@
 {
-  "id": "c8b67b1a16000a887981801cb2ab3aeb",
-  "title": "Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto",
-  "description": "Treasury named AI among five major transitions expected to reshape Australia’s economy, while Coinbase says the report overlooks the digital financial infrastructure AI agents could eventually need.",
+  "id": "3322544bec89ce500010d9edce3de5ad",
+  "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
+  "description": "SlowMist said malicious FomoPeek versions distributed through Apple’s App Store used iOS kernel exploits to escape the sandbox and access sensitive data from other apps.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33SCZ0RYEJVNQ2M2GV8FFPH/crypto-ignore.jpg",
+  "breaking_score": 60,
+  "url": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M369MS3S9YPWJYY37QN69SJ6/apple-ios-hacker.png",
   "source": {
     "id": "cointelegraph",
     "name": "Cointelegraph",
@@ -15,35 +15,53 @@
   "category": "crypto",
   "entities": [
     {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com"
+    },
+    {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": ""
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": ""
     }
   ],
-  "published_at": "2026-09-22T05:29:31.000Z",
+  "published_at": "2026-09-23T05:22:21.000Z",
   "related": [
     {
-      "id": "3322544bec89ce500010d9edce3de5ad",
-      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M369MS3S9YPWJYY37QN69SJ6/apple-ios-hacker.png",
+      "id": "6b5762cb7dc57375ef25ca1cb48d1e83",
+      "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
       "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-09-23T05:22:21.000Z",
+      "published_at": "2026-09-21T16:16:03.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "path": "articles/3322544bec89ce500010d9edce3de5ad.json"
+      "breaking_score": 0,
+      "path": "articles/6b5762cb7dc57375ef25ca1cb48d1e83.json"
+    },
+    {
+      "id": "d05bd6b800e89a198d4d332351b5048d",
+      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_flag-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-18T21:01:30.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/d05bd6b800e89a198d4d332351b5048d.json"
     },
     {
       "id": "d86f28675682ce227441180e3bc238bb",
@@ -92,22 +110,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-    },
-    {
-      "id": "b7b2ba21a2dfedf1d16f5d4d91e234ed",
-      "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32AXNQNHRMA169K2RJHWFNB/hi-crumpling-report-clarity-act.png",
-      "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-09-22T15:55:37.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/b7b2ba21a2dfedf1d16f5d4d91e234ed.json"
     }
   ]
 }

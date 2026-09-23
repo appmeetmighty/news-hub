@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T09:15:41.694Z",
-  "total": 30,
+  "updated_at": "2026-09-23T09:30:54.809Z",
+  "total": 31,
   "entities": [
     {
       "id": "crypto",
@@ -16,28 +16,21 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 34
+      "count": 33
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 18
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 10
+      "count": 17
     },
     {
       "id": "oil",
@@ -46,7 +39,14 @@
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 9
+      "count": 10
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 10
     },
     {
       "id": "blockchain",
@@ -81,6 +81,15 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
+      "count": 2
     },
     {
       "id": "xrp",
@@ -176,15 +185,6 @@
       "count": 1
     },
     {
-      "id": "blk",
-      "symbol": "BLK",
-      "name": "BlackRock",
-      "type": "company",
-      "path": "tickers/blk.json",
-      "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 1
-    },
-    {
       "id": "msft",
       "symbol": "MSFT",
       "name": "Microsoft",
@@ -200,6 +200,15 @@
       "type": "company",
       "path": "tickers/amzn.json",
       "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 1
+    },
+    {
+      "id": "qcom",
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "type": "company",
+      "path": "tickers/qcom.json",
+      "icon": "",
       "count": 1
     },
     {

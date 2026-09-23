@@ -1,11 +1,11 @@
 {
-  "id": "3af290119d12da09138cdb3ee08af6c4",
-  "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
-  "description": "AI is becoming increasingly adept at tasks usually given to junior employees. Some fear the impact it might have on entry-level hiring.",
+  "id": "964d3a81c6b6ed5a452c03bd28f38c4d",
+  "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
+  "description": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/23/ai-workplace-graduate-entry-level-junior-hiring.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108366109-1790078283997-gettyimages-2232978809-codingbg-5.jpeg?v=1790087145&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108366464-1790106895627-gettyimages-2279393456-042a6837_z1kl6pep.jpeg?v=1790106926&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,14 +15,38 @@
   "category": "stocks",
   "entities": [
     {
+      "id": "qcom",
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "type": "company",
+      "path": "tickers/qcom.json",
+      "icon": ""
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-09-23T08:42:34.000Z",
+  "published_at": "2026-09-22T21:09:17.000Z",
   "related": [
+    {
+      "id": "d597ced422f14af26492b1c941ae404e",
+      "title": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours",
+      "image": "https://image.cnbcfm.com/api/v1/image/108279787-1773856963026-gettyimages-2266693711-NVIDIA_GTC.jpeg?v=1779315606&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-22T20:43:48.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/d597ced422f14af26492b1c941ae404e.json"
+    },
     {
       "id": "47a091e7a9fa960331f0bb8382ab3003",
       "title": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
@@ -86,22 +110,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/4a275322321418516fd1fe1db7dd2f03.json"
-    },
-    {
-      "id": "f09d9768025270690e01190e53d388d0",
-      "title": "Oil prices mixed after U.S. and Iran talk for hours at UN meeting ",
-      "image": "https://image.cnbcfm.com/api/v1/image/108359884-1788886378120-gettyimages-2293680970-AA_08092026_2943617.jpeg?v=1788886580&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-23T08:36:50.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/f09d9768025270690e01190e53d388d0.json"
     }
   ]
 }

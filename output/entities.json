@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-23T18:15:44.600Z",
-  "total": 28,
+  "updated_at": "2026-09-23T18:31:03.185Z",
+  "total": 29,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 36
+      "count": 35
     },
     {
       "id": "btc",
@@ -16,35 +16,35 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
+      "count": 27
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 25
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 11
+      "count": 16
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 10
+      "count": 12
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 12
     },
     {
       "id": "oil",
@@ -92,19 +92,19 @@
       "count": 3
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
+      "id": "v",
+      "symbol": "V",
+      "name": "Visa",
+      "type": "company",
+      "path": "tickers/v.json",
       "icon": "",
       "count": 2
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 2
     },
     {
@@ -144,15 +144,6 @@
       "count": 1
     },
     {
-      "id": "v",
-      "symbol": "V",
-      "name": "Visa",
-      "type": "company",
-      "path": "tickers/v.json",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -176,12 +167,30 @@
       "count": 1
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 1
+    },
+    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 1
+    },
+    {
+      "id": "qcom",
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "type": "company",
+      "path": "tickers/qcom.json",
+      "icon": "",
       "count": 1
     },
     {

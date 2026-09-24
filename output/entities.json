@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:45:45.550Z",
+  "updated_at": "2026-09-24T13:01:18.301Z",
   "total": 24,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 30
+      "count": 29
     },
     {
       "id": "btc",
@@ -30,21 +30,14 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 19
+      "count": 18
     },
     {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 10
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 8
+      "count": 11
     },
     {
       "id": "openai",
@@ -52,6 +45,13 @@
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
+      "icon": "",
+      "count": 8
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 7
     },
@@ -62,7 +62,7 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 5
+      "count": 6
     },
     {
       "id": "oil",
@@ -97,6 +97,15 @@
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
       "count": 3
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 2
     },
     {
       "id": "gold",
@@ -142,15 +151,6 @@
       "count": 2
     },
     {
-      "id": "blk",
-      "symbol": "BLK",
-      "name": "BlackRock",
-      "type": "company",
-      "path": "tickers/blk.json",
-      "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 2
-    },
-    {
       "id": "msft",
       "symbol": "MSFT",
       "name": "Microsoft",
@@ -185,12 +185,12 @@
       "count": 1
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 1
     },
     {

@@ -1,11 +1,137 @@
 {
-  "updated_at": "2026-09-24T04:01:10.616Z",
+  "updated_at": "2026-09-24T04:15:41.570Z",
   "id": "doge",
   "symbol": "DOGE",
   "name": "Dogecoin",
   "type": "crypto",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "cc95ea9448d7cb807a0700c057e0fc01",
+      "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+      "description": "A rebound in oil, the strongest U.S. business survey in five years and a poorly received five-year note sale pushed borrowing costs higher, with DOGE leading token losses.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/103927410eef0a1c0322ea5a3075195d82e1c875-1512x856.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "doge",
+          "symbol": "DOGE",
+          "name": "Dogecoin",
+          "type": "crypto",
+          "path": "tickers/doge.json",
+          "icon": "https://assets.coincap.io/assets/icons/doge@2x.png"
+        },
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-24T04:13:01.000Z",
+      "related": [
+        {
+          "id": "68be90b56c2dce394deb9d0fe9b20c5e",
+          "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8d333ae8ef7238f4d75e9152638be0925253a075-1504x844.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T04:10:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/68be90b56c2dce394deb9d0fe9b20c5e.json"
+        },
+        {
+          "id": "c80f8720dda6a43d7d8dab40eb89ce9c",
+          "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin_bull-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T12:26:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c80f8720dda6a43d7d8dab40eb89ce9c.json"
+        },
+        {
+          "id": "c021222f4dd7a2dd81f2f4e65546515c",
+          "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-22T18:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c021222f4dd7a2dd81f2f4e65546515c.json"
+        },
+        {
+          "id": "5def2ac8b862cb028871111d067a2c46",
+          "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/457d09833c99e318ddb1644a7b5213c106532529-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T11:29:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/5def2ac8b862cb028871111d067a2c46.json"
+        },
+        {
+          "id": "85e14c57095926e62109b23e006c9446",
+          "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b804d97a1858ee40b7d0fa8713daab4042685a80-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-23T10:28:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/85e14c57095926e62109b23e006c9446.json"
+        }
+      ],
+      "path": "articles/cc95ea9448d7cb807a0700c057e0fc01.json"
+    },
     {
       "id": "b8ee6a8d07114b0000d6d2b463df1462",
       "title": "Dogecoin Jumps to Highest Price in Months: Here's What's Going On",
@@ -41,6 +167,22 @@
       ],
       "published_at": "2026-09-22T17:09:30.000Z",
       "related": [
+        {
+          "id": "cc95ea9448d7cb807a0700c057e0fc01",
+          "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/103927410eef0a1c0322ea5a3075195d82e1c875-1512x856.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-24T04:13:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cc95ea9448d7cb807a0700c057e0fc01.json"
+        },
         {
           "id": "486b8c225ede23b7f68589fb1f60b148",
           "title": "Tesla Roadster reveal is creating a unique options opportunity, says Mike Khouw",
@@ -104,22 +246,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a790275fea11a6a338bf2c9f87ae013e.json"
-        },
-        {
-          "id": "a14463035b07662ba77f75a28c9236cf",
-          "title": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-23T22:31:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/a14463035b07662ba77f75a28c9236cf.json"
         }
       ],
       "path": "articles/b8ee6a8d07114b0000d6d2b463df1462.json"

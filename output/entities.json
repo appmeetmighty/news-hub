@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-09-24T20:01:10.200Z",
+  "updated_at": "2026-09-24T20:15:43.780Z",
   "total": 23,
   "entities": [
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 27
+    },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 32
+      "count": 26
     },
     {
       "id": "btc",
@@ -16,14 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 25
+      "count": 24
     },
     {
       "id": "ai",
@@ -37,14 +37,23 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 9
+      "count": 11
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 9
+      "count": 7
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "sol",
@@ -80,15 +89,6 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 4
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
       "count": 4
     },
     {

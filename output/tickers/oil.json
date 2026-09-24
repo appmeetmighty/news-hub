@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-24T12:30:54.563Z",
+  "updated_at": "2026-09-24T12:45:45.541Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 5,
+  "total": 4,
   "articles": [
     {
       "id": "7c50d54dc8567b46d76292032fd0ec14",
@@ -33,22 +33,6 @@
       ],
       "published_at": "2026-09-24T12:29:13.000Z",
       "related": [
-        {
-          "id": "40bd8660c485d077df18333d348d74ac",
-          "title": "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions",
-          "image": "https://image.cnbcfm.com/api/v1/image/108366828-1790172113308-gettyimages-2294761085-jr_15996_iu0jqo4b.jpeg?v=1790172134&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-23T19:30:54.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/40bd8660c485d077df18333d348d74ac.json"
-        },
         {
           "id": "cc95ea9448d7cb807a0700c057e0fc01",
           "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
@@ -112,6 +96,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/8032eea8a00b1a0c08f915a17c98eee0.json"
+        },
+        {
+          "id": "0c154857792670d75d0ee3e072738f60",
+          "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
+          "image": "https://image.cnbcfm.com/api/v1/image/108204105-1758825836765-gettyimages-2236984630-AFP_76T76JH.jpeg?v=1758825867&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-24T12:40:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0c154857792670d75d0ee3e072738f60.json"
         }
       ],
       "path": "articles/7c50d54dc8567b46d76292032fd0ec14.json"
@@ -241,116 +241,6 @@
         }
       ],
       "path": "articles/cc95ea9448d7cb807a0700c057e0fc01.json"
-    },
-    {
-      "id": "40bd8660c485d077df18333d348d74ac",
-      "title": "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions",
-      "description": "A diesel export ban would provide only brief relief before prices start to rise again as refiners cut production, experts say.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/23/trump-diesel-export-ban-gas-prices.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108366828-1790172113308-gettyimages-2294761085-jr_15996_iu0jqo4b.jpeg?v=1790172134&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "oil",
-          "symbol": "OIL",
-          "name": "Oil",
-          "type": "commodity",
-          "path": "tickers/oil.json",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-23T19:30:54.000Z",
-      "related": [
-        {
-          "id": "7c50d54dc8567b46d76292032fd0ec14",
-          "title": "Oil prices rise as investors seek progress on U.S.-Iran talks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359883-1788886376156-gettyimages-2293680924-AA_08092026_2943625.jpeg?v=1788886580&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-24T12:29:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7c50d54dc8567b46d76292032fd0ec14.json"
-        },
-        {
-          "id": "cc95ea9448d7cb807a0700c057e0fc01",
-          "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/103927410eef0a1c0322ea5a3075195d82e1c875-1512x856.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-24T04:13:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cc95ea9448d7cb807a0700c057e0fc01.json"
-        },
-        {
-          "id": "c80f8720dda6a43d7d8dab40eb89ce9c",
-          "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin_bull-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-23T12:26:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c80f8720dda6a43d7d8dab40eb89ce9c.json"
-        },
-        {
-          "id": "c021222f4dd7a2dd81f2f4e65546515c",
-          "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-22T18:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c021222f4dd7a2dd81f2f4e65546515c.json"
-        },
-        {
-          "id": "e1ad86f4a41863eba7fc7061c2e57e97",
-          "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
-          "image": "https://image.cnbcfm.com/api/v1/image/108306886-17787594972026-05-14t051409z_67000638_rc2q8laxia4h_rtrmadp_0_china-usa.jpeg?v=1778759519&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-23T21:25:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e1ad86f4a41863eba7fc7061c2e57e97.json"
-        }
-      ],
-      "path": "articles/40bd8660c485d077df18333d348d74ac.json"
     },
     {
       "id": "c80f8720dda6a43d7d8dab40eb89ce9c",

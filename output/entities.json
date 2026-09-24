@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:45:43.206Z",
+  "updated_at": "2026-09-24T18:01:17.378Z",
   "total": 23,
   "entities": [
     {
@@ -10,19 +10,19 @@
       "count": 33
     },
     {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 25
-    },
-    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 26
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
       "count": 25
     },
     {
@@ -47,13 +47,22 @@
       "count": 9
     },
     {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 5
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 6
+      "count": 5
     },
     {
       "id": "sol",
@@ -62,15 +71,6 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 6
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 5
     },
     {
@@ -83,18 +83,18 @@
       "count": 4
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
       "icon": "",
       "count": 3
     },

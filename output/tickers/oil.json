@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:45:43.203Z",
+  "updated_at": "2026-09-24T18:01:17.376Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
@@ -8,8 +8,8 @@
   "articles": [
     {
       "id": "36e119cac9fbc5b4925c2218d1fb5236",
-      "title": "Live updates: Report on U.S./Iran progress gives small lift to markets",
-      "description": "Oil trimmed a near 5% gain to just 2% in the immediate aftermath of the story.",
+      "title": "Live updates: Oil back on the rise as Iran denies report of deal talks",
+      "description": "Bitcoin pulled back to $84,000 as stocks slipped and interest rates rose alongside surging oil prices.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "url": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
@@ -22,6 +22,14 @@
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "oil",
           "symbol": "OIL",
@@ -82,9 +90,9 @@
           "path": "articles/76a2942e006bbb482ec9877a32c9de9e.json"
         },
         {
-          "id": "c3451f755769f95f2ba4f421d1599216",
-          "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/70172f53cfba9b4db9ca138599dd8ee6f4d188da-1920x1080.png?auto=format&q=75",
+          "id": "a861e4dc22e51f0d341e9ee399817e7d",
+          "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/4889aa09a0863ef0cebc37a86da760e7c58f0735-2667x4000.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.6803&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -92,15 +100,15 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-24T15:48:20.000Z",
+          "published_at": "2026-09-24T14:49:28.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/c3451f755769f95f2ba4f421d1599216.json"
+          "breaking_score": 0,
+          "path": "articles/a861e4dc22e51f0d341e9ee399817e7d.json"
         },
         {
-          "id": "4052d700e3103e54716f323cb19212f5",
-          "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits ",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a55120319f442a7083bbe28359db7f277af29df-5745x3830.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "c125734ce7625c9a78465948b12d96bb",
+          "title": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ade86ac4fe10ad0fc72325b3f7ed097c7a1aaa2-1920x1080.png?auto=format&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -108,10 +116,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-24T15:07:18.000Z",
+          "published_at": "2026-09-24T10:30:28.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/4052d700e3103e54716f323cb19212f5.json"
+          "breaking_score": 0,
+          "path": "articles/c125734ce7625c9a78465948b12d96bb.json"
         }
       ],
       "path": "articles/36e119cac9fbc5b4925c2218d1fb5236.json"
@@ -176,6 +184,22 @@
           "path": "articles/c125734ce7625c9a78465948b12d96bb.json"
         },
         {
+          "id": "36e119cac9fbc5b4925c2218d1fb5236",
+          "title": "Live updates: Oil back on the rise as Iran denies report of deal talks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6bdbe22082c98adcf64b6d8bf9594dea613291f5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-24T11:20:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/36e119cac9fbc5b4925c2218d1fb5236.json"
+        },
+        {
           "id": "c80f8720dda6a43d7d8dab40eb89ce9c",
           "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin_bull-gID_7.png@png",
@@ -222,22 +246,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/40f1b8ff9181e7da8406556bc55567dc.json"
-        },
-        {
-          "id": "a861e4dc22e51f0d341e9ee399817e7d",
-          "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/4889aa09a0863ef0cebc37a86da760e7c58f0735-2667x4000.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.6803&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-24T14:49:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a861e4dc22e51f0d341e9ee399817e7d.json"
         }
       ],
       "path": "articles/cc95ea9448d7cb807a0700c057e0fc01.json"
@@ -300,6 +308,22 @@
           "path": "articles/cc95ea9448d7cb807a0700c057e0fc01.json"
         },
         {
+          "id": "36e119cac9fbc5b4925c2218d1fb5236",
+          "title": "Live updates: Oil back on the rise as Iran denies report of deal talks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6bdbe22082c98adcf64b6d8bf9594dea613291f5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-24T11:20:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/36e119cac9fbc5b4925c2218d1fb5236.json"
+        },
+        {
           "id": "042c5e1ccd33aa3b48ce1b2f65371d1c",
           "title": "Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bitcoin-winter-gID_7.png@png",
@@ -346,22 +370,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0cbe1242387f7d9551f98d31ef5559af.json"
-        },
-        {
-          "id": "de3efca62b1f3f4d35ab54b6e4af4622",
-          "title": "Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/995fe6b083a6cf795f3145a7c0c6b1d1eea43fa5-1204x764.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-24T10:11:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 55,
-          "path": "articles/de3efca62b1f3f4d35ab54b6e4af4622.json"
         }
       ],
       "path": "articles/c80f8720dda6a43d7d8dab40eb89ce9c.json"

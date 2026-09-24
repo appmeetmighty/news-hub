@@ -1,11 +1,11 @@
 {
-  "id": "1854754446a4aa9002e942219d08beb6",
-  "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-  "description": "Cox analysts said Ford and General Motors are seeing sales lag because they don't have many hybrid vehicles.",
+  "id": "a99d7b5f31caef21d7a92f6fa40db08b",
+  "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
+  "description": "Elon Musk's automaker is set to open its first heavy-duty truck factory in Sparks, Nevada, as Tesla seeks to expand its reach.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108287670-1775515626092-NYIAS_04022026_DeVries-238.jpg?v=1775515991&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108367797-1790286809308-gettyimages-2274878284-actexpoevvehicles1558.jpeg?v=1790286934&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,8 +13,17 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-24T18:46:46.000Z",
+  "entities": [
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com"
+    }
+  ],
+  "published_at": "2026-09-24T22:41:11.000Z",
   "related": [
     {
       "id": "43f6eafcdc8d067a177c10933d0976ca",
@@ -31,22 +40,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 20,
       "path": "articles/43f6eafcdc8d067a177c10933d0976ca.json"
-    },
-    {
-      "id": "a99d7b5f31caef21d7a92f6fa40db08b",
-      "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
-      "image": "https://image.cnbcfm.com/api/v1/image/108367797-1790286809308-gettyimages-2274878284-actexpoevvehicles1558.jpeg?v=1790286934&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-24T22:41:11.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/a99d7b5f31caef21d7a92f6fa40db08b.json"
     },
     {
       "id": "3dfdd4a48addffaf54aabea026956774",
@@ -95,6 +88,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/50526c76d67c3c144f4f59c04659a542.json"
+    },
+    {
+      "id": "55588a56234d2246c0958921af5e5628",
+      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven",
+      "image": "https://image.cnbcfm.com/api/v1/image/108367424-1790256490105-gettyimages-2296209094-META_CONNECT.jpeg?v=1790256521&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-24T21:17:08.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/55588a56234d2246c0958921af5e5628.json"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-24T11:45:43.473Z",
-  "total": 26,
+  "updated_at": "2026-09-24T12:01:10.249Z",
+  "total": 25,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 30
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -12,18 +19,11 @@
       "count": 30
     },
     {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 29
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 25
+      "count": 26
     },
     {
       "id": "ai",
@@ -40,6 +40,15 @@
       "count": 10
     },
     {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 8
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -47,13 +56,13 @@
       "count": 8
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
       "type": "company",
-      "path": "tickers/openai.json",
+      "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 7
+      "count": 6
     },
     {
       "id": "oil",
@@ -61,15 +70,6 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 5
     },
@@ -160,6 +160,15 @@
       "count": 2
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 1
+    },
+    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
@@ -200,24 +209,6 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 1
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 1
-    },
-    {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
-      "icon": "",
       "count": 1
     }
   ]

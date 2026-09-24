@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-24T13:01:18.301Z",
-  "total": 24,
+  "updated_at": "2026-09-24T13:15:41.599Z",
+  "total": 25,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 29
+      "count": 30
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
+      "count": 27
     },
     {
       "id": "regulation",
@@ -49,11 +49,13 @@
       "count": 8
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 7
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 6
     },
     {
       "id": "anthropic",
@@ -61,6 +63,13 @@
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 6
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 6
     },
@@ -81,15 +90,6 @@
       "count": 3
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 3
-    },
-    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
@@ -97,6 +97,15 @@
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
       "count": 3
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 2
     },
     {
       "id": "eth",
@@ -124,15 +133,6 @@
       "count": 2
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 2
-    },
-    {
       "id": "doge",
       "symbol": "DOGE",
       "name": "Dogecoin",
@@ -149,6 +149,15 @@
       "path": "tickers/v.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "msft",

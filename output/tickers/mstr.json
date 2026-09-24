@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:01:18.299Z",
+  "updated_at": "2026-09-24T13:15:41.584Z",
   "id": "mstr",
   "symbol": "MSTR",
   "name": "Strategy",
@@ -7,21 +7,29 @@
   "total": 2,
   "articles": [
     {
-      "id": "4e132a5f73027ff14107c2802a44bd4e",
-      "title": "Novo's new strategy hinges on something it can't manufacture: investor trust",
-      "description": "Novo has now reached the point where it can broaden its ambitions again, CEO Mike Doustdar told CNBC, but investors remain unconvinced.",
+      "id": "56c4826ae4574343fe6a4997665dbb9f",
+      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
+      "description": "Rachel Conlan arrives as chief strategy officer and Polygon Labs' Jamal Raees takes over payments, both recruited from elsewhere in crypto.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/24/novo-nordisk-ceo-rebuild-investor-trust-strategy-backlash.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108263202-1770641277820-gettyimages-2257461586-64393_48_ms_4235.jpeg?v=1777907068&w=1920&h=1080",
+      "url": "https://decrypt.co/379179/solana-foundation-hires-binances-former-global-cmo-for-institutional-push",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "sol",
+          "symbol": "SOL",
+          "name": "Solana",
+          "type": "crypto",
+          "path": "tickers/sol.json",
+          "icon": "https://assets.coincap.io/assets/icons/sol@2x.png"
+        },
         {
           "id": "mstr",
           "symbol": "MSTR",
@@ -29,14 +37,36 @@
           "type": "company",
           "path": "tickers/mstr.json",
           "icon": "https://logo.clearbit.com/strategy.com"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-09-24T06:20:12.000Z",
+      "published_at": "2026-09-24T13:03:03.000Z",
       "related": [
         {
-          "id": "9b6e47791e21b12005d6308ae9da9415",
-          "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37S20R41W4NRY3RF09G3JDY/white-house-crypto2.png",
+          "id": "8ec6dd7ae484b12b4f9493a45ea255c7",
+          "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/be69f7e3e9544b2f09ff312d461acfec072b473d-2047x1323.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-24T13:00:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8ec6dd7ae484b12b4f9493a45ea255c7.json"
+        },
+        {
+          "id": "d55f143d251daa657615ec7f2bfbec4d",
+          "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39JWHV7JJM2NSF9JN0CNNVM/hi-are-the-big-corporations-that-are-joining-the-crypto-market-now-still-early-adopters-solana.jpg",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -44,77 +74,61 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-23T19:05:14.000Z",
+          "published_at": "2026-09-24T13:00:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9b6e47791e21b12005d6308ae9da9415.json"
+          "path": "articles/d55f143d251daa657615ec7f2bfbec4d.json"
         },
         {
-          "id": "795e8569ed97a1abc728f5f2965eec23",
-          "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off'  ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108366899-1790176840136-gettyimages-2286450668-xhg217.jpeg?v=1790176854&w=1920&h=1080",
+          "id": "6ffe2426cec3570b6c2ea4a5121f1f5a",
+          "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3805C8FH8HWMHMANF3VXJW2/investigation-search.png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-24T03:38:03.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-23T20:43:56.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/795e8569ed97a1abc728f5f2965eec23.json"
+          "breaking_score": 60,
+          "path": "articles/6ffe2426cec3570b6c2ea4a5121f1f5a.json"
         },
         {
-          "id": "8032eea8a00b1a0c08f915a17c98eee0",
-          "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367298-1790236964781-gettyimages-2284404331-vcg111651831899.jpeg?v=1790237009&w=1920&h=1080",
+          "id": "83539a2fa129ccb083a0b78112b0f537",
+          "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-24T13:00:30.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-22T19:00:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8032eea8a00b1a0c08f915a17c98eee0.json"
+          "path": "articles/83539a2fa129ccb083a0b78112b0f537.json"
         },
         {
-          "id": "0c154857792670d75d0ee3e072738f60",
-          "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
-          "image": "https://image.cnbcfm.com/api/v1/image/108204105-1758825836765-gettyimages-2236984630-AFP_76T76JH.jpeg?v=1758825867&w=1920&h=1080",
+          "id": "73a346fb8572609cb5a7cb597d70fae0",
+          "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3995AEZDZAHF7KGY7TNVJAH/bitwise-report.png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-24T12:40:27.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-24T09:18:16.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/0c154857792670d75d0ee3e072738f60.json"
-        },
-        {
-          "id": "984d1f88182dc8d79d1a616a0730469c",
-          "title": "Russia ‘truly’ appreciates U.S. invite to G20 summit — but hasn't decided if Putin will go",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367392-1790253247707-gettyimages-2295851432-AFP_C8VV4AA.jpeg?v=1790253304&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-24T12:36:08.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/984d1f88182dc8d79d1a616a0730469c.json"
+          "path": "articles/73a346fb8572609cb5a7cb597d70fae0.json"
         }
       ],
-      "path": "articles/4e132a5f73027ff14107c2802a44bd4e.json"
+      "path": "articles/56c4826ae4574343fe6a4997665dbb9f.json"
     },
     {
       "id": "9b6e47791e21b12005d6308ae9da9415",
@@ -150,20 +164,36 @@
       "published_at": "2026-09-23T19:05:14.000Z",
       "related": [
         {
-          "id": "4e132a5f73027ff14107c2802a44bd4e",
-          "title": "Novo's new strategy hinges on something it can't manufacture: investor trust",
-          "image": "https://image.cnbcfm.com/api/v1/image/108263202-1770641277820-gettyimages-2257461586-64393_48_ms_4235.jpeg?v=1777907068&w=1920&h=1080",
+          "id": "56c4826ae4574343fe6a4997665dbb9f",
+          "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-24T06:20:12.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-24T13:03:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4e132a5f73027ff14107c2802a44bd4e.json"
+          "path": "articles/56c4826ae4574343fe6a4997665dbb9f.json"
+        },
+        {
+          "id": "d55f143d251daa657615ec7f2bfbec4d",
+          "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39JWHV7JJM2NSF9JN0CNNVM/hi-are-the-big-corporations-that-are-joining-the-crypto-market-now-still-early-adopters-solana.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-24T13:00:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d55f143d251daa657615ec7f2bfbec4d.json"
         },
         {
           "id": "80261c1aa3283402e911e55387f5d0bc",
@@ -212,22 +242,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bc28d994e0ab91aa11741cbd6e301c3c.json"
-        },
-        {
-          "id": "0cbe1242387f7d9551f98d31ef5559af",
-          "title": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39DMPB9D0YK3WGEPKGDB4BW/market-fall-escalator-down-price.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-24T10:15:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0cbe1242387f7d9551f98d31ef5559af.json"
         }
       ],
       "path": "articles/9b6e47791e21b12005d6308ae9da9415.json"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:15:42.579Z",
+  "updated_at": "2026-09-24T17:30:58.512Z",
   "total": 23,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 31
+      "count": 32
     },
     {
       "id": "btc",
@@ -23,25 +23,25 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 25
+      "count": 24
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 18
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 11
+      "count": 17
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 9
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 9
@@ -53,7 +53,7 @@
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 7
+      "count": 6
     },
     {
       "id": "sol",
@@ -65,12 +65,12 @@
       "count": 6
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
       "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 5
     },
     {
@@ -83,6 +83,15 @@
       "count": 4
     },
     {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -92,12 +101,10 @@
       "count": 4
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
       "count": 3
     },
     {
@@ -107,14 +114,7 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 3
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 3
+      "count": 2
     },
     {
       "id": "gold",

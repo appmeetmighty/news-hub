@@ -110,24 +110,24 @@ async function fetchLive() {
   // MARKET CLOSED
   // ----------------------------------------------------------
 
-  if (!isMarketOpen()) {
-    console.log("⏸️ US market is closed.");
-    console.log("🚫 Skipping Scrappa API request.");
-    console.log(
-      "📌 Final closing price will be updated by the history job."
-    );
+  // if (!isMarketOpen()) {
+  //   console.log("⏸️ US market is closed.");
+  //   console.log("🚫 Skipping Scrappa API request.");
+  //   console.log(
+  //     "📌 Final closing price will be updated by the history job."
+  //   );
 
-    // IMPORTANT:
-    // Do not modify dow_jones.json here.
-    //
-    // The last live price may be an intraday price and may NOT
-    // be the actual final closing price.
-    //
-    // The history job will update dow_jones.json with the
-    // actual final closing price after the market closes.
+  //   // IMPORTANT:
+  //   // Do not modify dow_jones.json here.
+  //   //
+  //   // The last live price may be an intraday price and may NOT
+  //   // be the actual final closing price.
+  //   //
+  //   // The history job will update dow_jones.json with the
+  //   // actual final closing price after the market closes.
 
-    return;
-  }
+  //   return;
+  // }
 
   // ----------------------------------------------------------
   // MARKET OPEN

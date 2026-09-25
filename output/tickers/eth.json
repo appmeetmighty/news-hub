@@ -1,11 +1,127 @@
 {
-  "updated_at": "2026-09-25T18:30:56.259Z",
+  "updated_at": "2026-09-25T18:45:40.950Z",
   "id": "eth",
   "symbol": "ETH",
   "name": "Ethereum",
   "type": "crypto",
-  "total": 3,
+  "total": 4,
   "articles": [
+    {
+      "id": "566ccbc96dd9a884ce1bf6992d1440f9",
+      "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+      "description": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
+      "reading_time_minutes": 1,
+      "breaking_score": 100,
+      "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
+        {
+          "id": "stablecoin",
+          "name": "Stablecoin",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-25T18:42:51.000Z",
+      "related": [
+        {
+          "id": "cce1273263fe2d09aa61130f1fa8c006",
+          "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa4127f0e7d39e461c0b46e5ad103a58c4d7cf7f-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-25T14:41:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/cce1273263fe2d09aa61130f1fa8c006.json"
+        },
+        {
+          "id": "730905f8e9f693f6c9286ce132423458",
+          "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/dollar-trust-crypto-stablecoin-gID_4.jpeg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-24T16:55:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/730905f8e9f693f6c9286ce132423458.json"
+        },
+        {
+          "id": "2bc62c1414d044a3c831b36182e4ce59",
+          "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nft-art-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-25T16:17:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/2bc62c1414d044a3c831b36182e4ce59.json"
+        },
+        {
+          "id": "a663f5f313ec3773f843606dafb4088f",
+          "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/dac6b40648bfca7f7ad8e408d3240b1934842e14-3052x1717.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.6134&fp-y=0.516&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-24T22:28:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a663f5f313ec3773f843606dafb4088f.json"
+        },
+        {
+          "id": "4471e3522d0727b728feb773eeb2302c",
+          "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-24T21:56:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4471e3522d0727b728feb773eeb2302c.json"
+        }
+      ],
+      "path": "articles/566ccbc96dd9a884ce1bf6992d1440f9.json"
+    },
     {
       "id": "2bc62c1414d044a3c831b36182e4ce59",
       "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
@@ -56,6 +172,22 @@
           "path": "articles/d33ab3bc1fb8f0c964d74a6b330c14aa.json"
         },
         {
+          "id": "566ccbc96dd9a884ce1bf6992d1440f9",
+          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-25T18:42:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/566ccbc96dd9a884ce1bf6992d1440f9.json"
+        },
+        {
           "id": "c3451f755769f95f2ba4f421d1599216",
           "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/70172f53cfba9b4db9ca138599dd8ee6f4d188da-1920x1080.png?auto=format&q=75",
@@ -102,22 +234,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/5e8d5cf59b3523a03205dc2c0d7a0766.json"
-        },
-        {
-          "id": "82f2f705901c48f576ac3187884172b2",
-          "title": "Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-24T11:05:19.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/82f2f705901c48f576ac3187884172b2.json"
         }
       ],
       "path": "articles/2bc62c1414d044a3c831b36182e4ce59.json"
@@ -172,6 +288,22 @@
           "path": "articles/e95f3a85e2843e34ae275479ce9a0ece.json"
         },
         {
+          "id": "566ccbc96dd9a884ce1bf6992d1440f9",
+          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-25T18:42:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/566ccbc96dd9a884ce1bf6992d1440f9.json"
+        },
+        {
           "id": "2bc62c1414d044a3c831b36182e4ce59",
           "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nft-art-gID_7.png@png",
@@ -218,22 +350,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/cce1273263fe2d09aa61130f1fa8c006.json"
-        },
-        {
-          "id": "c834fd6a697b52a52326e21df2d22f7a",
-          "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/78b3f87428f21c1dfdfb8cd5be86d655dc81ddb0-2994x1605.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-25T04:29:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/c834fd6a697b52a52326e21df2d22f7a.json"
         }
       ],
       "path": "articles/c3451f755769f95f2ba4f421d1599216.json"
@@ -352,9 +468,9 @@
           "path": "articles/98352bd4b1290bff688de07d2342148b.json"
         },
         {
-          "id": "2bc62c1414d044a3c831b36182e4ce59",
-          "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nft-art-gID_7.png@png",
+          "id": "566ccbc96dd9a884ce1bf6992d1440f9",
+          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -362,10 +478,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-25T16:17:19.000Z",
+          "published_at": "2026-09-25T18:42:51.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/2bc62c1414d044a3c831b36182e4ce59.json"
+          "breaking_score": 100,
+          "path": "articles/566ccbc96dd9a884ce1bf6992d1440f9.json"
         }
       ],
       "path": "articles/e95f3a85e2843e34ae275479ce9a0ece.json"

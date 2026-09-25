@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:15:41.593Z",
+  "updated_at": "2026-09-25T02:15:36.948Z",
   "id": "msft",
   "symbol": "MSFT",
   "name": "Microsoft",
@@ -7,21 +7,29 @@
   "total": 1,
   "articles": [
     {
-      "id": "9b1ac4c3562af26b58a426bd965ae213",
-      "title": "A rare Microsoft bear warms up to the stock. Here's what changed its mind",
-      "description": "Stifel upgraded the software and cloud giant to buy from hold.",
+      "id": "a3a0698ca3877d9e6f76a0da510d5217",
+      "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
+      "description": "Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment standard enabling agentic AI commerce.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/23/a-rare-microsoft-bear-warms-up-to-the-stock-heres-what-changed-their-mind.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108324167-17818086432026-06-18t184626z_2089636406_rc2fwlandty4_rtrmadp_0_france-tech.jpeg?v=1781808690&w=1920&h=1080",
+      "url": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3B48T548CSVVXASEFTG2EBS/hi-how-to-develop-an-ai-agent-for-crypto-trading-1.jpg",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "msft",
           "symbol": "MSFT",
@@ -29,92 +37,106 @@
           "type": "company",
           "path": "tickers/msft.json",
           "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-09-24T12:10:49.000Z",
+      "published_at": "2026-09-25T02:00:54.000Z",
       "related": [
         {
-          "id": "8b12ad4169f486ceeab2870bb82692fb",
-          "title": "Darden Restaurants stock falls as Olive Garden reports slower growth",
-          "image": "https://image.cnbcfm.com/api/v1/image/108200271-1758137796033-gettyimages-2221200086-l1055995_tzxi2bdn.jpeg?v=1758137825&w=1920&h=1080",
+          "id": "2e65ef367bcde7f3dd06031acaeac529",
+          "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AGHD04QX5Q0GBBZ75P2EB6/hi-blockchain-explanatory-articles-for-the-very-beginner-ondo-2.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-24T12:14:24.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-24T20:32:16.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8b12ad4169f486ceeab2870bb82692fb.json"
+          "path": "articles/2e65ef367bcde7f3dd06031acaeac529.json"
         },
         {
-          "id": "1798a8545e8311c497d7f86bbb2f4ba5",
-          "title": "Oracle shares drop on report it sent 'force majeure' notice about data center project",
-          "image": "https://image.cnbcfm.com/api/v1/image/108275546-17730745572026-03-09t163217z_66184607_rc221kaqo0e2_rtrmadp_0_usa-stocks.jpeg?v=1776109255&w=1920&h=1080",
+          "id": "40f1b8ff9181e7da8406556bc55567dc",
+          "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3A44DGGE4E3FZMH613C6EH3/hi-limit-order-protocols-offer-more-flexibility-and-efficiency-to-traders.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-24T13:15:07.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-24T17:13:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1798a8545e8311c497d7f86bbb2f4ba5.json"
+          "path": "articles/40f1b8ff9181e7da8406556bc55567dc.json"
         },
         {
-          "id": "8032eea8a00b1a0c08f915a17c98eee0",
-          "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367298-1790236964781-gettyimages-2284404331-vcg111651831899.jpeg?v=1790237009&w=1920&h=1080",
+          "id": "0cbe1242387f7d9551f98d31ef5559af",
+          "title": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39DMPB9D0YK3WGEPKGDB4BW/market-fall-escalator-down-price.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-24T13:00:30.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-24T10:15:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8032eea8a00b1a0c08f915a17c98eee0.json"
+          "path": "articles/0cbe1242387f7d9551f98d31ef5559af.json"
         },
         {
-          "id": "0c154857792670d75d0ee3e072738f60",
-          "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
-          "image": "https://image.cnbcfm.com/api/v1/image/108204105-1758825836765-gettyimages-2236984630-AFP_76T76JH.jpeg?v=1758825867&w=1920&h=1080",
+          "id": "fbf66d0c7fd9afabdeed07780e974bb2",
+          "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-24T12:40:27.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-24T09:32:44.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/0c154857792670d75d0ee3e072738f60.json"
+          "path": "articles/fbf66d0c7fd9afabdeed07780e974bb2.json"
         },
         {
-          "id": "984d1f88182dc8d79d1a616a0730469c",
-          "title": "Russia ‘truly’ appreciates U.S. invite to G20 summit — but hasn't decided if Putin will go",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367392-1790253247707-gettyimages-2295851432-AFP_C8VV4AA.jpeg?v=1790253304&w=1920&h=1080",
+          "id": "78f7a83e386d3f9bd80908be49f28870",
+          "title": "Here’s what happened in crypto today",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-24T12:36:08.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-24T19:50:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/984d1f88182dc8d79d1a616a0730469c.json"
+          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
         }
       ],
-      "path": "articles/9b1ac4c3562af26b58a426bd965ae213.json"
+      "path": "articles/a3a0698ca3877d9e6f76a0da510d5217.json"
     }
   ]
 }

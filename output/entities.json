@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-25T15:45:41.733Z",
+  "updated_at": "2026-09-25T16:01:15.261Z",
   "total": 24,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 24
+    },
     {
       "id": "regulation",
       "name": "Regulation",
@@ -10,20 +17,13 @@
       "count": 24
     },
     {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 23
-    },
-    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
+      "count": 21
     },
     {
       "id": "ai",
@@ -83,11 +83,13 @@
       "count": 4
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 3
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 2
     },
     {
       "id": "defi",
@@ -97,12 +99,10 @@
       "count": 2
     },
     {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 2
     },
     {

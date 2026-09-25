@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:01:08.429Z",
+  "updated_at": "2026-09-25T20:15:59.478Z",
   "total": 22,
   "entities": [
     {
@@ -10,19 +10,19 @@
       "count": 23
     },
     {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 21
+    },
+    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 20
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 20
     },
     {
@@ -62,7 +62,7 @@
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 8
+      "count": 7
     },
     {
       "id": "meta",
@@ -74,30 +74,21 @@
       "count": 5
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 4
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 4
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
       "count": 4
     },
     {
@@ -119,12 +110,12 @@
       "count": 3
     },
     {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 3
     },
     {
@@ -132,6 +123,15 @@
       "name": "NFT",
       "type": "topic",
       "icon": "",
+      "count": 2
+    },
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
       "count": 2
     },
     {

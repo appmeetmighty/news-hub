@@ -1,11 +1,11 @@
 {
-  "id": "4b95770a118bb22af10cc5a21937130a",
-  "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
-  "description": "Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch.",
+  "id": "4273a6aaa84c62a0b2407e99798553a3",
+  "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+  "description": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108368288-1790361843384-master.png?v=1790362592&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,29 +13,38 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-26T10:00:01.000Z",
+  "entities": [
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com"
+    }
+  ],
+  "published_at": "2026-09-26T14:55:59.000Z",
   "related": [
     {
-      "id": "4273a6aaa84c62a0b2407e99798553a3",
-      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-      "image": "https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&w=1920&h=1080",
+      "id": "1d351892347656d229911930ef7f849c",
+      "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BTS7FTRRJXR7DWT1DQ8993/hi-browser-for-ios1.jpg",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
       },
-      "category": "stocks",
-      "published_at": "2026-09-26T14:55:59.000Z",
+      "category": "crypto",
+      "published_at": "2026-09-25T12:19:34.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/4273a6aaa84c62a0b2407e99798553a3.json"
+      "path": "articles/1d351892347656d229911930ef7f849c.json"
     },
     {
-      "id": "96d38010de4d65414e1196b730e28a75",
-      "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368130-1790349063985-gettyimages-2295443020-AFP_C8RP6NT.jpeg?v=1790349126&w=1920&h=1080",
+      "id": "4b95770a118bb22af10cc5a21937130a",
+      "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368288-1790361843384-master.png?v=1790362592&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -43,10 +52,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-25T18:46:23.000Z",
+      "published_at": "2026-09-26T10:00:01.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/96d38010de4d65414e1196b730e28a75.json"
+      "path": "articles/4b95770a118bb22af10cc5a21937130a.json"
     },
     {
       "id": "db50cb099b03f54d3668fc4079d25c92",

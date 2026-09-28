@@ -1,6 +1,6 @@
 {
   "id": "7b82c3596ad74e91e5a85841f95b17b0",
-  "title": "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+  "title": "Brent crude tops $107 as Trump rejects Iranian proposal to reopen Hormuz Strait",
   "description": "Iran offered to reopen the key shipping route and restart negotiations with the U.S. within seven days, if the Trump administration agreed to Tehran's conditions.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
@@ -13,9 +13,34 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-28T04:16:27.000Z",
+  "entities": [
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-09-28T06:34:26.000Z",
   "related": [
+    {
+      "id": "65eab2dc7fb6ea27b83e8a73ab625899",
+      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0a0a8c9fc0feabeb7ee727063b2300aad6776bb8-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-25T07:09:11.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/65eab2dc7fb6ea27b83e8a73ab625899.json"
+    },
     {
       "id": "1a18d3ac9f572892f332313b971ea97e",
       "title": "Northern Star shares pop as Australian gold miner rejects $27 billion takeover proposal",
@@ -79,22 +104,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/553e020234cf2e87f7973a4ca1a3e275.json"
-    },
-    {
-      "id": "235ac99effb77ca229fad7b60a9607c5",
-      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
-      "image": "https://image.cnbcfm.com/api/v1/image/108307520-1778845590337-gettyimages-2275747329-AFP_B2WK8G3.jpeg?v=1778845674&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-25T21:38:38.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/235ac99effb77ca229fad7b60a9607c5.json"
     }
   ]
 }

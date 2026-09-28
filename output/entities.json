@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T06:30:56.080Z",
+  "updated_at": "2026-09-28T06:45:40.217Z",
   "total": 27,
   "entities": [
     {
@@ -119,6 +119,15 @@
       "count": 3
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "mining",
       "name": "Mining",
       "type": "topic",
@@ -214,15 +223,6 @@
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 1
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
       "count": 1
     }
   ]

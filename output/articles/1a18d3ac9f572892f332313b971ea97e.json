@@ -1,11 +1,11 @@
 {
-  "id": "bf49c64b87ec0a97d8dd025fd5ee374d",
-  "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-  "description": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+  "id": "1a18d3ac9f572892f332313b971ea97e",
+  "title": "Northern Star shares pop as Australian gold miner rejects $27-billion takeover proposal",
+  "description": "Northern Star shares jumped more than 9% after the Australian gold miner rejected a takeover proposal from Gold Fields.",
   "reading_time_minutes": 1,
-  "breaking_score": 20,
-  "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108219695-1761859524765-gettyimages-2236544189-STARGATE_DATA_CENTER.jpeg?v=1790259549&w=1920&h=1080",
+  "breaking_score": 0,
+  "url": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108368526-1790557271934-gettyimages-2296818410-dji_20260114110702_0136_d.jpeg?v=1790557290&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,29 +15,37 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "ai",
-      "name": "AI",
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": ""
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-09-27T15:35:34.000Z",
+  "published_at": "2026-09-28T01:19:23.000Z",
   "related": [
     {
-      "id": "1a18d3ac9f572892f332313b971ea97e",
-      "title": "Northern Star shares pop as Australian gold miner rejects $27-billion takeover proposal",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368526-1790557271934-gettyimages-2296818410-dji_20260114110702_0136_d.jpeg?v=1790557290&w=1920&h=1080",
+      "id": "b22a0c0a78749ce71f16d6fcb2c1d84e",
+      "title": "Riot Platforms repays $200M credit facility, releases collateral",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3H4K9S7MJRE0V8KP0S1ZAM6/hi-eu-vote-on-bitcoin-mining-ai-1.png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
       },
-      "category": "stocks",
-      "published_at": "2026-09-28T01:19:23.000Z",
+      "category": "crypto",
+      "published_at": "2026-09-27T09:57:19.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/1a18d3ac9f572892f332313b971ea97e.json"
+      "path": "articles/b22a0c0a78749ce71f16d6fcb2c1d84e.json"
     },
     {
       "id": "7b82c3596ad74e91e5a85841f95b17b0",

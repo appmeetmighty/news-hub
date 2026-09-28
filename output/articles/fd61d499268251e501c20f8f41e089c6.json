@@ -1,11 +1,11 @@
 {
-  "id": "e2115aebdfe5ef8af48252d086a67727",
-  "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway ",
-  "description": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
+  "id": "fd61d499268251e501c20f8f41e089c6",
+  "title": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
+  "description": "The New York City Council issued a subpoena to Musk, requiring that he or another representative of SpaceXAI testify in an investigation concerning AI safety.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108367899-1790316607637-gettyimages-2257694906-_dsc5481.jpeg?v=1790316634&w=1920&h=1080",
+  "breaking_score": 25,
+  "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108321008-1781271149885-Screenshot_2026-06-12_at_92658_AM.png?v=1781271243&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,9 +13,40 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-27T05:00:02.000Z",
+  "entities": [
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-09-28T19:01:56.000Z",
   "related": [
+    {
+      "id": "7e154dbfd3e20149b220bef01369e4ef",
+      "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-28T16:01:50.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/7e154dbfd3e20149b220bef01369e4ef.json"
+    },
     {
       "id": "0a7eed41eabc141f1ddb3defba5f5a4f",
       "title": "Treasury yields rise as march to multiyear highs continues",
@@ -63,22 +94,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/0c34c3e395116fc85b3c12360290ab67.json"
-    },
-    {
-      "id": "fd61d499268251e501c20f8f41e089c6",
-      "title": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
-      "image": "https://image.cnbcfm.com/api/v1/image/108321008-1781271149885-Screenshot_2026-06-12_at_92658_AM.png?v=1781271243&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-28T19:01:56.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 25,
-      "path": "articles/fd61d499268251e501c20f8f41e089c6.json"
     },
     {
       "id": "d929995d4abd00767f49cc91db6a93c2",

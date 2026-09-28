@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28T19:15:39.587Z",
+  "updated_at": "2026-09-28T19:30:57.335Z",
   "articles": {
-    "generated_at": "2026-09-28T19:15:39.587Z",
+    "generated_at": "2026-09-28T19:30:57.335Z",
     "topics": [
       {
         "id": "regulation",
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 15,
+        "count": 16,
         "articles": [
+          {
+            "id": "fd61d499268251e501c20f8f41e089c6",
+            "title": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
+            "image": "https://image.cnbcfm.com/api/v1/image/108321008-1781271149885-Screenshot_2026-06-12_at_92658_AM.png?v=1781271243&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-28T19:01:56.000Z",
+            "path": "articles/fd61d499268251e501c20f8f41e089c6.json"
+          },
           {
             "id": "f416462d70d9470f7d364b7326c5ca16",
             "title": "What the market needs to branch out beyond AI stocks. Plus, a win for CrowdStrike ",
@@ -582,20 +596,6 @@
             "category": "crypto",
             "published_at": "2026-09-26T15:01:05.000Z",
             "path": "articles/8a9ff7c3b20d6bf5c08bbb4346feb828.json"
-          },
-          {
-            "id": "9bc124ba3f194195c2885488457be0fc",
-            "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-26T13:01:03.000Z",
-            "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
           }
         ]
       },
@@ -1562,6 +1562,43 @@
         ]
       },
       {
+        "id": "tsla",
+        "name": "Tesla",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/tesla.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "fd61d499268251e501c20f8f41e089c6",
+            "title": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
+            "image": "https://image.cnbcfm.com/api/v1/image/108321008-1781271149885-Screenshot_2026-06-12_at_92658_AM.png?v=1781271243&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-28T19:01:56.000Z",
+            "path": "articles/fd61d499268251e501c20f8f41e089c6.json"
+          },
+          {
+            "id": "7e154dbfd3e20149b220bef01369e4ef",
+            "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
+            "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-28T16:01:50.000Z",
+            "path": "articles/7e154dbfd3e20149b220bef01369e4ef.json"
+          }
+        ]
+      },
+      {
         "id": "defi",
         "name": "DeFi",
         "type": "topic",
@@ -1650,29 +1687,6 @@
             "category": "crypto",
             "published_at": "2026-09-28T16:24:51.000Z",
             "path": "articles/8b95adb831922d6c970579d569b69a01.json"
-          }
-        ]
-      },
-      {
-        "id": "tsla",
-        "name": "Tesla",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/tesla.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "7e154dbfd3e20149b220bef01369e4ef",
-            "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
-            "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-28T16:01:50.000Z",
-            "path": "articles/7e154dbfd3e20149b220bef01369e4ef.json"
           }
         ]
       },

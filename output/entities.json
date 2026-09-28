@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T06:15:40.003Z",
+  "updated_at": "2026-09-28T06:30:56.080Z",
   "total": 27,
   "entities": [
     {
@@ -58,11 +58,13 @@
       "count": 6
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 6
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 5
     },
     {
       "id": "eth",
@@ -74,21 +76,19 @@
       "count": 5
     },
     {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
-      "count": 4
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 4
     },
     {

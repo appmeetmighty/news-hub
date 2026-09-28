@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28T14:30:56.627Z",
+  "updated_at": "2026-09-28T14:45:43.906Z",
   "articles": {
-    "generated_at": "2026-09-28T14:30:56.627Z",
+    "generated_at": "2026-09-28T14:45:43.906Z",
     "topics": [
       {
         "id": "crypto",
@@ -1184,6 +1184,20 @@
         "count": 4,
         "articles": [
           {
+            "id": "6bb5df465bafac00cbbb82aa86c5b727",
+            "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+            "image": "https://image.cnbcfm.com/api/v1/image/108368717-1790599580416-AP4672736060371713.jpg?v=1790599594&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-28T14:34:21.000Z",
+            "path": "articles/6bb5df465bafac00cbbb82aa86c5b727.json"
+          },
+          {
             "id": "124b2bb91fa4be961d20667b08258ca0",
             "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
             "image": "https://image.cnbcfm.com/api/v1/image/108367424-1790256490105-gettyimages-2296209094-META_CONNECT.jpeg?v=1790256521&w=1920&h=1080",
@@ -1196,20 +1210,6 @@
             "category": "stocks",
             "published_at": "2026-09-28T14:03:43.000Z",
             "path": "articles/124b2bb91fa4be961d20667b08258ca0.json"
-          },
-          {
-            "id": "6bb5df465bafac00cbbb82aa86c5b727",
-            "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
-            "image": "https://image.cnbcfm.com/api/v1/image/108368717-1790599580416-AP4672736060371713.jpg?v=1790599594&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-28T13:49:35.000Z",
-            "path": "articles/6bb5df465bafac00cbbb82aa86c5b727.json"
           },
           {
             "id": "3475deca9cf1a52dc3bb4d040c44a906",
@@ -1372,6 +1372,57 @@
         ]
       },
       {
+        "id": "oil",
+        "name": "Oil",
+        "type": "commodity",
+        "icon": "",
+        "count": 3,
+        "articles": [
+          {
+            "id": "7b82c3596ad74e91e5a85841f95b17b0",
+            "title": "Oil prices rise as Trump rejects Iranian proposal to reopen Strait of Hormuz",
+            "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-28T14:34:23.000Z",
+            "path": "articles/7b82c3596ad74e91e5a85841f95b17b0.json"
+          },
+          {
+            "id": "8ab19ec3c5f050e1fe54e8543ff2c972",
+            "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9b2334bbdd72659a819b0cd5f242c7fb85126fd-1920x1080.png?auto=format&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-28T10:15:04.000Z",
+            "path": "articles/8ab19ec3c5f050e1fe54e8543ff2c972.json"
+          },
+          {
+            "id": "2f2bd620fc36bb074888ca0760782ae6",
+            "title": "Live updates: Bitcoin trims losses as oil eases on hopes of U.S. and Iran talks",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb783461a08ea1e246fa2616ed438a056dd7b5ee-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-28T10:02:37.000Z",
+            "path": "articles/2f2bd620fc36bb074888ca0760782ae6.json"
+          }
+        ]
+      },
+      {
         "id": "googl",
         "name": "Google",
         "type": "company",
@@ -1419,57 +1470,6 @@
             "category": "crypto",
             "published_at": "2026-09-25T19:16:04.000Z",
             "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"
-          }
-        ]
-      },
-      {
-        "id": "oil",
-        "name": "Oil",
-        "type": "commodity",
-        "icon": "",
-        "count": 3,
-        "articles": [
-          {
-            "id": "7b82c3596ad74e91e5a85841f95b17b0",
-            "title": "Oil prices rise as Trump rejects Iranian proposal to reopen Strait of Hormuz",
-            "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-28T12:39:49.000Z",
-            "path": "articles/7b82c3596ad74e91e5a85841f95b17b0.json"
-          },
-          {
-            "id": "8ab19ec3c5f050e1fe54e8543ff2c972",
-            "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9b2334bbdd72659a819b0cd5f242c7fb85126fd-1920x1080.png?auto=format&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-28T10:15:04.000Z",
-            "path": "articles/8ab19ec3c5f050e1fe54e8543ff2c972.json"
-          },
-          {
-            "id": "2f2bd620fc36bb074888ca0760782ae6",
-            "title": "Live updates: Bitcoin trims losses as oil eases on hopes of U.S. and Iran talks",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb783461a08ea1e246fa2616ed438a056dd7b5ee-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-28T10:02:37.000Z",
-            "path": "articles/2f2bd620fc36bb074888ca0760782ae6.json"
           }
         ]
       },

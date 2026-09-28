@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T15:15:43.717Z",
+  "updated_at": "2026-09-28T16:30:57.566Z",
   "id": "gold",
   "symbol": "GOLD",
   "name": "Gold",
@@ -7,21 +7,29 @@
   "total": 1,
   "articles": [
     {
-      "id": "8ca49d03902cd47351cccf7c19e3373a",
-      "title": "Gold and silver prices fall sharply as higher bond yields weigh on metals",
-      "description": "Gold and silver prices fell sharply on Monday as rising bond yields tempered investor appetite for non-yielding precious metals.",
+      "id": "8b95adb831922d6c970579d569b69a01",
+      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+      "description": "As restaking yields dried up and smart-contract risks mounted, Ethereum's top liquid restaking protocol walked away from its core business to build a crypto neobank instead.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/28/gold-silver-prices-bond-yields.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107088808-16578113242022-07-14t143236z_487684097_rc2xav9vo6ui_rtrmadp_0_swiss-gold.jpeg?v=1696573390&w=1920&h=1080",
+      "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7eaf553e8abf889a62ef0301a3a12b6d6e1ddce6-4498x3000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
         {
           "id": "gold",
           "symbol": "GOLD",
@@ -31,98 +39,96 @@
           "icon": ""
         },
         {
-          "id": "silver",
-          "symbol": "SILVER",
-          "name": "Silver",
-          "type": "commodity",
-          "path": "tickers/silver.json",
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-09-28T09:56:44.000Z",
+      "published_at": "2026-09-28T16:24:51.000Z",
       "related": [
         {
-          "id": "0a7eed41eabc141f1ddb3defba5f5a4f",
-          "title": "Treasury yields edge higher amid pressure on global government bonds",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368176-17903514452026-09-25t154124z_1017060771_rc2dqnadx12l_rtrmadp_0_usa-stocks.jpeg?v=1790351462&w=1920&h=1080",
+          "id": "48488613ebcfa7ae91def97f4b01578c",
+          "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-28T14:28:25.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-28T12:13:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/48488613ebcfa7ae91def97f4b01578c.json"
+        },
+        {
+          "id": "999100e730e17220eb2db38fd5b5fbfc",
+          "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-27T14:29:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/0a7eed41eabc141f1ddb3defba5f5a4f.json"
+          "path": "articles/999100e730e17220eb2db38fd5b5fbfc.json"
         },
         {
-          "id": "bf49c64b87ec0a97d8dd025fd5ee374d",
-          "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-          "image": "https://image.cnbcfm.com/api/v1/image/108219695-1761859524765-gettyimages-2236544189-STARGATE_DATA_CENTER.jpeg?v=1790259549&w=1920&h=1080",
+          "id": "2c75cac81833c0b17e19df7549d0380e",
+          "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-27T15:35:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/bf49c64b87ec0a97d8dd025fd5ee374d.json"
-        },
-        {
-          "id": "74e8f6ced045b0ea17d491548281a4cf",
-          "title": "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367650-1790274853603-108367650-1790274789085-gettyimages-1240631460-INDIA_DIAMONDS.jpg?v=1790274862&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-26T13:09:33.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-28T16:29:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/74e8f6ced045b0ea17d491548281a4cf.json"
+          "path": "articles/2c75cac81833c0b17e19df7549d0380e.json"
         },
         {
-          "id": "7b82c3596ad74e91e5a85841f95b17b0",
-          "title": "Oil prices rise as Trump rejects Iranian proposal to reopen Strait of Hormuz",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&w=1920&h=1080",
+          "id": "b8f29b192a5b796386ff922848a8d13d",
+          "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-28T14:34:23.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-28T13:27:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/7b82c3596ad74e91e5a85841f95b17b0.json"
+          "path": "articles/b8f29b192a5b796386ff922848a8d13d.json"
         },
         {
-          "id": "98a13b2f1b3563052ce1ebe9071bbbf2",
-          "title": "Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link",
-          "image": "https://image.cnbcfm.com/api/v1/image/108322136-1781551424604-gettyimages-2267404848-ln2_2955_bksja5in.jpeg?v=1781551458&w=1920&h=1080",
+          "id": "2610ad076d87181b1dc5745d127bc778",
+          "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KKY0E7P2KHSR2CF4H4E1SY/hi-bitget-blockchain-initiatives-overview.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-28T15:04:31.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-28T11:05:24.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/98a13b2f1b3563052ce1ebe9071bbbf2.json"
+          "breaking_score": 60,
+          "path": "articles/2610ad076d87181b1dc5745d127bc778.json"
         }
       ],
-      "path": "articles/8ca49d03902cd47351cccf7c19e3373a.json"
+      "path": "articles/8b95adb831922d6c970579d569b69a01.json"
     }
   ]
 }

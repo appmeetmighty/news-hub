@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-09-28T16:01:12.667Z",
+  "updated_at": "2026-09-28T16:30:57.566Z",
   "id": "crypto",
   "name": "Crypto",
   "type": "topic",
-  "total": 24,
+  "total": 22,
   "articles": [
+    {
+      "id": "8b95adb831922d6c970579d569b69a01",
+      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+      "description": "As restaking yields dried up and smart-contract risks mounted, Ethereum's top liquid restaking protocol walked away from its core business to build a crypto neobank instead.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7eaf553e8abf889a62ef0301a3a12b6d6e1ddce6-4498x3000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
+        {
+          "id": "gold",
+          "symbol": "GOLD",
+          "name": "Gold",
+          "type": "commodity",
+          "path": "tickers/gold.json",
+          "icon": ""
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-28T16:24:51.000Z",
+      "related": [
+        {
+          "id": "48488613ebcfa7ae91def97f4b01578c",
+          "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T12:13:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/48488613ebcfa7ae91def97f4b01578c.json"
+        },
+        {
+          "id": "999100e730e17220eb2db38fd5b5fbfc",
+          "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-27T14:29:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/999100e730e17220eb2db38fd5b5fbfc.json"
+        },
+        {
+          "id": "2c75cac81833c0b17e19df7549d0380e",
+          "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T16:29:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2c75cac81833c0b17e19df7549d0380e.json"
+        },
+        {
+          "id": "b8f29b192a5b796386ff922848a8d13d",
+          "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T13:27:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b8f29b192a5b796386ff922848a8d13d.json"
+        },
+        {
+          "id": "2610ad076d87181b1dc5745d127bc778",
+          "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KKY0E7P2KHSR2CF4H4E1SY/hi-bitget-blockchain-initiatives-overview.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T11:05:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/2610ad076d87181b1dc5745d127bc778.json"
+        }
+      ],
+      "path": "articles/8b95adb831922d6c970579d569b69a01.json"
+    },
     {
       "id": "78f7a83e386d3f9bd80908be49f28870",
       "title": "Here’s what happened in crypto today",
@@ -349,9 +473,9 @@
           "path": "articles/defb4271cf999f2da6453fdf04a8a8cf.json"
         },
         {
-          "id": "442fafd702f32c85ce4880bd52b4f15d",
-          "title": "£10K Reward Offered After UK Couple Attacked in Crypto Home Invasion",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-02-gID_7.jpg@png",
+          "id": "2c75cac81833c0b17e19df7549d0380e",
+          "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -359,10 +483,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-24T15:08:26.000Z",
+          "published_at": "2026-09-28T16:29:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/442fafd702f32c85ce4880bd52b4f15d.json"
+          "path": "articles/2c75cac81833c0b17e19df7549d0380e.json"
         }
       ],
       "path": "articles/ab671a0458e6560ffdfd595b452ae169.json"
@@ -457,9 +581,9 @@
           "path": "articles/d382020a4ec39b3dda2561035fb01785.json"
         },
         {
-          "id": "abc64c1516deaa3bdfe4defebcd52dee",
-          "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e7a96fe3976c9a072d7edd2ee0e738cfc2ba95a3-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.7846&fp-y=0.4412&w=1920&h=1080&q=75",
+          "id": "8b95adb831922d6c970579d569b69a01",
+          "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7eaf553e8abf889a62ef0301a3a12b6d6e1ddce6-4498x3000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -467,10 +591,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-25T20:01:05.000Z",
+          "published_at": "2026-09-28T16:24:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/abc64c1516deaa3bdfe4defebcd52dee.json"
+          "path": "articles/8b95adb831922d6c970579d569b69a01.json"
         }
       ],
       "path": "articles/9cd1850bfac372deea4169e800befe38.json"
@@ -507,6 +631,22 @@
       "published_at": "2026-09-28T11:00:00.000Z",
       "related": [
         {
+          "id": "84d973985e9bb2da74338ebb5006a4c5",
+          "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ad8e6630721cca761fc441079ebcd6819e13f93e-8256x5504.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T16:16:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/84d973985e9bb2da74338ebb5006a4c5.json"
+        },
+        {
           "id": "b74992fe9cf334c18f90e870d72f891b",
           "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/b809e903b20dd26de1240800f8539bcb475389ca-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -537,22 +677,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ec87e3b4167b1c41f4269d394ef5c108.json"
-        },
-        {
-          "id": "cce1273263fe2d09aa61130f1fa8c006",
-          "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa4127f0e7d39e461c0b46e5ad103a58c4d7cf7f-1920x1080.png?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-25T14:41:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/cce1273263fe2d09aa61130f1fa8c006.json"
         },
         {
           "id": "2610ad076d87181b1dc5745d127bc778",
@@ -787,20 +911,20 @@
           "path": "articles/86389e86e76e4fb1dc0fc4076f78038c.json"
         },
         {
-          "id": "abc64c1516deaa3bdfe4defebcd52dee",
-          "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e7a96fe3976c9a072d7edd2ee0e738cfc2ba95a3-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.7846&fp-y=0.4412&w=1920&h=1080&q=75",
+          "id": "78f7a83e386d3f9bd80908be49f28870",
+          "title": "Here’s what happened in crypto today",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-25T20:01:05.000Z",
+          "published_at": "2026-09-28T13:32:34.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/abc64c1516deaa3bdfe4defebcd52dee.json"
+          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
         }
       ],
       "path": "articles/95fc8420b96dbaa2266163d836115bd9.json"
@@ -1117,9 +1241,9 @@
           "path": "articles/defb4271cf999f2da6453fdf04a8a8cf.json"
         },
         {
-          "id": "442fafd702f32c85ce4880bd52b4f15d",
-          "title": "£10K Reward Offered After UK Couple Attacked in Crypto Home Invasion",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-02-gID_7.jpg@png",
+          "id": "2c75cac81833c0b17e19df7549d0380e",
+          "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -1127,10 +1251,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-24T15:08:26.000Z",
+          "published_at": "2026-09-28T16:29:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/442fafd702f32c85ce4880bd52b4f15d.json"
+          "path": "articles/2c75cac81833c0b17e19df7549d0380e.json"
         }
       ],
       "path": "articles/9ed328652281576c3d91886a1c92594a.json"
@@ -1231,9 +1355,9 @@
           "path": "articles/defb4271cf999f2da6453fdf04a8a8cf.json"
         },
         {
-          "id": "442fafd702f32c85ce4880bd52b4f15d",
-          "title": "£10K Reward Offered After UK Couple Attacked in Crypto Home Invasion",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-02-gID_7.jpg@png",
+          "id": "2c75cac81833c0b17e19df7549d0380e",
+          "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -1241,10 +1365,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-24T15:08:26.000Z",
+          "published_at": "2026-09-28T16:29:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/442fafd702f32c85ce4880bd52b4f15d.json"
+          "path": "articles/2c75cac81833c0b17e19df7549d0380e.json"
         }
       ],
       "path": "articles/958af5e6b5eef7172f4ae0b95a5df0ca.json"
@@ -1814,120 +1938,6 @@
       "path": "articles/96a192933aa7c2dc5836abffc51643dc.json"
     },
     {
-      "id": "abc64c1516deaa3bdfe4defebcd52dee",
-      "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-      "description": "The trade group will be run again by its original CEO, Kristin Smith, when Summer Mersinger leaves at the end of a long congressional tussle.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e7a96fe3976c9a072d7edd2ee0e738cfc2ba95a3-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.7846&fp-y=0.4412&w=1920&h=1080&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        },
-        {
-          "id": "blockchain",
-          "name": "Blockchain",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-25T20:01:05.000Z",
-      "related": [
-        {
-          "id": "999100e730e17220eb2db38fd5b5fbfc",
-          "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T14:29:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/999100e730e17220eb2db38fd5b5fbfc.json"
-        },
-        {
-          "id": "057218e567d4bb57e2dd9a9ae7c2a291",
-          "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-25T20:26:40.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/057218e567d4bb57e2dd9a9ae7c2a291.json"
-        },
-        {
-          "id": "19a3f38cdabd42760f78f06ebaddd4b2",
-          "title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c1f6c29904a74a372570afea3afb24416279f386-1920x1080.jpg?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T12:30:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/19a3f38cdabd42760f78f06ebaddd4b2.json"
-        },
-        {
-          "id": "9cd1850bfac372deea4169e800befe38",
-          "title": "Traders aren't panicking yet despite cooling crypto sentiment",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2422f4cb8addf51ff9749bd06180d8af713edf6b-3000x2001.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T11:32:33.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9cd1850bfac372deea4169e800befe38.json"
-        },
-        {
-          "id": "95fc8420b96dbaa2266163d836115bd9",
-          "title": "Eyes on key U.S. employment data as crypto bulls take a breather: Crypto Week Ahead",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6f1b0d6a21e1b90fcb2e94a08e782b25a7ac1d71-2592x1458.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T09:45:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/95fc8420b96dbaa2266163d836115bd9.json"
-        }
-      ],
-      "path": "articles/abc64c1516deaa3bdfe4defebcd52dee.json"
-    },
-    {
       "id": "6ffe2426cec3570b6c2ea4a5121f1f5a",
       "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
       "description": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.",
@@ -2150,120 +2160,6 @@
         }
       ],
       "path": "articles/530b1bb8710fcb50eb2cd6f4b22f8e21.json"
-    },
-    {
-      "id": "cce1273263fe2d09aa61130f1fa8c006",
-      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-      "description": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds sit in ether, which can't be frozen.",
-      "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa4127f0e7d39e461c0b46e5ad103a58c4d7cf7f-1920x1080.png?auto=format&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        },
-        {
-          "id": "stablecoin",
-          "name": "Stablecoin",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-25T14:41:53.000Z",
-      "related": [
-        {
-          "id": "566ccbc96dd9a884ce1bf6992d1440f9",
-          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-25T18:42:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/566ccbc96dd9a884ce1bf6992d1440f9.json"
-        },
-        {
-          "id": "ec87e3b4167b1c41f4269d394ef5c108",
-          "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bfacc43729daed7fb15a2d284673bb17f22de40-1920x1080.jpg?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-26T13:00:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ec87e3b4167b1c41f4269d394ef5c108.json"
-        },
-        {
-          "id": "2610ad076d87181b1dc5745d127bc778",
-          "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KKY0E7P2KHSR2CF4H4E1SY/hi-bitget-blockchain-initiatives-overview.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T11:05:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/2610ad076d87181b1dc5745d127bc778.json"
-        },
-        {
-          "id": "43b84d18bf4231af19a28129beff893a",
-          "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ad2bfefb79599f5b40634c14c22a9a628a33a13f-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T11:00:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/43b84d18bf4231af19a28129beff893a.json"
-        },
-        {
-          "id": "b74992fe9cf334c18f90e870d72f891b",
-          "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b809e903b20dd26de1240800f8539bcb475389ca-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T07:50:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b74992fe9cf334c18f90e870d72f891b.json"
-        }
-      ],
-      "path": "articles/cce1273263fe2d09aa61130f1fa8c006.json"
     },
     {
       "id": "feba3dd1af020965e845c2d6ed902649",
@@ -2545,6 +2441,22 @@
           "path": "articles/8cbc69fd29abbde14238e5f2e5ab4e18.json"
         },
         {
+          "id": "2c75cac81833c0b17e19df7549d0380e",
+          "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T16:29:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2c75cac81833c0b17e19df7549d0380e.json"
+        },
+        {
           "id": "04f18e5bf62d0901e07f8de911b9113e",
           "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
@@ -2575,133 +2487,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b8f29b192a5b796386ff922848a8d13d.json"
-        },
-        {
-          "id": "6fcb3e06ee2bd7f79388d8f341cf275d",
-          "title": "Strategy Sets New BTC Holdings Record After $143M Bitcoin Purchase",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T12:45:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6fcb3e06ee2bd7f79388d8f341cf275d.json"
         }
       ],
       "path": "articles/da9b1f8b8aead51f391e75e5e4d45001.json"
-    },
-    {
-      "id": "442fafd702f32c85ce4880bd52b4f15d",
-      "title": "£10K Reward Offered After UK Couple Attacked in Crypto Home Invasion",
-      "description": "Police believe the robbery was planned and targeted, with instructions relayed to the three attackers by a fourth man on a video call.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://decrypt.co/379186/10k-reward-offered-after-uk-couple-attacked-in-crypto-home-invasion",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-02-gID_7.jpg@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-24T15:08:26.000Z",
-      "related": [
-        {
-          "id": "ab671a0458e6560ffdfd595b452ae169",
-          "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T12:03:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ab671a0458e6560ffdfd595b452ae169.json"
-        },
-        {
-          "id": "9ed328652281576c3d91886a1c92594a",
-          "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T13:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9ed328652281576c3d91886a1c92594a.json"
-        },
-        {
-          "id": "958af5e6b5eef7172f4ae0b95a5df0ca",
-          "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-26T16:06:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/958af5e6b5eef7172f4ae0b95a5df0ca.json"
-        },
-        {
-          "id": "defb4271cf999f2da6453fdf04a8a8cf",
-          "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-24T21:15:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/defb4271cf999f2da6453fdf04a8a8cf.json"
-        },
-        {
-          "id": "04f18e5bf62d0901e07f8de911b9113e",
-          "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T15:26:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/04f18e5bf62d0901e07f8de911b9113e.json"
-        }
-      ],
-      "path": "articles/442fafd702f32c85ce4880bd52b4f15d.json"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "id": "4b95770a118bb22af10cc5a21937130a",
-  "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
-  "description": "Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch.",
+  "id": "eec1dd099c51221c91b05cd330a081d6",
+  "title": "Nvidia says it can keep AI models under control — plus, what to do about Boeing's dip",
+  "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108368288-1790361843384-master.png?v=1790362592&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/28/nvidia-says-it-can-control-ai-models-plus-how-to-act-on-boeings-dip.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108238699-1765235082525-gettyimages-2250822575-anotherday158736751_zvzj8lw0.jpeg?v=1772638767&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,9 +13,40 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-26T10:00:01.000Z",
+  "entities": [
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-09-28T15:50:54.000Z",
   "related": [
+    {
+      "id": "509fba15964d2623a223393de8aaee47",
+      "title": "Nvidia share buyback plan gets $150 billion boost",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354000-1787675996078-gettyimages-2266718119-NVIDIA_GTC.jpeg?v=1787832025&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-28T14:46:36.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/509fba15964d2623a223393de8aaee47.json"
+    },
     {
       "id": "1e9ede109bc5ef2041b8dd86aad9bf00",
       "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
@@ -33,9 +64,9 @@
       "path": "articles/1e9ede109bc5ef2041b8dd86aad9bf00.json"
     },
     {
-      "id": "4273a6aaa84c62a0b2407e99798553a3",
-      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-      "image": "https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&w=1920&h=1080",
+      "id": "e2115aebdfe5ef8af48252d086a67727",
+      "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108367899-1790316607637-gettyimages-2257694906-_dsc5481.jpeg?v=1790316634&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -43,10 +74,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-26T16:57:57.000Z",
+      "published_at": "2026-09-27T05:00:02.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/4273a6aaa84c62a0b2407e99798553a3.json"
+      "path": "articles/e2115aebdfe5ef8af48252d086a67727.json"
     },
     {
       "id": "6562292990c53cfd2ae5e5c643acf9a0",
@@ -79,22 +110,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/6bb5df465bafac00cbbb82aa86c5b727.json"
-    },
-    {
-      "id": "31d5ece44983949cd9b7307ceddd4c73",
-      "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
-      "image": "https://image.cnbcfm.com/api/v1/image/107116506-1662762534450-gettyimages-1243031526-pinocchio310150.jpeg?v=1693994401&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-28T16:02:17.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/31d5ece44983949cd9b7307ceddd4c73.json"
     }
   ]
 }

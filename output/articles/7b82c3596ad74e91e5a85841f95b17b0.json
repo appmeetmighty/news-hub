@@ -1,11 +1,11 @@
 {
-  "id": "43aa10013f5cbea3a86e42e0479160fb",
-  "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
-  "description": "TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity.",
+  "id": "7b82c3596ad74e91e5a85841f95b17b0",
+  "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+  "description": "Oil prices jumped on Monday after U.S. President Donald Trump rejected an Iranian peace proposal aimed at ending the conflict.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108368448-1790434254308-gettyimages-2296657510-TRUMP_WH_DEPART.jpeg?v=1790434277&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,13 +13,38 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-09-27T21:38:59.000Z",
+  "entities": [
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-09-27T23:58:57.000Z",
   "related": [
     {
-      "id": "7b82c3596ad74e91e5a85841f95b17b0",
-      "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
-      "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&w=1920&h=1080",
+      "id": "65eab2dc7fb6ea27b83e8a73ab625899",
+      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0a0a8c9fc0feabeb7ee727063b2300aad6776bb8-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-25T07:09:11.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/65eab2dc7fb6ea27b83e8a73ab625899.json"
+    },
+    {
+      "id": "43aa10013f5cbea3a86e42e0479160fb",
+      "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368448-1790434254308-gettyimages-2296657510-TRUMP_WH_DEPART.jpeg?v=1790434277&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -27,10 +52,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-09-27T23:58:57.000Z",
+      "published_at": "2026-09-27T21:38:59.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/7b82c3596ad74e91e5a85841f95b17b0.json"
+      "path": "articles/43aa10013f5cbea3a86e42e0479160fb.json"
     },
     {
       "id": "ac4a9601cf2677a4807621666c7a4653",
@@ -47,22 +72,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/ac4a9601cf2677a4807621666c7a4653.json"
-    },
-    {
-      "id": "8185e588fe3ed28466e98201c86dd607",
-      "title": "Here are the 4 big things we're watching in the stock market in the week ahead",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342390-1785415941466-gettyimages-2287553149-AFP_C3J43AD.jpeg?v=1788288022&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-27T16:16:43.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/8185e588fe3ed28466e98201c86dd607.json"
     },
     {
       "id": "553e020234cf2e87f7973a4ca1a3e275",

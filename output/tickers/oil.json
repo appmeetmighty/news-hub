@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-28T10:30:54.792Z",
+  "updated_at": "2026-09-28T10:45:38.372Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "7b82c3596ad74e91e5a85841f95b17b0",
@@ -31,8 +31,24 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-28T10:29:56.000Z",
+      "published_at": "2026-09-28T10:39:22.000Z",
       "related": [
+        {
+          "id": "8ab19ec3c5f050e1fe54e8543ff2c972",
+          "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9b2334bbdd72659a819b0cd5f242c7fb85126fd-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T10:15:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8ab19ec3c5f050e1fe54e8543ff2c972.json"
+        },
         {
           "id": "2f2bd620fc36bb074888ca0760782ae6",
           "title": "Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs",
@@ -96,25 +112,127 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/43aa10013f5cbea3a86e42e0479160fb.json"
-        },
-        {
-          "id": "ac4a9601cf2677a4807621666c7a4653",
-          "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
-          "image": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-27T19:13:27.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ac4a9601cf2677a4807621666c7a4653.json"
         }
       ],
       "path": "articles/7b82c3596ad74e91e5a85841f95b17b0.json"
+    },
+    {
+      "id": "8ab19ec3c5f050e1fe54e8543ff2c972",
+      "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
+      "description": "Bitcoin fell 1.7% to $83,000, though the CoinDesk 100 dropped 2.6% as Friday's biggest gainers reversed and oil climbed back above $100.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-falls-to-usd83-000-while-altcoins-unwind-friday-s-rally",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9b2334bbdd72659a819b0cd5f242c7fb85126fd-1920x1080.png?auto=format&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-28T10:15:04.000Z",
+      "related": [
+        {
+          "id": "2f2bd620fc36bb074888ca0760782ae6",
+          "title": "Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebaf866a3e8c92fff04625aa26fa50c89eb771d3-1318x732.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T10:02:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f2bd620fc36bb074888ca0760782ae6.json"
+        },
+        {
+          "id": "95fc8420b96dbaa2266163d836115bd9",
+          "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6f1b0d6a21e1b90fcb2e94a08e782b25a7ac1d71-2592x1458.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T09:45:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/95fc8420b96dbaa2266163d836115bd9.json"
+        },
+        {
+          "id": "fc99cf3e24878feeb03291e24fca6dd7",
+          "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/77696cb11ed522d8f5a7bb512cc29ab103a42ee7-1542x969.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-25T11:54:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/fc99cf3e24878feeb03291e24fca6dd7.json"
+        },
+        {
+          "id": "05c26a08258516e8079bd68aa902656d",
+          "title": "Bitcoin bears pay to bet on further declines as futures positions near yearly lows",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/babb8de4595496b1a7326290dc7d02a14313e72b-3200x1800.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T09:29:34.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/05c26a08258516e8079bd68aa902656d.json"
+        },
+        {
+          "id": "cdbbe214c72d0eadf5cea16c290f97a7",
+          "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c76047d96bfdc52edf0fb1572c41862de3f9f133-2183x1153.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T03:58:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cdbbe214c72d0eadf5cea16c290f97a7.json"
+        }
+      ],
+      "path": "articles/8ab19ec3c5f050e1fe54e8543ff2c972.json"
     },
     {
       "id": "2f2bd620fc36bb074888ca0760782ae6",
@@ -151,6 +269,22 @@
       ],
       "published_at": "2026-09-28T10:02:37.000Z",
       "related": [
+        {
+          "id": "8ab19ec3c5f050e1fe54e8543ff2c972",
+          "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9b2334bbdd72659a819b0cd5f242c7fb85126fd-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T10:15:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8ab19ec3c5f050e1fe54e8543ff2c972.json"
+        },
         {
           "id": "cdbbe214c72d0eadf5cea16c290f97a7",
           "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
@@ -214,22 +348,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a02eae6fef2694198538ef920a35f6e3.json"
-        },
-        {
-          "id": "fc99cf3e24878feeb03291e24fca6dd7",
-          "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/77696cb11ed522d8f5a7bb512cc29ab103a42ee7-1542x969.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-25T11:54:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/fc99cf3e24878feeb03291e24fca6dd7.json"
         }
       ],
       "path": "articles/2f2bd620fc36bb074888ca0760782ae6.json"

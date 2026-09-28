@@ -1,10 +1,150 @@
 {
-  "updated_at": "2026-09-28T13:15:54.725Z",
+  "updated_at": "2026-09-28T13:30:58.018Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 15,
+  "total": 14,
   "articles": [
+    {
+      "id": "3475deca9cf1a52dc3bb4d040c44a906",
+      "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+      "description": "Sen. Elizabeth Warren is asking the leaders of Meta, Google, Amazon and Microsoft about AI and data center subsidies authorized by GOP legislation.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-28T13:24:39.000Z",
+      "related": [
+        {
+          "id": "6bb5df465bafac00cbbb82aa86c5b727",
+          "title": "Meta hires MongoDB CEO CJ Desai, sending shares of data services company down",
+          "image": "https://image.cnbcfm.com/api/v1/image/108368717-1790599580416-AP4672736060371713.jpg?v=1790599594&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T13:29:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6bb5df465bafac00cbbb82aa86c5b727.json"
+        },
+        {
+          "id": "124b2bb91fa4be961d20667b08258ca0",
+          "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+          "image": "https://image.cnbcfm.com/api/v1/image/108367424-1790256490105-gettyimages-2296209094-META_CONNECT.jpeg?v=1790256521&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-27T14:33:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/124b2bb91fa4be961d20667b08258ca0.json"
+        },
+        {
+          "id": "9bc124ba3f194195c2885488457be0fc",
+          "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-26T13:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
+        },
+        {
+          "id": "07e8f9c06aa3d7c7abff6b3b63043ef2",
+          "title": "Google Built an AI That Hunts Its Own Security Bugs",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-25T19:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"
+        },
+        {
+          "id": "7cf8c2a0837c2cdbdb655397043c7d5d",
+          "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/Meta-muse-charm-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-24T19:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7cf8c2a0837c2cdbdb655397043c7d5d.json"
+        }
+      ],
+      "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+    },
     {
       "id": "fbbfae8cb655b89fe7ccdbf048b92ceb",
       "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
@@ -114,270 +254,6 @@
       "path": "articles/fbbfae8cb655b89fe7ccdbf048b92ceb.json"
     },
     {
-      "id": "2a8dc429fbff22b401909e5d6c7e5673",
-      "title": "Nvidia releases software platform to stop AI agents from misbehaving",
-      "description": "Nvidia says its new software could have prevented OpenAI's Hugging Face incident.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-28T12:32:15.000Z",
-      "related": [
-        {
-          "id": "1d48f9accfca6d034a80270f1574d104",
-          "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-          "image": "https://image.cnbcfm.com/api/v1/image/108326763-1782392209142-gettyimages-2282654401-06212026qabooswaters-10_iwaqipn9.jpeg?v=1782392429&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-28T12:50:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1d48f9accfca6d034a80270f1574d104.json"
-        },
-        {
-          "id": "0e546e41cb392ab0adc94301b94afc72",
-          "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T16:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"
-        },
-        {
-          "id": "64dc187ce47e221cf358221d9d3296af",
-          "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report  ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3HDTS8Y7GZWZ1TSH2F6ES35/hi-how-to-train-an-ai-bot-to-day-trade-crypto.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T12:46:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 15,
-          "path": "articles/64dc187ce47e221cf358221d9d3296af.json"
-        },
-        {
-          "id": "4d90878baff0cf7798316ea45ba82317",
-          "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-25T17:46:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4d90878baff0cf7798316ea45ba82317.json"
-        },
-        {
-          "id": "6287103228fbba9256964dcb81bd15f9",
-          "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-24T20:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6287103228fbba9256964dcb81bd15f9.json"
-        }
-      ],
-      "path": "articles/2a8dc429fbff22b401909e5d6c7e5673.json"
-    },
-    {
-      "id": "3475deca9cf1a52dc3bb4d040c44a906",
-      "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
-      "description": "Sen. Elizabeth Warren is asking the leaders of Meta, Google, Amazon and Microsoft about AI and data center subsidies authorized by GOP legislation.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "msft",
-          "symbol": "MSFT",
-          "name": "Microsoft",
-          "type": "company",
-          "path": "tickers/msft.json",
-          "icon": "https://logo.clearbit.com/microsoft.com"
-        },
-        {
-          "id": "amzn",
-          "symbol": "AMZN",
-          "name": "Amazon",
-          "type": "company",
-          "path": "tickers/amzn.json",
-          "icon": "https://logo.clearbit.com/amazon.com"
-        },
-        {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
-          "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
-        },
-        {
-          "id": "googl",
-          "symbol": "GOOGL",
-          "name": "Google",
-          "type": "company",
-          "path": "tickers/googl.json",
-          "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-28T12:00:01.000Z",
-      "related": [
-        {
-          "id": "6bb5df465bafac00cbbb82aa86c5b727",
-          "title": "Meta hires MongoDB CEO CJ Desai, sending shares of data services company down",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368717-1790599580416-AP4672736060371713.jpg?v=1790599594&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-28T13:15:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6bb5df465bafac00cbbb82aa86c5b727.json"
-        },
-        {
-          "id": "124b2bb91fa4be961d20667b08258ca0",
-          "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367424-1790256490105-gettyimages-2296209094-META_CONNECT.jpeg?v=1790256521&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-27T14:33:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/124b2bb91fa4be961d20667b08258ca0.json"
-        },
-        {
-          "id": "9bc124ba3f194195c2885488457be0fc",
-          "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-26T13:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
-        },
-        {
-          "id": "07e8f9c06aa3d7c7abff6b3b63043ef2",
-          "title": "Google Built an AI That Hunts Its Own Security Bugs",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-25T19:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"
-        },
-        {
-          "id": "7cf8c2a0837c2cdbdb655397043c7d5d",
-          "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/Meta-muse-charm-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-24T19:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7cf8c2a0837c2cdbdb655397043c7d5d.json"
-        }
-      ],
-      "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
-    },
-    {
       "id": "0e546e41cb392ab0adc94301b94afc72",
       "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
       "description": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months—and of how hard autonomous AI is to contain.",
@@ -459,22 +335,6 @@
           "path": "articles/64dc187ce47e221cf358221d9d3296af.json"
         },
         {
-          "id": "2a8dc429fbff22b401909e5d6c7e5673",
-          "title": "Nvidia releases software platform to stop AI agents from misbehaving",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-28T12:32:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2a8dc429fbff22b401909e5d6c7e5673.json"
-        },
-        {
           "id": "8a9ff7c3b20d6bf5c08bbb4346feb828",
           "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
@@ -489,6 +349,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/8a9ff7c3b20d6bf5c08bbb4346feb828.json"
+        },
+        {
+          "id": "60885e050b03cbc2fdacd2089c5ce426",
+          "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-25T19:45:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/60885e050b03cbc2fdacd2089c5ce426.json"
         }
       ],
       "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"
@@ -561,15 +437,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T13:15:14.000Z",
+          "published_at": "2026-09-28T13:29:05.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6bb5df465bafac00cbbb82aa86c5b727.json"
         },
         {
-          "id": "e37aea902c980c309a0e6dd679e618fe",
-          "title": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368570-1790574909813-gettyimages-2296179458-AFP_C97K8BU.jpeg?v=1790580513&w=1920&h=1080",
+          "id": "3475deca9cf1a52dc3bb4d040c44a906",
+          "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -577,14 +453,14 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T13:09:26.000Z",
+          "published_at": "2026-09-28T13:24:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e37aea902c980c309a0e6dd679e618fe.json"
+          "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
         },
         {
           "id": "7e154dbfd3e20149b220bef01369e4ef",
-          "title": "SpaceX launches Starship rocket in bid to reach orbit for first time",
+          "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
           "image": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -593,7 +469,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T13:09:06.000Z",
+          "published_at": "2026-09-28T13:23:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7e154dbfd3e20149b220bef01369e4ef.json"
@@ -645,7 +521,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T13:15:14.000Z",
+          "published_at": "2026-09-28T13:29:05.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6bb5df465bafac00cbbb82aa86c5b727.json"
@@ -661,7 +537,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T12:00:01.000Z",
+          "published_at": "2026-09-28T13:24:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
@@ -683,24 +559,8 @@
           "path": "articles/7cf8c2a0837c2cdbdb655397043c7d5d.json"
         },
         {
-          "id": "e37aea902c980c309a0e6dd679e618fe",
-          "title": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368570-1790574909813-gettyimages-2296179458-AFP_C97K8BU.jpeg?v=1790580513&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-28T13:09:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e37aea902c980c309a0e6dd679e618fe.json"
-        },
-        {
           "id": "7e154dbfd3e20149b220bef01369e4ef",
-          "title": "SpaceX launches Starship rocket in bid to reach orbit for first time",
+          "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
           "image": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -709,10 +569,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T13:09:06.000Z",
+          "published_at": "2026-09-28T13:23:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7e154dbfd3e20149b220bef01369e4ef.json"
+        },
+        {
+          "id": "98a13b2f1b3563052ce1ebe9071bbbf2",
+          "title": "Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link",
+          "image": "https://image.cnbcfm.com/api/v1/image/108322136-1781551424604-gettyimages-2267404848-ln2_2955_bksja5in.jpeg?v=1781551458&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T13:16:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/98a13b2f1b3563052ce1ebe9071bbbf2.json"
         }
       ],
       "path": "articles/124b2bb91fa4be961d20667b08258ca0.json"
@@ -901,15 +777,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T13:15:14.000Z",
+          "published_at": "2026-09-28T13:29:05.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6bb5df465bafac00cbbb82aa86c5b727.json"
         },
         {
-          "id": "e37aea902c980c309a0e6dd679e618fe",
-          "title": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368570-1790574909813-gettyimages-2296179458-AFP_C97K8BU.jpeg?v=1790580513&w=1920&h=1080",
+          "id": "3475deca9cf1a52dc3bb4d040c44a906",
+          "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -917,14 +793,14 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T13:09:26.000Z",
+          "published_at": "2026-09-28T13:24:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e37aea902c980c309a0e6dd679e618fe.json"
+          "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
         },
         {
           "id": "7e154dbfd3e20149b220bef01369e4ef",
-          "title": "SpaceX launches Starship rocket in bid to reach orbit for first time",
+          "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
           "image": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -933,7 +809,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T13:09:06.000Z",
+          "published_at": "2026-09-28T13:23:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7e154dbfd3e20149b220bef01369e4ef.json"
@@ -1009,10 +885,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T12:00:01.000Z",
+          "published_at": "2026-09-28T13:24:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+        },
+        {
+          "id": "b8f29b192a5b796386ff922848a8d13d",
+          "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T13:27:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b8f29b192a5b796386ff922848a8d13d.json"
         },
         {
           "id": "6fcb3e06ee2bd7f79388d8f341cf275d",
@@ -1045,22 +937,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ab671a0458e6560ffdfd595b452ae169.json"
-        },
-        {
-          "id": "5167e3f9c2d1f9aa04354dcf5a77e0d0",
-          "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gavin-newsom-decrypt-style-01-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T10:16:25.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/5167e3f9c2d1f9aa04354dcf5a77e0d0.json"
         }
       ],
       "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
@@ -1139,6 +1015,22 @@
           "path": "articles/defb4271cf999f2da6453fdf04a8a8cf.json"
         },
         {
+          "id": "b8f29b192a5b796386ff922848a8d13d",
+          "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T13:27:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b8f29b192a5b796386ff922848a8d13d.json"
+        },
+        {
           "id": "fbbfae8cb655b89fe7ccdbf048b92ceb",
           "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/5198878a1aa4cdf20ad03aadd53bb8ebab001b90-5120x2880.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1153,22 +1045,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/fbbfae8cb655b89fe7ccdbf048b92ceb.json"
-        },
-        {
-          "id": "6fcb3e06ee2bd7f79388d8f341cf275d",
-          "title": "Strategy Sets New BTC Holdings Record After $143M Bitcoin Purchase",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T12:45:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6fcb3e06ee2bd7f79388d8f341cf275d.json"
         }
       ],
       "path": "articles/60885e050b03cbc2fdacd2089c5ce426.json"
@@ -1233,10 +1109,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T12:00:01.000Z",
+          "published_at": "2026-09-28T13:24:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+        },
+        {
+          "id": "b8f29b192a5b796386ff922848a8d13d",
+          "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T13:27:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b8f29b192a5b796386ff922848a8d13d.json"
         },
         {
           "id": "6fcb3e06ee2bd7f79388d8f341cf275d",
@@ -1269,22 +1161,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ab671a0458e6560ffdfd595b452ae169.json"
-        },
-        {
-          "id": "5167e3f9c2d1f9aa04354dcf5a77e0d0",
-          "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gavin-newsom-decrypt-style-01-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T10:16:25.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/5167e3f9c2d1f9aa04354dcf5a77e0d0.json"
         }
       ],
       "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"
@@ -1349,7 +1225,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T13:15:14.000Z",
+          "published_at": "2026-09-28T13:29:05.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6bb5df465bafac00cbbb82aa86c5b727.json"
@@ -1365,10 +1241,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T12:00:01.000Z",
+          "published_at": "2026-09-28T13:24:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+        },
+        {
+          "id": "b8f29b192a5b796386ff922848a8d13d",
+          "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T13:27:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b8f29b192a5b796386ff922848a8d13d.json"
         },
         {
           "id": "6fcb3e06ee2bd7f79388d8f341cf275d",
@@ -1385,22 +1277,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6fcb3e06ee2bd7f79388d8f341cf275d.json"
-        },
-        {
-          "id": "ab671a0458e6560ffdfd595b452ae169",
-          "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T12:03:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ab671a0458e6560ffdfd595b452ae169.json"
         }
       ],
       "path": "articles/7cf8c2a0837c2cdbdb655397043c7d5d.json"
@@ -1445,6 +1321,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/84f4da2ef8100a9f1b1cbd71538337dd.json"
+        },
+        {
+          "id": "b8f29b192a5b796386ff922848a8d13d",
+          "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T13:27:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b8f29b192a5b796386ff922848a8d13d.json"
         },
         {
           "id": "6fcb3e06ee2bd7f79388d8f341cf275d",
@@ -1493,22 +1385,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/5167e3f9c2d1f9aa04354dcf5a77e0d0.json"
-        },
-        {
-          "id": "78f7a83e386d3f9bd80908be49f28870",
-          "title": "Here’s what happened in crypto today",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T04:57:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
         }
       ],
       "path": "articles/6db29edc7b0810fb9c3bcef6995676d9.json"

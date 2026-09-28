@@ -1,10 +1,150 @@
 {
-  "updated_at": "2026-09-28T12:01:16.884Z",
+  "updated_at": "2026-09-28T12:15:42.130Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 14,
   "articles": [
+    {
+      "id": "3475deca9cf1a52dc3bb4d040c44a906",
+      "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+      "description": "Sen. Elizabeth Warren is asking the leaders of Meta, Google, Amazon and Microsoft about AI and data center subsidies authorized by GOP legislation.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-28T12:00:01.000Z",
+      "related": [
+        {
+          "id": "bee68d59211a127555ad806cb0a095b4",
+          "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
+          "image": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-27T23:33:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bee68d59211a127555ad806cb0a095b4.json"
+        },
+        {
+          "id": "124b2bb91fa4be961d20667b08258ca0",
+          "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+          "image": "https://image.cnbcfm.com/api/v1/image/108367424-1790256490105-gettyimages-2296209094-META_CONNECT.jpeg?v=1790256521&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-27T14:33:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/124b2bb91fa4be961d20667b08258ca0.json"
+        },
+        {
+          "id": "9bc124ba3f194195c2885488457be0fc",
+          "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-26T13:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
+        },
+        {
+          "id": "07e8f9c06aa3d7c7abff6b3b63043ef2",
+          "title": "Google Built an AI That Hunts Its Own Security Bugs",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-25T19:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"
+        },
+        {
+          "id": "7cf8c2a0837c2cdbdb655397043c7d5d",
+          "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/Meta-muse-charm-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-24T19:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7cf8c2a0837c2cdbdb655397043c7d5d.json"
+        }
+      ],
+      "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+    },
     {
       "id": "2a8dc429fbff22b401909e5d6c7e5673",
       "title": "Nvidia releases software platform to stop AI agents from misbehaving",
@@ -46,22 +186,6 @@
       ],
       "published_at": "2026-09-28T11:42:00.000Z",
       "related": [
-        {
-          "id": "8178d05371cc5ffba07bd0f9df7b7b5c",
-          "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367086-1790191953634-gettyimages-2296171253-UNGA_2026.jpeg?v=1790192037&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-26T17:10:32.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8178d05371cc5ffba07bd0f9df7b7b5c.json"
-        },
         {
           "id": "0e546e41cb392ab0adc94301b94afc72",
           "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
@@ -125,6 +249,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6287103228fbba9256964dcb81bd15f9.json"
+        },
+        {
+          "id": "a04674b757ff647d0e47ca5d2eb2f936",
+          "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+          "image": "https://image.cnbcfm.com/api/v1/image/108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpeg?v=1756930358&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T12:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a04674b757ff647d0e47ca5d2eb2f936.json"
         }
       ],
       "path": "articles/2a8dc429fbff22b401909e5d6c7e5673.json"
@@ -227,20 +367,20 @@
           "path": "articles/2a8dc429fbff22b401909e5d6c7e5673.json"
         },
         {
-          "id": "8178d05371cc5ffba07bd0f9df7b7b5c",
-          "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367086-1790191953634-gettyimages-2296171253-UNGA_2026.jpeg?v=1790192037&w=1920&h=1080",
+          "id": "8a9ff7c3b20d6bf5c08bbb4346feb828",
+          "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-26T17:10:32.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-26T15:01:05.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8178d05371cc5ffba07bd0f9df7b7b5c.json"
+          "path": "articles/8a9ff7c3b20d6bf5c08bbb4346feb828.json"
         }
       ],
       "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"
@@ -303,6 +443,38 @@
           "path": "articles/0a7eed41eabc141f1ddb3defba5f5a4f.json"
         },
         {
+          "id": "a04674b757ff647d0e47ca5d2eb2f936",
+          "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+          "image": "https://image.cnbcfm.com/api/v1/image/108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpeg?v=1756930358&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T12:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a04674b757ff647d0e47ca5d2eb2f936.json"
+        },
+        {
+          "id": "3475deca9cf1a52dc3bb4d040c44a906",
+          "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+        },
+        {
           "id": "98a13b2f1b3563052ce1ebe9071bbbf2",
           "title": "Police 'investigate Iran link' to suspected bomb plot at UK air base used by U.S.",
           "image": "https://image.cnbcfm.com/api/v1/image/108322136-1781551424604-gettyimages-2267404848-ln2_2955_bksja5in.jpeg?v=1781551458&w=1920&h=1080",
@@ -317,38 +489,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/98a13b2f1b3563052ce1ebe9071bbbf2.json"
-        },
-        {
-          "id": "2a8dc429fbff22b401909e5d6c7e5673",
-          "title": "Nvidia releases software platform to stop AI agents from misbehaving",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-28T11:42:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2a8dc429fbff22b401909e5d6c7e5673.json"
-        },
-        {
-          "id": "6562292990c53cfd2ae5e5c643acf9a0",
-          "title": "Whole Foods co-founder shares 3 tips for launching a successful second act: 'I'm relearning some lessons'",
-          "image": "https://image.cnbcfm.com/api/v1/image/104534224-1790354840846-John_mackey.png?v=1790354868&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-28T11:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6562292990c53cfd2ae5e5c643acf9a0.json"
         }
       ],
       "path": "articles/bf49c64b87ec0a97d8dd025fd5ee374d.json"
@@ -387,6 +527,22 @@
       "published_at": "2026-09-27T14:33:22.000Z",
       "related": [
         {
+          "id": "3475deca9cf1a52dc3bb4d040c44a906",
+          "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+        },
+        {
           "id": "bee68d59211a127555ad806cb0a095b4",
           "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
           "image": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080",
@@ -401,22 +557,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bee68d59211a127555ad806cb0a095b4.json"
-        },
-        {
-          "id": "f4d4a5b0a0af6a465388a5ed1e0fdae8",
-          "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
-          "image": "https://image.cnbcfm.com/api/v1/image/108355305-17878516282026-08-27t172438z_2070356008_rc257navmzp0_rtrmadp_0_usa-trump.jpeg?v=1787851687&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-25T13:32:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f4d4a5b0a0af6a465388a5ed1e0fdae8.json"
         },
         {
           "id": "7cf8c2a0837c2cdbdb655397043c7d5d",
@@ -435,9 +575,9 @@
           "path": "articles/7cf8c2a0837c2cdbdb655397043c7d5d.json"
         },
         {
-          "id": "8178d05371cc5ffba07bd0f9df7b7b5c",
-          "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367086-1790191953634-gettyimages-2296171253-UNGA_2026.jpeg?v=1790192037&w=1920&h=1080",
+          "id": "a04674b757ff647d0e47ca5d2eb2f936",
+          "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+          "image": "https://image.cnbcfm.com/api/v1/image/108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpeg?v=1756930358&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -445,10 +585,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-26T17:10:32.000Z",
+          "published_at": "2026-09-28T12:13:56.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8178d05371cc5ffba07bd0f9df7b7b5c.json"
+          "path": "articles/a04674b757ff647d0e47ca5d2eb2f936.json"
         },
         {
           "id": "98a13b2f1b3563052ce1ebe9071bbbf2",
@@ -611,6 +751,22 @@
       "published_at": "2026-09-26T13:30:06.000Z",
       "related": [
         {
+          "id": "a04674b757ff647d0e47ca5d2eb2f936",
+          "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+          "image": "https://image.cnbcfm.com/api/v1/image/108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpeg?v=1756930358&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T12:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a04674b757ff647d0e47ca5d2eb2f936.json"
+        },
+        {
           "id": "0a7eed41eabc141f1ddb3defba5f5a4f",
           "title": "Treasury yields edge higher amid pressure on global government bonds",
           "image": "https://image.cnbcfm.com/api/v1/image/108368176-17903514452026-09-25t154124z_1017060771_rc2dqnadx12l_rtrmadp_0_usa-stocks.jpeg?v=1790351462&w=1920&h=1080",
@@ -625,6 +781,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0a7eed41eabc141f1ddb3defba5f5a4f.json"
+        },
+        {
+          "id": "3475deca9cf1a52dc3bb4d040c44a906",
+          "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
         },
         {
           "id": "98a13b2f1b3563052ce1ebe9071bbbf2",
@@ -657,38 +829,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2a8dc429fbff22b401909e5d6c7e5673.json"
-        },
-        {
-          "id": "6562292990c53cfd2ae5e5c643acf9a0",
-          "title": "Whole Foods co-founder shares 3 tips for launching a successful second act: 'I'm relearning some lessons'",
-          "image": "https://image.cnbcfm.com/api/v1/image/104534224-1790354840846-John_mackey.png?v=1790354868&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-28T11:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6562292990c53cfd2ae5e5c643acf9a0.json"
-        },
-        {
-          "id": "7b82c3596ad74e91e5a85841f95b17b0",
-          "title": "Oil prices jump over 4% as Trump rejects Iranian proposal to reopen Strait of Hormuz",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-28T10:39:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7b82c3596ad74e91e5a85841f95b17b0.json"
         }
       ],
       "path": "articles/34ada08d0d9a9b186b2ecdc196348b04.json"
@@ -751,6 +891,38 @@
           "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"
         },
         {
+          "id": "3475deca9cf1a52dc3bb4d040c44a906",
+          "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+        },
+        {
+          "id": "ab671a0458e6560ffdfd595b452ae169",
+          "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T12:03:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ab671a0458e6560ffdfd595b452ae169.json"
+        },
+        {
           "id": "5167e3f9c2d1f9aa04354dcf5a77e0d0",
           "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gavin-newsom-decrypt-style-01-gID_7.jpg@png",
@@ -781,38 +953,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"
-        },
-        {
-          "id": "61a24ef429f370e6b3bbf425c62955bb",
-          "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T15:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/61a24ef429f370e6b3bbf425c62955bb.json"
-        },
-        {
-          "id": "9ed328652281576c3d91886a1c92594a",
-          "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T13:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9ed328652281576c3d91886a1c92594a.json"
         }
       ],
       "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
@@ -891,6 +1031,22 @@
           "path": "articles/defb4271cf999f2da6453fdf04a8a8cf.json"
         },
         {
+          "id": "ab671a0458e6560ffdfd595b452ae169",
+          "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T12:03:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ab671a0458e6560ffdfd595b452ae169.json"
+        },
+        {
           "id": "5167e3f9c2d1f9aa04354dcf5a77e0d0",
           "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gavin-newsom-decrypt-style-01-gID_7.jpg@png",
@@ -905,22 +1061,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/5167e3f9c2d1f9aa04354dcf5a77e0d0.json"
-        },
-        {
-          "id": "61a24ef429f370e6b3bbf425c62955bb",
-          "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T15:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/61a24ef429f370e6b3bbf425c62955bb.json"
         }
       ],
       "path": "articles/60885e050b03cbc2fdacd2089c5ce426.json"
@@ -975,6 +1115,38 @@
           "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
         },
         {
+          "id": "3475deca9cf1a52dc3bb4d040c44a906",
+          "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+        },
+        {
+          "id": "ab671a0458e6560ffdfd595b452ae169",
+          "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T12:03:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ab671a0458e6560ffdfd595b452ae169.json"
+        },
+        {
           "id": "5167e3f9c2d1f9aa04354dcf5a77e0d0",
           "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gavin-newsom-decrypt-style-01-gID_7.jpg@png",
@@ -1005,157 +1177,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"
-        },
-        {
-          "id": "61a24ef429f370e6b3bbf425c62955bb",
-          "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T15:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/61a24ef429f370e6b3bbf425c62955bb.json"
-        },
-        {
-          "id": "9ed328652281576c3d91886a1c92594a",
-          "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T13:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9ed328652281576c3d91886a1c92594a.json"
         }
       ],
       "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"
-    },
-    {
-      "id": "f4d4a5b0a0af6a465388a5ed1e0fdae8",
-      "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
-      "description": "Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in \"Lake America\" sweatshirts.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108355305-17878516282026-08-27t172438z_2070356008_rc257navmzp0_rtrmadp_0_usa-trump.jpeg?v=1787851687&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
-          "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-25T13:32:57.000Z",
-      "related": [
-        {
-          "id": "bee68d59211a127555ad806cb0a095b4",
-          "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
-          "image": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-27T23:33:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bee68d59211a127555ad806cb0a095b4.json"
-        },
-        {
-          "id": "124b2bb91fa4be961d20667b08258ca0",
-          "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367424-1790256490105-gettyimages-2296209094-META_CONNECT.jpeg?v=1790256521&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-27T14:33:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/124b2bb91fa4be961d20667b08258ca0.json"
-        },
-        {
-          "id": "7cf8c2a0837c2cdbdb655397043c7d5d",
-          "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/Meta-muse-charm-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-24T19:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7cf8c2a0837c2cdbdb655397043c7d5d.json"
-        },
-        {
-          "id": "98a13b2f1b3563052ce1ebe9071bbbf2",
-          "title": "Police 'investigate Iran link' to suspected bomb plot at UK air base used by U.S.",
-          "image": "https://image.cnbcfm.com/api/v1/image/108322136-1781551424604-gettyimages-2267404848-ln2_2955_bksja5in.jpeg?v=1781551458&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-28T11:59:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/98a13b2f1b3563052ce1ebe9071bbbf2.json"
-        },
-        {
-          "id": "2a8dc429fbff22b401909e5d6c7e5673",
-          "title": "Nvidia releases software platform to stop AI agents from misbehaving",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-28T11:42:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2a8dc429fbff22b401909e5d6c7e5673.json"
-        }
-      ],
-      "path": "articles/f4d4a5b0a0af6a465388a5ed1e0fdae8.json"
     },
     {
       "id": "7cf8c2a0837c2cdbdb655397043c7d5d",
@@ -1207,6 +1231,22 @@
           "path": "articles/124b2bb91fa4be961d20667b08258ca0.json"
         },
         {
+          "id": "3475deca9cf1a52dc3bb4d040c44a906",
+          "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+        },
+        {
           "id": "bee68d59211a127555ad806cb0a095b4",
           "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
           "image": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080",
@@ -1223,20 +1263,20 @@
           "path": "articles/bee68d59211a127555ad806cb0a095b4.json"
         },
         {
-          "id": "f4d4a5b0a0af6a465388a5ed1e0fdae8",
-          "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
-          "image": "https://image.cnbcfm.com/api/v1/image/108355305-17878516282026-08-27t172438z_2070356008_rc257navmzp0_rtrmadp_0_usa-trump.jpeg?v=1787851687&w=1920&h=1080",
+          "id": "ab671a0458e6560ffdfd595b452ae169",
+          "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-25T13:32:57.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-28T12:03:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/f4d4a5b0a0af6a465388a5ed1e0fdae8.json"
+          "path": "articles/ab671a0458e6560ffdfd595b452ae169.json"
         },
         {
           "id": "5167e3f9c2d1f9aa04354dcf5a77e0d0",
@@ -1253,22 +1293,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/5167e3f9c2d1f9aa04354dcf5a77e0d0.json"
-        },
-        {
-          "id": "0e546e41cb392ab0adc94301b94afc72",
-          "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T16:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"
         }
       ],
       "path": "articles/7cf8c2a0837c2cdbdb655397043c7d5d.json"
@@ -1313,6 +1337,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/84f4da2ef8100a9f1b1cbd71538337dd.json"
+        },
+        {
+          "id": "ab671a0458e6560ffdfd595b452ae169",
+          "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T12:03:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ab671a0458e6560ffdfd595b452ae169.json"
         },
         {
           "id": "5167e3f9c2d1f9aa04354dcf5a77e0d0",
@@ -1361,22 +1401,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"
-        },
-        {
-          "id": "61a24ef429f370e6b3bbf425c62955bb",
-          "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T15:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/61a24ef429f370e6b3bbf425c62955bb.json"
         }
       ],
       "path": "articles/6db29edc7b0810fb9c3bcef6995676d9.json"
@@ -1412,6 +1436,22 @@
       ],
       "published_at": "2026-09-24T13:01:03.000Z",
       "related": [
+        {
+          "id": "ab671a0458e6560ffdfd595b452ae169",
+          "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T12:03:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ab671a0458e6560ffdfd595b452ae169.json"
+        },
         {
           "id": "9ed328652281576c3d91886a1c92594a",
           "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
@@ -1475,22 +1515,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0946abafd206d4f11aa875f0b47a91c8.json"
-        },
-        {
-          "id": "b80b245bad6ad7be2493b57a38f16672",
-          "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/pete-hegseth-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-25T12:01:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b80b245bad6ad7be2493b57a38f16672.json"
         }
       ],
       "path": "articles/54acf482b54c0b849e20e0680255ac6a.json"

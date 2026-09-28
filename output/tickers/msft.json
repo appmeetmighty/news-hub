@@ -1,11 +1,151 @@
 {
-  "updated_at": "2026-09-28T12:01:16.891Z",
+  "updated_at": "2026-09-28T12:15:42.130Z",
   "id": "msft",
   "symbol": "MSFT",
   "name": "Microsoft",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "3475deca9cf1a52dc3bb4d040c44a906",
+      "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+      "description": "Sen. Elizabeth Warren is asking the leaders of Meta, Google, Amazon and Microsoft about AI and data center subsidies authorized by GOP legislation.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-28T12:00:01.000Z",
+      "related": [
+        {
+          "id": "bee68d59211a127555ad806cb0a095b4",
+          "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
+          "image": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-27T23:33:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bee68d59211a127555ad806cb0a095b4.json"
+        },
+        {
+          "id": "124b2bb91fa4be961d20667b08258ca0",
+          "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+          "image": "https://image.cnbcfm.com/api/v1/image/108367424-1790256490105-gettyimages-2296209094-META_CONNECT.jpeg?v=1790256521&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-27T14:33:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/124b2bb91fa4be961d20667b08258ca0.json"
+        },
+        {
+          "id": "9bc124ba3f194195c2885488457be0fc",
+          "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-26T13:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
+        },
+        {
+          "id": "07e8f9c06aa3d7c7abff6b3b63043ef2",
+          "title": "Google Built an AI That Hunts Its Own Security Bugs",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-25T19:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"
+        },
+        {
+          "id": "7cf8c2a0837c2cdbdb655397043c7d5d",
+          "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/Meta-muse-charm-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-24T19:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7cf8c2a0837c2cdbdb655397043c7d5d.json"
+        }
+      ],
+      "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+    },
     {
       "id": "bee68d59211a127555ad806cb0a095b4",
       "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
@@ -50,6 +190,22 @@
       "published_at": "2026-09-27T23:33:21.000Z",
       "related": [
         {
+          "id": "3475deca9cf1a52dc3bb4d040c44a906",
+          "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-28T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+        },
+        {
           "id": "4273a6aaa84c62a0b2407e99798553a3",
           "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
           "image": "https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&w=1920&h=1080",
@@ -80,22 +236,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/124b2bb91fa4be961d20667b08258ca0.json"
-        },
-        {
-          "id": "f4d4a5b0a0af6a465388a5ed1e0fdae8",
-          "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
-          "image": "https://image.cnbcfm.com/api/v1/image/108355305-17878516282026-08-27t172438z_2070356008_rc257navmzp0_rtrmadp_0_usa-trump.jpeg?v=1787851687&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-25T13:32:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f4d4a5b0a0af6a465388a5ed1e0fdae8.json"
         },
         {
           "id": "1d351892347656d229911930ef7f849c",

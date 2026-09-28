@@ -1,11 +1,11 @@
 {
-  "id": "bf49c64b87ec0a97d8dd025fd5ee374d",
-  "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-  "description": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+  "id": "7e154dbfd3e20149b220bef01369e4ef",
+  "title": "SpaceX prepares to send Starship rocket to orbit for first time",
+  "description": "Elon Musk's SpaceX is poised to launch a historic test flight of its massive Starship rocket early Monday.",
   "reading_time_minutes": 1,
-  "breaking_score": 20,
-  "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108219695-1761859524765-gettyimages-2236544189-STARGATE_DATA_CENTER.jpeg?v=1790259549&w=1920&h=1080",
+  "breaking_score": 0,
+  "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,13 +15,23 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com"
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
       "icon": ""
     }
   ],
-  "published_at": "2026-09-27T15:35:34.000Z",
+  "published_at": "2026-09-28T04:12:20.000Z",
   "related": [
     {
       "id": "7b82c3596ad74e91e5a85841f95b17b0",
@@ -38,22 +48,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/7b82c3596ad74e91e5a85841f95b17b0.json"
-    },
-    {
-      "id": "7e154dbfd3e20149b220bef01369e4ef",
-      "title": "SpaceX prepares to send Starship rocket to orbit for first time",
-      "image": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-28T04:12:20.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/7e154dbfd3e20149b220bef01369e4ef.json"
     },
     {
       "id": "1dc722cab5e5deac1c426479f6e31c23",
@@ -102,6 +96,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/bd74cb20adc06797854d0473102e1ff3.json"
+    },
+    {
+      "id": "bee68d59211a127555ad806cb0a095b4",
+      "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
+      "image": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-27T23:33:21.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/bee68d59211a127555ad806cb0a095b4.json"
     }
   ]
 }

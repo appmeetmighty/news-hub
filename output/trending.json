@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28T13:01:13.430Z",
+  "updated_at": "2026-09-28T13:15:54.737Z",
   "articles": {
-    "generated_at": "2026-09-28T13:01:13.430Z",
+    "generated_at": "2026-09-28T13:15:54.737Z",
     "topics": [
       {
         "id": "crypto",
@@ -157,7 +157,7 @@
         "name": "Regulation",
         "type": "topic",
         "icon": "",
-        "count": 25,
+        "count": 24,
         "articles": [
           {
             "id": "ab671a0458e6560ffdfd595b452ae169",
@@ -395,7 +395,7 @@
           {
             "id": "2f2bd620fc36bb074888ca0760782ae6",
             "title": "Live updates: Bitcoin trims losses as oil eases on hopes of U.S. and Iran talks",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebaf866a3e8c92fff04625aa26fa50c89eb771d3-1318x732.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb783461a08ea1e246fa2616ed438a056dd7b5ee-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
             "source": {
               "id": "coindesk",
               "name": "CoinDesk",
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 14,
+        "count": 15,
         "articles": [
+          {
+            "id": "fbbfae8cb655b89fe7ccdbf048b92ceb",
+            "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/5198878a1aa4cdf20ad03aadd53bb8ebab001b90-5120x2880.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-28T13:06:11.000Z",
+            "path": "articles/fbbfae8cb655b89fe7ccdbf048b92ceb.json"
+          },
           {
             "id": "2a8dc429fbff22b401909e5d6c7e5673",
             "title": "Nvidia releases software platform to stop AI agents from misbehaving",
@@ -582,20 +596,6 @@
             "category": "crypto",
             "published_at": "2026-09-25T19:45:39.000Z",
             "path": "articles/60885e050b03cbc2fdacd2089c5ce426.json"
-          },
-          {
-            "id": "07e8f9c06aa3d7c7abff6b3b63043ef2",
-            "title": "Google Built an AI That Hunts Its Own Security Bugs",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-25T19:16:04.000Z",
-            "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"
           }
         ]
       },
@@ -1259,7 +1259,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-09-28T13:00:29.000Z",
+            "published_at": "2026-09-28T13:15:14.000Z",
             "path": "articles/6bb5df465bafac00cbbb82aa86c5b727.json"
           },
           {
@@ -1409,7 +1409,7 @@
           {
             "id": "2f2bd620fc36bb074888ca0760782ae6",
             "title": "Live updates: Bitcoin trims losses as oil eases on hopes of U.S. and Iran talks",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebaf866a3e8c92fff04625aa26fa50c89eb771d3-1318x732.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb783461a08ea1e246fa2616ed438a056dd7b5ee-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
             "source": {
               "id": "coindesk",
               "name": "CoinDesk",
@@ -1585,6 +1585,52 @@
         ]
       },
       {
+        "id": "tsla",
+        "name": "Tesla",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/tesla.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "7e154dbfd3e20149b220bef01369e4ef",
+            "title": "SpaceX launches Starship rocket in bid to reach orbit for first time",
+            "image": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-28T13:09:06.000Z",
+            "path": "articles/7e154dbfd3e20149b220bef01369e4ef.json"
+          }
+        ]
+      },
+      {
+        "id": "spacex",
+        "name": "SpaceX",
+        "type": "company",
+        "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "7e154dbfd3e20149b220bef01369e4ef",
+            "title": "SpaceX launches Starship rocket in bid to reach orbit for first time",
+            "image": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-28T13:09:06.000Z",
+            "path": "articles/7e154dbfd3e20149b220bef01369e4ef.json"
+          }
+        ]
+      },
+      {
         "id": "msft",
         "name": "Microsoft",
         "type": "company",
@@ -1627,52 +1673,6 @@
             "category": "stocks",
             "published_at": "2026-09-28T12:00:01.000Z",
             "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
-          }
-        ]
-      },
-      {
-        "id": "tsla",
-        "name": "Tesla",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/tesla.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "7e154dbfd3e20149b220bef01369e4ef",
-            "title": "SpaceX prepares to send Starship rocket to orbit for first time",
-            "image": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-28T10:17:39.000Z",
-            "path": "articles/7e154dbfd3e20149b220bef01369e4ef.json"
-          }
-        ]
-      },
-      {
-        "id": "spacex",
-        "name": "SpaceX",
-        "type": "company",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "7e154dbfd3e20149b220bef01369e4ef",
-            "title": "SpaceX prepares to send Starship rocket to orbit for first time",
-            "image": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-28T10:17:39.000Z",
-            "path": "articles/7e154dbfd3e20149b220bef01369e4ef.json"
           }
         ]
       },

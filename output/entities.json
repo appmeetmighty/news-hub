@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-28T20:30:56.100Z",
-  "total": 29,
+  "updated_at": "2026-09-28T20:45:41.430Z",
+  "total": 30,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 24
+    },
     {
       "id": "regulation",
       "name": "Regulation",
@@ -16,13 +23,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 22
     },
     {
@@ -46,14 +46,14 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 9
+      "count": 10
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 8
+      "count": 9
     },
     {
       "id": "openai",
@@ -71,7 +71,7 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
-      "count": 5
+      "count": 4
     },
     {
       "id": "anthropic",
@@ -110,21 +110,21 @@
       "count": 4
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 3
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
       "count": 3
     },
     {
@@ -144,6 +144,15 @@
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
       "count": 2
+    },
+    {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "amd",

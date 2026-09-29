@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T09:45:38.659Z",
+  "updated_at": "2026-09-29T10:01:10.270Z",
   "total": 28,
   "entities": [
     {
@@ -9,6 +9,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 24
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
       "count": 23
     },
     {
@@ -24,13 +31,6 @@
       "type": "topic",
       "icon": "",
       "count": 21
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 20
     },
     {
       "id": "eth",
@@ -62,7 +62,16 @@
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 6
+      "count": 7
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "anthropic",
@@ -83,12 +92,12 @@
       "count": 5
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
       "count": 4
     },
     {
@@ -101,13 +110,13 @@
       "count": 4
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
+      "id": "amd",
+      "symbol": "AMD",
+      "name": "AMD",
       "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 3
+      "path": "tickers/amd.json",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "xrp",
@@ -116,7 +125,7 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 3
+      "count": 2
     },
     {
       "id": "sol",
@@ -147,15 +156,6 @@
       "id": "web3",
       "name": "Web3",
       "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "amd",
-      "symbol": "AMD",
-      "name": "AMD",
-      "type": "company",
-      "path": "tickers/amd.json",
       "icon": "",
       "count": 1
     },

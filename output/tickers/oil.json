@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-09-29T09:45:38.653Z",
+  "updated_at": "2026-09-29T10:01:10.256Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
-      "id": "512f8037d572ffddd0a1831fb08217eb",
-      "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
-      "description": "Global stocks fell to a one-week low as Brent rose for a second day and traders added to bets on more Federal Reserve rate hikes ahead of Wednesday's PCE inflation data.",
+      "id": "3293a686ccb66ebeb012351b4f69e174",
+      "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+      "description": "Bitcoin is on track for a third straight monthly gain, but higher yields, oil prices and two major November events could test its Q4 momentum.",
       "reading_time_minutes": 1,
-      "breaking_score": 55,
-      "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/33de5f1cc06ae3b1a947617702e2b89386a50aa1-1494x830.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0eaf8d2e978ec15cc3459b214f337e3a5ee8d3-802x505.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -39,8 +39,24 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-29T04:17:20.000Z",
+      "published_at": "2026-09-29T09:45:31.000Z",
       "related": [
+        {
+          "id": "512f8037d572ffddd0a1831fb08217eb",
+          "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/33de5f1cc06ae3b1a947617702e2b89386a50aa1-1494x830.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T04:17:20.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 55,
+          "path": "articles/512f8037d572ffddd0a1831fb08217eb.json"
+        },
         {
           "id": "8ab19ec3c5f050e1fe54e8543ff2c972",
           "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
@@ -104,11 +120,49 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/48488613ebcfa7ae91def97f4b01578c.json"
+        }
+      ],
+      "path": "articles/3293a686ccb66ebeb012351b4f69e174.json"
+    },
+    {
+      "id": "512f8037d572ffddd0a1831fb08217eb",
+      "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+      "description": "Global stocks fell to a one-week low as Brent rose for a second day and traders added to bets on more Federal Reserve rate hikes ahead of Wednesday's PCE inflation data.",
+      "reading_time_minutes": 1,
+      "breaking_score": 55,
+      "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/33de5f1cc06ae3b1a947617702e2b89386a50aa1-1494x830.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
-          "id": "2f2bd620fc36bb074888ca0760782ae6",
-          "title": "Live updates: Bitcoin remains under pressure as Iran denies report of peace progress",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7d65f1f69f156f2010635c142c9643256dba9410-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-29T04:17:20.000Z",
+      "related": [
+        {
+          "id": "8ab19ec3c5f050e1fe54e8543ff2c972",
+          "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9b2334bbdd72659a819b0cd5f242c7fb85126fd-1920x1080.png?auto=format&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -116,10 +170,74 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-09-28T10:02:37.000Z",
+          "published_at": "2026-09-28T10:15:04.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2f2bd620fc36bb074888ca0760782ae6.json"
+          "path": "articles/8ab19ec3c5f050e1fe54e8543ff2c972.json"
+        },
+        {
+          "id": "3293a686ccb66ebeb012351b4f69e174",
+          "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0eaf8d2e978ec15cc3459b214f337e3a5ee8d3-802x505.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T09:45:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3293a686ccb66ebeb012351b4f69e174.json"
+        },
+        {
+          "id": "04f18e5bf62d0901e07f8de911b9113e",
+          "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T15:26:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/04f18e5bf62d0901e07f8de911b9113e.json"
+        },
+        {
+          "id": "c0ba7f4fa0f40fed32f3d7b08ca0b6f5",
+          "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/856a0977f5be04928578ad232bbb18d29da95a30-6240x4160.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T09:06:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0ba7f4fa0f40fed32f3d7b08ca0b6f5.json"
+        },
+        {
+          "id": "48488613ebcfa7ae91def97f4b01578c",
+          "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T12:13:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/48488613ebcfa7ae91def97f4b01578c.json"
         }
       ],
       "path": "articles/512f8037d572ffddd0a1831fb08217eb.json"
@@ -168,6 +286,22 @@
           "path": "articles/04f18e5bf62d0901e07f8de911b9113e.json"
         },
         {
+          "id": "3293a686ccb66ebeb012351b4f69e174",
+          "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0eaf8d2e978ec15cc3459b214f337e3a5ee8d3-802x505.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T09:45:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3293a686ccb66ebeb012351b4f69e174.json"
+        },
+        {
           "id": "512f8037d572ffddd0a1831fb08217eb",
           "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/33de5f1cc06ae3b1a947617702e2b89386a50aa1-1494x830.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -214,22 +348,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/821272123a46d74ccfc4ffcde3494723.json"
-        },
-        {
-          "id": "d2fe91715b87b1436ead1f7d9a4e90a4",
-          "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369193-1790666904058-gettyimages-2297098121-RUS_Russian_President_Putin_Receives_Party_Leaders_Following_State_Duma_Elections.jpeg?v=1790669899&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-29T08:44:42.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/d2fe91715b87b1436ead1f7d9a4e90a4.json"
         }
       ],
       "path": "articles/f5fe6b821147d71e7c527a09b81ea343.json"
@@ -286,6 +404,22 @@
           "path": "articles/8ab19ec3c5f050e1fe54e8543ff2c972.json"
         },
         {
+          "id": "3293a686ccb66ebeb012351b4f69e174",
+          "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0eaf8d2e978ec15cc3459b214f337e3a5ee8d3-802x505.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T09:45:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3293a686ccb66ebeb012351b4f69e174.json"
+        },
+        {
           "id": "512f8037d572ffddd0a1831fb08217eb",
           "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/33de5f1cc06ae3b1a947617702e2b89386a50aa1-1494x830.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -332,22 +466,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6fcb3e06ee2bd7f79388d8f341cf275d.json"
-        },
-        {
-          "id": "2f2bd620fc36bb074888ca0760782ae6",
-          "title": "Live updates: Bitcoin remains under pressure as Iran denies report of peace progress",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7d65f1f69f156f2010635c142c9643256dba9410-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T10:02:37.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2f2bd620fc36bb074888ca0760782ae6.json"
         }
       ],
       "path": "articles/04f18e5bf62d0901e07f8de911b9113e.json"
@@ -404,6 +522,22 @@
           "path": "articles/512f8037d572ffddd0a1831fb08217eb.json"
         },
         {
+          "id": "3293a686ccb66ebeb012351b4f69e174",
+          "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0eaf8d2e978ec15cc3459b214f337e3a5ee8d3-802x505.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T09:45:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3293a686ccb66ebeb012351b4f69e174.json"
+        },
+        {
           "id": "04f18e5bf62d0901e07f8de911b9113e",
           "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
@@ -450,22 +584,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/48488613ebcfa7ae91def97f4b01578c.json"
-        },
-        {
-          "id": "2f2bd620fc36bb074888ca0760782ae6",
-          "title": "Live updates: Bitcoin remains under pressure as Iran denies report of peace progress",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7d65f1f69f156f2010635c142c9643256dba9410-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T10:02:37.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2f2bd620fc36bb074888ca0760782ae6.json"
         }
       ],
       "path": "articles/8ab19ec3c5f050e1fe54e8543ff2c972.json"

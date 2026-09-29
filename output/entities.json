@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-29T11:30:55.483Z",
+  "updated_at": "2026-09-29T11:45:37.696Z",
   "total": 28,
   "entities": [
+    {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 26
+    },
     {
       "id": "crypto",
       "name": "Crypto",
@@ -10,20 +19,11 @@
       "count": 25
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
-    },
-    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 22
+      "count": 21
     },
     {
       "id": "regulation",
@@ -39,14 +39,7 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 12
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 9
+      "count": 11
     },
     {
       "id": "stablecoin",
@@ -54,6 +47,13 @@
       "type": "topic",
       "icon": "",
       "count": 9
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 8
     },
     {
       "id": "nvda",
@@ -110,15 +110,6 @@
       "count": 3
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 3
-    },
-    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -126,6 +117,24 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 3
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "defi",
@@ -181,15 +190,6 @@
       "name": "Goldman Sachs",
       "type": "company",
       "path": "tickers/gs.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
       "icon": "",
       "count": 1
     },

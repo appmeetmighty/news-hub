@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-29T04:01:05.090Z",
+  "updated_at": "2026-09-29T04:15:37.398Z",
   "total": 28,
   "entities": [
     {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 24
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 23
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
       "type": "topic",
       "icon": "",
       "count": 23
@@ -83,6 +83,15 @@
       "count": 5
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -99,15 +108,6 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 4
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "meta",

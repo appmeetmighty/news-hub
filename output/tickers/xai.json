@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T22:01:12.506Z",
+  "updated_at": "2026-09-29T14:45:41.048Z",
   "id": "xai",
   "symbol": "XAI",
   "name": "xAI",
@@ -7,20 +7,20 @@
   "total": 1,
   "articles": [
     {
-      "id": "7622f6dd59e9bbe06efef7f93c6f8487",
-      "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
-      "description": "xAI says the new model is a \"notable improvement\" over Grok 4.6 at the same price. The benchmarks say it's still in second place.",
+      "id": "8d45458e763a99ec0c84789fd4cdbff9",
+      "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+      "description": "Trump called the new website, America.gov, \"a restoration of America's founding promise.\"",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://decrypt.co/378824/xai-launches-grok-4-7",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Grok-app-on-a-smartphone-screen-gID_7.jpg@png",
+      "url": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108369398-1790691949621-gettyimages-2297173674-TRUMP_AMERICAGOV.jpeg?v=1790691976&w=1920&h=1080",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
         {
           "id": "xai",
@@ -31,18 +31,26 @@
           "icon": ""
         },
         {
+          "id": "gemini",
+          "symbol": "GEMINI",
+          "name": "Gemini",
+          "type": "company",
+          "path": "tickers/gemini.json",
+          "icon": ""
+        },
+        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-09-21T17:16:03.000Z",
+      "published_at": "2026-09-29T14:32:15.000Z",
       "related": [
         {
-          "id": "83539a2fa129ccb083a0b78112b0f537",
-          "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+          "id": "9bc124ba3f194195c2885488457be0fc",
+          "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -50,77 +58,77 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-22T19:00:38.000Z",
+          "published_at": "2026-09-26T13:01:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/83539a2fa129ccb083a0b78112b0f537.json"
+          "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
         },
         {
-          "id": "873b7a7eed9753382bd74c8d38aed69a",
-          "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg@png",
+          "id": "d2fe91715b87b1436ead1f7d9a4e90a4",
+          "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369193-1790666904058-gettyimages-2297098121-RUS_Russian_President_Putin_Receives_Party_Leaders_Following_State_Duma_Elections.jpeg?v=1790669899&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-23T21:31:03.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-29T14:41:19.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/873b7a7eed9753382bd74c8d38aed69a.json"
+          "breaking_score": 25,
+          "path": "articles/d2fe91715b87b1436ead1f7d9a4e90a4.json"
         },
         {
-          "id": "6254fec115a2d4cd28c9b03bcc28f110",
-          "title": "Meta's Muse AI Agent Read a User's Private iMessages. Then It Lied About How",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
+          "id": "c594152115bc4695123ee6888d30ab7f",
+          "title": "Shell backs $23 billion LNG Canada expansion in boost to Carney's ‘energy superpower’ push",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369223-1790676561604-gettyimages-2224956987-CANADA_LNG.jpeg?v=1790676689&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-23T20:44:20.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-29T14:41:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6254fec115a2d4cd28c9b03bcc28f110.json"
+          "path": "articles/c594152115bc4695123ee6888d30ab7f.json"
         },
         {
-          "id": "718fda8e0b5bc4d98b2b9701573ec87d",
-          "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png",
+          "id": "bd8f786c2cae91333106edd2995088ee",
+          "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
+          "image": "https://image.cnbcfm.com/api/v1/image/108368513-1790550250137-Hawaiian_A330_Leihk_Suites_rendering_001.JPG?v=1790550287&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-23T19:36:15.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-29T14:37:09.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/718fda8e0b5bc4d98b2b9701573ec87d.json"
+          "path": "articles/bd8f786c2cae91333106edd2995088ee.json"
         },
         {
-          "id": "2a97ba576244c1ee3b1842bbc527a478",
-          "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png@png",
+          "id": "3e2cbbd5b481e361446d1c47538c8909",
+          "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359272-1788560460669-gettyimages-2293025044-AFP_C7EF26C.jpeg?v=1790619762&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-23T18:46:03.000Z",
+          "category": "stocks",
+          "published_at": "2026-09-29T14:37:07.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2a97ba576244c1ee3b1842bbc527a478.json"
+          "path": "articles/3e2cbbd5b481e361446d1c47538c8909.json"
         }
       ],
-      "path": "articles/7622f6dd59e9bbe06efef7f93c6f8487.json"
+      "path": "articles/8d45458e763a99ec0c84789fd4cdbff9.json"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "id": "7e154dbfd3e20149b220bef01369e4ef",
-  "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
-  "description": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
+  "id": "8d45458e763a99ec0c84789fd4cdbff9",
+  "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+  "description": "Trump called the new website, America.gov, \"a restoration of America's founding promise.\"",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108369398-1790691949621-gettyimages-2297173674-TRUMP_AMERICAGOV.jpeg?v=1790691976&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,55 +15,45 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "xai",
+      "symbol": "XAI",
+      "name": "xAI",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com"
+      "path": "tickers/xai.json",
+      "icon": ""
     },
     {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
       "type": "company",
-      "path": "tickers/spacex.json",
+      "path": "tickers/gemini.json",
+      "icon": ""
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-09-28T16:01:50.000Z",
+  "published_at": "2026-09-29T14:32:15.000Z",
   "related": [
     {
-      "id": "bd8f786c2cae91333106edd2995088ee",
-      "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368513-1790550250137-Hawaiian_A330_Leihk_Suites_rendering_001.JPG?v=1790550287&w=1920&h=1080",
+      "id": "9bc124ba3f194195c2885488457be0fc",
+      "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-09-29T14:37:09.000Z",
+      "category": "crypto",
+      "published_at": "2026-09-26T13:01:03.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/bd8f786c2cae91333106edd2995088ee.json"
-    },
-    {
-      "id": "7680b092ddee875a7399725c34803579",
-      "title": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market",
-      "image": "https://image.cnbcfm.com/api/v1/image/108367778-1790285251560-gettyimages-2296314920-META_CONNECT.jpeg?v=1790285330&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-09-29T12:43:08.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/7680b092ddee875a7399725c34803579.json"
+      "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
     },
     {
       "id": "d2fe91715b87b1436ead1f7d9a4e90a4",
@@ -96,6 +86,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/c594152115bc4695123ee6888d30ab7f.json"
+    },
+    {
+      "id": "bd8f786c2cae91333106edd2995088ee",
+      "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368513-1790550250137-Hawaiian_A330_Leihk_Suites_rendering_001.JPG?v=1790550287&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-09-29T14:37:09.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/bd8f786c2cae91333106edd2995088ee.json"
     },
     {
       "id": "3e2cbbd5b481e361446d1c47538c8909",

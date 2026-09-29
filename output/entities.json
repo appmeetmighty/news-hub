@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T21:15:41.738Z",
-  "total": 25,
+  "updated_at": "2026-09-29T21:30:52.398Z",
+  "total": 26,
   "entities": [
     {
       "id": "btc",
@@ -39,14 +39,21 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 8
+      "count": 7
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 8
+      "count": 7
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "oil",
@@ -63,13 +70,6 @@
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
       "icon": "",
       "count": 5
     },
@@ -142,6 +142,15 @@
       "count": 2
     },
     {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
@@ -194,21 +203,21 @@
       "count": 1
     },
     {
+      "id": "xai",
+      "symbol": "XAI",
+      "name": "xAI",
+      "type": "company",
+      "path": "tickers/xai.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "msft",
       "symbol": "MSFT",
       "name": "Microsoft",
       "type": "company",
       "path": "tickers/msft.json",
       "icon": "https://logo.clearbit.com/microsoft.com",
-      "count": 1
-    },
-    {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
-      "icon": "",
       "count": 1
     }
   ]

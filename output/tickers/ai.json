@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T21:15:41.700Z",
+  "updated_at": "2026-09-29T21:30:52.391Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
@@ -34,7 +34,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-29T21:02:55.000Z",
+      "published_at": "2026-09-29T21:18:27.000Z",
       "related": [
         {
           "id": "c07a6b346ff1e4e83fd13375f9f2ae83",
@@ -69,6 +69,22 @@
           "path": "articles/d9a1dd7510c0dee83205ff29c84290e6.json"
         },
         {
+          "id": "8d45458e763a99ec0c84789fd4cdbff9",
+          "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369398-1790691949621-gettyimages-2297173674-TRUMP_AMERICAGOV.jpeg?v=1790691976&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-29T16:55:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8d45458e763a99ec0c84789fd4cdbff9.json"
+        },
+        {
           "id": "75df8e91998b5db46aaffbed40f5caaa",
           "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
           "image": "https://image.cnbcfm.com/api/v1/image/108369758-1790709686991-gettyimages-2297232145-_c3a4940.jpeg?v=1790715823&w=1920&h=1080",
@@ -99,22 +115,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ae65b876b0fbb1325e520e3d715bc006.json"
-        },
-        {
-          "id": "f4cc83adde13b59945f5d9aa5dae495b",
-          "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367758-1790283344057-gettyimages-2296974915-bb2_1452_fivzadwt.jpeg?v=1790283488&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-29T20:51:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f4cc83adde13b59945f5d9aa5dae495b.json"
         }
       ],
       "path": "articles/662a1835a3546302453be419fe36da02.json"
@@ -539,6 +539,22 @@
           "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"
         },
         {
+          "id": "21bbe4b4479d6767be13c73764f6dfe5",
+          "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T21:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/21bbe4b4479d6767be13c73764f6dfe5.json"
+        },
+        {
           "id": "c4a7280b068ff493a81fbc236220bad7",
           "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/etf-decrypt-style-02-gID_7.png@png",
@@ -569,11 +585,55 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/24be58e31453fd974f369302db5d0fda.json"
+        }
+      ],
+      "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
+    },
+    {
+      "id": "8d45458e763a99ec0c84789fd4cdbff9",
+      "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+      "description": "Trump called the new website, America.gov, \"a restoration of America's founding promise.\"",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108369398-1790691949621-gettyimages-2297173674-TRUMP_AMERICAGOV.jpeg?v=1790691976&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "xai",
+          "symbol": "XAI",
+          "name": "xAI",
+          "type": "company",
+          "path": "tickers/xai.json",
+          "icon": ""
         },
         {
-          "id": "0f90761e65957442643395bc3c3e6d75",
-          "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/sony-ps5-playstation-5-decrypt-style-gID_7.jpg@png",
+          "id": "gemini",
+          "symbol": "GEMINI",
+          "name": "Gemini",
+          "type": "company",
+          "path": "tickers/gemini.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-29T16:55:13.000Z",
+      "related": [
+        {
+          "id": "9bc124ba3f194195c2885488457be0fc",
+          "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -581,13 +641,77 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-29T19:31:04.000Z",
+          "published_at": "2026-09-26T13:01:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/0f90761e65957442643395bc3c3e6d75.json"
+          "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
+        },
+        {
+          "id": "d9a1dd7510c0dee83205ff29c84290e6",
+          "title": "Trump government ads were funded by Homeland Security, WSJ reports",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369414-1790692965330-gettyimages-2297178420-TRUMP_AMERICAGOV.jpeg?v=1790692994&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-29T19:16:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d9a1dd7510c0dee83205ff29c84290e6.json"
+        },
+        {
+          "id": "662a1835a3546302453be419fe36da02",
+          "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369794-1790713950915-108369794-1790711674658-gettyimages-2297244120-AFP_C9Q83W4_1.jpeg?v=1790713979&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-29T21:18:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/662a1835a3546302453be419fe36da02.json"
+        },
+        {
+          "id": "c07a6b346ff1e4e83fd13375f9f2ae83",
+          "title": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
+          "image": "https://image.cnbcfm.com/api/v1/image/108270385-1772113136410-gettyimages-2258113506-TRUMP_ACCOUNTS.jpeg?v=1790711176&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-29T20:26:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c07a6b346ff1e4e83fd13375f9f2ae83.json"
+        },
+        {
+          "id": "75df8e91998b5db46aaffbed40f5caaa",
+          "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369758-1790709686991-gettyimages-2297232145-_c3a4940.jpeg?v=1790715823&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-29T21:08:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/75df8e91998b5db46aaffbed40f5caaa.json"
         }
       ],
-      "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
+      "path": "articles/8d45458e763a99ec0c84789fd4cdbff9.json"
     },
     {
       "id": "0d080e4ff733b855feca0d24224ef4ba",
@@ -637,6 +761,22 @@
           "path": "articles/cdfc5daa636b640eb875d8577d8cddb9.json"
         },
         {
+          "id": "662a1835a3546302453be419fe36da02",
+          "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369794-1790713950915-108369794-1790711674658-gettyimages-2297244120-AFP_C9Q83W4_1.jpeg?v=1790713979&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-29T21:18:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/662a1835a3546302453be419fe36da02.json"
+        },
+        {
           "id": "75df8e91998b5db46aaffbed40f5caaa",
           "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
           "image": "https://image.cnbcfm.com/api/v1/image/108369758-1790709686991-gettyimages-2297232145-_c3a4940.jpeg?v=1790715823&w=1920&h=1080",
@@ -667,22 +807,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ae65b876b0fbb1325e520e3d715bc006.json"
-        },
-        {
-          "id": "662a1835a3546302453be419fe36da02",
-          "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369794-1790713950915-108369794-1790711674658-gettyimages-2297244120-AFP_C9Q83W4_1.jpeg?v=1790713979&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-29T21:02:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/662a1835a3546302453be419fe36da02.json"
         },
         {
           "id": "f4cc83adde13b59945f5d9aa5dae495b",
@@ -702,114 +826,6 @@
         }
       ],
       "path": "articles/0d080e4ff733b855feca0d24224ef4ba.json"
-    },
-    {
-      "id": "5d0bc98c9ae5c3d99f61f25eebe99e8b",
-      "title": "House Speaker Johnson says he hopes AI guardrails are 'voluntary' amid Congress inaction",
-      "description": "House Speaker Mike Johnson is scheduled for lunch Tuesday with President Trump and AI industry executives.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108369313-1790686233295-Johnson-02.jpg?v=1790686320&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-29T13:37:49.000Z",
-      "related": [
-        {
-          "id": "24f890caaaec88e0e7689d8593a76b17",
-          "title": "Rep. James Comer expands House investigation into prediction market insider trading",
-          "image": "https://image.cnbcfm.com/api/v1/image/108196296-1757439710208-gettyimages-2234508405-imgl4800_cmzsu61b.jpeg?v=1757439756&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-29T14:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/24f890caaaec88e0e7689d8593a76b17.json"
-        },
-        {
-          "id": "75df8e91998b5db46aaffbed40f5caaa",
-          "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369758-1790709686991-gettyimages-2297232145-_c3a4940.jpeg?v=1790715823&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-29T21:08:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/75df8e91998b5db46aaffbed40f5caaa.json"
-        },
-        {
-          "id": "ae65b876b0fbb1325e520e3d715bc006",
-          "title": "IPO postponements are accelerating in third quarter, even beyond Oura",
-          "image": "https://image.cnbcfm.com/api/v1/image/108310782-1779386536588-gettyimages-2156912528-TOM_HALE_INTERVIEW.jpeg?v=1779386657&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-29T21:05:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ae65b876b0fbb1325e520e3d715bc006.json"
-        },
-        {
-          "id": "662a1835a3546302453be419fe36da02",
-          "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369794-1790713950915-108369794-1790711674658-gettyimages-2297244120-AFP_C9Q83W4_1.jpeg?v=1790713979&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-29T21:02:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/662a1835a3546302453be419fe36da02.json"
-        },
-        {
-          "id": "f4cc83adde13b59945f5d9aa5dae495b",
-          "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367758-1790283344057-gettyimages-2296974915-bb2_1452_fivzadwt.jpeg?v=1790283488&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-29T20:51:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f4cc83adde13b59945f5d9aa5dae495b.json"
-        }
-      ],
-      "path": "articles/5d0bc98c9ae5c3d99f61f25eebe99e8b.json"
     },
     {
       "id": "9a35063410fcee751c1167a607bed0e7",
@@ -1811,6 +1827,22 @@
           "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
         },
         {
+          "id": "8d45458e763a99ec0c84789fd4cdbff9",
+          "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369398-1790691949621-gettyimages-2297173674-TRUMP_AMERICAGOV.jpeg?v=1790691976&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-29T16:55:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8d45458e763a99ec0c84789fd4cdbff9.json"
+        },
+        {
           "id": "9520effc5a65f99f9d2bf8b4500c4afe",
           "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
@@ -1827,9 +1859,9 @@
           "path": "articles/9520effc5a65f99f9d2bf8b4500c4afe.json"
         },
         {
-          "id": "c4a7280b068ff493a81fbc236220bad7",
-          "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/etf-decrypt-style-02-gID_7.png@png",
+          "id": "21bbe4b4479d6767be13c73764f6dfe5",
+          "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -1837,26 +1869,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-29T20:36:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/c4a7280b068ff493a81fbc236220bad7.json"
-        },
-        {
-          "id": "24be58e31453fd974f369302db5d0fda",
-          "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T20:06:03.000Z",
+          "published_at": "2026-09-29T21:16:04.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/24be58e31453fd974f369302db5d0fda.json"
+          "path": "articles/21bbe4b4479d6767be13c73764f6dfe5.json"
         }
       ],
       "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
@@ -2051,6 +2067,22 @@
           "path": "articles/b0e7e221b05b5616e84ec4d2ae478c08.json"
         },
         {
+          "id": "21bbe4b4479d6767be13c73764f6dfe5",
+          "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T21:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/21bbe4b4479d6767be13c73764f6dfe5.json"
+        },
+        {
           "id": "c4a7280b068ff493a81fbc236220bad7",
           "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/etf-decrypt-style-02-gID_7.png@png",
@@ -2065,22 +2097,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 40,
           "path": "articles/c4a7280b068ff493a81fbc236220bad7.json"
-        },
-        {
-          "id": "24be58e31453fd974f369302db5d0fda",
-          "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T20:06:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/24be58e31453fd974f369302db5d0fda.json"
         }
       ],
       "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"

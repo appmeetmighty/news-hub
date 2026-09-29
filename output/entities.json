@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-09-29T04:15:37.398Z",
+  "updated_at": "2026-09-29T04:30:56.039Z",
   "total": 28,
   "entities": [
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 23
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 23
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -23,6 +9,20 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 23
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 22
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
       "count": 22
     },
     {
@@ -65,6 +65,15 @@
       "count": 7
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
@@ -81,15 +90,6 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 5
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 4
     },
     {
       "id": "mstr",

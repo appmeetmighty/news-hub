@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T13:01:11.411Z",
+  "updated_at": "2026-09-29T13:15:40.356Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
@@ -7,13 +7,13 @@
   "total": 5,
   "articles": [
     {
-      "id": "821c22c6c7a379698ed946f4142bfdbd",
-      "title": " Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
-      "description": "The AI safety debate has raged in recent weeks, with Amodei, Musk and OpenAI CEO Sam Altman calling to pace the development of frontier models.",
+      "id": "5762fbf69a5362ebe0615a421ba10ef4",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "description": "Reuters got a look at Anthropic's IPO filing, and OpenAI scrapped a model release over safety concerns.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/28/trump-ai-tech-lunch.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368932-1790617459722-Amodei_Zuck.jpg?v=1790617540&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/09/29/jim-cramers-top-10-things-to-watch-in-the-stock-market-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -31,13 +31,15 @@
           "icon": ""
         },
         {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
           "icon": ""
         }
       ],
-      "published_at": "2026-09-29T10:21:33.000Z",
+      "published_at": "2026-09-29T13:02:41.000Z",
       "related": [
         {
           "id": "5576a18012c9a9326d232ef0e30cb24f",
@@ -56,6 +58,38 @@
           "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
         },
         {
+          "id": "70e6ee1b7d2c2f7bb2a388b1ee626966",
+          "title": "Anthropic warns investors of AI’s 'existential risk to humanity' in IPO prospectus, reports say ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-29T08:43:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/70e6ee1b7d2c2f7bb2a388b1ee626966.json"
+        },
+        {
+          "id": "dbf848e1677236fca36fa6040f1e5360",
+          "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T05:31:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/dbf848e1677236fca36fa6040f1e5360.json"
+        },
+        {
           "id": "59b68d51fba302d925dd6a6cff0305c0",
           "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
@@ -72,9 +106,9 @@
           "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
         },
         {
-          "id": "0e546e41cb392ab0adc94301b94afc72",
-          "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
+          "id": "c4f0f6d7285d1811473b60404cb9d052",
+          "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -82,45 +116,13 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-27T16:01:03.000Z",
+          "published_at": "2026-09-28T20:06:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"
-        },
-        {
-          "id": "4d90878baff0cf7798316ea45ba82317",
-          "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-25T17:46:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4d90878baff0cf7798316ea45ba82317.json"
-        },
-        {
-          "id": "7680b092ddee875a7399725c34803579",
-          "title": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367778-1790285251560-gettyimages-2296314920-META_CONNECT.jpeg?v=1790285330&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-29T12:43:08.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7680b092ddee875a7399725c34803579.json"
+          "path": "articles/c4f0f6d7285d1811473b60404cb9d052.json"
         }
       ],
-      "path": "articles/821c22c6c7a379698ed946f4142bfdbd.json"
+      "path": "articles/5762fbf69a5362ebe0615a421ba10ef4.json"
     },
     {
       "id": "59b68d51fba302d925dd6a6cff0305c0",
@@ -198,9 +200,9 @@
           "path": "articles/4d90878baff0cf7798316ea45ba82317.json"
         },
         {
-          "id": "821c22c6c7a379698ed946f4142bfdbd",
-          "title": " Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368932-1790617459722-Amodei_Zuck.jpg?v=1790617540&w=1920&h=1080",
+          "id": "5762fbf69a5362ebe0615a421ba10ef4",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -208,10 +210,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-29T10:21:33.000Z",
+          "published_at": "2026-09-29T13:02:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/821c22c6c7a379698ed946f4142bfdbd.json"
+          "path": "articles/5762fbf69a5362ebe0615a421ba10ef4.json"
         },
         {
           "id": "46d9502250935cf6eb6233d9eaba6e24",
@@ -273,6 +275,22 @@
       ],
       "published_at": "2026-09-28T19:36:21.000Z",
       "related": [
+        {
+          "id": "5762fbf69a5362ebe0615a421ba10ef4",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-29T13:02:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5762fbf69a5362ebe0615a421ba10ef4.json"
+        },
         {
           "id": "59b68d51fba302d925dd6a6cff0305c0",
           "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
@@ -336,22 +354,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4d90878baff0cf7798316ea45ba82317.json"
-        },
-        {
-          "id": "dbf848e1677236fca36fa6040f1e5360",
-          "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T05:31:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/dbf848e1677236fca36fa6040f1e5360.json"
         }
       ],
       "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
@@ -438,9 +440,9 @@
           "path": "articles/4d90878baff0cf7798316ea45ba82317.json"
         },
         {
-          "id": "821c22c6c7a379698ed946f4142bfdbd",
-          "title": " Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368932-1790617459722-Amodei_Zuck.jpg?v=1790617540&w=1920&h=1080",
+          "id": "5762fbf69a5362ebe0615a421ba10ef4",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -448,10 +450,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-29T10:21:33.000Z",
+          "published_at": "2026-09-29T13:02:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/821c22c6c7a379698ed946f4142bfdbd.json"
+          "path": "articles/5762fbf69a5362ebe0615a421ba10ef4.json"
         },
         {
           "id": "b0e7e221b05b5616e84ec4d2ae478c08",
@@ -548,9 +550,9 @@
           "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"
         },
         {
-          "id": "821c22c6c7a379698ed946f4142bfdbd",
-          "title": " Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368932-1790617459722-Amodei_Zuck.jpg?v=1790617540&w=1920&h=1080",
+          "id": "5762fbf69a5362ebe0615a421ba10ef4",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -558,10 +560,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-29T10:21:33.000Z",
+          "published_at": "2026-09-29T13:02:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/821c22c6c7a379698ed946f4142bfdbd.json"
+          "path": "articles/5762fbf69a5362ebe0615a421ba10ef4.json"
         },
         {
           "id": "2c75cac81833c0b17e19df7549d0380e",

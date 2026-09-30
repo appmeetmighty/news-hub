@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-09-30T16:01:12.754Z",
+  "updated_at": "2026-09-30T16:15:44.908Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 9,
+  "total": 10,
   "articles": [
+    {
+      "id": "c0bb99f43f0196b097166df9138e242d",
+      "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+      "description": "The one-page pact, which Trump called \"morally binding,\" asks companies to adopt internal controls, independent audits and board oversight—but carries no penalties and drew criticism for its thin detail.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-30T16:06:03.000Z",
+      "related": [
+        {
+          "id": "f096aec699d20309e7ac4954cac4619c",
+          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:43:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
+        },
+        {
+          "id": "d686ac77defa22ba3455c348a36b5bd6",
+          "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T18:55:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d686ac77defa22ba3455c348a36b5bd6.json"
+        },
+        {
+          "id": "59b68d51fba302d925dd6a6cff0305c0",
+          "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T21:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
+        },
+        {
+          "id": "b0e7e221b05b5616e84ec4d2ae478c08",
+          "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T18:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/b0e7e221b05b5616e84ec4d2ae478c08.json"
+        },
+        {
+          "id": "cf8abbc82760fd71c5dbe4691e88cbff",
+          "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T08:50:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
+        }
+      ],
+      "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+    },
     {
       "id": "ca1a016b5fac1dfa29c20666df71e148",
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
@@ -80,6 +212,22 @@
           "path": "articles/b8bd72ab837af5ccc8e829f58a9a6dda.json"
         },
         {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
           "id": "f096aec699d20309e7ac4954cac4619c",
           "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -110,22 +258,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
-        },
-        {
-          "id": "24be58e31453fd974f369302db5d0fda",
-          "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T20:06:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/24be58e31453fd974f369302db5d0fda.json"
         }
       ],
       "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
@@ -236,20 +368,20 @@
           "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
         },
         {
-          "id": "cf8abbc82760fd71c5dbe4691e88cbff",
-          "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-30T08:50:22.000Z",
+          "published_at": "2026-09-30T16:06:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
         }
       ],
       "path": "articles/b8bd72ab837af5ccc8e829f58a9a6dda.json"
@@ -303,6 +435,22 @@
       ],
       "published_at": "2026-09-30T10:43:43.000Z",
       "related": [
+        {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
         {
           "id": "b8bd72ab837af5ccc8e829f58a9a6dda",
           "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
@@ -366,22 +514,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d686ac77defa22ba3455c348a36b5bd6.json"
-        },
-        {
-          "id": "59b68d51fba302d925dd6a6cff0305c0",
-          "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T21:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
         }
       ],
       "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
@@ -452,6 +584,22 @@
           "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
         },
         {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
           "id": "d686ac77defa22ba3455c348a36b5bd6",
           "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
@@ -482,22 +630,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
-        },
-        {
-          "id": "5576a18012c9a9326d232ef0e30cb24f",
-          "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T19:36:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
         }
       ],
       "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
@@ -546,6 +678,22 @@
           "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
         },
         {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
           "id": "f096aec699d20309e7ac4954cac4619c",
           "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -592,22 +740,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
-        },
-        {
-          "id": "5576a18012c9a9326d232ef0e30cb24f",
-          "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T19:36:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
         }
       ],
       "path": "articles/06d64a0e267efaf30ac97ac2f6df6c35.json"
@@ -670,6 +802,22 @@
           "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
         },
         {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
           "id": "0e546e41cb392ab0adc94301b94afc72",
           "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
@@ -716,22 +864,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
-        },
-        {
-          "id": "06d64a0e267efaf30ac97ac2f6df6c35",
-          "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QA1RE3EPA6Q9FXEB536BXF/hi-where-to-discuss-chatgpt.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T19:55:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/06d64a0e267efaf30ac97ac2f6df6c35.json"
         }
       ],
       "path": "articles/d686ac77defa22ba3455c348a36b5bd6.json"
@@ -780,6 +912,22 @@
           "path": "articles/d686ac77defa22ba3455c348a36b5bd6.json"
         },
         {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
           "id": "5576a18012c9a9326d232ef0e30cb24f",
           "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png",
@@ -826,22 +974,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
-        },
-        {
-          "id": "cf8abbc82760fd71c5dbe4691e88cbff",
-          "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T08:50:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
         }
       ],
       "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
@@ -920,6 +1052,22 @@
           "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
         },
         {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
           "id": "24be58e31453fd974f369302db5d0fda",
           "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
@@ -950,22 +1098,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d686ac77defa22ba3455c348a36b5bd6.json"
-        },
-        {
-          "id": "c4f0f6d7285d1811473b60404cb9d052",
-          "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T20:06:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c4f0f6d7285d1811473b60404cb9d052.json"
         }
       ],
       "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
@@ -1036,6 +1168,22 @@
           "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
         },
         {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
           "id": "5576a18012c9a9326d232ef0e30cb24f",
           "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png",
@@ -1066,22 +1214,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
-        },
-        {
-          "id": "cf8abbc82760fd71c5dbe4691e88cbff",
-          "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T08:50:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
         }
       ],
       "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"

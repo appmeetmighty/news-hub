@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-30T20:01:10.641Z",
+  "updated_at": "2026-09-30T20:15:42.439Z",
   "articles": {
-    "generated_at": "2026-09-30T20:01:10.641Z",
+    "generated_at": "2026-09-30T20:15:42.439Z",
     "topics": [
       {
         "id": "ai",
@@ -10,6 +10,20 @@
         "icon": "",
         "count": 27,
         "articles": [
+          {
+            "id": "81909d2ba9f16043789697dccf83236a",
+            "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+            "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-30T20:15:23.000Z",
+            "path": "articles/81909d2ba9f16043789697dccf83236a.json"
+          },
           {
             "id": "af43698682e0a7a07d72cacb39b463dd",
             "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
@@ -135,20 +149,6 @@
             "category": "crypto",
             "published_at": "2026-09-30T14:56:07.000Z",
             "path": "articles/e8d1f5b4c87ffa9d55e5c6edd528bce9.json"
-          },
-          {
-            "id": "793dee506dd082727859263286557abe",
-            "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
-            "image": "https://image.cnbcfm.com/api/v1/image/108085863-1736804484870-gettyimages-2190756210-PSWAT_DSC03180.jpeg?v=1772209908&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-09-30T13:56:14.000Z",
-            "path": "articles/793dee506dd082727859263286557abe.json"
           }
         ]
       },
@@ -1228,6 +1228,71 @@
         ]
       },
       {
+        "id": "googl",
+        "name": "Google",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/google.com",
+        "count": 4,
+        "articles": [
+          {
+            "id": "81909d2ba9f16043789697dccf83236a",
+            "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+            "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-30T20:15:23.000Z",
+            "path": "articles/81909d2ba9f16043789697dccf83236a.json"
+          },
+          {
+            "id": "c0bb99f43f0196b097166df9138e242d",
+            "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-30T16:06:03.000Z",
+            "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+          },
+          {
+            "id": "f096aec699d20309e7ac4954cac4619c",
+            "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-30T10:43:43.000Z",
+            "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
+          },
+          {
+            "id": "7818c973023679a1e13db2e7ef2dbf3d",
+            "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/doctor-who-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-29T17:31:04.000Z",
+            "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
+          }
+        ]
+      },
+      {
         "id": "defi",
         "name": "DeFi",
         "type": "topic",
@@ -1279,57 +1344,6 @@
         ]
       },
       {
-        "id": "googl",
-        "name": "Google",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/google.com",
-        "count": 3,
-        "articles": [
-          {
-            "id": "c0bb99f43f0196b097166df9138e242d",
-            "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-30T16:06:03.000Z",
-            "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
-          },
-          {
-            "id": "f096aec699d20309e7ac4954cac4619c",
-            "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-30T10:43:43.000Z",
-            "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
-          },
-          {
-            "id": "7818c973023679a1e13db2e7ef2dbf3d",
-            "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/doctor-who-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-29T17:31:04.000Z",
-            "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
-          }
-        ]
-      },
-      {
         "id": "etf",
         "name": "ETF",
         "type": "topic",
@@ -1377,6 +1391,43 @@
             "category": "crypto",
             "published_at": "2026-09-29T12:40:12.000Z",
             "path": "articles/d7940e592de50a0ded602fb944630ea7.json"
+          }
+        ]
+      },
+      {
+        "id": "gemini",
+        "name": "Gemini",
+        "type": "company",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "81909d2ba9f16043789697dccf83236a",
+            "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+            "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-30T20:15:23.000Z",
+            "path": "articles/81909d2ba9f16043789697dccf83236a.json"
+          },
+          {
+            "id": "eeebe58cfa322c835ae23cd19280fe3b",
+            "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/9c9b66992e0b49d88c5e43c27ec3774ec16684fd-1920x1080.png?auto=format&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-09-30T08:27:00.000Z",
+            "path": "articles/eeebe58cfa322c835ae23cd19280fe3b.json"
           }
         ]
       },
@@ -1566,6 +1617,29 @@
         ]
       },
       {
+        "id": "tsla",
+        "name": "Tesla",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/tesla.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "dbd2e2f39a02bdcef523072f6d0d8b93",
+            "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+            "image": "https://image.cnbcfm.com/api/v1/image/108370582-1790797704647-gettyimages-2297938762-aw1a0894_wl7p54w5.jpeg?v=1790798487&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-09-30T20:03:07.000Z",
+            "path": "articles/dbd2e2f39a02bdcef523072f6d0d8b93.json"
+          }
+        ]
+      },
+      {
         "id": "web3",
         "name": "Web3",
         "type": "topic",
@@ -1608,29 +1682,6 @@
             "category": "stocks",
             "published_at": "2026-09-30T18:30:01.000Z",
             "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
-          }
-        ]
-      },
-      {
-        "id": "gemini",
-        "name": "Gemini",
-        "type": "company",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "eeebe58cfa322c835ae23cd19280fe3b",
-            "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/9c9b66992e0b49d88c5e43c27ec3774ec16684fd-1920x1080.png?auto=format&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-09-30T08:27:00.000Z",
-            "path": "articles/eeebe58cfa322c835ae23cd19280fe3b.json"
           }
         ]
       },

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T12:01:11.867Z",
-  "total": 25,
+  "updated_at": "2026-09-30T12:30:55.462Z",
+  "total": 24,
   "entities": [
     {
       "id": "btc",
@@ -23,21 +23,14 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 23
+      "count": 24
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 21
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 7
+      "count": 22
     },
     {
       "id": "openai",
@@ -45,6 +38,13 @@
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
+      "icon": "",
+      "count": 8
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
       "icon": "",
       "count": 7
     },
@@ -106,21 +106,21 @@
       "count": 3
     },
     {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 2
+    },
+    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
-    },
-    {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
-      "icon": "",
       "count": 2
     },
     {
@@ -160,12 +160,12 @@
       "count": 2
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
       "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
+      "path": "tickers/gemini.json",
+      "icon": "",
       "count": 1
     },
     {
@@ -191,15 +191,6 @@
       "type": "company",
       "path": "tickers/aapl.json",
       "icon": "https://logo.clearbit.com/apple.com",
-      "count": 1
-    },
-    {
-      "id": "xai",
-      "symbol": "XAI",
-      "name": "xAI",
-      "type": "company",
-      "path": "tickers/xai.json",
-      "icon": "",
       "count": 1
     },
     {

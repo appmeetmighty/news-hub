@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T10:15:39.612Z",
+  "updated_at": "2026-09-30T10:30:54.217Z",
   "total": 24,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
+      "count": 27
     },
     {
       "id": "ai",
@@ -19,13 +19,6 @@
       "count": 25
     },
     {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 24
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
@@ -33,9 +26,18 @@
       "count": 24
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "crypto",
+      "name": "Crypto",
       "type": "topic",
+      "icon": "",
+      "count": 24
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
       "count": 7
     },
@@ -47,11 +49,18 @@
       "count": 7
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 6
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 6
     },
@@ -63,15 +72,6 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 6
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "etf",

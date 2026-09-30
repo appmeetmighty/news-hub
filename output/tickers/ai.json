@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-09-30T15:45:39.740Z",
+  "updated_at": "2026-09-30T16:01:12.755Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 26,
   "articles": [
+    {
+      "id": "ca1a016b5fac1dfa29c20666df71e148",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
+      "description": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
+      "reading_time_minutes": 1,
+      "breaking_score": 60,
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-30T15:54:38.000Z",
+      "related": [
+        {
+          "id": "5576a18012c9a9326d232ef0e30cb24f",
+          "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T19:36:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
+        },
+        {
+          "id": "b8bd72ab837af5ccc8e829f58a9a6dda",
+          "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369815-1790712597213-gettyimages-2297765991-_04a9178_m4u5cgwo.jpeg?v=1790712953&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T12:04:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b8bd72ab837af5ccc8e829f58a9a6dda.json"
+        },
+        {
+          "id": "f096aec699d20309e7ac4954cac4619c",
+          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:43:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
+        },
+        {
+          "id": "cf8abbc82760fd71c5dbe4691e88cbff",
+          "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T08:50:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
+        },
+        {
+          "id": "24be58e31453fd974f369302db5d0fda",
+          "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T20:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/24be58e31453fd974f369302db5d0fda.json"
+        }
+      ],
+      "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
+    },
     {
       "id": "32bb1e6a020af7918c2ecd34b217b8a8",
       "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
@@ -105,137 +229,13 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T15:28:57.000Z",
+          "published_at": "2026-09-30T15:54:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
         }
       ],
       "path": "articles/32bb1e6a020af7918c2ecd34b217b8a8.json"
-    },
-    {
-      "id": "ca1a016b5fac1dfa29c20666df71e148",
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
-      "description": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
-      "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-30T15:28:57.000Z",
-      "related": [
-        {
-          "id": "5576a18012c9a9326d232ef0e30cb24f",
-          "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T19:36:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
-        },
-        {
-          "id": "b8bd72ab837af5ccc8e829f58a9a6dda",
-          "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369815-1790712597213-gettyimages-2297765991-_04a9178_m4u5cgwo.jpeg?v=1790712953&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T12:04:46.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b8bd72ab837af5ccc8e829f58a9a6dda.json"
-        },
-        {
-          "id": "f096aec699d20309e7ac4954cac4619c",
-          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T10:43:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
-        },
-        {
-          "id": "cf8abbc82760fd71c5dbe4691e88cbff",
-          "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T08:50:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
-        },
-        {
-          "id": "24be58e31453fd974f369302db5d0fda",
-          "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T20:06:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/24be58e31453fd974f369302db5d0fda.json"
-        }
-      ],
-      "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
     },
     {
       "id": "d743e2713749b9fc81fae7c3ffdbe0e6",
@@ -263,6 +263,22 @@
       "published_at": "2026-09-30T15:16:17.000Z",
       "related": [
         {
+          "id": "ca1a016b5fac1dfa29c20666df71e148",
+          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T15:54:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
+        },
+        {
           "id": "600e9394d637f052387b9897ae433e0a",
           "title": "Trump's latest global tariffs face trade court challenge",
           "image": "https://image.cnbcfm.com/api/v1/image/108369019-1790626408243-gettyimages-2297606349-kbd14093_8akqq6yo.jpeg?v=1790626453&w=1920&h=1080",
@@ -277,6 +293,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/600e9394d637f052387b9897ae433e0a.json"
+        },
+        {
+          "id": "41e7060befd1f50a511bfa294fdbbd5c",
+          "title": "Higher interest rates can be scary for stocks — but it's not that simple",
+          "image": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T15:43:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/41e7060befd1f50a511bfa294fdbbd5c.json"
         },
         {
           "id": "32bb1e6a020af7918c2ecd34b217b8a8",
@@ -295,22 +327,6 @@
           "path": "articles/32bb1e6a020af7918c2ecd34b217b8a8.json"
         },
         {
-          "id": "ca1a016b5fac1dfa29c20666df71e148",
-          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T15:28:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
-        },
-        {
           "id": "235eb239cb47f86b737706a2da8eab27",
           "title": "Senate expected to vote on stock trading ban, data center bill before election recess",
           "image": "https://image.cnbcfm.com/api/v1/image/108369459-1790695639030-gettyimages-2264232523-RATEPAYER_PROTECTION_PLEDGE.jpeg?v=1790695687&w=1920&h=1080",
@@ -325,22 +341,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/235eb239cb47f86b737706a2da8eab27.json"
-        },
-        {
-          "id": "bacf3f6f7edd921a325a260ae39cdf58",
-          "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108263203-1770658167761-108263203-1770641277948-gettyimages-2257461669-64393_48_ms_4246.jpg?v=1777920059&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T15:19:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bacf3f6f7edd921a325a260ae39cdf58.json"
         }
       ],
       "path": "articles/d743e2713749b9fc81fae7c3ffdbe0e6.json"
@@ -641,22 +641,6 @@
           "path": "articles/c7a32e5728f65fca74a003000b0e8865.json"
         },
         {
-          "id": "32bb1e6a020af7918c2ecd34b217b8a8",
-          "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-          "image": "https://image.cnbcfm.com/api/v1/image/108370126-1790768811255-gettyimages-2297261138-TRUMP_TECH_AI.jpeg?v=1790768845&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T15:36:20.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/32bb1e6a020af7918c2ecd34b217b8a8.json"
-        },
-        {
           "id": "ca1a016b5fac1dfa29c20666df71e148",
           "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
           "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
@@ -667,10 +651,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T15:28:57.000Z",
+          "published_at": "2026-09-30T15:54:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
+        },
+        {
+          "id": "41e7060befd1f50a511bfa294fdbbd5c",
+          "title": "Higher interest rates can be scary for stocks — but it's not that simple",
+          "image": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T15:43:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/41e7060befd1f50a511bfa294fdbbd5c.json"
         }
       ],
       "path": "articles/793dee506dd082727859263286557abe.json"
@@ -743,7 +743,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T15:28:57.000Z",
+          "published_at": "2026-09-30T15:54:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
@@ -835,7 +835,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T15:28:57.000Z",
+          "published_at": "2026-09-30T15:54:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
@@ -1003,9 +1003,9 @@
           "path": "articles/c05994a5e9361c22196fd1e59dcd0696.json"
         },
         {
-          "id": "7312a83f37a476c3de17fe6883717820",
-          "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+          "id": "1c432ca77d07cf9cf5ced50f2327bcd9",
+          "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -1013,10 +1013,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-30T15:17:45.000Z",
+          "published_at": "2026-09-30T15:50:25.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/7312a83f37a476c3de17fe6883717820.json"
+          "path": "articles/1c432ca77d07cf9cf5ced50f2327bcd9.json"
         }
       ],
       "path": "articles/a507641cfba9b9d7ae5e0d3443bc27db.json"
@@ -1095,6 +1095,22 @@
           "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"
         },
         {
+          "id": "1c432ca77d07cf9cf5ced50f2327bcd9",
+          "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T15:50:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1c432ca77d07cf9cf5ced50f2327bcd9.json"
+        },
+        {
           "id": "7312a83f37a476c3de17fe6883717820",
           "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
@@ -1109,22 +1125,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7312a83f37a476c3de17fe6883717820.json"
-        },
-        {
-          "id": "e8d1f5b4c87ffa9d55e5c6edd528bce9",
-          "title": "Crypto Long & Short: What will the AI agents run on? ",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5198878a1aa4cdf20ad03aadd53bb8ebab001b90-5120x2880.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T14:56:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e8d1f5b4c87ffa9d55e5c6edd528bce9.json"
         }
       ],
       "path": "articles/ca39b74de1737bb9e69e409c5961027c.json"
@@ -1293,6 +1293,22 @@
       "published_at": "2026-09-30T10:26:36.000Z",
       "related": [
         {
+          "id": "ca1a016b5fac1dfa29c20666df71e148",
+          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T15:54:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
+        },
+        {
           "id": "600e9394d637f052387b9897ae433e0a",
           "title": "Trump's latest global tariffs face trade court challenge",
           "image": "https://image.cnbcfm.com/api/v1/image/108369019-1790626408243-gettyimages-2297606349-kbd14093_8akqq6yo.jpeg?v=1790626453&w=1920&h=1080",
@@ -1307,6 +1323,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/600e9394d637f052387b9897ae433e0a.json"
+        },
+        {
+          "id": "41e7060befd1f50a511bfa294fdbbd5c",
+          "title": "Higher interest rates can be scary for stocks — but it's not that simple",
+          "image": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T15:43:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/41e7060befd1f50a511bfa294fdbbd5c.json"
         },
         {
           "id": "32bb1e6a020af7918c2ecd34b217b8a8",
@@ -1325,22 +1357,6 @@
           "path": "articles/32bb1e6a020af7918c2ecd34b217b8a8.json"
         },
         {
-          "id": "ca1a016b5fac1dfa29c20666df71e148",
-          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T15:28:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
-        },
-        {
           "id": "235eb239cb47f86b737706a2da8eab27",
           "title": "Senate expected to vote on stock trading ban, data center bill before election recess",
           "image": "https://image.cnbcfm.com/api/v1/image/108369459-1790695639030-gettyimages-2264232523-RATEPAYER_PROTECTION_PLEDGE.jpeg?v=1790695687&w=1920&h=1080",
@@ -1355,22 +1371,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/235eb239cb47f86b737706a2da8eab27.json"
-        },
-        {
-          "id": "bacf3f6f7edd921a325a260ae39cdf58",
-          "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108263203-1770658167761-108263203-1770641277948-gettyimages-2257461669-64393_48_ms_4246.jpg?v=1777920059&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T15:19:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bacf3f6f7edd921a325a260ae39cdf58.json"
         }
       ],
       "path": "articles/f56d4174bce8252c8b7d54a3551dae67.json"
@@ -2125,7 +2125,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T15:28:57.000Z",
+          "published_at": "2026-09-30T15:54:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
@@ -2339,6 +2339,22 @@
           "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
         },
         {
+          "id": "1c432ca77d07cf9cf5ced50f2327bcd9",
+          "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T15:50:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1c432ca77d07cf9cf5ced50f2327bcd9.json"
+        },
+        {
           "id": "7312a83f37a476c3de17fe6883717820",
           "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
@@ -2385,22 +2401,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bd6fae986eeac65827fc551c40984e59.json"
-        },
-        {
-          "id": "ca39b74de1737bb9e69e409c5961027c",
-          "title": "McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/mcdonalds-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T11:06:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ca39b74de1737bb9e69e409c5961027c.json"
         }
       ],
       "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
@@ -2565,7 +2565,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T15:28:57.000Z",
+          "published_at": "2026-09-30T15:54:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
@@ -2719,6 +2719,22 @@
           "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
         },
         {
+          "id": "1c432ca77d07cf9cf5ced50f2327bcd9",
+          "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T15:50:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1c432ca77d07cf9cf5ced50f2327bcd9.json"
+        },
+        {
           "id": "7312a83f37a476c3de17fe6883717820",
           "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
@@ -2733,22 +2749,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7312a83f37a476c3de17fe6883717820.json"
-        },
-        {
-          "id": "e8d1f5b4c87ffa9d55e5c6edd528bce9",
-          "title": "Crypto Long & Short: What will the AI agents run on? ",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5198878a1aa4cdf20ad03aadd53bb8ebab001b90-5120x2880.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T14:56:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e8d1f5b4c87ffa9d55e5c6edd528bce9.json"
         }
       ],
       "path": "articles/b0e7e221b05b5616e84ec4d2ae478c08.json"

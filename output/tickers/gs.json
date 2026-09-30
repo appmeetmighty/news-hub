@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-30T06:01:06.218Z",
+  "updated_at": "2026-09-30T06:31:06.363Z",
   "id": "gs",
   "symbol": "GS",
   "name": "Goldman Sachs",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "43c36dd46deaeb21fa1fa42206210eb8",
@@ -33,6 +33,22 @@
       ],
       "published_at": "2026-09-29T20:50:10.000Z",
       "related": [
+        {
+          "id": "15510c2d1adf0ee8ede71f90fa3571c1",
+          "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+          "image": "https://image.cnbcfm.com/api/v1/image/108292089-1776284908197-gettyimages-2267134918-POLYMARKET_DC_BAR.jpeg?v=1776284990&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-29T12:00:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/15510c2d1adf0ee8ede71f90fa3571c1.json"
+        },
         {
           "id": "9f71dff5a7892f0c78a84d80a28527a9",
           "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
@@ -96,11 +112,41 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c500da0951dee684919889863bf3c573.json"
-        },
+        }
+      ],
+      "path": "articles/43c36dd46deaeb21fa1fa42206210eb8.json"
+    },
+    {
+      "id": "15510c2d1adf0ee8ede71f90fa3571c1",
+      "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+      "description": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108292089-1776284908197-gettyimages-2267134918-POLYMARKET_DC_BAR.jpeg?v=1776284990&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
         {
-          "id": "050707ffceb820535a83dd22c50cfa49",
-          "title": "‘Don’t go with a fund, go with a solution’: CEO’s tips from decades of global investing",
-          "image": "https://image.cnbcfm.com/api/v1/image/108309960-1779298263932-gettyimages-2263984302-AFP_99PU3XR.jpeg?v=1779298319&w=1920&h=1080",
+          "id": "gs",
+          "symbol": "GS",
+          "name": "Goldman Sachs",
+          "type": "company",
+          "path": "tickers/gs.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-29T12:00:33.000Z",
+      "related": [
+        {
+          "id": "43c36dd46deaeb21fa1fa42206210eb8",
+          "title": "Goldman Sachs CEO succession planning faces one big problem",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369799-1790711959824-Waldron_Solomon.jpg?v=1790712098&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -108,13 +154,77 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T02:37:21.000Z",
+          "published_at": "2026-09-29T20:50:10.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/050707ffceb820535a83dd22c50cfa49.json"
+          "path": "articles/43c36dd46deaeb21fa1fa42206210eb8.json"
+        },
+        {
+          "id": "9f71dff5a7892f0c78a84d80a28527a9",
+          "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/60dbe787741b3cbc62bdc5cb2d6cb94fbe3ea9ea-5800x3868.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T18:00:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9f71dff5a7892f0c78a84d80a28527a9.json"
+        },
+        {
+          "id": "23c4bb2d9c4ec5b7e7cb02b48710a8cc",
+          "title": "AI broke the job application. What replaces it?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108188557-1755699988511-gettyimages-620930615-zef008340.jpeg?v=1755700049&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T05:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/23c4bb2d9c4ec5b7e7cb02b48710a8cc.json"
+        },
+        {
+          "id": "eb053ddadb36b9f70c557c6104655b7d",
+          "title": "China factory activity snaps 2-month contractionary streak in September ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108367928-1790322618708-gettyimages-2292683417-img_8730.jpeg?v=1790322802&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T03:39:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb053ddadb36b9f70c557c6104655b7d.json"
+        },
+        {
+          "id": "c500da0951dee684919889863bf3c573",
+          "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108219320-1771513159177-108219320-17618308652025-10-30t045346z_297624320_rc20mhalr2rm_rtrmadp_0_usa-china-shenzhen.jpg?v=1771516417&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T03:39:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c500da0951dee684919889863bf3c573.json"
         }
       ],
-      "path": "articles/43c36dd46deaeb21fa1fa42206210eb8.json"
+      "path": "articles/15510c2d1adf0ee8ede71f90fa3571c1.json"
     },
     {
       "id": "9f71dff5a7892f0c78a84d80a28527a9",
@@ -166,6 +276,22 @@
           "path": "articles/43c36dd46deaeb21fa1fa42206210eb8.json"
         },
         {
+          "id": "15510c2d1adf0ee8ede71f90fa3571c1",
+          "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+          "image": "https://image.cnbcfm.com/api/v1/image/108292089-1776284908197-gettyimages-2267134918-POLYMARKET_DC_BAR.jpeg?v=1776284990&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-29T12:00:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/15510c2d1adf0ee8ede71f90fa3571c1.json"
+        },
+        {
           "id": "7b0c95fdeb413efc38067877edff50eb",
           "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -212,22 +338,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c0ba7f4fa0f40fed32f3d7b08ca0b6f5.json"
-        },
-        {
-          "id": "dbf848e1677236fca36fa6040f1e5360",
-          "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T05:31:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/dbf848e1677236fca36fa6040f1e5360.json"
         }
       ],
       "path": "articles/9f71dff5a7892f0c78a84d80a28527a9.json"

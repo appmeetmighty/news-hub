@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-09-30T15:30:59.082Z",
+  "updated_at": "2026-09-30T15:45:39.743Z",
   "id": "anthropic",
   "symbol": "ANTHROPIC",
   "name": "Anthropic",
   "type": "company",
-  "total": 3,
+  "total": 4,
   "articles": [
+    {
+      "id": "ca1a016b5fac1dfa29c20666df71e148",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
+      "description": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
+      "reading_time_minutes": 1,
+      "breaking_score": 60,
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-30T15:28:57.000Z",
+      "related": [
+        {
+          "id": "5576a18012c9a9326d232ef0e30cb24f",
+          "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T19:36:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
+        },
+        {
+          "id": "b8bd72ab837af5ccc8e829f58a9a6dda",
+          "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369815-1790712597213-gettyimages-2297765991-_04a9178_m4u5cgwo.jpeg?v=1790712953&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T12:04:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b8bd72ab837af5ccc8e829f58a9a6dda.json"
+        },
+        {
+          "id": "f096aec699d20309e7ac4954cac4619c",
+          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:43:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
+        },
+        {
+          "id": "cf8abbc82760fd71c5dbe4691e88cbff",
+          "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T08:50:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
+        },
+        {
+          "id": "24be58e31453fd974f369302db5d0fda",
+          "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T20:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/24be58e31453fd974f369302db5d0fda.json"
+        }
+      ],
+      "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
+    },
     {
       "id": "24be58e31453fd974f369302db5d0fda",
       "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
@@ -72,6 +196,22 @@
           "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
         },
         {
+          "id": "ca1a016b5fac1dfa29c20666df71e148",
+          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T15:28:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
+        },
+        {
           "id": "cf8abbc82760fd71c5dbe4691e88cbff",
           "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -102,22 +242,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 40,
           "path": "articles/e8c940304f8262fd9c0411ddc635a31b.json"
-        },
-        {
-          "id": "5167e3f9c2d1f9aa04354dcf5a77e0d0",
-          "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gavin-newsom-decrypt-style-01-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-28T10:16:25.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/5167e3f9c2d1f9aa04354dcf5a77e0d0.json"
         }
       ],
       "path": "articles/24be58e31453fd974f369302db5d0fda.json"
@@ -182,6 +306,22 @@
           "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
         },
         {
+          "id": "ca1a016b5fac1dfa29c20666df71e148",
+          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T15:28:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
+        },
+        {
           "id": "7312a83f37a476c3de17fe6883717820",
           "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
@@ -212,22 +352,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a507641cfba9b9d7ae5e0d3443bc27db.json"
-        },
-        {
-          "id": "bd6fae986eeac65827fc551c40984e59",
-          "title": "CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/adam-kinziger-decrypt.style_-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T11:46:16.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bd6fae986eeac65827fc551c40984e59.json"
         }
       ],
       "path": "articles/c4f0f6d7285d1811473b60404cb9d052.json"
@@ -273,6 +397,22 @@
       ],
       "published_at": "2026-09-28T19:36:21.000Z",
       "related": [
+        {
+          "id": "ca1a016b5fac1dfa29c20666df71e148",
+          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T15:28:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
+        },
         {
           "id": "59b68d51fba302d925dd6a6cff0305c0",
           "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
@@ -336,22 +476,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c4f0f6d7285d1811473b60404cb9d052.json"
-        },
-        {
-          "id": "0e546e41cb392ab0adc94301b94afc72",
-          "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-27T16:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0e546e41cb392ab0adc94301b94afc72.json"
         }
       ],
       "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"

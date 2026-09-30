@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T15:30:59.084Z",
+  "updated_at": "2026-09-30T15:45:39.749Z",
   "total": 22,
   "entities": [
     {
@@ -7,7 +7,14 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 25
+      "count": 26
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 26
     },
     {
       "id": "btc",
@@ -19,18 +26,11 @@
       "count": 25
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 25
-    },
-    {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 23
     },
     {
       "id": "openai",
@@ -39,18 +39,18 @@
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
+      "count": 9
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
       "count": 8
     },
     {
       "id": "blockchain",
       "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 7
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 7
@@ -65,9 +65,11 @@
       "count": 5
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 4
     },
@@ -88,21 +90,19 @@
       "count": 4
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 3
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
       "count": 3
     },
     {

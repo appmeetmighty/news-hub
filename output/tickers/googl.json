@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-09-30T22:45:38.435Z",
+  "updated_at": "2026-09-30T23:01:11.975Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
   "type": "company",
-  "total": 3,
+  "total": 4,
   "articles": [
+    {
+      "id": "81909d2ba9f16043789697dccf83236a",
+      "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+      "description": "Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "gemini",
+          "symbol": "GEMINI",
+          "name": "Gemini",
+          "type": "company",
+          "path": "tickers/gemini.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-30T22:27:09.000Z",
+      "related": [
+        {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
+          "id": "f096aec699d20309e7ac4954cac4619c",
+          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:43:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
+        },
+        {
+          "id": "eeebe58cfa322c835ae23cd19280fe3b",
+          "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9c9b66992e0b49d88c5e43c27ec3774ec16684fd-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T08:27:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eeebe58cfa322c835ae23cd19280fe3b.json"
+        },
+        {
+          "id": "7818c973023679a1e13db2e7ef2dbf3d",
+          "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/doctor-who-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T17:31:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
+        },
+        {
+          "id": "3b861786e33b947ac400b8764d73eb15",
+          "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370679-1790803803091-Ellison_Kreiz.jpg?v=1790803968&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T22:57:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3b861786e33b947ac400b8764d73eb15.json"
+        }
+      ],
+      "path": "articles/81909d2ba9f16043789697dccf83236a.json"
+    },
     {
       "id": "c0bb99f43f0196b097166df9138e242d",
       "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
@@ -204,22 +328,6 @@
           "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
         },
         {
-          "id": "b8bd72ab837af5ccc8e829f58a9a6dda",
-          "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369815-1790712597213-gettyimages-2297765991-_04a9178_m4u5cgwo.jpeg?v=1790712953&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T12:04:46.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b8bd72ab837af5ccc8e829f58a9a6dda.json"
-        },
-        {
           "id": "cf8abbc82760fd71c5dbe4691e88cbff",
           "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -266,6 +374,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d686ac77defa22ba3455c348a36b5bd6.json"
+        },
+        {
+          "id": "59b68d51fba302d925dd6a6cff0305c0",
+          "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-28T21:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
         }
       ],
       "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
@@ -336,6 +460,22 @@
           "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
         },
         {
+          "id": "81909d2ba9f16043789697dccf83236a",
+          "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T22:27:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/81909d2ba9f16043789697dccf83236a.json"
+        },
+        {
           "id": "a81c135b7b91cb2a2b9ec702708999a4",
           "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png@png",
@@ -366,22 +506,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 100,
           "path": "articles/3c3cfba56ed6f1329a305220db84c517.json"
-        },
-        {
-          "id": "24197e6859438f3b55cfc306944e74a8",
-          "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T20:31:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/24197e6859438f3b55cfc306944e74a8.json"
         }
       ],
       "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"

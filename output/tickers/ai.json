@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T20:45:39.875Z",
+  "updated_at": "2026-09-30T21:01:09.671Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
@@ -28,7 +28,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-30T20:41:46.000Z",
+      "published_at": "2026-09-30T20:59:05.000Z",
       "related": [
         {
           "id": "235eb239cb47f86b737706a2da8eab27",
@@ -95,9 +95,9 @@
           "path": "articles/348f8ee75db06f6c3eca638575fd342f.json"
         },
         {
-          "id": "dbd2e2f39a02bdcef523072f6d0d8b93",
-          "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108370582-1790797704647-gettyimages-2297938762-aw1a0894_wl7p54w5.jpeg?v=1790798487&w=1920&h=1080",
+          "id": "af43698682e0a7a07d72cacb39b463dd",
+          "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+          "image": "https://image.cnbcfm.com/api/v1/image/108132764-17448145652024-12-20t202342z_784664202_rc27tba82tsj_rtrmadp_0_usa-congress-shutdown.jpeg?v=1744814602&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -105,22 +105,22 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T20:42:01.000Z",
+          "published_at": "2026-09-30T20:51:44.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/dbd2e2f39a02bdcef523072f6d0d8b93.json"
+          "breaking_score": 60,
+          "path": "articles/af43698682e0a7a07d72cacb39b463dd.json"
         }
       ],
       "path": "articles/0906e5a66c3119eea237b85e555349f9.json"
     },
     {
-      "id": "5e1f56b92703d44062e49e6f69c1b845",
-      "title": "Meta stock enjoys best month since 2022 on AI momentum",
-      "description": "Meta stock had its best month in almost four years as investors cheer the social media giant's recent momentum in artificial intelligence.",
+      "id": "af43698682e0a7a07d72cacb39b463dd",
+      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+      "description": "A Senate subcommittee on Wednesday is examining rogue AI, after a series of AI cyberattacks and increasing warnings about the risks of the technology.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108367421-1790256222248-gettyimages-2296215846-META_CONNECT.jpeg?v=1790256353&w=1920&h=1080",
+      "breaking_score": 60,
+      "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108132764-17448145652024-12-20t202342z_784664202_rc27tba82tsj_rtrmadp_0_usa-congress-shutdown.jpeg?v=1744814602&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -130,12 +130,12 @@
       "category": "stocks",
       "entities": [
         {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
           "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
+          "path": "tickers/openai.json",
+          "icon": ""
         },
         {
           "id": "ai",
@@ -144,8 +144,24 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-09-30T20:08:47.000Z",
+      "published_at": "2026-09-30T20:51:44.000Z",
       "related": [
+        {
+          "id": "ca1a016b5fac1dfa29c20666df71e148",
+          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T15:54:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
+        },
         {
           "id": "b8bd72ab837af5ccc8e829f58a9a6dda",
           "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
@@ -163,71 +179,55 @@
           "path": "articles/b8bd72ab837af5ccc8e829f58a9a6dda.json"
         },
         {
-          "id": "f096aec699d20309e7ac4954cac4619c",
-          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "59b68d51fba302d925dd6a6cff0305c0",
+          "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-30T10:43:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
-        },
-        {
-          "id": "235eb239cb47f86b737706a2da8eab27",
-          "title": "Senate Democrats sink 'toothless' stock trading ban, data center bill in last act before election recess",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369459-1790695639030-gettyimages-2264232523-RATEPAYER_PROTECTION_PLEDGE.jpeg?v=1790793351&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T19:03:52.000Z",
+          "published_at": "2026-09-28T21:46:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/235eb239cb47f86b737706a2da8eab27.json"
+          "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
         },
         {
-          "id": "dbd2e2f39a02bdcef523072f6d0d8b93",
-          "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108370582-1790797704647-gettyimages-2297938762-aw1a0894_wl7p54w5.jpeg?v=1790798487&w=1920&h=1080",
+          "id": "5576a18012c9a9326d232ef0e30cb24f",
+          "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-30T20:42:01.000Z",
+          "category": "crypto",
+          "published_at": "2026-09-28T19:36:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
+        },
+        {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/dbd2e2f39a02bdcef523072f6d0d8b93.json"
-        },
-        {
-          "id": "0906e5a66c3119eea237b85e555349f9",
-          "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369539-1790699148394-gettyimages-2297196411-AFP_C9PF6K9.jpeg?v=1790699202&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T20:41:46.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/0906e5a66c3119eea237b85e555349f9.json"
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
         }
       ],
-      "path": "articles/5e1f56b92703d44062e49e6f69c1b845.json"
+      "path": "articles/af43698682e0a7a07d72cacb39b463dd.json"
     },
     {
       "id": "bb250cef0486e2defd2b01f28b5db995",
@@ -511,22 +511,6 @@
           "path": "articles/b8bd72ab837af5ccc8e829f58a9a6dda.json"
         },
         {
-          "id": "dbd2e2f39a02bdcef523072f6d0d8b93",
-          "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108370582-1790797704647-gettyimages-2297938762-aw1a0894_wl7p54w5.jpeg?v=1790798487&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T20:42:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/dbd2e2f39a02bdcef523072f6d0d8b93.json"
-        },
-        {
           "id": "0906e5a66c3119eea237b85e555349f9",
           "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
           "image": "https://image.cnbcfm.com/api/v1/image/108369539-1790699148394-gettyimages-2297196411-AFP_C9PF6K9.jpeg?v=1790699202&w=1920&h=1080",
@@ -537,15 +521,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T20:41:46.000Z",
+          "published_at": "2026-09-30T20:59:05.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/0906e5a66c3119eea237b85e555349f9.json"
         },
         {
-          "id": "903a93fb0f957afae51fc8cf168917a5",
-          "title": "10-year Treasury yield is higher as traders look past inflation data, await jobs report",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363128-17894885332026-09-15t160320z_883427878_rc2pjnai9xue_rtrmadp_0_usa-stocks.jpeg?v=1789488721&w=1920&h=1080",
+          "id": "af43698682e0a7a07d72cacb39b463dd",
+          "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+          "image": "https://image.cnbcfm.com/api/v1/image/108132764-17448145652024-12-20t202342z_784664202_rc27tba82tsj_rtrmadp_0_usa-congress-shutdown.jpeg?v=1744814602&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -553,10 +537,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T20:33:30.000Z",
+          "published_at": "2026-09-30T20:51:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/af43698682e0a7a07d72cacb39b463dd.json"
+        },
+        {
+          "id": "0043b0d2fe5c8e1bd8a183a1288dea06",
+          "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370172-1790773445453-gettyimages-2235582668-AXIOS_MEDIA_TRENDS.jpeg?v=1790773472&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T20:49:20.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/903a93fb0f957afae51fc8cf168917a5.json"
+          "path": "articles/0043b0d2fe5c8e1bd8a183a1288dea06.json"
         }
       ],
       "path": "articles/6c0b63b4dca1a560fa0599886bdc1cf8.json"
@@ -751,6 +751,22 @@
           "path": "articles/5576a18012c9a9326d232ef0e30cb24f.json"
         },
         {
+          "id": "af43698682e0a7a07d72cacb39b463dd",
+          "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+          "image": "https://image.cnbcfm.com/api/v1/image/108132764-17448145652024-12-20t202342z_784664202_rc27tba82tsj_rtrmadp_0_usa-congress-shutdown.jpeg?v=1744814602&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T20:51:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/af43698682e0a7a07d72cacb39b463dd.json"
+        },
+        {
           "id": "b8bd72ab837af5ccc8e829f58a9a6dda",
           "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
           "image": "https://image.cnbcfm.com/api/v1/image/108369815-1790712597213-gettyimages-2297765991-_04a9178_m4u5cgwo.jpeg?v=1790712953&w=1920&h=1080",
@@ -797,22 +813,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
-        },
-        {
-          "id": "f096aec699d20309e7ac4954cac4619c",
-          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T10:43:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
         }
       ],
       "path": "articles/ca1a016b5fac1dfa29c20666df71e148.json"
@@ -951,6 +951,54 @@
       "published_at": "2026-09-30T15:16:17.000Z",
       "related": [
         {
+          "id": "0906e5a66c3119eea237b85e555349f9",
+          "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369539-1790699148394-gettyimages-2297196411-AFP_C9PF6K9.jpeg?v=1790699202&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T20:59:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/0906e5a66c3119eea237b85e555349f9.json"
+        },
+        {
+          "id": "af43698682e0a7a07d72cacb39b463dd",
+          "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+          "image": "https://image.cnbcfm.com/api/v1/image/108132764-17448145652024-12-20t202342z_784664202_rc27tba82tsj_rtrmadp_0_usa-congress-shutdown.jpeg?v=1744814602&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T20:51:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/af43698682e0a7a07d72cacb39b463dd.json"
+        },
+        {
+          "id": "0043b0d2fe5c8e1bd8a183a1288dea06",
+          "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370172-1790773445453-gettyimages-2235582668-AXIOS_MEDIA_TRENDS.jpeg?v=1790773472&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T20:49:20.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0043b0d2fe5c8e1bd8a183a1288dea06.json"
+        },
+        {
           "id": "dbd2e2f39a02bdcef523072f6d0d8b93",
           "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
           "image": "https://image.cnbcfm.com/api/v1/image/108370582-1790797704647-gettyimages-2297938762-aw1a0894_wl7p54w5.jpeg?v=1790798487&w=1920&h=1080",
@@ -967,22 +1015,6 @@
           "path": "articles/dbd2e2f39a02bdcef523072f6d0d8b93.json"
         },
         {
-          "id": "0906e5a66c3119eea237b85e555349f9",
-          "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369539-1790699148394-gettyimages-2297196411-AFP_C9PF6K9.jpeg?v=1790699202&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T20:41:46.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/0906e5a66c3119eea237b85e555349f9.json"
-        },
-        {
           "id": "903a93fb0f957afae51fc8cf168917a5",
           "title": "10-year Treasury yield is higher as traders look past inflation data, await jobs report",
           "image": "https://image.cnbcfm.com/api/v1/image/108363128-17894885332026-09-15t160320z_883427878_rc2pjnai9xue_rtrmadp_0_usa-stocks.jpeg?v=1789488721&w=1920&h=1080",
@@ -997,38 +1029,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/903a93fb0f957afae51fc8cf168917a5.json"
-        },
-        {
-          "id": "58cad7929ff0c06d30cf1c433c10f5ed",
-          "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
-          "image": "https://image.cnbcfm.com/api/v1/image/108176746-1755028567858-108176746-17533904772025-07-24t205347z_1857788961_rc28tfan9of1_rtrmadp_0_usa-trump-fed.jpeg?v=1755028712&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T20:17:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/58cad7929ff0c06d30cf1c433c10f5ed.json"
-        },
-        {
-          "id": "a306098d85dcccc6dca9edba917a9027",
-          "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368069-1790799195771-108368069-1790345254907-gettyimages-2293522281-AFP_C7JU7ZQ.jpeg?v=1790799253&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T20:16:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a306098d85dcccc6dca9edba917a9027.json"
         }
       ],
       "path": "articles/d743e2713749b9fc81fae7c3ffdbe0e6.json"
@@ -1205,9 +1205,9 @@
           "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
         },
         {
-          "id": "5e1f56b92703d44062e49e6f69c1b845",
-          "title": "Meta stock enjoys best month since 2022 on AI momentum",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367421-1790256222248-gettyimages-2296215846-META_CONNECT.jpeg?v=1790256353&w=1920&h=1080",
+          "id": "af43698682e0a7a07d72cacb39b463dd",
+          "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+          "image": "https://image.cnbcfm.com/api/v1/image/108132764-17448145652024-12-20t202342z_784664202_rc27tba82tsj_rtrmadp_0_usa-congress-shutdown.jpeg?v=1744814602&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1215,10 +1215,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T20:08:47.000Z",
+          "published_at": "2026-09-30T20:51:44.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5e1f56b92703d44062e49e6f69c1b845.json"
+          "breaking_score": 60,
+          "path": "articles/af43698682e0a7a07d72cacb39b463dd.json"
         },
         {
           "id": "ca1a016b5fac1dfa29c20666df71e148",

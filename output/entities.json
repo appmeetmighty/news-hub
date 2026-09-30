@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T08:46:17.454Z",
+  "updated_at": "2026-09-30T09:01:05.732Z",
   "total": 26,
   "entities": [
     {
@@ -7,7 +7,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 25
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 24
     },
     {
       "id": "btc",
@@ -26,13 +33,6 @@
       "count": 24
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 22
-    },
-    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -47,6 +47,15 @@
       "count": 7
     },
     {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -54,15 +63,6 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 6
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "oil",

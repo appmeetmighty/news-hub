@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-30T10:30:54.208Z",
+  "updated_at": "2026-09-30T10:45:36.991Z",
   "id": "btc",
   "symbol": "BTC",
   "name": "Bitcoin",
   "type": "crypto",
-  "total": 27,
+  "total": 28,
   "articles": [
     {
       "id": "71f062e1832ea45cab4d63a6b6a143e5",
@@ -235,13 +235,129 @@
       "path": "articles/19da67329f0f2434a3c0c5ad0bae2d40.json"
     },
     {
+      "id": "c05994a5e9361c22196fd1e59dcd0696",
+      "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+      "description": "Bitcoin held near $83,000 as the 30-year Treasury yield topped 5.6%, while DeFi tokens reversed and lighter fell after Robinhood unveiled U.S. perps.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae4e304bb4eab8d4a06b693d69a720148c9f59cf-1920x1080.png?auto=format&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "defi",
+          "name": "DeFi",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-30T10:11:36.000Z",
+      "related": [
+        {
+          "id": "512f8037d572ffddd0a1831fb08217eb",
+          "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/33de5f1cc06ae3b1a947617702e2b89386a50aa1-1494x830.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T04:17:20.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 55,
+          "path": "articles/512f8037d572ffddd0a1831fb08217eb.json"
+        },
+        {
+          "id": "71f062e1832ea45cab4d63a6b6a143e5",
+          "title": "Live updates: Bitcoin below $84,000 ahead of PCE inflation data, Micron earnings",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/44b6fcb3716f00225f9e06d9913325d8abf84b84-1520x852.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:18:34.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/71f062e1832ea45cab4d63a6b6a143e5.json"
+        },
+        {
+          "id": "4084b78f7aa5d80f799511a030099c97",
+          "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/59649de679b20dd867fdcd1283056b257b3d8347-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T08:25:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4084b78f7aa5d80f799511a030099c97.json"
+        },
+        {
+          "id": "fa80c135fab0280376ed3dc2b96a33ae",
+          "title": "Bitcoin bulls have one price level to defend",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f456c8ffc9ab2b603ddbba9f8613cb0a168723e2-1280x853.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T07:04:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fa80c135fab0280376ed3dc2b96a33ae.json"
+        },
+        {
+          "id": "7eb978e6eb03482b5e484951123aadc0",
+          "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b47e660b984cc83ef37291fa83d553654781579e-1500x836.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T04:38:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7eb978e6eb03482b5e484951123aadc0.json"
+        }
+      ],
+      "path": "articles/c05994a5e9361c22196fd1e59dcd0696.json"
+    },
+    {
       "id": "e1a9bfbd9fa33daa7cdd817dd2fde100",
       "title": "Crypto hardware wallets compared for 2026",
       "description": "From touchscreen and QR-code devices to NFC cards and Bitcoin-only models, this guide compares hardware wallets by security, connectivity, usability and recovery options to help users choose the right fit.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "url": "https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK4R6KZSQ9YEVXMQXXTK6S/hi-what-are-the-most-interesting-hardware-wallets-to-use-xrp.jpg",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RY397TWP2GYHRTZXH0YAE4/hi-bitcoin-wallets-for-beginners-everything-you-need-to-know.jpg",
       "source": {
         "id": "cointelegraph",
         "name": "Cointelegraph",
@@ -394,6 +510,22 @@
           "path": "articles/71f062e1832ea45cab4d63a6b6a143e5.json"
         },
         {
+          "id": "c05994a5e9361c22196fd1e59dcd0696",
+          "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae4e304bb4eab8d4a06b693d69a720148c9f59cf-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:11:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c05994a5e9361c22196fd1e59dcd0696.json"
+        },
+        {
           "id": "fa80c135fab0280376ed3dc2b96a33ae",
           "title": "Bitcoin bulls have one price level to defend",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/f456c8ffc9ab2b603ddbba9f8613cb0a168723e2-1280x853.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -440,22 +572,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a3e6cf1e60aef5dceb8b21eafdd3eb11.json"
-        },
-        {
-          "id": "005e0df0a1f56c2cb66e17ade372ab96",
-          "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ce5759e7ee6af1f56331f5bb5458cc5252851d9b-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T10:14:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/005e0df0a1f56c2cb66e17ade372ab96.json"
         }
       ],
       "path": "articles/4084b78f7aa5d80f799511a030099c97.json"
@@ -520,6 +636,22 @@
           "path": "articles/71f062e1832ea45cab4d63a6b6a143e5.json"
         },
         {
+          "id": "c05994a5e9361c22196fd1e59dcd0696",
+          "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae4e304bb4eab8d4a06b693d69a720148c9f59cf-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:11:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c05994a5e9361c22196fd1e59dcd0696.json"
+        },
+        {
           "id": "4084b78f7aa5d80f799511a030099c97",
           "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/59649de679b20dd867fdcd1283056b257b3d8347-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -550,22 +682,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7eb978e6eb03482b5e484951123aadc0.json"
-        },
-        {
-          "id": "a3e6cf1e60aef5dceb8b21eafdd3eb11",
-          "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T11:34:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a3e6cf1e60aef5dceb8b21eafdd3eb11.json"
         }
       ],
       "path": "articles/fa80c135fab0280376ed3dc2b96a33ae.json"
@@ -630,7 +746,7 @@
         {
           "id": "e1a9bfbd9fa33daa7cdd817dd2fde100",
           "title": "Crypto hardware wallets compared for 2026",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK4R6KZSQ9YEVXMQXXTK6S/hi-what-are-the-most-interesting-hardware-wallets-to-use-xrp.jpg",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RY397TWP2GYHRTZXH0YAE4/hi-bitcoin-wallets-for-beginners-everything-you-need-to-know.jpg",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -760,6 +876,22 @@
           "path": "articles/71f062e1832ea45cab4d63a6b6a143e5.json"
         },
         {
+          "id": "c05994a5e9361c22196fd1e59dcd0696",
+          "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae4e304bb4eab8d4a06b693d69a720148c9f59cf-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:11:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c05994a5e9361c22196fd1e59dcd0696.json"
+        },
+        {
           "id": "4084b78f7aa5d80f799511a030099c97",
           "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/59649de679b20dd867fdcd1283056b257b3d8347-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -806,22 +938,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a3e6cf1e60aef5dceb8b21eafdd3eb11.json"
-        },
-        {
-          "id": "005e0df0a1f56c2cb66e17ade372ab96",
-          "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ce5759e7ee6af1f56331f5bb5458cc5252851d9b-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T10:14:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/005e0df0a1f56c2cb66e17ade372ab96.json"
         }
       ],
       "path": "articles/7eb978e6eb03482b5e484951123aadc0.json"
@@ -1706,6 +1822,22 @@
           "path": "articles/71f062e1832ea45cab4d63a6b6a143e5.json"
         },
         {
+          "id": "c05994a5e9361c22196fd1e59dcd0696",
+          "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae4e304bb4eab8d4a06b693d69a720148c9f59cf-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:11:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c05994a5e9361c22196fd1e59dcd0696.json"
+        },
+        {
           "id": "4084b78f7aa5d80f799511a030099c97",
           "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/59649de679b20dd867fdcd1283056b257b3d8347-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1752,22 +1884,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7eb978e6eb03482b5e484951123aadc0.json"
-        },
-        {
-          "id": "005e0df0a1f56c2cb66e17ade372ab96",
-          "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ce5759e7ee6af1f56331f5bb5458cc5252851d9b-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T10:14:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/005e0df0a1f56c2cb66e17ade372ab96.json"
         }
       ],
       "path": "articles/a3e6cf1e60aef5dceb8b21eafdd3eb11.json"
@@ -1862,7 +1978,7 @@
         {
           "id": "e1a9bfbd9fa33daa7cdd817dd2fde100",
           "title": "Crypto hardware wallets compared for 2026",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK4R6KZSQ9YEVXMQXXTK6S/hi-what-are-the-most-interesting-hardware-wallets-to-use-xrp.jpg",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RY397TWP2GYHRTZXH0YAE4/hi-bitcoin-wallets-for-beginners-everything-you-need-to-know.jpg",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -1954,6 +2070,22 @@
           "path": "articles/71f062e1832ea45cab4d63a6b6a143e5.json"
         },
         {
+          "id": "c05994a5e9361c22196fd1e59dcd0696",
+          "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae4e304bb4eab8d4a06b693d69a720148c9f59cf-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:11:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c05994a5e9361c22196fd1e59dcd0696.json"
+        },
+        {
           "id": "4084b78f7aa5d80f799511a030099c97",
           "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/59649de679b20dd867fdcd1283056b257b3d8347-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -2000,22 +2132,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7eb978e6eb03482b5e484951123aadc0.json"
-        },
-        {
-          "id": "a3e6cf1e60aef5dceb8b21eafdd3eb11",
-          "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T11:34:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a3e6cf1e60aef5dceb8b21eafdd3eb11.json"
         }
       ],
       "path": "articles/005e0df0a1f56c2cb66e17ade372ab96.json"
@@ -2308,6 +2424,22 @@
           "path": "articles/71f062e1832ea45cab4d63a6b6a143e5.json"
         },
         {
+          "id": "c05994a5e9361c22196fd1e59dcd0696",
+          "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae4e304bb4eab8d4a06b693d69a720148c9f59cf-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:11:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c05994a5e9361c22196fd1e59dcd0696.json"
+        },
+        {
           "id": "4084b78f7aa5d80f799511a030099c97",
           "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/59649de679b20dd867fdcd1283056b257b3d8347-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -2338,22 +2470,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7eb978e6eb03482b5e484951123aadc0.json"
-        },
-        {
-          "id": "1874374390203c0ab1676dfd8935c573",
-          "title": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/bitcoin-oil-decrypt-style-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T14:07:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1874374390203c0ab1676dfd8935c573.json"
         }
       ],
       "path": "articles/c0ba7f4fa0f40fed32f3d7b08ca0b6f5.json"

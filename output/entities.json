@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T10:30:54.217Z",
-  "total": 24,
+  "updated_at": "2026-09-30T10:45:36.998Z",
+  "total": 25,
   "entities": [
     {
       "id": "btc",
@@ -9,14 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
+      "count": 28
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 25
+      "count": 26
     },
     {
       "id": "regulation",
@@ -30,7 +30,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 22
     },
     {
       "id": "openai",
@@ -38,6 +38,13 @@
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
+      "icon": "",
+      "count": 8
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 7
     },
@@ -58,20 +65,20 @@
       "count": 6
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 6
+      "count": 5
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "etf",
@@ -90,18 +97,20 @@
       "count": 4
     },
     {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 3
+    },
+    {
       "id": "gemini",
       "symbol": "GEMINI",
       "name": "Gemini",
       "type": "company",
       "path": "tickers/gemini.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
       "icon": "",
       "count": 3
     },
@@ -115,30 +124,12 @@
       "count": 3
     },
     {
-      "id": "gs",
-      "symbol": "GS",
-      "name": "Goldman Sachs",
-      "type": "company",
-      "path": "tickers/gs.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 2
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
       "count": 2
     },
     {
@@ -160,15 +151,6 @@
       "count": 2
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
@@ -178,9 +160,27 @@
       "count": 2
     },
     {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 1
+    },
+    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
       "icon": "",
       "count": 1
     },
@@ -199,6 +199,15 @@
       "name": "xAI",
       "type": "company",
       "path": "tickers/xai.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
       "icon": "",
       "count": 1
     }

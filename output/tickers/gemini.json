@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-09-30T23:15:38.925Z",
+  "updated_at": "2026-09-30T23:30:52.502Z",
   "id": "gemini",
   "symbol": "GEMINI",
   "name": "Gemini",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
+    {
+      "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+      "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+      "description": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "gemini",
+          "symbol": "GEMINI",
+          "name": "Gemini",
+          "type": "company",
+          "path": "tickers/gemini.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-30T23:20:59.000Z",
+      "related": [
+        {
+          "id": "81909d2ba9f16043789697dccf83236a",
+          "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T22:27:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/81909d2ba9f16043789697dccf83236a.json"
+        },
+        {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
+          "id": "eeebe58cfa322c835ae23cd19280fe3b",
+          "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9c9b66992e0b49d88c5e43c27ec3774ec16684fd-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T08:27:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eeebe58cfa322c835ae23cd19280fe3b.json"
+        },
+        {
+          "id": "7818c973023679a1e13db2e7ef2dbf3d",
+          "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/doctor-who-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T17:31:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
+        },
+        {
+          "id": "f096aec699d20309e7ac4954cac4619c",
+          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:43:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
+        }
+      ],
+      "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+    },
     {
       "id": "81909d2ba9f16043789697dccf83236a",
       "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
@@ -47,6 +171,22 @@
       ],
       "published_at": "2026-09-30T22:27:09.000Z",
       "related": [
+        {
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T23:20:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+        },
         {
           "id": "c0bb99f43f0196b097166df9138e242d",
           "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
@@ -110,22 +250,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
-        },
-        {
-          "id": "6ad727e86cfb5a992bce2bdf26499b46",
-          "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-          "image": "https://image.cnbcfm.com/api/v1/image/107330104-1699367426330-gettyimages-1768218053-FED_KASHKARI.jpeg?v=1790802062&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T23:14:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6ad727e86cfb5a992bce2bdf26499b46.json"
         }
       ],
       "path": "articles/81909d2ba9f16043789697dccf83236a.json"
@@ -163,6 +287,22 @@
       ],
       "published_at": "2026-09-30T08:27:00.000Z",
       "related": [
+        {
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T23:20:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+        },
         {
           "id": "81909d2ba9f16043789697dccf83236a",
           "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
@@ -226,22 +366,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d89c1abd0d3e6d9a2699752a1472cbc3.json"
-        },
-        {
-          "id": "6ebadf6f87a3bc4d4080e123baf7982d",
-          "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.5102&fp-y=0.3409&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T15:19:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6ebadf6f87a3bc4d4080e123baf7982d.json"
         }
       ],
       "path": "articles/eeebe58cfa322c835ae23cd19280fe3b.json"

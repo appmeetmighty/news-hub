@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-09-30T23:15:38.925Z",
+  "updated_at": "2026-09-30T23:30:52.502Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 27,
+  "total": 28,
   "articles": [
+    {
+      "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+      "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+      "description": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "gemini",
+          "symbol": "GEMINI",
+          "name": "Gemini",
+          "type": "company",
+          "path": "tickers/gemini.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-09-30T23:20:59.000Z",
+      "related": [
+        {
+          "id": "81909d2ba9f16043789697dccf83236a",
+          "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T22:27:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/81909d2ba9f16043789697dccf83236a.json"
+        },
+        {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
+          "id": "eeebe58cfa322c835ae23cd19280fe3b",
+          "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9c9b66992e0b49d88c5e43c27ec3774ec16684fd-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T08:27:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eeebe58cfa322c835ae23cd19280fe3b.json"
+        },
+        {
+          "id": "7818c973023679a1e13db2e7ef2dbf3d",
+          "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/doctor-who-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T17:31:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
+        },
+        {
+          "id": "f096aec699d20309e7ac4954cac4619c",
+          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:43:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
+        }
+      ],
+      "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+    },
     {
       "id": "81909d2ba9f16043789697dccf83236a",
       "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
@@ -46,6 +170,22 @@
       ],
       "published_at": "2026-09-30T22:27:09.000Z",
       "related": [
+        {
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T23:20:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+        },
         {
           "id": "c0bb99f43f0196b097166df9138e242d",
           "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
@@ -109,22 +249,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
-        },
-        {
-          "id": "6ad727e86cfb5a992bce2bdf26499b46",
-          "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-          "image": "https://image.cnbcfm.com/api/v1/image/107330104-1699367426330-gettyimages-1768218053-FED_KASHKARI.jpeg?v=1790802062&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T23:14:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6ad727e86cfb5a992bce2bdf26499b46.json"
         }
       ],
       "path": "articles/81909d2ba9f16043789697dccf83236a.json"
@@ -313,7 +437,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T23:14:17.000Z",
+          "published_at": "2026-09-30T23:23:25.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6ad727e86cfb5a992bce2bdf26499b46.json"
@@ -421,7 +545,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T23:14:17.000Z",
+          "published_at": "2026-09-30T23:23:25.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6ad727e86cfb5a992bce2bdf26499b46.json"
@@ -603,6 +727,22 @@
       "published_at": "2026-09-30T19:16:02.000Z",
       "related": [
         {
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T23:20:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+        },
+        {
           "id": "a81c135b7b91cb2a2b9ec702708999a4",
           "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png@png",
@@ -665,22 +805,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/61f7668054186eed17e0a4d94ed41609.json"
-        },
-        {
-          "id": "f03ff9cfeee2ff99a842d9cc3c846a5f",
-          "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T18:39:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f03ff9cfeee2ff99a842d9cc3c846a5f.json"
         }
       ],
       "path": "articles/bb250cef0486e2defd2b01f28b5db995.json"
@@ -793,7 +917,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T23:14:17.000Z",
+          "published_at": "2026-09-30T23:23:25.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6ad727e86cfb5a992bce2bdf26499b46.json"
@@ -837,7 +961,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T23:14:17.000Z",
+          "published_at": "2026-09-30T23:23:25.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6ad727e86cfb5a992bce2bdf26499b46.json"
@@ -1023,20 +1147,20 @@
           "path": "articles/b0e7e221b05b5616e84ec4d2ae478c08.json"
         },
         {
-          "id": "cf8abbc82760fd71c5dbe4691e88cbff",
-          "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-30T08:50:22.000Z",
+          "published_at": "2026-09-30T23:20:59.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
         }
       ],
       "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
@@ -1359,6 +1483,22 @@
           "path": "articles/c05994a5e9361c22196fd1e59dcd0696.json"
         },
         {
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T23:20:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+        },
+        {
           "id": "a81c135b7b91cb2a2b9ec702708999a4",
           "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png@png",
@@ -1373,22 +1513,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a81c135b7b91cb2a2b9ec702708999a4.json"
-        },
-        {
-          "id": "3c3cfba56ed6f1329a305220db84c517",
-          "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T21:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/3c3cfba56ed6f1329a305220db84c517.json"
         }
       ],
       "path": "articles/a507641cfba9b9d7ae5e0d3443bc27db.json"
@@ -1451,6 +1575,22 @@
           "path": "articles/4f04fcdde72c921a5ddfefd1e7c9653a.json"
         },
         {
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T23:20:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+        },
+        {
           "id": "a81c135b7b91cb2a2b9ec702708999a4",
           "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png@png",
@@ -1481,22 +1621,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 100,
           "path": "articles/3c3cfba56ed6f1329a305220db84c517.json"
-        },
-        {
-          "id": "24197e6859438f3b55cfc306944e74a8",
-          "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T20:31:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/24197e6859438f3b55cfc306944e74a8.json"
         }
       ],
       "path": "articles/ca39b74de1737bb9e69e409c5961027c.json"
@@ -2581,6 +2705,22 @@
       "published_at": "2026-09-29T17:31:04.000Z",
       "related": [
         {
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T23:20:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+        },
+        {
           "id": "c0bb99f43f0196b097166df9138e242d",
           "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
@@ -2643,22 +2783,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a81c135b7b91cb2a2b9ec702708999a4.json"
-        },
-        {
-          "id": "3c3cfba56ed6f1329a305220db84c517",
-          "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T21:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/3c3cfba56ed6f1329a305220db84c517.json"
         }
       ],
       "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
@@ -2993,9 +3117,9 @@
           "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
         },
         {
-          "id": "3c3cfba56ed6f1329a305220db84c517",
-          "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png",
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -3003,10 +3127,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-30T21:16:04.000Z",
+          "published_at": "2026-09-30T23:20:59.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/3c3cfba56ed6f1329a305220db84c517.json"
+          "breaking_score": 0,
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
         }
       ],
       "path": "articles/b0e7e221b05b5616e84ec4d2ae478c08.json"

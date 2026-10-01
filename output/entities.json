@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-10-01T11:30:56.554Z",
-  "total": 25,
+  "updated_at": "2026-10-01T11:45:40.978Z",
+  "total": 24,
   "entities": [
     {
       "id": "ai",
       "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 26
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
       "type": "topic",
       "icon": "",
       "count": 25
@@ -17,20 +24,13 @@
       "count": 25
     },
     {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 24
-    },
-    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
+      "count": 23
     },
     {
       "id": "openai",
@@ -200,15 +200,6 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
-      "count": 1
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 1
     }
   ]

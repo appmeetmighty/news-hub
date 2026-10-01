@@ -1,11 +1,11 @@
 {
-  "id": "d3407673864a31ce0ced0635860d3bd6",
-  "title": "Japan's prime minister says her policies will boost confidence in the yen after U.S. intervention falls short",
-  "description": "Japan's Prime Minister said her government's policies will lift confidence in the yen, following underwhelming success in prior efforts to boost the currency.",
+  "id": "73afe0f784c8cb5e71d1dba9a6c7c80a",
+  "title": "Former LinkedIn chief Roslansky to leave Microsoft, following other exec departures",
+  "description": "Gaming head Phil Spencer and Office leader Rajesh Jha both left this year, and Charlie Bell, the company's head of security, became an individual contributor.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/10/01/japan-yen-dollar-trump-intervention.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108366590-1790123618446-gettyimages-2296054858-AFP_C92N3TA.jpeg?v=1790123674&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/10/01/linkedin-chief-roslansky-microsoft-exit.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108371129-1790869715076-gettyimages-2179776912-SINGAPORE_LINKEDIN.jpeg?v=1790871083&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,8 +13,17 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-10-01T11:13:25.000Z",
+  "entities": [
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com"
+    }
+  ],
+  "published_at": "2026-10-01T16:08:31.000Z",
   "related": [
     {
       "id": "ca335eb94abf7459761c17878d39899b",
@@ -65,22 +74,6 @@
       "path": "articles/621fd9beb026af7eb89eb51bde8602e5.json"
     },
     {
-      "id": "73afe0f784c8cb5e71d1dba9a6c7c80a",
-      "title": "Former LinkedIn chief Roslansky to leave Microsoft, following other exec departures",
-      "image": "https://image.cnbcfm.com/api/v1/image/108371129-1790869715076-gettyimages-2179776912-SINGAPORE_LINKEDIN.jpeg?v=1790871083&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-10-01T16:08:31.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/73afe0f784c8cb5e71d1dba9a6c7c80a.json"
-    },
-    {
       "id": "e2abdc3d4a8f6554a15e6479cce33e9e",
       "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
       "image": "https://image.cnbcfm.com/api/v1/image/108357000-1788963978101-108357000-1788269525139-gettyimages-2291336155-AA_24082026_2926685.jpg?v=1788963985&w=1920&h=1080",
@@ -95,6 +88,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/e2abdc3d4a8f6554a15e6479cce33e9e.json"
+    },
+    {
+      "id": "df0eee2bf2772fd826701cf81c0de9f4",
+      "title": "GM reports 5.5% decline in third-quarter U.S. sales as EV sales drop",
+      "image": "https://image.cnbcfm.com/api/v1/image/108297748-1777306663678-108297748-1777306612467-gettyimages-2257773075-GM_EARNS.jpg?v=1777306674&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-10-01T16:05:41.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/df0eee2bf2772fd826701cf81c0de9f4.json"
     }
   ]
 }

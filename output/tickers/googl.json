@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-10-01T11:15:45.516Z",
+  "updated_at": "2026-10-01T11:30:56.541Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
   "type": "company",
-  "total": 5,
+  "total": 6,
   "articles": [
+    {
+      "id": "8baea174d360e4caa3be3c582b7cee79",
+      "title": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
+      "description": "SpaceX plans to launch Google tensor processing units into orbit on Planet Labs satellites.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-01T11:20:15.000Z",
+      "related": [
+        {
+          "id": "81909d2ba9f16043789697dccf83236a",
+          "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T22:27:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/81909d2ba9f16043789697dccf83236a.json"
+        },
+        {
+          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
+          "title": "    SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+          "image": "",
+          "source": {
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T18:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
+        },
+        {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
+          "id": "f096aec699d20309e7ac4954cac4619c",
+          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:43:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
+        },
+        {
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T23:20:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+        }
+      ],
+      "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
+    },
     {
       "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
       "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
@@ -188,6 +312,22 @@
           "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
         },
         {
+          "id": "8baea174d360e4caa3be3c582b7cee79",
+          "title": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-01T11:20:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
+        },
+        {
           "id": "c0bb99f43f0196b097166df9138e242d",
           "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
@@ -234,22 +374,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/eeebe58cfa322c835ae23cd19280fe3b.json"
-        },
-        {
-          "id": "7818c973023679a1e13db2e7ef2dbf3d",
-          "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/doctor-who-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-29T17:31:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
         }
       ],
       "path": "articles/81909d2ba9f16043789697dccf83236a.json"
@@ -600,6 +724,22 @@
           "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
         },
         {
+          "id": "8baea174d360e4caa3be3c582b7cee79",
+          "title": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-01T11:20:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
+        },
+        {
           "id": "81909d2ba9f16043789697dccf83236a",
           "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
           "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&w=1920&h=1080",
@@ -614,22 +754,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/81909d2ba9f16043789697dccf83236a.json"
-        },
-        {
-          "id": "8faaad3c3888f4c17ff4dfe768d6fdea",
-          "title": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-01T09:38:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8faaad3c3888f4c17ff4dfe768d6fdea.json"
         }
       ],
       "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"

@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-01T11:15:45.519Z",
+  "updated_at": "2026-10-01T11:30:56.554Z",
   "total": 25,
   "entities": [
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 25
+    },
     {
       "id": "regulation",
       "name": "Regulation",
@@ -12,13 +19,6 @@
     {
       "id": "crypto",
       "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 24
-    },
-    {
-      "id": "ai",
-      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 24
@@ -49,6 +49,15 @@
       "count": 8
     },
     {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 6
+    },
+    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
@@ -62,15 +71,6 @@
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 5
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
       "count": 5
     },
     {
@@ -115,6 +115,15 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "etf",
@@ -182,15 +191,6 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 1
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
-      "icon": "",
       "count": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T20:15:42.095Z",
+  "updated_at": "2026-10-01T20:30:58.113Z",
   "total": 25,
   "entities": [
     {
@@ -7,14 +7,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 25
+      "count": 26
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 25
+      "count": 26
     },
     {
       "id": "btc",
@@ -23,7 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
+      "count": 21
     },
     {
       "id": "ai",
@@ -74,10 +74,12 @@
       "count": 5
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
       "count": 3
     },
     {
@@ -90,13 +92,11 @@
       "count": 3
     },
     {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
-      "count": 3
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "meta",

@@ -1,10 +1,242 @@
 {
-  "updated_at": "2026-10-01T20:30:58.107Z",
+  "updated_at": "2026-10-01T20:45:42.775Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 19,
+  "total": 20,
   "articles": [
+    {
+      "id": "8baea174d360e4caa3be3c582b7cee79",
+      "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+      "description": "Google's tensor processing units were launched into orbit on Planet Labs satellites.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-01T20:31:42.000Z",
+      "related": [
+        {
+          "id": "9187985ed6be7eb14f343b2d892f6693",
+          "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
+          "image": "https://image.cnbcfm.com/api/v1/image/108371304-1790880866426-gettyimages-2297502695-boivin-photoill261001_np5Yb.jpeg?v=1790881080&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-01T19:43:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9187985ed6be7eb14f343b2d892f6693.json"
+        },
+        {
+          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
+          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+          "image": "",
+          "source": {
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T18:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
+        },
+        {
+          "id": "c0bb99f43f0196b097166df9138e242d",
+          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T16:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+        },
+        {
+          "id": "f096aec699d20309e7ac4954cac4619c",
+          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T10:43:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
+        },
+        {
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T23:20:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+        }
+      ],
+      "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
+    },
+    {
+      "id": "c5e1465c8c11561490d4ef7c8cca2068",
+      "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+      "description": "Reddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-01T20:31:03.000Z",
+      "related": [
+        {
+          "id": "1f30b45b12931980c1acf24abafec72f",
+          "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T18:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1f30b45b12931980c1acf24abafec72f.json"
+        },
+        {
+          "id": "a81c135b7b91cb2a2b9ec702708999a4",
+          "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T21:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a81c135b7b91cb2a2b9ec702708999a4.json"
+        },
+        {
+          "id": "24be58e31453fd974f369302db5d0fda",
+          "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-29T20:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/24be58e31453fd974f369302db5d0fda.json"
+        },
+        {
+          "id": "6c322690e8e33fa6c5469a0afb7a2d47",
+          "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T19:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
+        },
+        {
+          "id": "7dac2de3c393774c9399763b6d79e7a7",
+          "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T19:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
+        }
+      ],
+      "path": "articles/c5e1465c8c11561490d4ef7c8cca2068.json"
+    },
     {
       "id": "6c322690e8e33fa6c5469a0afb7a2d47",
       "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
@@ -103,9 +335,9 @@
           "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
         },
         {
-          "id": "7dac2de3c393774c9399763b6d79e7a7",
-          "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
+          "id": "c5e1465c8c11561490d4ef7c8cca2068",
+          "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -113,10 +345,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-01T19:16:03.000Z",
+          "published_at": "2026-10-01T20:31:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
+          "path": "articles/c5e1465c8c11561490d4ef7c8cca2068.json"
         }
       ],
       "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
@@ -165,7 +397,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-01T19:14:30.000Z",
+          "published_at": "2026-10-01T20:31:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
@@ -319,6 +551,22 @@
           "path": "articles/fa8a44025aed13eb6a18f0afce06a519.json"
         },
         {
+          "id": "c5e1465c8c11561490d4ef7c8cca2068",
+          "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T20:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c5e1465c8c11561490d4ef7c8cca2068.json"
+        },
+        {
           "id": "6c322690e8e33fa6c5469a0afb7a2d47",
           "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
@@ -333,149 +581,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
-        },
-        {
-          "id": "1f30b45b12931980c1acf24abafec72f",
-          "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-01T18:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1f30b45b12931980c1acf24abafec72f.json"
         }
       ],
       "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
-    },
-    {
-      "id": "8baea174d360e4caa3be3c582b7cee79",
-      "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
-      "description": "Google's tensor processing units were launched into orbit on Planet Labs satellites.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "googl",
-          "symbol": "GOOGL",
-          "name": "Google",
-          "type": "company",
-          "path": "tickers/googl.json",
-          "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "spacex",
-          "symbol": "SPACEX",
-          "name": "SpaceX",
-          "type": "company",
-          "path": "tickers/spacex.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-01T19:14:30.000Z",
-      "related": [
-        {
-          "id": "9187985ed6be7eb14f343b2d892f6693",
-          "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-          "image": "https://image.cnbcfm.com/api/v1/image/108371304-1790880866426-gettyimages-2297502695-boivin-photoill261001_np5Yb.jpeg?v=1790881080&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-01T19:43:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9187985ed6be7eb14f343b2d892f6693.json"
-        },
-        {
-          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
-          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T18:30:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 45,
-          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
-        },
-        {
-          "id": "c0bb99f43f0196b097166df9138e242d",
-          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T16:06:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
-        },
-        {
-          "id": "f096aec699d20309e7ac4954cac4619c",
-          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T10:43:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
-        },
-        {
-          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
-          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T23:20:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
-        }
-      ],
-      "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
     },
     {
       "id": "1e129e10b3dc20186b503ad386f4c65f",
@@ -543,6 +651,22 @@
           "path": "articles/eba738a707f5c2ed79b483c6049944fe.json"
         },
         {
+          "id": "d64e766affac1c0b17bb40e7e9abfdef",
+          "title": "Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108317201-1780643697313-gettyimages-2268269844-koutsokostas-notitle260328_npyVx.jpeg?v=1780643860&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-01T20:41:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d64e766affac1c0b17bb40e7e9abfdef.json"
+        },
+        {
           "id": "4980f3f6d21c30dd69e72c004f3765c8",
           "title": "Nike stock drops as revenue falls short of estimates, China sales plunge again",
           "image": "https://image.cnbcfm.com/api/v1/image/108369711-1790707248567-gettyimages-2297751509-emaz-1_em28393.jpeg?v=1790869522&w=1920&h=1080",
@@ -553,15 +677,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-01T20:28:57.000Z",
+          "published_at": "2026-10-01T20:37:59.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/4980f3f6d21c30dd69e72c004f3765c8.json"
         },
         {
-          "id": "506621c0c6e85c22703e3893c61028e5",
-          "title": "Accenture stock rallies after earnings beat expectations",
-          "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+          "id": "8baea174d360e4caa3be3c582b7cee79",
+          "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -569,26 +693,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-01T20:19:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/506621c0c6e85c22703e3893c61028e5.json"
-        },
-        {
-          "id": "bfd68a1229fbcae790ac59df07116162",
-          "title": "United Airlines gets aggressive in battle for top Delta, American flyers",
-          "image": "https://image.cnbcfm.com/api/v1/image/108334108-1783957782996-gettyimages-2285383147-jr_18646_dvps78ae.jpeg?v=1783957812&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-01T20:06:06.000Z",
+          "published_at": "2026-10-01T20:31:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/bfd68a1229fbcae790ac59df07116162.json"
+          "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
         }
       ],
       "path": "articles/1e129e10b3dc20186b503ad386f4c65f.json"
@@ -629,10 +737,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-01T20:28:57.000Z",
+          "published_at": "2026-10-01T20:37:59.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/4980f3f6d21c30dd69e72c004f3765c8.json"
+        },
+        {
+          "id": "8baea174d360e4caa3be3c582b7cee79",
+          "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-01T20:31:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
         },
         {
           "id": "506621c0c6e85c22703e3893c61028e5",
@@ -665,22 +789,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b754a1c0af913c2315e66103aa15ee62.json"
-        },
-        {
-          "id": "8baea174d360e4caa3be3c582b7cee79",
-          "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
-          "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-01T19:14:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
         },
         {
           "id": "6ad727e86cfb5a992bce2bdf26499b46",
@@ -727,6 +835,22 @@
       "published_at": "2026-10-01T13:21:11.000Z",
       "related": [
         {
+          "id": "d64e766affac1c0b17bb40e7e9abfdef",
+          "title": "Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
+          "image": "https://image.cnbcfm.com/api/v1/image/108317201-1780643697313-gettyimages-2268269844-koutsokostas-notitle260328_npyVx.jpeg?v=1780643860&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-01T20:41:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d64e766affac1c0b17bb40e7e9abfdef.json"
+        },
+        {
           "id": "4980f3f6d21c30dd69e72c004f3765c8",
           "title": "Nike stock drops as revenue falls short of estimates, China sales plunge again",
           "image": "https://image.cnbcfm.com/api/v1/image/108369711-1790707248567-gettyimages-2297751509-emaz-1_em28393.jpeg?v=1790869522&w=1920&h=1080",
@@ -737,10 +861,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-01T20:28:57.000Z",
+          "published_at": "2026-10-01T20:37:59.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/4980f3f6d21c30dd69e72c004f3765c8.json"
+        },
+        {
+          "id": "8baea174d360e4caa3be3c582b7cee79",
+          "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-01T20:31:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
         },
         {
           "id": "506621c0c6e85c22703e3893c61028e5",
@@ -773,38 +913,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/eba738a707f5c2ed79b483c6049944fe.json"
-        },
-        {
-          "id": "bfd68a1229fbcae790ac59df07116162",
-          "title": "United Airlines gets aggressive in battle for top Delta, American flyers",
-          "image": "https://image.cnbcfm.com/api/v1/image/108334108-1783957782996-gettyimages-2285383147-jr_18646_dvps78ae.jpeg?v=1783957812&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-01T20:06:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bfd68a1229fbcae790ac59df07116162.json"
-        },
-        {
-          "id": "58691959d46ef5e2afbcaa032f122a93",
-          "title": "Boeing engineers and technical workers approve new contract, avoiding strike",
-          "image": "https://image.cnbcfm.com/api/v1/image/108371276-1790880093675-gettyimages-2271074553-BOEING_FACTORY.jpeg?v=1790880143&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-01T20:00:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/58691959d46ef5e2afbcaa032f122a93.json"
         }
       ],
       "path": "articles/75eca73cb58e2c38339fde3e6d36a6d7.json"
@@ -899,6 +1007,22 @@
           "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
         },
         {
+          "id": "8baea174d360e4caa3be3c582b7cee79",
+          "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-01T20:31:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
+        },
+        {
           "id": "9187985ed6be7eb14f343b2d892f6693",
           "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
           "image": "https://image.cnbcfm.com/api/v1/image/108371304-1790880866426-gettyimages-2297502695-boivin-photoill261001_np5Yb.jpeg?v=1790881080&w=1920&h=1080",
@@ -913,22 +1037,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/9187985ed6be7eb14f343b2d892f6693.json"
-        },
-        {
-          "id": "8baea174d360e4caa3be3c582b7cee79",
-          "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
-          "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-01T19:14:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
         }
       ],
       "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
@@ -973,6 +1081,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c13c3828e622c1311fcc4c853488f18b.json"
+        },
+        {
+          "id": "c5e1465c8c11561490d4ef7c8cca2068",
+          "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T20:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c5e1465c8c11561490d4ef7c8cca2068.json"
         },
         {
           "id": "6c322690e8e33fa6c5469a0afb7a2d47",
@@ -1021,22 +1145,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1f30b45b12931980c1acf24abafec72f.json"
-        },
-        {
-          "id": "8e61516f07407c3ec05e2e65cd9ac49e",
-          "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-01T18:12:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8e61516f07407c3ec05e2e65cd9ac49e.json"
         }
       ],
       "path": "articles/bb250cef0486e2defd2b01f28b5db995.json"
@@ -1335,6 +1443,22 @@
           "path": "articles/6f8a6d1a1dff2dbfc3d941a96c8fce3f.json"
         },
         {
+          "id": "c5e1465c8c11561490d4ef7c8cca2068",
+          "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T20:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c5e1465c8c11561490d4ef7c8cca2068.json"
+        },
+        {
           "id": "6c322690e8e33fa6c5469a0afb7a2d47",
           "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
@@ -1381,22 +1505,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1f30b45b12931980c1acf24abafec72f.json"
-        },
-        {
-          "id": "8e61516f07407c3ec05e2e65cd9ac49e",
-          "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-01T18:12:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8e61516f07407c3ec05e2e65cd9ac49e.json"
         }
       ],
       "path": "articles/a507641cfba9b9d7ae5e0d3443bc27db.json"
@@ -1459,6 +1567,22 @@
           "path": "articles/bd6fae986eeac65827fc551c40984e59.json"
         },
         {
+          "id": "c5e1465c8c11561490d4ef7c8cca2068",
+          "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T20:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c5e1465c8c11561490d4ef7c8cca2068.json"
+        },
+        {
           "id": "78f7a83e386d3f9bd80908be49f28870",
           "title": "Here’s what happened in crypto today",
           "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -1489,22 +1613,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
-        },
-        {
-          "id": "7dac2de3c393774c9399763b6d79e7a7",
-          "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-01T19:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
         }
       ],
       "path": "articles/ca39b74de1737bb9e69e409c5961027c.json"
@@ -1789,6 +1897,22 @@
       "published_at": "2026-09-29T20:06:03.000Z",
       "related": [
         {
+          "id": "c5e1465c8c11561490d4ef7c8cca2068",
+          "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T20:31:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c5e1465c8c11561490d4ef7c8cca2068.json"
+        },
+        {
           "id": "1f30b45b12931980c1acf24abafec72f",
           "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
@@ -1851,22 +1975,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 40,
           "path": "articles/e8c940304f8262fd9c0411ddc635a31b.json"
-        },
-        {
-          "id": "6c322690e8e33fa6c5469a0afb7a2d47",
-          "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-01T19:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
         }
       ],
       "path": "articles/24be58e31453fd974f369302db5d0fda.json"
@@ -2077,6 +2185,22 @@
           "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
         },
         {
+          "id": "8baea174d360e4caa3be3c582b7cee79",
+          "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-01T20:31:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
+        },
+        {
           "id": "9187985ed6be7eb14f343b2d892f6693",
           "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
           "image": "https://image.cnbcfm.com/api/v1/image/108371304-1790880866426-gettyimages-2297502695-boivin-photoill261001_np5Yb.jpeg?v=1790881080&w=1920&h=1080",
@@ -2091,22 +2215,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/9187985ed6be7eb14f343b2d892f6693.json"
-        },
-        {
-          "id": "8baea174d360e4caa3be3c582b7cee79",
-          "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
-          "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-01T19:14:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8baea174d360e4caa3be3c582b7cee79.json"
         }
       ],
       "path": "articles/7818c973023679a1e13db2e7ef2dbf3d.json"
@@ -2191,22 +2299,6 @@
           "path": "articles/819380f5f4bad5598aa54e4cb5a261ab.json"
         },
         {
-          "id": "15beef9e14ff655c29cf6a951c70d790",
-          "title": "SEC proposes investor exam to expand private market access — here's how it could work",
-          "image": "https://image.cnbcfm.com/api/v1/image/108312455-1779885957667-gettyimages-2278350700-20260526-151940.jpeg?v=1790800530&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-01T14:33:08.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/15beef9e14ff655c29cf6a951c70d790.json"
-        },
-        {
           "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
           "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
           "image": "",
@@ -2221,6 +2313,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 45,
           "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
+        },
+        {
+          "id": "1018a02b1ae4ae46a9884bf005efdcac",
+          "title": "  SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans\n",
+          "image": "",
+          "source": {
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T16:42:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1018a02b1ae4ae46a9884bf005efdcac.json"
         }
       ],
       "path": "articles/6c6324a026bb0ac014c917a4aead1969.json"

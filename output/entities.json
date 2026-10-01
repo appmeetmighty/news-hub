@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T18:30:59.957Z",
+  "updated_at": "2026-10-01T18:45:41.616Z",
   "total": 24,
   "entities": [
     {
@@ -14,7 +14,7 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 25
     },
     {
       "id": "btc",
@@ -33,10 +33,12 @@
       "count": 19
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
       "count": 6
     },
     {
@@ -56,12 +58,10 @@
       "count": 5
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
       "count": 5
     },
     {
@@ -97,15 +97,6 @@
       "path": "tickers/c.json",
       "icon": "",
       "count": 3
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 2
     },
     {
       "id": "aapl",
@@ -182,6 +173,15 @@
       "type": "company",
       "path": "tickers/gemini.json",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 1
     },
     {

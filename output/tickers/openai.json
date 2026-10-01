@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-01T14:45:43.806Z",
+  "updated_at": "2026-10-01T15:01:20.348Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 7,
+  "total": 6,
   "articles": [
     {
       "id": "5b8917e4f631fcf34dbfeabb64ff738d",
@@ -39,22 +39,6 @@
       ],
       "published_at": "2026-10-01T02:14:43.000Z",
       "related": [
-        {
-          "id": "af43698682e0a7a07d72cacb39b463dd",
-          "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
-          "image": "https://image.cnbcfm.com/api/v1/image/108132764-17448145652024-12-20t202342z_784664202_rc27tba82tsj_rtrmadp_0_usa-congress-shutdown.jpeg?v=1744814602&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T20:51:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/af43698682e0a7a07d72cacb39b463dd.json"
-        },
         {
           "id": "c0bb99f43f0196b097166df9138e242d",
           "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
@@ -118,58 +102,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d686ac77defa22ba3455c348a36b5bd6.json"
-        }
-      ],
-      "path": "articles/5b8917e4f631fcf34dbfeabb64ff738d.json"
-    },
-    {
-      "id": "af43698682e0a7a07d72cacb39b463dd",
-      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
-      "description": "A Senate subcommittee on Wednesday is examining rogue AI, after a series of AI cyberattacks and increasing warnings about the risks of the technology.",
-      "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108132764-17448145652024-12-20t202342z_784664202_rc27tba82tsj_rtrmadp_0_usa-congress-shutdown.jpeg?v=1744814602&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-09-30T20:51:44.000Z",
-      "related": [
-        {
-          "id": "5b8917e4f631fcf34dbfeabb64ff738d",
-          "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
-          "image": "https://image.cnbcfm.com/api/v1/image/108360206-1788935108315-gettyimages-2271060387-boivin-notitle260416_npYv5.jpeg?v=1788935125&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-01T02:14:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5b8917e4f631fcf34dbfeabb64ff738d.json"
         },
         {
           "id": "59b68d51fba302d925dd6a6cff0305c0",
@@ -186,57 +118,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"
-        },
-        {
-          "id": "c0bb99f43f0196b097166df9138e242d",
-          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T16:06:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
-        },
-        {
-          "id": "f096aec699d20309e7ac4954cac4619c",
-          "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/db6bdf4dd92e1d8c0648ec973eab6eddb4902877-5172x3448.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T10:43:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/f096aec699d20309e7ac4954cac4619c.json"
-        },
-        {
-          "id": "cf8abbc82760fd71c5dbe4691e88cbff",
-          "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T08:50:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
         }
       ],
-      "path": "articles/af43698682e0a7a07d72cacb39b463dd.json"
+      "path": "articles/5b8917e4f631fcf34dbfeabb64ff738d.json"
     },
     {
       "id": "c0bb99f43f0196b097166df9138e242d",
@@ -834,9 +718,9 @@
           "path": "articles/cf8abbc82760fd71c5dbe4691e88cbff.json"
         },
         {
-          "id": "af43698682e0a7a07d72cacb39b463dd",
-          "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
-          "image": "https://image.cnbcfm.com/api/v1/image/108132764-17448145652024-12-20t202342z_784664202_rc27tba82tsj_rtrmadp_0_usa-congress-shutdown.jpeg?v=1744814602&w=1920&h=1080",
+          "id": "5b8917e4f631fcf34dbfeabb64ff738d",
+          "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
+          "image": "https://image.cnbcfm.com/api/v1/image/108360206-1788935108315-gettyimages-2271060387-boivin-notitle260416_npYv5.jpeg?v=1788935125&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -844,10 +728,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-30T20:51:44.000Z",
+          "published_at": "2026-10-01T02:14:43.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/af43698682e0a7a07d72cacb39b463dd.json"
+          "breaking_score": 0,
+          "path": "articles/5b8917e4f631fcf34dbfeabb64ff738d.json"
         }
       ],
       "path": "articles/59b68d51fba302d925dd6a6cff0305c0.json"

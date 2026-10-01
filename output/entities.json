@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T09:45:40.017Z",
+  "updated_at": "2026-10-01T10:01:10.671Z",
   "total": 25,
   "entities": [
     {
@@ -30,7 +30,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 20
+      "count": 21
     },
     {
       "id": "openai",
@@ -42,18 +42,18 @@
       "count": 10
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 8
-    },
-    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 8
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "oil",
@@ -99,6 +99,15 @@
       "count": 4
     },
     {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "gemini",
       "symbol": "GEMINI",
       "name": "Gemini",
@@ -106,6 +115,13 @@
       "path": "tickers/gemini.json",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "mstr",
@@ -141,15 +157,6 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 2
-    },
-    {
-      "id": "c",
-      "symbol": "C",
-      "name": "Citigroup",
-      "type": "company",
-      "path": "tickers/c.json",
-      "icon": "",
       "count": 2
     },
     {
@@ -202,13 +209,6 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 1
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
       "count": 1
     }
   ]

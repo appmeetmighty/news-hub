@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T16:45:41.161Z",
+  "updated_at": "2026-10-02T17:01:14.040Z",
   "total": 26,
   "entities": [
     {
@@ -10,6 +10,15 @@
       "count": 25
     },
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 24
+    },
+    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
@@ -17,20 +26,11 @@
       "count": 24
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 23
-    },
-    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 13
     },
     {
       "id": "blockchain",
@@ -99,15 +99,6 @@
       "count": 2
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "gemini",
       "symbol": "GEMINI",
       "name": "Gemini",
@@ -156,6 +147,15 @@
       "path": "tickers/doge.json",
       "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
       "count": 2
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "oil",

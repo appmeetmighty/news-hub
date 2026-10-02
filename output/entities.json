@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T17:30:59.787Z",
+  "updated_at": "2026-10-02T17:45:40.805Z",
   "total": 26,
   "entities": [
     {
@@ -44,7 +44,7 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 8
+      "count": 7
     },
     {
       "id": "eth",
@@ -65,11 +65,13 @@
       "count": 4
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 4
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 3
     },
     {
       "id": "googl",
@@ -90,13 +92,11 @@
       "count": 3
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 2
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "gemini",

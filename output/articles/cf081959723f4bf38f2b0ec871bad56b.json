@@ -1,11 +1,11 @@
 {
-  "id": "66023f32d0e181b20ac7686687bbe20a",
-  "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-  "description": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+  "id": "cf081959723f4bf38f2b0ec871bad56b",
+  "title": "Nvidia breaks through to new record highs. Plus, more good news for Boeing",
+  "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
   "reading_time_minutes": 1,
-  "breaking_score": 20,
-  "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108266487-1771358653704-gettyimages-2262167514-emaz-1_em21067.jpeg?v=1790895472&w=1920&h=1080",
+  "breaking_score": 30,
+  "url": "https://www.cnbc.com/2026/10/02/nvidia-breaks-through-to-new-record-highs-plus-more-good-news-for-boeing.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108368702-1790598543513-Jensen4.jpg?v=1790598795&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,18 +15,36 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": ""
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
     }
   ],
-  "published_at": "2026-10-02T12:24:27.000Z",
+  "published_at": "2026-10-02T15:31:51.000Z",
   "related": [
     {
-      "id": "4fa50676064d9a1b610110e384d661cd",
-      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368238-1790358261069-gettyimages-2297111436-jr_18591_wq7j0ohd.jpeg?v=1790358312&w=1920&h=1080",
+      "id": "c0bb99f43f0196b097166df9138e242d",
+      "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-30T16:06:03.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
+    },
+    {
+      "id": "f9aefd60156d82c584b6d9b2c7dde07f",
+      "title": "YouTube sports strategy targets more live rights -- but not necessarily events",
+      "image": "https://image.cnbcfm.com/api/v1/image/108192268-1756449894821-gettyimages-2162696127-raa-youtubep240724_npUA1.jpeg?v=1765788614&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -34,10 +52,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-10-02T13:45:58.000Z",
+      "published_at": "2026-10-02T12:49:41.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/4fa50676064d9a1b610110e384d661cd.json"
+      "path": "articles/f9aefd60156d82c584b6d9b2c7dde07f.json"
     },
     {
       "id": "87bec33af019ca60ec5d3d46d55e2dc3",
@@ -70,22 +88,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 20,
       "path": "articles/b4081dcbb742e90072b8269541e3374c.json"
-    },
-    {
-      "id": "cf081959723f4bf38f2b0ec871bad56b",
-      "title": "Nvidia breaks through to new record highs. Plus, more good news for Boeing",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368702-1790598543513-Jensen4.jpg?v=1790598795&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-10-02T15:31:51.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 30,
-      "path": "articles/cf081959723f4bf38f2b0ec871bad56b.json"
     },
     {
       "id": "a39e26f852cba01e4ae3b73ee990642f",

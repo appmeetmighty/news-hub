@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-02T15:30:59.292Z",
+  "updated_at": "2026-10-02T15:45:44.701Z",
   "total": 28,
   "entities": [
     {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 24
-    },
-    {
       "id": "crypto",
       "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 25
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
       "type": "topic",
       "icon": "",
       "count": 24
@@ -23,7 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
+      "count": 23
     },
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 8
     },
     {
       "id": "eth",
@@ -90,13 +90,13 @@
       "count": 3
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 2
     },
     {
       "id": "anthropic",
@@ -113,6 +113,15 @@
       "name": "Gemini",
       "type": "company",
       "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 2
     },
@@ -225,15 +234,6 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 1
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 1
     }
   ]

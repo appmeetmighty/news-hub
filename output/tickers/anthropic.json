@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-02T22:45:47.106Z",
+  "updated_at": "2026-10-02T23:01:06.058Z",
   "id": "anthropic",
   "symbol": "ANTHROPIC",
   "name": "Anthropic",
   "type": "company",
-  "total": 2,
+  "total": 1,
   "articles": [
     {
       "id": "33dc64b0e6d401b02f7b5e9900b78f63",
@@ -40,22 +40,6 @@
       "published_at": "2026-10-02T21:03:06.000Z",
       "related": [
         {
-          "id": "a2b176256c40e5f0e49d40525e43c439",
-          "title": "Can Google's new model really catch up to OpenAI and Anthropic at the frontier?",
-          "image": "https://image.cnbcfm.com/api/v1/image/108371304-1790880866426-gettyimages-2297502695-boivin-photoill261001_np5Yb.jpeg?v=1790881080&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-02T15:16:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a2b176256c40e5f0e49d40525e43c439.json"
-        },
-        {
           "id": "08a5ad00dc6cfa7763c670ac61abf9a1",
           "title": "1.7 million skilled trade jobs will open annually through 2035, report says—experts don't know who will fill them",
           "image": "https://image.cnbcfm.com/api/v1/image/108370409-1790787032054-gettyimages-2175282412-3j3a9640.jpeg?v=1790787055&w=1920&h=1080",
@@ -70,6 +54,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/08a5ad00dc6cfa7763c670ac61abf9a1.json"
+        },
+        {
+          "id": "6cf737d0aeb36b656b25f93bb33fe02a",
+          "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+          "image": "https://image.cnbcfm.com/api/v1/image/108307043-1778771977693-gettyimages-2275640099-CEREBRAS_IPO.jpeg?v=1778771994&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-02T22:38:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/6cf737d0aeb36b656b25f93bb33fe02a.json"
         },
         {
           "id": "124f475bf31abe0f28bc910fa40ab42e",
@@ -121,146 +121,6 @@
         }
       ],
       "path": "articles/33dc64b0e6d401b02f7b5e9900b78f63.json"
-    },
-    {
-      "id": "a2b176256c40e5f0e49d40525e43c439",
-      "title": "Can Google's new model really catch up to OpenAI and Anthropic at the frontier?",
-      "description": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108371304-1790880866426-gettyimages-2297502695-boivin-photoill261001_np5Yb.jpeg?v=1790881080&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "googl",
-          "symbol": "GOOGL",
-          "name": "Google",
-          "type": "company",
-          "path": "tickers/googl.json",
-          "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
-        },
-        {
-          "id": "gemini",
-          "symbol": "GEMINI",
-          "name": "Gemini",
-          "type": "company",
-          "path": "tickers/gemini.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-02T15:16:24.000Z",
-      "related": [
-        {
-          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
-          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T23:20:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
-        },
-        {
-          "id": "c0bb99f43f0196b097166df9138e242d",
-          "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T16:06:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
-        },
-        {
-          "id": "33dc64b0e6d401b02f7b5e9900b78f63",
-          "title": "Anthropic to invest $100 million to train AI engineer talent",
-          "image": "https://image.cnbcfm.com/api/v1/image/108314565-1780322976363-gettyimages-2276989325-AFS_ClaudeAILogoPhotoIlustrations_6JPG.jpeg?v=1780336837&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-02T21:03:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/33dc64b0e6d401b02f7b5e9900b78f63.json"
-        },
-        {
-          "id": "085b9ee8504fb17f1c59f3c654c71b6d",
-          "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-02T21:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/085b9ee8504fb17f1c59f3c654c71b6d.json"
-        },
-        {
-          "id": "6c322690e8e33fa6c5469a0afb7a2d47",
-          "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-01T19:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
-        }
-      ],
-      "path": "articles/a2b176256c40e5f0e49d40525e43c439.json"
     }
   ]
 }

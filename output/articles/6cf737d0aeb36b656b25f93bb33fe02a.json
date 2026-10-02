@@ -1,11 +1,11 @@
 {
-  "id": "266e83b7749d7640e06f10a986683d50",
-  "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
-  "description": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
+  "id": "6cf737d0aeb36b656b25f93bb33fe02a",
+  "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+  "description": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108249039-1767735279750-gettyimages-2254968033-dji_20260106114613_0557_d_iywbkfqk.jpeg?v=1790956803&w=1920&h=1080",
+  "breaking_score": 20,
+  "url": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108307043-1778771977693-gettyimages-2275640099-CEREBRAS_IPO.jpeg?v=1778771994&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,40 +13,49 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-10-02T17:20:33.000Z",
+  "entities": [
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
+    }
+  ],
+  "published_at": "2026-10-02T22:38:49.000Z",
   "related": [
     {
-      "id": "39314445a102a9988e24ea044d09c3fd",
-      "title": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes",
-      "image": "https://image.cnbcfm.com/api/v1/image/108367941-1790326873884-gettyimages-2293738554-AA_09092026_2944252.jpeg?v=1790326911&w=1920&h=1080",
+      "id": "679b603f75f37c561e21e37bc2da5e3c",
+      "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-10-02T06:51:41.000Z",
+      "category": "crypto",
+      "published_at": "2026-10-02T17:30:40.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/39314445a102a9988e24ea044d09c3fd.json"
+      "breaking_score": 65,
+      "path": "articles/679b603f75f37c561e21e37bc2da5e3c.json"
     },
     {
-      "id": "6cf737d0aeb36b656b25f93bb33fe02a",
-      "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
-      "image": "https://image.cnbcfm.com/api/v1/image/108307043-1778771977693-gettyimages-2275640099-CEREBRAS_IPO.jpeg?v=1778771994&w=1920&h=1080",
+      "id": "c0bb99f43f0196b097166df9138e242d",
+      "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-10-02T22:38:49.000Z",
+      "category": "crypto",
+      "published_at": "2026-09-30T16:06:03.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 20,
-      "path": "articles/6cf737d0aeb36b656b25f93bb33fe02a.json"
+      "breaking_score": 0,
+      "path": "articles/c0bb99f43f0196b097166df9138e242d.json"
     },
     {
       "id": "124f475bf31abe0f28bc910fa40ab42e",

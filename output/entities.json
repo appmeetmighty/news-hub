@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T11:01:07.178Z",
+  "updated_at": "2026-10-02T11:15:44.166Z",
   "total": 25,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 26
     },
     {
       "id": "regulation",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 18
     },
     {
       "id": "stablecoin",
@@ -45,6 +45,15 @@
       "type": "topic",
       "icon": "",
       "count": 7
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "eth",
@@ -65,13 +74,13 @@
       "count": 4
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
       "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 4
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 3
     },
     {
       "id": "etf",
@@ -79,6 +88,24 @@
       "type": "topic",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "mstr",
@@ -140,15 +167,6 @@
       "count": 2
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -174,15 +192,6 @@
       "count": 1
     },
     {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "spacex",
       "symbol": "SPACEX",
       "name": "SpaceX",
@@ -198,15 +207,6 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 1
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
       "count": 1
     }
   ]

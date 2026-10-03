@@ -1,11 +1,11 @@
 {
-  "id": "d1036ba9a651f22cc7d5aaa5a050536b",
-  "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
-  "description": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
+  "id": "26bb73803c6634251a7cf8189b24777d",
+  "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+  "description": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/107256668-1686758919563-gettyimages-1241994183-farnborough_airshow-20-18-07-2022.jpeg?v=1686758967&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108358937-1788526931980-gettyimages-2292811784-AFP_C7B323M.jpeg?v=1788526959&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,8 +13,17 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-10-02T19:19:15.000Z",
+  "entities": [
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com"
+    }
+  ],
+  "published_at": "2026-10-03T11:00:01.000Z",
   "related": [
     {
       "id": "08864194a0a8ad042cfb50c3227b86e8",
@@ -31,22 +40,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/08864194a0a8ad042cfb50c3227b86e8.json"
-    },
-    {
-      "id": "26bb73803c6634251a7cf8189b24777d",
-      "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
-      "image": "https://image.cnbcfm.com/api/v1/image/108358937-1788526931980-gettyimages-2292811784-AFP_C7B323M.jpeg?v=1788526959&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-10-03T11:00:01.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/26bb73803c6634251a7cf8189b24777d.json"
     },
     {
       "id": "ca3c2fa9f7e7bd5dfb6af4ec8da461c2",
@@ -95,6 +88,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 20,
       "path": "articles/6cf737d0aeb36b656b25f93bb33fe02a.json"
+    },
+    {
+      "id": "124f475bf31abe0f28bc910fa40ab42e",
+      "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+      "image": "https://image.cnbcfm.com/api/v1/image/108284897-1774893084831-108284897-1774893021156-gettyimages-2268564099-POWELL_HARVARD.jpg?v=1790970556&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-10-02T22:01:17.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/124f475bf31abe0f28bc910fa40ab42e.json"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "id": "d2ba866ca1c37b1335d366b49fd27400",
-  "title": "Cboe wants to turn VIX into a never-ending trade",
-  "description": "Your day-ahead look for Oct. 2, 2026",
+  "id": "845b881e4fb38a14fca59ff42d50a40c",
+  "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+  "description": "Tokenization is not just about putting individual stocks and funds onchain. The next step could be entire investment portfolios that can be traded, rebalanced and eventually managed in real-time.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
-  "image": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+  "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebc74e2355bdaf89e5b68901d1642e7e17f7a651-5637x3824.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
   "source": {
     "id": "coindesk",
     "name": "CoinDesk",
@@ -13,9 +13,40 @@
     "icon": "https://logo.clearbit.com/coindesk.com"
   },
   "category": "crypto",
-  "entities": [],
-  "published_at": "2026-10-02T11:30:00.000Z",
+  "entities": [
+    {
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com"
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-10-03T13:00:00.000Z",
   "related": [
+    {
+      "id": "13d726044804e3fad1907e6a2bd2fc84",
+      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-10-01T20:20:04.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 5,
+      "path": "articles/13d726044804e3fad1907e6a2bd2fc84.json"
+    },
     {
       "id": "9074f6b5f14021ba1a395719d504c7cf",
       "title": "Crypto's Sisyphean struggle",
@@ -31,22 +62,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/9074f6b5f14021ba1a395719d504c7cf.json"
-    },
-    {
-      "id": "845b881e4fb38a14fca59ff42d50a40c",
-      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebc74e2355bdaf89e5b68901d1642e7e17f7a651-5637x3824.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-10-03T13:00:00.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/845b881e4fb38a14fca59ff42d50a40c.json"
     },
     {
       "id": "4cae606ac94f1d68ed348e8d72160eb4",

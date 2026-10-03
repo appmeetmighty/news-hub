@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-03T05:15:38.833Z",
+  "updated_at": "2026-10-03T05:30:51.017Z",
   "articles": {
-    "generated_at": "2026-10-03T05:15:38.833Z",
+    "generated_at": "2026-10-03T05:30:51.017Z",
     "topics": [
       {
         "id": "crypto",
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 15,
+        "count": 16,
         "articles": [
+          {
+            "id": "b3abcef477ccb27f8bc31ca53e3580db",
+            "title": "America’s data center fight is a preview of what's to come for the rest of the world",
+            "image": "https://image.cnbcfm.com/api/v1/image/108370042-1790751830198-gettyimages-2294231098-AFP_C8339AY.jpeg?v=1790751844&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-03T05:00:01.000Z",
+            "path": "articles/b3abcef477ccb27f8bc31ca53e3580db.json"
+          },
           {
             "id": "085b9ee8504fb17f1c59f3c654c71b6d",
             "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
@@ -582,20 +596,6 @@
             "category": "crypto",
             "published_at": "2026-10-01T19:46:03.000Z",
             "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
-          },
-          {
-            "id": "7dac2de3c393774c9399763b6d79e7a7",
-            "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-01T19:16:03.000Z",
-            "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
           }
         ]
       },
@@ -1065,57 +1065,6 @@
         ]
       },
       {
-        "id": "mstr",
-        "name": "Strategy",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/strategy.com",
-        "count": 3,
-        "articles": [
-          {
-            "id": "4a5306fd1867919e37405fb7c79a809a",
-            "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
-            "image": "https://image.cnbcfm.com/api/v1/image/108366941-17901794762026-09-23t160042z_1309580215_rc24pnadya0l_rtrmadp_0_usa-china-bessent-he.jpeg?v=1790182158&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-02T13:48:40.000Z",
-            "path": "articles/4a5306fd1867919e37405fb7c79a809a.json"
-          },
-          {
-            "id": "f9aefd60156d82c584b6d9b2c7dde07f",
-            "title": "YouTube sports strategy targets more live rights -- but not necessarily events",
-            "image": "https://image.cnbcfm.com/api/v1/image/108192268-1756449894821-gettyimages-2162696127-raa-youtubep240724_npUA1.jpeg?v=1765788614&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-02T12:49:41.000Z",
-            "path": "articles/f9aefd60156d82c584b6d9b2c7dde07f.json"
-          },
-          {
-            "id": "5b449bfa82fc195ae5a2e9dd95db8b83",
-            "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y0CB1X2FGXJEE6QVA6ZCTS/saifedean-ammous.png",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-02T10:54:33.000Z",
-            "path": "articles/5b449bfa82fc195ae5a2e9dd95db8b83.json"
-          }
-        ]
-      },
-      {
         "id": "etf",
         "name": "ETF",
         "type": "topic",
@@ -1237,6 +1186,43 @@
             "category": "crypto",
             "published_at": "2026-10-02T09:18:52.000Z",
             "path": "articles/90ea33d551b6897e12a8b4d5c90f9090.json"
+          }
+        ]
+      },
+      {
+        "id": "mstr",
+        "name": "Strategy",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/strategy.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "4a5306fd1867919e37405fb7c79a809a",
+            "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
+            "image": "https://image.cnbcfm.com/api/v1/image/108366941-17901794762026-09-23t160042z_1309580215_rc24pnadya0l_rtrmadp_0_usa-china-bessent-he.jpeg?v=1790182158&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-02T13:48:40.000Z",
+            "path": "articles/4a5306fd1867919e37405fb7c79a809a.json"
+          },
+          {
+            "id": "5b449bfa82fc195ae5a2e9dd95db8b83",
+            "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y0CB1X2FGXJEE6QVA6ZCTS/saifedean-ammous.png",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-02T10:54:33.000Z",
+            "path": "articles/5b449bfa82fc195ae5a2e9dd95db8b83.json"
           }
         ]
       },

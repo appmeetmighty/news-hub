@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-03T12:01:09.977Z",
+  "updated_at": "2026-10-03T12:03:47.195Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
-      "id": "ac5df3837f2dfb8acd3e1e81fd986304",
-      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
-      "description": "The G7 will deploy 100 million barrels of reserves over the next four months, the group's leaders said in a joint statement.",
+      "id": "558f169f26ec52a8a24b73329d816591",
+      "title": "High-tech vehicles are driving up auto repair costs for shops and consumers",
+      "description": "Investments in ADAS calibration equipment, computers and software subscriptions can drive up the cost of even a windshield replacement or an oil change.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108369309-1790685904761-gettyimages-2297099853-US_DIESEL.jpeg?v=1790685980&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368895-1790614565329-gettyimages-2295379945-20260912-jtp08753.jpeg?v=1790614605&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -31,12 +31,12 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-10-02T20:04:42.000Z",
+      "published_at": "2026-10-03T12:00:01.000Z",
       "related": [
         {
-          "id": "87bec33af019ca60ec5d3d46d55e2dc3",
-          "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-          "image": "https://image.cnbcfm.com/api/v1/image/108366830-1790952472171-108366830-1790172152390-gettyimages-2294263524-US_DIESEL.jpg?v=1790952480&w=1920&h=1080",
+          "id": "ac5df3837f2dfb8acd3e1e81fd986304",
+          "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369309-1790685904761-gettyimages-2297099853-US_DIESEL.jpeg?v=1790685980&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -44,10 +44,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-02T19:25:36.000Z",
+          "published_at": "2026-10-02T20:04:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/87bec33af019ca60ec5d3d46d55e2dc3.json"
+          "path": "articles/ac5df3837f2dfb8acd3e1e81fd986304.json"
         },
         {
           "id": "08864194a0a8ad042cfb50c3227b86e8",
@@ -112,6 +112,116 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b3abcef477ccb27f8bc31ca53e3580db.json"
+        }
+      ],
+      "path": "articles/558f169f26ec52a8a24b73329d816591.json"
+    },
+    {
+      "id": "ac5df3837f2dfb8acd3e1e81fd986304",
+      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
+      "description": "The G7 will deploy 100 million barrels of reserves over the next four months, the group's leaders said in a joint statement.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108369309-1790685904761-gettyimages-2297099853-US_DIESEL.jpeg?v=1790685980&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-02T20:04:42.000Z",
+      "related": [
+        {
+          "id": "558f169f26ec52a8a24b73329d816591",
+          "title": "High-tech vehicles are driving up auto repair costs for shops and consumers",
+          "image": "https://image.cnbcfm.com/api/v1/image/108368895-1790614565329-gettyimages-2295379945-20260912-jtp08753.jpeg?v=1790614605&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-03T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/558f169f26ec52a8a24b73329d816591.json"
+        },
+        {
+          "id": "87bec33af019ca60ec5d3d46d55e2dc3",
+          "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+          "image": "https://image.cnbcfm.com/api/v1/image/108366830-1790952472171-108366830-1790172152390-gettyimages-2294263524-US_DIESEL.jpg?v=1790952480&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-02T19:25:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/87bec33af019ca60ec5d3d46d55e2dc3.json"
+        },
+        {
+          "id": "08864194a0a8ad042cfb50c3227b86e8",
+          "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+          "image": "https://image.cnbcfm.com/api/v1/image/108010356-1721737934014-gettyimages-2158591030-canneslions_240621_101017_rbord_lyvayzuu.jpeg?v=1790982865&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-03T11:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/08864194a0a8ad042cfb50c3227b86e8.json"
+        },
+        {
+          "id": "26bb73803c6634251a7cf8189b24777d",
+          "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+          "image": "https://image.cnbcfm.com/api/v1/image/108358937-1788526931980-gettyimages-2292811784-AFP_C7B323M.jpeg?v=1788526959&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-03T11:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/26bb73803c6634251a7cf8189b24777d.json"
+        },
+        {
+          "id": "ca3c2fa9f7e7bd5dfb6af4ec8da461c2",
+          "title": "Top McKinsey executive reveals Asian owner-CEOs' secrets to success",
+          "image": "https://image.cnbcfm.com/api/v1/image/108371722-1790940829556-Gautam_Kumra_2026.jpg?v=1790947997&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-03T06:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ca3c2fa9f7e7bd5dfb6af4ec8da461c2.json"
         }
       ],
       "path": "articles/ac5df3837f2dfb8acd3e1e81fd986304.json"

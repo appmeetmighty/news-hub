@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-10-04T06:21:40.221Z",
+  "updated_at": "2026-10-04T12:39:51.218Z",
   "id": "meta",
   "symbol": "META",
   "name": "Meta",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "75655eea76b7aeb1bb74bf2186141ffd",
+      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+      "description": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
+      "image": "",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
+          "type": "company",
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-04T12:00:01.000Z",
+      "related": [
+        {
+          "id": "7dac2de3c393774c9399763b6d79e7a7",
+          "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T19:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
+        },
+        {
+          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-09-30T23:20:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
+        },
+        {
+          "id": "1bb31c6eb8ae879349d11648965ea7c3",
+          "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
+          "image": "https://image.cnbcfm.com/api/v1/image/108368072-1790345390118-108368072-1790345314289-gettyimages-2294402020-AA_12092026_2948738.jpg?v=1790345417&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-04T12:35:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1bb31c6eb8ae879349d11648965ea7c3.json"
+        },
+        {
+          "id": "748af2cfe60d83a8e250bd4f52a9f6b1",
+          "title": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
+          "image": "https://image.cnbcfm.com/api/v1/image/108371952-1790959171634-gettyimages-2289913196-golba-dailylif260806_npTlA.jpeg?v=1790977031&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-04T12:08:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/748af2cfe60d83a8e250bd4f52a9f6b1.json"
+        },
+        {
+          "id": "6aff5442f37cf4243669ac3085499905",
+          "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
+          "image": "https://image.cnbcfm.com/api/v1/image/108372126-1790972093987-image.png?v=1790972133&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-04T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6aff5442f37cf4243669ac3085499905.json"
+        }
+      ],
+      "path": "articles/75655eea76b7aeb1bb74bf2186141ffd.json"
+    },
     {
       "id": "7dac2de3c393774c9399763b6d79e7a7",
       "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
@@ -39,6 +171,22 @@
       ],
       "published_at": "2026-10-01T19:16:03.000Z",
       "related": [
+        {
+          "id": "75655eea76b7aeb1bb74bf2186141ffd",
+          "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+          "image": "",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-04T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/75655eea76b7aeb1bb74bf2186141ffd.json"
+        },
         {
           "id": "2bcdf3e297b8c329bc93995d27f88354",
           "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
@@ -102,22 +250,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/81665b685b053453368c5be79657c63b.json"
-        },
-        {
-          "id": "c97ddfd170e4a2e8b5db1da7fe27b503",
-          "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/Screenshot-2020-05-06-at-12-gID_4.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-03T16:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/c97ddfd170e4a2e8b5db1da7fe27b503.json"
         }
       ],
       "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"

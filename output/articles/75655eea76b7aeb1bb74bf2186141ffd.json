@@ -1,11 +1,11 @@
 {
-  "id": "33dc64b0e6d401b02f7b5e9900b78f63",
-  "title": "Anthropic to invest $100 million to train AI engineer talent",
-  "description": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
+  "id": "75655eea76b7aeb1bb74bf2186141ffd",
+  "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+  "description": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108314565-1780322976363-gettyimages-2276989325-AFS_ClaudeAILogoPhotoIlustrations_6JPG.jpeg?v=1780336837&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
+  "image": "",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -15,12 +15,28 @@
   "category": "stocks",
   "entities": [
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
       "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": ""
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com"
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com"
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com"
     },
     {
       "id": "ai",
@@ -29,23 +45,39 @@
       "icon": ""
     }
   ],
-  "published_at": "2026-10-02T21:03:06.000Z",
+  "published_at": "2026-10-04T12:00:01.000Z",
   "related": [
     {
-      "id": "6e1df5cfcac4020489495cde927dfd50",
-      "title": "Gen Alpha kids are earning money. Here's how parents can help them save and invest",
-      "image": "https://image.cnbcfm.com/api/v1/image/108371281-1790880196159-gettyimages-1400704404-ma93692.jpeg?v=1790880233&w=1920&h=1080",
+      "id": "7dac2de3c393774c9399763b6d79e7a7",
+      "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
-      "published_at": "2026-10-03T14:00:01.000Z",
+      "category": "crypto",
+      "published_at": "2026-10-01T19:16:03.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/6e1df5cfcac4020489495cde927dfd50.json"
+      "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
+    },
+    {
+      "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
+      "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-09-30T23:20:59.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
     },
     {
       "id": "1bb31c6eb8ae879349d11648965ea7c3",
@@ -78,22 +110,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/748af2cfe60d83a8e250bd4f52a9f6b1.json"
-    },
-    {
-      "id": "75655eea76b7aeb1bb74bf2186141ffd",
-      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-      "image": "",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-10-04T12:00:01.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/75655eea76b7aeb1bb74bf2186141ffd.json"
     },
     {
       "id": "6aff5442f37cf4243669ac3085499905",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T17:15:44.846Z",
+  "updated_at": "2026-10-05T17:30:57.953Z",
   "total": 22,
   "entities": [
     {
@@ -42,6 +42,15 @@
       "count": 7
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 6
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -49,12 +58,10 @@
       "count": 6
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
       "count": 5
     },
     {
@@ -63,13 +70,6 @@
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
       "icon": "",
       "count": 5
     },
@@ -124,6 +124,15 @@
       "count": 2
     },
     {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 1
+    },
+    {
       "id": "msft",
       "symbol": "MSFT",
       "name": "Microsoft",
@@ -164,15 +173,6 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 1
-    },
-    {
-      "id": "blk",
-      "symbol": "BLK",
-      "name": "BlackRock",
-      "type": "company",
-      "path": "tickers/blk.json",
-      "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 1
     },
     {

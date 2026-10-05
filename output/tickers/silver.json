@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T15:15:43.717Z",
+  "updated_at": "2026-10-05T18:15:43.141Z",
   "id": "silver",
   "symbol": "SILVER",
   "name": "Silver",
@@ -7,21 +7,37 @@
   "total": 1,
   "articles": [
     {
-      "id": "8ca49d03902cd47351cccf7c19e3373a",
-      "title": "Gold and silver prices fall sharply as higher bond yields weigh on metals",
-      "description": "Gold and silver prices fell sharply on Monday as rising bond yields tempered investor appetite for non-yielding precious metals.",
+      "id": "9e7acce0480f41f3f9f896f38e9fdba9",
+      "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+      "description": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/28/gold-silver-prices-bond-yields.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107088808-16578113242022-07-14t143236z_487684097_rc2xav9vo6ui_rtrmadp_0_swiss-gold.jpeg?v=1696573390&w=1920&h=1080",
+      "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
         {
           "id": "gold",
           "symbol": "GOLD",
@@ -31,98 +47,112 @@
           "icon": ""
         },
         {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        },
+        {
           "id": "silver",
           "symbol": "SILVER",
           "name": "Silver",
           "type": "commodity",
           "path": "tickers/silver.json",
           "icon": ""
+        },
+        {
+          "id": "regulation",
+          "name": "Regulation",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-09-28T09:56:44.000Z",
+      "published_at": "2026-10-05T18:12:28.000Z",
       "related": [
         {
-          "id": "0a7eed41eabc141f1ddb3defba5f5a4f",
-          "title": "Treasury yields edge higher amid pressure on global government bonds",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368176-17903514452026-09-25t154124z_1017060771_rc2dqnadx12l_rtrmadp_0_usa-stocks.jpeg?v=1790351462&w=1920&h=1080",
+          "id": "d2bb992f4b0e114df53f627e4b56d0ed",
+          "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d645ffe88023fb6924f8a023c1ef49d02d45a160-1920x1281.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-28T14:28:25.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-05T09:37:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/0a7eed41eabc141f1ddb3defba5f5a4f.json"
+          "path": "articles/d2bb992f4b0e114df53f627e4b56d0ed.json"
         },
         {
-          "id": "bf49c64b87ec0a97d8dd025fd5ee374d",
-          "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-          "image": "https://image.cnbcfm.com/api/v1/image/108219695-1761859524765-gettyimages-2236544189-STARGATE_DATA_CENTER.jpeg?v=1790259549&w=1920&h=1080",
+          "id": "bc87ef3f0df7cebd41b5ecedd295bbe0",
+          "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0bd7d25adab19bae569a11ac843bb6b058835c49-1920x1080.jpg?auto=format&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-09-27T15:35:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/bf49c64b87ec0a97d8dd025fd5ee374d.json"
-        },
-        {
-          "id": "74e8f6ced045b0ea17d491548281a4cf",
-          "title": "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367650-1790274853603-108367650-1790274789085-gettyimages-1240631460-INDIA_DIAMONDS.jpg?v=1790274862&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-09-26T13:09:33.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-03T16:00:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/74e8f6ced045b0ea17d491548281a4cf.json"
+          "path": "articles/bc87ef3f0df7cebd41b5ecedd295bbe0.json"
         },
         {
-          "id": "7b82c3596ad74e91e5a85841f95b17b0",
-          "title": "Oil prices rise as Trump rejects Iranian proposal to reopen Strait of Hormuz",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&w=1920&h=1080",
+          "id": "4d03be950e2de50f36feba38d69ff1e9",
+          "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-28T14:34:23.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-05T16:10:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/7b82c3596ad74e91e5a85841f95b17b0.json"
+          "path": "articles/4d03be950e2de50f36feba38d69ff1e9.json"
         },
         {
-          "id": "98a13b2f1b3563052ce1ebe9071bbbf2",
-          "title": "Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link",
-          "image": "https://image.cnbcfm.com/api/v1/image/108322136-1781551424604-gettyimages-2267404848-ln2_2955_bksja5in.jpeg?v=1781551458&w=1920&h=1080",
+          "id": "dde0eadb67a0acaaddda9b39d919f1e6",
+          "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-09-28T15:04:31.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-05T14:54:17.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/98a13b2f1b3563052ce1ebe9071bbbf2.json"
+          "breaking_score": 0,
+          "path": "articles/dde0eadb67a0acaaddda9b39d919f1e6.json"
+        },
+        {
+          "id": "7d66b11cabb7ff0981b259596c4682a5",
+          "title": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-yen-decrypt-style-new-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-05T12:04:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7d66b11cabb7ff0981b259596c4682a5.json"
         }
       ],
-      "path": "articles/8ca49d03902cd47351cccf7c19e3373a.json"
+      "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
     }
   ]
 }

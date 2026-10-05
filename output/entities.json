@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-05T13:01:11.348Z",
-  "total": 25,
+  "updated_at": "2026-10-05T13:15:43.272Z",
+  "total": 24,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 29
+      "count": 30
     },
     {
       "id": "btc",
@@ -51,15 +51,15 @@
       "count": 6
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "stablecoin",
       "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 5
@@ -90,6 +90,15 @@
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 3
+    },
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 2
     },
     {
       "id": "meta",
@@ -126,12 +135,17 @@
       "count": 2
     },
     {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
       "count": 1
     },
     {
@@ -162,20 +176,6 @@
       "count": 1
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -191,15 +191,6 @@
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 1
-    },
-    {
-      "id": "bnb",
-      "symbol": "BNB",
-      "name": "BNB",
-      "type": "crypto",
-      "path": "tickers/bnb.json",
-      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
       "count": 1
     },
     {

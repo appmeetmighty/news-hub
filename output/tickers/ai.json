@@ -1,10 +1,150 @@
 {
-  "updated_at": "2026-10-05T11:30:56.640Z",
+  "updated_at": "2026-10-05T11:46:18.026Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 19,
   "articles": [
+    {
+      "id": "97d6e6a8f8a17750b7fe3d37dae76977",
+      "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+      "description": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-05T11:40:14.000Z",
+      "related": [
+        {
+          "id": "116d3805beee172260615c4b221554d5",
+          "title": "Cerebras stock climbs 6% after Sam Altman calls the chipmaker a 'close partner'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108307043-1778771977693-gettyimages-2275640099-CEREBRAS_IPO.jpeg?v=1778771994&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-05T10:06:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/116d3805beee172260615c4b221554d5.json"
+        },
+        {
+          "id": "c97ddfd170e4a2e8b5db1da7fe27b503",
+          "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/Screenshot-2020-05-06-at-12-gID_4.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-03T16:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/c97ddfd170e4a2e8b5db1da7fe27b503.json"
+        },
+        {
+          "id": "085b9ee8504fb17f1c59f3c654c71b6d",
+          "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-02T21:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/085b9ee8504fb17f1c59f3c654c71b6d.json"
+        },
+        {
+          "id": "6c322690e8e33fa6c5469a0afb7a2d47",
+          "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T19:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
+        },
+        {
+          "id": "7dac2de3c393774c9399763b6d79e7a7",
+          "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T19:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
+        }
+      ],
+      "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
+    },
     {
       "id": "3bafa84855cf765211bd11a61b241f94",
       "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
@@ -153,6 +293,38 @@
       "published_at": "2026-10-05T11:00:01.000Z",
       "related": [
         {
+          "id": "97d6e6a8f8a17750b7fe3d37dae76977",
+          "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-05T11:40:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
+        },
+        {
+          "id": "593ce19e8e938bc924956bb3c5d9449b",
+          "title": "Treasury yields hold near multiyear highs as traders await data, Fed minutes this week",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363133-17894885332026-09-15t160320z_21746204_rc2pjnaowezl_rtrmadp_0_usa-stocks.jpeg?v=1789488721&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-05T11:20:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/593ce19e8e938bc924956bb3c5d9449b.json"
+        },
+        {
           "id": "1cce0f42ca2b109fa1fbbd582e2283d2",
           "title": "Saudi Aramco chief says replenishing global oil stockpiles could take two years",
           "image": "https://image.cnbcfm.com/api/v1/image/108305037-1778511804047-gettyimages-2256627828-AFP_93BF28J.jpeg?v=1791191786&w=1920&h=1080",
@@ -199,181 +371,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/061044f6d538f9985ac3a98c821da39b.json"
-        },
-        {
-          "id": "97d6e6a8f8a17750b7fe3d37dae76977",
-          "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-05T10:42:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
-        },
-        {
-          "id": "ce66bd337c94bcb2a1dad8ae772b5545",
-          "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
-          "image": "https://image.cnbcfm.com/api/v1/image/107315141-1697028387928-gettyimages-1415687424-yuanybandera1.jpeg?v=1699958546&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-05T10:20:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ce66bd337c94bcb2a1dad8ae772b5545.json"
         }
       ],
       "path": "articles/e2c359df42925cfd02d94eb00dd2a64c.json"
-    },
-    {
-      "id": "97d6e6a8f8a17750b7fe3d37dae76977",
-      "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
-      "description": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
-          "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
-        },
-        {
-          "id": "googl",
-          "symbol": "GOOGL",
-          "name": "Google",
-          "type": "company",
-          "path": "tickers/googl.json",
-          "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-05T10:42:51.000Z",
-      "related": [
-        {
-          "id": "116d3805beee172260615c4b221554d5",
-          "title": "Cerebras stock climbs 6% after Sam Altman calls the chipmaker a 'close partner'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108307043-1778771977693-gettyimages-2275640099-CEREBRAS_IPO.jpeg?v=1778771994&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-05T10:06:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/116d3805beee172260615c4b221554d5.json"
-        },
-        {
-          "id": "c97ddfd170e4a2e8b5db1da7fe27b503",
-          "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/Screenshot-2020-05-06-at-12-gID_4.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-03T16:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/c97ddfd170e4a2e8b5db1da7fe27b503.json"
-        },
-        {
-          "id": "085b9ee8504fb17f1c59f3c654c71b6d",
-          "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-02T21:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/085b9ee8504fb17f1c59f3c654c71b6d.json"
-        },
-        {
-          "id": "6c322690e8e33fa6c5469a0afb7a2d47",
-          "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-01T19:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
-        },
-        {
-          "id": "7dac2de3c393774c9399763b6d79e7a7",
-          "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-01T19:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
-        }
-      ],
-      "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
     },
     {
       "id": "b5cf57916c4eca85cfd486ca7f360464",
@@ -837,9 +837,9 @@
           "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
         },
         {
-          "id": "3bafa84855cf765211bd11a61b241f94",
-          "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
+          "id": "bd5b5818c00e9aabb5d7d177f6e27c8a",
+          "title": "Morning Minute: Uptober Off to a Green Start",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -847,10 +847,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-05T11:18:01.000Z",
+          "published_at": "2026-10-05T11:39:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3bafa84855cf765211bd11a61b241f94.json"
+          "path": "articles/bd5b5818c00e9aabb5d7d177f6e27c8a.json"
         }
       ],
       "path": "articles/b3898e2d6fbe0475259e4d5151db9fdf.json"
@@ -947,7 +947,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-05T10:42:51.000Z",
+          "published_at": "2026-10-05T11:40:14.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
@@ -1013,6 +1013,22 @@
           "path": "articles/8041b43e350cea2678c45e2b4e637d94.json"
         },
         {
+          "id": "bd5b5818c00e9aabb5d7d177f6e27c8a",
+          "title": "Morning Minute: Uptober Off to a Green Start",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-05T11:39:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bd5b5818c00e9aabb5d7d177f6e27c8a.json"
+        },
+        {
           "id": "9c1640824113ed377cd2139b9999fa02",
           "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/7bb0699e8b9da16592a55f2b39f0777935133915-2344x1318.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1059,22 +1075,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e7693f85d8384675230146afc0aedd99.json"
-        },
-        {
-          "id": "47bb8eee5d484ee47cd7c2b85609e99f",
-          "title": "U.S. dollar climbs to 18-month high as bitcoin holds firm around $86,000",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b17635bfebac96c999445b026ee1dbf672247028-1918x1080.png?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T10:44:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/47bb8eee5d484ee47cd7c2b85609e99f.json"
         }
       ],
       "path": "articles/0b3b675a4e5b7bd93197efe10d04c23c.json"
@@ -1104,6 +1104,22 @@
       ],
       "published_at": "2026-10-03T13:01:04.000Z",
       "related": [
+        {
+          "id": "bd5b5818c00e9aabb5d7d177f6e27c8a",
+          "title": "Morning Minute: Uptober Off to a Green Start",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-05T11:39:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bd5b5818c00e9aabb5d7d177f6e27c8a.json"
+        },
         {
           "id": "3bafa84855cf765211bd11a61b241f94",
           "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
@@ -1167,22 +1183,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2bd2129f2f92955e5bb9a64778a9d61a.json"
-        },
-        {
-          "id": "96bec3203e4fa83815d6e754ece78733",
-          "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-04T15:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/96bec3203e4fa83815d6e754ece78733.json"
         }
       ],
       "path": "articles/e21e4e065e48e38c84f1b0dfadebb2fc.json"
@@ -1395,7 +1395,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-05T10:42:51.000Z",
+          "published_at": "2026-10-05T11:40:14.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
@@ -1583,6 +1583,22 @@
           "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
         },
         {
+          "id": "bd5b5818c00e9aabb5d7d177f6e27c8a",
+          "title": "Morning Minute: Uptober Off to a Green Start",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-05T11:39:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bd5b5818c00e9aabb5d7d177f6e27c8a.json"
+        },
+        {
           "id": "3bafa84855cf765211bd11a61b241f94",
           "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
@@ -1629,22 +1645,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/a7b1c075dd1cd17516081cba189b8983.json"
-        },
-        {
-          "id": "2bd2129f2f92955e5bb9a64778a9d61a",
-          "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-04T16:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2bd2129f2f92955e5bb9a64778a9d61a.json"
         }
       ],
       "path": "articles/1c9b3dd8a08f65e9b3028e267afced72.json"
@@ -1715,6 +1715,22 @@
           "path": "articles/2ae7003694f3e001f5ed423583fa3f2c.json"
         },
         {
+          "id": "bd5b5818c00e9aabb5d7d177f6e27c8a",
+          "title": "Morning Minute: Uptober Off to a Green Start",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-05T11:39:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bd5b5818c00e9aabb5d7d177f6e27c8a.json"
+        },
+        {
           "id": "3bafa84855cf765211bd11a61b241f94",
           "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
@@ -1732,7 +1748,7 @@
         },
         {
           "id": "47bb8eee5d484ee47cd7c2b85609e99f",
-          "title": "U.S. dollar climbs to 18-month high as bitcoin holds firm around $86,000",
+          "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/b17635bfebac96c999445b026ee1dbf672247028-1918x1080.png?auto=format&q=75",
           "source": {
             "id": "coindesk",
@@ -1745,22 +1761,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/47bb8eee5d484ee47cd7c2b85609e99f.json"
-        },
-        {
-          "id": "c01a4cc55dbfc7aa469253cf2ad0c23c",
-          "title": "Cardano's ADA leads gains in narrow range-bound market",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5208da4f5c375a1060bd73d8a961353c40f7d064-3840x2160.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T10:37:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c01a4cc55dbfc7aa469253cf2ad0c23c.json"
         }
       ],
       "path": "articles/679b603f75f37c561e21e37bc2da5e3c.json"
@@ -1807,9 +1807,9 @@
           "path": "articles/1f30b45b12931980c1acf24abafec72f.json"
         },
         {
-          "id": "a81c135b7b91cb2a2b9ec702708999a4",
-          "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png@png",
+          "id": "bd5b5818c00e9aabb5d7d177f6e27c8a",
+          "title": "Morning Minute: Uptober Off to a Green Start",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -1817,10 +1817,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-09-30T21:46:03.000Z",
+          "published_at": "2026-10-05T11:39:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/a81c135b7b91cb2a2b9ec702708999a4.json"
+          "path": "articles/bd5b5818c00e9aabb5d7d177f6e27c8a.json"
         },
         {
           "id": "3bafa84855cf765211bd11a61b241f94",
@@ -1965,7 +1965,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-05T10:42:51.000Z",
+          "published_at": "2026-10-05T11:40:14.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
@@ -2033,7 +2033,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-05T10:42:51.000Z",
+          "published_at": "2026-10-05T11:40:14.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
@@ -2157,7 +2157,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-05T10:42:51.000Z",
+          "published_at": "2026-10-05T11:40:14.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
@@ -2195,6 +2195,22 @@
           "path": "articles/085b9ee8504fb17f1c59f3c654c71b6d.json"
         },
         {
+          "id": "bd5b5818c00e9aabb5d7d177f6e27c8a",
+          "title": "Morning Minute: Uptober Off to a Green Start",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-05T11:39:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bd5b5818c00e9aabb5d7d177f6e27c8a.json"
+        },
+        {
           "id": "3bafa84855cf765211bd11a61b241f94",
           "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
@@ -2209,22 +2225,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3bafa84855cf765211bd11a61b241f94.json"
-        },
-        {
-          "id": "70c624cf3f48e18aadda50e6aa69f83c",
-          "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/nyse-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T10:22:27.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/70c624cf3f48e18aadda50e6aa69f83c.json"
         }
       ],
       "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"

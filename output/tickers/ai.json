@@ -1,10 +1,150 @@
 {
-  "updated_at": "2026-10-05T10:45:42.014Z",
+  "updated_at": "2026-10-05T11:01:08.159Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 18,
   "articles": [
+    {
+      "id": "97d6e6a8f8a17750b7fe3d37dae76977",
+      "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+      "description": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-05T10:42:51.000Z",
+      "related": [
+        {
+          "id": "116d3805beee172260615c4b221554d5",
+          "title": "Cerebras stock climbs 6% after Sam Altman calls the chipmaker a 'close partner'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108307043-1778771977693-gettyimages-2275640099-CEREBRAS_IPO.jpeg?v=1778771994&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-05T10:06:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/116d3805beee172260615c4b221554d5.json"
+        },
+        {
+          "id": "c97ddfd170e4a2e8b5db1da7fe27b503",
+          "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/Screenshot-2020-05-06-at-12-gID_4.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-03T16:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/c97ddfd170e4a2e8b5db1da7fe27b503.json"
+        },
+        {
+          "id": "085b9ee8504fb17f1c59f3c654c71b6d",
+          "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-02T21:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/085b9ee8504fb17f1c59f3c654c71b6d.json"
+        },
+        {
+          "id": "6c322690e8e33fa6c5469a0afb7a2d47",
+          "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T19:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
+        },
+        {
+          "id": "7dac2de3c393774c9399763b6d79e7a7",
+          "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-01T19:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
+        }
+      ],
+      "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
+    },
     {
       "id": "b5cf57916c4eca85cfd486ca7f360464",
       "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
@@ -262,138 +402,6 @@
         }
       ],
       "path": "articles/a7b1c075dd1cd17516081cba189b8983.json"
-    },
-    {
-      "id": "e182088445f4b04b73238d69bee2041e",
-      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-      "description": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108201534-1758314255913-gettyimages-2235445088-META_GLASSES.jpeg?v=1767751175&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "aapl",
-          "symbol": "AAPL",
-          "name": "Apple",
-          "type": "company",
-          "path": "tickers/aapl.json",
-          "icon": "https://logo.clearbit.com/apple.com"
-        },
-        {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
-          "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
-        },
-        {
-          "id": "googl",
-          "symbol": "GOOGL",
-          "name": "Google",
-          "type": "company",
-          "path": "tickers/googl.json",
-          "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-04T13:22:39.000Z",
-      "related": [
-        {
-          "id": "7dac2de3c393774c9399763b6d79e7a7",
-          "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-01T19:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7dac2de3c393774c9399763b6d79e7a7.json"
-        },
-        {
-          "id": "2fab51dc9bbaa498db5fe9489cdfb3c7",
-          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-30T23:20:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2fab51dc9bbaa498db5fe9489cdfb3c7.json"
-        },
-        {
-          "id": "061044f6d538f9985ac3a98c821da39b",
-          "title": "Trump's nemesis in Europe: Why Spain's Sanchez is calling a snap election",
-          "image": "https://image.cnbcfm.com/api/v1/image/108372375-1791184993493-gettyimages-2297651636-AFP_D22W7UC.jpeg?v=1791184998&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-05T10:42:10.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/061044f6d538f9985ac3a98c821da39b.json"
-        },
-        {
-          "id": "8659a01023c8adb147b8dc8fe638db9c",
-          "title": "Cut spending to curb runaway borrowing costs, Goldman's Gutman tells governments",
-          "image": "https://image.cnbcfm.com/api/v1/image/100592805-100592805-goldman-sachs-sign-r.jpg?v=1448394383&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-05T10:33:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8659a01023c8adb147b8dc8fe638db9c.json"
-        },
-        {
-          "id": "ce66bd337c94bcb2a1dad8ae772b5545",
-          "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
-          "image": "https://image.cnbcfm.com/api/v1/image/107315141-1697028387928-gettyimages-1415687424-yuanybandera1.jpeg?v=1699958546&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-05T10:20:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ce66bd337c94bcb2a1dad8ae772b5545.json"
-        }
-      ],
-      "path": "articles/e182088445f4b04b73238d69bee2041e.json"
     },
     {
       "id": "f3ca179eee20015bea92a3204bd1dfc5",
@@ -699,6 +707,22 @@
           "path": "articles/8e61516f07407c3ec05e2e65cd9ac49e.json"
         },
         {
+          "id": "97d6e6a8f8a17750b7fe3d37dae76977",
+          "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-05T10:42:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
+        },
+        {
           "id": "116d3805beee172260615c4b221554d5",
           "title": "Cerebras stock climbs 6% after Sam Altman calls the chipmaker a 'close partner'",
           "image": "https://image.cnbcfm.com/api/v1/image/108307043-1778771977693-gettyimages-2275640099-CEREBRAS_IPO.jpeg?v=1778771994&w=1920&h=1080",
@@ -713,22 +737,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/116d3805beee172260615c4b221554d5.json"
-        },
-        {
-          "id": "70c624cf3f48e18aadda50e6aa69f83c",
-          "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/nyse-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T10:22:27.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/70c624cf3f48e18aadda50e6aa69f83c.json"
         }
       ],
       "path": "articles/c97ddfd170e4a2e8b5db1da7fe27b503.json"
@@ -773,6 +781,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/8041b43e350cea2678c45e2b4e637d94.json"
+        },
+        {
+          "id": "e7693f85d8384675230146afc0aedd99",
+          "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/44d0294c484d8706555e882705c55e5a13f13e91-1192x628.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-05T10:58:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e7693f85d8384675230146afc0aedd99.json"
         },
         {
           "id": "47bb8eee5d484ee47cd7c2b85609e99f",
@@ -821,22 +845,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c01a4cc55dbfc7aa469253cf2ad0c23c.json"
-        },
-        {
-          "id": "d2bb992f4b0e114df53f627e4b56d0ed",
-          "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d645ffe88023fb6924f8a023c1ef49d02d45a160-1920x1281.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T09:37:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d2bb992f4b0e114df53f627e4b56d0ed.json"
         }
       ],
       "path": "articles/0b3b675a4e5b7bd93197efe10d04c23c.json"
@@ -1147,6 +1155,22 @@
           "path": "articles/8e61516f07407c3ec05e2e65cd9ac49e.json"
         },
         {
+          "id": "97d6e6a8f8a17750b7fe3d37dae76977",
+          "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-05T10:42:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
+        },
+        {
           "id": "116d3805beee172260615c4b221554d5",
           "title": "Cerebras stock climbs 6% after Sam Altman calls the chipmaker a 'close partner'",
           "image": "https://image.cnbcfm.com/api/v1/image/108307043-1778771977693-gettyimages-2275640099-CEREBRAS_IPO.jpeg?v=1778771994&w=1920&h=1080",
@@ -1161,22 +1185,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/116d3805beee172260615c4b221554d5.json"
-        },
-        {
-          "id": "d0b0cbfc9c874ab3b80b750e78a2b80e",
-          "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-02T12:19:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/d0b0cbfc9c874ab3b80b750e78a2b80e.json"
         }
       ],
       "path": "articles/085b9ee8504fb17f1c59f3c654c71b6d.json"
@@ -1837,6 +1845,22 @@
           "path": "articles/8e61516f07407c3ec05e2e65cd9ac49e.json"
         },
         {
+          "id": "97d6e6a8f8a17750b7fe3d37dae76977",
+          "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-05T10:42:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
+        },
+        {
           "id": "116d3805beee172260615c4b221554d5",
           "title": "Cerebras stock climbs 6% after Sam Altman calls the chipmaker a 'close partner'",
           "image": "https://image.cnbcfm.com/api/v1/image/108307043-1778771977693-gettyimages-2275640099-CEREBRAS_IPO.jpeg?v=1778771994&w=1920&h=1080",
@@ -1851,22 +1875,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/116d3805beee172260615c4b221554d5.json"
-        },
-        {
-          "id": "1c9b3dd8a08f65e9b3028e267afced72",
-          "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-02-153018-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-02T19:05:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1c9b3dd8a08f65e9b3028e267afced72.json"
         }
       ],
       "path": "articles/6c322690e8e33fa6c5469a0afb7a2d47.json"
@@ -1905,9 +1913,9 @@
       "published_at": "2026-10-01T19:16:03.000Z",
       "related": [
         {
-          "id": "e182088445f4b04b73238d69bee2041e",
-          "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-          "image": "https://image.cnbcfm.com/api/v1/image/108201534-1758314255913-gettyimages-2235445088-META_GLASSES.jpeg?v=1767751175&w=1920&h=1080",
+          "id": "97d6e6a8f8a17750b7fe3d37dae76977",
+          "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1915,10 +1923,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-04T13:22:39.000Z",
+          "published_at": "2026-10-05T10:42:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e182088445f4b04b73238d69bee2041e.json"
+          "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
         },
         {
           "id": "2bcdf3e297b8c329bc93995d27f88354",
@@ -2029,9 +2037,9 @@
       "published_at": "2026-09-30T23:20:59.000Z",
       "related": [
         {
-          "id": "e182088445f4b04b73238d69bee2041e",
-          "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-          "image": "https://image.cnbcfm.com/api/v1/image/108201534-1758314255913-gettyimages-2235445088-META_GLASSES.jpeg?v=1767751175&w=1920&h=1080",
+          "id": "97d6e6a8f8a17750b7fe3d37dae76977",
+          "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -2039,10 +2047,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-04T13:22:39.000Z",
+          "published_at": "2026-10-05T10:42:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e182088445f4b04b73238d69bee2041e.json"
+          "path": "articles/97d6e6a8f8a17750b7fe3d37dae76977.json"
         },
         {
           "id": "a668bf44e37ff8c06726d8c43c3563a1",

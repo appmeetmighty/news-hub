@@ -1,11 +1,129 @@
 {
-  "updated_at": "2026-10-06T11:30:57.448Z",
+  "updated_at": "2026-10-06T11:45:48.603Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 3,
+  "total": 4,
   "articles": [
+    {
+      "id": "51fe23fbc53dbc4e1132c88ccecdc30a",
+      "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
+      "description": "FxPro says a slide below $84,000 would hand control to sellers and put $80,000 in play. Minutes from the Fed's last meeting come out Wednesday.",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "url": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7c85fad2e52219bcf733606cacb4d713111d9902-1522x844.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-06T10:35:49.000Z",
+      "related": [
+        {
+          "id": "9e7acce0480f41f3f9f896f38e9fdba9",
+          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-05T18:12:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
+        },
+        {
+          "id": "09e2f3c0e267434f400eba47ac288896",
+          "title": "Live updates: Bitcoin under pressure as rates continue to rise",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1dd91a9be720661bf6e1fb7a99e0f2d6f89ab119-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-05T10:39:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/09e2f3c0e267434f400eba47ac288896.json"
+        },
+        {
+          "id": "fdfb2278b4dd8e0519d249aeaa4d469e",
+          "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/01e2af0559d0b38634efee63f4aaa6dc232b09da-1600x1060.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T11:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fdfb2278b4dd8e0519d249aeaa4d469e.json"
+        },
+        {
+          "id": "26861ceac82127bf1029e91050e3e15d",
+          "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5d1bf290ee40e874d16de6e418837c2c7e564db9-1860x1046.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T10:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/26861ceac82127bf1029e91050e3e15d.json"
+        },
+        {
+          "id": "71cf444a26800d35c5a7d5c4dcbd5306",
+          "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c69a265f31846f161fff5cce9c863ae358a6c589-1600x1060.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T08:27:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/71cf444a26800d35c5a7d5c4dcbd5306.json"
+        }
+      ],
+      "path": "articles/51fe23fbc53dbc4e1132c88ccecdc30a.json"
+    },
     {
       "id": "08c03fa291a89c8cfddbc117810f9229",
       "title": "Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive",
@@ -50,6 +168,22 @@
           "path": "articles/0161e3e146d006c0b8d6b06d101318ba.json"
         },
         {
+          "id": "51fe23fbc53dbc4e1132c88ccecdc30a",
+          "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7c85fad2e52219bcf733606cacb4d713111d9902-1522x844.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T10:35:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/51fe23fbc53dbc4e1132c88ccecdc30a.json"
+        },
+        {
           "id": "9e7acce0480f41f3f9f896f38e9fdba9",
           "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
@@ -66,6 +200,22 @@
           "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
         },
         {
+          "id": "bfd5b66436fd5badd07da1086c41ffde",
+          "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
+          "image": "https://image.cnbcfm.com/api/v1/image/108368798-1790606958199-gettyimages-2296177062-AFP_C97K8CB.jpeg?v=1790606986&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-06T11:32:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bfd5b66436fd5badd07da1086c41ffde.json"
+        },
+        {
           "id": "ee9b488193006d879e07775b52069740",
           "title": "Unsure how long this AI bull has? Bonds now offer a cushion at the best values in years",
           "image": "https://image.cnbcfm.com/api/v1/image/108370321-1790781020672-Traders-Photo-20260929-KK-PRESS-007.jpg?v=1790781195&w=1920&h=1080",
@@ -80,38 +230,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ee9b488193006d879e07775b52069740.json"
-        },
-        {
-          "id": "1fc5b39d1caaa962c7e666491b468bd1",
-          "title": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108345361-1785944333010-108345361-1785944232801-gettyimages-2276989758-AFP_B3NR8XA.jpeg?v=1785944350&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T11:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1fc5b39d1caaa962c7e666491b468bd1.json"
-        },
-        {
-          "id": "1c6256cbdb0a98a49531c15f98a1c21f",
-          "title": "A Harvard expert says this ‘sneaky’ communication mistake can lead to worse decisions",
-          "image": "https://image.cnbcfm.com/api/v1/image/108372921-1791238580650-david_ellison_and_ynon_kreiz.png?v=1791238675&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T10:46:50.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1c6256cbdb0a98a49531c15f98a1c21f.json"
         }
       ],
       "path": "articles/08c03fa291a89c8cfddbc117810f9229.json"
@@ -176,6 +294,22 @@
           "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
         },
         {
+          "id": "51fe23fbc53dbc4e1132c88ccecdc30a",
+          "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7c85fad2e52219bcf733606cacb4d713111d9902-1522x844.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T10:35:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/51fe23fbc53dbc4e1132c88ccecdc30a.json"
+        },
+        {
           "id": "9cb7c2b926ccbfa803696b5762b6dfb9",
           "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
           "image": "https://image.cnbcfm.com/api/v1/image/108048072-1729022260550-gettyimages-2176702756-davis_112_091924.jpeg?v=1791234447&w=1920&h=1080",
@@ -192,9 +326,9 @@
           "path": "articles/9cb7c2b926ccbfa803696b5762b6dfb9.json"
         },
         {
-          "id": "ee9b488193006d879e07775b52069740",
-          "title": "Unsure how long this AI bull has? Bonds now offer a cushion at the best values in years",
-          "image": "https://image.cnbcfm.com/api/v1/image/108370321-1790781020672-Traders-Photo-20260929-KK-PRESS-007.jpg?v=1790781195&w=1920&h=1080",
+          "id": "bfd5b66436fd5badd07da1086c41ffde",
+          "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
+          "image": "https://image.cnbcfm.com/api/v1/image/108368798-1790606958199-gettyimages-2296177062-AFP_C97K8CB.jpeg?v=1790606986&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -202,26 +336,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T11:08:28.000Z",
+          "published_at": "2026-10-06T11:32:57.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/ee9b488193006d879e07775b52069740.json"
-        },
-        {
-          "id": "1fc5b39d1caaa962c7e666491b468bd1",
-          "title": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108345361-1785944333010-108345361-1785944232801-gettyimages-2276989758-AFP_B3NR8XA.jpeg?v=1785944350&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T11:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1fc5b39d1caaa962c7e666491b468bd1.json"
+          "path": "articles/bfd5b66436fd5badd07da1086c41ffde.json"
         }
       ],
       "path": "articles/0161e3e146d006c0b8d6b06d101318ba.json"
@@ -308,6 +426,22 @@
           "path": "articles/d2bb992f4b0e114df53f627e4b56d0ed.json"
         },
         {
+          "id": "51fe23fbc53dbc4e1132c88ccecdc30a",
+          "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7c85fad2e52219bcf733606cacb4d713111d9902-1522x844.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T10:35:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/51fe23fbc53dbc4e1132c88ccecdc30a.json"
+        },
+        {
           "id": "f406036a49bafcd37f734c209fa3af07",
           "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png@png",
@@ -354,22 +488,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4d03be950e2de50f36feba38d69ff1e9.json"
-        },
-        {
-          "id": "dde0eadb67a0acaaddda9b39d919f1e6",
-          "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T14:54:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/dde0eadb67a0acaaddda9b39d919f1e6.json"
         }
       ],
       "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"

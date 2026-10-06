@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T17:15:39.747Z",
+  "updated_at": "2026-10-06T17:30:58.662Z",
   "total": 25,
   "entities": [
     {
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 18
     },
     {
       "id": "eth",
@@ -83,9 +83,11 @@
       "count": 5
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
       "count": 4
     },
@@ -96,6 +98,22 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
+      "count": 4
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
       "count": 3
     },
     {
@@ -108,13 +126,13 @@
       "count": 3
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
       "icon": "",
-      "count": 3
+      "count": 2
     },
     {
       "id": "nvda",
@@ -123,7 +141,7 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 3
+      "count": 2
     },
     {
       "id": "mstr",
@@ -132,15 +150,6 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 3
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
       "count": 2
     },
     {
@@ -183,15 +192,6 @@
       "name": "JPMorgan",
       "type": "company",
       "path": "tickers/jpm.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
       "icon": "",
       "count": 1
     },

@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-06T20:01:09.588Z",
+  "updated_at": "2026-10-06T20:15:43.429Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 19,
+  "total": 18,
   "articles": [
     {
-      "id": "a9800db8c7c7e629416c6fa2415e7c31",
-      "title": "What Marvell's rosy long-term guidance means for our AI chip stocks",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "id": "1fc5b39d1caaa962c7e666491b468bd1",
+      "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
+      "description": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/investingclub/2026/10/06/what-marvells-rosy-long-term-guidance-means-for-our-ai-chip-stocks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108190251-1756132836201-gettyimages-2169879324-INTEL_MARVELL_ALTERA.jpeg?v=1779811143&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108345361-1785944333010-108345361-1785944232801-gettyimages-2276989758-AFP_B3NR8XA.jpeg?v=1785944350&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -22,62 +22,38 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "amd",
+          "symbol": "AMD",
+          "name": "AMD",
+          "type": "company",
+          "path": "tickers/amd.json",
+          "icon": ""
+        },
+        {
+          "id": "intc",
+          "symbol": "INTC",
+          "name": "Intel",
+          "type": "company",
+          "path": "tickers/intc.json",
+          "icon": ""
+        },
+        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-10-06T18:51:01.000Z",
+      "published_at": "2026-10-06T20:05:53.000Z",
       "related": [
-        {
-          "id": "0c44ec71e77fe6243a0a0f013e3134e3",
-          "title": "Boomers' dividend stocks take beating as bond yields rise, with retirement income on the line ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373528-1791311681607-gettyimages-2282607279-_dsc6846.jpeg?v=1791311698&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T18:41:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0c44ec71e77fe6243a0a0f013e3134e3.json"
-        },
-        {
-          "id": "6b942f62419efc429d0772efee29a680",
-          "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373417-1791301826671-gettyimages-1243175407-AFP_32J98KA.jpeg?v=1791312962&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T19:35:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6b942f62419efc429d0772efee29a680.json"
-        },
-        {
-          "id": "a0d93ba9e9fb6343dd247cab2d1af0f6",
-          "title": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
-          "image": "https://image.cnbcfm.com/api/v1/image/108223610-1762787393577-gettyimages-2239731526-ANDURIL_INTERVIEW.jpeg?v=1791291416&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T19:14:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a0d93ba9e9fb6343dd247cab2d1af0f6.json"
-        },
         {
           "id": "b063ddd2b7d4cdf692cf7da5d1e52aaa",
           "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
@@ -95,9 +71,41 @@
           "path": "articles/b063ddd2b7d4cdf692cf7da5d1e52aaa.json"
         },
         {
-          "id": "4cce63a59a3dd1eac1c8019769c0be89",
-          "title": "How event contract bundles are boosting volume on prediction markets",
-          "image": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1791299887&w=1920&h=1080",
+          "id": "4650e543ba43e5278bf3df8351fdd3c8",
+          "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac4dbd7392625e4b7d80a9d014d051d307a4d10c-3681x2071.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T12:31:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4650e543ba43e5278bf3df8351fdd3c8.json"
+        },
+        {
+          "id": "d5e81525716b35e18a74583928c85718",
+          "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T10:36:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d5e81525716b35e18a74583928c85718.json"
+        },
+        {
+          "id": "04d73242a684d33a0895f969a3e59d8b",
+          "title": "Treasury yields slide as surge to multiyear highs cools",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369466-1790695901696-gettyimages-2297721737-anotherday276803149_zmyefihb.jpeg?v=1790696070&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -105,13 +113,29 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T18:46:16.000Z",
+          "published_at": "2026-10-06T20:04:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/04d73242a684d33a0895f969a3e59d8b.json"
+        },
+        {
+          "id": "182ba3daafdf44b96acb9d8134284978",
+          "title": "A new analyst call on Home Depot reflects our feeling on what to do with the stock",
+          "image": "https://image.cnbcfm.com/api/v1/image/108351083-1787075430328-108351083-1787075375921-gettyimages-2289917471-HOME_DEPOT_EARNS.jpg?v=1787075441&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-06T20:00:53.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4cce63a59a3dd1eac1c8019769c0be89.json"
+          "path": "articles/182ba3daafdf44b96acb9d8134284978.json"
         }
       ],
-      "path": "articles/a9800db8c7c7e629416c6fa2415e7c31.json"
+      "path": "articles/1fc5b39d1caaa962c7e666491b468bd1.json"
     },
     {
       "id": "b063ddd2b7d4cdf692cf7da5d1e52aaa",
@@ -165,7 +189,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T16:15:07.000Z",
+          "published_at": "2026-10-06T20:05:53.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1fc5b39d1caaa962c7e666491b468bd1.json"
@@ -319,22 +343,6 @@
           "path": "articles/b063ddd2b7d4cdf692cf7da5d1e52aaa.json"
         },
         {
-          "id": "6b942f62419efc429d0772efee29a680",
-          "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373417-1791301826671-gettyimages-1243175407-AFP_32J98KA.jpeg?v=1791312962&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T19:35:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6b942f62419efc429d0772efee29a680.json"
-        },
-        {
           "id": "a0d93ba9e9fb6343dd247cab2d1af0f6",
           "title": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
           "image": "https://image.cnbcfm.com/api/v1/image/108223610-1762787393577-gettyimages-2239731526-ANDURIL_INTERVIEW.jpeg?v=1791291416&w=1920&h=1080",
@@ -345,10 +353,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T19:14:29.000Z",
+          "published_at": "2026-10-06T20:09:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a0d93ba9e9fb6343dd247cab2d1af0f6.json"
+        },
+        {
+          "id": "bba88ed7ad0663b397364ad6db6b99d3",
+          "title": "Trump hedges on paying back government for ads that already aired",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370495-17907920182026-09-30t180225z_615020408_rc2utnaycs87_rtrmadp_0_usa-trump.jpeg?v=1791240841&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-06T20:09:17.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bba88ed7ad0663b397364ad6db6b99d3.json"
         }
       ],
       "path": "articles/1eaac72b55be7d5e52fcd4585cad145e.json"
@@ -535,22 +559,6 @@
           "path": "articles/5534ba09e45edcbe5589306490eab530.json"
         },
         {
-          "id": "6b942f62419efc429d0772efee29a680",
-          "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373417-1791301826671-gettyimages-1243175407-AFP_32J98KA.jpeg?v=1791312962&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T19:35:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6b942f62419efc429d0772efee29a680.json"
-        },
-        {
           "id": "a0d93ba9e9fb6343dd247cab2d1af0f6",
           "title": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
           "image": "https://image.cnbcfm.com/api/v1/image/108223610-1762787393577-gettyimages-2239731526-ANDURIL_INTERVIEW.jpeg?v=1791291416&w=1920&h=1080",
@@ -561,15 +569,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T19:14:29.000Z",
+          "published_at": "2026-10-06T20:09:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a0d93ba9e9fb6343dd247cab2d1af0f6.json"
         },
         {
-          "id": "a9800db8c7c7e629416c6fa2415e7c31",
-          "title": "What Marvell's rosy long-term guidance means for our AI chip stocks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108190251-1756132836201-gettyimages-2169879324-INTEL_MARVELL_ALTERA.jpeg?v=1779811143&w=1920&h=1080",
+          "id": "bba88ed7ad0663b397364ad6db6b99d3",
+          "title": "Trump hedges on paying back government for ads that already aired",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370495-17907920182026-09-30t180225z_615020408_rc2utnaycs87_rtrmadp_0_usa-trump.jpeg?v=1791240841&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -577,145 +585,29 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T18:51:01.000Z",
+          "published_at": "2026-10-06T20:09:17.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/a9800db8c7c7e629416c6fa2415e7c31.json"
+          "path": "articles/bba88ed7ad0663b397364ad6db6b99d3.json"
+        },
+        {
+          "id": "0c44ec71e77fe6243a0a0f013e3134e3",
+          "title": "Boomers' dividend stocks take beating from bond yields, with retirement income on the line ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373528-1791311681607-gettyimages-2282607279-_dsc6846.jpeg?v=1791311698&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-06T20:06:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0c44ec71e77fe6243a0a0f013e3134e3.json"
         }
       ],
       "path": "articles/4f4d100f80971b89110bbbc70f22e99b.json"
-    },
-    {
-      "id": "1fc5b39d1caaa962c7e666491b468bd1",
-      "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
-      "description": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108345361-1785944333010-108345361-1785944232801-gettyimages-2276989758-AFP_B3NR8XA.jpeg?v=1785944350&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
-          "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
-        },
-        {
-          "id": "amd",
-          "symbol": "AMD",
-          "name": "AMD",
-          "type": "company",
-          "path": "tickers/amd.json",
-          "icon": ""
-        },
-        {
-          "id": "intc",
-          "symbol": "INTC",
-          "name": "Intel",
-          "type": "company",
-          "path": "tickers/intc.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-06T16:15:07.000Z",
-      "related": [
-        {
-          "id": "b063ddd2b7d4cdf692cf7da5d1e52aaa",
-          "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373382-1791299845438-gettyimages-2296215726-20090101260924-99-741347.jpeg?v=1791299900&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T18:48:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b063ddd2b7d4cdf692cf7da5d1e52aaa.json"
-        },
-        {
-          "id": "4650e543ba43e5278bf3df8351fdd3c8",
-          "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac4dbd7392625e4b7d80a9d014d051d307a4d10c-3681x2071.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-06T12:31:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4650e543ba43e5278bf3df8351fdd3c8.json"
-        },
-        {
-          "id": "d5e81525716b35e18a74583928c85718",
-          "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-06T10:36:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d5e81525716b35e18a74583928c85718.json"
-        },
-        {
-          "id": "04d73242a684d33a0895f969a3e59d8b",
-          "title": "Treasury yields slide as surge to multiyear highs cools",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369466-1790695901696-gettyimages-2297721737-anotherday276803149_zmyefihb.jpeg?v=1790696070&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T18:44:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/04d73242a684d33a0895f969a3e59d8b.json"
-        },
-        {
-          "id": "6b942f62419efc429d0772efee29a680",
-          "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373417-1791301826671-gettyimages-1243175407-AFP_32J98KA.jpeg?v=1791312962&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T19:35:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6b942f62419efc429d0772efee29a680.json"
-        }
-      ],
-      "path": "articles/1fc5b39d1caaa962c7e666491b468bd1.json"
     },
     {
       "id": "95a2bc0a4e6038865bd1535703b696d8",
@@ -751,22 +643,6 @@
       "published_at": "2026-10-06T14:00:01.000Z",
       "related": [
         {
-          "id": "6b942f62419efc429d0772efee29a680",
-          "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373417-1791301826671-gettyimages-1243175407-AFP_32J98KA.jpeg?v=1791312962&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T19:35:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6b942f62419efc429d0772efee29a680.json"
-        },
-        {
           "id": "a0d93ba9e9fb6343dd247cab2d1af0f6",
           "title": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
           "image": "https://image.cnbcfm.com/api/v1/image/108223610-1762787393577-gettyimages-2239731526-ANDURIL_INTERVIEW.jpeg?v=1791291416&w=1920&h=1080",
@@ -777,15 +653,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T19:14:29.000Z",
+          "published_at": "2026-10-06T20:09:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a0d93ba9e9fb6343dd247cab2d1af0f6.json"
         },
         {
-          "id": "a9800db8c7c7e629416c6fa2415e7c31",
-          "title": "What Marvell's rosy long-term guidance means for our AI chip stocks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108190251-1756132836201-gettyimages-2169879324-INTEL_MARVELL_ALTERA.jpeg?v=1779811143&w=1920&h=1080",
+          "id": "bba88ed7ad0663b397364ad6db6b99d3",
+          "title": "Trump hedges on paying back government for ads that already aired",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370495-17907920182026-09-30t180225z_615020408_rc2utnaycs87_rtrmadp_0_usa-trump.jpeg?v=1791240841&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -793,15 +669,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T18:51:01.000Z",
+          "published_at": "2026-10-06T20:09:17.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/a9800db8c7c7e629416c6fa2415e7c31.json"
+          "path": "articles/bba88ed7ad0663b397364ad6db6b99d3.json"
         },
         {
-          "id": "b063ddd2b7d4cdf692cf7da5d1e52aaa",
-          "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373382-1791299845438-gettyimages-2296215726-20090101260924-99-741347.jpeg?v=1791299900&w=1920&h=1080",
+          "id": "0c44ec71e77fe6243a0a0f013e3134e3",
+          "title": "Boomers' dividend stocks take beating from bond yields, with retirement income on the line ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373528-1791311681607-gettyimages-2282607279-_dsc6846.jpeg?v=1791311698&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -809,15 +685,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T18:48:36.000Z",
+          "published_at": "2026-10-06T20:06:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b063ddd2b7d4cdf692cf7da5d1e52aaa.json"
+          "path": "articles/0c44ec71e77fe6243a0a0f013e3134e3.json"
         },
         {
-          "id": "4cce63a59a3dd1eac1c8019769c0be89",
-          "title": "How event contract bundles are boosting volume on prediction markets",
-          "image": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1791299887&w=1920&h=1080",
+          "id": "1fc5b39d1caaa962c7e666491b468bd1",
+          "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
+          "image": "https://image.cnbcfm.com/api/v1/image/108345361-1785944333010-108345361-1785944232801-gettyimages-2276989758-AFP_B3NR8XA.jpeg?v=1785944350&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -825,10 +701,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T18:46:16.000Z",
+          "published_at": "2026-10-06T20:05:53.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4cce63a59a3dd1eac1c8019769c0be89.json"
+          "path": "articles/1fc5b39d1caaa962c7e666491b468bd1.json"
+        },
+        {
+          "id": "04d73242a684d33a0895f969a3e59d8b",
+          "title": "Treasury yields slide as surge to multiyear highs cools",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369466-1790695901696-gettyimages-2297721737-anotherday276803149_zmyefihb.jpeg?v=1790696070&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-06T20:04:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/04d73242a684d33a0895f969a3e59d8b.json"
         }
       ],
       "path": "articles/95a2bc0a4e6038865bd1535703b696d8.json"
@@ -1005,22 +897,6 @@
           "path": "articles/ee9b488193006d879e07775b52069740.json"
         },
         {
-          "id": "6b942f62419efc429d0772efee29a680",
-          "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373417-1791301826671-gettyimages-1243175407-AFP_32J98KA.jpeg?v=1791312962&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T19:35:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6b942f62419efc429d0772efee29a680.json"
-        },
-        {
           "id": "a0d93ba9e9fb6343dd247cab2d1af0f6",
           "title": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
           "image": "https://image.cnbcfm.com/api/v1/image/108223610-1762787393577-gettyimages-2239731526-ANDURIL_INTERVIEW.jpeg?v=1791291416&w=1920&h=1080",
@@ -1031,15 +907,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T19:14:29.000Z",
+          "published_at": "2026-10-06T20:09:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a0d93ba9e9fb6343dd247cab2d1af0f6.json"
         },
         {
-          "id": "a9800db8c7c7e629416c6fa2415e7c31",
-          "title": "What Marvell's rosy long-term guidance means for our AI chip stocks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108190251-1756132836201-gettyimages-2169879324-INTEL_MARVELL_ALTERA.jpeg?v=1779811143&w=1920&h=1080",
+          "id": "bba88ed7ad0663b397364ad6db6b99d3",
+          "title": "Trump hedges on paying back government for ads that already aired",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370495-17907920182026-09-30t180225z_615020408_rc2utnaycs87_rtrmadp_0_usa-trump.jpeg?v=1791240841&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1047,15 +923,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T18:51:01.000Z",
+          "published_at": "2026-10-06T20:09:17.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/a9800db8c7c7e629416c6fa2415e7c31.json"
+          "path": "articles/bba88ed7ad0663b397364ad6db6b99d3.json"
         },
         {
-          "id": "b063ddd2b7d4cdf692cf7da5d1e52aaa",
-          "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373382-1791299845438-gettyimages-2296215726-20090101260924-99-741347.jpeg?v=1791299900&w=1920&h=1080",
+          "id": "0c44ec71e77fe6243a0a0f013e3134e3",
+          "title": "Boomers' dividend stocks take beating from bond yields, with retirement income on the line ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373528-1791311681607-gettyimages-2282607279-_dsc6846.jpeg?v=1791311698&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1063,10 +939,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T18:48:36.000Z",
+          "published_at": "2026-10-06T20:06:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b063ddd2b7d4cdf692cf7da5d1e52aaa.json"
+          "path": "articles/0c44ec71e77fe6243a0a0f013e3134e3.json"
+        },
+        {
+          "id": "1fc5b39d1caaa962c7e666491b468bd1",
+          "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
+          "image": "https://image.cnbcfm.com/api/v1/image/108345361-1785944333010-108345361-1785944232801-gettyimages-2276989758-AFP_B3NR8XA.jpeg?v=1785944350&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-06T20:05:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1fc5b39d1caaa962c7e666491b468bd1.json"
         }
       ],
       "path": "articles/dba63f0c56f2ba94db4430a1714d0de4.json"
@@ -1113,22 +1005,6 @@
           "path": "articles/dba63f0c56f2ba94db4430a1714d0de4.json"
         },
         {
-          "id": "6b942f62419efc429d0772efee29a680",
-          "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373417-1791301826671-gettyimages-1243175407-AFP_32J98KA.jpeg?v=1791312962&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-06T19:35:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6b942f62419efc429d0772efee29a680.json"
-        },
-        {
           "id": "a0d93ba9e9fb6343dd247cab2d1af0f6",
           "title": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
           "image": "https://image.cnbcfm.com/api/v1/image/108223610-1762787393577-gettyimages-2239731526-ANDURIL_INTERVIEW.jpeg?v=1791291416&w=1920&h=1080",
@@ -1139,15 +1015,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T19:14:29.000Z",
+          "published_at": "2026-10-06T20:09:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a0d93ba9e9fb6343dd247cab2d1af0f6.json"
         },
         {
-          "id": "a9800db8c7c7e629416c6fa2415e7c31",
-          "title": "What Marvell's rosy long-term guidance means for our AI chip stocks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108190251-1756132836201-gettyimages-2169879324-INTEL_MARVELL_ALTERA.jpeg?v=1779811143&w=1920&h=1080",
+          "id": "bba88ed7ad0663b397364ad6db6b99d3",
+          "title": "Trump hedges on paying back government for ads that already aired",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370495-17907920182026-09-30t180225z_615020408_rc2utnaycs87_rtrmadp_0_usa-trump.jpeg?v=1791240841&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1155,15 +1031,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T18:51:01.000Z",
+          "published_at": "2026-10-06T20:09:17.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/a9800db8c7c7e629416c6fa2415e7c31.json"
+          "path": "articles/bba88ed7ad0663b397364ad6db6b99d3.json"
         },
         {
-          "id": "b063ddd2b7d4cdf692cf7da5d1e52aaa",
-          "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373382-1791299845438-gettyimages-2296215726-20090101260924-99-741347.jpeg?v=1791299900&w=1920&h=1080",
+          "id": "0c44ec71e77fe6243a0a0f013e3134e3",
+          "title": "Boomers' dividend stocks take beating from bond yields, with retirement income on the line ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373528-1791311681607-gettyimages-2282607279-_dsc6846.jpeg?v=1791311698&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1171,10 +1047,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T18:48:36.000Z",
+          "published_at": "2026-10-06T20:06:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b063ddd2b7d4cdf692cf7da5d1e52aaa.json"
+          "path": "articles/0c44ec71e77fe6243a0a0f013e3134e3.json"
+        },
+        {
+          "id": "1fc5b39d1caaa962c7e666491b468bd1",
+          "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
+          "image": "https://image.cnbcfm.com/api/v1/image/108345361-1785944333010-108345361-1785944232801-gettyimages-2276989758-AFP_B3NR8XA.jpeg?v=1785944350&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-06T20:05:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1fc5b39d1caaa962c7e666491b468bd1.json"
         }
       ],
       "path": "articles/ee9b488193006d879e07775b52069740.json"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T20:45:41.058Z",
+  "updated_at": "2026-10-06T21:01:10.411Z",
   "total": 27,
   "entities": [
     {
@@ -7,14 +7,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 34
+      "count": 33
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 27
     },
     {
       "id": "btc",
@@ -83,6 +83,13 @@
       "count": 5
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
@@ -92,11 +99,13 @@
       "count": 4
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
-      "count": 4
+      "count": 3
     },
     {
       "id": "anthropic",
@@ -108,11 +117,18 @@
       "count": 3
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -135,6 +151,13 @@
       "count": 2
     },
     {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "amd",
       "symbol": "AMD",
       "name": "AMD",
@@ -153,35 +176,12 @@
       "count": 1
     },
     {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
-      "icon": "",
       "count": 1
     },
     {

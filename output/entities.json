@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-07T19:01:09.970Z",
+  "updated_at": "2026-10-07T19:15:39.279Z",
   "total": 26,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 32
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,14 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 31
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 31
+      "count": 29
     },
     {
       "id": "regulation",
@@ -26,15 +26,15 @@
       "count": 25
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 9
-    },
-    {
       "id": "ai",
       "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 10
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 9
@@ -81,6 +81,15 @@
       "count": 4
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 3
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -115,12 +124,12 @@
       "count": 3
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
       "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
       "count": 2
     },
     {
@@ -182,15 +191,6 @@
       "name": "Web3",
       "type": "topic",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
       "count": 1
     },
     {

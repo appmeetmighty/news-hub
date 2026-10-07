@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-07T18:01:07.158Z",
-  "total": 27,
+  "updated_at": "2026-10-07T18:15:41.540Z",
+  "total": 26,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 32
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,6 +9,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 31
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
       "count": 31
     },
     {
@@ -30,16 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 10
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 10
+      "count": 11
     },
     {
       "id": "blockchain",
@@ -53,6 +44,15 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
+      "count": 9
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 9
     },
     {
@@ -79,6 +79,15 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 4
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 3
     },
     {
       "id": "meta",
@@ -113,15 +122,6 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
     },
     {
       "id": "bnb",
@@ -175,15 +175,6 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 1
-    },
-    {
-      "id": "intc",
-      "symbol": "INTC",
-      "name": "Intel",
-      "type": "company",
-      "path": "tickers/intc.json",
-      "icon": "",
       "count": 1
     },
     {

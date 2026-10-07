@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-07T15:01:16.083Z",
+  "updated_at": "2026-10-07T15:30:57.554Z",
   "total": 26,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 32
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 30
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 30
     },
     {
@@ -39,16 +39,14 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 11
+      "count": 10
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
       "icon": "",
-      "count": 9
+      "count": 8
     },
     {
       "id": "stablecoin",
@@ -58,11 +56,13 @@
       "count": 8
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
-      "count": 7
+      "count": 8
     },
     {
       "id": "etf",
@@ -81,6 +81,15 @@
       "count": 4
     },
     {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 3
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -94,15 +103,6 @@
       "type": "commodity",
       "path": "tickers/gold.json",
       "icon": "",
-      "count": 3
-    },
-    {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
       "count": 3
     },
     {
@@ -151,15 +151,6 @@
       "count": 2
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "spacex",
       "symbol": "SPACEX",
       "name": "SpaceX",
@@ -200,6 +191,15 @@
       "type": "crypto",
       "path": "tickers/bnb.json",
       "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
+      "count": 1
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
       "count": 1
     },
     {

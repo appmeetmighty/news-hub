@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-07T12:30:54.869Z",
+  "updated_at": "2026-10-07T12:45:42.012Z",
   "total": 26,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 32
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,21 +9,28 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
+      "count": 30
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 30
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 25
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 13
+      "count": 12
     },
     {
       "id": "eth",
@@ -48,21 +48,21 @@
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 7
+      "count": 9
     },
     {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 8
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 8
     },
     {
       "id": "xrp",
@@ -71,7 +71,7 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 5
+      "count": 4
     },
     {
       "id": "meta",
@@ -81,6 +81,15 @@
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
       "count": 4
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "etf",
@@ -139,15 +148,6 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
       "count": 2
     },
     {

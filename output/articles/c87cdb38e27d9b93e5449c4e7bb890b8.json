@@ -1,11 +1,11 @@
 {
-  "id": "74bcb604c8a769794e43e20c56eb6896",
-  "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-  "description": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
+  "id": "c87cdb38e27d9b93e5449c4e7bb890b8",
+  "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
+  "description": "SpaceX and Amazon have moved to expand providing direct-to-device services with networks of satellites.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/10/07/fcc-spectrum-auction-spacex-amazon.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/106807806-16074358342020-12-03t230819z_202191474_rc2zfk9y7yyw_rtrmadp_0_usa-tech-fcc.jpeg?v=1696436624&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,13 +13,30 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-10-07T18:50:21.000Z",
+  "entities": [
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com"
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-10-07T20:03:50.000Z",
   "related": [
     {
-      "id": "7458b69c70774461aaf4678cd15a2cda",
-      "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18% ",
-      "image": "https://image.cnbcfm.com/api/v1/image/108373977-1791377484586-gettyimages-1231989873-BC_ChineseFlag2021_4322.jpeg?v=1791377538&w=1920&h=1080",
+      "id": "c4c60b8c459c67d68546ae9f266b8b98",
+      "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+      "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -27,10 +44,26 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-10-07T13:46:28.000Z",
+      "published_at": "2026-10-07T19:42:31.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/7458b69c70774461aaf4678cd15a2cda.json"
+      "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+    },
+    {
+      "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
+      "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+      "image": "",
+      "source": {
+        "id": "sec-press-releases",
+        "name": "SEC Press Releases",
+        "website": "",
+        "icon": ""
+      },
+      "category": "stocks",
+      "published_at": "2026-09-30T18:30:01.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 45,
+      "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
     },
     {
       "id": "c068cba6064b5d387a744751dd553ad0",
@@ -63,22 +96,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/9b3a1865a4c1d73f0f72d261ee67ef4f.json"
-    },
-    {
-      "id": "c87cdb38e27d9b93e5449c4e7bb890b8",
-      "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
-      "image": "https://image.cnbcfm.com/api/v1/image/106807806-16074358342020-12-03t230819z_202191474_rc2zfk9y7yyw_rtrmadp_0_usa-tech-fcc.jpeg?v=1696436624&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-10-07T20:03:50.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/c87cdb38e27d9b93e5449c4e7bb890b8.json"
     },
     {
       "id": "f72a670f31951721781189c4b935a208",

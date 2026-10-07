@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T00:01:11.931Z",
+  "updated_at": "2026-10-07T20:15:44.170Z",
   "id": "amzn",
   "symbol": "AMZN",
   "name": "Amazon",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "3475deca9cf1a52dc3bb4d040c44a906",
-      "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
-      "description": "Sen. Elizabeth Warren is asking the leaders of Meta, Google, Amazon and Microsoft about AI and data center subsidies authorized by GOP legislation.",
+      "id": "c87cdb38e27d9b93e5449c4e7bb890b8",
+      "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
+      "description": "SpaceX and Amazon have moved to expand providing direct-to-device services with networks of satellites.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326170-1782312332313-Screenshot_2026-06-24_at_104433_AM.png?v=1790378073&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/10/07/fcc-spectrum-auction-spacex-amazon.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/106807806-16074358342020-12-03t230819z_202191474_rc2zfk9y7yyw_rtrmadp_0_usa-tech-fcc.jpeg?v=1696436624&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,14 +23,6 @@
       "category": "stocks",
       "entities": [
         {
-          "id": "msft",
-          "symbol": "MSFT",
-          "name": "Microsoft",
-          "type": "company",
-          "path": "tickers/msft.json",
-          "icon": "https://logo.clearbit.com/microsoft.com"
-        },
-        {
           "id": "amzn",
           "symbol": "AMZN",
           "name": "Amazon",
@@ -39,34 +31,20 @@
           "icon": "https://logo.clearbit.com/amazon.com"
         },
         {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
           "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
-        },
-        {
-          "id": "googl",
-          "symbol": "GOOGL",
-          "name": "Google",
-          "type": "company",
-          "path": "tickers/googl.json",
-          "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
+          "path": "tickers/spacex.json",
           "icon": ""
         }
       ],
-      "published_at": "2026-09-28T20:49:53.000Z",
+      "published_at": "2026-10-07T20:03:50.000Z",
       "related": [
         {
-          "id": "6bb5df465bafac00cbbb82aa86c5b727",
-          "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368717-1790599580416-AP4672736060371713.jpg?v=1790599594&w=1920&h=1080",
+          "id": "c4c60b8c459c67d68546ae9f266b8b98",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -74,15 +52,31 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T20:23:01.000Z",
+          "published_at": "2026-10-07T19:42:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6bb5df465bafac00cbbb82aa86c5b727.json"
+          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
         },
         {
-          "id": "dfb323354b9a8e15a375c00c5198ec80",
-          "title": "Meta's splashy new business AI hire offers yet another reason to bank on Zuckerberg",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367419-1790258260358-108367419-1790256216366-gettyimages-2296215540-20090101260924-99-741349.jpg?v=1790258272&w=1920&h=1080",
+          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
+          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+          "image": "",
+          "source": {
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T18:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
+        },
+        {
+          "id": "c068cba6064b5d387a744751dd553ad0",
+          "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370148-1790771590456-gettyimages-2290036369-golba-dailylif260807_npnf2.jpeg?v=1791404003&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -90,15 +84,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T20:01:16.000Z",
+          "published_at": "2026-10-07T20:13:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/dfb323354b9a8e15a375c00c5198ec80.json"
+          "path": "articles/c068cba6064b5d387a744751dd553ad0.json"
         },
         {
-          "id": "124b2bb91fa4be961d20667b08258ca0",
-          "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367424-1790256490105-gettyimages-2296209094-META_CONNECT.jpeg?v=1790256521&w=1920&h=1080",
+          "id": "9b3a1865a4c1d73f0f72d261ee67ef4f",
+          "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363665-1789568651170-gettyimages-2295586459-mms19512_dnx4op25.jpeg?v=1789568741&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -106,45 +100,29 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-09-28T14:03:43.000Z",
+          "published_at": "2026-10-07T20:09:59.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/124b2bb91fa4be961d20667b08258ca0.json"
+          "path": "articles/9b3a1865a4c1d73f0f72d261ee67ef4f.json"
         },
         {
-          "id": "9bc124ba3f194195c2885488457be0fc",
-          "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "id": "f72a670f31951721781189c4b935a208",
+          "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364429-1789658380560-gettyimages-2295761542-mms10061_tiwtupzm.jpeg?v=1789658521&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-09-26T13:01:03.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-07T20:00:36.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9bc124ba3f194195c2885488457be0fc.json"
-        },
-        {
-          "id": "07e8f9c06aa3d7c7abff6b3b63043ef2",
-          "title": "Google Built an AI That Hunts Its Own Security Bugs",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-09-25T19:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/07e8f9c06aa3d7c7abff6b3b63043ef2.json"
+          "path": "articles/f72a670f31951721781189c4b935a208.json"
         }
       ],
-      "path": "articles/3475deca9cf1a52dc3bb4d040c44a906.json"
+      "path": "articles/c87cdb38e27d9b93e5449c4e7bb890b8.json"
     }
   ]
 }

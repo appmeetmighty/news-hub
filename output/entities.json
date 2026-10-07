@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T15:30:57.554Z",
+  "updated_at": "2026-10-07T15:45:42.740Z",
   "total": 26,
   "entities": [
     {
@@ -16,14 +16,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 30
+      "count": 31
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 25
+      "count": 24
     },
     {
       "id": "eth",
@@ -42,6 +42,15 @@
       "count": 10
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 9
+    },
+    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
@@ -52,15 +61,6 @@
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
-      "icon": "",
-      "count": 8
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
       "icon": "",
       "count": 8
     },
@@ -151,13 +151,13 @@
       "count": 2
     },
     {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
       "type": "company",
-      "path": "tickers/spacex.json",
+      "path": "tickers/intc.json",
       "icon": "",
-      "count": 2
+      "count": 1
     },
     {
       "id": "web3",
@@ -212,12 +212,12 @@
       "count": 1
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
       "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
+      "path": "tickers/spacex.json",
+      "icon": "",
       "count": 1
     }
   ]

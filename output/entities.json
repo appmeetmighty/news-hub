@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-07T11:30:56.919Z",
-  "total": 25,
+  "updated_at": "2026-10-07T11:45:40.358Z",
+  "total": 26,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 32
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 32
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 31
     },
     {
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 13
     },
     {
       "id": "eth",
@@ -39,14 +39,7 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 9
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 8
+      "count": 10
     },
     {
       "id": "oil",
@@ -54,6 +47,13 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
+      "icon": "",
+      "count": 7
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 7
     },
@@ -167,6 +167,15 @@
       "path": "tickers/spacex.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "v",
+      "symbol": "V",
+      "name": "Visa",
+      "type": "company",
+      "path": "tickers/v.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "web3",

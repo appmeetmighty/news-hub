@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-10-07T09:01:08.468Z",
-  "total": 27,
+  "updated_at": "2026-10-07T09:15:42.794Z",
+  "total": 29,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 31
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 28
+      "count": 30
     },
     {
       "id": "btc",
@@ -23,7 +16,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
+      "count": 27
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 27
     },
     {
       "id": "ai",
@@ -56,15 +56,6 @@
       "count": 7
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -74,19 +65,21 @@
       "count": 5
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 4
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
       "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
       "count": 4
     },
     {
@@ -99,12 +92,19 @@
       "count": 4
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
       "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
+      "path": "tickers/openai.json",
+      "icon": "",
       "count": 3
     },
     {
@@ -191,6 +191,24 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
+      "count": 1
+    },
+    {
+      "id": "amd",
+      "symbol": "AMD",
+      "name": "AMD",
+      "type": "company",
+      "path": "tickers/amd.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
+      "icon": "",
       "count": 1
     },
     {

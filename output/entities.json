@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T20:15:44.181Z",
+  "updated_at": "2026-10-07T20:30:58.006Z",
   "total": 27,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 31
+      "count": 32
     },
     {
       "id": "btc",
@@ -23,7 +23,14 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 25
+      "count": 26
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 10
     },
     {
       "id": "blockchain",
@@ -40,20 +47,13 @@
       "count": 10
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 9
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 9
+      "count": 8
     },
     {
       "id": "oil",
@@ -63,6 +63,15 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 7
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "etf",
@@ -79,15 +88,6 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 4
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "nvda",
@@ -133,15 +133,6 @@
       "count": 3
     },
     {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
-      "count": 2
-    },
-    {
       "id": "bnb",
       "symbol": "BNB",
       "name": "BNB",
@@ -176,6 +167,15 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 2
+    },
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 1
     },
     {
       "id": "amzn",

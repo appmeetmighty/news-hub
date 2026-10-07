@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-10-07T21:01:12.507Z",
+  "updated_at": "2026-10-07T21:15:41.257Z",
   "id": "spacex",
   "symbol": "SPACEX",
   "name": "SpaceX",
   "type": "company",
   "total": 4,
   "articles": [
+    {
+      "id": "c4c60b8c459c67d68546ae9f266b8b98",
+      "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+      "description": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-07T21:08:32.000Z",
+      "related": [
+        {
+          "id": "c997d6cad420595e49e54cf28e602f35",
+          "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108238869-1765273146995-gettyimages-2250207687-NVIDIA_Chip.jpeg?v=1773959556&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T20:24:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c997d6cad420595e49e54cf28e602f35.json"
+        },
+        {
+          "id": "89d06ef1808316cdcb2af0e4cb40e477",
+          "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T20:26:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
+        },
+        {
+          "id": "c87cdb38e27d9b93e5449c4e7bb890b8",
+          "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
+          "image": "https://image.cnbcfm.com/api/v1/image/106807806-16074358342020-12-03t230819z_202191474_rc2zfk9y7yyw_rtrmadp_0_usa-tech-fcc.jpeg?v=1696436624&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T20:03:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c87cdb38e27d9b93e5449c4e7bb890b8.json"
+        },
+        {
+          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
+          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+          "image": "",
+          "source": {
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T18:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
+        },
+        {
+          "id": "11e32dacd14ec30b14cde6a678b4e522",
+          "title": "Lululemon poaches Athleta CEO as new chief product officer",
+          "image": "https://image.cnbcfm.com/api/v1/image/108335663-1784152010295-gettyimages-2285645602-RETAIL_SALES.jpeg?v=1791300296&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T20:39:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/11e32dacd14ec30b14cde6a678b4e522.json"
+        }
+      ],
+      "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+    },
     {
       "id": "c997d6cad420595e49e54cf28e602f35",
       "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock ",
@@ -58,7 +182,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T19:42:31.000Z",
+          "published_at": "2026-10-07T21:08:32.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
@@ -166,6 +290,22 @@
       "published_at": "2026-10-07T20:03:50.000Z",
       "related": [
         {
+          "id": "c4c60b8c459c67d68546ae9f266b8b98",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T21:08:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+        },
+        {
           "id": "c997d6cad420595e49e54cf28e602f35",
           "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock ",
           "image": "https://image.cnbcfm.com/api/v1/image/108238869-1765273146995-gettyimages-2250207687-NVIDIA_Chip.jpeg?v=1773959556&w=1920&h=1080",
@@ -180,22 +320,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c997d6cad420595e49e54cf28e602f35.json"
-        },
-        {
-          "id": "c4c60b8c459c67d68546ae9f266b8b98",
-          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
-          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T19:42:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
         },
         {
           "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
@@ -249,130 +373,6 @@
       "path": "articles/c87cdb38e27d9b93e5449c4e7bb890b8.json"
     },
     {
-      "id": "c4c60b8c459c67d68546ae9f266b8b98",
-      "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
-      "description": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
-        {
-          "id": "spacex",
-          "symbol": "SPACEX",
-          "name": "SpaceX",
-          "type": "company",
-          "path": "tickers/spacex.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-07T19:42:31.000Z",
-      "related": [
-        {
-          "id": "c997d6cad420595e49e54cf28e602f35",
-          "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108238869-1765273146995-gettyimages-2250207687-NVIDIA_Chip.jpeg?v=1773959556&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T20:24:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c997d6cad420595e49e54cf28e602f35.json"
-        },
-        {
-          "id": "89d06ef1808316cdcb2af0e4cb40e477",
-          "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-          "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T20:26:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
-        },
-        {
-          "id": "c87cdb38e27d9b93e5449c4e7bb890b8",
-          "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
-          "image": "https://image.cnbcfm.com/api/v1/image/106807806-16074358342020-12-03t230819z_202191474_rc2zfk9y7yyw_rtrmadp_0_usa-tech-fcc.jpeg?v=1696436624&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T20:03:50.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c87cdb38e27d9b93e5449c4e7bb890b8.json"
-        },
-        {
-          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
-          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T18:30:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 45,
-          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
-        },
-        {
-          "id": "11e32dacd14ec30b14cde6a678b4e522",
-          "title": "Lululemon poaches Athleta CEO as new chief product officer",
-          "image": "https://image.cnbcfm.com/api/v1/image/108335663-1784152010295-gettyimages-2285645602-RETAIL_SALES.jpeg?v=1791300296&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T20:39:39.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/11e32dacd14ec30b14cde6a678b4e522.json"
-        }
-      ],
-      "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
-    },
-    {
       "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
       "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
       "description": "The Securities and Exchange Commission today charged private fund adviser Meyer Global Management LLC (MGM) and its CEO, Owen E.H. Meyer, with defrauding investors and MGM-managed funds in connection with investments in SpaceX and other pre-IPO…",
@@ -422,6 +422,22 @@
           "path": "articles/c87cdb38e27d9b93e5449c4e7bb890b8.json"
         },
         {
+          "id": "c4c60b8c459c67d68546ae9f266b8b98",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T21:08:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+        },
+        {
           "id": "c997d6cad420595e49e54cf28e602f35",
           "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock ",
           "image": "https://image.cnbcfm.com/api/v1/image/108238869-1765273146995-gettyimages-2250207687-NVIDIA_Chip.jpeg?v=1773959556&w=1920&h=1080",
@@ -436,22 +452,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c997d6cad420595e49e54cf28e602f35.json"
-        },
-        {
-          "id": "c4c60b8c459c67d68546ae9f266b8b98",
-          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
-          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T19:42:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
         },
         {
           "id": "9cdc24422ea0fc5688fcdaee36804b33",

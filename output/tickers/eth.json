@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T13:30:59.977Z",
+  "updated_at": "2026-10-07T13:56:03.347Z",
   "id": "eth",
   "symbol": "ETH",
   "name": "Ethereum",
@@ -35,7 +35,7 @@
       "related": [
         {
           "id": "9d7a7739046f77050228026cd8091a98",
-          "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms Bitmine buying limit",
+          "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7ca941b4300a2fc0f41664ee402cb088b995e5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
@@ -46,7 +46,7 @@
           "category": "crypto",
           "published_at": "2026-10-07T11:09:50.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
+          "breaking_score": 20,
           "path": "articles/9d7a7739046f77050228026cd8091a98.json"
         },
         {
@@ -118,10 +118,10 @@
     },
     {
       "id": "9d7a7739046f77050228026cd8091a98",
-      "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms Bitmine buying limit",
-      "description": "Interest rates have spiked higher on Wednesday, particularly in France as concern grows about a second EU debt crisis.",
+      "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
+      "description": "Ether underperformed, losing 6% after Tom Lee said Bitmine would soon stop purchasing additional ETH.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
+      "breaking_score": 20,
       "url": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7ca941b4300a2fc0f41664ee402cb088b995e5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
@@ -132,6 +132,14 @@
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "eth",
           "symbol": "ETH",
@@ -144,41 +152,9 @@
       "published_at": "2026-10-07T11:09:50.000Z",
       "related": [
         {
-          "id": "f52c54658252f89211c98cad6e2bc99f",
-          "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T12:40:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f52c54658252f89211c98cad6e2bc99f.json"
-        },
-        {
-          "id": "e909e9374903ca6bcdda85b799bfac4d",
-          "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/df68f8a318b4b310a3b959798255cd19595fde3d-889x500.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T04:31:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e909e9374903ca6bcdda85b799bfac4d.json"
-        },
-        {
-          "id": "db9248d2b543e1665374e1c0a7c61b9d",
-          "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/abstract-launch-gID_7.png@png",
+          "id": "4b5e8725cc69d8fb47ce56ed626c1410",
+          "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -186,31 +162,15 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-06T20:28:53.000Z",
+          "published_at": "2026-10-06T16:38:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/db9248d2b543e1665374e1c0a7c61b9d.json"
+          "path": "articles/4b5e8725cc69d8fb47ce56ed626c1410.json"
         },
         {
-          "id": "5e151ccd952a919bd2984948b6b6ffd6",
-          "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2617f5fb4a186cef3a6ec88dad9df90c0cee0029-1920x1080.jpg?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-06T13:02:33.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/5e151ccd952a919bd2984948b6b6ffd6.json"
-        },
-        {
-          "id": "dde0eadb67a0acaaddda9b39d919f1e6",
-          "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
+          "id": "9e7acce0480f41f3f9f896f38e9fdba9",
+          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -218,10 +178,58 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-05T14:54:17.000Z",
+          "published_at": "2026-10-05T18:12:28.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/dde0eadb67a0acaaddda9b39d919f1e6.json"
+          "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
+        },
+        {
+          "id": "51fe23fbc53dbc4e1132c88ccecdc30a",
+          "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc857c26f73e7849fcc8ed499b6cb2da42e56d39-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T10:35:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 30,
+          "path": "articles/51fe23fbc53dbc4e1132c88ccecdc30a.json"
+        },
+        {
+          "id": "c36e33e343ece3c146dfc81cf285111a",
+          "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T04:00:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c36e33e343ece3c146dfc81cf285111a.json"
+        },
+        {
+          "id": "80e66e00d798a6540e9469197fae7f52",
+          "title": "Here’s what bitcoin needs to break above $87,000",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/abc41dc4370d46cb980b736d2d7d11355816cbf4-1333x999.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T11:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/80e66e00d798a6540e9469197fae7f52.json"
         }
       ],
       "path": "articles/9d7a7739046f77050228026cd8091a98.json"
@@ -293,7 +301,7 @@
         },
         {
           "id": "9d7a7739046f77050228026cd8091a98",
-          "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms Bitmine buying limit",
+          "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7ca941b4300a2fc0f41664ee402cb088b995e5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
@@ -304,7 +312,7 @@
           "category": "crypto",
           "published_at": "2026-10-07T11:09:50.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
+          "breaking_score": 20,
           "path": "articles/9d7a7739046f77050228026cd8091a98.json"
         },
         {
@@ -424,22 +432,6 @@
           "path": "articles/dde0eadb67a0acaaddda9b39d919f1e6.json"
         },
         {
-          "id": "9d7a7739046f77050228026cd8091a98",
-          "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms Bitmine buying limit",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7ca941b4300a2fc0f41664ee402cb088b995e5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T11:09:50.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9d7a7739046f77050228026cd8091a98.json"
-        },
-        {
           "id": "4b5e8725cc69d8fb47ce56ed626c1410",
           "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
@@ -454,6 +446,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4b5e8725cc69d8fb47ce56ed626c1410.json"
+        },
+        {
+          "id": "f52c54658252f89211c98cad6e2bc99f",
+          "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T12:40:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f52c54658252f89211c98cad6e2bc99f.json"
         }
       ],
       "path": "articles/db9248d2b543e1665374e1c0a7c61b9d.json"
@@ -493,6 +501,22 @@
       ],
       "published_at": "2026-10-06T16:38:15.000Z",
       "related": [
+        {
+          "id": "9d7a7739046f77050228026cd8091a98",
+          "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7ca941b4300a2fc0f41664ee402cb088b995e5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T11:09:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9d7a7739046f77050228026cd8091a98.json"
+        },
         {
           "id": "9e7acce0480f41f3f9f896f38e9fdba9",
           "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
@@ -556,22 +580,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dfbfa99a2027f3655df70bd5a1c37f27.json"
-        },
-        {
-          "id": "f406036a49bafcd37f734c209fa3af07",
-          "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T22:30:20.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f406036a49bafcd37f734c209fa3af07.json"
         }
       ],
       "path": "articles/4b5e8725cc69d8fb47ce56ed626c1410.json"
@@ -637,7 +645,7 @@
         },
         {
           "id": "9d7a7739046f77050228026cd8091a98",
-          "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms Bitmine buying limit",
+          "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7ca941b4300a2fc0f41664ee402cb088b995e5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
@@ -648,7 +656,7 @@
           "category": "crypto",
           "published_at": "2026-10-07T11:09:50.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
+          "breaking_score": 20,
           "path": "articles/9d7a7739046f77050228026cd8091a98.json"
         },
         {
@@ -767,7 +775,7 @@
         },
         {
           "id": "9d7a7739046f77050228026cd8091a98",
-          "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms Bitmine buying limit",
+          "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7ca941b4300a2fc0f41664ee402cb088b995e5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
@@ -778,7 +786,7 @@
           "category": "crypto",
           "published_at": "2026-10-07T11:09:50.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
+          "breaking_score": 20,
           "path": "articles/9d7a7739046f77050228026cd8091a98.json"
         },
         {
@@ -915,7 +923,7 @@
         },
         {
           "id": "9d7a7739046f77050228026cd8091a98",
-          "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms Bitmine buying limit",
+          "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7ca941b4300a2fc0f41664ee402cb088b995e5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
             "id": "coindesk",
@@ -926,7 +934,7 @@
           "category": "crypto",
           "published_at": "2026-10-07T11:09:50.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
+          "breaking_score": 20,
           "path": "articles/9d7a7739046f77050228026cd8091a98.json"
         }
       ],
@@ -1014,6 +1022,22 @@
           "path": "articles/4b5e8725cc69d8fb47ce56ed626c1410.json"
         },
         {
+          "id": "9d7a7739046f77050228026cd8091a98",
+          "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7ca941b4300a2fc0f41664ee402cb088b995e5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T11:09:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9d7a7739046f77050228026cd8091a98.json"
+        },
+        {
           "id": "c36e33e343ece3c146dfc81cf285111a",
           "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1060,22 +1084,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a089655c08c687b485f62637e99c5ce1.json"
-        },
-        {
-          "id": "6756e4a8c2b3b37c9179bcd3698383ab",
-          "title": "Engineer Gets 32 Months for Bitcoin Extortion Plot Against His Own Employer",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T12:39:09.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6756e4a8c2b3b37c9179bcd3698383ab.json"
         }
       ],
       "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
@@ -1156,22 +1164,6 @@
           "path": "articles/f52c54658252f89211c98cad6e2bc99f.json"
         },
         {
-          "id": "9d7a7739046f77050228026cd8091a98",
-          "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms Bitmine buying limit",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7ca941b4300a2fc0f41664ee402cb088b995e5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T11:09:50.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9d7a7739046f77050228026cd8091a98.json"
-        },
-        {
           "id": "e909e9374903ca6bcdda85b799bfac4d",
           "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/df68f8a318b4b310a3b959798255cd19595fde3d-889x500.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1186,6 +1178,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e909e9374903ca6bcdda85b799bfac4d.json"
+        },
+        {
+          "id": "4b5e8725cc69d8fb47ce56ed626c1410",
+          "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T16:38:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4b5e8725cc69d8fb47ce56ed626c1410.json"
         }
       ],
       "path": "articles/dde0eadb67a0acaaddda9b39d919f1e6.json"

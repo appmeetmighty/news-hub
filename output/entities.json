@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T04:30:56.031Z",
-  "total": 27,
+  "updated_at": "2026-10-07T04:45:39.472Z",
+  "total": 28,
   "entities": [
     {
       "id": "crypto",
@@ -23,7 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
+      "count": 21
     },
     {
       "id": "ai",
@@ -33,6 +33,15 @@
       "count": 15
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 10
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -40,20 +49,11 @@
       "count": 9
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 9
-    },
-    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 6
+      "count": 7
     },
     {
       "id": "xrp",
@@ -149,6 +149,15 @@
       "path": "tickers/spacex.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "googl",

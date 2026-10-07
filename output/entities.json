@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T08:30:57.070Z",
-  "total": 29,
+  "updated_at": "2026-10-07T08:45:42.582Z",
+  "total": 27,
   "entities": [
     {
       "id": "crypto",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 16
+      "count": 15
     },
     {
       "id": "eth",
@@ -54,6 +54,15 @@
       "type": "topic",
       "icon": "",
       "count": 7
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "xrp",
@@ -81,11 +90,11 @@
       "count": 4
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
       "count": 4
     },
@@ -96,16 +105,7 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
-      "count": 4
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 4
+      "count": 3
     },
     {
       "id": "anthropic",
@@ -191,24 +191,6 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 1
-    },
-    {
-      "id": "amd",
-      "symbol": "AMD",
-      "name": "AMD",
-      "type": "company",
-      "path": "tickers/amd.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "intc",
-      "symbol": "INTC",
-      "name": "Intel",
-      "type": "company",
-      "path": "tickers/intc.json",
-      "icon": "",
       "count": 1
     },
     {

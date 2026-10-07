@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T13:01:11.347Z",
+  "updated_at": "2026-10-07T06:15:44.228Z",
   "id": "bnb",
   "symbol": "BNB",
   "name": "BNB",
@@ -7,21 +7,29 @@
   "total": 1,
   "articles": [
     {
-      "id": "2ae7003694f3e001f5ed423583fa3f2c",
-      "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-      "description": "Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network’s share at roughly 30%.",
+      "id": "094461d801e8b7d5670ee3cb6c6b757c",
+      "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+      "description": "Wallets linked to the U.S. government moved millions in crypto on Tuesday, according to data tracked by Arkham.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y404AJBW7P5AXPAFDB86VV/sponsor-screen-traid-bnb-chain.jpg",
+      "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe1918fb1883c9e13bc09a466b6176ca4c263d96-1544x830.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "bnb",
           "symbol": "BNB",
@@ -29,92 +37,98 @@
           "type": "crypto",
           "path": "tickers/bnb.json",
           "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-10-02T11:40:21.000Z",
+      "published_at": "2026-10-07T05:58:25.000Z",
       "related": [
         {
-          "id": "dd7018ba230f4209a8adb4fb1636da05",
-          "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45D9ZNYHF2EN0M2AETZ4WY1/eth-btc-etf.jpg",
+          "id": "4650e543ba43e5278bf3df8351fdd3c8",
+          "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac4dbd7392625e4b7d80a9d014d051d307a4d10c-3681x2071.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-05T08:00:49.000Z",
+          "published_at": "2026-10-06T12:31:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/dd7018ba230f4209a8adb4fb1636da05.json"
+          "path": "articles/4650e543ba43e5278bf3df8351fdd3c8.json"
         },
         {
-          "id": "7a40e54ed54a08344c4da41cd2270167",
-          "title": "OKX, NYSE parent file to launch tokenized US stock platform",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4525XQ0CWP5J7P1KKQ3CD7J/stock-trading.jpg",
+          "id": "c36e33e343ece3c146dfc81cf285111a",
+          "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-05T03:44:09.000Z",
+          "published_at": "2026-10-07T04:00:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/7a40e54ed54a08344c4da41cd2270167.json"
+          "path": "articles/c36e33e343ece3c146dfc81cf285111a.json"
         },
         {
-          "id": "679b603f75f37c561e21e37bc2da5e3c",
-          "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+          "id": "fdfb2278b4dd8e0519d249aeaa4d469e",
+          "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/01e2af0559d0b38634efee63f4aaa6dc232b09da-1600x1060.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-02T17:30:40.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 65,
-          "path": "articles/679b603f75f37c561e21e37bc2da5e3c.json"
-        },
-        {
-          "id": "2f3a00baff09cc5ddd6aa002b9380a9a",
-          "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YJCPAEGNQQMRKZHXC717XH/hi-bitcoins-hidden-messages-bitcoin-price-960x640.webp",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-02T15:27:31.000Z",
+          "published_at": "2026-10-06T11:30:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2f3a00baff09cc5ddd6aa002b9380a9a.json"
+          "path": "articles/fdfb2278b4dd8e0519d249aeaa4d469e.json"
         },
         {
-          "id": "2e15ae208242d525a9619186e80bbde5",
-          "title": "Strategy opts for bigger spending on STRC buybacks over BTC purchases",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45ZMVASB9X10N7A0H5NDGEY/hi-bitcoin-supply-michael-saylor-3.jpg",
+          "id": "51fe23fbc53dbc4e1132c88ccecdc30a",
+          "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc857c26f73e7849fcc8ed499b6cb2da42e56d39-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-05T12:46:47.000Z",
+          "published_at": "2026-10-06T10:35:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 30,
+          "path": "articles/51fe23fbc53dbc4e1132c88ccecdc30a.json"
+        },
+        {
+          "id": "26861ceac82127bf1029e91050e3e15d",
+          "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5d1bf290ee40e874d16de6e418837c2c7e564db9-1860x1046.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T10:30:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2e15ae208242d525a9619186e80bbde5.json"
+          "path": "articles/26861ceac82127bf1029e91050e3e15d.json"
         }
       ],
-      "path": "articles/2ae7003694f3e001f5ed423583fa3f2c.json"
+      "path": "articles/094461d801e8b7d5670ee3cb6c6b757c.json"
     }
   ]
 }

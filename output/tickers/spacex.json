@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-10-07T16:45:41.611Z",
+  "updated_at": "2026-10-07T17:15:50.633Z",
   "id": "spacex",
   "symbol": "SPACEX",
   "name": "SpaceX",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "c4c60b8c459c67d68546ae9f266b8b98",
+      "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+      "description": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-07T16:32:30.000Z",
+      "related": [
+        {
+          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
+          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+          "image": "",
+          "source": {
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T18:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
+        },
+        {
+          "id": "d94f7aaca00cadb5a29a708f1d31b986",
+          "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373192-1791288371612-gettyimages-2196098758-arriens-aiillust250130_nprzf.jpeg?v=1791288400&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-06T12:59:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d94f7aaca00cadb5a29a708f1d31b986.json"
+        },
+        {
+          "id": "8e49d1a529e2ef92e78d687259ba6bd7",
+          "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
+          "image": "https://image.cnbcfm.com/api/v1/image/108104289-17399715182025-02-18t160441z_1704028396_rc2uwcacnx1r_rtrmadp_0_usa-trump-tariffs-mexico.jpeg?v=1739971599&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T16:40:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8e49d1a529e2ef92e78d687259ba6bd7.json"
+        },
+        {
+          "id": "eb60ab7c47402fca18ff813e500dd057",
+          "title": "Disney+ to stream upcoming Super Bowl ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108263085-1770609011989-gettyimages-2260616438-rm2_2224_mu427qwl.jpeg?v=1791390942&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T16:36:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb60ab7c47402fca18ff813e500dd057.json"
+        },
+        {
+          "id": "d6c3300d7d36cbf8883bf4cd79b60293",
+          "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
+          "image": "https://image.cnbcfm.com/api/v1/image/107306192-1695673773493-gettyimages-1466470824-mt_17958_0e9e89f3-d542-43cd-8d41-28c2e3700156.jpeg?v=1778167391&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T16:25:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d6c3300d7d36cbf8883bf4cd79b60293.json"
+        }
+      ],
+      "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+    },
     {
       "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
       "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
@@ -39,6 +163,22 @@
       ],
       "published_at": "2026-09-30T18:30:01.000Z",
       "related": [
+        {
+          "id": "c4c60b8c459c67d68546ae9f266b8b98",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T16:32:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+        },
         {
           "id": "9cdc24422ea0fc5688fcdaee36804b33",
           "title": "  SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors\n",
@@ -102,22 +242,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/a23c30c67e6084e92f53fbce939f5b6c.json"
-        },
-        {
-          "id": "1018a02b1ae4ae46a9884bf005efdcac",
-          "title": "  SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T16:42:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1018a02b1ae4ae46a9884bf005efdcac.json"
         }
       ],
       "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"

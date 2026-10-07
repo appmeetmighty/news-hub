@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-07T16:45:41.612Z",
-  "total": 26,
+  "updated_at": "2026-10-07T17:15:50.643Z",
+  "total": 27,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 33
+      "count": 32
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 30
+      "count": 31
     },
     {
       "id": "regulation",
@@ -35,15 +35,15 @@
       "count": 10
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 9
     },
     {
-      "id": "ai",
-      "name": "AI",
+      "id": "stablecoin",
+      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 9
@@ -115,6 +115,24 @@
       "count": 3
     },
     {
+      "id": "bnb",
+      "symbol": "BNB",
+      "name": "BNB",
+      "type": "crypto",
+      "path": "tickers/bnb.json",
+      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
+      "count": 2
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -151,6 +169,15 @@
       "count": 2
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 1
+    },
+    {
       "id": "intc",
       "symbol": "INTC",
       "name": "Intel",
@@ -185,15 +212,6 @@
       "count": 1
     },
     {
-      "id": "bnb",
-      "symbol": "BNB",
-      "name": "BNB",
-      "type": "crypto",
-      "path": "tickers/bnb.json",
-      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
-      "count": 1
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -208,15 +226,6 @@
       "name": "Silver",
       "type": "commodity",
       "path": "tickers/silver.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
       "icon": "",
       "count": 1
     }

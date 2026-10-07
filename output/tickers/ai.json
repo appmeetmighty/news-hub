@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-10-07T16:45:41.605Z",
+  "updated_at": "2026-10-07T17:15:50.634Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 9,
   "articles": [
+    {
+      "id": "c4c60b8c459c67d68546ae9f266b8b98",
+      "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+      "description": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-07T16:32:30.000Z",
+      "related": [
+        {
+          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
+          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+          "image": "",
+          "source": {
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T18:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
+        },
+        {
+          "id": "d94f7aaca00cadb5a29a708f1d31b986",
+          "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373192-1791288371612-gettyimages-2196098758-arriens-aiillust250130_nprzf.jpeg?v=1791288400&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-06T12:59:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d94f7aaca00cadb5a29a708f1d31b986.json"
+        },
+        {
+          "id": "8e49d1a529e2ef92e78d687259ba6bd7",
+          "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
+          "image": "https://image.cnbcfm.com/api/v1/image/108104289-17399715182025-02-18t160441z_1704028396_rc2uwcacnx1r_rtrmadp_0_usa-trump-tariffs-mexico.jpeg?v=1739971599&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T16:40:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8e49d1a529e2ef92e78d687259ba6bd7.json"
+        },
+        {
+          "id": "eb60ab7c47402fca18ff813e500dd057",
+          "title": "Disney+ to stream upcoming Super Bowl ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108263085-1770609011989-gettyimages-2260616438-rm2_2224_mu427qwl.jpeg?v=1791390942&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T16:36:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb60ab7c47402fca18ff813e500dd057.json"
+        },
+        {
+          "id": "d6c3300d7d36cbf8883bf4cd79b60293",
+          "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
+          "image": "https://image.cnbcfm.com/api/v1/image/107306192-1695673773493-gettyimages-1466470824-mt_17958_0e9e89f3-d542-43cd-8d41-28c2e3700156.jpeg?v=1778167391&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T16:25:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d6c3300d7d36cbf8883bf4cd79b60293.json"
+        }
+      ],
+      "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+    },
     {
       "id": "534cd5f6494b51f2290442da3d53cd5c",
       "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
@@ -223,9 +347,9 @@
           "path": "articles/eb60ab7c47402fca18ff813e500dd057.json"
         },
         {
-          "id": "d6c3300d7d36cbf8883bf4cd79b60293",
-          "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
-          "image": "https://image.cnbcfm.com/api/v1/image/107306192-1695673773493-gettyimages-1466470824-mt_17958_0e9e89f3-d542-43cd-8d41-28c2e3700156.jpeg?v=1778167391&w=1920&h=1080",
+          "id": "c4c60b8c459c67d68546ae9f266b8b98",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -233,10 +357,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T16:25:52.000Z",
+          "published_at": "2026-10-07T16:32:30.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d6c3300d7d36cbf8883bf4cd79b60293.json"
+          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
         }
       ],
       "path": "articles/35eab2c1c10ad62176f01f8b0d8e6f6a.json"
@@ -323,6 +447,22 @@
           "path": "articles/eb60ab7c47402fca18ff813e500dd057.json"
         },
         {
+          "id": "c4c60b8c459c67d68546ae9f266b8b98",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T16:32:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+        },
+        {
           "id": "d6c3300d7d36cbf8883bf4cd79b60293",
           "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
           "image": "https://image.cnbcfm.com/api/v1/image/107306192-1695673773493-gettyimages-1466470824-mt_17958_0e9e89f3-d542-43cd-8d41-28c2e3700156.jpeg?v=1778167391&w=1920&h=1080",
@@ -337,22 +477,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d6c3300d7d36cbf8883bf4cd79b60293.json"
-        },
-        {
-          "id": "edb2f913d2fc6793144e59ed5b5faf52",
-          "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
-          "image": "https://image.cnbcfm.com/api/v1/image/108374148-1791388061460-108374148-1791387933444-gettyimages-2297102806-US_DIESEL.jpeg?v=1791388074&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T16:18:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/edb2f913d2fc6793144e59ed5b5faf52.json"
         }
       ],
       "path": "articles/6ee78b698ce27020b2d16613f42873cf.json"
@@ -415,6 +539,22 @@
           "path": "articles/eb60ab7c47402fca18ff813e500dd057.json"
         },
         {
+          "id": "c4c60b8c459c67d68546ae9f266b8b98",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T16:32:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+        },
+        {
           "id": "d6c3300d7d36cbf8883bf4cd79b60293",
           "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
           "image": "https://image.cnbcfm.com/api/v1/image/107306192-1695673773493-gettyimages-1466470824-mt_17958_0e9e89f3-d542-43cd-8d41-28c2e3700156.jpeg?v=1778167391&w=1920&h=1080",
@@ -433,7 +573,7 @@
         {
           "id": "edb2f913d2fc6793144e59ed5b5faf52",
           "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
-          "image": "https://image.cnbcfm.com/api/v1/image/108374148-1791388061460-108374148-1791387933444-gettyimages-2297102806-US_DIESEL.jpeg?v=1791388074&w=1920&h=1080",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374148-1791392801813-108374148-1791388061460-108374148-1791387933444-gettyimages-2297102806-US_DIESEL.jpg?v=1791392813&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -445,22 +585,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/edb2f913d2fc6793144e59ed5b5faf52.json"
-        },
-        {
-          "id": "81819ad2ef5428cb40d682ec03e34dd3",
-          "title": "Jim Cramer's key to Wednesday's market — plus, relief for Intel after a concerning report",
-          "image": "https://image.cnbcfm.com/api/v1/image/108315139-17804039612026-06-02t070118z_611004174_rc2jlla6px5v_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T15:38:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/81819ad2ef5428cb40d682ec03e34dd3.json"
         }
       ],
       "path": "articles/8a17b51eac404649f86bdfc31a9a9df9.json"
@@ -653,6 +777,22 @@
           "path": "articles/eb60ab7c47402fca18ff813e500dd057.json"
         },
         {
+          "id": "c4c60b8c459c67d68546ae9f266b8b98",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T16:32:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+        },
+        {
           "id": "d6c3300d7d36cbf8883bf4cd79b60293",
           "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
           "image": "https://image.cnbcfm.com/api/v1/image/107306192-1695673773493-gettyimages-1466470824-mt_17958_0e9e89f3-d542-43cd-8d41-28c2e3700156.jpeg?v=1778167391&w=1920&h=1080",
@@ -667,22 +807,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d6c3300d7d36cbf8883bf4cd79b60293.json"
-        },
-        {
-          "id": "edb2f913d2fc6793144e59ed5b5faf52",
-          "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
-          "image": "https://image.cnbcfm.com/api/v1/image/108374148-1791388061460-108374148-1791387933444-gettyimages-2297102806-US_DIESEL.jpeg?v=1791388074&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T16:18:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/edb2f913d2fc6793144e59ed5b5faf52.json"
         }
       ],
       "path": "articles/d9d62fc4be4b818961974b985c5005e4.json"
@@ -785,9 +909,9 @@
           "path": "articles/eb60ab7c47402fca18ff813e500dd057.json"
         },
         {
-          "id": "d6c3300d7d36cbf8883bf4cd79b60293",
-          "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
-          "image": "https://image.cnbcfm.com/api/v1/image/107306192-1695673773493-gettyimages-1466470824-mt_17958_0e9e89f3-d542-43cd-8d41-28c2e3700156.jpeg?v=1778167391&w=1920&h=1080",
+          "id": "c4c60b8c459c67d68546ae9f266b8b98",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -795,10 +919,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T16:25:52.000Z",
+          "published_at": "2026-10-07T16:32:30.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d6c3300d7d36cbf8883bf4cd79b60293.json"
+          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
         }
       ],
       "path": "articles/1eaac72b55be7d5e52fcd4585cad145e.json"
@@ -877,6 +1001,22 @@
           "path": "articles/1eaac72b55be7d5e52fcd4585cad145e.json"
         },
         {
+          "id": "2ffd3a1b3d14ae2ada8ec216d9e3848c",
+          "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T16:56:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2ffd3a1b3d14ae2ada8ec216d9e3848c.json"
+        },
+        {
           "id": "b0c14de3be8349939f30f24eb6bd662e",
           "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
@@ -907,139 +1047,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 50,
           "path": "articles/8f23066acc2f61dce9d7d7da14b74f12.json"
-        },
-        {
-          "id": "bee529a5322992c0570a1f21100b7a1b",
-          "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T14:55:32.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bee529a5322992c0570a1f21100b7a1b.json"
         }
       ],
       "path": "articles/cd2531e7780c2460e5a1813a453720b4.json"
-    },
-    {
-      "id": "3bafa84855cf765211bd11a61b241f94",
-      "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
-      "description": "An association for AI enthusiasts was allegedly the recruiting vehicle, and two anonymous tips to a government portal started the case.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-05T11:18:01.000Z",
-      "related": [
-        {
-          "id": "116b64d2c548fe8706e93f832c91a93a",
-          "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T10:49:16.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/116b64d2c548fe8706e93f832c91a93a.json"
-        },
-        {
-          "id": "99f45f38c273606a3a7ef00add2abc0a",
-          "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/dj-khaled-usdc-gID_7.jpeg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-06T22:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/99f45f38c273606a3a7ef00add2abc0a.json"
-        },
-        {
-          "id": "af993ca2698d0794d7ad2c4b4bb95635",
-          "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-06T12:27:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/af993ca2698d0794d7ad2c4b4bb95635.json"
-        },
-        {
-          "id": "d5e81525716b35e18a74583928c85718",
-          "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-06T10:36:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d5e81525716b35e18a74583928c85718.json"
-        },
-        {
-          "id": "9a9e34a4875ceb64a9b7bf0e4dbf970b",
-          "title": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/dollar-crystal-ball-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T20:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9a9e34a4875ceb64a9b7bf0e4dbf970b.json"
-        }
-      ],
-      "path": "articles/3bafa84855cf765211bd11a61b241f94.json"
     }
   ]
 }

@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-10-07T10:31:00.779Z",
-  "total": 27,
+  "updated_at": "2026-10-07T10:45:40.268Z",
+  "total": 26,
   "entities": [
+    {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 31
+    },
     {
       "id": "crypto",
       "name": "Crypto",
@@ -10,20 +19,11 @@
       "count": 31
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 26
     },
     {
       "id": "ai",
@@ -49,18 +49,18 @@
       "count": 8
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 7
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
+      "icon": "",
+      "count": 7
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
       "icon": "",
       "count": 6
     },
@@ -81,6 +81,13 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 4
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "defi",
@@ -153,22 +160,6 @@
       "count": 2
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 2
-    },
-    {
       "id": "spacex",
       "symbol": "SPACEX",
       "name": "SpaceX",
@@ -221,12 +212,12 @@
       "count": 1
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 1
     }
   ]

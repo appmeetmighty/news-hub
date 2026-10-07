@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-10-07T10:31:00.762Z",
+  "updated_at": "2026-10-07T10:45:40.262Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 6,
+  "total": 7,
   "articles": [
+    {
+      "id": "9872a89d6e26ab41ca7b8375b229b4d5",
+      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+      "description": "Bitcoin fell below $84,000 as oil climbed on Iranian tanker attacks, while smaller tokens fell harder and liquidations rose to $547 million.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?auto=format&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-07T10:35:09.000Z",
+      "related": [
+        {
+          "id": "c36e33e343ece3c146dfc81cf285111a",
+          "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T04:00:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c36e33e343ece3c146dfc81cf285111a.json"
+        },
+        {
+          "id": "9e7acce0480f41f3f9f896f38e9fdba9",
+          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-05T18:12:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
+        },
+        {
+          "id": "3b06b7c607f51be10ae0aa040d1fe364",
+          "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AW745VDSWX1CKPHGAJA9VF/big-wave-bitcoin-market-fall.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T09:45:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3b06b7c607f51be10ae0aa040d1fe364.json"
+        },
+        {
+          "id": "b61d7b0be1612bc8fb0f6255305377d5",
+          "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb0bf014fcfb96a3b856413652b97154bb22a97e-720x406.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T08:53:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b61d7b0be1612bc8fb0f6255305377d5.json"
+        },
+        {
+          "id": "094461d801e8b7d5670ee3cb6c6b757c",
+          "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe1918fb1883c9e13bc09a466b6176ca4c263d96-1544x830.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T05:58:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/094461d801e8b7d5670ee3cb6c6b757c.json"
+        }
+      ],
+      "path": "articles/9872a89d6e26ab41ca7b8375b229b4d5.json"
+    },
     {
       "id": "9b3a1865a4c1d73f0f72d261ee67ef4f",
       "title": "Treasury yields rise as oil moves higher, traders await key U.S. bond sale",
@@ -82,6 +206,22 @@
           "path": "articles/61d2b2642e5d68560c2df6b364ea12aa.json"
         },
         {
+          "id": "9872a89d6e26ab41ca7b8375b229b4d5",
+          "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T10:35:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9872a89d6e26ab41ca7b8375b229b4d5.json"
+        },
+        {
           "id": "c36e33e343ece3c146dfc81cf285111a",
           "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -96,22 +236,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c36e33e343ece3c146dfc81cf285111a.json"
-        },
-        {
-          "id": "9e7acce0480f41f3f9f896f38e9fdba9",
-          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T18:12:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
         }
       ],
       "path": "articles/9b3a1865a4c1d73f0f72d261ee67ef4f.json"
@@ -192,6 +316,22 @@
           "path": "articles/61d2b2642e5d68560c2df6b364ea12aa.json"
         },
         {
+          "id": "9872a89d6e26ab41ca7b8375b229b4d5",
+          "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T10:35:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9872a89d6e26ab41ca7b8375b229b4d5.json"
+        },
+        {
           "id": "c36e33e343ece3c146dfc81cf285111a",
           "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -206,22 +346,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c36e33e343ece3c146dfc81cf285111a.json"
-        },
-        {
-          "id": "9e7acce0480f41f3f9f896f38e9fdba9",
-          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T18:12:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
         }
       ],
       "path": "articles/1a7d03bda6e4c6d3ca12cf10cce3e6ff.json"
@@ -261,6 +385,22 @@
       ],
       "published_at": "2026-10-07T04:00:51.000Z",
       "related": [
+        {
+          "id": "9872a89d6e26ab41ca7b8375b229b4d5",
+          "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T10:35:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9872a89d6e26ab41ca7b8375b229b4d5.json"
+        },
         {
           "id": "9e7acce0480f41f3f9f896f38e9fdba9",
           "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
@@ -324,22 +464,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/fdfb2278b4dd8e0519d249aeaa4d469e.json"
-        },
-        {
-          "id": "51fe23fbc53dbc4e1132c88ccecdc30a",
-          "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc857c26f73e7849fcc8ed499b6cb2da42e56d39-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-06T10:35:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/51fe23fbc53dbc4e1132c88ccecdc30a.json"
         }
       ],
       "path": "articles/c36e33e343ece3c146dfc81cf285111a.json"
@@ -420,6 +544,22 @@
           "path": "articles/61d2b2642e5d68560c2df6b364ea12aa.json"
         },
         {
+          "id": "9872a89d6e26ab41ca7b8375b229b4d5",
+          "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T10:35:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9872a89d6e26ab41ca7b8375b229b4d5.json"
+        },
+        {
           "id": "c36e33e343ece3c146dfc81cf285111a",
           "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -434,22 +574,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c36e33e343ece3c146dfc81cf285111a.json"
-        },
-        {
-          "id": "9e7acce0480f41f3f9f896f38e9fdba9",
-          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T18:12:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
         }
       ],
       "path": "articles/8d0eb4f1de0d20ff4f8d32573d660ee0.json"
@@ -546,20 +670,20 @@
           "path": "articles/8d0eb4f1de0d20ff4f8d32573d660ee0.json"
         },
         {
-          "id": "9e7acce0480f41f3f9f896f38e9fdba9",
-          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+          "id": "9872a89d6e26ab41ca7b8375b229b4d5",
+          "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?auto=format&q=75",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-05T18:12:28.000Z",
+          "published_at": "2026-10-07T10:35:09.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
+          "path": "articles/9872a89d6e26ab41ca7b8375b229b4d5.json"
         }
       ],
       "path": "articles/61d2b2642e5d68560c2df6b364ea12aa.json"
@@ -662,6 +786,22 @@
           "path": "articles/c36e33e343ece3c146dfc81cf285111a.json"
         },
         {
+          "id": "9872a89d6e26ab41ca7b8375b229b4d5",
+          "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?auto=format&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T10:35:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9872a89d6e26ab41ca7b8375b229b4d5.json"
+        },
+        {
           "id": "a089655c08c687b485f62637e99c5ce1",
           "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch ",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ABH5KJ122D9KH3B20EG167/prediction-market-2.jpg",
@@ -692,22 +832,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/5cf109cfb129bcfaea9d934c2fa92059.json"
-        },
-        {
-          "id": "dfbfa99a2027f3655df70bd5a1c37f27",
-          "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-hardware-wallets-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T09:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/dfbfa99a2027f3655df70bd5a1c37f27.json"
         }
       ],
       "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"

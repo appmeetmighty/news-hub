@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07T04:01:09.465Z",
+  "updated_at": "2026-10-07T04:15:43.789Z",
   "articles": {
-    "generated_at": "2026-10-07T04:01:09.464Z",
+    "generated_at": "2026-10-07T04:15:43.789Z",
     "topics": [
       {
         "id": "crypto",
@@ -306,8 +306,22 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 23,
+        "count": 22,
         "articles": [
+          {
+            "id": "c36e33e343ece3c146dfc81cf285111a",
+            "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-07T04:00:51.000Z",
+            "path": "articles/c36e33e343ece3c146dfc81cf285111a.json"
+          },
           {
             "id": "3df09d2c219ce854e57610474a4b7721",
             "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
@@ -433,20 +447,6 @@
             "category": "crypto",
             "published_at": "2026-10-06T09:59:12.000Z",
             "path": "articles/a56eb89267198444af28a9a22ad5224e.json"
-          },
-          {
-            "id": "71cf444a26800d35c5a7d5c4dcbd5306",
-            "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/c69a265f31846f161fff5cce9c863ae358a6c589-1600x1060.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-06T08:27:43.000Z",
-            "path": "articles/71cf444a26800d35c5a7d5c4dcbd5306.json"
           }
         ]
       },
@@ -963,6 +963,85 @@
         ]
       },
       {
+        "id": "oil",
+        "name": "Oil",
+        "type": "commodity",
+        "icon": "",
+        "count": 5,
+        "articles": [
+          {
+            "id": "c36e33e343ece3c146dfc81cf285111a",
+            "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-07T04:00:51.000Z",
+            "path": "articles/c36e33e343ece3c146dfc81cf285111a.json"
+          },
+          {
+            "id": "c95f9cabaf433dcfdd0b8bef4c20eab3",
+            "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+            "image": "https://image.cnbcfm.com/api/v1/image/108359880-1788886357349-gettyimages-2293680927-AA_08092026_2943632.jpeg?v=1788886580&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-07T02:09:50.000Z",
+            "path": "articles/c95f9cabaf433dcfdd0b8bef4c20eab3.json"
+          },
+          {
+            "id": "8d0eb4f1de0d20ff4f8d32573d660ee0",
+            "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+            "image": "https://image.cnbcfm.com/api/v1/image/108370319-1791325984516-108370319-1790781020673-Traders-Photo-20260929-KK-PRESS-004.jpg?v=1791326037&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-06T22:23:01.000Z",
+            "path": "articles/8d0eb4f1de0d20ff4f8d32573d660ee0.json"
+          },
+          {
+            "id": "61d2b2642e5d68560c2df6b364ea12aa",
+            "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+            "image": "https://image.cnbcfm.com/api/v1/image/108304701-1778409617168-gettyimages-2273981240-AFP_A9RN2PU.jpeg?v=1791292510&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-06T16:19:10.000Z",
+            "path": "articles/61d2b2642e5d68560c2df6b364ea12aa.json"
+          },
+          {
+            "id": "9e7acce0480f41f3f9f896f38e9fdba9",
+            "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-05T18:12:28.000Z",
+            "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
+          }
+        ]
+      },
+      {
         "id": "xrp",
         "name": "XRP",
         "type": "crypto",
@@ -1117,71 +1196,6 @@
             "category": "crypto",
             "published_at": "2026-10-05T21:48:03.000Z",
             "path": "articles/46f022de06b56c5c178aff7b526a5050.json"
-          }
-        ]
-      },
-      {
-        "id": "oil",
-        "name": "Oil",
-        "type": "commodity",
-        "icon": "",
-        "count": 4,
-        "articles": [
-          {
-            "id": "c95f9cabaf433dcfdd0b8bef4c20eab3",
-            "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-            "image": "https://image.cnbcfm.com/api/v1/image/108359880-1788886357349-gettyimages-2293680927-AA_08092026_2943632.jpeg?v=1788886580&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-07T02:09:50.000Z",
-            "path": "articles/c95f9cabaf433dcfdd0b8bef4c20eab3.json"
-          },
-          {
-            "id": "8d0eb4f1de0d20ff4f8d32573d660ee0",
-            "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-            "image": "https://image.cnbcfm.com/api/v1/image/108370319-1791325984516-108370319-1790781020673-Traders-Photo-20260929-KK-PRESS-004.jpg?v=1791326037&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-06T22:23:01.000Z",
-            "path": "articles/8d0eb4f1de0d20ff4f8d32573d660ee0.json"
-          },
-          {
-            "id": "61d2b2642e5d68560c2df6b364ea12aa",
-            "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-            "image": "https://image.cnbcfm.com/api/v1/image/108304701-1778409617168-gettyimages-2273981240-AFP_A9RN2PU.jpeg?v=1791292510&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-06T16:19:10.000Z",
-            "path": "articles/61d2b2642e5d68560c2df6b364ea12aa.json"
-          },
-          {
-            "id": "9e7acce0480f41f3f9f896f38e9fdba9",
-            "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-05T18:12:28.000Z",
-            "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
           }
         ]
       },

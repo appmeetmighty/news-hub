@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-07T21:15:41.258Z",
+  "updated_at": "2026-10-07T21:30:58.945Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "c4c60b8c459c67d68546ae9f266b8b98",
@@ -44,7 +44,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-10-07T21:08:32.000Z",
+      "published_at": "2026-10-07T21:16:24.000Z",
       "related": [
         {
           "id": "c997d6cad420595e49e54cf28e602f35",
@@ -111,9 +111,9 @@
           "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
         },
         {
-          "id": "11e32dacd14ec30b14cde6a678b4e522",
-          "title": "Lululemon poaches Athleta CEO as new chief product officer",
-          "image": "https://image.cnbcfm.com/api/v1/image/108335663-1784152010295-gettyimages-2285645602-RETAIL_SALES.jpeg?v=1791300296&w=1920&h=1080",
+          "id": "f72a670f31951721781189c4b935a208",
+          "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364429-1789658380560-gettyimages-2295761542-mms10061_tiwtupzm.jpeg?v=1789658521&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -121,13 +121,135 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T20:39:39.000Z",
+          "published_at": "2026-10-07T21:19:19.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/11e32dacd14ec30b14cde6a678b4e522.json"
+          "path": "articles/f72a670f31951721781189c4b935a208.json"
         }
       ],
       "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+    },
+    {
+      "id": "8650330713c70b7bf3be5506ecb22339",
+      "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+      "description": "Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-07T21:16:03.000Z",
+      "related": [
+        {
+          "id": "bee529a5322992c0570a1f21100b7a1b",
+          "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T14:55:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bee529a5322992c0570a1f21100b7a1b.json"
+        },
+        {
+          "id": "db9248d2b543e1665374e1c0a7c61b9d",
+          "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/abstract-launch-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T20:28:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/db9248d2b543e1665374e1c0a7c61b9d.json"
+        },
+        {
+          "id": "9e7acce0480f41f3f9f896f38e9fdba9",
+          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-05T18:12:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
+        },
+        {
+          "id": "e909e9374903ca6bcdda85b799bfac4d",
+          "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/df68f8a318b4b310a3b959798255cd19595fde3d-889x500.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T04:31:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e909e9374903ca6bcdda85b799bfac4d.json"
+        },
+        {
+          "id": "4b5e8725cc69d8fb47ce56ed626c1410",
+          "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T16:38:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4b5e8725cc69d8fb47ce56ed626c1410.json"
+        }
+      ],
+      "path": "articles/8650330713c70b7bf3be5506ecb22339.json"
     },
     {
       "id": "89d06ef1808316cdcb2af0e4cb40e477",
@@ -197,10 +319,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T21:08:32.000Z",
+          "published_at": "2026-10-07T21:16:24.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+        },
+        {
+          "id": "f72a670f31951721781189c4b935a208",
+          "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364429-1789658380560-gettyimages-2295761542-mms10061_tiwtupzm.jpeg?v=1789658521&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T21:19:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f72a670f31951721781189c4b935a208.json"
         },
         {
           "id": "11e32dacd14ec30b14cde6a678b4e522",
@@ -233,22 +371,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/74bcb604c8a769794e43e20c56eb6896.json"
-        },
-        {
-          "id": "f72a670f31951721781189c4b935a208",
-          "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364429-1789658380560-gettyimages-2295761542-mms10061_tiwtupzm.jpeg?v=1789658521&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T20:26:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f72a670f31951721781189c4b935a208.json"
         }
       ],
       "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
@@ -305,7 +427,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T21:08:32.000Z",
+          "published_at": "2026-10-07T21:16:24.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
@@ -419,6 +541,22 @@
           "path": "articles/84ce821c38796364b8b9c1dcb569f99e.json"
         },
         {
+          "id": "8650330713c70b7bf3be5506ecb22339",
+          "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8650330713c70b7bf3be5506ecb22339.json"
+        },
+        {
           "id": "9e356292b144ab1ad6ee4b4517d99fc2",
           "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
@@ -465,22 +603,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a04d7e7b6d6fd6960caa025a08050007.json"
-        },
-        {
-          "id": "bfb365c48081d53aaee272c046e6911d",
-          "title": "Google Lets You Build a Video Game by Typing a Description",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T18:08:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bfb365c48081d53aaee272c046e6911d.json"
         }
       ],
       "path": "articles/7860af36e7aa1126701dbfe7564ae5b5.json"
@@ -551,6 +673,22 @@
           "path": "articles/6ee78b698ce27020b2d16613f42873cf.json"
         },
         {
+          "id": "8650330713c70b7bf3be5506ecb22339",
+          "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8650330713c70b7bf3be5506ecb22339.json"
+        },
+        {
           "id": "9e356292b144ab1ad6ee4b4517d99fc2",
           "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
@@ -581,22 +719,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/a4a239d8aefe1d0549e140895eddec26.json"
-        },
-        {
-          "id": "a04d7e7b6d6fd6960caa025a08050007",
-          "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/hs-paolo-ardonio-tether-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T19:46:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a04d7e7b6d6fd6960caa025a08050007.json"
         }
       ],
       "path": "articles/bfb365c48081d53aaee272c046e6911d.json"
@@ -781,6 +903,22 @@
           "path": "articles/d5e81525716b35e18a74583928c85718.json"
         },
         {
+          "id": "f72a670f31951721781189c4b935a208",
+          "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364429-1789658380560-gettyimages-2295761542-mms10061_tiwtupzm.jpeg?v=1789658521&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T21:19:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f72a670f31951721781189c4b935a208.json"
+        },
+        {
           "id": "c4c60b8c459c67d68546ae9f266b8b98",
           "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
           "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
@@ -791,7 +929,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T21:08:32.000Z",
+          "published_at": "2026-10-07T21:16:24.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
@@ -811,22 +949,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/11e32dacd14ec30b14cde6a678b4e522.json"
-        },
-        {
-          "id": "74bcb604c8a769794e43e20c56eb6896",
-          "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-          "image": "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T20:33:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/74bcb604c8a769794e43e20c56eb6896.json"
         }
       ],
       "path": "articles/35eab2c1c10ad62176f01f8b0d8e6f6a.json"
@@ -897,6 +1019,22 @@
           "path": "articles/567b9edd01f6fa4e3baaba360a6a66ac.json"
         },
         {
+          "id": "f72a670f31951721781189c4b935a208",
+          "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364429-1789658380560-gettyimages-2295761542-mms10061_tiwtupzm.jpeg?v=1789658521&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T21:19:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f72a670f31951721781189c4b935a208.json"
+        },
+        {
           "id": "c4c60b8c459c67d68546ae9f266b8b98",
           "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
           "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
@@ -907,7 +1045,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T21:08:32.000Z",
+          "published_at": "2026-10-07T21:16:24.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
@@ -927,22 +1065,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/11e32dacd14ec30b14cde6a678b4e522.json"
-        },
-        {
-          "id": "74bcb604c8a769794e43e20c56eb6896",
-          "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-          "image": "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T20:33:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/74bcb604c8a769794e43e20c56eb6896.json"
         }
       ],
       "path": "articles/6ee78b698ce27020b2d16613f42873cf.json"
@@ -1141,6 +1263,22 @@
           "path": "articles/84ce821c38796364b8b9c1dcb569f99e.json"
         },
         {
+          "id": "8650330713c70b7bf3be5506ecb22339",
+          "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8650330713c70b7bf3be5506ecb22339.json"
+        },
+        {
           "id": "a4a239d8aefe1d0549e140895eddec26",
           "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png@png",
@@ -1171,22 +1309,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a04d7e7b6d6fd6960caa025a08050007.json"
-        },
-        {
-          "id": "7860af36e7aa1126701dbfe7564ae5b5",
-          "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T19:10:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/7860af36e7aa1126701dbfe7564ae5b5.json"
         }
       ],
       "path": "articles/cd2531e7780c2460e5a1813a453720b4.json"

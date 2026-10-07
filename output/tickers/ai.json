@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-10-07T18:30:58.479Z",
+  "updated_at": "2026-10-07T18:45:43.137Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 9,
   "articles": [
+    {
+      "id": "89d06ef1808316cdcb2af0e4cb40e477",
+      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+      "description": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-07T18:34:31.000Z",
+      "related": [
+        {
+          "id": "c4c60b8c459c67d68546ae9f266b8b98",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T16:32:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+        },
+        {
+          "id": "b58072cb9562c36abb4a473c4606288e",
+          "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363920-1789584172531-gettyimages-2295044570-WARSH_FOMC.jpeg?v=1789584195&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T18:42:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b58072cb9562c36abb4a473c4606288e.json"
+        },
+        {
+          "id": "49fdd0078a2c65610afe743f7e2bd146",
+          "title": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374253-1791394167686-gettyimages-2298462558-AFP_D2JK6CJ.jpeg?v=1791394189&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T18:38:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/49fdd0078a2c65610afe743f7e2bd146.json"
+        },
+        {
+          "id": "74bcb604c8a769794e43e20c56eb6896",
+          "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T18:32:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/74bcb604c8a769794e43e20c56eb6896.json"
+        },
+        {
+          "id": "8e49d1a529e2ef92e78d687259ba6bd7",
+          "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
+          "image": "https://image.cnbcfm.com/api/v1/image/108104289-17399715182025-02-18t160441z_1704028396_rc2uwcacnx1r_rtrmadp_0_usa-trump-tariffs-mexico.jpeg?v=1739971599&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T18:28:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8e49d1a529e2ef92e78d687259ba6bd7.json"
+        }
+      ],
+      "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
+    },
     {
       "id": "bfb365c48081d53aaee272c046e6911d",
       "title": "Google Lets You Build a Video Game by Typing a Description",
@@ -301,9 +425,9 @@
           "path": "articles/d5e81525716b35e18a74583928c85718.json"
         },
         {
-          "id": "8e49d1a529e2ef92e78d687259ba6bd7",
-          "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
-          "image": "https://image.cnbcfm.com/api/v1/image/108104289-17399715182025-02-18t160441z_1704028396_rc2uwcacnx1r_rtrmadp_0_usa-trump-tariffs-mexico.jpeg?v=1739971599&w=1920&h=1080",
+          "id": "b58072cb9562c36abb4a473c4606288e",
+          "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363920-1789584172531-gettyimages-2295044570-WARSH_FOMC.jpeg?v=1789584195&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -311,15 +435,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:28:27.000Z",
+          "published_at": "2026-10-07T18:42:36.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8e49d1a529e2ef92e78d687259ba6bd7.json"
+          "path": "articles/b58072cb9562c36abb4a473c4606288e.json"
         },
         {
-          "id": "b4d5c063a9bbaa531ae37ad1af2f855b",
-          "title": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
-          "image": "https://image.cnbcfm.com/api/v1/image/108362037-1789154887112-gettyimages-2294761951-jr_15582_qgkfm4fo.jpeg?v=1789155120&w=1920&h=1080",
+          "id": "49fdd0078a2c65610afe743f7e2bd146",
+          "title": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374253-1791394167686-gettyimages-2298462558-AFP_D2JK6CJ.jpeg?v=1791394189&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -327,15 +451,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:24:12.000Z",
+          "published_at": "2026-10-07T18:38:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b4d5c063a9bbaa531ae37ad1af2f855b.json"
+          "path": "articles/49fdd0078a2c65610afe743f7e2bd146.json"
         },
         {
-          "id": "22c6f0fec9e1f0041d43f9f479f3823a",
-          "title": "Here comes third-quarter earnings season. Booming profits could propel the S&P 500 to new heights",
-          "image": "https://image.cnbcfm.com/api/v1/image/108370320-1790781020673-Traders-Photo-20260929-KK-PRESS-006.jpg?v=1790781195&w=1920&h=1080",
+          "id": "89d06ef1808316cdcb2af0e4cb40e477",
+          "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -343,10 +467,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:19:53.000Z",
+          "published_at": "2026-10-07T18:34:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/22c6f0fec9e1f0041d43f9f479f3823a.json"
+          "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
         }
       ],
       "path": "articles/35eab2c1c10ad62176f01f8b0d8e6f6a.json"
@@ -417,9 +541,9 @@
           "path": "articles/567b9edd01f6fa4e3baaba360a6a66ac.json"
         },
         {
-          "id": "8e49d1a529e2ef92e78d687259ba6bd7",
-          "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
-          "image": "https://image.cnbcfm.com/api/v1/image/108104289-17399715182025-02-18t160441z_1704028396_rc2uwcacnx1r_rtrmadp_0_usa-trump-tariffs-mexico.jpeg?v=1739971599&w=1920&h=1080",
+          "id": "b58072cb9562c36abb4a473c4606288e",
+          "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363920-1789584172531-gettyimages-2295044570-WARSH_FOMC.jpeg?v=1789584195&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -427,15 +551,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:28:27.000Z",
+          "published_at": "2026-10-07T18:42:36.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8e49d1a529e2ef92e78d687259ba6bd7.json"
+          "path": "articles/b58072cb9562c36abb4a473c4606288e.json"
         },
         {
-          "id": "b4d5c063a9bbaa531ae37ad1af2f855b",
-          "title": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
-          "image": "https://image.cnbcfm.com/api/v1/image/108362037-1789154887112-gettyimages-2294761951-jr_15582_qgkfm4fo.jpeg?v=1789155120&w=1920&h=1080",
+          "id": "49fdd0078a2c65610afe743f7e2bd146",
+          "title": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374253-1791394167686-gettyimages-2298462558-AFP_D2JK6CJ.jpeg?v=1791394189&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -443,15 +567,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:24:12.000Z",
+          "published_at": "2026-10-07T18:38:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b4d5c063a9bbaa531ae37ad1af2f855b.json"
+          "path": "articles/49fdd0078a2c65610afe743f7e2bd146.json"
         },
         {
-          "id": "22c6f0fec9e1f0041d43f9f479f3823a",
-          "title": "Here comes third-quarter earnings season. Booming profits could propel the S&P 500 to new heights",
-          "image": "https://image.cnbcfm.com/api/v1/image/108370320-1790781020673-Traders-Photo-20260929-KK-PRESS-006.jpg?v=1790781195&w=1920&h=1080",
+          "id": "89d06ef1808316cdcb2af0e4cb40e477",
+          "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -459,10 +583,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:19:53.000Z",
+          "published_at": "2026-10-07T18:34:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/22c6f0fec9e1f0041d43f9f479f3823a.json"
+          "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
         }
       ],
       "path": "articles/6ee78b698ce27020b2d16613f42873cf.json"
@@ -509,6 +633,22 @@
       "published_at": "2026-10-07T16:32:30.000Z",
       "related": [
         {
+          "id": "89d06ef1808316cdcb2af0e4cb40e477",
+          "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T18:34:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
+        },
+        {
           "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
           "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
           "image": "",
@@ -525,9 +665,9 @@
           "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
         },
         {
-          "id": "8e49d1a529e2ef92e78d687259ba6bd7",
-          "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
-          "image": "https://image.cnbcfm.com/api/v1/image/108104289-17399715182025-02-18t160441z_1704028396_rc2uwcacnx1r_rtrmadp_0_usa-trump-tariffs-mexico.jpeg?v=1739971599&w=1920&h=1080",
+          "id": "b58072cb9562c36abb4a473c4606288e",
+          "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363920-1789584172531-gettyimages-2295044570-WARSH_FOMC.jpeg?v=1789584195&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -535,15 +675,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:28:27.000Z",
+          "published_at": "2026-10-07T18:42:36.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8e49d1a529e2ef92e78d687259ba6bd7.json"
+          "path": "articles/b58072cb9562c36abb4a473c4606288e.json"
         },
         {
-          "id": "b4d5c063a9bbaa531ae37ad1af2f855b",
-          "title": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
-          "image": "https://image.cnbcfm.com/api/v1/image/108362037-1789154887112-gettyimages-2294761951-jr_15582_qgkfm4fo.jpeg?v=1789155120&w=1920&h=1080",
+          "id": "49fdd0078a2c65610afe743f7e2bd146",
+          "title": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374253-1791394167686-gettyimages-2298462558-AFP_D2JK6CJ.jpeg?v=1791394189&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -551,15 +691,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:24:12.000Z",
+          "published_at": "2026-10-07T18:38:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b4d5c063a9bbaa531ae37ad1af2f855b.json"
+          "path": "articles/49fdd0078a2c65610afe743f7e2bd146.json"
         },
         {
-          "id": "22c6f0fec9e1f0041d43f9f479f3823a",
-          "title": "Here comes third-quarter earnings season. Booming profits could propel the S&P 500 to new heights",
-          "image": "https://image.cnbcfm.com/api/v1/image/108370320-1790781020673-Traders-Photo-20260929-KK-PRESS-006.jpg?v=1790781195&w=1920&h=1080",
+          "id": "74bcb604c8a769794e43e20c56eb6896",
+          "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -567,26 +707,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:19:53.000Z",
+          "published_at": "2026-10-07T18:32:55.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/22c6f0fec9e1f0041d43f9f479f3823a.json"
-        },
-        {
-          "id": "c95f9cabaf433dcfdd0b8bef4c20eab3",
-          "title": "Oil prices fall as IEA members agree to prioritize release of diesel stocks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359880-1788886357349-gettyimages-2293680927-AA_08092026_2943632.jpeg?v=1788886580&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T18:18:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c95f9cabaf433dcfdd0b8bef4c20eab3.json"
+          "path": "articles/74bcb604c8a769794e43e20c56eb6896.json"
         }
       ],
       "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
@@ -712,114 +836,6 @@
       "path": "articles/534cd5f6494b51f2290442da3d53cd5c.json"
     },
     {
-      "id": "40303a140fe24ce2cf3f0b902a30c0d7",
-      "title": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
-      "description": "Unwinding of the artificial intelligence trade poses the biggest risk to markets, according to Singapore state-owned investment giant Temasek.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108331908-1783498813895-gettyimages-1522314618-SINGAPORE_TEMASEK.jpeg?v=1783498872&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-07T05:25:29.000Z",
-      "related": [
-        {
-          "id": "b4d5c063a9bbaa531ae37ad1af2f855b",
-          "title": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
-          "image": "https://image.cnbcfm.com/api/v1/image/108362037-1789154887112-gettyimages-2294761951-jr_15582_qgkfm4fo.jpeg?v=1789155120&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T18:24:12.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b4d5c063a9bbaa531ae37ad1af2f855b.json"
-        },
-        {
-          "id": "7458b69c70774461aaf4678cd15a2cda",
-          "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18% ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373977-1791377484586-gettyimages-1231989873-BC_ChineseFlag2021_4322.jpeg?v=1791377538&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T13:46:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7458b69c70774461aaf4678cd15a2cda.json"
-        },
-        {
-          "id": "1e2380e17ee37e55c08a45ccb01e1590",
-          "title": "France is caught between angry students and unforgiving bond markets",
-          "image": "https://image.cnbcfm.com/api/v1/image/108210403-1760076268432-gettyimages-2239147271-AFP_77U3372.jpeg?v=1760076286&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T13:23:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1e2380e17ee37e55c08a45ccb01e1590.json"
-        },
-        {
-          "id": "1a7d03bda6e4c6d3ca12cf10cce3e6ff",
-          "title": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373938-1791375909497-gettyimages-2291635421-AFP_C6KY7DL.jpeg?v=1791375927&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T12:25:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1a7d03bda6e4c6d3ca12cf10cce3e6ff.json"
-        },
-        {
-          "id": "8e49d1a529e2ef92e78d687259ba6bd7",
-          "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
-          "image": "https://image.cnbcfm.com/api/v1/image/108104289-17399715182025-02-18t160441z_1704028396_rc2uwcacnx1r_rtrmadp_0_usa-trump-tariffs-mexico.jpeg?v=1739971599&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T18:28:27.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8e49d1a529e2ef92e78d687259ba6bd7.json"
-        }
-      ],
-      "path": "articles/40303a140fe24ce2cf3f0b902a30c0d7.json"
-    },
-    {
       "id": "d9d62fc4be4b818961974b985c5005e4",
       "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next\n",
       "description": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher.",
@@ -883,9 +899,9 @@
           "path": "articles/012b7acbb0292d2796a6215004916306.json"
         },
         {
-          "id": "8e49d1a529e2ef92e78d687259ba6bd7",
-          "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
-          "image": "https://image.cnbcfm.com/api/v1/image/108104289-17399715182025-02-18t160441z_1704028396_rc2uwcacnx1r_rtrmadp_0_usa-trump-tariffs-mexico.jpeg?v=1739971599&w=1920&h=1080",
+          "id": "b58072cb9562c36abb4a473c4606288e",
+          "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363920-1789584172531-gettyimages-2295044570-WARSH_FOMC.jpeg?v=1789584195&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -893,15 +909,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:28:27.000Z",
+          "published_at": "2026-10-07T18:42:36.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8e49d1a529e2ef92e78d687259ba6bd7.json"
+          "path": "articles/b58072cb9562c36abb4a473c4606288e.json"
         },
         {
-          "id": "b4d5c063a9bbaa531ae37ad1af2f855b",
-          "title": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
-          "image": "https://image.cnbcfm.com/api/v1/image/108362037-1789154887112-gettyimages-2294761951-jr_15582_qgkfm4fo.jpeg?v=1789155120&w=1920&h=1080",
+          "id": "49fdd0078a2c65610afe743f7e2bd146",
+          "title": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374253-1791394167686-gettyimages-2298462558-AFP_D2JK6CJ.jpeg?v=1791394189&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -909,15 +925,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:24:12.000Z",
+          "published_at": "2026-10-07T18:38:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b4d5c063a9bbaa531ae37ad1af2f855b.json"
+          "path": "articles/49fdd0078a2c65610afe743f7e2bd146.json"
         },
         {
-          "id": "c95f9cabaf433dcfdd0b8bef4c20eab3",
-          "title": "Oil prices fall as IEA members agree to prioritize release of diesel stocks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359880-1788886357349-gettyimages-2293680927-AA_08092026_2943632.jpeg?v=1788886580&w=1920&h=1080",
+          "id": "89d06ef1808316cdcb2af0e4cb40e477",
+          "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -925,10 +941,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T18:18:47.000Z",
+          "published_at": "2026-10-07T18:34:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/c95f9cabaf433dcfdd0b8bef4c20eab3.json"
+          "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
         }
       ],
       "path": "articles/d9d62fc4be4b818961974b985c5005e4.json"

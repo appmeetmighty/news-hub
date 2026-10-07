@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07T18:30:58.510Z",
+  "updated_at": "2026-10-07T18:45:43.151Z",
   "articles": {
-    "generated_at": "2026-10-07T18:30:58.510Z",
+    "generated_at": "2026-10-07T18:45:43.151Z",
     "topics": [
       {
         "id": "btc",
@@ -458,6 +458,20 @@
         "count": 9,
         "articles": [
           {
+            "id": "89d06ef1808316cdcb2af0e4cb40e477",
+            "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+            "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-07T18:34:31.000Z",
+            "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
+          },
+          {
             "id": "bfb365c48081d53aaee272c046e6911d",
             "title": "Google Lets You Build a Video Game by Typing a Description",
             "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
@@ -540,20 +554,6 @@
             "category": "crypto",
             "published_at": "2026-10-07T15:03:54.000Z",
             "path": "articles/534cd5f6494b51f2290442da3d53cd5c.json"
-          },
-          {
-            "id": "40303a140fe24ce2cf3f0b902a30c0d7",
-            "title": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
-            "image": "https://image.cnbcfm.com/api/v1/image/108331908-1783498813895-gettyimages-1522314618-SINGAPORE_TEMASEK.jpeg?v=1783498872&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-07T05:25:29.000Z",
-            "path": "articles/40303a140fe24ce2cf3f0b902a30c0d7.json"
           },
           {
             "id": "d9d62fc4be4b818961974b985c5005e4",
@@ -1432,6 +1432,43 @@
         ]
       },
       {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "89d06ef1808316cdcb2af0e4cb40e477",
+            "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+            "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-07T18:34:31.000Z",
+            "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
+          },
+          {
+            "id": "c4c60b8c459c67d68546ae9f266b8b98",
+            "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+            "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-07T16:32:30.000Z",
+            "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+          }
+        ]
+      },
+      {
         "id": "bnb",
         "name": "BNB",
         "type": "crypto",
@@ -1654,16 +1691,16 @@
         ]
       },
       {
-        "id": "nvda",
-        "name": "NVIDIA",
+        "id": "msft",
+        "name": "Microsoft",
         "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
+        "icon": "https://logo.clearbit.com/microsoft.com",
         "count": 1,
         "articles": [
           {
-            "id": "c4c60b8c459c67d68546ae9f266b8b98",
-            "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
-            "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+            "id": "89d06ef1808316cdcb2af0e4cb40e477",
+            "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+            "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
             "source": {
               "id": "cnbc",
               "name": "CNBC",
@@ -1671,8 +1708,8 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-10-07T16:32:30.000Z",
-            "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+            "published_at": "2026-10-07T18:34:31.000Z",
+            "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
           }
         ]
       },
@@ -1696,29 +1733,6 @@
             "category": "crypto",
             "published_at": "2026-10-07T13:07:40.000Z",
             "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-          }
-        ]
-      },
-      {
-        "id": "gs",
-        "name": "Goldman Sachs",
-        "type": "company",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "4bdff99dad1ab9874a9a594d8ebaa516",
-            "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-            "image": "https://image.cnbcfm.com/api/v1/image/108373925-1791374076652-gettyimages-2298413594-AFP_D2FY7DW.jpeg?v=1791374109&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-07T11:55:36.000Z",
-            "path": "articles/4bdff99dad1ab9874a9a594d8ebaa516.json"
           }
         ]
       },

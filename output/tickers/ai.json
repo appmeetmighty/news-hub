@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-08T06:45:43.844Z",
+  "updated_at": "2026-10-08T07:01:11.990Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 14,
+  "total": 15,
   "articles": [
     {
       "id": "bd9a67b3949924967d2f6ee5291fde8e",
@@ -36,7 +36,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-10-08T06:32:57.000Z",
+      "published_at": "2026-10-08T06:59:59.000Z",
       "related": [
         {
           "id": "d5e81525716b35e18a74583928c85718",
@@ -88,7 +88,7 @@
         },
         {
           "id": "b0b0df21261a3d7cd7d6baf6c9987837",
-          "title": "TSMC's September sales jump more than 50% year over year",
+          "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
           "image": "https://image.cnbcfm.com/api/v1/image/108373707-1791333068896-gettyimages-2296986094-logos.jpeg?v=1791333111&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -97,9 +97,9 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-08T06:31:37.000Z",
+          "published_at": "2026-10-08T06:50:42.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
+          "breaking_score": 20,
           "path": "articles/b0b0df21261a3d7cd7d6baf6c9987837.json"
         },
         {
@@ -120,6 +120,122 @@
         }
       ],
       "path": "articles/bd9a67b3949924967d2f6ee5291fde8e.json"
+    },
+    {
+      "id": "b0b0df21261a3d7cd7d6baf6c9987837",
+      "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
+      "description": "TSMC's September net revenue came in at 511.86 billion New Taiwan dollars",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108373707-1791333068896-gettyimages-2296986094-logos.jpeg?v=1791333111&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "tsm",
+          "symbol": "TSM",
+          "name": "TSMC",
+          "type": "company",
+          "path": "tickers/tsm.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-08T06:50:42.000Z",
+      "related": [
+        {
+          "id": "0fb4784906dd42d89444e8b8d0ad0238",
+          "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-08T00:51:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0fb4784906dd42d89444e8b8d0ad0238.json"
+        },
+        {
+          "id": "c068cba6064b5d387a744751dd553ad0",
+          "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370148-1790771590456-gettyimages-2290036369-golba-dailylif260807_npnf2.jpeg?v=1791404003&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T21:31:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c068cba6064b5d387a744751dd553ad0.json"
+        },
+        {
+          "id": "89d06ef1808316cdcb2af0e4cb40e477",
+          "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T20:26:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
+        },
+        {
+          "id": "c997d6cad420595e49e54cf28e602f35",
+          "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108238869-1765273146995-gettyimages-2250207687-NVIDIA_Chip.jpeg?v=1773959556&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T20:24:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c997d6cad420595e49e54cf28e602f35.json"
+        },
+        {
+          "id": "9b3a1865a4c1d73f0f72d261ee67ef4f",
+          "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363665-1789568651170-gettyimages-2295586459-mms19512_dnx4op25.jpeg?v=1789568741&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T20:09:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9b3a1865a4c1d73f0f72d261ee67ef4f.json"
+        }
+      ],
+      "path": "articles/b0b0df21261a3d7cd7d6baf6c9987837.json"
     },
     {
       "id": "0fb4784906dd42d89444e8b8d0ad0238",
@@ -146,6 +262,22 @@
       ],
       "published_at": "2026-10-08T00:51:23.000Z",
       "related": [
+        {
+          "id": "b0b0df21261a3d7cd7d6baf6c9987837",
+          "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373707-1791333068896-gettyimages-2296986094-logos.jpeg?v=1791333111&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-08T06:50:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/b0b0df21261a3d7cd7d6baf6c9987837.json"
+        },
         {
           "id": "c068cba6064b5d387a744751dd553ad0",
           "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
@@ -209,22 +341,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c997d6cad420595e49e54cf28e602f35.json"
-        },
-        {
-          "id": "9b3a1865a4c1d73f0f72d261ee67ef4f",
-          "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363665-1789568651170-gettyimages-2295586459-mms19512_dnx4op25.jpeg?v=1789568741&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-07T20:09:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9b3a1865a4c1d73f0f72d261ee67ef4f.json"
         }
       ],
       "path": "articles/0fb4784906dd42d89444e8b8d0ad0238.json"
@@ -451,7 +567,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-08T06:32:57.000Z",
+          "published_at": "2026-10-08T06:59:59.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bd9a67b3949924967d2f6ee5291fde8e.json"
@@ -911,6 +1027,22 @@
           "path": "articles/b0f2398869ac8b7becfc09987e0ea368.json"
         },
         {
+          "id": "b0b0df21261a3d7cd7d6baf6c9987837",
+          "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373707-1791333068896-gettyimages-2296986094-logos.jpeg?v=1791333111&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-08T06:50:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/b0b0df21261a3d7cd7d6baf6c9987837.json"
+        },
+        {
           "id": "0fb4784906dd42d89444e8b8d0ad0238",
           "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
           "image": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&w=1920&h=1080",
@@ -925,22 +1057,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0fb4784906dd42d89444e8b8d0ad0238.json"
-        },
-        {
-          "id": "bd9a67b3949924967d2f6ee5291fde8e",
-          "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-          "image": "https://image.cnbcfm.com/api/v1/image/108375190-1791437632622-gettyimages-2254446954-CHINA_MANUS.jpeg?v=1791437646&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-08T06:32:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bd9a67b3949924967d2f6ee5291fde8e.json"
         }
       ],
       "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"

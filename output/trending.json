@@ -1,15 +1,29 @@
 {
-  "updated_at": "2026-10-08T00:31:02.284Z",
+  "updated_at": "2026-10-08T00:45:38.642Z",
   "articles": {
-    "generated_at": "2026-10-08T00:31:02.284Z",
+    "generated_at": "2026-10-08T00:45:38.642Z",
     "topics": [
       {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 33,
+        "count": 34,
         "articles": [
+          {
+            "id": "17df080a2f790a8905e9c07e375cad5e",
+            "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/69ed00cb4ec4e063082ec14eff25a2ceaf999315-1500x901.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&w=1920&h=1080&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-08T00:35:24.000Z",
+            "path": "articles/17df080a2f790a8905e9c07e375cad5e.json"
+          },
           {
             "id": "0f95e2560b66877421a438ca558aee4a",
             "title": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months ",
@@ -135,20 +149,6 @@
             "category": "crypto",
             "published_at": "2026-10-07T15:13:15.000Z",
             "path": "articles/db64d26e5edd22591228274912e9b8e3.json"
-          },
-          {
-            "id": "534cd5f6494b51f2290442da3d53cd5c",
-            "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/4194d43220448d79587beee0fb55642b52881a6b-2352x1200.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-07T15:03:54.000Z",
-            "path": "articles/534cd5f6494b51f2290442da3d53cd5c.json"
           }
         ]
       },
@@ -157,7 +157,7 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 27,
+        "count": 26,
         "articles": [
           {
             "id": "78f7a83e386d3f9bd80908be49f28870",
@@ -1673,43 +1673,6 @@
         ]
       },
       {
-        "id": "meta",
-        "name": "Meta",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/meta.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "4650e543ba43e5278bf3df8351fdd3c8",
-            "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac4dbd7392625e4b7d80a9d014d051d307a4d10c-3681x2071.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-06T12:31:51.000Z",
-            "path": "articles/4650e543ba43e5278bf3df8351fdd3c8.json"
-          },
-          {
-            "id": "d5e81525716b35e18a74583928c85718",
-            "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-06T10:36:57.000Z",
-            "path": "articles/d5e81525716b35e18a74583928c85718.json"
-          }
-        ]
-      },
-      {
         "id": "sol",
         "name": "Solana",
         "type": "crypto",
@@ -1858,6 +1821,29 @@
             "category": "crypto",
             "published_at": "2026-10-07T09:57:19.000Z",
             "path": "articles/a0898673fb76e8a5b64230f630e012d7.json"
+          }
+        ]
+      },
+      {
+        "id": "meta",
+        "name": "Meta",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/meta.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "d5e81525716b35e18a74583928c85718",
+            "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-06T10:36:57.000Z",
+            "path": "articles/d5e81525716b35e18a74583928c85718.json"
           }
         ]
       },

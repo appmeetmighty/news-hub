@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T16:01:14.709Z",
+  "updated_at": "2026-10-08T16:15:45.959Z",
   "total": 31,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 42
+      "count": 41
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
+      "count": 25
     },
     {
       "id": "regulation",
@@ -56,6 +56,15 @@
       "count": 9
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -74,11 +83,9 @@
       "count": 4
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
       "icon": "",
       "count": 3
     },
@@ -150,13 +157,6 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 2
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
       "count": 2
     },
     {

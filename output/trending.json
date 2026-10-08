@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-08T13:15:43.381Z",
+  "updated_at": "2026-10-08T13:31:00.957Z",
   "articles": {
-    "generated_at": "2026-10-08T13:15:43.381Z",
+    "generated_at": "2026-10-08T13:31:00.957Z",
     "topics": [
       {
         "id": "crypto",
@@ -455,7 +455,7 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 19,
+        "count": 18,
         "articles": [
           {
             "id": "78ce6c1720e2c81edaa3d17280c0fdf6",
@@ -468,7 +468,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-10-08T13:02:03.000Z",
+            "published_at": "2026-10-08T13:24:43.000Z",
             "path": "articles/78ce6c1720e2c81edaa3d17280c0fdf6.json"
           },
           {
@@ -570,20 +570,6 @@
             "path": "articles/5796bcbe82f06e4f4aa5a4068e1818bf.json"
           },
           {
-            "id": "bd9a67b3949924967d2f6ee5291fde8e",
-            "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-            "image": "https://image.cnbcfm.com/api/v1/image/108375190-1791437632622-gettyimages-2254446954-CHINA_MANUS.jpeg?v=1791437646&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-08T06:59:59.000Z",
-            "path": "articles/bd9a67b3949924967d2f6ee5291fde8e.json"
-          },
-          {
             "id": "b0b0df21261a3d7cd7d6baf6c9987837",
             "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
             "image": "https://image.cnbcfm.com/api/v1/image/108373707-1791333068896-gettyimages-2296986094-logos.jpeg?v=1791333111&w=1920&h=1080",
@@ -596,6 +582,20 @@
             "category": "stocks",
             "published_at": "2026-10-08T06:50:42.000Z",
             "path": "articles/b0b0df21261a3d7cd7d6baf6c9987837.json"
+          },
+          {
+            "id": "0fb4784906dd42d89444e8b8d0ad0238",
+            "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+            "image": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-08T00:51:23.000Z",
+            "path": "articles/0fb4784906dd42d89444e8b8d0ad0238.json"
           }
         ]
       },
@@ -1200,6 +1200,80 @@
         ]
       },
       {
+        "id": "meta",
+        "name": "Meta",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/meta.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "2f3c98ba4844bf8f2733f182eca9f434",
+            "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
+            "image": "https://image.cnbcfm.com/api/v1/image/108374283-17913956922026-10-07t174636z_1565939135_rc2hynao0axo_rtrmadp_0_usa-trump.jpeg?v=1791395737&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-08T13:18:47.000Z",
+            "path": "articles/2f3c98ba4844bf8f2733f182eca9f434.json"
+          },
+          {
+            "id": "d5e81525716b35e18a74583928c85718",
+            "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-06T10:36:57.000Z",
+            "path": "articles/d5e81525716b35e18a74583928c85718.json"
+          }
+        ]
+      },
+      {
+        "id": "spacex",
+        "name": "SpaceX",
+        "type": "company",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "2f3c98ba4844bf8f2733f182eca9f434",
+            "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
+            "image": "https://image.cnbcfm.com/api/v1/image/108374283-17913956922026-10-07t174636z_1565939135_rc2hynao0axo_rtrmadp_0_usa-trump.jpeg?v=1791395737&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-08T13:18:47.000Z",
+            "path": "articles/2f3c98ba4844bf8f2733f182eca9f434.json"
+          },
+          {
+            "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
+            "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+            "image": "",
+            "source": {
+              "id": "sec-press-releases",
+              "name": "SEC Press Releases",
+              "website": "",
+              "icon": ""
+            },
+            "category": "stocks",
+            "published_at": "2026-09-30T18:30:01.000Z",
+            "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
+          }
+        ]
+      },
+      {
         "id": "sol",
         "name": "Solana",
         "type": "crypto",
@@ -1385,43 +1459,6 @@
         ]
       },
       {
-        "id": "meta",
-        "name": "Meta",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/meta.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "bd9a67b3949924967d2f6ee5291fde8e",
-            "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-            "image": "https://image.cnbcfm.com/api/v1/image/108375190-1791437632622-gettyimages-2254446954-CHINA_MANUS.jpeg?v=1791437646&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-08T06:59:59.000Z",
-            "path": "articles/bd9a67b3949924967d2f6ee5291fde8e.json"
-          },
-          {
-            "id": "d5e81525716b35e18a74583928c85718",
-            "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-06T10:36:57.000Z",
-            "path": "articles/d5e81525716b35e18a74583928c85718.json"
-          }
-        ]
-      },
-      {
         "id": "openai",
         "name": "OpenAI",
         "type": "company",
@@ -1533,6 +1570,29 @@
         ]
       },
       {
+        "id": "amzn",
+        "name": "Amazon",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/amazon.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "78ce6c1720e2c81edaa3d17280c0fdf6",
+            "title": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
+            "image": "https://image.cnbcfm.com/api/v1/image/108374338-1791400240953-Tablets_Hero_1920x1080.png?v=1791400455&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-08T13:24:43.000Z",
+            "path": "articles/78ce6c1720e2c81edaa3d17280c0fdf6.json"
+          }
+        ]
+      },
+      {
         "id": "aapl",
         "name": "Apple",
         "type": "company",
@@ -1552,29 +1612,6 @@
             "category": "crypto",
             "published_at": "2026-10-08T13:06:24.000Z",
             "path": "articles/944730c641ec0edab8744bae5fe4f0b6.json"
-          }
-        ]
-      },
-      {
-        "id": "amzn",
-        "name": "Amazon",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/amazon.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "78ce6c1720e2c81edaa3d17280c0fdf6",
-            "title": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
-            "image": "https://image.cnbcfm.com/api/v1/image/108374338-1791400240953-Tablets_Hero_1920x1080.png?v=1791400455&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-08T13:02:03.000Z",
-            "path": "articles/78ce6c1720e2c81edaa3d17280c0fdf6.json"
           }
         ]
       },
@@ -1782,29 +1819,6 @@
             "category": "crypto",
             "published_at": "2026-10-06T18:42:34.000Z",
             "path": "articles/545200b342df74b70d2c649a27fb5628.json"
-          }
-        ]
-      },
-      {
-        "id": "spacex",
-        "name": "SpaceX",
-        "type": "company",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
-            "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
-            "image": "",
-            "source": {
-              "id": "sec-press-releases",
-              "name": "SEC Press Releases",
-              "website": "",
-              "icon": ""
-            },
-            "category": "stocks",
-            "published_at": "2026-09-30T18:30:01.000Z",
-            "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
           }
         ]
       }

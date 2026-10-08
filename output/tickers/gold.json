@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-08T08:01:12.636Z",
+  "updated_at": "2026-10-08T08:15:40.138Z",
   "id": "gold",
   "symbol": "GOLD",
   "name": "Gold",
   "type": "commodity",
-  "total": 3,
+  "total": 2,
   "articles": [
     {
       "id": "212ecd4955a43211577ab56cd59c67b4",
@@ -116,20 +116,20 @@
           "path": "articles/99f45f38c273606a3a7ef00add2abc0a.json"
         },
         {
-          "id": "9e7acce0480f41f3f9f896f38e9fdba9",
-          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+          "id": "e6ade34ebef3899462da451223795c38",
+          "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4C0FKXZZQCVXBKP6KS4MJFP/hi-crypto-negotiation-1.png",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-05T18:12:28.000Z",
+          "published_at": "2026-10-07T20:48:34.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
+          "path": "articles/e6ade34ebef3899462da451223795c38.json"
         }
       ],
       "path": "articles/212ecd4955a43211577ab56cd59c67b4.json"
@@ -169,22 +169,6 @@
       ],
       "published_at": "2026-10-07T04:57:54.000Z",
       "related": [
-        {
-          "id": "9e7acce0480f41f3f9f896f38e9fdba9",
-          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-05T18:12:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
-        },
         {
           "id": "ece94920cfe97ba4132f57a3922b9324",
           "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
@@ -248,75 +232,7 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2ff4915c9914c7fdcabe727d6c64cdb9.json"
-        }
-      ],
-      "path": "articles/a089655c08c687b485f62637e99c5ce1.json"
-    },
-    {
-      "id": "9e7acce0480f41f3f9f896f38e9fdba9",
-      "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-      "description": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
-        {
-          "id": "eth",
-          "symbol": "ETH",
-          "name": "Ethereum",
-          "type": "crypto",
-          "path": "tickers/eth.json",
-          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
-        },
-        {
-          "id": "gold",
-          "symbol": "GOLD",
-          "name": "Gold",
-          "type": "commodity",
-          "path": "tickers/gold.json",
-          "icon": ""
-        },
-        {
-          "id": "oil",
-          "symbol": "OIL",
-          "name": "Oil",
-          "type": "commodity",
-          "path": "tickers/oil.json",
-          "icon": ""
-        },
-        {
-          "id": "silver",
-          "symbol": "SILVER",
-          "name": "Silver",
-          "type": "commodity",
-          "path": "tickers/silver.json",
-          "icon": ""
-        },
-        {
-          "id": "regulation",
-          "name": "Regulation",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-05T18:12:28.000Z",
-      "related": [
         {
           "id": "b0c14de3be8349939f30f24eb6bd662e",
           "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
@@ -332,73 +248,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b0c14de3be8349939f30f24eb6bd662e.json"
-        },
-        {
-          "id": "4b5e8725cc69d8fb47ce56ed626c1410",
-          "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-06T16:38:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4b5e8725cc69d8fb47ce56ed626c1410.json"
-        },
-        {
-          "id": "d19e933f3c1103f87adc7e6bfc3fecf8",
-          "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e864b63cbc1532f3391371548a539304d9f3c2f9-1510x838.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-08T04:00:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d19e933f3c1103f87adc7e6bfc3fecf8.json"
-        },
-        {
-          "id": "9d7a7739046f77050228026cd8091a98",
-          "title": "Live updates: Bitcoin edges up from worst levels as yields pull back",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/21b4ce083f49f6232f27d7ed040c266e25918c82-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T11:09:50.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9d7a7739046f77050228026cd8091a98.json"
-        },
-        {
-          "id": "9872a89d6e26ab41ca7b8375b229b4d5",
-          "title": "Liquidations jump to $547 million as oil rally hits crypto market",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T10:35:09.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9872a89d6e26ab41ca7b8375b229b4d5.json"
         }
       ],
-      "path": "articles/9e7acce0480f41f3f9f896f38e9fdba9.json"
+      "path": "articles/a089655c08c687b485f62637e99c5ce1.json"
     }
   ]
 }

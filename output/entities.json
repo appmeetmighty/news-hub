@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-10-08T13:01:13.325Z",
-  "total": 29,
+  "updated_at": "2026-10-08T13:15:43.378Z",
+  "total": 31,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 40
+      "count": 41
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 23
     },
     {
       "id": "btc",
@@ -16,14 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 23
+      "count": 22
     },
     {
       "id": "ai",
@@ -56,21 +56,21 @@
       "count": 9
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 3
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
+      "count": 4
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 3
     },
     {
@@ -81,6 +81,40 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 3
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 2
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 2
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 2
     },
     {
       "id": "etf",
@@ -96,13 +130,6 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
-      "count": 2
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
       "count": 2
     },
     {
@@ -124,15 +151,6 @@
       "count": 2
     },
     {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
@@ -140,6 +158,31 @@
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
       "count": 2
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 1
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 1
+    },
+    {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "msft",
@@ -167,36 +210,11 @@
       "count": 1
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 1
-    },
-    {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 1
-    },
-    {
       "id": "tsm",
       "symbol": "TSM",
       "name": "TSMC",
       "type": "company",
       "path": "tickers/tsm.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
       "icon": "",
       "count": 1
     },
@@ -228,20 +246,20 @@
       "count": 1
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 1
-    },
-    {
       "id": "gemini",
       "symbol": "GEMINI",
       "name": "Gemini",
       "type": "company",
       "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
       "icon": "",
       "count": 1
     }

@@ -1,11 +1,11 @@
 {
-  "id": "11e32dacd14ec30b14cde6a678b4e522",
-  "title": "Lululemon poaches Athleta CEO as new chief product officer",
-  "description": "Lululemon announced Wednesday that Athleta CEO Maggie Gauger is joining the company as its chief product officer, a newly created role.",
+  "id": "78ce6c1720e2c81edaa3d17280c0fdf6",
+  "title": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
+  "description": "The company said the Alexa tablet's improved speed and performance, artificial intelligence features and upgraded design warrant a higher price tag.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108335663-1784152010295-gettyimages-2285645602-RETAIL_SALES.jpeg?v=1791409187&w=1920&h=1080",
+  "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108374338-1791400240953-Tablets_Hero_1920x1080.png?v=1791400455&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,8 +13,23 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-10-07T21:47:06.000Z",
+  "entities": [
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-10-08T13:02:03.000Z",
   "related": [
     {
       "id": "a8a9e6ad883ef98ffd98c84b89853667",
@@ -65,22 +80,6 @@
       "path": "articles/547e124bfdc5a8a055c4099c21ebbf09.json"
     },
     {
-      "id": "78ce6c1720e2c81edaa3d17280c0fdf6",
-      "title": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
-      "image": "https://image.cnbcfm.com/api/v1/image/108374338-1791400240953-Tablets_Hero_1920x1080.png?v=1791400455&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-10-08T13:02:03.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/78ce6c1720e2c81edaa3d17280c0fdf6.json"
-    },
-    {
       "id": "1b5c463f2fcc69d60f37a9f32d8e343c",
       "title": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
       "image": "https://image.cnbcfm.com/api/v1/image/108374268-1791394219139-skydance.jpg?v=1791396544&w=1920&h=1080",
@@ -95,6 +94,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/1b5c463f2fcc69d60f37a9f32d8e343c.json"
+    },
+    {
+      "id": "544c2a0f71b8ade6884042ba2f9689a5",
+      "title": "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
+      "image": "https://image.cnbcfm.com/api/v1/image/106788161-16049467122020-11-09t182216z_2047876984_rc2uzj9gv9kg_rtrmadp_0_usa-trump-defense.jpeg?v=1604946791&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-10-08T12:50:51.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/544c2a0f71b8ade6884042ba2f9689a5.json"
     }
   ]
 }

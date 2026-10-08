@@ -1,11 +1,11 @@
 {
-  "id": "17df080a2f790a8905e9c07e375cad5e",
-  "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-  "description": "The amount of money the crypto media firm has been shopping itself for was not revealed.",
+  "id": "7c1b87db904e0b08b07cefe7092287ea",
+  "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3 ",
+  "description": "",
   "reading_time_minutes": 1,
-  "breaking_score": 50,
-  "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-  "image": "https://cdn.sanity.io/images/s3y3vcno/production/69ed00cb4ec4e063082ec14eff25a2ceaf999315-1500x901.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&w=1200&h=675&q=75",
+  "breaking_score": 0,
+  "url": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/cec422381be05e630231b39452614ed9fe8e30d9-1029x545.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
   "source": {
     "id": "coindesk",
     "name": "CoinDesk",
@@ -15,30 +15,22 @@
   "category": "crypto",
   "entities": [
     {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": ""
+    },
+    {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": ""
     }
   ],
-  "published_at": "2026-10-08T00:35:24.000Z",
+  "published_at": "2026-10-08T15:11:15.000Z",
   "related": [
-    {
-      "id": "7c1b87db904e0b08b07cefe7092287ea",
-      "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3 ",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cec422381be05e630231b39452614ed9fe8e30d9-1029x545.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-10-08T15:11:15.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/7c1b87db904e0b08b07cefe7092287ea.json"
-    },
     {
       "id": "6b6ca37fe9993fcd9b10b4f4b65c8278",
       "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
@@ -102,6 +94,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/5796bcbe82f06e4f4aa5a4068e1818bf.json"
+    },
+    {
+      "id": "17df080a2f790a8905e9c07e375cad5e",
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/69ed00cb4ec4e063082ec14eff25a2ceaf999315-1500x901.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&w=1200&h=675&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-10-08T00:35:24.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 50,
+      "path": "articles/17df080a2f790a8905e9c07e375cad5e.json"
     }
   ]
 }

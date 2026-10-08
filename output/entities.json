@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T17:01:10.971Z",
+  "updated_at": "2026-10-08T17:15:46.646Z",
   "total": 31,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 39
+      "count": 40
     },
     {
       "id": "btc",
@@ -30,7 +30,16 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 21
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 10
     },
     {
       "id": "stablecoin",
@@ -47,22 +56,13 @@
       "count": 9
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 9
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 4
+      "count": 5
     },
     {
       "id": "sol",
@@ -87,15 +87,6 @@
       "name": "ETF",
       "type": "topic",
       "icon": "",
-      "count": 3
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 3
     },
     {
@@ -148,6 +139,15 @@
       "name": "DeFi",
       "type": "topic",
       "icon": "",
+      "count": 2
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 2
     },
     {

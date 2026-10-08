@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-08T19:45:45.061Z",
+  "updated_at": "2026-10-08T20:01:12.931Z",
   "articles": {
-    "generated_at": "2026-10-08T19:45:45.061Z",
+    "generated_at": "2026-10-08T20:01:12.931Z",
     "topics": [
       {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 40,
+        "count": 39,
         "articles": [
           {
             "id": "78f7a83e386d3f9bd80908be49f28870",
@@ -157,8 +157,22 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 27,
+        "count": 28,
         "articles": [
+          {
+            "id": "42d578ff110e9b22c3d8565b08ae6cff",
+            "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0183643376c63d3344b437b12fb69486c8bd450-1500x996.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-08T19:46:15.000Z",
+            "path": "articles/42d578ff110e9b22c3d8565b08ae6cff.json"
+          },
           {
             "id": "649922e2b56621973cce76374b78fe3b",
             "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
@@ -284,20 +298,6 @@
             "category": "crypto",
             "published_at": "2026-10-08T15:24:16.000Z",
             "path": "articles/520edeea5f69c910067b2558044bb88a.json"
-          },
-          {
-            "id": "1372027fa950756da4cef6e4742365e4",
-            "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/4420c630cb05b3c60a6adc8bcef8a317d63d788a-3000x1676.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-08T14:03:20.000Z",
-            "path": "articles/1372027fa950756da4cef6e4742365e4.json"
           }
         ]
       },
@@ -468,7 +468,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-10-08T18:18:31.000Z",
+            "published_at": "2026-10-08T19:49:23.000Z",
             "path": "articles/cfeee4749615751ae15ce128b3c2076a.json"
           },
           {
@@ -1222,7 +1222,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-10-08T18:18:31.000Z",
+            "published_at": "2026-10-08T19:49:23.000Z",
             "path": "articles/cfeee4749615751ae15ce128b3c2076a.json"
           },
           {
@@ -1335,6 +1335,43 @@
         ]
       },
       {
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "cfeee4749615751ae15ce128b3c2076a",
+            "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+            "image": "https://image.cnbcfm.com/api/v1/image/108369620-1790703036232-gettyimages-2297209357-20090101260929-99-803103.jpeg?v=1790703099&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-08T19:49:23.000Z",
+            "path": "articles/cfeee4749615751ae15ce128b3c2076a.json"
+          },
+          {
+            "id": "d92b724920f6451ff496d586711b060d",
+            "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_4.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-07T21:46:03.000Z",
+            "path": "articles/d92b724920f6451ff496d586711b060d.json"
+          }
+        ]
+      },
+      {
         "id": "msft",
         "name": "Microsoft",
         "type": "company",
@@ -1405,43 +1442,6 @@
             "category": "crypto",
             "published_at": "2026-10-08T18:16:05.000Z",
             "path": "articles/01b6bd61a58156d839832c630e3337c3.json"
-          }
-        ]
-      },
-      {
-        "id": "openai",
-        "name": "OpenAI",
-        "type": "company",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "cfeee4749615751ae15ce128b3c2076a",
-            "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-            "image": "https://image.cnbcfm.com/api/v1/image/108369620-1790703036232-gettyimages-2297209357-20090101260929-99-803103.jpeg?v=1790703099&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-08T18:18:31.000Z",
-            "path": "articles/cfeee4749615751ae15ce128b3c2076a.json"
-          },
-          {
-            "id": "d92b724920f6451ff496d586711b060d",
-            "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_4.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-07T21:46:03.000Z",
-            "path": "articles/d92b724920f6451ff496d586711b060d.json"
           }
         ]
       },

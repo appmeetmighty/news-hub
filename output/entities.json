@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T14:01:10.476Z",
+  "updated_at": "2026-10-08T14:15:46.022Z",
   "total": 31,
   "entities": [
     {
@@ -10,6 +10,15 @@
       "count": 42
     },
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 23
+    },
+    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
@@ -17,20 +26,11 @@
       "count": 23
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
-    },
-    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 19
+      "count": 20
     },
     {
       "id": "stablecoin",
@@ -40,13 +40,6 @@
       "count": 12
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 10
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -54,6 +47,13 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 10
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 9
     },
     {
       "id": "nvda",

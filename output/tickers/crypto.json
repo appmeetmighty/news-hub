@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-10-08T06:15:41.811Z",
+  "updated_at": "2026-10-08T06:30:57.983Z",
   "id": "crypto",
   "name": "Crypto",
   "type": "topic",
   "total": 34,
   "articles": [
+    {
+      "id": "b0f2398869ac8b7becfc09987e0ea368",
+      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+      "description": "The crypto company's $1.25 billion acquisition of Hidden Road has opened a corner of Wall Street where funds pay to amplify daily moves in stocks such as Nvidia and Sandisk.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "xrp",
+          "symbol": "XRP",
+          "name": "XRP",
+          "type": "crypto",
+          "path": "tickers/xrp.json",
+          "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-08T06:17:13.000Z",
+      "related": [
+        {
+          "id": "a6e0266ea918b4135719a80f72aa156d",
+          "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/okx-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T12:18:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/a6e0266ea918b4135719a80f72aa156d.json"
+        },
+        {
+          "id": "523502af361f3e09570fcd6f0485f54b",
+          "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/okx-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-06T12:53:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/523502af361f3e09570fcd6f0485f54b.json"
+        },
+        {
+          "id": "c4c60b8c459c67d68546ae9f266b8b98",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321428-17812944792026-06-12t161555z_305406967_rc2gsla0exkf_rtrmadp_0_spacex-ipo-california.jpeg?v=1784319677&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T21:16:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c4c60b8c459c67d68546ae9f266b8b98.json"
+        },
+        {
+          "id": "c997d6cad420595e49e54cf28e602f35",
+          "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108238869-1765273146995-gettyimages-2250207687-NVIDIA_Chip.jpeg?v=1773959556&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T20:24:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c997d6cad420595e49e54cf28e602f35.json"
+        },
+        {
+          "id": "89d06ef1808316cdcb2af0e4cb40e477",
+          "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-07T20:26:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
+        }
+      ],
+      "path": "articles/b0f2398869ac8b7becfc09987e0ea368.json"
+    },
     {
       "id": "78f7a83e386d3f9bd80908be49f28870",
       "title": "Here’s what happened in crypto today",
@@ -1303,6 +1427,22 @@
       "published_at": "2026-10-07T15:13:15.000Z",
       "related": [
         {
+          "id": "b0f2398869ac8b7becfc09987e0ea368",
+          "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-08T06:17:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b0f2398869ac8b7becfc09987e0ea368.json"
+        },
+        {
           "id": "2ff4915c9914c7fdcabe727d6c64cdb9",
           "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/bc36ed29f9a378600a32086ff9de3eb232b4408d-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
@@ -1365,22 +1505,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d19e933f3c1103f87adc7e6bfc3fecf8.json"
-        },
-        {
-          "id": "17df080a2f790a8905e9c07e375cad5e",
-          "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/69ed00cb4ec4e063082ec14eff25a2ceaf999315-1500x901.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-08T00:35:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/17df080a2f790a8905e9c07e375cad5e.json"
         }
       ],
       "path": "articles/db64d26e5edd22591228274912e9b8e3.json"
@@ -1422,6 +1546,22 @@
       ],
       "published_at": "2026-10-07T15:03:54.000Z",
       "related": [
+        {
+          "id": "b0f2398869ac8b7becfc09987e0ea368",
+          "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-08T06:17:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b0f2398869ac8b7becfc09987e0ea368.json"
+        },
         {
           "id": "17df080a2f790a8905e9c07e375cad5e",
           "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
@@ -1485,22 +1625,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4fb49be7c43a97f6aff059a21b1c2e30.json"
-        },
-        {
-          "id": "212ecd4955a43211577ab56cd59c67b4",
-          "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2bb224bfa288e79f5e3ee5873991c29fe31f5ebd-1440x1080.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T12:34:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/212ecd4955a43211577ab56cd59c67b4.json"
         }
       ],
       "path": "articles/534cd5f6494b51f2290442da3d53cd5c.json"
@@ -1683,6 +1807,22 @@
           "path": "articles/523502af361f3e09570fcd6f0485f54b.json"
         },
         {
+          "id": "b0f2398869ac8b7becfc09987e0ea368",
+          "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-08T06:17:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b0f2398869ac8b7becfc09987e0ea368.json"
+        },
+        {
           "id": "af993ca2698d0794d7ad2c4b4bb95635",
           "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png",
@@ -1729,22 +1869,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d92b724920f6451ff496d586711b060d.json"
-        },
-        {
-          "id": "8650330713c70b7bf3be5506ecb22339",
-          "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T21:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8650330713c70b7bf3be5506ecb22339.json"
         }
       ],
       "path": "articles/a6e0266ea918b4135719a80f72aa156d.json"
@@ -3144,114 +3268,6 @@
         }
       ],
       "path": "articles/2c471418ef48633a6ac35be188388d8e.json"
-    },
-    {
-      "id": "2b35cd69d5556af9f54cbfb1b744eee9",
-      "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-      "description": "Pantera Capital and Bullish also participated in the ANVL purchase as Anvil rolls out software designed to make its collateral protocol easier for businesses to integrate.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d10550f0e78d1fbfc2c07248751c642bf887ab1f-4294x2863.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-06T17:00:00.000Z",
-      "related": [
-        {
-          "id": "9872a89d6e26ab41ca7b8375b229b4d5",
-          "title": "Liquidations jump to $547 million as oil rally hits crypto market",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T10:35:09.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9872a89d6e26ab41ca7b8375b229b4d5.json"
-        },
-        {
-          "id": "4c36630be6772ec5011aef0ecb4b1e62",
-          "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/171f9d8c90ff75747a86c529565ae56a859fcec1-1396x782.png?auto=format&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-08T04:23:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4c36630be6772ec5011aef0ecb4b1e62.json"
-        },
-        {
-          "id": "17df080a2f790a8905e9c07e375cad5e",
-          "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/69ed00cb4ec4e063082ec14eff25a2ceaf999315-1500x901.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-08T00:35:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/17df080a2f790a8905e9c07e375cad5e.json"
-        },
-        {
-          "id": "562413e0fc6b67f75b9b413c693c768e",
-          "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed683cdb87684e6ca349d6f2efd15060d7dd27d5-5196x3464.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T18:59:32.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/562413e0fc6b67f75b9b413c693c768e.json"
-        },
-        {
-          "id": "534cd5f6494b51f2290442da3d53cd5c",
-          "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/4194d43220448d79587beee0fb55642b52881a6b-2352x1200.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-07T15:03:54.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/534cd5f6494b51f2290442da3d53cd5c.json"
-        }
-      ],
-      "path": "articles/2b35cd69d5556af9f54cbfb1b744eee9.json"
     },
     {
       "id": "af993ca2698d0794d7ad2c4b4bb95635",

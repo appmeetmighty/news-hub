@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-09T04:45:44.263Z",
+  "updated_at": "2026-10-09T05:01:52.129Z",
   "id": "xrp",
   "symbol": "XRP",
   "name": "XRP",
   "type": "crypto",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "6ba6552ab6544b78d29c2afa9d425def",
@@ -33,6 +33,22 @@
       ],
       "published_at": "2026-10-09T04:21:36.000Z",
       "related": [
+        {
+          "id": "b0f2398869ac8b7becfc09987e0ea368",
+          "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-08T06:17:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b0f2398869ac8b7becfc09987e0ea368.json"
+        },
         {
           "id": "a6e0266ea918b4135719a80f72aa156d",
           "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
@@ -64,22 +80,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/16cc552f563c305d41d8e574c003d2c7.json"
-        },
-        {
-          "id": "d8396a28d77dbb8107e28a06c4e5a046",
-          "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-09T04:35:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d8396a28d77dbb8107e28a06c4e5a046.json"
         },
         {
           "id": "88b594684412c4ffad899cdee27ba863",
@@ -117,6 +117,130 @@
       "path": "articles/6ba6552ab6544b78d29c2afa9d425def.json"
     },
     {
+      "id": "b0f2398869ac8b7becfc09987e0ea368",
+      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+      "description": "The crypto company's $1.25 billion acquisition of Hidden Road has opened a corner of Wall Street where funds pay to amplify daily moves in stocks such as Nvidia and Sandisk.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "xrp",
+          "symbol": "XRP",
+          "name": "XRP",
+          "type": "crypto",
+          "path": "tickers/xrp.json",
+          "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-08T06:17:13.000Z",
+      "related": [
+        {
+          "id": "6ba6552ab6544b78d29c2afa9d425def",
+          "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-09T04:21:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6ba6552ab6544b78d29c2afa9d425def.json"
+        },
+        {
+          "id": "944730c641ec0edab8744bae5fe4f0b6",
+          "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-08T13:06:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/944730c641ec0edab8744bae5fe4f0b6.json"
+        },
+        {
+          "id": "a6e0266ea918b4135719a80f72aa156d",
+          "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/okx-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-07T12:18:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/a6e0266ea918b4135719a80f72aa156d.json"
+        },
+        {
+          "id": "b923db03678de11ec934364da3683e27",
+          "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-08T15:10:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b923db03678de11ec934364da3683e27.json"
+        },
+        {
+          "id": "23bac64d6b2344c7ab3a89a639707dd7",
+          "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+          "image": "https://image.cnbcfm.com/api/v1/image/108378997-1791505127429-gettyimages-2269840286-TFSPI_08042026-5142.jpeg?v=1791505141&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-09T03:51:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/23bac64d6b2344c7ab3a89a639707dd7.json"
+        }
+      ],
+      "path": "articles/b0f2398869ac8b7becfc09987e0ea368.json"
+    },
+    {
       "id": "a6e0266ea918b4135719a80f72aa156d",
       "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
       "description": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits.",
@@ -149,6 +273,22 @@
       ],
       "published_at": "2026-10-07T12:18:43.000Z",
       "related": [
+        {
+          "id": "b0f2398869ac8b7becfc09987e0ea368",
+          "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-08T06:17:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b0f2398869ac8b7becfc09987e0ea368.json"
+        },
         {
           "id": "6ba6552ab6544b78d29c2afa9d425def",
           "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
@@ -212,22 +352,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/99a509511559303ea9151902547e585c.json"
-        },
-        {
-          "id": "99f45f38c273606a3a7ef00add2abc0a",
-          "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/dj-khaled-usdc-gID_7.jpeg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-06T22:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/99f45f38c273606a3a7ef00add2abc0a.json"
         }
       ],
       "path": "articles/a6e0266ea918b4135719a80f72aa156d.json"

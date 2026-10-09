@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-09T14:45:48.672Z",
-  "total": 28,
+  "updated_at": "2026-10-09T15:01:21.207Z",
+  "total": 29,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 41
+      "count": 43
     },
     {
       "id": "btc",
@@ -19,18 +19,18 @@
       "count": 33
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 21
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 21
+      "count": 22
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 20
     },
     {
       "id": "blockchain",
@@ -38,6 +38,15 @@
       "type": "topic",
       "icon": "",
       "count": 10
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 7
     },
     {
       "id": "stablecoin",
@@ -53,15 +62,6 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 6
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 6
     },
     {
@@ -151,6 +151,15 @@
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
       "count": 2
+    },
+    {
+      "id": "silver",
+      "symbol": "SILVER",
+      "name": "Silver",
+      "type": "commodity",
+      "path": "tickers/silver.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "web3",

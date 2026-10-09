@@ -1,11 +1,11 @@
 {
-  "id": "782be49d58db9887d80d7d2c02e9b9eb",
-  "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says\n",
-  "description": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+  "id": "e52bc9a868f1b923ffa4db5c2c83ec27",
+  "title": "Cramer: Investors selling Apple on latest iPhone 18 report are 'stupid as plywood'",
+  "description": "Cramer says investors who don't own the stock should use Friday's weakness to build a position.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108378717-1791499513422-gettyimages-2298530288-SINGAPORE_TOKEN2049.jpeg?v=1791499529&w=1920&h=1080",
+  "url": "https://www.cnbc.com/investingclub/2026/10/09/cramer-investors-selling-apple-on-iphone-report-are-stupid-as-plywood.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108365128-1789759496314-gettyimages-2295295597-APPLE_IPHONE_18.jpeg?v=1789759546&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,13 +13,38 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-10-09T06:30:01.000Z",
+  "entities": [
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com"
+    }
+  ],
+  "published_at": "2026-10-09T16:43:00.000Z",
   "related": [
     {
-      "id": "e52bc9a868f1b923ffa4db5c2c83ec27",
-      "title": "Cramer: Investors selling Apple on latest iPhone 18 report are 'stupid as plywood'",
-      "image": "https://image.cnbcfm.com/api/v1/image/108365128-1789759496314-gettyimages-2295295597-APPLE_IPHONE_18.jpeg?v=1789759546&w=1920&h=1080",
+      "id": "b923db03678de11ec934364da3683e27",
+      "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-10-08T15:10:49.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/b923db03678de11ec934364da3683e27.json"
+    },
+    {
+      "id": "8b95c6793efaed0918bd551f63156f11",
+      "title": "Tech stocks' resilience has puzzled investors. The options market could hold some clues",
+      "image": "https://image.cnbcfm.com/api/v1/image/108373477-1791306984350-gettyimages-2298289676-ag_lumen_03.jpeg?v=1791307007&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -27,10 +52,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-10-09T16:43:00.000Z",
+      "published_at": "2026-10-09T13:07:30.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/e52bc9a868f1b923ffa4db5c2c83ec27.json"
+      "path": "articles/8b95c6793efaed0918bd551f63156f11.json"
     },
     {
       "id": "75b7186702df472d002c942a2177456a",
@@ -79,22 +104,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/269cab82f6eb7b6bdab16ac1d07ff115.json"
-    },
-    {
-      "id": "d068f79b9e576abd3a4e4ae253c149fc",
-      "title": "ICE won't pause enforcement in NY after Bronx shooting, DHS' Mullin says",
-      "image": "https://image.cnbcfm.com/api/v1/image/108381611-1791551950263-gettyimages-2299374999-kbd26819_qqfrbucd.jpeg?v=1791551994&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-10-09T15:20:56.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/d068f79b9e576abd3a4e4ae253c149fc.json"
     }
   ]
 }

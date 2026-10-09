@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T13:31:09.628Z",
+  "updated_at": "2026-10-09T13:45:47.687Z",
   "total": 28,
   "entities": [
     {
@@ -40,15 +40,6 @@
       "count": 9
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -72,6 +63,15 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 6
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "anthropic",
@@ -110,6 +110,13 @@
       "count": 3
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -124,13 +131,6 @@
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -171,15 +171,15 @@
       "count": 2
     },
     {
-      "id": "mining",
-      "name": "Mining",
+      "id": "web3",
+      "name": "Web3",
       "type": "topic",
       "icon": "",
       "count": 1
     },
     {
-      "id": "web3",
-      "name": "Web3",
+      "id": "mining",
+      "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 1

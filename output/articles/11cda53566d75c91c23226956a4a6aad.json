@@ -1,11 +1,11 @@
 {
-  "id": "8b95c6793efaed0918bd551f63156f11",
-  "title": "Tech stocks' resilience has puzzled investors. The options market could hold some clues",
-  "description": "In the options pits, traders are the most prepared for a tech pullback since early Summer.",
+  "id": "11cda53566d75c91c23226956a4a6aad",
+  "title": "AI agents like Muse can shop for you. Here's what that means for retail stocks",
+  "description": "For Amazon, Costco, and TJX, the rise of AI shopping agents presents challenges — and some surprising advantages.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
-  "url": "https://www.cnbc.com/2026/10/09/tech-stocks-resilience-has-puzzled-investors-the-options-market-could-hold-some-clues.html",
-  "image": "https://image.cnbcfm.com/api/v1/image/108373477-1791306984350-gettyimages-2298289676-ag_lumen_03.jpeg?v=1791307007&w=1920&h=1080",
+  "url": "https://www.cnbc.com/investingclub/2026/10/09/ai-agents-could-soon-shop-for-consumers-what-it-means-for-retail-stocks.html",
+  "image": "https://image.cnbcfm.com/api/v1/image/108148967-1747857894555-gettyimages-2216324769-l1131715_copy_1df4dsgs.jpeg?v=1755695318&w=1920&h=1080",
   "source": {
     "id": "cnbc",
     "name": "CNBC",
@@ -13,13 +13,44 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-10-09T13:07:30.000Z",
+  "entities": [
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-10-09T14:11:58.000Z",
   "related": [
     {
-      "id": "11cda53566d75c91c23226956a4a6aad",
-      "title": "AI agents like Muse can shop for you. Here's what that means for retail stocks",
-      "image": "https://image.cnbcfm.com/api/v1/image/108148967-1747857894555-gettyimages-2216324769-l1131715_copy_1df4dsgs.jpeg?v=1755695318&w=1920&h=1080",
+      "id": "b923db03678de11ec934364da3683e27",
+      "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-10-08T15:10:49.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/b923db03678de11ec934364da3683e27.json"
+    },
+    {
+      "id": "8b95c6793efaed0918bd551f63156f11",
+      "title": "Tech stocks' resilience has puzzled investors. The options market could hold some clues",
+      "image": "https://image.cnbcfm.com/api/v1/image/108373477-1791306984350-gettyimages-2298289676-ag_lumen_03.jpeg?v=1791307007&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -27,10 +58,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-10-09T14:11:58.000Z",
+      "published_at": "2026-10-09T13:07:30.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/11cda53566d75c91c23226956a4a6aad.json"
+      "path": "articles/8b95c6793efaed0918bd551f63156f11.json"
     },
     {
       "id": "0230ebbd9319a4e51974321e210e80ea",
@@ -79,22 +110,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/269cab82f6eb7b6bdab16ac1d07ff115.json"
-    },
-    {
-      "id": "eb73559401abe211ee5a647d60f1f8c8",
-      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-      "image": "https://image.cnbcfm.com/api/v1/image/108334692-1784035346683-gettyimages-2280676197-US-VIRGINIA-ARLINGTON-CPI-MAY-RISE.jpeg?v=1784046329&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-10-09T14:03:24.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/eb73559401abe211ee5a647d60f1f8c8.json"
     }
   ]
 }

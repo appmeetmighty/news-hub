@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T06:31:01.992Z",
+  "updated_at": "2026-10-09T06:45:44.695Z",
   "total": 29,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 41
+      "count": 39
     },
     {
       "id": "btc",
@@ -16,14 +16,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 28
+      "count": 29
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 23
+      "count": 22
     },
     {
       "id": "regulation",
@@ -31,6 +31,13 @@
       "type": "topic",
       "icon": "",
       "count": 21
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 10
     },
     {
       "id": "eth",
@@ -42,18 +49,20 @@
       "count": 10
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 9
-    },
-    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 9
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 7
     },
     {
       "id": "oil",
@@ -65,31 +74,13 @@
       "count": 7
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 6
-    },
-    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 5
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 3
+      "count": 4
     },
     {
       "id": "googl",
@@ -114,6 +105,15 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
+      "count": 2
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 2
     },
     {

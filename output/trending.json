@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-09T19:45:46.565Z",
+  "updated_at": "2026-10-09T20:01:15.106Z",
   "articles": {
-    "generated_at": "2026-10-09T19:45:46.565Z",
+    "generated_at": "2026-10-09T20:01:15.106Z",
     "topics": [
       {
         "id": "crypto",
@@ -157,7 +157,7 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 31,
+        "count": 30,
         "articles": [
           {
             "id": "78f7a83e386d3f9bd80908be49f28870",
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 16,
+        "count": 17,
         "articles": [
+          {
+            "id": "1d7d7b8c54a7b2446ecc2fab46eaee2c",
+            "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-09T19:47:01.000Z",
+            "path": "articles/1d7d7b8c54a7b2446ecc2fab46eaee2c.json"
+          },
           {
             "id": "7cb3752403dcbeb0505c81b5e888b53a",
             "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
@@ -582,20 +596,6 @@
             "category": "crypto",
             "published_at": "2026-10-08T17:07:48.000Z",
             "path": "articles/843c7d90cbb29b08c3b07f8ecc9607f5.json"
-          },
-          {
-            "id": "ee6fd4a06173f7cb2eb7d3d833038279",
-            "title": "Crypto lending rises again… but have they solved the risks?",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47ZC7BVFK1X6QFTDNSWBMXC/magazine-memecoins-betrayal-of-cryptos-ideal-or-its-true-purpose.png",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-08T13:30:00.000Z",
-            "path": "articles/ee6fd4a06173f7cb2eb7d3d833038279.json"
           }
         ]
       },
@@ -1042,6 +1042,71 @@
         ]
       },
       {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
+        "count": 4,
+        "articles": [
+          {
+            "id": "1d7d7b8c54a7b2446ecc2fab46eaee2c",
+            "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-09T19:47:01.000Z",
+            "path": "articles/1d7d7b8c54a7b2446ecc2fab46eaee2c.json"
+          },
+          {
+            "id": "066eff83158c57946cb889233037b0eb",
+            "title": "Nobel winner Krugman says France may have become 'too big to save'",
+            "image": "https://image.cnbcfm.com/api/v1/image/108380607-1791534375907-gettyimages-2298585875-AFP_D2MC8LX.jpeg?v=1791534388&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-09T11:33:48.000Z",
+            "path": "articles/066eff83158c57946cb889233037b0eb.json"
+          },
+          {
+            "id": "ab952a01a5028db62052d4017aba0cb1",
+            "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner  ",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FJ993JA7JTR422QAJS3TDX/hi-can-ai-bots-verify-you.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-09T05:34:33.000Z",
+            "path": "articles/ab952a01a5028db62052d4017aba0cb1.json"
+          },
+          {
+            "id": "9e356292b144ab1ad6ee4b4517d99fc2",
+            "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-07T20:46:03.000Z",
+            "path": "articles/9e356292b144ab1ad6ee4b4517d99fc2.json"
+          }
+        ]
+      },
+      {
         "id": "oil",
         "name": "Oil",
         "type": "commodity",
@@ -1103,6 +1168,57 @@
             "category": "crypto",
             "published_at": "2026-10-08T15:55:55.000Z",
             "path": "articles/b446a9d54aa01b6972353dc2f9a737e9.json"
+          }
+        ]
+      },
+      {
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
+        "icon": "",
+        "count": 3,
+        "articles": [
+          {
+            "id": "1d7d7b8c54a7b2446ecc2fab46eaee2c",
+            "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-09T19:47:01.000Z",
+            "path": "articles/1d7d7b8c54a7b2446ecc2fab46eaee2c.json"
+          },
+          {
+            "id": "347e16a634ef92745cf8daf16c82a617",
+            "title": "ChatGPT for Teens is not necessarily 'safer than the previous version,' Common Sense Media finds",
+            "image": "https://image.cnbcfm.com/api/v1/image/108374311-1791397647575-Teen_Girl_Using_Phone_While_Preparing_To_Do_Laundr-2185461236-Getty.jpg?v=1791397917&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-09T15:07:53.000Z",
+            "path": "articles/347e16a634ef92745cf8daf16c82a617.json"
+          },
+          {
+            "id": "d92b724920f6451ff496d586711b060d",
+            "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_4.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-07T21:46:03.000Z",
+            "path": "articles/d92b724920f6451ff496d586711b060d.json"
           }
         ]
       },
@@ -1205,57 +1321,6 @@
             "category": "crypto",
             "published_at": "2026-10-08T12:54:21.000Z",
             "path": "articles/1aad1d45d561f8f90df9f7806663ec3f.json"
-          }
-        ]
-      },
-      {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 3,
-        "articles": [
-          {
-            "id": "066eff83158c57946cb889233037b0eb",
-            "title": "Nobel winner Krugman says France may have become 'too big to save'",
-            "image": "https://image.cnbcfm.com/api/v1/image/108380607-1791534375907-gettyimages-2298585875-AFP_D2MC8LX.jpeg?v=1791534388&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-09T11:33:48.000Z",
-            "path": "articles/066eff83158c57946cb889233037b0eb.json"
-          },
-          {
-            "id": "ab952a01a5028db62052d4017aba0cb1",
-            "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner  ",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FJ993JA7JTR422QAJS3TDX/hi-can-ai-bots-verify-you.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-09T05:34:33.000Z",
-            "path": "articles/ab952a01a5028db62052d4017aba0cb1.json"
-          },
-          {
-            "id": "9e356292b144ab1ad6ee4b4517d99fc2",
-            "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-07T20:46:03.000Z",
-            "path": "articles/9e356292b144ab1ad6ee4b4517d99fc2.json"
           }
         ]
       },
@@ -1367,43 +1432,6 @@
             "category": "crypto",
             "published_at": "2026-10-08T18:16:05.000Z",
             "path": "articles/01b6bd61a58156d839832c630e3337c3.json"
-          }
-        ]
-      },
-      {
-        "id": "openai",
-        "name": "OpenAI",
-        "type": "company",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "347e16a634ef92745cf8daf16c82a617",
-            "title": "ChatGPT for Teens is not necessarily 'safer than the previous version,' Common Sense Media finds",
-            "image": "https://image.cnbcfm.com/api/v1/image/108374311-1791397647575-Teen_Girl_Using_Phone_While_Preparing_To_Do_Laundr-2185461236-Getty.jpg?v=1791397917&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-09T15:07:53.000Z",
-            "path": "articles/347e16a634ef92745cf8daf16c82a617.json"
-          },
-          {
-            "id": "d92b724920f6451ff496d586711b060d",
-            "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_4.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-07T21:46:03.000Z",
-            "path": "articles/d92b724920f6451ff496d586711b060d.json"
           }
         ]
       },
@@ -1708,29 +1736,6 @@
             "category": "crypto",
             "published_at": "2026-10-08T15:10:49.000Z",
             "path": "articles/b923db03678de11ec934364da3683e27.json"
-          }
-        ]
-      },
-      {
-        "id": "bnb",
-        "name": "BNB",
-        "type": "crypto",
-        "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
-        "count": 1,
-        "articles": [
-          {
-            "id": "2ffd3a1b3d14ae2ada8ec216d9e3848c",
-            "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-07T16:56:56.000Z",
-            "path": "articles/2ffd3a1b3d14ae2ada8ec216d9e3848c.json"
           }
         ]
       }

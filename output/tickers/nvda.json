@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-09T09:15:45.972Z",
+  "updated_at": "2026-10-09T09:31:01.111Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
   "type": "company",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "23bac64d6b2344c7ab3a89a639707dd7",
@@ -39,6 +39,22 @@
       ],
       "published_at": "2026-10-09T03:51:15.000Z",
       "related": [
+        {
+          "id": "89d06ef1808316cdcb2af0e4cb40e477",
+          "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-08T11:49:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
+        },
         {
           "id": "b923db03678de11ec934364da3683e27",
           "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
@@ -98,26 +114,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-09T09:14:34.000Z",
+          "published_at": "2026-10-09T09:21:14.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/27d72c5a728f98ea0ac9069a09ca167d.json"
-        },
-        {
-          "id": "6ed3a8c49a9ed0aba9f2860aa1ffcda3",
-          "title": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108377590-1791480338571-gettyimages-2297785644-_04a8884_zmdnebzw.jpeg?v=1791480361&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-09T08:33:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6ed3a8c49a9ed0aba9f2860aa1ffcda3.json"
         }
       ],
       "path": "articles/23bac64d6b2344c7ab3a89a639707dd7.json"
@@ -395,6 +395,130 @@
         }
       ],
       "path": "articles/944730c641ec0edab8744bae5fe4f0b6.json"
+    },
+    {
+      "id": "89d06ef1808316cdcb2af0e4cb40e477",
+      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+      "description": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-08T11:49:39.000Z",
+      "related": [
+        {
+          "id": "23bac64d6b2344c7ab3a89a639707dd7",
+          "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+          "image": "https://image.cnbcfm.com/api/v1/image/108378997-1791505127429-gettyimages-2269840286-TFSPI_08042026-5142.jpeg?v=1791505141&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-09T03:51:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/23bac64d6b2344c7ab3a89a639707dd7.json"
+        },
+        {
+          "id": "b923db03678de11ec934364da3683e27",
+          "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-08T15:10:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b923db03678de11ec934364da3683e27.json"
+        },
+        {
+          "id": "944730c641ec0edab8744bae5fe4f0b6",
+          "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-08T13:06:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/944730c641ec0edab8744bae5fe4f0b6.json"
+        },
+        {
+          "id": "27d72c5a728f98ea0ac9069a09ca167d",
+          "title": "Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay",
+          "image": "https://image.cnbcfm.com/api/v1/image/108380822-1791537002773-gettyimages-453013611-Par7730343.jpeg?v=1791537039&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-09T09:21:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/27d72c5a728f98ea0ac9069a09ca167d.json"
+        },
+        {
+          "id": "6ed3a8c49a9ed0aba9f2860aa1ffcda3",
+          "title": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108377590-1791480338571-gettyimages-2297785644-_04a8884_zmdnebzw.jpeg?v=1791480361&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-09T08:33:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6ed3a8c49a9ed0aba9f2860aa1ffcda3.json"
+        }
+      ],
+      "path": "articles/89d06ef1808316cdcb2af0e4cb40e477.json"
     }
   ]
 }

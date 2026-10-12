@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-12T21:15:45.853Z",
-  "total": 28,
+  "updated_at": "2026-10-12T21:31:02.995Z",
+  "total": 29,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 27
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,14 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 27
+      "count": 26
     },
     {
       "id": "regulation",
@@ -39,18 +39,18 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 9
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 7
+      "count": 10
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 8
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 7
@@ -81,6 +81,13 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "meta",
@@ -126,19 +133,21 @@
       "count": 3
     },
     {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 2
-    },
-    {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
       "count": 2
     },
     {
@@ -158,6 +167,15 @@
       "path": "tickers/v.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 1
     },
     {
       "id": "aapl",
@@ -224,15 +242,6 @@
       "name": "Gemini",
       "type": "company",
       "path": "tickers/gemini.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
       "icon": "",
       "count": 1
     }

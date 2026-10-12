@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-12T19:31:05.252Z",
+  "updated_at": "2026-10-12T19:45:47.335Z",
   "total": 27,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 28
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,6 +9,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 28
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
       "count": 28
     },
     {
@@ -42,15 +42,15 @@
       "count": 9
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 7
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
+      "id": "stablecoin",
+      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 7
@@ -160,6 +160,13 @@
       "count": 2
     },
     {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "jpm",
       "symbol": "JPM",
       "name": "JPMorgan",
@@ -190,13 +197,6 @@
       "name": "Intel",
       "type": "company",
       "path": "tickers/intc.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
       "icon": "",
       "count": 1
     },

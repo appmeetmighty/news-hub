@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12T13:02:06.170Z",
+  "updated_at": "2026-10-12T13:15:52.361Z",
   "articles": {
-    "generated_at": "2026-10-12T13:02:06.170Z",
+    "generated_at": "2026-10-12T13:15:52.361Z",
     "topics": [
       {
         "id": "crypto",
@@ -306,8 +306,36 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 24,
+        "count": 25,
         "articles": [
+          {
+            "id": "0b0fd2b310d1f22c6cc59db56736b733",
+            "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
+            "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-12T13:04:31.000Z",
+            "path": "articles/0b0fd2b310d1f22c6cc59db56736b733.json"
+          },
+          {
+            "id": "6791dcf29e064a68e04f9c4a92df471e",
+            "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+            "image": "https://image.cnbcfm.com/api/v1/image/108383555-1791585777067-Maia_300_prototype_chip_01.JPG?v=1791595974&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-12T13:00:01.000Z",
+            "path": "articles/6791dcf29e064a68e04f9c4a92df471e.json"
+          },
           {
             "id": "2cdb8f8f25a080510772c60af59298dd",
             "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
@@ -349,20 +377,6 @@
             "category": "stocks",
             "published_at": "2026-10-12T08:58:54.000Z",
             "path": "articles/3eb25ef764832efa0dfee22773a52317.json"
-          },
-          {
-            "id": "0b0fd2b310d1f22c6cc59db56736b733",
-            "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
-            "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-12T08:27:52.000Z",
-            "path": "articles/0b0fd2b310d1f22c6cc59db56736b733.json"
           },
           {
             "id": "37bbffcae242fe023e08f80ab46cfad1",
@@ -433,20 +447,6 @@
             "category": "stocks",
             "published_at": "2026-10-11T14:08:44.000Z",
             "path": "articles/6b01dbf078f796682d97e4946e2abc82.json"
-          },
-          {
-            "id": "9f76dd400e1844bdbfc71f1aada7f2fc",
-            "title": "AI is automating coding. So why are software developer job postings on the rise?",
-            "image": "https://image.cnbcfm.com/api/v1/image/108366108-1790078284606-gettyimages-2200018679-mfz1_111.jpeg?v=1790086927&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-11T13:30:01.000Z",
-            "path": "articles/9f76dd400e1844bdbfc71f1aada7f2fc.json"
           }
         ]
       },
@@ -1209,6 +1209,57 @@
         ]
       },
       {
+        "id": "msft",
+        "name": "Microsoft",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/microsoft.com",
+        "count": 3,
+        "articles": [
+          {
+            "id": "6791dcf29e064a68e04f9c4a92df471e",
+            "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+            "image": "https://image.cnbcfm.com/api/v1/image/108383555-1791585777067-Maia_300_prototype_chip_01.JPG?v=1791595974&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-12T13:00:01.000Z",
+            "path": "articles/6791dcf29e064a68e04f9c4a92df471e.json"
+          },
+          {
+            "id": "c53a3566bb381d954404f4410fc73caa",
+            "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+            "image": "https://image.cnbcfm.com/api/v1/image/108377031-1791470837458-gettyimages-2299223523-aw1a4652_deffryhg.jpeg?v=1791470867&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-12T11:32:33.000Z",
+            "path": "articles/c53a3566bb381d954404f4410fc73caa.json"
+          },
+          {
+            "id": "d94bace56afd616476cf525b3756dc9c",
+            "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+            "image": "https://image.cnbcfm.com/api/v1/image/108374357-1791402676921-gettyimages-2298479109-MICROSOFT_NVIDIA.jpeg?v=1791402727&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-10T20:59:28.000Z",
+            "path": "articles/d94bace56afd616476cf525b3756dc9c.json"
+          }
+        ]
+      },
+      {
         "id": "defi",
         "name": "DeFi",
         "type": "topic",
@@ -1362,16 +1413,16 @@
         ]
       },
       {
-        "id": "msft",
-        "name": "Microsoft",
+        "id": "nvda",
+        "name": "NVIDIA",
         "type": "company",
-        "icon": "https://logo.clearbit.com/microsoft.com",
+        "icon": "https://logo.clearbit.com/nvidia.com",
         "count": 2,
         "articles": [
           {
-            "id": "c53a3566bb381d954404f4410fc73caa",
-            "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
-            "image": "https://image.cnbcfm.com/api/v1/image/108377031-1791470837458-gettyimages-2299223523-aw1a4652_deffryhg.jpeg?v=1791470867&w=1920&h=1080",
+            "id": "6791dcf29e064a68e04f9c4a92df471e",
+            "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+            "image": "https://image.cnbcfm.com/api/v1/image/108383555-1791585777067-Maia_300_prototype_chip_01.JPG?v=1791595974&w=1920&h=1080",
             "source": {
               "id": "cnbc",
               "name": "CNBC",
@@ -1379,22 +1430,22 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-10-12T11:32:33.000Z",
-            "path": "articles/c53a3566bb381d954404f4410fc73caa.json"
+            "published_at": "2026-10-12T13:00:01.000Z",
+            "path": "articles/6791dcf29e064a68e04f9c4a92df471e.json"
           },
           {
-            "id": "d94bace56afd616476cf525b3756dc9c",
-            "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
-            "image": "https://image.cnbcfm.com/api/v1/image/108374357-1791402676921-gettyimages-2298479109-MICROSOFT_NVIDIA.jpeg?v=1791402727&w=1920&h=1080",
+            "id": "b923db03678de11ec934364da3683e27",
+            "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
             "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
             },
-            "category": "stocks",
-            "published_at": "2026-10-10T20:59:28.000Z",
-            "path": "articles/d94bace56afd616476cf525b3756dc9c.json"
+            "category": "crypto",
+            "published_at": "2026-10-08T15:10:49.000Z",
+            "path": "articles/b923db03678de11ec934364da3683e27.json"
           }
         ]
       },
@@ -1473,6 +1524,29 @@
         ]
       },
       {
+        "id": "intc",
+        "name": "Intel",
+        "type": "company",
+        "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "0b0fd2b310d1f22c6cc59db56736b733",
+            "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
+            "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-12T13:04:31.000Z",
+            "path": "articles/0b0fd2b310d1f22c6cc59db56736b733.json"
+          }
+        ]
+      },
+      {
         "id": "web3",
         "name": "Web3",
         "type": "topic",
@@ -1515,29 +1589,6 @@
             "category": "crypto",
             "published_at": "2026-10-12T10:27:00.000Z",
             "path": "articles/2cdb8f8f25a080510772c60af59298dd.json"
-          }
-        ]
-      },
-      {
-        "id": "intc",
-        "name": "Intel",
-        "type": "company",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "0b0fd2b310d1f22c6cc59db56736b733",
-            "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
-            "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-12T08:27:52.000Z",
-            "path": "articles/0b0fd2b310d1f22c6cc59db56736b733.json"
           }
         ]
       },
@@ -1661,29 +1712,6 @@
         "name": "Apple",
         "type": "company",
         "icon": "https://logo.clearbit.com/apple.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "b923db03678de11ec934364da3683e27",
-            "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-08T15:10:49.000Z",
-            "path": "articles/b923db03678de11ec934364da3683e27.json"
-          }
-        ]
-      },
-      {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
         "count": 1,
         "articles": [
           {

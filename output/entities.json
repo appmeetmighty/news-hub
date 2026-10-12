@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-12T11:31:08.457Z",
-  "total": 30,
+  "updated_at": "2026-10-12T11:45:47.596Z",
+  "total": 29,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 33
+      "count": 32
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
+      "count": 26
     },
     {
       "id": "ai",
@@ -40,13 +40,6 @@
       "count": 9
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 7
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -54,6 +47,13 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 7
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "xrp",
@@ -108,15 +108,6 @@
       "count": 3
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 2
-    },
-    {
       "id": "msft",
       "symbol": "MSFT",
       "name": "Microsoft",
@@ -132,6 +123,24 @@
       "type": "company",
       "path": "tickers/v.json",
       "icon": "",
+      "count": 2
+    },
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 2
     },
     {
@@ -151,15 +160,6 @@
       "count": 1
     },
     {
-      "id": "intc",
-      "symbol": "INTC",
-      "name": "Intel",
-      "type": "company",
-      "path": "tickers/intc.json",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
@@ -172,15 +172,6 @@
       "name": "Silver",
       "type": "commodity",
       "path": "tickers/silver.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
       "icon": "",
       "count": 1
     },

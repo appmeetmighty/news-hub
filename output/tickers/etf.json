@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-10-12T04:45:44.832Z",
+  "updated_at": "2026-10-12T05:01:18.005Z",
   "id": "etf",
   "name": "ETF",
   "type": "topic",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "c971681742dfa4df97c859a7273e10ab",
+      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+      "description": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/67eec2173e38b1d5355dc2ba2a2aa0f4620c070f-2169x1199.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        },
+        {
+          "id": "etf",
+          "name": "ETF",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-12T04:49:30.000Z",
+      "related": [
+        {
+          "id": "318773309fb747bd67a8c4197693a60d",
+          "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-08T17:46:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/318773309fb747bd67a8c4197693a60d.json"
+        },
+        {
+          "id": "6eb6fb5212089152880d0eb849c54b19",
+          "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-12-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-08T16:14:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6eb6fb5212089152880d0eb849c54b19.json"
+        },
+        {
+          "id": "8b501c69606fc9b7c82e0998b8bf8fdb",
+          "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bd4136eea24ebe8a86327e7c5d5d312e7b538823-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-10T12:00:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 85,
+          "path": "articles/8b501c69606fc9b7c82e0998b8bf8fdb.json"
+        },
+        {
+          "id": "3779b69e59ccd625fa60cda245b97a1d",
+          "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1989cca173a6179b4bf2c5e784f3cb6ef51c75a-1000x668.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-09T11:09:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3779b69e59ccd625fa60cda245b97a1d.json"
+        },
+        {
+          "id": "4c291b25895c20c7b8f277881e3132d3",
+          "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/abb4aca167f34914c10d26d1200f41bbd63c76ae-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-09T10:44:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4c291b25895c20c7b8f277881e3132d3.json"
+        }
+      ],
+      "path": "articles/c971681742dfa4df97c859a7273e10ab.json"
+    },
     {
       "id": "6eb6fb5212089152880d0eb849c54b19",
       "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
@@ -38,6 +162,22 @@
       ],
       "published_at": "2026-10-08T16:14:46.000Z",
       "related": [
+        {
+          "id": "c971681742dfa4df97c859a7273e10ab",
+          "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/67eec2173e38b1d5355dc2ba2a2aa0f4620c070f-2169x1199.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-12T04:49:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c971681742dfa4df97c859a7273e10ab.json"
+        },
         {
           "id": "318773309fb747bd67a8c4197693a60d",
           "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
@@ -101,22 +241,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ad5bc367c18b7effde0543889822de3b.json"
-        },
-        {
-          "id": "6c21b1bb56166a391ea24f6046190bfd",
-          "title": "Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-09T17:36:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6c21b1bb56166a391ea24f6046190bfd.json"
         }
       ],
       "path": "articles/6eb6fb5212089152880d0eb849c54b19.json"

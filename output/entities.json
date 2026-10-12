@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-10-12T18:45:46.076Z",
+  "updated_at": "2026-10-12T19:16:36.417Z",
   "total": 27,
   "entities": [
-    {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
-    },
     {
       "id": "crypto",
       "name": "Crypto",
@@ -19,11 +10,20 @@
       "count": 28
     },
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 28
+    },
+    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 21
+      "count": 20
     },
     {
       "id": "ai",
@@ -42,15 +42,15 @@
       "count": 9
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 8
-    },
-    {
       "id": "stablecoin",
       "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 7
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 7
@@ -78,6 +78,33 @@
       "name": "DeFi",
       "type": "topic",
       "icon": "",
+      "count": 4
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 3
+    },
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 3
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
       "count": 3
     },
     {
@@ -108,28 +135,10 @@
       "count": 3
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 2
-    },
-    {
       "id": "mining",
       "name": "Mining",
       "type": "topic",
       "icon": "",
-      "count": 2
-    },
-    {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
       "count": 2
     },
     {
@@ -139,15 +148,6 @@
       "type": "company",
       "path": "tickers/v.json",
       "icon": "",
-      "count": 2
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 2
     },
     {

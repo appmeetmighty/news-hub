@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T09:31:05.723Z",
+  "updated_at": "2026-10-12T09:45:47.398Z",
   "total": 29,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 37
+      "count": 36
     },
     {
       "id": "btc",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 22
+      "count": 21
     },
     {
       "id": "blockchain",
@@ -38,6 +38,13 @@
       "type": "topic",
       "icon": "",
       "count": 10
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "eth",
@@ -49,11 +56,13 @@
       "count": 7
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 6
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 5
     },
     {
       "id": "sol",
@@ -65,12 +74,12 @@
       "count": 5
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
       "count": 4
     },
     {
@@ -81,29 +90,11 @@
       "count": 3
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
     },
@@ -156,6 +147,15 @@
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 2
     },

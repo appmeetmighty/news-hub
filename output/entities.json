@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T10:01:18.704Z",
+  "updated_at": "2026-10-12T10:15:47.006Z",
   "total": 29,
   "entities": [
     {
@@ -16,6 +16,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 24
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
       "count": 23
     },
     {
@@ -26,25 +33,11 @@
       "count": 23
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 21
-    },
-    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 10
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 7
+      "count": 9
     },
     {
       "id": "eth",
@@ -54,6 +47,13 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 7
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "xrp",
@@ -71,7 +71,14 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 5
+      "count": 4
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "oil",
@@ -79,13 +86,6 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
       "icon": "",
       "count": 3
     },
@@ -124,21 +124,21 @@
       "count": 2
     },
     {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 2
+    },
+    {
       "id": "v",
       "symbol": "V",
       "name": "Visa",
       "type": "company",
       "path": "tickers/v.json",
       "icon": "",
-      "count": 2
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 2
     },
     {
@@ -185,15 +185,6 @@
       "count": 1
     },
     {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
-      "count": 1
-    },
-    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
@@ -227,6 +218,15 @@
       "type": "company",
       "path": "tickers/aapl.json",
       "icon": "https://logo.clearbit.com/apple.com",
+      "count": 1
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 1
     },
     {

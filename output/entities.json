@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-13T05:15:44.592Z",
+  "updated_at": "2026-10-13T05:31:01.447Z",
   "total": 28,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 28
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 27
     },
     {
@@ -39,7 +39,7 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 9
+      "count": 10
     },
     {
       "id": "blockchain",
@@ -83,6 +83,13 @@
       "count": 5
     },
     {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
@@ -108,13 +115,6 @@
       "path": "tickers/gold.json",
       "icon": "",
       "count": 4
-    },
-    {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "defi",

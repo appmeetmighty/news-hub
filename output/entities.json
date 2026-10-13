@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T11:01:19.880Z",
+  "updated_at": "2026-10-13T11:15:56.888Z",
   "total": 25,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 31
+      "count": 32
     },
     {
       "id": "crypto",
@@ -42,10 +42,12 @@
       "count": 10
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 7
     },
     {
@@ -53,7 +55,14 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 6
+      "count": 7
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "anthropic",
@@ -62,15 +71,6 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 5
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
     },
     {
@@ -115,13 +115,6 @@
       "count": 3
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
@@ -140,21 +133,28 @@
       "count": 3
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 3
-    },
-    {
       "id": "jpm",
       "symbol": "JPM",
       "name": "JPMorgan",
       "type": "company",
       "path": "tickers/jpm.json",
       "icon": "",
+      "count": 2
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 2
     },
     {

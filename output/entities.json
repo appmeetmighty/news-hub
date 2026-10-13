@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T09:15:48.769Z",
+  "updated_at": "2026-10-13T09:31:07.192Z",
   "total": 24,
   "entities": [
     {
@@ -16,7 +16,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 26
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 20
     },
     {
       "id": "regulation",
@@ -24,13 +31,6 @@
       "type": "topic",
       "icon": "",
       "count": 20
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 19
     },
     {
       "id": "xrp",
@@ -80,7 +80,7 @@
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 5
+      "count": 4
     },
     {
       "id": "mining",
@@ -102,6 +102,15 @@
       "id": "nft",
       "name": "NFT",
       "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
       "icon": "",
       "count": 3
     },
@@ -131,30 +140,21 @@
       "count": 3
     },
     {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
       "count": 2
     },
     {

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T10:31:10.990Z",
-  "total": 26,
+  "updated_at": "2026-10-14T10:45:46.990Z",
+  "total": 27,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 35
+      "count": 34
     },
     {
       "id": "crypto",
@@ -19,15 +19,15 @@
       "count": 24
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 21
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 20
+    },
+    {
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 20
@@ -85,20 +85,6 @@
       "count": 4
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -110,6 +96,20 @@
     {
       "id": "defi",
       "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 3
@@ -138,6 +138,15 @@
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
       "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "web3",

@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-10-14T18:45:49.782Z",
+  "updated_at": "2026-10-14T19:01:20.410Z",
   "id": "anthropic",
   "symbol": "ANTHROPIC",
   "name": "Anthropic",
   "type": "company",
-  "total": 3,
+  "total": 4,
   "articles": [
+    {
+      "id": "66c9d686a45df318ba34cd14d53f65b9",
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "description": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "bac",
+          "symbol": "BAC",
+          "name": "Bank of America",
+          "type": "company",
+          "path": "tickers/bac.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-14T18:48:44.000Z",
+      "related": [
+        {
+          "id": "97b149ae216d933bf4c6d971f2e737ad",
+          "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+          "image": "https://image.cnbcfm.com/api/v1/image/108250555-1767974377302-gettyimages-2201916861-_d6a3281_18br2qz5.jpeg?v=1767974405&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-14T16:49:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/97b149ae216d933bf4c6d971f2e737ad.json"
+        },
+        {
+          "id": "b71c6bd6289306dc23f3ea3cef097413",
+          "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/93d03b154b61caa450721817352d202a4ce97e6d-2400x1350.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-13T15:52:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b71c6bd6289306dc23f3ea3cef097413.json"
+        },
+        {
+          "id": "79932b5ae5c061f124a2e375b818da5f",
+          "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TQ1VD64QGE9G7F9DV78HBP/hi-bitcoins-hedging-performance-in-the-wake-of-the-recent-coronavirus-outbreak.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-13T13:55:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/79932b5ae5c061f124a2e375b818da5f.json"
+        },
+        {
+          "id": "4b484a31feefdb465e4be4657491bf1d",
+          "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-12T20:46:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4b484a31feefdb465e4be4657491bf1d.json"
+        },
+        {
+          "id": "67f106171594be95cabcf256f8376a0f",
+          "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108306019-1791986005855-108306019-1778624129986-gettyimages-2275885101-_75a3419_jgkilhym.jpg?v=1791986064&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-14T15:03:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/67f106171594be95cabcf256f8376a0f.json"
+        }
+      ],
+      "path": "articles/66c9d686a45df318ba34cd14d53f65b9.json"
+    },
     {
       "id": "b71c6bd6289306dc23f3ea3cef097413",
       "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
@@ -102,6 +226,22 @@
           "path": "articles/79932b5ae5c061f124a2e375b818da5f.json"
         },
         {
+          "id": "66c9d686a45df318ba34cd14d53f65b9",
+          "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+          "image": "https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-14T18:48:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/66c9d686a45df318ba34cd14d53f65b9.json"
+        },
+        {
           "id": "26ebf7e5ec4061fd38cbbeaa3082597d",
           "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
           "image": "https://image.cnbcfm.com/api/v1/image/108355111-1787834785359-gettyimages-2292235029-dji_20260826152250_0043_d_o63c17gu.jpeg?v=1787834843&w=1920&h=1080",
@@ -116,22 +256,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/26ebf7e5ec4061fd38cbbeaa3082597d.json"
-        },
-        {
-          "id": "2b97fd8e40b3407b41b805bb2b96dcbb",
-          "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-          "image": "https://image.cnbcfm.com/api/v1/image/108405226-1791925482970-picture2credit.png?v=1792000006&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-14T13:25:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2b97fd8e40b3407b41b805bb2b96dcbb.json"
         }
       ],
       "path": "articles/b71c6bd6289306dc23f3ea3cef097413.json"
@@ -202,6 +326,22 @@
           "path": "articles/4b484a31feefdb465e4be4657491bf1d.json"
         },
         {
+          "id": "66c9d686a45df318ba34cd14d53f65b9",
+          "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+          "image": "https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-14T18:48:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/66c9d686a45df318ba34cd14d53f65b9.json"
+        },
+        {
           "id": "febd4b2770e0c93074b8e637899a94d3",
           "title": "US authorities dismantle crypto scam network that stole tens of millions ",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XQTDG6G6JAX82533KHJ79T/granny-laptop-theft-victim.jpg",
@@ -232,22 +372,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b9d3de2bbc74b440b20d97c9e496d209.json"
-        },
-        {
-          "id": "95b52abc04589634b17a1a5cec005f76",
-          "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XEE04ZMAXCNJ7MN7A5NHM7/crypto-winter-frozen-icy-freeze-cold-stablecoin.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-14T16:26:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/95b52abc04589634b17a1a5cec005f76.json"
         }
       ],
       "path": "articles/79932b5ae5c061f124a2e375b818da5f.json"
@@ -350,6 +474,22 @@
           "path": "articles/79932b5ae5c061f124a2e375b818da5f.json"
         },
         {
+          "id": "66c9d686a45df318ba34cd14d53f65b9",
+          "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+          "image": "https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-14T18:48:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/66c9d686a45df318ba34cd14d53f65b9.json"
+        },
+        {
           "id": "26ebf7e5ec4061fd38cbbeaa3082597d",
           "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
           "image": "https://image.cnbcfm.com/api/v1/image/108355111-1787834785359-gettyimages-2292235029-dji_20260826152250_0043_d_o63c17gu.jpeg?v=1787834843&w=1920&h=1080",
@@ -364,22 +504,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/26ebf7e5ec4061fd38cbbeaa3082597d.json"
-        },
-        {
-          "id": "2b97fd8e40b3407b41b805bb2b96dcbb",
-          "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-          "image": "https://image.cnbcfm.com/api/v1/image/108405226-1791925482970-picture2credit.png?v=1792000006&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-14T13:25:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2b97fd8e40b3407b41b805bb2b96dcbb.json"
         }
       ],
       "path": "articles/4b484a31feefdb465e4be4657491bf1d.json"

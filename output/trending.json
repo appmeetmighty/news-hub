@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15T06:17:28.433Z",
+  "updated_at": "2026-10-15T06:31:04.688Z",
   "articles": {
-    "generated_at": "2026-10-15T06:17:28.433Z",
+    "generated_at": "2026-10-15T06:31:04.688Z",
     "topics": [
       {
         "id": "crypto",
@@ -157,7 +157,7 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 31,
+        "count": 30,
         "articles": [
           {
             "id": "78f7a83e386d3f9bd80908be49f28870",
@@ -1292,6 +1292,43 @@
         ]
       },
       {
+        "id": "blk",
+        "name": "BlackRock",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/blackrock.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "bf4efa1bdc6901efac908132d2a77088",
+            "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/7ac986e95de8943f9daaadd64fd86aee424071d3-2937x1693.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-15T06:17:58.000Z",
+            "path": "articles/bf4efa1bdc6901efac908132d2a77088.json"
+          },
+          {
+            "id": "8d70c3c8f4af8b2be5cc440d27f8c31d",
+            "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/fcf4c5947496fab4a554a10a69d7310dc4787418-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-14T14:31:14.000Z",
+            "path": "articles/8d70c3c8f4af8b2be5cc440d27f8c31d.json"
+          }
+        ]
+      },
+      {
         "id": "meta",
         "name": "Meta",
         "type": "company",
@@ -1362,43 +1399,6 @@
             "category": "crypto",
             "published_at": "2026-10-14T17:46:05.000Z",
             "path": "articles/9455a9467524964cd3beb10994ac49d9.json"
-          }
-        ]
-      },
-      {
-        "id": "blk",
-        "name": "BlackRock",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/blackrock.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "01a504c0d8e24a096796cca494cf75a0",
-            "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
-            "image": "https://image.cnbcfm.com/api/v1/image/108409104-1791991723770-gettyimages-2300173859-mms25018_ziafvgfw.jpeg?v=1791991787&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-14T16:27:12.000Z",
-            "path": "articles/01a504c0d8e24a096796cca494cf75a0.json"
-          },
-          {
-            "id": "8d70c3c8f4af8b2be5cc440d27f8c31d",
-            "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/fcf4c5947496fab4a554a10a69d7310dc4787418-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-14T14:31:14.000Z",
-            "path": "articles/8d70c3c8f4af8b2be5cc440d27f8c31d.json"
           }
         ]
       },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T19:51:57.429Z",
+  "updated_at": "2026-10-15T20:01:17.878Z",
   "total": 30,
   "entities": [
     {
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 22
+      "count": 21
     },
     {
       "id": "blockchain",
@@ -54,6 +54,15 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "blk",
@@ -97,21 +106,21 @@
       "count": 3
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 2
-    },
-    {
       "id": "spacex",
       "symbol": "SPACEX",
       "name": "SpaceX",
       "type": "company",
       "path": "tickers/spacex.json",
       "icon": "",
+      "count": 2
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 2
     },
     {
@@ -133,15 +142,6 @@
       "count": 2
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
-    },
-    {
       "id": "ma",
       "symbol": "MA",
       "name": "Mastercard",
@@ -151,38 +151,11 @@
       "count": 2
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
       "icon": "",
       "count": 2
     },
@@ -207,6 +180,15 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 1
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
       "count": 1
     },
     {
@@ -246,12 +228,30 @@
       "count": 1
     },
     {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 1
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
       "count": 1
     }
   ]

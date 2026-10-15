@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T16:31:09.886Z",
+  "updated_at": "2026-10-15T12:15:54.069Z",
   "id": "amzn",
   "symbol": "AMZN",
   "name": "Amazon",
@@ -7,45 +7,21 @@
   "total": 1,
   "articles": [
     {
-      "id": "b923db03678de11ec934364da3683e27",
-      "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-      "description": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Solana, with NYSE and OKX-ICE venues planned.",
+      "id": "1b3abce3c21a970fac3498fb7728e71d",
+      "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+      "description": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
+      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108411120-1792017144545-BEE_FRONTIER_SH01_1600x900.jpg?v=1792017283&w=1920&h=1080",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
-        {
-          "id": "sol",
-          "symbol": "SOL",
-          "name": "Solana",
-          "type": "crypto",
-          "path": "tickers/sol.json",
-          "icon": "https://assets.coincap.io/assets/icons/sol@2x.png"
-        },
-        {
-          "id": "aapl",
-          "symbol": "AAPL",
-          "name": "Apple",
-          "type": "company",
-          "path": "tickers/aapl.json",
-          "icon": "https://logo.clearbit.com/apple.com"
-        },
-        {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
         {
           "id": "amzn",
           "symbol": "AMZN",
@@ -55,66 +31,18 @@
           "icon": "https://logo.clearbit.com/amazon.com"
         },
         {
-          "id": "blockchain",
-          "name": "Blockchain",
+          "id": "ai",
+          "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-10-08T15:10:49.000Z",
+      "published_at": "2026-10-15T12:00:01.000Z",
       "related": [
         {
-          "id": "8362b21aa3db5a8a046633e23d141502",
-          "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-11T16:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8362b21aa3db5a8a046633e23d141502.json"
-        },
-        {
-          "id": "01b6bd61a58156d839832c630e3337c3",
-          "title": "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/handshake-deal-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-08T18:16:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/01b6bd61a58156d839832c630e3337c3.json"
-        },
-        {
-          "id": "651bb8ede166b5a99ce148ad6924a816",
-          "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/header-article-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-08T15:42:16.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/651bb8ede166b5a99ce148ad6924a816.json"
-        },
-        {
-          "id": "6791dcf29e064a68e04f9c4a92df471e",
-          "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-          "image": "https://image.cnbcfm.com/api/v1/image/108383555-1791585777067-Maia_300_prototype_chip_01.JPG?v=1791595974&w=1920&h=1080",
+          "id": "20ae6bd37cf8a8cf5f02f38eed63ffba",
+          "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -122,29 +50,77 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-12T14:04:16.000Z",
+          "published_at": "2026-10-15T12:11:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6791dcf29e064a68e04f9c4a92df471e.json"
+          "path": "articles/20ae6bd37cf8a8cf5f02f38eed63ffba.json"
         },
         {
-          "id": "299d26b5d0a22fd19fe9debf8b9f5925",
-          "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+          "id": "2d2e2b5a6693a77d0d111b22bf595364",
+          "title": "Cboe to expand options trading hours for major stocks and ETFs",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363764-1789576270258-gettyimages-2295603575-6e6a8946_copy_805hl6kr.jpeg?v=1789576365&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-11T17:11:03.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-15T12:01:59.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/299d26b5d0a22fd19fe9debf8b9f5925.json"
+          "path": "articles/2d2e2b5a6693a77d0d111b22bf595364.json"
+        },
+        {
+          "id": "d54f3eafda3178728775c49ec4409144",
+          "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
+          "image": "https://image.cnbcfm.com/api/v1/image/107161015-1670250535864-capacity.jpg?v=1695852913&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T11:54:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d54f3eafda3178728775c49ec4409144.json"
+        },
+        {
+          "id": "5c7820e024135b8f7e8cadb3a7ae37fa",
+          "title": "You can take it with you: Five tax tips before selling your business",
+          "image": "https://image.cnbcfm.com/api/v1/image/108412618-1792042313040-gettyimages-2291975124-022a1276.jpeg?v=1792042497&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T11:51:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5c7820e024135b8f7e8cadb3a7ae37fa.json"
+        },
+        {
+          "id": "20282531c58d3e850751ccf73fd1e07c",
+          "title": "How lower fuel economy targets could boost pickups and V-8 engines",
+          "image": "https://image.cnbcfm.com/api/v1/image/108309841-1779289694366-RM027_076FN_1.jpg?v=1779308589&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T11:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/20282531c58d3e850751ccf73fd1e07c.json"
         }
       ],
-      "path": "articles/b923db03678de11ec934364da3683e27.json"
+      "path": "articles/1b3abce3c21a970fac3498fb7728e71d.json"
     }
   ]
 }

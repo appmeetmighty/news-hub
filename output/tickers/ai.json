@@ -1,10 +1,126 @@
 {
-  "updated_at": "2026-10-15T12:01:25.306Z",
+  "updated_at": "2026-10-15T12:15:54.069Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 20,
+  "total": 21,
   "articles": [
+    {
+      "id": "1b3abce3c21a970fac3498fb7728e71d",
+      "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+      "description": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108411120-1792017144545-BEE_FRONTIER_SH01_1600x900.jpg?v=1792017283&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-15T12:00:01.000Z",
+      "related": [
+        {
+          "id": "20ae6bd37cf8a8cf5f02f38eed63ffba",
+          "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:11:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/20ae6bd37cf8a8cf5f02f38eed63ffba.json"
+        },
+        {
+          "id": "2d2e2b5a6693a77d0d111b22bf595364",
+          "title": "Cboe to expand options trading hours for major stocks and ETFs",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363764-1789576270258-gettyimages-2295603575-6e6a8946_copy_805hl6kr.jpeg?v=1789576365&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:01:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2d2e2b5a6693a77d0d111b22bf595364.json"
+        },
+        {
+          "id": "d54f3eafda3178728775c49ec4409144",
+          "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
+          "image": "https://image.cnbcfm.com/api/v1/image/107161015-1670250535864-capacity.jpg?v=1695852913&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T11:54:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d54f3eafda3178728775c49ec4409144.json"
+        },
+        {
+          "id": "5c7820e024135b8f7e8cadb3a7ae37fa",
+          "title": "You can take it with you: Five tax tips before selling your business",
+          "image": "https://image.cnbcfm.com/api/v1/image/108412618-1792042313040-gettyimages-2291975124-022a1276.jpeg?v=1792042497&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T11:51:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5c7820e024135b8f7e8cadb3a7ae37fa.json"
+        },
+        {
+          "id": "20282531c58d3e850751ccf73fd1e07c",
+          "title": "How lower fuel economy targets could boost pickups and V-8 engines",
+          "image": "https://image.cnbcfm.com/api/v1/image/108309841-1779289694366-RM027_076FN_1.jpg?v=1779308589&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T11:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/20282531c58d3e850751ccf73fd1e07c.json"
+        }
+      ],
+      "path": "articles/1b3abce3c21a970fac3498fb7728e71d.json"
+    },
     {
       "id": "b42ae4271a583f4820134c7dd44e3e5d",
       "title": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
@@ -87,9 +203,9 @@
           "path": "articles/acac16d90f17d21247ba7655e6df120f.json"
         },
         {
-          "id": "d54f3eafda3178728775c49ec4409144",
-          "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
-          "image": "https://image.cnbcfm.com/api/v1/image/107161015-1670250535864-capacity.jpg?v=1695852913&w=1920&h=1080",
+          "id": "20ae6bd37cf8a8cf5f02f38eed63ffba",
+          "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -97,15 +213,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T11:54:43.000Z",
+          "published_at": "2026-10-15T12:11:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d54f3eafda3178728775c49ec4409144.json"
+          "path": "articles/20ae6bd37cf8a8cf5f02f38eed63ffba.json"
         },
         {
-          "id": "5c7820e024135b8f7e8cadb3a7ae37fa",
-          "title": "You can take it with you: Five tax tips before selling your business",
-          "image": "https://image.cnbcfm.com/api/v1/image/108412618-1792042313040-gettyimages-2291975124-022a1276.jpeg?v=1792042497&w=1920&h=1080",
+          "id": "2d2e2b5a6693a77d0d111b22bf595364",
+          "title": "Cboe to expand options trading hours for major stocks and ETFs",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363764-1789576270258-gettyimages-2295603575-6e6a8946_copy_805hl6kr.jpeg?v=1789576365&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -113,10 +229,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T11:51:23.000Z",
+          "published_at": "2026-10-15T12:01:59.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5c7820e024135b8f7e8cadb3a7ae37fa.json"
+          "path": "articles/2d2e2b5a6693a77d0d111b22bf595364.json"
         }
       ],
       "path": "articles/b42ae4271a583f4820134c7dd44e3e5d.json"
@@ -171,6 +287,54 @@
           "path": "articles/000e7e28589cdace53ee652be1e03e86.json"
         },
         {
+          "id": "20ae6bd37cf8a8cf5f02f38eed63ffba",
+          "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:11:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/20ae6bd37cf8a8cf5f02f38eed63ffba.json"
+        },
+        {
+          "id": "2d2e2b5a6693a77d0d111b22bf595364",
+          "title": "Cboe to expand options trading hours for major stocks and ETFs",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363764-1789576270258-gettyimages-2295603575-6e6a8946_copy_805hl6kr.jpeg?v=1789576365&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:01:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2d2e2b5a6693a77d0d111b22bf595364.json"
+        },
+        {
+          "id": "1b3abce3c21a970fac3498fb7728e71d",
+          "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+          "image": "https://image.cnbcfm.com/api/v1/image/108411120-1792017144545-BEE_FRONTIER_SH01_1600x900.jpg?v=1792017283&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1b3abce3c21a970fac3498fb7728e71d.json"
+        },
+        {
           "id": "d54f3eafda3178728775c49ec4409144",
           "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
           "image": "https://image.cnbcfm.com/api/v1/image/107161015-1670250535864-capacity.jpg?v=1695852913&w=1920&h=1080",
@@ -185,54 +349,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d54f3eafda3178728775c49ec4409144.json"
-        },
-        {
-          "id": "5c7820e024135b8f7e8cadb3a7ae37fa",
-          "title": "You can take it with you: Five tax tips before selling your business",
-          "image": "https://image.cnbcfm.com/api/v1/image/108412618-1792042313040-gettyimages-2291975124-022a1276.jpeg?v=1792042497&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T11:51:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5c7820e024135b8f7e8cadb3a7ae37fa.json"
-        },
-        {
-          "id": "20282531c58d3e850751ccf73fd1e07c",
-          "title": "How lower fuel economy targets could boost pickups and V-8 engines",
-          "image": "https://image.cnbcfm.com/api/v1/image/108309841-1779289694366-RM027_076FN_1.jpg?v=1779308589&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T11:30:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/20282531c58d3e850751ccf73fd1e07c.json"
-        },
-        {
-          "id": "b42ae4271a583f4820134c7dd44e3e5d",
-          "title": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T11:12:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b42ae4271a583f4820134c7dd44e3e5d.json"
         }
       ],
       "path": "articles/3f9472570183c1c6687f59839e439179.json"
@@ -385,6 +501,22 @@
       "published_at": "2026-10-14T21:46:04.000Z",
       "related": [
         {
+          "id": "0a270fa550ff2cbe180b24d3e73724b4",
+          "title": "Morning Minute: Solana Is About To Get Faster",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/anatoly-yakovenko-solana-decrypt-style-scaled-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T12:07:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0a270fa550ff2cbe180b24d3e73724b4.json"
+        },
+        {
           "id": "1c77f0ead67b6b5ab913174447f31ec8",
           "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png@png",
@@ -447,22 +579,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/535f789791da7ec7fc8a168a5c3602e6.json"
-        },
-        {
-          "id": "3b725f6f9337f6e91a12f2c6cb187e28",
-          "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-14T19:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3b725f6f9337f6e91a12f2c6cb187e28.json"
         }
       ],
       "path": "articles/df45ada0e17e2075b74cc1e6d96fe41b.json"
@@ -627,7 +743,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T10:54:20.000Z",
+          "published_at": "2026-10-15T12:11:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/20ae6bd37cf8a8cf5f02f38eed63ffba.json"
@@ -649,6 +765,38 @@
           "path": "articles/bfdabdc0a3f4349d8ff714454297ab93.json"
         },
         {
+          "id": "2d2e2b5a6693a77d0d111b22bf595364",
+          "title": "Cboe to expand options trading hours for major stocks and ETFs",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363764-1789576270258-gettyimages-2295603575-6e6a8946_copy_805hl6kr.jpeg?v=1789576365&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:01:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2d2e2b5a6693a77d0d111b22bf595364.json"
+        },
+        {
+          "id": "1b3abce3c21a970fac3498fb7728e71d",
+          "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+          "image": "https://image.cnbcfm.com/api/v1/image/108411120-1792017144545-BEE_FRONTIER_SH01_1600x900.jpg?v=1792017283&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1b3abce3c21a970fac3498fb7728e71d.json"
+        },
+        {
           "id": "d54f3eafda3178728775c49ec4409144",
           "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
           "image": "https://image.cnbcfm.com/api/v1/image/107161015-1670250535864-capacity.jpg?v=1695852913&w=1920&h=1080",
@@ -663,38 +811,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d54f3eafda3178728775c49ec4409144.json"
-        },
-        {
-          "id": "5c7820e024135b8f7e8cadb3a7ae37fa",
-          "title": "You can take it with you: Five tax tips before selling your business",
-          "image": "https://image.cnbcfm.com/api/v1/image/108412618-1792042313040-gettyimages-2291975124-022a1276.jpeg?v=1792042497&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T11:51:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5c7820e024135b8f7e8cadb3a7ae37fa.json"
-        },
-        {
-          "id": "20282531c58d3e850751ccf73fd1e07c",
-          "title": "How lower fuel economy targets could boost pickups and V-8 engines",
-          "image": "https://image.cnbcfm.com/api/v1/image/108309841-1779289694366-RM027_076FN_1.jpg?v=1779308589&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T11:30:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/20282531c58d3e850751ccf73fd1e07c.json"
         }
       ],
       "path": "articles/7ddeb868940f5096deb8d94c5ff76113.json"
@@ -963,6 +1079,22 @@
       "published_at": "2026-10-14T18:41:11.000Z",
       "related": [
         {
+          "id": "2d2e2b5a6693a77d0d111b22bf595364",
+          "title": "Cboe to expand options trading hours for major stocks and ETFs",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363764-1789576270258-gettyimages-2295603575-6e6a8946_copy_805hl6kr.jpeg?v=1789576365&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:01:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2d2e2b5a6693a77d0d111b22bf595364.json"
+        },
+        {
           "id": "7002095a1f2e7982a4d19a8f7571d837",
           "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
           "image": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
@@ -1011,9 +1143,9 @@
           "path": "articles/d17194a196d836bf49293cec1264ec15.json"
         },
         {
-          "id": "d54f3eafda3178728775c49ec4409144",
-          "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
-          "image": "https://image.cnbcfm.com/api/v1/image/107161015-1670250535864-capacity.jpg?v=1695852913&w=1920&h=1080",
+          "id": "20ae6bd37cf8a8cf5f02f38eed63ffba",
+          "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1021,26 +1153,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T11:54:43.000Z",
+          "published_at": "2026-10-15T12:11:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d54f3eafda3178728775c49ec4409144.json"
-        },
-        {
-          "id": "5c7820e024135b8f7e8cadb3a7ae37fa",
-          "title": "You can take it with you: Five tax tips before selling your business",
-          "image": "https://image.cnbcfm.com/api/v1/image/108412618-1792042313040-gettyimages-2291975124-022a1276.jpeg?v=1792042497&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T11:51:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5c7820e024135b8f7e8cadb3a7ae37fa.json"
+          "path": "articles/20ae6bd37cf8a8cf5f02f38eed63ffba.json"
         }
       ],
       "path": "articles/bfdabdc0a3f4349d8ff714454297ab93.json"
@@ -1599,9 +1715,9 @@
           "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
         },
         {
-          "id": "1c77f0ead67b6b5ab913174447f31ec8",
-          "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png@png",
+          "id": "0a270fa550ff2cbe180b24d3e73724b4",
+          "title": "Morning Minute: Solana Is About To Get Faster",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/anatoly-yakovenko-solana-decrypt-style-scaled-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -1609,10 +1725,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-15T11:48:42.000Z",
+          "published_at": "2026-10-15T12:07:08.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 55,
-          "path": "articles/1c77f0ead67b6b5ab913174447f31ec8.json"
+          "breaking_score": 0,
+          "path": "articles/0a270fa550ff2cbe180b24d3e73724b4.json"
         }
       ],
       "path": "articles/09bb766297cdc9a77ffa14d08374db49.json"
@@ -1643,6 +1759,22 @@
       "published_at": "2026-10-13T21:16:04.000Z",
       "related": [
         {
+          "id": "0a270fa550ff2cbe180b24d3e73724b4",
+          "title": "Morning Minute: Solana Is About To Get Faster",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/anatoly-yakovenko-solana-decrypt-style-scaled-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T12:07:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0a270fa550ff2cbe180b24d3e73724b4.json"
+        },
+        {
           "id": "1c77f0ead67b6b5ab913174447f31ec8",
           "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png@png",
@@ -1705,22 +1837,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
-        },
-        {
-          "id": "535f789791da7ec7fc8a168a5c3602e6",
-          "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-14T20:16:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/535f789791da7ec7fc8a168a5c3602e6.json"
         }
       ],
       "path": "articles/ef97e9bde2e42223714472d6adcd68f7.json"
@@ -1751,6 +1867,22 @@
       "published_at": "2026-10-13T17:37:46.000Z",
       "related": [
         {
+          "id": "0a270fa550ff2cbe180b24d3e73724b4",
+          "title": "Morning Minute: Solana Is About To Get Faster",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/anatoly-yakovenko-solana-decrypt-style-scaled-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T12:07:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0a270fa550ff2cbe180b24d3e73724b4.json"
+        },
+        {
           "id": "1c77f0ead67b6b5ab913174447f31ec8",
           "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png@png",
@@ -1813,22 +1945,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
-        },
-        {
-          "id": "535f789791da7ec7fc8a168a5c3602e6",
-          "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-14T20:16:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/535f789791da7ec7fc8a168a5c3602e6.json"
         }
       ],
       "path": "articles/cdd4343046a6d6dd48f7f803953e1ed1.json"
@@ -1859,6 +1975,22 @@
       "published_at": "2026-10-13T14:51:28.000Z",
       "related": [
         {
+          "id": "0a270fa550ff2cbe180b24d3e73724b4",
+          "title": "Morning Minute: Solana Is About To Get Faster",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/anatoly-yakovenko-solana-decrypt-style-scaled-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T12:07:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0a270fa550ff2cbe180b24d3e73724b4.json"
+        },
+        {
           "id": "1c77f0ead67b6b5ab913174447f31ec8",
           "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png@png",
@@ -1921,22 +2053,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
-        },
-        {
-          "id": "535f789791da7ec7fc8a168a5c3602e6",
-          "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-14T20:16:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/535f789791da7ec7fc8a168a5c3602e6.json"
         }
       ],
       "path": "articles/7e4a56f09295e17a63bb1c1964907bb0.json"
@@ -1967,6 +2083,22 @@
       "published_at": "2026-10-12T21:46:03.000Z",
       "related": [
         {
+          "id": "0a270fa550ff2cbe180b24d3e73724b4",
+          "title": "Morning Minute: Solana Is About To Get Faster",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/anatoly-yakovenko-solana-decrypt-style-scaled-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T12:07:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0a270fa550ff2cbe180b24d3e73724b4.json"
+        },
+        {
           "id": "1c77f0ead67b6b5ab913174447f31ec8",
           "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png@png",
@@ -2029,22 +2161,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
-        },
-        {
-          "id": "535f789791da7ec7fc8a168a5c3602e6",
-          "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-14T20:16:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/535f789791da7ec7fc8a168a5c3602e6.json"
         }
       ],
       "path": "articles/f16772da153cfc5055536291a0969257.json"
@@ -2231,6 +2347,22 @@
           "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
         },
         {
+          "id": "0a270fa550ff2cbe180b24d3e73724b4",
+          "title": "Morning Minute: Solana Is About To Get Faster",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/anatoly-yakovenko-solana-decrypt-style-scaled-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T12:07:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0a270fa550ff2cbe180b24d3e73724b4.json"
+        },
+        {
           "id": "1c77f0ead67b6b5ab913174447f31ec8",
           "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png@png",
@@ -2277,22 +2409,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/df45ada0e17e2075b74cc1e6d96fe41b.json"
-        },
-        {
-          "id": "535f789791da7ec7fc8a168a5c3602e6",
-          "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-14T20:16:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/535f789791da7ec7fc8a168a5c3602e6.json"
         }
       ],
       "path": "articles/6d9c919e55f4a2f3160eed089961551c.json"

@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-15T12:15:54.079Z",
-  "total": 30,
+  "updated_at": "2026-10-15T12:31:10.915Z",
+  "total": 31,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 32
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 33
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 32
     },
     {
@@ -37,7 +37,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 9
+      "count": 8
     },
     {
       "id": "stablecoin",
@@ -106,6 +106,15 @@
       "count": 3
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 2
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -142,13 +151,6 @@
       "count": 2
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
@@ -176,12 +178,12 @@
       "count": 1
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
+      "id": "amd",
+      "symbol": "AMD",
+      "name": "AMD",
       "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
+      "path": "tickers/amd.json",
+      "icon": "",
       "count": 1
     },
     {
@@ -190,6 +192,13 @@
       "name": "TSMC",
       "type": "company",
       "path": "tickers/tsm.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
       "icon": "",
       "count": 1
     },

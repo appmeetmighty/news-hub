@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T09:15:50.184Z",
+  "updated_at": "2026-10-15T09:31:05.592Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
@@ -46,22 +46,6 @@
       ],
       "published_at": "2026-10-15T08:18:14.000Z",
       "related": [
-        {
-          "id": "5bdfc572ade50ffb68fa1958b83ecb69",
-          "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108403848-1791906460600-Dell1.jpg?v=1791906540&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-14T20:19:25.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 70,
-          "path": "articles/5bdfc572ade50ffb68fa1958b83ecb69.json"
-        },
         {
           "id": "bfdabdc0a3f4349d8ff714454297ab93",
           "title": "AI infrastructure stocks tumble. Here's a few reasons for the sell-off ",
@@ -111,6 +95,22 @@
           "path": "articles/000e7e28589cdace53ee652be1e03e86.json"
         },
         {
+          "id": "3f9472570183c1c6687f59839e439179",
+          "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+          "image": "https://image.cnbcfm.com/api/v1/image/108131996-17447197412025-04-15t062815z_1969410792_rc25ydai7qeg_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T08:09:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3f9472570183c1c6687f59839e439179.json"
+        },
+        {
           "id": "9ee7e2d280e7b0fd183e97829a4819bc",
           "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
           "image": "https://image.cnbcfm.com/api/v1/image/108369735-1790708721611-gettyimages-2297232274-AFP_C9Q39QB.jpeg?v=1790708808&w=1920&h=1080",
@@ -128,6 +128,122 @@
         }
       ],
       "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
+    },
+    {
+      "id": "3f9472570183c1c6687f59839e439179",
+      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+      "description": "TSMC reported its third-quarter earnings on Thursday.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108131996-17447197412025-04-15t062815z_1969410792_rc25ydai7qeg_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "tsm",
+          "symbol": "TSM",
+          "name": "TSMC",
+          "type": "company",
+          "path": "tickers/tsm.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-15T08:09:37.000Z",
+      "related": [
+        {
+          "id": "000e7e28589cdace53ee652be1e03e86",
+          "title": "UK economy grew 0.1% in August, beating expectations",
+          "image": "https://image.cnbcfm.com/api/v1/image/108104180-1739952365535-gettyimages-2168418794-20240827_borough_market_014.jpeg?v=1755663204&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T08:44:17.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/000e7e28589cdace53ee652be1e03e86.json"
+        },
+        {
+          "id": "3e6c415a2784bc7542ddf1a2e73aaa5e",
+          "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+          "image": "https://image.cnbcfm.com/api/v1/image/107187447-16752759422023-02-01t181608z_1646662569_rc2c2z9kd7an_rtrmadp_0_global-europe.jpeg?v=1733763850&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T09:02:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3e6c415a2784bc7542ddf1a2e73aaa5e.json"
+        },
+        {
+          "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
+          "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+          "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T08:18:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
+        },
+        {
+          "id": "9ee7e2d280e7b0fd183e97829a4819bc",
+          "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369735-1790708721611-gettyimages-2297232274-AFP_C9Q39QB.jpeg?v=1790708808&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T07:51:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9ee7e2d280e7b0fd183e97829a4819bc.json"
+        },
+        {
+          "id": "15d129070686a913bd3f7a5ae70dec40",
+          "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire' ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108248967-17677282972026-01-06t193319z_307668078_rc2vviahocsn_rtrmadp_0_ukraine-crisis-coalition.jpeg?v=1767728325&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T07:46:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/15d129070686a913bd3f7a5ae70dec40.json"
+        }
+      ],
+      "path": "articles/3f9472570183c1c6687f59839e439179.json"
     },
     {
       "id": "1286c62343cab990a7aef4ec43f1aa2a",
@@ -201,6 +317,22 @@
           "path": "articles/310a87ed0f76739091d5515e9195199f.json"
         },
         {
+          "id": "69ab2f5090054c71378275ced6fa7e83",
+          "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z9HV8V8BEZVYHMZC3BE85M/aave-btc.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T09:14:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/69ab2f5090054c71378275ced6fa7e83.json"
+        },
+        {
           "id": "8c0dffa47f24d4877341a0cc8e76ebf9",
           "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg",
@@ -231,22 +363,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/91c620cd8c3b28e19fcc50907c36f438.json"
-        },
-        {
-          "id": "227905fd51d8013c3193392453363ab6",
-          "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WX6QRMY3H03AP4FKTGM4KT/hi-why-the-crypto-market-is-falling-lately2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-14T10:25:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/227905fd51d8013c3193392453363ab6.json"
         }
       ],
       "path": "articles/1286c62343cab990a7aef4ec43f1aa2a.json"
@@ -700,114 +816,6 @@
       "path": "articles/7ddeb868940f5096deb8d94c5ff76113.json"
     },
     {
-      "id": "5bdfc572ade50ffb68fa1958b83ecb69",
-      "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
-      "description": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
-      "reading_time_minutes": 1,
-      "breaking_score": 70,
-      "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108403848-1791906460600-Dell1.jpg?v=1791906540&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-14T20:19:25.000Z",
-      "related": [
-        {
-          "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
-          "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-          "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T08:18:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
-        },
-        {
-          "id": "bfdabdc0a3f4349d8ff714454297ab93",
-          "title": "AI infrastructure stocks tumble. Here's a few reasons for the sell-off ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-14T18:41:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/bfdabdc0a3f4349d8ff714454297ab93.json"
-        },
-        {
-          "id": "3e6c415a2784bc7542ddf1a2e73aaa5e",
-          "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-          "image": "https://image.cnbcfm.com/api/v1/image/107187447-16752759422023-02-01t181608z_1646662569_rc2c2z9kd7an_rtrmadp_0_global-europe.jpeg?v=1733763850&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T09:02:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3e6c415a2784bc7542ddf1a2e73aaa5e.json"
-        },
-        {
-          "id": "000e7e28589cdace53ee652be1e03e86",
-          "title": "UK economy grew 0.1% in August, beating expectations",
-          "image": "https://image.cnbcfm.com/api/v1/image/108104180-1739952365535-gettyimages-2168418794-20240827_borough_market_014.jpeg?v=1755663204&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T08:44:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/000e7e28589cdace53ee652be1e03e86.json"
-        },
-        {
-          "id": "9ee7e2d280e7b0fd183e97829a4819bc",
-          "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369735-1790708721611-gettyimages-2297232274-AFP_C9Q39QB.jpeg?v=1790708808&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T07:51:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9ee7e2d280e7b0fd183e97829a4819bc.json"
-        }
-      ],
-      "path": "articles/5bdfc572ade50ffb68fa1958b83ecb69.json"
-    },
-    {
       "id": "535f789791da7ec7fc8a168a5c3602e6",
       "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
       "description": "A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
@@ -1135,9 +1143,9 @@
           "path": "articles/7ddeb868940f5096deb8d94c5ff76113.json"
         },
         {
-          "id": "5bdfc572ade50ffb68fa1958b83ecb69",
-          "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108403848-1791906460600-Dell1.jpg?v=1791906540&w=1920&h=1080",
+          "id": "d17194a196d836bf49293cec1264ec15",
+          "title": "Here's the inflation breakdown for September 2026 — in one chart",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374148-1791392801813-108374148-1791388061460-108374148-1791387933444-gettyimages-2297102806-US_DIESEL.jpg?v=1791914404&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1145,10 +1153,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-14T20:19:25.000Z",
+          "published_at": "2026-10-14T14:56:25.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 70,
-          "path": "articles/5bdfc572ade50ffb68fa1958b83ecb69.json"
+          "breaking_score": 0,
+          "path": "articles/d17194a196d836bf49293cec1264ec15.json"
         }
       ],
       "path": "articles/bfdabdc0a3f4349d8ff714454297ab93.json"
@@ -1461,6 +1469,22 @@
           "path": "articles/fe37b061fb7201c7b685cf74caa6be5a.json"
         },
         {
+          "id": "06fd117557958e5be922b2cb34687f6a",
+          "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/03e37489ed1eae296cbd07f255ddf7baed72214e-2826x1554.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T09:20:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 5,
+          "path": "articles/06fd117557958e5be922b2cb34687f6a.json"
+        },
+        {
           "id": "bf4efa1bdc6901efac908132d2a77088",
           "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/7ac986e95de8943f9daaadd64fd86aee424071d3-2937x1693.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -1475,22 +1499,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bf4efa1bdc6901efac908132d2a77088.json"
-        },
-        {
-          "id": "b8a15228f073787ae248fc29c055e729",
-          "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YYDDF50Q9P09A46TZD9523/hi-world-bank-blockchain-bond-for-australia.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-15T05:00:40.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b8a15228f073787ae248fc29c055e729.json"
         }
       ],
       "path": "articles/e77678a4fafb80bdfa64dcf062e7703f.json"
@@ -1667,6 +1675,22 @@
           "path": "articles/375730ede066013d0575d4998f026270.json"
         },
         {
+          "id": "69ab2f5090054c71378275ced6fa7e83",
+          "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z9HV8V8BEZVYHMZC3BE85M/aave-btc.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T09:14:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/69ab2f5090054c71378275ced6fa7e83.json"
+        },
+        {
           "id": "8c0dffa47f24d4877341a0cc8e76ebf9",
           "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg",
@@ -1697,22 +1721,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/319ec7c32ca4a9376dde686edd29f953.json"
-        },
-        {
-          "id": "78f7a83e386d3f9bd80908be49f28870",
-          "title": "Here’s what happened in crypto today",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-15T05:49:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
         }
       ],
       "path": "articles/1f132a03848cbeb18c9e4058726732ee.json"
@@ -1931,20 +1939,20 @@
           "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
         },
         {
-          "id": "df45ada0e17e2075b74cc1e6d96fe41b",
-          "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
+          "id": "06fd117557958e5be922b2cb34687f6a",
+          "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/03e37489ed1eae296cbd07f255ddf7baed72214e-2826x1554.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-14T21:46:04.000Z",
+          "published_at": "2026-10-15T09:20:57.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/df45ada0e17e2075b74cc1e6d96fe41b.json"
+          "breaking_score": 5,
+          "path": "articles/06fd117557958e5be922b2cb34687f6a.json"
         }
       ],
       "path": "articles/09bb766297cdc9a77ffa14d08374db49.json"

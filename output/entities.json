@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-15T09:15:50.197Z",
-  "total": 31,
+  "updated_at": "2026-10-15T09:31:05.604Z",
+  "total": 32,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 31
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,6 +9,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 31
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
       "count": 30
     },
     {
@@ -30,7 +30,7 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 23
+      "count": 21
     },
     {
       "id": "blockchain",
@@ -163,6 +163,15 @@
       "name": "AMD",
       "type": "company",
       "path": "tickers/amd.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "tsm",
+      "symbol": "TSM",
+      "name": "TSMC",
+      "type": "company",
+      "path": "tickers/tsm.json",
       "icon": "",
       "count": 1
     },

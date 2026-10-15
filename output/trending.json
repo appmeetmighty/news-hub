@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15T15:01:35.144Z",
+  "updated_at": "2026-10-15T15:15:50.916Z",
   "articles": {
-    "generated_at": "2026-10-15T15:01:35.144Z",
+    "generated_at": "2026-10-15T15:15:50.916Z",
     "topics": [
       {
         "id": "crypto",
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 20,
+        "count": 21,
         "articles": [
+          {
+            "id": "ee50a98846f5eca5bd67c8a7873266aa",
+            "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+            "image": "https://image.cnbcfm.com/api/v1/image/108287444-1775496466036-tsmc_cowos_chips.jpg?v=1775509400&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-15T15:04:22.000Z",
+            "path": "articles/ee50a98846f5eca5bd67c8a7873266aa.json"
+          },
           {
             "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
             "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
@@ -582,20 +596,6 @@
             "category": "crypto",
             "published_at": "2026-10-14T21:16:03.000Z",
             "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
-          },
-          {
-            "id": "535f789791da7ec7fc8a168a5c3602e6",
-            "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-14T20:16:05.000Z",
-            "path": "articles/535f789791da7ec7fc8a168a5c3602e6.json"
           }
         ]
       },
@@ -981,6 +981,57 @@
         ]
       },
       {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 3,
+        "articles": [
+          {
+            "id": "ee50a98846f5eca5bd67c8a7873266aa",
+            "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+            "image": "https://image.cnbcfm.com/api/v1/image/108287444-1775496466036-tsmc_cowos_chips.jpg?v=1775509400&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-15T15:04:22.000Z",
+            "path": "articles/ee50a98846f5eca5bd67c8a7873266aa.json"
+          },
+          {
+            "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
+            "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+            "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-15T14:40:22.000Z",
+            "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
+          },
+          {
+            "id": "b42ae4271a583f4820134c7dd44e3e5d",
+            "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+            "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-15T12:17:13.000Z",
+            "path": "articles/b42ae4271a583f4820134c7dd44e3e5d.json"
+          }
+        ]
+      },
+      {
         "id": "sol",
         "name": "Solana",
         "type": "crypto",
@@ -1185,49 +1236,26 @@
         ]
       },
       {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
-            "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-            "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-15T14:40:22.000Z",
-            "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
-          },
-          {
-            "id": "b42ae4271a583f4820134c7dd44e3e5d",
-            "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
-            "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-15T12:17:13.000Z",
-            "path": "articles/b42ae4271a583f4820134c7dd44e3e5d.json"
-          }
-        ]
-      },
-      {
         "id": "tsla",
         "name": "Tesla",
         "type": "company",
         "icon": "https://logo.clearbit.com/tesla.com",
         "count": 2,
         "articles": [
+          {
+            "id": "9ee7e2d280e7b0fd183e97829a4819bc",
+            "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+            "image": "https://image.cnbcfm.com/api/v1/image/108369735-1790708721611-gettyimages-2297232274-AFP_C9Q39QB.jpeg?v=1790708808&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-15T15:07:26.000Z",
+            "path": "articles/9ee7e2d280e7b0fd183e97829a4819bc.json"
+          },
           {
             "id": "d54f3eafda3178728775c49ec4409144",
             "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
@@ -1241,11 +1269,20 @@
             "category": "stocks",
             "published_at": "2026-10-15T11:54:43.000Z",
             "path": "articles/d54f3eafda3178728775c49ec4409144.json"
-          },
+          }
+        ]
+      },
+      {
+        "id": "amd",
+        "name": "AMD",
+        "type": "company",
+        "icon": "",
+        "count": 2,
+        "articles": [
           {
-            "id": "9ee7e2d280e7b0fd183e97829a4819bc",
-            "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-            "image": "https://image.cnbcfm.com/api/v1/image/108369735-1790708721611-gettyimages-2297232274-AFP_C9Q39QB.jpeg?v=1790708808&w=1920&h=1080",
+            "id": "ee50a98846f5eca5bd67c8a7873266aa",
+            "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+            "image": "https://image.cnbcfm.com/api/v1/image/108287444-1775496466036-tsmc_cowos_chips.jpg?v=1775509400&w=1920&h=1080",
             "source": {
               "id": "cnbc",
               "name": "CNBC",
@@ -1253,8 +1290,59 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-10-15T07:51:22.000Z",
-            "path": "articles/9ee7e2d280e7b0fd183e97829a4819bc.json"
+            "published_at": "2026-10-15T15:04:22.000Z",
+            "path": "articles/ee50a98846f5eca5bd67c8a7873266aa.json"
+          },
+          {
+            "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
+            "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+            "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-15T14:40:22.000Z",
+            "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
+          }
+        ]
+      },
+      {
+        "id": "tsm",
+        "name": "TSMC",
+        "type": "company",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "ee50a98846f5eca5bd67c8a7873266aa",
+            "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+            "image": "https://image.cnbcfm.com/api/v1/image/108287444-1775496466036-tsmc_cowos_chips.jpg?v=1775509400&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-15T15:04:22.000Z",
+            "path": "articles/ee50a98846f5eca5bd67c8a7873266aa.json"
+          },
+          {
+            "id": "3f9472570183c1c6687f59839e439179",
+            "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+            "image": "https://image.cnbcfm.com/api/v1/image/108131996-17447197412025-04-15t062815z_1969410792_rc25ydai7qeg_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-15T08:09:37.000Z",
+            "path": "articles/3f9472570183c1c6687f59839e439179.json"
           }
         ]
       },
@@ -1407,16 +1495,16 @@
         ]
       },
       {
-        "id": "amd",
-        "name": "AMD",
+        "id": "aapl",
+        "name": "Apple",
         "type": "company",
-        "icon": "",
+        "icon": "https://logo.clearbit.com/apple.com",
         "count": 1,
         "articles": [
           {
-            "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
-            "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-            "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
+            "id": "ee50a98846f5eca5bd67c8a7873266aa",
+            "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+            "image": "https://image.cnbcfm.com/api/v1/image/108287444-1775496466036-tsmc_cowos_chips.jpg?v=1775509400&w=1920&h=1080",
             "source": {
               "id": "cnbc",
               "name": "CNBC",
@@ -1424,8 +1512,8 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-10-15T14:40:22.000Z",
-            "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
+            "published_at": "2026-10-15T15:04:22.000Z",
+            "path": "articles/ee50a98846f5eca5bd67c8a7873266aa.json"
           }
         ]
       },
@@ -1541,29 +1629,6 @@
             "category": "crypto",
             "published_at": "2026-10-15T12:35:24.000Z",
             "path": "articles/2b5f8ef074eaf8bc515f0f0799e04876.json"
-          }
-        ]
-      },
-      {
-        "id": "tsm",
-        "name": "TSMC",
-        "type": "company",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "3f9472570183c1c6687f59839e439179",
-            "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-            "image": "https://image.cnbcfm.com/api/v1/image/108131996-17447197412025-04-15t062815z_1969410792_rc25ydai7qeg_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-15T08:09:37.000Z",
-            "path": "articles/3f9472570183c1c6687f59839e439179.json"
           }
         ]
       },

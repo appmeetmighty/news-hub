@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T12:31:10.915Z",
+  "updated_at": "2026-10-15T15:15:50.895Z",
   "id": "aapl",
   "symbol": "AAPL",
   "name": "Apple",
@@ -7,20 +7,20 @@
   "total": 1,
   "articles": [
     {
-      "id": "6d9c919e55f4a2f3160eed089961551c",
-      "title": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
-      "description": "REA, a free toolkit that hands AI agents the keys to reverse engineering, crossed 100,000 GitHub stars in a week as AI-decompiled game mods, console ports, and Adobe clones flood the internet.",
+      "id": "ee50a98846f5eca5bd67c8a7873266aa",
+      "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+      "description": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://decrypt.co/380741/gta-v-iphone-free-photoshop-ai-tool-rea-upending-software",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/gaming-decrypt-style-gID_7.jpg@png",
+      "url": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108287444-1775496466036-tsmc_cowos_chips.jpg?v=1775509400&w=1920&h=1080",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
         {
           "id": "aapl",
@@ -31,96 +31,120 @@
           "icon": "https://logo.clearbit.com/apple.com"
         },
         {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "amd",
+          "symbol": "AMD",
+          "name": "AMD",
+          "type": "company",
+          "path": "tickers/amd.json",
+          "icon": ""
+        },
+        {
+          "id": "tsm",
+          "symbol": "TSM",
+          "name": "TSMC",
+          "type": "company",
+          "path": "tickers/tsm.json",
+          "icon": ""
+        },
+        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-10-12T19:46:03.000Z",
+      "published_at": "2026-10-15T15:04:22.000Z",
       "related": [
         {
-          "id": "9c8e11306aed8dea2809afa0456a09c1",
-          "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
+          "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
+          "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+          "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-14T21:16:03.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-15T14:40:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
+        },
+        {
+          "id": "3f9472570183c1c6687f59839e439179",
+          "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+          "image": "https://image.cnbcfm.com/api/v1/image/108131996-17447197412025-04-15t062815z_1969410792_rc25ydai7qeg_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T08:09:37.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
+          "path": "articles/3f9472570183c1c6687f59839e439179.json"
         },
         {
-          "id": "0a270fa550ff2cbe180b24d3e73724b4",
-          "title": "Morning Minute: Solana Is About To Get Faster",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/anatoly-yakovenko-solana-decrypt-style-scaled-gID_7.jpg@png",
+          "id": "b42ae4271a583f4820134c7dd44e3e5d",
+          "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-15T12:07:08.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-15T12:17:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/0a270fa550ff2cbe180b24d3e73724b4.json"
+          "path": "articles/b42ae4271a583f4820134c7dd44e3e5d.json"
         },
         {
-          "id": "1c77f0ead67b6b5ab913174447f31ec8",
-          "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png@png",
+          "id": "c57bf11da07c53a1c9d8d703b82b94c3",
+          "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363714-1791231710449-108363714-1789572211685-108363714-17895721022026-09-16t151959z_4801821_rc2dknacke3t_rtrmadp_0_usa-stocks.jpeg?v=1791231728&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-15T11:48:42.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 55,
-          "path": "articles/1c77f0ead67b6b5ab913174447f31ec8.json"
-        },
-        {
-          "id": "6db68b0c68e7a435a836f9836f5c1d97",
-          "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-15T10:01:21.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-15T13:24:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6db68b0c68e7a435a836f9836f5c1d97.json"
+          "path": "articles/c57bf11da07c53a1c9d8d703b82b94c3.json"
         },
         {
-          "id": "df45ada0e17e2075b74cc1e6d96fe41b",
-          "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
+          "id": "9ee7e2d280e7b0fd183e97829a4819bc",
+          "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369735-1790708721611-gettyimages-2297232274-AFP_C9Q39QB.jpeg?v=1790708808&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-14T21:46:04.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-15T15:07:26.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/df45ada0e17e2075b74cc1e6d96fe41b.json"
+          "breaking_score": 0,
+          "path": "articles/9ee7e2d280e7b0fd183e97829a4819bc.json"
         }
       ],
-      "path": "articles/6d9c919e55f4a2f3160eed089961551c.json"
+      "path": "articles/ee50a98846f5eca5bd67c8a7873266aa.json"
     }
   ]
 }

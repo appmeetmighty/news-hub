@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T09:01:20.044Z",
+  "updated_at": "2026-10-15T02:01:15.590Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
@@ -7,21 +7,29 @@
   "total": 1,
   "articles": [
     {
-      "id": "e2650901af077a91c6728447901ade4b",
-      "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
-      "description": "Google Cloud unveiled a single Gemini agent that takes goals instead of questions, works in the background for days, and can join a company as a staffer with its own inbox and calendar.",
+      "id": "c6676f758aae0f81695f1a7449cb7204",
+      "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
+      "description": "Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3.3 billion in 2024.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg@png",
+      "url": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108411728-1792027240556-gettyimages-2299270609-DSC_0647.jpeg?v=1792027280&w=1920&h=1080",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
         {
           "id": "googl",
           "symbol": "GOOGL",
@@ -29,66 +37,10 @@
           "type": "company",
           "path": "tickers/googl.json",
           "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "gemini",
-          "symbol": "GEMINI",
-          "name": "Gemini",
-          "type": "company",
-          "path": "tickers/gemini.json",
-          "icon": ""
         }
       ],
-      "published_at": "2026-10-08T21:16:03.000Z",
+      "published_at": "2026-10-15T01:56:53.000Z",
       "related": [
-        {
-          "id": "4e9ef86bb71b2c57979f9476a8648fce",
-          "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-13-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-09T16:36:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4e9ef86bb71b2c57979f9476a8648fce.json"
-        },
-        {
-          "id": "f16772da153cfc5055536291a0969257",
-          "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-ai-jobs-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-12T21:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f16772da153cfc5055536291a0969257.json"
-        },
-        {
-          "id": "12cf036bd163a720434be2664be6b785",
-          "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ripple-logo-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-12T21:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/12cf036bd163a720434be2664be6b785.json"
-        },
         {
           "id": "4b484a31feefdb465e4be4657491bf1d",
           "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
@@ -106,23 +58,71 @@
           "path": "articles/4b484a31feefdb465e4be4657491bf1d.json"
         },
         {
-          "id": "6d9c919e55f4a2f3160eed089961551c",
-          "title": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/gaming-decrypt-style-gID_7.jpg@png",
+          "id": "67b930aad01e6cf5a7d0b377de46c09d",
+          "title": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+          "image": "https://image.cnbcfm.com/api/v1/image/108407087-1791955760925-gettyimages-2299270775-DSC_0650.jpeg?v=1791955782&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-12T19:46:03.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-15T00:30:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6d9c919e55f4a2f3160eed089961551c.json"
+          "path": "articles/67b930aad01e6cf5a7d0b377de46c09d.json"
+        },
+        {
+          "id": "f3651d50f918e0f3205d1b4594093988",
+          "title": "Anduril employee tender offer would value the defense tech startup at $90 billion",
+          "image": "https://image.cnbcfm.com/api/v1/image/108409780-1791999947034-gettyimages-2287551518-dsc_1707_hacgutxe.jpeg?v=1791999972&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-14T20:24:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f3651d50f918e0f3205d1b4594093988.json"
+        },
+        {
+          "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
+          "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T01:07:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
+        },
+        {
+          "id": "e90206804bb22fa3f67d88fea56bb02f",
+          "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
+          "image": "https://image.cnbcfm.com/api/v1/image/106900956-16243843872021-06-22t172417z_879139053_rc2t5o9wpyaj_rtrmadp_0_usa-fed-stress-tests.jpeg?v=1697983261&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-14T22:48:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e90206804bb22fa3f67d88fea56bb02f.json"
         }
       ],
-      "path": "articles/e2650901af077a91c6728447901ade4b.json"
+      "path": "articles/c6676f758aae0f81695f1a7449cb7204.json"
     }
   ]
 }

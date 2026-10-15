@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-15T10:15:47.475Z",
+  "updated_at": "2026-10-15T10:31:08.841Z",
   "total": 30,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 33
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 31
+      "count": 32
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 32
     },
     {
       "id": "ai",
@@ -37,7 +37,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 8
+      "count": 9
     },
     {
       "id": "xrp",
@@ -46,7 +46,7 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 6
+      "count": 5
     },
     {
       "id": "stablecoin",
@@ -72,6 +72,15 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 3
     },
     {
       "id": "etf",
@@ -137,15 +146,6 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
-      "count": 2
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 2
     },
     {

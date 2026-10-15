@@ -1,11 +1,129 @@
 {
-  "updated_at": "2026-10-15T11:01:24.104Z",
+  "updated_at": "2026-10-15T11:15:49.678Z",
   "id": "gold",
   "symbol": "GOLD",
   "name": "Gold",
   "type": "commodity",
-  "total": 2,
+  "total": 3,
   "articles": [
+    {
+      "id": "fd37472f11dc6e14daddaff649ef6d25",
+      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+      "description": "Your day-ahead look for Oct. 15, 2026",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f8437e589e595529cc560ac6a76355d8b08defb-5184x3456.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "gold",
+          "symbol": "GOLD",
+          "name": "Gold",
+          "type": "commodity",
+          "path": "tickers/gold.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-15T11:15:00.000Z",
+      "related": [
+        {
+          "id": "f558ca8fda3bd280caa6ecdcc7e18010",
+          "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/cf236124298c64926d37601e39c5a05a5c54ffd0-1920x1080.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.4384&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-14T15:05:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f558ca8fda3bd280caa6ecdcc7e18010.json"
+        },
+        {
+          "id": "227905fd51d8013c3193392453363ab6",
+          "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WX6QRMY3H03AP4FKTGM4KT/hi-why-the-crypto-market-is-falling-lately2.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-14T10:25:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/227905fd51d8013c3193392453363ab6.json"
+        },
+        {
+          "id": "9f711efc3a6c754cddd07ae4b607dfa3",
+          "title": "Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/797ef81169c7c1187767036de7aaa493b4483220-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-14T09:45:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9f711efc3a6c754cddd07ae4b607dfa3.json"
+        },
+        {
+          "id": "1f9256277c055aa1f5c01180d3dd220c",
+          "title": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ac927ec281513c4179cc6fd9f1dbb52289fbeb4-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T10:52:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/1f9256277c055aa1f5c01180d3dd220c.json"
+        },
+        {
+          "id": "358d341e5aa3d34e9b51aad7da654e8f",
+          "title": "Live updates: Bitcoin back under $81,000 as AI selloff worsens",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/369d76d050eecf9efecb8e1dc7767756f908070f-1508x844.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T10:16:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/358d341e5aa3d34e9b51aad7da654e8f.json"
+        }
+      ],
+      "path": "articles/fd37472f11dc6e14daddaff649ef6d25.json"
+    },
     {
       "id": "f558ca8fda3bd280caa6ecdcc7e18010",
       "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
@@ -47,6 +165,22 @@
       ],
       "published_at": "2026-10-14T15:05:15.000Z",
       "related": [
+        {
+          "id": "fd37472f11dc6e14daddaff649ef6d25",
+          "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f8437e589e595529cc560ac6a76355d8b08defb-5184x3456.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T11:15:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fd37472f11dc6e14daddaff649ef6d25.json"
+        },
         {
           "id": "227905fd51d8013c3193392453363ab6",
           "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author ",
@@ -110,22 +244,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/358d341e5aa3d34e9b51aad7da654e8f.json"
-        },
-        {
-          "id": "82491999bc8487ec761ad2b6ce170dfa",
-          "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-15T04:13:56.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/82491999bc8487ec761ad2b6ce170dfa.json"
         }
       ],
       "path": "articles/f558ca8fda3bd280caa6ecdcc7e18010.json"
@@ -165,6 +283,22 @@
       ],
       "published_at": "2026-10-14T10:25:53.000Z",
       "related": [
+        {
+          "id": "fd37472f11dc6e14daddaff649ef6d25",
+          "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f8437e589e595529cc560ac6a76355d8b08defb-5184x3456.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T11:15:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fd37472f11dc6e14daddaff649ef6d25.json"
+        },
         {
           "id": "f558ca8fda3bd280caa6ecdcc7e18010",
           "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
@@ -228,22 +362,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/69ab2f5090054c71378275ced6fa7e83.json"
-        },
-        {
-          "id": "8c0dffa47f24d4877341a0cc8e76ebf9",
-          "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-15T07:23:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8c0dffa47f24d4877341a0cc8e76ebf9.json"
         }
       ],
       "path": "articles/227905fd51d8013c3193392453363ab6.json"

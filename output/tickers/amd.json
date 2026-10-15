@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T09:15:42.791Z",
+  "updated_at": "2026-10-15T08:32:22.938Z",
   "id": "amd",
   "symbol": "AMD",
   "name": "AMD",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "1fc5b39d1caaa962c7e666491b468bd1",
-      "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
-      "description": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month.",
+      "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
+      "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+      "description": "A sell-off in global technology hardware stocks deepened Thursday.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108345361-1785944333010-108345361-1785944232801-gettyimages-2276989758-AFP_B3NR8XA.jpeg?v=1785944350&w=1920&h=1080",
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,12 +23,12 @@
       "category": "stocks",
       "entities": [
         {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
           "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
         },
         {
           "id": "amd",
@@ -39,26 +39,18 @@
           "icon": ""
         },
         {
-          "id": "intc",
-          "symbol": "INTC",
-          "name": "Intel",
-          "type": "company",
-          "path": "tickers/intc.json",
-          "icon": ""
-        },
-        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-10-06T20:05:53.000Z",
+      "published_at": "2026-10-15T08:18:14.000Z",
       "related": [
         {
-          "id": "b063ddd2b7d4cdf692cf7da5d1e52aaa",
-          "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
-          "image": "https://image.cnbcfm.com/api/v1/image/108373382-1791299845438-gettyimages-2296215726-20090101260924-99-741347.jpeg?v=1791299900&w=1920&h=1080",
+          "id": "5bdfc572ade50ffb68fa1958b83ecb69",
+          "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108403848-1791906460600-Dell1.jpg?v=1791906540&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -66,47 +58,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T18:48:36.000Z",
+          "published_at": "2026-10-14T20:19:25.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b063ddd2b7d4cdf692cf7da5d1e52aaa.json"
+          "breaking_score": 70,
+          "path": "articles/5bdfc572ade50ffb68fa1958b83ecb69.json"
         },
         {
-          "id": "4650e543ba43e5278bf3df8351fdd3c8",
-          "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac4dbd7392625e4b7d80a9d014d051d307a4d10c-3681x2071.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-06T12:31:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4650e543ba43e5278bf3df8351fdd3c8.json"
-        },
-        {
-          "id": "d5e81525716b35e18a74583928c85718",
-          "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-06T10:36:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d5e81525716b35e18a74583928c85718.json"
-        },
-        {
-          "id": "182ba3daafdf44b96acb9d8134284978",
-          "title": "A new analyst call on Home Depot reflects our feeling on what to do with the stock",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351083-1787075430328-108351083-1787075375921-gettyimages-2289917471-HOME_DEPOT_EARNS.jpg?v=1787075441&w=1920&h=1080",
+          "id": "bfdabdc0a3f4349d8ff714454297ab93",
+          "title": "AI infrastructure stocks tumble. Here's a few reasons for the sell-off ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -114,15 +74,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-06T20:00:53.000Z",
+          "published_at": "2026-10-14T18:41:11.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/182ba3daafdf44b96acb9d8134284978.json"
+          "breaking_score": 20,
+          "path": "articles/bfdabdc0a3f4349d8ff714454297ab93.json"
         },
         {
-          "id": "c95f9cabaf433dcfdd0b8bef4c20eab3",
-          "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359880-1788886357349-gettyimages-2293680927-AA_08092026_2943632.jpeg?v=1788886580&w=1920&h=1080",
+          "id": "9ee7e2d280e7b0fd183e97829a4819bc",
+          "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369735-1790708721611-gettyimages-2297232274-AFP_C9Q39QB.jpeg?v=1790708808&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -130,13 +90,45 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-07T08:59:59.000Z",
+          "published_at": "2026-10-15T07:51:22.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/c95f9cabaf433dcfdd0b8bef4c20eab3.json"
+          "path": "articles/9ee7e2d280e7b0fd183e97829a4819bc.json"
+        },
+        {
+          "id": "15d129070686a913bd3f7a5ae70dec40",
+          "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire' ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108248967-17677282972026-01-06t193319z_307668078_rc2vviahocsn_rtrmadp_0_ukraine-crisis-coalition.jpeg?v=1767728325&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T07:46:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/15d129070686a913bd3f7a5ae70dec40.json"
+        },
+        {
+          "id": "000e7e28589cdace53ee652be1e03e86",
+          "title": "UK economy grew 0.1% in August, beating expectations",
+          "image": "https://image.cnbcfm.com/api/v1/image/108104180-1739952365535-gettyimages-2168418794-20240827_borough_market_014.jpeg?v=1755663204&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T07:15:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/000e7e28589cdace53ee652be1e03e86.json"
         }
       ],
-      "path": "articles/1fc5b39d1caaa962c7e666491b468bd1.json"
+      "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
     }
   ]
 }

@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-10-15T14:15:54.451Z",
+  "updated_at": "2026-10-15T14:31:10.381Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
+    {
+      "id": "7c12116efddb46352aabd13036721263",
+      "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+      "description": "AWS, Anthropic, OpenAI and Google are racing to build forward deployed engineering teams as companies seek returns on their AI investments.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108403731-1791905392135-gettyimages-2276547281-UK_ANTHROPIC.jpeg?v=1792072965&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-15T14:10:14.000Z",
+      "related": [
+        {
+          "id": "15c9c51825429cec10bb5b8cf9c04bc7",
+          "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T03:48:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/15c9c51825429cec10bb5b8cf9c04bc7.json"
+        },
+        {
+          "id": "4d9f0144d4e20fadaa53119f8c4b7ec6",
+          "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
+          "image": "https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792009377&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-14T21:18:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4d9f0144d4e20fadaa53119f8c4b7ec6.json"
+        },
+        {
+          "id": "66c9d686a45df318ba34cd14d53f65b9",
+          "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+          "image": "https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-14T20:06:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/66c9d686a45df318ba34cd14d53f65b9.json"
+        },
+        {
+          "id": "9c8e11306aed8dea2809afa0456a09c1",
+          "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-14T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
+        },
+        {
+          "id": "09bb766297cdc9a77ffa14d08374db49",
+          "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-13T21:46:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/09bb766297cdc9a77ffa14d08374db49.json"
+        }
+      ],
+      "path": "articles/7c12116efddb46352aabd13036721263.json"
+    },
     {
       "id": "4d9f0144d4e20fadaa53119f8c4b7ec6",
       "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
@@ -33,6 +165,22 @@
       ],
       "published_at": "2026-10-14T21:18:13.000Z",
       "related": [
+        {
+          "id": "7c12116efddb46352aabd13036721263",
+          "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108403731-1791905392135-gettyimages-2276547281-UK_ANTHROPIC.jpeg?v=1792072965&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T14:10:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7c12116efddb46352aabd13036721263.json"
+        },
         {
           "id": "09bb766297cdc9a77ffa14d08374db49",
           "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
@@ -66,9 +214,9 @@
           "path": "articles/5c7820e024135b8f7e8cadb3a7ae37fa.json"
         },
         {
-          "id": "cab442cc01a1ea37f0f2dd2ae758086b",
-          "title": "Tale of two markets: Our 3 biggest winners and losers over the past five weeks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108408962-1791988869475-gettyimages-2300173684-mms24890_uqhapfei.jpeg?v=1791992160&w=1920&h=1080",
+          "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
+          "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+          "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -76,15 +224,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T14:02:19.000Z",
+          "published_at": "2026-10-15T14:29:59.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cab442cc01a1ea37f0f2dd2ae758086b.json"
+          "breaking_score": 20,
+          "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
         },
         {
-          "id": "c8661289d7f142a88adb8ad5cd8f56e3",
-          "title": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
-          "image": "https://image.cnbcfm.com/api/v1/image/108413435-1792056840853-gettyimages-1843631-1843422HO002_MOAB.jpeg?v=1792066329&w=1920&h=1080",
+          "id": "c1637148d6e4b01ffa96819716d07f5d",
+          "title": "Trump says Nidal Hasan execution won't be live-streamed",
+          "image": "https://image.cnbcfm.com/api/v1/image/108372953-1791245442647-2012-07-24T110000Z_96427114_TM3E87P1D1001_RTRMADP_3_FBI-REPORT-FORTHOOD.JPG?v=1791245495&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -92,26 +240,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T14:00:59.000Z",
+          "published_at": "2026-10-15T14:27:23.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/c8661289d7f142a88adb8ad5cd8f56e3.json"
-        },
-        {
-          "id": "88ee0af4ee45278b1e377e3b8dd23d21",
-          "title": "College was supposed to be ‘good debt.’ For many borrowers, it isn’t paying off",
-          "image": "https://image.cnbcfm.com/api/v1/image/108372886-1791235252562-Plunkert-good-debt-tied-graduate.jpg?v=1791235389&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T13:58:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/88ee0af4ee45278b1e377e3b8dd23d21.json"
+          "path": "articles/c1637148d6e4b01ffa96819716d07f5d.json"
         }
       ],
       "path": "articles/4d9f0144d4e20fadaa53119f8c4b7ec6.json"
@@ -166,6 +298,22 @@
           "path": "articles/4d9f0144d4e20fadaa53119f8c4b7ec6.json"
         },
         {
+          "id": "7c12116efddb46352aabd13036721263",
+          "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108403731-1791905392135-gettyimages-2276547281-UK_ANTHROPIC.jpeg?v=1792072965&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T14:10:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7c12116efddb46352aabd13036721263.json"
+        },
+        {
           "id": "9c8e11306aed8dea2809afa0456a09c1",
           "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
@@ -182,6 +330,22 @@
           "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
         },
         {
+          "id": "af243abb820b5efc947b9d7d6e3a7092",
+          "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T14:27:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/af243abb820b5efc947b9d7d6e3a7092.json"
+        },
+        {
           "id": "2c503c6c01281866554871bea368a569",
           "title": "Ledger Announces Atom Touchscreen Android Device",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/ledger-atom-decrypt-style-gID_7.jpg@png",
@@ -196,38 +360,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2c503c6c01281866554871bea368a569.json"
-        },
-        {
-          "id": "d4ea2235b05b0ff0b1ff4eef22259abd",
-          "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-15T12:42:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d4ea2235b05b0ff0b1ff4eef22259abd.json"
-        },
-        {
-          "id": "0a270fa550ff2cbe180b24d3e73724b4",
-          "title": "Morning Minute: Solana Is About To Get Faster",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/anatoly-yakovenko-solana-decrypt-style-scaled-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-15T12:07:08.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0a270fa550ff2cbe180b24d3e73724b4.json"
         }
       ],
       "path": "articles/09bb766297cdc9a77ffa14d08374db49.json"

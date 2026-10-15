@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-10-15T12:45:52.057Z",
+  "updated_at": "2026-10-15T13:01:24.028Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 21,
+  "total": 20,
   "articles": [
+    {
+      "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
+      "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+      "description": "A sell-off in global technology hardware stocks deepened Thursday.",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "amd",
+          "symbol": "AMD",
+          "name": "AMD",
+          "type": "company",
+          "path": "tickers/amd.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-15T12:52:40.000Z",
+      "related": [
+        {
+          "id": "b42ae4271a583f4820134c7dd44e3e5d",
+          "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:17:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b42ae4271a583f4820134c7dd44e3e5d.json"
+        },
+        {
+          "id": "b50aa2aca600543bfcb2ffd6c4480d45",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333423-1783694664972-gettyimages-2284861394-SK_HYNIX_IPO.jpeg?v=1783694687&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:54:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b50aa2aca600543bfcb2ffd6c4480d45.json"
+        },
+        {
+          "id": "e4800ca1d078ea2025df9044ab7e6fde",
+          "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+          "image": "https://image.cnbcfm.com/api/v1/image/107089766-1792067872595-107089766-1657925387054-gettyimages-1241044672-05312022_PHH_COSTCO_01.jpg?v=1792067884&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T13:00:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e4800ca1d078ea2025df9044ab7e6fde.json"
+        },
+        {
+          "id": "c57bf11da07c53a1c9d8d703b82b94c3",
+          "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363714-1791231710449-108363714-1789572211685-108363714-17895721022026-09-16t151959z_4801821_rc2dknacke3t_rtrmadp_0_usa-stocks.jpeg?v=1791231728&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:56:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c57bf11da07c53a1c9d8d703b82b94c3.json"
+        },
+        {
+          "id": "88ee0af4ee45278b1e377e3b8dd23d21",
+          "title": "College was supposed to be ‘good debt.’ For many borrowers, it isn’t paying off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108372886-1791235252562-Plunkert-good-debt-tied-graduate.jpg?v=1791235389&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:53:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/88ee0af4ee45278b1e377e3b8dd23d21.json"
+        }
+      ],
+      "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
+    },
     {
       "id": "d4ea2235b05b0ff0b1ff4eef22259abd",
       "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
@@ -163,7 +287,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T08:18:14.000Z",
+          "published_at": "2026-10-15T12:52:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
@@ -179,15 +303,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T12:45:05.000Z",
+          "published_at": "2026-10-15T13:00:52.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e4800ca1d078ea2025df9044ab7e6fde.json"
         },
         {
-          "id": "20290f61567853ecd491e83ad89e7d36",
-          "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-          "image": "https://image.cnbcfm.com/api/v1/image/108413830-1792064183506-gettyimages-504969398-ZERVOS_JEFFERIES.jpeg?v=1792064198&w=1920&h=1080",
+          "id": "c57bf11da07c53a1c9d8d703b82b94c3",
+          "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363714-1791231710449-108363714-1789572211685-108363714-17895721022026-09-16t151959z_4801821_rc2dknacke3t_rtrmadp_0_usa-stocks.jpeg?v=1791231728&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -195,15 +319,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T12:40:58.000Z",
+          "published_at": "2026-10-15T12:56:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/20290f61567853ecd491e83ad89e7d36.json"
+          "path": "articles/c57bf11da07c53a1c9d8d703b82b94c3.json"
         },
         {
-          "id": "840e8d0828362614e841e2b50d5a14f2",
-          "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-          "image": "https://image.cnbcfm.com/api/v1/image/108413630-1792061524731-gettyimages-2287713475-Korea_KOSPI_Index.jpeg?v=1792061563&w=1920&h=1080",
+          "id": "b50aa2aca600543bfcb2ffd6c4480d45",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333423-1783694664972-gettyimages-2284861394-SK_HYNIX_IPO.jpeg?v=1783694687&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -211,26 +335,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T12:15:09.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/840e8d0828362614e841e2b50d5a14f2.json"
-        },
-        {
-          "id": "20ae6bd37cf8a8cf5f02f38eed63ffba",
-          "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T12:11:15.000Z",
+          "published_at": "2026-10-15T12:54:30.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/20ae6bd37cf8a8cf5f02f38eed63ffba.json"
+          "path": "articles/b50aa2aca600543bfcb2ffd6c4480d45.json"
+        },
+        {
+          "id": "88ee0af4ee45278b1e377e3b8dd23d21",
+          "title": "College was supposed to be ‘good debt.’ For many borrowers, it isn’t paying off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108372886-1791235252562-Plunkert-good-debt-tied-graduate.jpg?v=1791235389&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:53:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/88ee0af4ee45278b1e377e3b8dd23d21.json"
         }
       ],
       "path": "articles/b42ae4271a583f4820134c7dd44e3e5d.json"
@@ -279,15 +403,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T12:45:05.000Z",
+          "published_at": "2026-10-15T13:00:52.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e4800ca1d078ea2025df9044ab7e6fde.json"
         },
         {
-          "id": "20290f61567853ecd491e83ad89e7d36",
-          "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-          "image": "https://image.cnbcfm.com/api/v1/image/108413830-1792064183506-gettyimages-504969398-ZERVOS_JEFFERIES.jpeg?v=1792064198&w=1920&h=1080",
+          "id": "c57bf11da07c53a1c9d8d703b82b94c3",
+          "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363714-1791231710449-108363714-1789572211685-108363714-17895721022026-09-16t151959z_4801821_rc2dknacke3t_rtrmadp_0_usa-stocks.jpeg?v=1791231728&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -295,15 +419,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T12:40:58.000Z",
+          "published_at": "2026-10-15T12:56:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/20290f61567853ecd491e83ad89e7d36.json"
+          "path": "articles/c57bf11da07c53a1c9d8d703b82b94c3.json"
         },
         {
-          "id": "b42ae4271a583f4820134c7dd44e3e5d",
-          "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
+          "id": "b50aa2aca600543bfcb2ffd6c4480d45",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333423-1783694664972-gettyimages-2284861394-SK_HYNIX_IPO.jpeg?v=1783694687&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -311,15 +435,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T12:17:13.000Z",
+          "published_at": "2026-10-15T12:54:30.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b42ae4271a583f4820134c7dd44e3e5d.json"
+          "path": "articles/b50aa2aca600543bfcb2ffd6c4480d45.json"
         },
         {
-          "id": "840e8d0828362614e841e2b50d5a14f2",
-          "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-          "image": "https://image.cnbcfm.com/api/v1/image/108413630-1792061524731-gettyimages-2287713475-Korea_KOSPI_Index.jpeg?v=1792061563&w=1920&h=1080",
+          "id": "88ee0af4ee45278b1e377e3b8dd23d21",
+          "title": "College was supposed to be ‘good debt.’ For many borrowers, it isn’t paying off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108372886-1791235252562-Plunkert-good-debt-tied-graduate.jpg?v=1791235389&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -327,153 +451,29 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T12:15:09.000Z",
+          "published_at": "2026-10-15T12:53:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/88ee0af4ee45278b1e377e3b8dd23d21.json"
+        },
+        {
+          "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
+          "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+          "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T12:52:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
-          "path": "articles/840e8d0828362614e841e2b50d5a14f2.json"
-        },
-        {
-          "id": "20ae6bd37cf8a8cf5f02f38eed63ffba",
-          "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T12:11:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/20ae6bd37cf8a8cf5f02f38eed63ffba.json"
+          "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
         }
       ],
       "path": "articles/1b3abce3c21a970fac3498fb7728e71d.json"
-    },
-    {
-      "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
-      "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-      "description": "A sell-off in global technology hardware stocks deepened Thursday.",
-      "reading_time_minutes": 1,
-      "breaking_score": 20,
-      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
-        {
-          "id": "amd",
-          "symbol": "AMD",
-          "name": "AMD",
-          "type": "company",
-          "path": "tickers/amd.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-15T08:18:14.000Z",
-      "related": [
-        {
-          "id": "b42ae4271a583f4820134c7dd44e3e5d",
-          "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T12:17:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b42ae4271a583f4820134c7dd44e3e5d.json"
-        },
-        {
-          "id": "bfdabdc0a3f4349d8ff714454297ab93",
-          "title": "AI infrastructure stocks tumble. Here's a few reasons for the sell-off ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-14T18:41:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/bfdabdc0a3f4349d8ff714454297ab93.json"
-        },
-        {
-          "id": "e4800ca1d078ea2025df9044ab7e6fde",
-          "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-          "image": "https://image.cnbcfm.com/api/v1/image/107089766-1792067872595-107089766-1657925387054-gettyimages-1241044672-05312022_PHH_COSTCO_01.jpg?v=1792067884&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T12:45:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e4800ca1d078ea2025df9044ab7e6fde.json"
-        },
-        {
-          "id": "20290f61567853ecd491e83ad89e7d36",
-          "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-          "image": "https://image.cnbcfm.com/api/v1/image/108413830-1792064183506-gettyimages-504969398-ZERVOS_JEFFERIES.jpeg?v=1792064198&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T12:40:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/20290f61567853ecd491e83ad89e7d36.json"
-        },
-        {
-          "id": "840e8d0828362614e841e2b50d5a14f2",
-          "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-          "image": "https://image.cnbcfm.com/api/v1/image/108413630-1792061524731-gettyimages-2287713475-Korea_KOSPI_Index.jpeg?v=1792061563&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T12:15:09.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/840e8d0828362614e841e2b50d5a14f2.json"
-        }
-      ],
-      "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
     },
     {
       "id": "3f9472570183c1c6687f59839e439179",
@@ -535,15 +535,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T12:45:05.000Z",
+          "published_at": "2026-10-15T13:00:52.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e4800ca1d078ea2025df9044ab7e6fde.json"
         },
         {
-          "id": "20290f61567853ecd491e83ad89e7d36",
-          "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-          "image": "https://image.cnbcfm.com/api/v1/image/108413830-1792064183506-gettyimages-504969398-ZERVOS_JEFFERIES.jpeg?v=1792064198&w=1920&h=1080",
+          "id": "c57bf11da07c53a1c9d8d703b82b94c3",
+          "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363714-1791231710449-108363714-1789572211685-108363714-17895721022026-09-16t151959z_4801821_rc2dknacke3t_rtrmadp_0_usa-stocks.jpeg?v=1791231728&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -551,15 +551,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T12:40:58.000Z",
+          "published_at": "2026-10-15T12:56:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/20290f61567853ecd491e83ad89e7d36.json"
+          "path": "articles/c57bf11da07c53a1c9d8d703b82b94c3.json"
         },
         {
-          "id": "b42ae4271a583f4820134c7dd44e3e5d",
-          "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
-          "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
+          "id": "b50aa2aca600543bfcb2ffd6c4480d45",
+          "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333423-1783694664972-gettyimages-2284861394-SK_HYNIX_IPO.jpeg?v=1783694687&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -567,15 +567,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T12:17:13.000Z",
+          "published_at": "2026-10-15T12:54:30.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b42ae4271a583f4820134c7dd44e3e5d.json"
+          "path": "articles/b50aa2aca600543bfcb2ffd6c4480d45.json"
         },
         {
-          "id": "840e8d0828362614e841e2b50d5a14f2",
-          "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-          "image": "https://image.cnbcfm.com/api/v1/image/108413630-1792061524731-gettyimages-2287713475-Korea_KOSPI_Index.jpeg?v=1792061563&w=1920&h=1080",
+          "id": "88ee0af4ee45278b1e377e3b8dd23d21",
+          "title": "College was supposed to be ‘good debt.’ For many borrowers, it isn’t paying off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108372886-1791235252562-Plunkert-good-debt-tied-graduate.jpg?v=1791235389&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -583,10 +583,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T12:15:09.000Z",
+          "published_at": "2026-10-15T12:53:06.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/840e8d0828362614e841e2b50d5a14f2.json"
+          "breaking_score": 0,
+          "path": "articles/88ee0af4ee45278b1e377e3b8dd23d21.json"
         }
       ],
       "path": "articles/3f9472570183c1c6687f59839e439179.json"
@@ -680,7 +680,7 @@
         },
         {
           "id": "358d341e5aa3d34e9b51aad7da654e8f",
-          "title": "Live updates: Bitcoin trades near $81,000 as South Korea's chip-heavy Kospi continues to plunge",
+          "title": "Live updates: Bitcoin trades below $81,000 as South Korea's chip-heavy Kospi continues to plunge",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc55fc7b2084c7a9249cfc48c017751f29fb2366-1920x1000.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
             "id": "coindesk",
@@ -1182,114 +1182,6 @@
         }
       ],
       "path": "articles/66c9d686a45df318ba34cd14d53f65b9.json"
-    },
-    {
-      "id": "bfdabdc0a3f4349d8ff714454297ab93",
-      "title": "AI infrastructure stocks tumble. Here's a few reasons for the sell-off ",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "reading_time_minutes": 1,
-      "breaking_score": 20,
-      "url": "https://www.cnbc.com/investingclub/2026/10/14/ai-infrastructure-stocks-tumble-heres-a-few-reasons-for-the-sell-off-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-14T18:41:11.000Z",
-      "related": [
-        {
-          "id": "840e8d0828362614e841e2b50d5a14f2",
-          "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-          "image": "https://image.cnbcfm.com/api/v1/image/108413630-1792061524731-gettyimages-2287713475-Korea_KOSPI_Index.jpeg?v=1792061563&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T12:15:09.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/840e8d0828362614e841e2b50d5a14f2.json"
-        },
-        {
-          "id": "2d2e2b5a6693a77d0d111b22bf595364",
-          "title": "Cboe to expand options trading hours for major stocks and ETFs",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363764-1789576270258-gettyimages-2295603575-6e6a8946_copy_805hl6kr.jpeg?v=1789576365&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T12:01:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2d2e2b5a6693a77d0d111b22bf595364.json"
-        },
-        {
-          "id": "e2ebea63bfe5dc2fdaff9ce0adc85d33",
-          "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-          "image": "https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T08:18:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/e2ebea63bfe5dc2fdaff9ce0adc85d33.json"
-        },
-        {
-          "id": "7002095a1f2e7982a4d19a8f7571d837",
-          "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
-          "image": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-14T22:19:32.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7002095a1f2e7982a4d19a8f7571d837.json"
-        },
-        {
-          "id": "e4800ca1d078ea2025df9044ab7e6fde",
-          "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-          "image": "https://image.cnbcfm.com/api/v1/image/107089766-1792067872595-107089766-1657925387054-gettyimages-1241044672-05312022_PHH_COSTCO_01.jpg?v=1792067884&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T12:45:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e4800ca1d078ea2025df9044ab7e6fde.json"
-        }
-      ],
-      "path": "articles/bfdabdc0a3f4349d8ff714454297ab93.json"
     },
     {
       "id": "95b52abc04589634b17a1a5cec005f76",
@@ -2409,9 +2301,9 @@
           "path": "articles/15c9c51825429cec10bb5b8cf9c04bc7.json"
         },
         {
-          "id": "c6676f758aae0f81695f1a7449cb7204",
-          "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
-          "image": "https://image.cnbcfm.com/api/v1/image/108411728-1792027240556-gettyimages-2299270609-DSC_0647.jpeg?v=1792027280&w=1920&h=1080",
+          "id": "4d9f0144d4e20fadaa53119f8c4b7ec6",
+          "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
+          "image": "https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792009377&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -2419,10 +2311,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T01:56:53.000Z",
+          "published_at": "2026-10-14T21:18:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/c6676f758aae0f81695f1a7449cb7204.json"
+          "path": "articles/4d9f0144d4e20fadaa53119f8c4b7ec6.json"
         }
       ],
       "path": "articles/4b484a31feefdb465e4be4657491bf1d.json"

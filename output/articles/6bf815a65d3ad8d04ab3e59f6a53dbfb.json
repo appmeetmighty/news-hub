@@ -1,9 +1,9 @@
 {
   "id": "6bf815a65d3ad8d04ab3e59f6a53dbfb",
-  "title": "Live updates: Crypto gives up more ground as AI selloff picks up steam",
-  "description": "A Friday surge in oil prices is hitting already-shaky equity markets, sending the Nasdaq down more than 2%.",
+  "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
+  "description": "A Friday surge in oil prices hit already-shaky equity markets, sending the Nasdaq down more than 2%.",
   "reading_time_minutes": 1,
-  "breaking_score": 40,
+  "breaking_score": 60,
   "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
   "image": "https://cdn.sanity.io/images/s3y3vcno/production/879e7233d36e6974d9fba6a5d1cb72056508a458-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
   "source": {
@@ -15,44 +15,24 @@
   "category": "crypto",
   "entities": [
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": ""
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": ""
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": ""
     }
   ],
   "published_at": "2026-10-16T09:48:14.000Z",
   "related": [
-    {
-      "id": "3ca207c9d79c145a4aba5d797cef991b",
-      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-      "image": "https://image.cnbcfm.com/api/v1/image/108409918-1792001666276-2026-10-13T175311Z_748127171_RC2F2OACIXEA_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG?v=1792001733&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-10-16T20:02:21.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/3ca207c9d79c145a4aba5d797cef991b.json"
-    },
     {
       "id": "358d341e5aa3d34e9b51aad7da654e8f",
       "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
@@ -70,9 +50,9 @@
       "path": "articles/358d341e5aa3d34e9b51aad7da654e8f.json"
     },
     {
-      "id": "88d4e8d6b1464da2a0bfc5d14530e449",
-      "title": "At the White House, crypto policy vacancy looms large",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a557d00cbe2a4f9b6f42b53082f2cd587490332b-4031x2267.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.6796&fp-y=0.3524&w=1200&h=675&q=75",
+      "id": "f18da7c17b0dce1f7abeafe7938e0720",
+      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/891d851f5c1b7c4185f70d0e7835241eb1a6f7f3-1540x852.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -80,15 +60,15 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-10-15T18:48:02.000Z",
+      "published_at": "2026-10-16T04:14:22.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/88d4e8d6b1464da2a0bfc5d14530e449.json"
+      "path": "articles/f18da7c17b0dce1f7abeafe7938e0720.json"
     },
     {
-      "id": "f7fc894882151bf7de8355c8beb6c89f",
-      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ddf1efa5bb12b3aa1345b8718beec9eb6ab01db-2560x1440.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "id": "fd37472f11dc6e14daddaff649ef6d25",
+      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f8437e589e595529cc560ac6a76355d8b08defb-5184x3456.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -96,15 +76,15 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-10-15T15:00:00.000Z",
+      "published_at": "2026-10-15T11:15:00.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/f7fc894882151bf7de8355c8beb6c89f.json"
+      "path": "articles/fd37472f11dc6e14daddaff649ef6d25.json"
     },
     {
-      "id": "2b5f8ef074eaf8bc515f0f0799e04876",
-      "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "id": "1f9256277c055aa1f5c01180d3dd220c",
+      "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ac927ec281513c4179cc6fd9f1dbb52289fbeb4-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -112,10 +92,26 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-10-15T12:35:24.000Z",
+      "published_at": "2026-10-15T10:52:11.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 25,
+      "path": "articles/1f9256277c055aa1f5c01180d3dd220c.json"
+    },
+    {
+      "id": "0dab81ba28a85110c17d9a160914a7f4",
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6285ca18b516e7f58992440d81dd86fe7a6f6759-1000x694.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-10-15T04:25:15.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/2b5f8ef074eaf8bc515f0f0799e04876.json"
+      "path": "articles/0dab81ba28a85110c17d9a160914a7f4.json"
     }
   ]
 }

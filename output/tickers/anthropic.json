@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T13:45:49.134Z",
+  "updated_at": "2026-10-16T14:01:28.477Z",
   "id": "anthropic",
   "symbol": "ANTHROPIC",
   "name": "Anthropic",
@@ -7,13 +7,13 @@
   "total": 2,
   "articles": [
     {
-      "id": "f398a6ebe164fb2f296085db95081da0",
-      "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
-      "description": "The company is also engaged in early-stage discussions with other organizations, including Hugging Face.",
+      "id": "f61f2cc9549d9834ac2a1e83ba0cf050",
+      "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+      "description": "The spread is widening between AI leaders OpenAI and Anthropic as a sell-off in CoreWeave leads neocloud stocks lower.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108122992-1743183626304-gettyimages-2206682242-porzycki-nvidiaan250328_np9jq.jpeg?v=1747333759&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,16 +23,94 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
           "id": "anthropic",
           "symbol": "ANTHROPIC",
           "name": "Anthropic",
           "type": "company",
           "path": "tickers/anthropic.json",
           "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-10-15T20:35:21.000Z",
+      "published_at": "2026-10-16T13:43:53.000Z",
       "related": [
+        {
+          "id": "5e2ffe7ca451ee953e8f53cfdfed7126",
+          "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-16T10:39:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5e2ffe7ca451ee953e8f53cfdfed7126.json"
+        },
+        {
+          "id": "212d31c6fa13985d2588addb45a68fec",
+          "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51KABB9BETQZNEF1DB9SNM5/openai-ether.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-16T06:11:22.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/212d31c6fa13985d2588addb45a68fec.json"
+        },
+        {
+          "id": "18e5b1feaa2dd25d593315e4fdac46dc",
+          "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-16T04:29:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/18e5b1feaa2dd25d593315e4fdac46dc.json"
+        },
+        {
+          "id": "09bb766297cdc9a77ffa14d08374db49",
+          "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-13T21:46:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/09bb766297cdc9a77ffa14d08374db49.json"
+        },
         {
           "id": "9c8e11306aed8dea2809afa0456a09c1",
           "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
@@ -48,73 +126,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
-        },
-        {
-          "id": "c2dfeba4fe0b78d2b8f1dd3dc61e93ee",
-          "title": "SpaceX policy manager set to testify as part of NYC Council AI safety investigation",
-          "image": "https://image.cnbcfm.com/api/v1/image/108372804-1791228644008-gettyimages-2298141611-NYC_AI.jpeg?v=1791228676&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-16T08:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c2dfeba4fe0b78d2b8f1dd3dc61e93ee.json"
-        },
-        {
-          "id": "89a41ea6243fa2d989da59edaeac80b4",
-          "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
-          "image": "https://image.cnbcfm.com/api/v1/image/108419270-1792151092525-108419270-1792150895998-screenshot_2026-10-15_at_60952___pm.jpg?v=1792151098&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-16T13:44:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/89a41ea6243fa2d989da59edaeac80b4.json"
-        },
-        {
-          "id": "df0a9355f37b05493f3782e3882d3e0c",
-          "title": "Our top 10 things to watch in the stock market Friday ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108288868-1775676373129-gettyimages-2263312294-AFP_998777X.jpeg?v=1776774289&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-16T13:19:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/df0a9355f37b05493f3782e3882d3e0c.json"
-        },
-        {
-          "id": "166572d38ab55ef2174ab06d28cf1e68",
-          "title": "Stock fixing scandal could see Turkish companies frozen out of global indexes",
-          "image": "https://image.cnbcfm.com/api/v1/image/108419418-1792152556819-gettyimages-2293645770-suleymaniye.jpeg?v=1792152578&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-16T12:58:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/166572d38ab55ef2174ab06d28cf1e68.json"
         }
       ],
-      "path": "articles/f398a6ebe164fb2f296085db95081da0.json"
+      "path": "articles/f61f2cc9549d9834ac2a1e83ba0cf050.json"
     },
     {
       "id": "9c8e11306aed8dea2809afa0456a09c1",
@@ -158,9 +172,9 @@
       "published_at": "2026-10-14T21:16:03.000Z",
       "related": [
         {
-          "id": "f398a6ebe164fb2f296085db95081da0",
-          "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
-          "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
+          "id": "f61f2cc9549d9834ac2a1e83ba0cf050",
+          "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+          "image": "https://image.cnbcfm.com/api/v1/image/108122992-1743183626304-gettyimages-2206682242-porzycki-nvidiaan250328_np9jq.jpeg?v=1747333759&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -168,10 +182,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T20:35:21.000Z",
+          "published_at": "2026-10-16T13:43:53.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f398a6ebe164fb2f296085db95081da0.json"
+          "breaking_score": 20,
+          "path": "articles/f61f2cc9549d9834ac2a1e83ba0cf050.json"
         },
         {
           "id": "59e8799e222b6348ec50075fb2af8363",

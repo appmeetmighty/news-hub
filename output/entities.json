@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T11:31:05.764Z",
+  "updated_at": "2026-10-16T11:45:58.484Z",
   "total": 28,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 34
+      "count": 33
     },
     {
       "id": "regulation",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 13
     },
     {
       "id": "eth",
@@ -40,6 +40,15 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 7
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 6
     },
     {
       "id": "stablecoin",
@@ -55,15 +64,6 @@
       "type": "company",
       "path": "tickers/spacex.json",
       "icon": "",
-      "count": 5
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 5
     },
     {
@@ -110,26 +110,12 @@
       "count": 3
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 2
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
       "count": 2
     },
     {
@@ -174,6 +160,13 @@
       "name": "Mastercard",
       "type": "company",
       "path": "tickers/ma.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -224,6 +217,13 @@
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
       "icon": "",
       "count": 1
     },

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T11:01:21.583Z",
+  "updated_at": "2026-10-16T11:15:49.960Z",
   "articles": {
-    "generated_at": "2026-10-16T11:01:21.583Z",
+    "generated_at": "2026-10-16T11:15:49.960Z",
     "topics": [
       {
         "id": "crypto",
@@ -157,7 +157,7 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 35,
+        "count": 34,
         "articles": [
           {
             "id": "5aad9fe0638fc2cba771e11acbd073f8",
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 14,
+        "count": 15,
         "articles": [
+          {
+            "id": "8fa862f6e93a292cd118ea7ebe3d7543",
+            "title": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
+            "image": "https://image.cnbcfm.com/api/v1/image/108416313-1792099132044-gettyimages-2299644955-AFP_D3B329K.jpeg?v=1792099225&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-16T11:06:50.000Z",
+            "path": "articles/8fa862f6e93a292cd118ea7ebe3d7543.json"
+          },
           {
             "id": "c2dfeba4fe0b78d2b8f1dd3dc61e93ee",
             "title": "SpaceX policy manager set to testify as part of NYC Council AI safety investigation",
@@ -582,20 +596,6 @@
             "category": "crypto",
             "published_at": "2026-10-15T03:29:22.000Z",
             "path": "articles/1286c62343cab990a7aef4ec43f1aa2a.json"
-          },
-          {
-            "id": "df45ada0e17e2075b74cc1e6d96fe41b",
-            "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-14T21:46:04.000Z",
-            "path": "articles/df45ada0e17e2075b74cc1e6d96fe41b.json"
           }
         ]
       },
@@ -1306,6 +1306,43 @@
         ]
       },
       {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "8fa862f6e93a292cd118ea7ebe3d7543",
+            "title": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
+            "image": "https://image.cnbcfm.com/api/v1/image/108416313-1792099132044-gettyimages-2299644955-AFP_D3B329K.jpeg?v=1792099225&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-16T11:06:50.000Z",
+            "path": "articles/8fa862f6e93a292cd118ea7ebe3d7543.json"
+          },
+          {
+            "id": "324bc9ff4ad65bda53e40f9f25d8e789",
+            "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+            "image": "https://image.cnbcfm.com/api/v1/image/108356675-1788207196062-gettyimages-2291330125-ah704060.jpeg?v=1792096861&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-15T22:48:12.000Z",
+            "path": "articles/324bc9ff4ad65bda53e40f9f25d8e789.json"
+          }
+        ]
+      },
+      {
         "id": "etf",
         "name": "ETF",
         "type": "topic",
@@ -1413,43 +1450,6 @@
             "category": "crypto",
             "published_at": "2026-10-15T17:36:05.000Z",
             "path": "articles/6b41152fb8a07ead2e818fc6070db2fa.json"
-          }
-        ]
-      },
-      {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "f398a6ebe164fb2f296085db95081da0",
-            "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
-            "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-15T20:35:21.000Z",
-            "path": "articles/f398a6ebe164fb2f296085db95081da0.json"
-          },
-          {
-            "id": "9c8e11306aed8dea2809afa0456a09c1",
-            "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-14T21:16:03.000Z",
-            "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
           }
         ]
       },
@@ -1620,29 +1620,6 @@
         ]
       },
       {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "324bc9ff4ad65bda53e40f9f25d8e789",
-            "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-            "image": "https://image.cnbcfm.com/api/v1/image/108356675-1788207196062-gettyimages-2291330125-ah704060.jpeg?v=1792096861&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-15T22:48:12.000Z",
-            "path": "articles/324bc9ff4ad65bda53e40f9f25d8e789.json"
-          }
-        ]
-      },
-      {
         "id": "meta",
         "name": "Meta",
         "type": "company",
@@ -1693,6 +1670,29 @@
         "name": "Microsoft",
         "type": "company",
         "icon": "https://logo.clearbit.com/microsoft.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "9c8e11306aed8dea2809afa0456a09c1",
+            "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-14T21:16:03.000Z",
+            "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
+          }
+        ]
+      },
+      {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
         "count": 1,
         "articles": [
           {

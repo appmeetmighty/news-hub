@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-16T11:01:21.578Z",
+  "updated_at": "2026-10-16T11:15:49.945Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
-      "id": "324bc9ff4ad65bda53e40f9f25d8e789",
-      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-      "description": "Big Tech gave millions to Trump's White House ballroom, documents show",
+      "id": "8fa862f6e93a292cd118ea7ebe3d7543",
+      "title": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
+      "description": "Nvidia has a near monopoly over the most powerful AI chips and Huang courts tech execs and world leaders with ease.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108356675-1788207196062-gettyimages-2291330125-ah704060.jpeg?v=1792096861&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108416313-1792099132044-gettyimages-2299644955-AFP_D3B329K.jpeg?v=1792099225&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -29,10 +29,48 @@
           "type": "company",
           "path": "tickers/nvda.json",
           "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-10-15T22:48:12.000Z",
+      "published_at": "2026-10-16T11:06:50.000Z",
       "related": [
+        {
+          "id": "324bc9ff4ad65bda53e40f9f25d8e789",
+          "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+          "image": "https://image.cnbcfm.com/api/v1/image/108356675-1788207196062-gettyimages-2291330125-ah704060.jpeg?v=1792096861&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-15T22:48:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/324bc9ff4ad65bda53e40f9f25d8e789.json"
+        },
+        {
+          "id": "3aa5375b009a9847bfab473a58cff052",
+          "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+          "image": "https://image.cnbcfm.com/api/v1/image/108004225-1720646729678-gettyimages-2161532031-js1_7834_axvogotf.jpeg?v=1792092510&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-16T11:02:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3aa5375b009a9847bfab473a58cff052.json"
+        },
         {
           "id": "3e7bd254dc106f13f898788b8573d308",
           "title": "Nike's India campus is a long-term growth bet amid turnaround",
@@ -80,11 +118,41 @@
           "reading_time_minutes": 1,
           "breaking_score": 55,
           "path": "articles/0c08e490c1ff419ed2e7485cbffe6f87.json"
-        },
+        }
+      ],
+      "path": "articles/8fa862f6e93a292cd118ea7ebe3d7543.json"
+    },
+    {
+      "id": "324bc9ff4ad65bda53e40f9f25d8e789",
+      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+      "description": "Big Tech gave millions to Trump's White House ballroom, documents show",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108356675-1788207196062-gettyimages-2291330125-ah704060.jpeg?v=1792096861&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
         {
-          "id": "d7615ced96a85bc91981d7ba8775fcc7",
-          "title": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
-          "image": "https://image.cnbcfm.com/api/v1/image/108418924-1792145442677-gettyimages-2295973596-widak-natodays260920_npCVI.jpeg?v=1792145547&w=1920&h=1080",
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        }
+      ],
+      "published_at": "2026-10-15T22:48:12.000Z",
+      "related": [
+        {
+          "id": "8fa862f6e93a292cd118ea7ebe3d7543",
+          "title": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
+          "image": "https://image.cnbcfm.com/api/v1/image/108416313-1792099132044-gettyimages-2299644955-AFP_D3B329K.jpeg?v=1792099225&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -92,15 +160,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-16T10:56:47.000Z",
+          "published_at": "2026-10-16T11:06:50.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d7615ced96a85bc91981d7ba8775fcc7.json"
+          "path": "articles/8fa862f6e93a292cd118ea7ebe3d7543.json"
         },
         {
-          "id": "bcd445b031416c1de13b30b340bd56d3",
-          "title": "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108372369-1791184306989-gettyimages-2297669360-AFP_D23K3WE.jpeg?v=1791184494&w=1920&h=1080",
+          "id": "3aa5375b009a9847bfab473a58cff052",
+          "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+          "image": "https://image.cnbcfm.com/api/v1/image/108004225-1720646729678-gettyimages-2161532031-js1_7834_axvogotf.jpeg?v=1792092510&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -108,10 +176,58 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-16T10:25:46.000Z",
+          "published_at": "2026-10-16T11:02:24.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/bcd445b031416c1de13b30b340bd56d3.json"
+          "path": "articles/3aa5375b009a9847bfab473a58cff052.json"
+        },
+        {
+          "id": "3e7bd254dc106f13f898788b8573d308",
+          "title": "Nike's India campus is a long-term growth bet amid turnaround",
+          "image": "https://image.cnbcfm.com/api/v1/image/108243316-1766011867219-gettyimages-2251801004-NIKE_EARNS.jpeg?v=1792109042&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-16T11:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3e7bd254dc106f13f898788b8573d308.json"
+        },
+        {
+          "id": "89a41ea6243fa2d989da59edaeac80b4",
+          "title": "Tesla reveals next-generation Roadster after almost a decade of delays",
+          "image": "https://image.cnbcfm.com/api/v1/image/108418810-17921436482026-10-16t014239z_1011196447_rc214oaawk2r_rtrmadp_0_tesla-roadster.jpeg?v=1792143697&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-16T10:57:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/89a41ea6243fa2d989da59edaeac80b4.json"
+        },
+        {
+          "id": "0c08e490c1ff419ed2e7485cbffe6f87",
+          "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108417409-1792116879637-gettyimages-2299704894-THAILAND_IMF_WORLD_BANK.jpeg?v=1792116944&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-16T10:56:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 55,
+          "path": "articles/0c08e490c1ff419ed2e7485cbffe6f87.json"
         }
       ],
       "path": "articles/324bc9ff4ad65bda53e40f9f25d8e789.json"

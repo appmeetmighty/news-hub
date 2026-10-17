@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T06:31:00.588Z",
+  "updated_at": "2026-10-17T06:45:45.593Z",
   "articles": {
-    "generated_at": "2026-10-17T06:31:00.588Z",
+    "generated_at": "2026-10-17T06:45:45.593Z",
     "topics": [
       {
         "id": "crypto",
@@ -157,8 +157,22 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 30,
+        "count": 31,
         "articles": [
+          {
+            "id": "f9e7978e7713f43663e4537e114d3ed4",
+            "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/2297ea2e470af647418127b13e7a3275fed8827a-1920x1200.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-17T06:39:48.000Z",
+            "path": "articles/f9e7978e7713f43663e4537e114d3ed4.json"
+          },
           {
             "id": "8a099ce06a3c227cf3575265ce537267",
             "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
@@ -284,20 +298,6 @@
             "category": "crypto",
             "published_at": "2026-10-16T10:52:26.000Z",
             "path": "articles/5aad9fe0638fc2cba771e11acbd073f8.json"
-          },
-          {
-            "id": "42f34bbc61d3e7206e1ec1c6401a07fc",
-            "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff44eeb11e3fa7d86694b7c0742d390ad2ff526f-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-16T10:41:03.000Z",
-            "path": "articles/42f34bbc61d3e7206e1ec1c6401a07fc.json"
           }
         ]
       },
@@ -1395,6 +1395,57 @@
         ]
       },
       {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
+        "count": 3,
+        "articles": [
+          {
+            "id": "f9e7978e7713f43663e4537e114d3ed4",
+            "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/2297ea2e470af647418127b13e7a3275fed8827a-1920x1200.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-17T06:39:48.000Z",
+            "path": "articles/f9e7978e7713f43663e4537e114d3ed4.json"
+          },
+          {
+            "id": "f61f2cc9549d9834ac2a1e83ba0cf050",
+            "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+            "image": "https://image.cnbcfm.com/api/v1/image/108122992-1743183626304-gettyimages-2206682242-porzycki-nvidiaan250328_np9jq.jpeg?v=1747333759&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-16T13:43:53.000Z",
+            "path": "articles/f61f2cc9549d9834ac2a1e83ba0cf050.json"
+          },
+          {
+            "id": "9c8e11306aed8dea2809afa0456a09c1",
+            "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-14T21:16:03.000Z",
+            "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
+          }
+        ]
+      },
+      {
         "id": "ma",
         "name": "Mastercard",
         "type": "company",
@@ -1571,43 +1622,6 @@
         ]
       },
       {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "f61f2cc9549d9834ac2a1e83ba0cf050",
-            "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
-            "image": "https://image.cnbcfm.com/api/v1/image/108122992-1743183626304-gettyimages-2206682242-porzycki-nvidiaan250328_np9jq.jpeg?v=1747333759&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-16T13:43:53.000Z",
-            "path": "articles/f61f2cc9549d9834ac2a1e83ba0cf050.json"
-          },
-          {
-            "id": "9c8e11306aed8dea2809afa0456a09c1",
-            "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-14T21:16:03.000Z",
-            "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
-          }
-        ]
-      },
-      {
         "id": "xrp",
         "name": "XRP",
         "type": "crypto",
@@ -1641,43 +1655,6 @@
             "category": "crypto",
             "published_at": "2026-10-15T14:27:18.000Z",
             "path": "articles/af243abb820b5efc947b9d7d6e3a7092.json"
-          }
-        ]
-      },
-      {
-        "id": "blk",
-        "name": "BlackRock",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/blackrock.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "0bda1d797550aa0424148a415d797c94",
-            "title": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-03-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-15T18:16:04.000Z",
-            "path": "articles/0bda1d797550aa0424148a415d797c94.json"
-          },
-          {
-            "id": "bf4efa1bdc6901efac908132d2a77088",
-            "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/7ac986e95de8943f9daaadd64fd86aee424071d3-2937x1693.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-15T06:17:58.000Z",
-            "path": "articles/bf4efa1bdc6901efac908132d2a77088.json"
           }
         ]
       },
@@ -1816,6 +1793,29 @@
             "category": "stocks",
             "published_at": "2026-10-16T11:33:44.000Z",
             "path": "articles/8fa862f6e93a292cd118ea7ebe3d7543.json"
+          }
+        ]
+      },
+      {
+        "id": "blk",
+        "name": "BlackRock",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/blackrock.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "0bda1d797550aa0424148a415d797c94",
+            "title": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-03-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-15T18:16:04.000Z",
+            "path": "articles/0bda1d797550aa0424148a415d797c94.json"
           }
         ]
       },

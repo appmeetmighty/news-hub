@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-17T02:15:50.261Z",
+  "updated_at": "2026-10-17T02:31:02.862Z",
   "articles": {
-    "generated_at": "2026-10-17T02:15:50.261Z",
+    "generated_at": "2026-10-17T02:31:02.862Z",
     "topics": [
       {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 35,
+        "count": 34,
         "articles": [
           {
             "id": "78f7a83e386d3f9bd80908be49f28870",
@@ -160,6 +160,20 @@
         "count": 30,
         "articles": [
           {
+            "id": "8a099ce06a3c227cf3575265ce537267",
+            "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-17T02:30:00.000Z",
+            "path": "articles/8a099ce06a3c227cf3575265ce537267.json"
+          },
+          {
             "id": "78f7a83e386d3f9bd80908be49f28870",
             "title": "Here’s what happened in crypto today",
             "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -284,20 +298,6 @@
             "category": "crypto",
             "published_at": "2026-10-16T10:41:03.000Z",
             "path": "articles/42f34bbc61d3e7206e1ec1c6401a07fc.json"
-          },
-          {
-            "id": "1be252ca7cd1b39a4331eb8cae05ed43",
-            "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/727c641cca47f8677edc87bc7d3420448b81fe78-5530x3684.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-16T10:24:30.000Z",
-            "path": "articles/1be252ca7cd1b39a4331eb8cae05ed43.json"
           }
         ]
       },
@@ -1265,6 +1265,71 @@
         ]
       },
       {
+        "id": "googl",
+        "name": "Google",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/google.com",
+        "count": 4,
+        "articles": [
+          {
+            "id": "8a099ce06a3c227cf3575265ce537267",
+            "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-17T02:30:00.000Z",
+            "path": "articles/8a099ce06a3c227cf3575265ce537267.json"
+          },
+          {
+            "id": "a80cb195341e54463c5445dda65186d2",
+            "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-16T11:46:54.000Z",
+            "path": "articles/a80cb195341e54463c5445dda65186d2.json"
+          },
+          {
+            "id": "59e8799e222b6348ec50075fb2af8363",
+            "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-15T21:46:04.000Z",
+            "path": "articles/59e8799e222b6348ec50075fb2af8363.json"
+          },
+          {
+            "id": "6b41152fb8a07ead2e818fc6070db2fa",
+            "title": "Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-15T17:36:05.000Z",
+            "path": "articles/6b41152fb8a07ead2e818fc6070db2fa.json"
+          }
+        ]
+      },
+      {
         "id": "blockchain",
         "name": "Blockchain",
         "type": "topic",
@@ -1432,108 +1497,6 @@
         ]
       },
       {
-        "id": "googl",
-        "name": "Google",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/google.com",
-        "count": 3,
-        "articles": [
-          {
-            "id": "a80cb195341e54463c5445dda65186d2",
-            "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-16T11:46:54.000Z",
-            "path": "articles/a80cb195341e54463c5445dda65186d2.json"
-          },
-          {
-            "id": "59e8799e222b6348ec50075fb2af8363",
-            "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-15T21:46:04.000Z",
-            "path": "articles/59e8799e222b6348ec50075fb2af8363.json"
-          },
-          {
-            "id": "6b41152fb8a07ead2e818fc6070db2fa",
-            "title": "Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-15T17:36:05.000Z",
-            "path": "articles/6b41152fb8a07ead2e818fc6070db2fa.json"
-          }
-        ]
-      },
-      {
-        "id": "xrp",
-        "name": "XRP",
-        "type": "crypto",
-        "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-        "count": 3,
-        "articles": [
-          {
-            "id": "6dd46e2008fac73bd8f46f6afe7213b9",
-            "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/38ca8bb4905288c7dc2f7d52bb714f76a4af723b-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-16T05:53:58.000Z",
-            "path": "articles/6dd46e2008fac73bd8f46f6afe7213b9.json"
-          },
-          {
-            "id": "af243abb820b5efc947b9d7d6e3a7092",
-            "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-15T14:27:18.000Z",
-            "path": "articles/af243abb820b5efc947b9d7d6e3a7092.json"
-          },
-          {
-            "id": "0dab81ba28a85110c17d9a160914a7f4",
-            "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/6285ca18b516e7f58992440d81dd86fe7a6f6759-1000x694.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-15T04:25:15.000Z",
-            "path": "articles/0dab81ba28a85110c17d9a160914a7f4.json"
-          }
-        ]
-      },
-      {
         "id": "aapl",
         "name": "Apple",
         "type": "company",
@@ -1641,6 +1604,43 @@
             "category": "crypto",
             "published_at": "2026-10-14T21:16:03.000Z",
             "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
+          }
+        ]
+      },
+      {
+        "id": "xrp",
+        "name": "XRP",
+        "type": "crypto",
+        "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+        "count": 2,
+        "articles": [
+          {
+            "id": "6dd46e2008fac73bd8f46f6afe7213b9",
+            "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/38ca8bb4905288c7dc2f7d52bb714f76a4af723b-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-16T05:53:58.000Z",
+            "path": "articles/6dd46e2008fac73bd8f46f6afe7213b9.json"
+          },
+          {
+            "id": "af243abb820b5efc947b9d7d6e3a7092",
+            "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-15T14:27:18.000Z",
+            "path": "articles/af243abb820b5efc947b9d7d6e3a7092.json"
           }
         ]
       },

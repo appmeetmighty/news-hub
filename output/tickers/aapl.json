@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-10-18T12:01:17.293Z",
+  "updated_at": "2026-10-18T12:15:46.018Z",
   "id": "aapl",
   "symbol": "AAPL",
   "name": "Apple",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
+    {
+      "id": "fda3b8e3a689b50c32967b5394e9f2de",
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "description": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
+          "type": "company",
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-18T12:00:01.000Z",
+      "related": [
+        {
+          "id": "8abdc2db826289e23b34d344dad58263",
+          "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+          "image": "https://image.cnbcfm.com/api/v1/image/108361241-1789052723172-gettyimages-2293841199-AFP_C7UF8DY.jpeg?v=1792187091&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-16T22:31:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8abdc2db826289e23b34d344dad58263.json"
+        },
+        {
+          "id": "08dbe53f82afb4382d2bec560e7c62c1",
+          "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-16T19:36:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/08dbe53f82afb4382d2bec560e7c62c1.json"
+        },
+        {
+          "id": "2b5f8ef074eaf8bc515f0f0799e04876",
+          "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-15T12:35:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2b5f8ef074eaf8bc515f0f0799e04876.json"
+        },
+        {
+          "id": "759df3cf637190825fde323cc24bdefe",
+          "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+          "image": "https://image.cnbcfm.com/api/v1/image/108425005-17922519932026-09-15t041703z_540430742_rc2djnamnvdo_rtrmadp_0_southkorea-politics-finance.jpeg?v=1792252039&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-18T11:10:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/759df3cf637190825fde323cc24bdefe.json"
+        },
+        {
+          "id": "3e05234735599ef4e130a05314cd2301",
+          "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+          "image": "https://image.cnbcfm.com/api/v1/image/108366031-1790062943795-gettyimages-2295968558-RUS_Russia_Daily_Life_2026.jpeg?v=1790065554&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-18T07:22:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3e05234735599ef4e130a05314cd2301.json"
+        }
+      ],
+      "path": "articles/fda3b8e3a689b50c32967b5394e9f2de.json"
+    },
     {
       "id": "8abdc2db826289e23b34d344dad58263",
       "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
@@ -33,6 +165,22 @@
       ],
       "published_at": "2026-10-16T22:31:26.000Z",
       "related": [
+        {
+          "id": "fda3b8e3a689b50c32967b5394e9f2de",
+          "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-18T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fda3b8e3a689b50c32967b5394e9f2de.json"
+        },
         {
           "id": "08dbe53f82afb4382d2bec560e7c62c1",
           "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
@@ -96,22 +244,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b264b6cf47030da78a8655c9f4c46093.json"
-        },
-        {
-          "id": "ced506a3d615b158a448a15396784999",
-          "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108060868-1731330780911-gettyimages-2182817503-AFP_36LU8XQ.jpeg?v=1737810839&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-17T19:35:18.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ced506a3d615b158a448a15396784999.json"
         }
       ],
       "path": "articles/8abdc2db826289e23b34d344dad58263.json"
@@ -160,6 +292,22 @@
           "path": "articles/8abdc2db826289e23b34d344dad58263.json"
         },
         {
+          "id": "fda3b8e3a689b50c32967b5394e9f2de",
+          "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-18T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fda3b8e3a689b50c32967b5394e9f2de.json"
+        },
+        {
           "id": "cb43b5b0dd9cae7d0b5d10595d858c8d",
           "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png",
@@ -206,22 +354,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/f20435c7d9af6f3b4d7ba14fd4240f08.json"
-        },
-        {
-          "id": "cba527d5ca94ea730eff49cc12bea476",
-          "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-17T13:01:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cba527d5ca94ea730eff49cc12bea476.json"
         }
       ],
       "path": "articles/08dbe53f82afb4382d2bec560e7c62c1.json"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T22:01:22.462Z",
+  "updated_at": "2026-10-18T12:15:46.018Z",
   "id": "amzn",
   "symbol": "AMZN",
   "name": "Amazon",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "1b3abce3c21a970fac3498fb7728e71d",
-      "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
-      "description": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone.",
+      "id": "fda3b8e3a689b50c32967b5394e9f2de",
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "description": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108411120-1792017144545-BEE_FRONTIER_SH01_1600x900.jpg?v=1792017283&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,6 +23,14 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
+          "type": "company",
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
           "id": "amzn",
           "symbol": "AMZN",
           "name": "Amazon",
@@ -31,18 +39,26 @@
           "icon": "https://logo.clearbit.com/amazon.com"
         },
         {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-10-15T13:50:00.000Z",
+      "published_at": "2026-10-18T12:00:01.000Z",
       "related": [
         {
-          "id": "34b4b5b1b10a99e88535d26bc23fe51a",
-          "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-          "image": "https://image.cnbcfm.com/api/v1/image/108415213-1792084539459-gettyimages-2299789422-AFP_D3EV86B.jpeg?v=1792084636&w=1920&h=1080",
+          "id": "8abdc2db826289e23b34d344dad58263",
+          "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+          "image": "https://image.cnbcfm.com/api/v1/image/108361241-1789052723172-gettyimages-2293841199-AFP_C7UF8DY.jpeg?v=1792187091&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -50,47 +66,47 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T21:42:14.000Z",
+          "published_at": "2026-10-16T22:31:26.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/34b4b5b1b10a99e88535d26bc23fe51a.json"
+          "path": "articles/8abdc2db826289e23b34d344dad58263.json"
         },
         {
-          "id": "c50df669e607426f24359adf3cbf2391",
-          "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-          "image": "https://image.cnbcfm.com/api/v1/image/108414312-1792071462734-gettyimages-2245498612-raa-coreweav251110_npSDI.jpeg?v=1792071500&w=1920&h=1080",
+          "id": "08dbe53f82afb4382d2bec560e7c62c1",
+          "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-10-15T21:33:24.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-16T19:36:04.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c50df669e607426f24359adf3cbf2391.json"
+          "breaking_score": 60,
+          "path": "articles/08dbe53f82afb4382d2bec560e7c62c1.json"
         },
         {
-          "id": "89a41ea6243fa2d989da59edaeac80b4",
-          "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1792098929&w=1920&h=1080",
+          "id": "2b5f8ef074eaf8bc515f0f0799e04876",
+          "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-15T21:26:05.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-15T12:35:24.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/89a41ea6243fa2d989da59edaeac80b4.json"
+          "path": "articles/2b5f8ef074eaf8bc515f0f0799e04876.json"
         },
         {
-          "id": "b5c155b427f6816974b2b922064b3eaa",
-          "title": "U.S. sues California in fight over checking citizenship of mail voters",
-          "image": "https://image.cnbcfm.com/api/v1/image/108315550-1780434986181-gettyimages-2278793549-CALIFORNIA_PRIMARY_ELECTION.jpeg?v=1785010197&w=1920&h=1080",
+          "id": "759df3cf637190825fde323cc24bdefe",
+          "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+          "image": "https://image.cnbcfm.com/api/v1/image/108425005-17922519932026-09-15t041703z_540430742_rc2djnamnvdo_rtrmadp_0_southkorea-politics-finance.jpeg?v=1792252039&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -98,15 +114,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T21:24:57.000Z",
+          "published_at": "2026-10-18T11:10:44.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b5c155b427f6816974b2b922064b3eaa.json"
+          "breaking_score": 20,
+          "path": "articles/759df3cf637190825fde323cc24bdefe.json"
         },
         {
-          "id": "3aa5375b009a9847bfab473a58cff052",
-          "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-          "image": "https://image.cnbcfm.com/api/v1/image/108004225-1720646729678-gettyimages-2161532031-js1_7834_axvogotf.jpeg?v=1792092510&w=1920&h=1080",
+          "id": "3e05234735599ef4e130a05314cd2301",
+          "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+          "image": "https://image.cnbcfm.com/api/v1/image/108366031-1790062943795-gettyimages-2295968558-RUS_Russia_Daily_Life_2026.jpeg?v=1790065554&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -114,13 +130,13 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-15T21:03:50.000Z",
+          "published_at": "2026-10-18T07:22:07.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3aa5375b009a9847bfab473a58cff052.json"
+          "path": "articles/3e05234735599ef4e130a05314cd2301.json"
         }
       ],
-      "path": "articles/1b3abce3c21a970fac3498fb7728e71d.json"
+      "path": "articles/fda3b8e3a689b50c32967b5394e9f2de.json"
     }
   ]
 }

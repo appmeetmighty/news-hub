@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-18T12:45:47.332Z",
+  "updated_at": "2026-10-18T13:01:15.719Z",
   "total": 29,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 29
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
+      "count": 28
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 28
     },
     {
       "id": "regulation",
@@ -94,6 +94,15 @@
       "count": 4
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "aapl",
       "symbol": "AAPL",
       "name": "Apple",
@@ -130,29 +139,11 @@
       "count": 3
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 2
-    },
-    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
       "icon": "",
       "count": 2
     },
@@ -172,6 +163,15 @@
       "type": "company",
       "path": "tickers/amzn.json",
       "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 1
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
       "count": 1
     },
     {

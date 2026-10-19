@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-19T19:31:00.302Z",
+  "updated_at": "2026-10-19T19:45:47.243Z",
   "articles": {
-    "generated_at": "2026-10-19T19:31:00.302Z",
+    "generated_at": "2026-10-19T19:45:47.243Z",
     "topics": [
       {
         "id": "crypto",
@@ -458,6 +458,20 @@
         "count": 13,
         "articles": [
           {
+            "id": "5d71ecbeb4070f9da6d82ac7ae15dda1",
+            "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+            "image": "https://image.cnbcfm.com/api/v1/image/108420935-1792174657993-google_datacenter.jpg?v=1792176094&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-19T19:45:28.000Z",
+            "path": "articles/5d71ecbeb4070f9da6d82ac7ae15dda1.json"
+          },
+          {
             "id": "0d1f2f8bde79fa548bec4d5530244bc4",
             "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
             "image": "https://image.cnbcfm.com/api/v1/image/108420291-1792166305523-gettyimages-849336184-152160final.jpeg?v=1792434542&w=1920&h=1080",
@@ -498,20 +512,6 @@
             "category": "crypto",
             "published_at": "2026-10-19T16:05:09.000Z",
             "path": "articles/564467e4824375921cc8aa24ac18f072.json"
-          },
-          {
-            "id": "5d71ecbeb4070f9da6d82ac7ae15dda1",
-            "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-            "image": "https://image.cnbcfm.com/api/v1/image/108420935-1792174657993-google_datacenter.jpg?v=1792176094&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-19T13:36:41.000Z",
-            "path": "articles/5d71ecbeb4070f9da6d82ac7ae15dda1.json"
           },
           {
             "id": "eb92c5004237b681770b6736940f942f",
@@ -1251,6 +1251,57 @@
         ]
       },
       {
+        "id": "googl",
+        "name": "Google",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/google.com",
+        "count": 3,
+        "articles": [
+          {
+            "id": "5d71ecbeb4070f9da6d82ac7ae15dda1",
+            "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+            "image": "https://image.cnbcfm.com/api/v1/image/108420935-1792174657993-google_datacenter.jpg?v=1792176094&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-19T19:45:28.000Z",
+            "path": "articles/5d71ecbeb4070f9da6d82ac7ae15dda1.json"
+          },
+          {
+            "id": "a80cb195341e54463c5445dda65186d2",
+            "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-16T11:46:54.000Z",
+            "path": "articles/a80cb195341e54463c5445dda65186d2.json"
+          },
+          {
+            "id": "59e8799e222b6348ec50075fb2af8363",
+            "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-15T21:46:04.000Z",
+            "path": "articles/59e8799e222b6348ec50075fb2af8363.json"
+          }
+        ]
+      },
+      {
         "id": "openai",
         "name": "OpenAI",
         "type": "company",
@@ -1259,7 +1310,7 @@
         "articles": [
           {
             "id": "2b9b6858fe1b548d8427e8ced39bfa48",
-            "title": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
+            "title": "OpenAI bugging suspect Alfozan ordered held without bond",
             "image": "https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792415233&w=1920&h=1080",
             "source": {
               "id": "cnbc",
@@ -1268,7 +1319,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-10-19T19:16:34.000Z",
+            "published_at": "2026-10-19T19:40:53.000Z",
             "path": "articles/2b9b6858fe1b548d8427e8ced39bfa48.json"
           },
           {
@@ -1400,57 +1451,6 @@
             "category": "crypto",
             "published_at": "2026-10-16T20:16:04.000Z",
             "path": "articles/6cf2f126730933c324f2f0e71a0fa98e.json"
-          }
-        ]
-      },
-      {
-        "id": "googl",
-        "name": "Google",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/google.com",
-        "count": 3,
-        "articles": [
-          {
-            "id": "5d71ecbeb4070f9da6d82ac7ae15dda1",
-            "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-            "image": "https://image.cnbcfm.com/api/v1/image/108420935-1792174657993-google_datacenter.jpg?v=1792176094&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-19T13:36:41.000Z",
-            "path": "articles/5d71ecbeb4070f9da6d82ac7ae15dda1.json"
-          },
-          {
-            "id": "a80cb195341e54463c5445dda65186d2",
-            "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-16T11:46:54.000Z",
-            "path": "articles/a80cb195341e54463c5445dda65186d2.json"
-          },
-          {
-            "id": "59e8799e222b6348ec50075fb2af8363",
-            "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-15T21:46:04.000Z",
-            "path": "articles/59e8799e222b6348ec50075fb2af8363.json"
           }
         ]
       },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T12:31:01.564Z",
+  "updated_at": "2026-10-19T12:45:45.564Z",
   "total": 32,
   "entities": [
     {
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 16
+      "count": 17
     },
     {
       "id": "stablecoin",
@@ -58,6 +58,15 @@
       "count": 5
     },
     {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 4
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -67,12 +76,12 @@
       "count": 4
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
+      "path": "tickers/jpm.json",
+      "icon": "",
       "count": 3
     },
     {
@@ -81,15 +90,6 @@
       "name": "SpaceX",
       "type": "company",
       "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
       "icon": "",
       "count": 3
     },
@@ -103,13 +103,13 @@
       "count": 3
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
       "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 3
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 2
     },
     {
       "id": "defi",
@@ -162,6 +162,15 @@
       "count": 2
     },
     {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "bnb",
       "symbol": "BNB",
       "name": "BNB",
@@ -199,15 +208,6 @@
       "id": "web3",
       "name": "Web3",
       "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 1
     },

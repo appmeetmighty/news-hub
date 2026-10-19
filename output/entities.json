@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T11:01:19.552Z",
-  "total": 28,
+  "updated_at": "2026-10-19T11:15:47.088Z",
+  "total": 31,
   "entities": [
     {
       "id": "crypto",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
+      "count": 28
     },
     {
       "id": "regulation",
@@ -30,14 +30,14 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 12
+      "count": 15
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 10
+      "count": 9
     },
     {
       "id": "eth",
@@ -58,12 +58,12 @@
       "count": 5
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
       "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 4
     },
     {
@@ -103,12 +103,12 @@
       "count": 3
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
       "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
       "count": 3
     },
     {
@@ -153,15 +153,6 @@
       "count": 2
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "v",
       "symbol": "V",
       "name": "Visa",
@@ -189,9 +180,43 @@
       "count": 2
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 1
+    },
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 1
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 1
     },

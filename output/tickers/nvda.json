@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T14:45:46.994Z",
+  "updated_at": "2026-10-19T11:15:47.080Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
@@ -7,21 +7,29 @@
   "total": 1,
   "articles": [
     {
-      "id": "8fa862f6e93a292cd118ea7ebe3d7543",
-      "title": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
-      "description": "Nvidia has a near monopoly over the most powerful AI chips and Huang courts tech execs and world leaders with ease.",
+      "id": "474cfd999a1d991bfeeb49edb448add2",
+      "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+      "description": "The Nvidia-backed company planned to deliver 23,000 AI chips in Britain next year, but its grid connection may not be ready until the 2030s.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108416313-1792099132044-gettyimages-2299644955-AFP_D3B329K.jpeg?v=1792099225&w=1920&h=1080",
+      "url": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "nvda",
           "symbol": "NVDA",
@@ -31,96 +39,110 @@
           "icon": "https://logo.clearbit.com/nvidia.com"
         },
         {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
+        },
+        {
+          "id": "mining",
+          "name": "Mining",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-10-16T11:33:44.000Z",
+      "published_at": "2026-10-19T09:15:00.000Z",
       "related": [
         {
-          "id": "b5658a29af9d25adc5618f3b769e599d",
-          "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
-          "image": "https://image.cnbcfm.com/api/v1/image/107073528-1654800231246-rice.jpg?v=1711475524&w=1920&h=1080",
+          "id": "3edbcc22b05881d6eb8fd4a4763cfea9",
+          "title": "Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7dc01ea956e60442b048c18dfb2d650f3d09fe-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-16T19:40:00.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-19T11:15:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b5658a29af9d25adc5618f3b769e599d.json"
+          "path": "articles/3edbcc22b05881d6eb8fd4a4763cfea9.json"
         },
         {
-          "id": "8765e0b50bc40c39f62b45b2097ddf13",
-          "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
-          "image": "https://image.cnbcfm.com/api/v1/image/108415617-1792090588085-gettyimages-2280413074-AFP_B6RZ8TZ.jpeg?v=1792091310&w=1920&h=1080",
+          "id": "fbd20536130b4aa9222024acee880a7e",
+          "title": "Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/3a49ab9a9a4b4a900ffd407faa0ae1637a619c75-1516x844.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-17T13:47:59.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-19T11:05:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8765e0b50bc40c39f62b45b2097ddf13.json"
+          "path": "articles/fbd20536130b4aa9222024acee880a7e.json"
         },
         {
-          "id": "b56dbef69da7f29fcfc8a5a8d264d051",
-          "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108374015-1791379227205-gettyimages-672597056-si33-1.jpeg?v=1792153940&w=1920&h=1080",
+          "id": "3e1aa39e8c9f77399427d0a1faac3b5f",
+          "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/28283ebba4d1a7241694e2613ffbdcd1d9845ea2-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-17T13:30:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/b56dbef69da7f29fcfc8a5a8d264d051.json"
-        },
-        {
-          "id": "6a4cf493f7ac4282c7a06cc8c64d588d",
-          "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
-          "image": "https://image.cnbcfm.com/api/v1/image/108420368-1792166542544-picking_out_pumpkins.jpg?v=1792168563&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-17T13:00:01.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-19T10:26:33.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6a4cf493f7ac4282c7a06cc8c64d588d.json"
+          "path": "articles/3e1aa39e8c9f77399427d0a1faac3b5f.json"
         },
         {
-          "id": "83afbc2d7c6c69a9d33001cbd75a90c1",
-          "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-          "image": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080",
+          "id": "c8ae683216144f61681a9d1b567363e4",
+          "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b119fde813835a73b12fcb4cb0e3a811abe61149-1500x1021.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-17T12:46:21.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-19T09:12:39.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/83afbc2d7c6c69a9d33001cbd75a90c1.json"
+          "breaking_score": 0,
+          "path": "articles/c8ae683216144f61681a9d1b567363e4.json"
+        },
+        {
+          "id": "42840c6de78ba0272cabfd35f9bfcedb",
+          "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/895471440497e5fc259ed27366d73f9159ef74c8-2043x925.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-19T06:23:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/42840c6de78ba0272cabfd35f9bfcedb.json"
         }
       ],
-      "path": "articles/8fa862f6e93a292cd118ea7ebe3d7543.json"
+      "path": "articles/474cfd999a1d991bfeeb49edb448add2.json"
     }
   ]
 }

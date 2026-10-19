@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T23:15:32.361Z",
-  "total": 29,
+  "updated_at": "2026-10-19T23:30:56.059Z",
+  "total": 28,
   "entities": [
     {
       "id": "btc",
@@ -26,13 +26,6 @@
       "count": 22
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 14
-    },
-    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -46,6 +39,13 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 8
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
       "count": 8
     },
     {
@@ -65,47 +65,20 @@
       "count": 6
     },
     {
+      "id": "ma",
+      "symbol": "MA",
+      "name": "Mastercard",
+      "type": "company",
+      "path": "tickers/ma.json",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "spacex",
       "symbol": "SPACEX",
       "name": "SpaceX",
       "type": "company",
       "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 4
-    },
-    {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
-      "count": 4
-    },
-    {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
     },
@@ -119,30 +92,21 @@
       "count": 3
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
       "type": "company",
-      "path": "tickers/openai.json",
+      "path": "tickers/jpm.json",
       "icon": "",
       "count": 3
     },
     {
-      "id": "ma",
-      "symbol": "MA",
-      "name": "Mastercard",
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
       "type": "company",
-      "path": "tickers/ma.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 2
     },
     {
@@ -162,6 +126,15 @@
       "count": 2
     },
     {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 2
+    },
+    {
       "id": "v",
       "symbol": "V",
       "name": "Visa",
@@ -178,6 +151,15 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "web3",
@@ -221,21 +203,12 @@
       "count": 1
     },
     {
-      "id": "amzn",
-      "symbol": "AMZN",
-      "name": "Amazon",
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
       "type": "company",
-      "path": "tickers/amzn.json",
-      "icon": "https://logo.clearbit.com/amazon.com",
-      "count": 1
-    },
-    {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
+      "path": "tickers/c.json",
+      "icon": "",
       "count": 1
     },
     {
@@ -244,6 +217,24 @@
       "name": "Gemini",
       "type": "company",
       "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 1
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
       "count": 1
     }

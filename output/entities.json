@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T13:15:48.969Z",
+  "updated_at": "2026-10-19T13:31:06.290Z",
   "total": 32,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 28
+      "count": 27
     },
     {
       "id": "regulation",
@@ -76,6 +76,13 @@
       "count": 4
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "jpm",
       "symbol": "JPM",
       "name": "JPMorgan",
@@ -103,12 +110,12 @@
       "count": 3
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
+      "path": "tickers/openai.json",
+      "icon": "",
       "count": 2
     },
     {
@@ -119,19 +126,12 @@
       "count": 2
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
       "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 2
     },
     {
@@ -160,6 +160,13 @@
       "path": "tickers/aapl.json",
       "icon": "https://logo.clearbit.com/apple.com",
       "count": 2
+    },
+    {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "anthropic",
@@ -200,13 +207,6 @@
     {
       "id": "mining",
       "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
       "type": "topic",
       "icon": "",
       "count": 1

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T17:31:09.939Z",
+  "updated_at": "2026-10-19T09:15:47.893Z",
   "id": "jpm",
   "symbol": "JPM",
   "name": "JPMorgan",
@@ -7,21 +7,29 @@
   "total": 1,
   "articles": [
     {
-      "id": "21e58a8decb7fe8b7b48e376d1fdaa87",
-      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-      "description": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+      "id": "058674f38d51564a25de2fcdea40a3e7",
+      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+      "description": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108403281-1791898216071-Untitled-4.jpg?v=1791923579&w=1920&h=1080",
+      "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59MBQFEA0ZPNG2VY870K1C7/hi-jp-morgan-chase-and-crypto-recap-1.jpg",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
         {
           "id": "jpm",
           "symbol": "JPM",
@@ -29,98 +37,92 @@
           "type": "company",
           "path": "tickers/jpm.json",
           "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
         }
       ],
-      "published_at": "2026-10-13T20:48:37.000Z",
+      "published_at": "2026-10-19T08:58:45.000Z",
       "related": [
         {
-          "id": "40d942fff230fd8254bf68504550bb41",
-          "title": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
-          "image": "https://image.cnbcfm.com/api/v1/image/108408063-1791975126732-gettyimages-2299252586-_73a8198_nr324rdf.jpeg?v=1791975235&w=1920&h=1080",
+          "id": "6f0a06b419e43dc2ed433469bbbe5838",
+          "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59F6KYERPENFDEPMTNEM29K/big-wave-bitcoin-ethereum-market-fall-1.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-14T17:12:20.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-19T07:54:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/40d942fff230fd8254bf68504550bb41.json"
+          "path": "articles/6f0a06b419e43dc2ed433469bbbe5838.json"
         },
         {
-          "id": "e5f02cddb391b83778ff6c8015ef5d7d",
-          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-          "image": "https://image.cnbcfm.com/api/v1/image/108091506-1737654883210-1U8A2251.JPG?v=1737655004&w=1920&h=1080",
+          "id": "5e2ffe7ca451ee953e8f53cfdfed7126",
+          "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-10-14T17:08:23.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-16T10:39:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e5f02cddb391b83778ff6c8015ef5d7d.json"
+          "path": "articles/5e2ffe7ca451ee953e8f53cfdfed7126.json"
         },
         {
-          "id": "2cf17b08744c4142ecbdd232f2fa1d49",
-          "title": "Fannie Mae sharply raises mortgage rate forecast for 2027 ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108408703-1791985792669-gettyimages-2268964111-260402_to_homes_005.jpeg?v=1791986935&w=1920&h=1080",
+          "id": "af243abb820b5efc947b9d7d6e3a7092",
+          "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-10-14T17:08:07.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-15T14:27:18.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2cf17b08744c4142ecbdd232f2fa1d49.json"
+          "path": "articles/af243abb820b5efc947b9d7d6e3a7092.json"
         },
         {
-          "id": "7ddeb868940f5096deb8d94c5ff76113",
-          "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-          "image": "https://image.cnbcfm.com/api/v1/image/108222325-1762436340924-gettyimages-2215390071-vcg111567793339.jpeg?v=1791993243&w=1920&h=1080",
+          "id": "b7c3a9a74ec9407089ef5c67dfa02927",
+          "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/wallets_litepaper-gID_5-pID_5.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-10-14T17:06:17.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-16T09:10:48.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/7ddeb868940f5096deb8d94c5ff76113.json"
+          "path": "articles/b7c3a9a74ec9407089ef5c67dfa02927.json"
         },
         {
-          "id": "68ecef18de6b8a8dfdf9ed2d016aa626",
-          "title": "'The power of shrink' — tour the little-known $25B company that chipmakers can't live without",
-          "image": "https://image.cnbcfm.com/api/v1/image/108409495-1791997080235-qnity_screen1_1024.jpg?v=1791997136&w=1920&h=1080",
+          "id": "b3a25953457251e52659d23e15483e91",
+          "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circle.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-14T17:04:50.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-17T10:03:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/68ecef18de6b8a8dfdf9ed2d016aa626.json"
+          "path": "articles/b3a25953457251e52659d23e15483e91.json"
         }
       ],
-      "path": "articles/21e58a8decb7fe8b7b48e376d1fdaa87.json"
+      "path": "articles/058674f38d51564a25de2fcdea40a3e7.json"
     }
   ]
 }

@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-10-19T03:45:46.042Z",
+  "updated_at": "2026-10-19T04:01:17.828Z",
   "id": "aapl",
   "symbol": "AAPL",
   "name": "Apple",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "fda3b8e3a689b50c32967b5394e9f2de",
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "description": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
+          "type": "company",
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-18T12:00:01.000Z",
+      "related": [
+        {
+          "id": "08dbe53f82afb4382d2bec560e7c62c1",
+          "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-16T19:36:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/08dbe53f82afb4382d2bec560e7c62c1.json"
+        },
+        {
+          "id": "8ae6fea44b4df45a618c57b622e7fc98",
+          "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108372989-1791255404749-gettyimages-2229471059-2230320553.jpeg?v=1791572488&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T03:56:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8ae6fea44b4df45a618c57b622e7fc98.json"
+        },
+        {
+          "id": "5a31ade117cc14a8dacf75a105dca1cd",
+          "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+          "image": "https://image.cnbcfm.com/api/v1/image/108430518-1792373829345-gettyimages-2300652841-img_9823.jpeg?v=1792373864&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T03:26:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/5a31ade117cc14a8dacf75a105dca1cd.json"
+        },
+        {
+          "id": "46ce98d4cd5522f85dda7dc08aebe1e5",
+          "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+          "image": "https://image.cnbcfm.com/api/v1/image/108430331-1792370117297-gettyimages-2300132524-AFP_D3LE2JY.jpeg?v=1792370151&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T03:18:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/46ce98d4cd5522f85dda7dc08aebe1e5.json"
+        },
+        {
+          "id": "f9e2a0052533cf47094cfe4c6ba8a944",
+          "title": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
+          "image": "https://image.cnbcfm.com/api/v1/image/108135857-1745474028422-gettyimages-816094118-alcibbum_206365-edit-2.jpeg?v=1745481811&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T03:00:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/f9e2a0052533cf47094cfe4c6ba8a944.json"
+        }
+      ],
+      "path": "articles/fda3b8e3a689b50c32967b5394e9f2de.json"
+    },
     {
       "id": "08dbe53f82afb4382d2bec560e7c62c1",
       "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
@@ -33,6 +165,22 @@
       ],
       "published_at": "2026-10-16T19:36:04.000Z",
       "related": [
+        {
+          "id": "fda3b8e3a689b50c32967b5394e9f2de",
+          "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-18T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fda3b8e3a689b50c32967b5394e9f2de.json"
+        },
         {
           "id": "50507f1dc2b082d7fda4a5de20e5cfe7",
           "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
@@ -96,22 +244,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/cb43b5b0dd9cae7d0b5d10595d858c8d.json"
-        },
-        {
-          "id": "fd5b835a5df2b6bc75f9c59913a132c1",
-          "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-17T16:01:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fd5b835a5df2b6bc75f9c59913a132c1.json"
         }
       ],
       "path": "articles/08dbe53f82afb4382d2bec560e7c62c1.json"

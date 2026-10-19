@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-19T06:15:43.586Z",
+  "updated_at": "2026-10-19T06:31:09.969Z",
   "id": "tsla",
   "symbol": "TSLA",
   "name": "Tesla",
   "type": "company",
-  "total": 3,
+  "total": 2,
   "articles": [
     {
       "id": "484b0fc5e5344712e63db2220d952d3c",
@@ -33,22 +33,6 @@
       ],
       "published_at": "2026-10-16T21:49:13.000Z",
       "related": [
-        {
-          "id": "f21d4ef541e4e1374aeb2a342b5b345c",
-          "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-16T10:48:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/f21d4ef541e4e1374aeb2a342b5b345c.json"
-        },
         {
           "id": "6cf2f126730933c324f2f0e71a0fa98e",
           "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
@@ -112,6 +96,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2b9b6858fe1b548d8427e8ced39bfa48.json"
+        },
+        {
+          "id": "4d87669503950a5a008530aea786c2ef",
+          "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+          "image": "https://image.cnbcfm.com/api/v1/image/108366602-1790125501551-gettyimages-2296090716-UNGA_2026.jpeg?v=1790126080&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T05:29:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4d87669503950a5a008530aea786c2ef.json"
         }
       ],
       "path": "articles/484b0fc5e5344712e63db2220d952d3c.json"
@@ -151,22 +151,6 @@
       ],
       "published_at": "2026-10-16T20:16:04.000Z",
       "related": [
-        {
-          "id": "f21d4ef541e4e1374aeb2a342b5b345c",
-          "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-16T10:48:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/f21d4ef541e4e1374aeb2a342b5b345c.json"
-        },
         {
           "id": "484b0fc5e5344712e63db2220d952d3c",
           "title": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
@@ -230,49 +214,11 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ab4b7241433f3639fd5ebe94d74523c1.json"
-        }
-      ],
-      "path": "articles/6cf2f126730933c324f2f0e71a0fa98e.json"
-    },
-    {
-      "id": "f21d4ef541e4e1374aeb2a342b5b345c",
-      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "description": "Volume in Hyperliquid’s Tesla contract hit $47 million in one hour after Elon Musk’s flying Roadster demo, up from $2.8 million, with U.S. stocks closed.",
-      "reading_time_minutes": 1,
-      "breaking_score": 40,
-      "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "tsla",
-          "symbol": "TSLA",
-          "name": "Tesla",
-          "type": "company",
-          "path": "tickers/tsla.json",
-          "icon": "https://logo.clearbit.com/tesla.com"
         },
         {
-          "id": "spacex",
-          "symbol": "SPACEX",
-          "name": "SpaceX",
-          "type": "company",
-          "path": "tickers/spacex.json",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-16T10:48:49.000Z",
-      "related": [
-        {
-          "id": "6cf2f126730933c324f2f0e71a0fa98e",
-          "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/tesla-roadster-gID_7.jpg@png",
+          "id": "340fed05f5beb76d23ee504fe969305b",
+          "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/money-printer-decrypt-style-scaled-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -280,77 +226,13 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-16T20:16:04.000Z",
+          "published_at": "2026-10-18T13:01:04.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6cf2f126730933c324f2f0e71a0fa98e.json"
-        },
-        {
-          "id": "484b0fc5e5344712e63db2220d952d3c",
-          "title": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
-          "image": "https://image.cnbcfm.com/api/v1/image/108408835-1791987962972-gettyimages-2297261280-TRUMP_AMERICAGOV.jpeg?v=1791987994&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-16T21:49:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/484b0fc5e5344712e63db2220d952d3c.json"
-        },
-        {
-          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
-          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T18:30:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 45,
-          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
-        },
-        {
-          "id": "1faa0125b8b84156a8a7929066290681",
-          "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-18T23:28:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1faa0125b8b84156a8a7929066290681.json"
-        },
-        {
-          "id": "ffcb5c6c2339b2b3249001c0761089de",
-          "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-19T05:23:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ffcb5c6c2339b2b3249001c0761089de.json"
+          "path": "articles/340fed05f5beb76d23ee504fe969305b.json"
         }
       ],
-      "path": "articles/f21d4ef541e4e1374aeb2a342b5b345c.json"
+      "path": "articles/6cf2f126730933c324f2f0e71a0fa98e.json"
     }
   ]
 }

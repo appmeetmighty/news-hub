@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-20T14:31:07.248Z",
+  "updated_at": "2026-10-20T14:45:48.006Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "d2447442a5d1863b6ed1e2bdfad6a800",
-      "title": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
-      "description": "Oil extended its rally on Tuesday as investors continued to monitor developments in the Middle East.",
+      "title": "Oil prices fall as traders monitor conflict in the Middle East",
+      "description": "Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
@@ -31,8 +31,24 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-10-20T13:11:31.000Z",
+      "published_at": "2026-10-20T14:42:39.000Z",
       "related": [
+        {
+          "id": "53776bf074490eebc9f5d13496d63eac",
+          "title": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8a7c59c7af10194181b89cc78318fb38c02a085-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T10:14:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/53776bf074490eebc9f5d13496d63eac.json"
+        },
         {
           "id": "dc32b7185f7e36aab7a266a64a33795e",
           "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
@@ -82,9 +98,9 @@
           "path": "articles/75acd8ddeec8c89b5a04710a8911ba0d.json"
         },
         {
-          "id": "baa324e8b0468e0ef99c979b1f83513c",
-          "title": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
-          "image": "https://image.cnbcfm.com/api/v1/image/108340534-1785163592390-gettyimages-2286650196-85390093.jpeg?v=1785163618&w=1920&h=1080",
+          "id": "16482e8b135b0151071ef8470bf7e17e",
+          "title": "What options traders expect from SpaceX earnings after the bell",
+          "image": "https://image.cnbcfm.com/api/v1/image/108316639-1780576646880-gettyimages-2278970792-yanow-notitle260603_npysS.jpeg?v=1780576706&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -92,29 +108,131 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-20T10:30:49.000Z",
+          "published_at": "2026-10-20T14:01:49.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/baa324e8b0468e0ef99c979b1f83513c.json"
-        },
-        {
-          "id": "2529016a1c0de5faed0d4246a37d3455",
-          "title": "September data shows housing market in a deep freeze",
-          "image": "https://image.cnbcfm.com/api/v1/image/108316060-1780500478814-gettyimages-2277390306-260523_tohomes_110.jpeg?v=1792504243&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-20T14:18:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2529016a1c0de5faed0d4246a37d3455.json"
+          "path": "articles/16482e8b135b0151071ef8470bf7e17e.json"
         }
       ],
       "path": "articles/d2447442a5d1863b6ed1e2bdfad6a800.json"
+    },
+    {
+      "id": "53776bf074490eebc9f5d13496d63eac",
+      "title": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
+      "description": "After continued overnight shakiness, U.S. stocks quickly rose as oil tumbled on a report of progress toward ending the war in Iran.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8a7c59c7af10194181b89cc78318fb38c02a085-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-20T10:14:19.000Z",
+      "related": [
+        {
+          "id": "75acd8ddeec8c89b5a04710a8911ba0d",
+          "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/19627b33884facfeb28d76262dc66c02511ae332-2185x1326.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-19T03:36:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/75acd8ddeec8c89b5a04710a8911ba0d.json"
+        },
+        {
+          "id": "564467e4824375921cc8aa24ac18f072",
+          "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-19T16:05:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/564467e4824375921cc8aa24ac18f072.json"
+        },
+        {
+          "id": "fbd20536130b4aa9222024acee880a7e",
+          "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a14ed869a13e79c274c8e16b2d90492e4afeddc-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-19T11:05:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fbd20536130b4aa9222024acee880a7e.json"
+        },
+        {
+          "id": "f5e713bf03ca2c108a06eb0a64211fba",
+          "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/da293f1399efe7eabfec7f5ecde6fe49ab641e3c-1500x776.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T11:10:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f5e713bf03ca2c108a06eb0a64211fba.json"
+        },
+        {
+          "id": "aa6a070f928786625807bbc95f9b255a",
+          "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8c7a6e81d5df5052dab8f6d8af2efcf82f9ea3fd-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T10:22:55.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/aa6a070f928786625807bbc95f9b255a.json"
+        }
+      ],
+      "path": "articles/53776bf074490eebc9f5d13496d63eac.json"
     },
     {
       "id": "dc32b7185f7e36aab7a266a64a33795e",
@@ -150,20 +268,20 @@
       "published_at": "2026-10-20T09:32:24.000Z",
       "related": [
         {
-          "id": "d2447442a5d1863b6ed1e2bdfad6a800",
-          "title": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
-          "image": "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080",
+          "id": "53776bf074490eebc9f5d13496d63eac",
+          "title": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8a7c59c7af10194181b89cc78318fb38c02a085-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-20T13:11:31.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-20T10:14:19.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d2447442a5d1863b6ed1e2bdfad6a800.json"
+          "path": "articles/53776bf074490eebc9f5d13496d63eac.json"
         },
         {
           "id": "75acd8ddeec8c89b5a04710a8911ba0d",
@@ -198,25 +316,25 @@
           "path": "articles/564467e4824375921cc8aa24ac18f072.json"
         },
         {
-          "id": "373b5d4b39e7de9e27cae9e6f5f3ec36",
-          "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f848ee6dd7e6ff1afdc488982529261469645ec0-6708x4472.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "d2447442a5d1863b6ed1e2bdfad6a800",
+          "title": "Oil prices fall as traders monitor conflict in the Middle East",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-20T13:35:08.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-20T14:42:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/373b5d4b39e7de9e27cae9e6f5f3ec36.json"
+          "path": "articles/d2447442a5d1863b6ed1e2bdfad6a800.json"
         },
         {
-          "id": "96b7032a02de97d33f29afe6a9ff21b1",
-          "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0183643376c63d3344b437b12fb69486c8bd450-1500x996.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "0465ab0b61cc167f377b90f6511b6e3c",
+          "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fcf4c5947496fab4a554a10a69d7310dc4787418-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -224,10 +342,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-20T12:40:17.000Z",
+          "published_at": "2026-10-20T14:28:39.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/96b7032a02de97d33f29afe6a9ff21b1.json"
+          "breaking_score": 25,
+          "path": "articles/0465ab0b61cc167f377b90f6511b6e3c.json"
         }
       ],
       "path": "articles/dc32b7185f7e36aab7a266a64a33795e.json"
@@ -273,6 +391,22 @@
       ],
       "published_at": "2026-10-19T16:05:09.000Z",
       "related": [
+        {
+          "id": "53776bf074490eebc9f5d13496d63eac",
+          "title": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8a7c59c7af10194181b89cc78318fb38c02a085-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T10:14:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/53776bf074490eebc9f5d13496d63eac.json"
+        },
         {
           "id": "75acd8ddeec8c89b5a04710a8911ba0d",
           "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
@@ -336,22 +470,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/8ffaa43b7accd399b24b6fcd31cb5b16.json"
-        },
-        {
-          "id": "2182850c438eb39800c15be14bdb1885",
-          "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-whale-decrypt-style-03-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-19T16:46:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2182850c438eb39800c15be14bdb1885.json"
         }
       ],
       "path": "articles/564467e4824375921cc8aa24ac18f072.json"
@@ -391,6 +509,22 @@
       ],
       "published_at": "2026-10-19T03:36:58.000Z",
       "related": [
+        {
+          "id": "53776bf074490eebc9f5d13496d63eac",
+          "title": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8a7c59c7af10194181b89cc78318fb38c02a085-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T10:14:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/53776bf074490eebc9f5d13496d63eac.json"
+        },
         {
           "id": "564467e4824375921cc8aa24ac18f072",
           "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
@@ -440,9 +574,9 @@
           "path": "articles/c8ae683216144f61681a9d1b567363e4.json"
         },
         {
-          "id": "95c3f1cd0889b2da0a291171c76a85f4",
-          "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f231dbc1b627628eb7b1afe3073540e1eb17e2-1690x751.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "0465ab0b61cc167f377b90f6511b6e3c",
+          "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fcf4c5947496fab4a554a10a69d7310dc4787418-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -450,26 +584,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-20T11:14:21.000Z",
+          "published_at": "2026-10-20T14:28:39.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/95c3f1cd0889b2da0a291171c76a85f4.json"
-        },
-        {
-          "id": "f5e713bf03ca2c108a06eb0a64211fba",
-          "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/da293f1399efe7eabfec7f5ecde6fe49ab641e3c-1500x776.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-20T11:10:40.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f5e713bf03ca2c108a06eb0a64211fba.json"
+          "breaking_score": 25,
+          "path": "articles/0465ab0b61cc167f377b90f6511b6e3c.json"
         }
       ],
       "path": "articles/75acd8ddeec8c89b5a04710a8911ba0d.json"

@@ -1,7 +1,7 @@
 {
   "id": "53776bf074490eebc9f5d13496d63eac",
   "title": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
-  "description": "South Korea’s KOSPI fell almost 4%, accompanied by one of the weakest IPO debuts in the country’s history, with data center company Elice tumbling around 30%.",
+  "description": "After continued overnight shakiness, U.S. stocks quickly rose as oil tumbled on a report of progress toward ending the war in Iran.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
   "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
@@ -21,10 +21,50 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
     }
   ],
   "published_at": "2026-10-20T10:14:19.000Z",
   "related": [
+    {
+      "id": "75acd8ddeec8c89b5a04710a8911ba0d",
+      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/19627b33884facfeb28d76262dc66c02511ae332-2185x1326.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-10-19T03:36:58.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/75acd8ddeec8c89b5a04710a8911ba0d.json"
+    },
+    {
+      "id": "564467e4824375921cc8aa24ac18f072",
+      "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "published_at": "2026-10-19T16:05:09.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/564467e4824375921cc8aa24ac18f072.json"
+    },
     {
       "id": "fbd20536130b4aa9222024acee880a7e",
       "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
@@ -72,38 +112,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 25,
       "path": "articles/aa6a070f928786625807bbc95f9b255a.json"
-    },
-    {
-      "id": "3e1aa39e8c9f77399427d0a1faac3b5f",
-      "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/28283ebba4d1a7241694e2613ffbdcd1d9845ea2-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-10-19T10:26:33.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/3e1aa39e8c9f77399427d0a1faac3b5f.json"
-    },
-    {
-      "id": "95c3f1cd0889b2da0a291171c76a85f4",
-      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f231dbc1b627628eb7b1afe3073540e1eb17e2-1690x751.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-10-20T11:14:21.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/95c3f1cd0889b2da0a291171c76a85f4.json"
     }
   ]
 }

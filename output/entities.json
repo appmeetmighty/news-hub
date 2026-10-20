@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T08:15:46.297Z",
-  "total": 31,
+  "updated_at": "2026-10-20T08:31:04.216Z",
+  "total": 32,
   "entities": [
     {
       "id": "btc",
@@ -9,14 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 31
+      "count": 33
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 29
+      "count": 28
     },
     {
       "id": "regulation",
@@ -49,20 +49,20 @@
       "count": 8
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 7
-    },
-    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 6
+      "count": 7
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "tsla",
@@ -83,6 +83,15 @@
       "count": 5
     },
     {
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
+      "count": 4
+    },
+    {
       "id": "aapl",
       "symbol": "AAPL",
       "name": "Apple",
@@ -99,6 +108,24 @@
       "path": "tickers/jpm.json",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 3
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 3
     },
     {
       "id": "nvda",
@@ -146,33 +173,6 @@
       "count": 2
     },
     {
-      "id": "blk",
-      "symbol": "BLK",
-      "name": "BlackRock",
-      "type": "company",
-      "path": "tickers/blk.json",
-      "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 2
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 2
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 2
-    },
-    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -196,6 +196,13 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "gold",

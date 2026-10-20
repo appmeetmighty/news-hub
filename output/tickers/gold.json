@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T07:01:18.321Z",
+  "updated_at": "2026-10-20T06:15:47.084Z",
   "id": "gold",
   "symbol": "GOLD",
   "name": "Gold",
@@ -7,29 +7,21 @@
   "total": 1,
   "articles": [
     {
-      "id": "fd37472f11dc6e14daddaff649ef6d25",
-      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
-      "description": "Your day-ahead look for Oct. 15, 2026",
+      "id": "6b895617791d760872aafc798a3b8919",
+      "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
+      "description": "Copper is up 15.8% in 2026 as investors point to AI, grid and national security demand, tight supply and tariff-driven U.S. stockpiles.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f8437e589e595529cc560ac6a76355d8b08defb-5184x3456.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "url": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108346259-1786046336117-gettyimages-2228106041-US_COPPER.jpeg?v=1786046387&w=1920&h=1080",
       "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-        },
         {
           "id": "gold",
           "symbol": "GOLD",
@@ -37,92 +29,98 @@
           "type": "commodity",
           "path": "tickers/gold.json",
           "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-10-15T11:15:00.000Z",
+      "published_at": "2026-10-20T05:57:34.000Z",
       "related": [
         {
-          "id": "6bf815a65d3ad8d04ab3e59f6a53dbfb",
-          "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/879e7233d36e6974d9fba6a5d1cb72056508a458-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "9cab06eeb931f5eacdc85d144f7d915d",
+          "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+          "image": "https://image.cnbcfm.com/api/v1/image/108435073-1792458285539-gettyimages-2299757574-INDIA_JIO_IPO.jpeg?v=1792458317&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-16T09:48:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/6bf815a65d3ad8d04ab3e59f6a53dbfb.json"
-        },
-        {
-          "id": "f18da7c17b0dce1f7abeafe7938e0720",
-          "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/891d851f5c1b7c4185f70d0e7835241eb1a6f7f3-1540x852.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-16T04:14:22.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-20T02:44:35.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/f18da7c17b0dce1f7abeafe7938e0720.json"
+          "path": "articles/9cab06eeb931f5eacdc85d144f7d915d.json"
         },
         {
-          "id": "8a099ce06a3c227cf3575265ce537267",
-          "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "0fda9c090e8a4357e5b629354f1d0c18",
+          "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321535-1781310783695-gettyimages-2280560635-SPACEX_IPO.jpeg?v=1781310835&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-17T02:30:00.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-19T16:58:20.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8a099ce06a3c227cf3575265ce537267.json"
+          "path": "articles/0fda9c090e8a4357e5b629354f1d0c18.json"
         },
         {
-          "id": "5aad9fe0638fc2cba771e11acbd073f8",
-          "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5163083009ada58cbe961b561eb5fc8b73427097-3014x1454.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "bdfa38c3c816c481c12692c9804485ec",
+          "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+          "image": "https://image.cnbcfm.com/api/v1/image/108362609-1789409134792-gettyimages-2290481472-logos.jpeg?v=1789409171&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-16T10:52:26.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-19T16:42:14.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5aad9fe0638fc2cba771e11acbd073f8.json"
+          "path": "articles/bdfa38c3c816c481c12692c9804485ec.json"
         },
         {
-          "id": "42f34bbc61d3e7206e1ec1c6401a07fc",
-          "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff44eeb11e3fa7d86694b7c0742d390ad2ff526f-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "8765e0b50bc40c39f62b45b2097ddf13",
+          "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+          "image": "https://image.cnbcfm.com/api/v1/image/108415617-1792090588085-gettyimages-2280413074-AFP_B6RZ8TZ.jpeg?v=1792091310&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-16T10:41:03.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-17T16:31:06.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/42f34bbc61d3e7206e1ec1c6401a07fc.json"
+          "path": "articles/8765e0b50bc40c39f62b45b2097ddf13.json"
+        },
+        {
+          "id": "6a4cf493f7ac4282c7a06cc8c64d588d",
+          "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+          "image": "https://image.cnbcfm.com/api/v1/image/108420368-1792166542544-picking_out_pumpkins.jpg?v=1792168563&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-17T13:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6a4cf493f7ac4282c7a06cc8c64d588d.json"
         }
       ],
-      "path": "articles/fd37472f11dc6e14daddaff649ef6d25.json"
+      "path": "articles/6b895617791d760872aafc798a3b8919.json"
     }
   ]
 }

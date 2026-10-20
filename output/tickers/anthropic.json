@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-20T01:01:15.958Z",
+  "updated_at": "2026-10-20T01:15:43.100Z",
   "id": "anthropic",
   "symbol": "ANTHROPIC",
   "name": "Anthropic",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "abd4d902e874d96c58bc26b17ed05a58",
@@ -66,6 +66,38 @@
           "path": "articles/6cf2f126730933c324f2f0e71a0fa98e.json"
         },
         {
+          "id": "bad6da9af5b6b42efdaebd7fd809af98",
+          "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374303-1791396694329-gettyimages-2298464628-AFP_D2JK6CL.jpeg?v=1791396718&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-18T19:37:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bad6da9af5b6b42efdaebd7fd809af98.json"
+        },
+        {
+          "id": "eb92c5004237b681770b6736940f942f",
+          "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T12:33:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb92c5004237b681770b6736940f942f.json"
+        },
+        {
           "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
           "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
           "image": "",
@@ -96,41 +128,125 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/cd37a42fe56d36701d62ea15459034e9.json"
-        },
-        {
-          "id": "5c58d87d2bb621055c6850996a34ed9d",
-          "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/jp-morgan-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-19T17:31:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5c58d87d2bb621055c6850996a34ed9d.json"
-        },
-        {
-          "id": "8ffaa43b7accd399b24b6fcd31cb5b16",
-          "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-19T21:46:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8ffaa43b7accd399b24b6fcd31cb5b16.json"
         }
       ],
       "path": "articles/abd4d902e874d96c58bc26b17ed05a58.json"
+    },
+    {
+      "id": "eb92c5004237b681770b6736940f942f",
+      "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+      "description": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-19T12:33:07.000Z",
+      "related": [
+        {
+          "id": "abd4d902e874d96c58bc26b17ed05a58",
+          "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-19T21:15:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/abd4d902e874d96c58bc26b17ed05a58.json"
+        },
+        {
+          "id": "8b3240c1b6f4c03952c88ec64a2df7a1",
+          "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108430238-1792369350714-gettyimages-2293594732-vcg111664074027.jpeg?v=1792369398&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T07:48:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8b3240c1b6f4c03952c88ec64a2df7a1.json"
+        },
+        {
+          "id": "65ed707bc59e135643789c39cc9a1a27",
+          "title": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
+          "image": "https://image.cnbcfm.com/api/v1/image/108305064-1778513442281-Lilly-OB-Photo-20260511-CC-PRESS-13.jpg?v=1778513536&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T19:13:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/65ed707bc59e135643789c39cc9a1a27.json"
+        },
+        {
+          "id": "7b3538ff7ac31f831a0351439efd5822",
+          "title": "Gartner analyst behind tech rout: AI returns are not yet large enough to justify neocloud build-out",
+          "image": "https://image.cnbcfm.com/api/v1/image/108303956-1778182512216-gettyimages-2263883107-mms29230_rriq1yvf.jpeg?v=1778182845&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T16:57:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7b3538ff7ac31f831a0351439efd5822.json"
+        },
+        {
+          "id": "77ded84ded4eeab2f13057ad4bed3f02",
+          "title": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370325-1790781362777-gettyimages-2297900421-anotherday278803980_q2jvk4kz.jpeg?v=1792422240&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T16:17:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/77ded84ded4eeab2f13057ad4bed3f02.json"
+        }
+      ],
+      "path": "articles/eb92c5004237b681770b6736940f942f.json"
     }
   ]
 }

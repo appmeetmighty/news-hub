@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T01:01:15.963Z",
-  "total": 28,
+  "updated_at": "2026-10-20T01:15:43.106Z",
+  "total": 30,
   "entities": [
     {
       "id": "btc",
@@ -33,19 +33,19 @@
       "count": 11
     },
     {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 11
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 8
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
       "count": 8
     },
     {
@@ -65,6 +65,15 @@
       "count": 6
     },
     {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "ma",
       "symbol": "MA",
       "name": "Mastercard",
@@ -74,12 +83,21 @@
       "count": 4
     },
     {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
       "type": "company",
-      "path": "tickers/spacex.json",
+      "path": "tickers/jpm.json",
       "icon": "",
+      "count": 4
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 3
     },
     {
@@ -92,21 +110,21 @@
       "count": 3
     },
     {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
       "type": "company",
-      "path": "tickers/jpm.json",
-      "icon": "",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
       "count": 3
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
+      "path": "tickers/anthropic.json",
+      "icon": "",
       "count": 2
     },
     {
@@ -126,15 +144,6 @@
       "count": 2
     },
     {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
-      "count": 2
-    },
-    {
       "id": "v",
       "symbol": "V",
       "name": "Visa",
@@ -151,15 +160,6 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 2
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 1
     },
     {
       "id": "web3",
@@ -200,6 +200,24 @@
       "name": "Mining",
       "type": "topic",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 1
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
       "count": 1
     },
     {

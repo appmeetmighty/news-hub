@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-20T01:01:15.961Z",
+  "updated_at": "2026-10-20T01:15:43.103Z",
   "id": "aapl",
   "symbol": "AAPL",
   "name": "Apple",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "69adcf08f6a8a80a7a8b80ac86672357",
@@ -50,6 +50,22 @@
           "path": "articles/08dbe53f82afb4382d2bec560e7c62c1.json"
         },
         {
+          "id": "fda3b8e3a689b50c32967b5394e9f2de",
+          "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-18T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fda3b8e3a689b50c32967b5394e9f2de.json"
+        },
+        {
           "id": "8ffaa43b7accd399b24b6fcd31cb5b16",
           "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png@png",
@@ -96,11 +112,63 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6b76c74fb5d0af5cb99dda1acb382f14.json"
+        }
+      ],
+      "path": "articles/69adcf08f6a8a80a7a8b80ac86672357.json"
+    },
+    {
+      "id": "fda3b8e3a689b50c32967b5394e9f2de",
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "description": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
+          "type": "company",
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
         },
         {
-          "id": "d9cc941b3123a13590d1e5f022bcbfc8",
-          "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/mastercard-decrypt-style-01-gID_7.png@png",
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-18T12:00:01.000Z",
+      "related": [
+        {
+          "id": "69adcf08f6a8a80a7a8b80ac86672357",
+          "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-apple-iphone-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -108,13 +176,77 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-19T19:16:04.000Z",
+          "published_at": "2026-10-19T19:46:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/69adcf08f6a8a80a7a8b80ac86672357.json"
+        },
+        {
+          "id": "08dbe53f82afb4382d2bec560e7c62c1",
+          "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-16T19:36:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/08dbe53f82afb4382d2bec560e7c62c1.json"
+        },
+        {
+          "id": "65ed707bc59e135643789c39cc9a1a27",
+          "title": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
+          "image": "https://image.cnbcfm.com/api/v1/image/108305064-1778513442281-Lilly-OB-Photo-20260511-CC-PRESS-13.jpg?v=1778513536&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T19:13:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d9cc941b3123a13590d1e5f022bcbfc8.json"
+          "path": "articles/65ed707bc59e135643789c39cc9a1a27.json"
+        },
+        {
+          "id": "7b3538ff7ac31f831a0351439efd5822",
+          "title": "Gartner analyst behind tech rout: AI returns are not yet large enough to justify neocloud build-out",
+          "image": "https://image.cnbcfm.com/api/v1/image/108303956-1778182512216-gettyimages-2263883107-mms29230_rriq1yvf.jpeg?v=1778182845&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T16:57:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7b3538ff7ac31f831a0351439efd5822.json"
+        },
+        {
+          "id": "77ded84ded4eeab2f13057ad4bed3f02",
+          "title": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370325-1790781362777-gettyimages-2297900421-anotherday278803980_q2jvk4kz.jpeg?v=1792422240&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-19T16:17:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/77ded84ded4eeab2f13057ad4bed3f02.json"
         }
       ],
-      "path": "articles/69adcf08f6a8a80a7a8b80ac86672357.json"
+      "path": "articles/fda3b8e3a689b50c32967b5394e9f2de.json"
     },
     {
       "id": "08dbe53f82afb4382d2bec560e7c62c1",
@@ -160,6 +292,22 @@
           "path": "articles/69adcf08f6a8a80a7a8b80ac86672357.json"
         },
         {
+          "id": "fda3b8e3a689b50c32967b5394e9f2de",
+          "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-18T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fda3b8e3a689b50c32967b5394e9f2de.json"
+        },
+        {
           "id": "8ffaa43b7accd399b24b6fcd31cb5b16",
           "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png@png",
@@ -206,22 +354,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6b76c74fb5d0af5cb99dda1acb382f14.json"
-        },
-        {
-          "id": "d9cc941b3123a13590d1e5f022bcbfc8",
-          "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/mastercard-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-19T19:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d9cc941b3123a13590d1e5f022bcbfc8.json"
         }
       ],
       "path": "articles/08dbe53f82afb4382d2bec560e7c62c1.json"

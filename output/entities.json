@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T20:01:19.678Z",
+  "updated_at": "2026-10-20T20:32:22.138Z",
   "total": 30,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 37
+      "count": 36
     },
     {
       "id": "regulation",
@@ -23,21 +23,37 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 21
+      "count": 22
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 13
+      "count": 12
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 11
+      "count": 10
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 6
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "blk",
@@ -65,22 +81,6 @@
       "count": 5
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 5
-    },
-    {
       "id": "aapl",
       "symbol": "AAPL",
       "name": "Apple",
@@ -88,6 +88,15 @@
       "path": "tickers/aapl.json",
       "icon": "https://logo.clearbit.com/apple.com",
       "count": 5
+    },
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 4
     },
     {
       "id": "eth",
@@ -117,12 +126,19 @@
       "count": 3
     },
     {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
       "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 3
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
       "count": 3
     },
     {
@@ -131,15 +147,6 @@
       "name": "Mastercard",
       "type": "company",
       "path": "tickers/ma.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
       "icon": "",
       "count": 3
     },
@@ -162,19 +169,12 @@
       "count": 3
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
       "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
+      "path": "tickers/gs.json",
+      "icon": "",
       "count": 2
     },
     {
@@ -192,6 +192,15 @@
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
       "icon": "",
       "count": 2
     },
@@ -217,15 +226,6 @@
       "id": "web3",
       "name": "Web3",
       "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "gs",
-      "symbol": "GS",
-      "name": "Goldman Sachs",
-      "type": "company",
-      "path": "tickers/gs.json",
       "icon": "",
       "count": 1
     },

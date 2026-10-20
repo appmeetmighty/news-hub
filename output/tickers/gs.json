@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:45:47.302Z",
+  "updated_at": "2026-10-20T12:41:51.872Z",
   "id": "gs",
   "symbol": "GS",
   "name": "Goldman Sachs",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "8631a6b961a29073e04ffa6e3b4b22bb",
-      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "description": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street.",
+      "id": "96b7032a02de97d33f29afe6a9ff21b1",
+      "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+      "description": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/25ff7074f50fa460f087e97f7ba81d48d2cdce60-3000x2147.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0183643376c63d3344b437b12fb69486c8bd450-1500x996.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -23,20 +23,42 @@
       "category": "crypto",
       "entities": [
         {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
           "id": "gs",
           "symbol": "GS",
           "name": "Goldman Sachs",
           "type": "company",
           "path": "tickers/gs.json",
           "icon": ""
+        },
+        {
+          "id": "regulation",
+          "name": "Regulation",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-10-17T17:00:00.000Z",
+      "published_at": "2026-10-20T12:40:17.000Z",
       "related": [
         {
-          "id": "5f0cc55e55bd4cb12983dfdb6bed2781",
-          "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/00aaef2726548e0752cbe7b20a6377d15bd4b110-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "474cfd999a1d991bfeeb49edb448add2",
+          "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -44,31 +66,31 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-19T14:58:40.000Z",
+          "published_at": "2026-10-19T09:15:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5f0cc55e55bd4cb12983dfdb6bed2781.json"
+          "path": "articles/474cfd999a1d991bfeeb49edb448add2.json"
         },
         {
-          "id": "5ad777e81626b2936d67023ff09a971c",
-          "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/18b8027bca92c296bd2b336e8381bbcab4d923e3-2981x1677.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "a80cb195341e54463c5445dda65186d2",
+          "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-19T12:16:58.000Z",
+          "published_at": "2026-10-16T11:46:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5ad777e81626b2936d67023ff09a971c.json"
+          "path": "articles/a80cb195341e54463c5445dda65186d2.json"
         },
         {
-          "id": "3edbcc22b05881d6eb8fd4a4763cfea9",
-          "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7dc01ea956e60442b048c18dfb2d650f3d09fe-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "1faa0125b8b84156a8a7929066290681",
+          "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -76,45 +98,45 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-19T11:15:00.000Z",
+          "published_at": "2026-10-18T23:28:06.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3edbcc22b05881d6eb8fd4a4763cfea9.json"
+          "path": "articles/1faa0125b8b84156a8a7929066290681.json"
         },
         {
-          "id": "fbd20536130b4aa9222024acee880a7e",
-          "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a14ed869a13e79c274c8e16b2d90492e4afeddc-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "5d71ecbeb4070f9da6d82ac7ae15dda1",
+          "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+          "image": "https://image.cnbcfm.com/api/v1/image/108420935-1792174657993-google_datacenter.jpg?v=1792176094&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-19T11:05:54.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-19T21:05:20.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/fbd20536130b4aa9222024acee880a7e.json"
+          "path": "articles/5d71ecbeb4070f9da6d82ac7ae15dda1.json"
         },
         {
-          "id": "3e1aa39e8c9f77399427d0a1faac3b5f",
-          "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/28283ebba4d1a7241694e2613ffbdcd1d9845ea2-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "a0fbdbf829ecb0e52063babdd6ecd7f6",
+          "title": "Public companies object to OKX-ICE’s tokenized stock plan ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5A2J092W3F0S5WH6W7VXXAN/hi-evergreen-guide-about-wall-street-pepe-general-information-1280x853.webp",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-19T10:26:33.000Z",
+          "published_at": "2026-10-19T13:13:53.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3e1aa39e8c9f77399427d0a1faac3b5f.json"
+          "path": "articles/a0fbdbf829ecb0e52063babdd6ecd7f6.json"
         }
       ],
-      "path": "articles/8631a6b961a29073e04ffa6e3b4b22bb.json"
+      "path": "articles/96b7032a02de97d33f29afe6a9ff21b1.json"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T16:31:09.051Z",
+  "updated_at": "2026-10-20T16:45:50.215Z",
   "total": 31,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 36
+      "count": 35
     },
     {
       "id": "regulation",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 16
+      "count": 15
     },
     {
       "id": "stablecoin",
@@ -40,21 +40,21 @@
       "count": 9
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 7
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
+      "count": 6
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 6
     },
     {
@@ -126,6 +126,15 @@
       "count": 4
     },
     {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 3
+    },
+    {
       "id": "ma",
       "symbol": "MA",
       "name": "Mastercard",
@@ -162,19 +171,28 @@
       "count": 3
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 2
+    },
+    {
+      "id": "nflx",
+      "symbol": "NFLX",
+      "name": "Netflix",
+      "type": "company",
+      "path": "tickers/nflx.json",
       "icon": "",
       "count": 2
     },
     {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
       "count": 2
     },
     {
@@ -203,29 +221,11 @@
       "count": 1
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 1
-    },
-    {
       "id": "gs",
       "symbol": "GS",
       "name": "Goldman Sachs",
       "type": "company",
       "path": "tickers/gs.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "nflx",
-      "symbol": "NFLX",
-      "name": "Netflix",
-      "type": "company",
-      "path": "tickers/nflx.json",
       "icon": "",
       "count": 1
     },

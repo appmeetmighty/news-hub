@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T17:01:23.041Z",
+  "updated_at": "2026-10-20T17:15:57.824Z",
   "total": 32,
   "entities": [
     {
@@ -23,7 +23,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 19
+      "count": 20
     },
     {
       "id": "ai",
@@ -40,11 +40,9 @@
       "count": 11
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
       "icon": "",
       "count": 6
     },
@@ -67,19 +65,21 @@
       "count": 6
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "aapl",
       "symbol": "AAPL",
       "name": "Apple",
       "type": "company",
       "path": "tickers/aapl.json",
       "icon": "https://logo.clearbit.com/apple.com",
-      "count": 5
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
       "count": 5
     },
     {

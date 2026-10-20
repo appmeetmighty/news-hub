@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-20T18:15:48.842Z",
+  "updated_at": "2026-10-20T18:31:06.795Z",
   "articles": {
-    "generated_at": "2026-10-20T18:15:48.842Z",
+    "generated_at": "2026-10-20T18:31:06.795Z",
     "topics": [
       {
         "id": "btc",
@@ -306,8 +306,22 @@
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 20,
+        "count": 21,
         "articles": [
+          {
+            "id": "99d470006ffb3f3b72c99482a5fc4777",
+            "title": "OKX-ICE’s Andrew Cuomo calls issuer objections a ‘natural response’ to tokenized stock plans",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd4279f03bab73f6b5b9819d7342d6d6132dde54-674x489.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-20T18:26:29.000Z",
+            "path": "articles/99d470006ffb3f3b72c99482a5fc4777.json"
+          },
           {
             "id": "769b80cd146b3fddc9c42791ec80117f",
             "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
@@ -433,20 +447,6 @@
             "category": "crypto",
             "published_at": "2026-10-19T20:22:41.000Z",
             "path": "articles/d7ebd71a9dea9c17a21ce3e947e2a631.json"
-          },
-          {
-            "id": "3b237a3af1b94d411e774a0a279f87f3",
-            "title": "Market participants weigh in on SEC’s proposed crypto regulations",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APHDVZD1BGG3JK7KN10823/man-documents-sec.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-19T19:54:38.000Z",
-            "path": "articles/3b237a3af1b94d411e774a0a279f87f3.json"
           }
         ]
       },
@@ -455,7 +455,7 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 14,
+        "count": 13,
         "articles": [
           {
             "id": "95f45b885ce52a2233a2c5d6c2f48225",
@@ -556,20 +556,6 @@
             "path": "articles/7e12c0b7142dd52f639143ac250a37db.json"
           },
           {
-            "id": "bdfa38c3c816c481c12692c9804485ec",
-            "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-            "image": "https://image.cnbcfm.com/api/v1/image/108362609-1789409134792-gettyimages-2290481472-logos.jpeg?v=1789409171&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-19T16:42:14.000Z",
-            "path": "articles/bdfa38c3c816c481c12692c9804485ec.json"
-          },
-          {
             "id": "564467e4824375921cc8aa24ac18f072",
             "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
             "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
@@ -596,6 +582,20 @@
             "category": "crypto",
             "published_at": "2026-10-19T11:40:40.000Z",
             "path": "articles/483c84ff20de2856bcd6d28f13bbb40d.json"
+          },
+          {
+            "id": "474cfd999a1d991bfeeb49edb448add2",
+            "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-19T09:15:00.000Z",
+            "path": "articles/474cfd999a1d991bfeeb49edb448add2.json"
           }
         ]
       },
@@ -1028,99 +1028,6 @@
         ]
       },
       {
-        "id": "blk",
-        "name": "BlackRock",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/blackrock.com",
-        "count": 6,
-        "articles": [
-          {
-            "id": "0465ab0b61cc167f377b90f6511b6e3c",
-            "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/fcf4c5947496fab4a554a10a69d7310dc4787418-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-20T14:28:39.000Z",
-            "path": "articles/0465ab0b61cc167f377b90f6511b6e3c.json"
-          },
-          {
-            "id": "f3a6a4b60dcca22e5d8e9d2c247c4d72",
-            "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-03-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-20T09:13:30.000Z",
-            "path": "articles/f3a6a4b60dcca22e5d8e9d2c247c4d72.json"
-          },
-          {
-            "id": "ae95265ecb4e992f5b6f9662e9676ef6",
-            "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/88712848853d249cbc03fda73bba8e72c7da76d6-1500x914.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-20T08:24:01.000Z",
-            "path": "articles/ae95265ecb4e992f5b6f9662e9676ef6.json"
-          },
-          {
-            "id": "ad66ee58436f5ffef4d27a76d598842e",
-            "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5C39B3JZZVK92X4QK4F6ZY6/bitcoin-etf-blackrock.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-20T08:12:57.000Z",
-            "path": "articles/ad66ee58436f5ffef4d27a76d598842e.json"
-          },
-          {
-            "id": "792bd9bf7ce0ea76dfb3417461ef94dd",
-            "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BWEPE5GWQF5EJR6RBF5RFF/bitcoin111.png",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-20T05:39:20.000Z",
-            "path": "articles/792bd9bf7ce0ea76dfb3417461ef94dd.json"
-          },
-          {
-            "id": "9cab06eeb931f5eacdc85d144f7d915d",
-            "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
-            "image": "https://image.cnbcfm.com/api/v1/image/108435073-1792458285539-gettyimages-2299757574-INDIA_JIO_IPO.jpeg?v=1792458317&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-20T02:44:35.000Z",
-            "path": "articles/9cab06eeb931f5eacdc85d144f7d915d.json"
-          }
-        ]
-      },
-      {
         "id": "spacex",
         "name": "SpaceX",
         "type": "company",
@@ -1275,6 +1182,85 @@
             "category": "crypto",
             "published_at": "2026-10-19T16:05:09.000Z",
             "path": "articles/564467e4824375921cc8aa24ac18f072.json"
+          }
+        ]
+      },
+      {
+        "id": "blk",
+        "name": "BlackRock",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/blackrock.com",
+        "count": 5,
+        "articles": [
+          {
+            "id": "0465ab0b61cc167f377b90f6511b6e3c",
+            "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/fcf4c5947496fab4a554a10a69d7310dc4787418-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-20T14:28:39.000Z",
+            "path": "articles/0465ab0b61cc167f377b90f6511b6e3c.json"
+          },
+          {
+            "id": "f3a6a4b60dcca22e5d8e9d2c247c4d72",
+            "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-03-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-20T09:13:30.000Z",
+            "path": "articles/f3a6a4b60dcca22e5d8e9d2c247c4d72.json"
+          },
+          {
+            "id": "ae95265ecb4e992f5b6f9662e9676ef6",
+            "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/88712848853d249cbc03fda73bba8e72c7da76d6-1500x914.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-20T08:24:01.000Z",
+            "path": "articles/ae95265ecb4e992f5b6f9662e9676ef6.json"
+          },
+          {
+            "id": "ad66ee58436f5ffef4d27a76d598842e",
+            "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5C39B3JZZVK92X4QK4F6ZY6/bitcoin-etf-blackrock.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-20T08:12:57.000Z",
+            "path": "articles/ad66ee58436f5ffef4d27a76d598842e.json"
+          },
+          {
+            "id": "792bd9bf7ce0ea76dfb3417461ef94dd",
+            "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BWEPE5GWQF5EJR6RBF5RFF/bitcoin111.png",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-20T05:39:20.000Z",
+            "path": "articles/792bd9bf7ce0ea76dfb3417461ef94dd.json"
           }
         ]
       },
@@ -1488,71 +1474,6 @@
         ]
       },
       {
-        "id": "xrp",
-        "name": "XRP",
-        "type": "crypto",
-        "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-        "count": 4,
-        "articles": [
-          {
-            "id": "7e4e33c86b900874d95c4be912ad7768",
-            "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines ",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CBY5MAG6VNXBETQTS6442Q/nurse-price-fall-red-xrp.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-20T10:20:58.000Z",
-            "path": "articles/7e4e33c86b900874d95c4be912ad7768.json"
-          },
-          {
-            "id": "ad66ee58436f5ffef4d27a76d598842e",
-            "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5C39B3JZZVK92X4QK4F6ZY6/bitcoin-etf-blackrock.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-20T08:12:57.000Z",
-            "path": "articles/ad66ee58436f5ffef4d27a76d598842e.json"
-          },
-          {
-            "id": "6b76c74fb5d0af5cb99dda1acb382f14",
-            "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-19T20:46:05.000Z",
-            "path": "articles/6b76c74fb5d0af5cb99dda1acb382f14.json"
-          },
-          {
-            "id": "3dc89f0bfab52f2b39bb293c4dc67eae",
-            "title": "XRP Ledger is set to fix its lending code before anyone can use it",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-19T04:54:31.000Z",
-            "path": "articles/3dc89f0bfab52f2b39bb293c4dc67eae.json"
-          }
-        ]
-      },
-      {
         "id": "nflx",
         "name": "Netflix",
         "type": "company",
@@ -1757,108 +1678,6 @@
         ]
       },
       {
-        "id": "openai",
-        "name": "OpenAI",
-        "type": "company",
-        "icon": "",
-        "count": 3,
-        "articles": [
-          {
-            "id": "2b9b6858fe1b548d8427e8ced39bfa48",
-            "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-            "image": "https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792415233&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-20T15:15:42.000Z",
-            "path": "articles/2b9b6858fe1b548d8427e8ced39bfa48.json"
-          },
-          {
-            "id": "761dd4e779e08d387cf14eb3df23c949",
-            "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-            "image": "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-20T13:03:31.000Z",
-            "path": "articles/761dd4e779e08d387cf14eb3df23c949.json"
-          },
-          {
-            "id": "bdfa38c3c816c481c12692c9804485ec",
-            "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-            "image": "https://image.cnbcfm.com/api/v1/image/108362609-1789409134792-gettyimages-2290481472-logos.jpeg?v=1789409171&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-19T16:42:14.000Z",
-            "path": "articles/bdfa38c3c816c481c12692c9804485ec.json"
-          }
-        ]
-      },
-      {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 3,
-        "articles": [
-          {
-            "id": "6a9f261b5f076e92e4509f0b572b0ecb",
-            "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
-            "image": "https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-20T14:12:38.000Z",
-            "path": "articles/6a9f261b5f076e92e4509f0b572b0ecb.json"
-          },
-          {
-            "id": "abd4d902e874d96c58bc26b17ed05a58",
-            "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-19T21:15:04.000Z",
-            "path": "articles/abd4d902e874d96c58bc26b17ed05a58.json"
-          },
-          {
-            "id": "bdfa38c3c816c481c12692c9804485ec",
-            "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-            "image": "https://image.cnbcfm.com/api/v1/image/108362609-1789409134792-gettyimages-2290481472-logos.jpeg?v=1789409171&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-19T16:42:14.000Z",
-            "path": "articles/bdfa38c3c816c481c12692c9804485ec.json"
-          }
-        ]
-      },
-      {
         "id": "gold",
         "name": "Gold",
         "type": "commodity",
@@ -1910,6 +1729,57 @@
         ]
       },
       {
+        "id": "xrp",
+        "name": "XRP",
+        "type": "crypto",
+        "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+        "count": 3,
+        "articles": [
+          {
+            "id": "7e4e33c86b900874d95c4be912ad7768",
+            "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines ",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CBY5MAG6VNXBETQTS6442Q/nurse-price-fall-red-xrp.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-20T10:20:58.000Z",
+            "path": "articles/7e4e33c86b900874d95c4be912ad7768.json"
+          },
+          {
+            "id": "ad66ee58436f5ffef4d27a76d598842e",
+            "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5C39B3JZZVK92X4QK4F6ZY6/bitcoin-etf-blackrock.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-20T08:12:57.000Z",
+            "path": "articles/ad66ee58436f5ffef4d27a76d598842e.json"
+          },
+          {
+            "id": "6b76c74fb5d0af5cb99dda1acb382f14",
+            "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-19T20:46:05.000Z",
+            "path": "articles/6b76c74fb5d0af5cb99dda1acb382f14.json"
+          }
+        ]
+      },
+      {
         "id": "googl",
         "name": "Google",
         "type": "company",
@@ -1943,6 +1813,80 @@
             "category": "crypto",
             "published_at": "2026-10-20T12:40:17.000Z",
             "path": "articles/96b7032a02de97d33f29afe6a9ff21b1.json"
+          }
+        ]
+      },
+      {
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "2b9b6858fe1b548d8427e8ced39bfa48",
+            "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
+            "image": "https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792415233&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-20T15:15:42.000Z",
+            "path": "articles/2b9b6858fe1b548d8427e8ced39bfa48.json"
+          },
+          {
+            "id": "761dd4e779e08d387cf14eb3df23c949",
+            "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+            "image": "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-20T13:03:31.000Z",
+            "path": "articles/761dd4e779e08d387cf14eb3df23c949.json"
+          }
+        ]
+      },
+      {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "6a9f261b5f076e92e4509f0b572b0ecb",
+            "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+            "image": "https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-20T14:12:38.000Z",
+            "path": "articles/6a9f261b5f076e92e4509f0b572b0ecb.json"
+          },
+          {
+            "id": "abd4d902e874d96c58bc26b17ed05a58",
+            "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-19T21:15:04.000Z",
+            "path": "articles/abd4d902e874d96c58bc26b17ed05a58.json"
           }
         ]
       },

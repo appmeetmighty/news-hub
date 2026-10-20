@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-20T14:15:54.669Z",
+  "updated_at": "2026-10-20T14:31:07.265Z",
   "articles": {
-    "generated_at": "2026-10-20T14:15:54.669Z",
+    "generated_at": "2026-10-20T14:31:07.265Z",
     "topics": [
       {
         "id": "btc",
@@ -97,7 +97,7 @@
           {
             "id": "53776bf074490eebc9f5d13496d63eac",
             "title": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/86ff1b31b8ca5af417ce44f7b3a805592332c92a-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8a7c59c7af10194181b89cc78318fb38c02a085-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
             "source": {
               "id": "coindesk",
               "name": "CoinDesk",
@@ -455,7 +455,7 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 16,
+        "count": 15,
         "articles": [
           {
             "id": "75b6b8cb68098ad6e0eed3c69211c21a",
@@ -570,20 +570,6 @@
             "path": "articles/7e12c0b7142dd52f639143ac250a37db.json"
           },
           {
-            "id": "b53edae4f5f34207d3217e5386316c2e",
-            "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments\n",
-            "image": "https://image.cnbcfm.com/api/v1/image/108434885-1792455835867-gettyimages-2301021969-invest_in_germany-18_atfdwl1f.jpeg?v=1792455875&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-20T02:16:25.000Z",
-            "path": "articles/b53edae4f5f34207d3217e5386316c2e.json"
-          },
-          {
             "id": "bdfa38c3c816c481c12692c9804485ec",
             "title": "Anthropic is AI trade's last big hope for a major IPO this year",
             "image": "https://image.cnbcfm.com/api/v1/image/108362609-1789409134792-gettyimages-2290481472-logos.jpeg?v=1789409171&w=1920&h=1080",
@@ -596,6 +582,20 @@
             "category": "stocks",
             "published_at": "2026-10-19T16:42:14.000Z",
             "path": "articles/bdfa38c3c816c481c12692c9804485ec.json"
+          },
+          {
+            "id": "564467e4824375921cc8aa24ac18f072",
+            "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-19T16:05:09.000Z",
+            "path": "articles/564467e4824375921cc8aa24ac18f072.json"
           }
         ]
       },
@@ -1826,43 +1826,6 @@
         ]
       },
       {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "b53edae4f5f34207d3217e5386316c2e",
-            "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments\n",
-            "image": "https://image.cnbcfm.com/api/v1/image/108434885-1792455835867-gettyimages-2301021969-invest_in_germany-18_atfdwl1f.jpeg?v=1792455875&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-20T02:16:25.000Z",
-            "path": "articles/b53edae4f5f34207d3217e5386316c2e.json"
-          },
-          {
-            "id": "474cfd999a1d991bfeeb49edb448add2",
-            "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-19T09:15:00.000Z",
-            "path": "articles/474cfd999a1d991bfeeb49edb448add2.json"
-          }
-        ]
-      },
-      {
         "id": "tsla",
         "name": "Tesla",
         "type": "company",
@@ -2048,6 +2011,29 @@
             "category": "crypto",
             "published_at": "2026-10-19T11:57:58.000Z",
             "path": "articles/3139e4bb9e6d22d2d1c038ba55c218a6.json"
+          }
+        ]
+      },
+      {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "474cfd999a1d991bfeeb49edb448add2",
+            "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-19T09:15:00.000Z",
+            "path": "articles/474cfd999a1d991bfeeb49edb448add2.json"
           }
         ]
       },

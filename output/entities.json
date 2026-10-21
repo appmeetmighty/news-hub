@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-10-21T20:15:49.381Z",
+  "updated_at": "2026-10-21T20:31:08.559Z",
   "total": 33,
   "entities": [
-    {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
-    },
     {
       "id": "regulation",
       "name": "Regulation",
@@ -19,11 +10,20 @@
       "count": 28
     },
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 27
+    },
+    {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 23
+      "count": 24
     },
     {
       "id": "ai",
@@ -51,15 +51,15 @@
       "count": 10
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 8
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
+      "id": "stablecoin",
+      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 8
@@ -151,15 +151,6 @@
       "count": 3
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "msft",
       "symbol": "MSFT",
       "name": "Microsoft",
@@ -176,6 +167,15 @@
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
       "count": 3
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 2
     },
     {
       "id": "meta",
@@ -232,6 +232,13 @@
       "count": 2
     },
     {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "nflx",
       "symbol": "NFLX",
       "name": "Netflix",
@@ -250,22 +257,6 @@
       "count": 1
     },
     {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 1
-    },
-    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
@@ -281,6 +272,15 @@
       "type": "crypto",
       "path": "tickers/bnb.json",
       "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
+      "count": 1
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
       "count": 1
     }
   ]

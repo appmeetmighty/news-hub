@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-21T09:01:22.042Z",
+  "updated_at": "2026-10-21T09:15:48.327Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "8f77ed20225d7b24b1d3a04655191dba",
@@ -40,6 +40,22 @@
       "published_at": "2026-10-21T07:49:48.000Z",
       "related": [
         {
+          "id": "761dd4e779e08d387cf14eb3df23c949",
+          "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+          "image": "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-20T13:03:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/761dd4e779e08d387cf14eb3df23c949.json"
+        },
+        {
           "id": "e3608839cea0bc2c7245d72e0975075f",
           "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
@@ -54,22 +70,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e3608839cea0bc2c7245d72e0975075f.json"
-        },
-        {
-          "id": "3616a3c3f063fb08a9f95a9ffb815152",
-          "title": "Treasury yields steady as investors await jobless claims, mortgage data",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368836-17906098212026-09-28t153558z_113683162_rc2dsnar625l_rtrmadp_0_usa-stocks.jpeg?v=1790609915&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T08:57:33.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3616a3c3f063fb08a9f95a9ffb815152.json"
         },
         {
           "id": "a1b74315932db7661c9947d3b5a003ea",
@@ -156,6 +156,22 @@
       "published_at": "2026-10-20T21:46:04.000Z",
       "related": [
         {
+          "id": "761dd4e779e08d387cf14eb3df23c949",
+          "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+          "image": "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-20T13:03:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/761dd4e779e08d387cf14eb3df23c949.json"
+        },
+        {
           "id": "8f77ed20225d7b24b1d3a04655191dba",
           "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
           "image": "https://image.cnbcfm.com/api/v1/image/108369621-17907030462026-09-29t172505z_2131096092_rc25tnaf2wqy_rtrmadp_0_ai-openai.jpeg?v=1790703065&w=1920&h=1080",
@@ -218,11 +234,63 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2efbdf1b771b7c7e9a11798574aed4ff.json"
+        }
+      ],
+      "path": "articles/e3608839cea0bc2c7245d72e0975075f.json"
+    },
+    {
+      "id": "761dd4e779e08d387cf14eb3df23c949",
+      "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+      "description": "Former OpenAI executive Bob McGrew is launching Arda at a $1.5 billion.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
         },
         {
-          "id": "582629612e8a7c226b4a0f1b04cab11d",
-          "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/JPMorgan-Chase-Co-building-in-New-York4-gID_7.jpg@png",
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-20T13:03:31.000Z",
+      "related": [
+        {
+          "id": "8f77ed20225d7b24b1d3a04655191dba",
+          "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369621-17907030462026-09-29t172505z_2131096092_rc25tnaf2wqy_rtrmadp_0_ai-openai.jpeg?v=1790703065&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T07:49:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/8f77ed20225d7b24b1d3a04655191dba.json"
+        },
+        {
+          "id": "e3608839cea0bc2c7245d72e0975075f",
+          "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -230,13 +298,61 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-20T21:16:04.000Z",
+          "published_at": "2026-10-20T21:46:04.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/582629612e8a7c226b4a0f1b04cab11d.json"
+          "path": "articles/e3608839cea0bc2c7245d72e0975075f.json"
+        },
+        {
+          "id": "782463af5cd55b7f80f01384ca33bf1b",
+          "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
+          "image": "https://image.cnbcfm.com/api/v1/image/108234401-1764598345783-gettyimages-2246580703-251116_booth.jpeg?v=1785960527&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-20T20:10:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/782463af5cd55b7f80f01384ca33bf1b.json"
+        },
+        {
+          "id": "d3fb547d43b964bbb29997f0138fd4cc",
+          "title": "Traders are betting Netflix's stock drama may be coming to an end",
+          "image": "https://image.cnbcfm.com/api/v1/image/108433655-1792434926199-gettyimages-2278385049-yanow-netflix260529_npZGP.jpeg?v=1792519748&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-20T18:10:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d3fb547d43b964bbb29997f0138fd4cc.json"
+        },
+        {
+          "id": "a1b74315932db7661c9947d3b5a003ea",
+          "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374283-17913956922026-10-07t174636z_1565939135_rc2hynao0axo_rtrmadp_0_usa-trump.jpeg?v=1791395737&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T08:53:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a1b74315932db7661c9947d3b5a003ea.json"
         }
       ],
-      "path": "articles/e3608839cea0bc2c7245d72e0975075f.json"
+      "path": "articles/761dd4e779e08d387cf14eb3df23c949.json"
     }
   ]
 }

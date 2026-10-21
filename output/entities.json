@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T20:31:08.559Z",
-  "total": 33,
+  "updated_at": "2026-10-21T20:45:49.066Z",
+  "total": 32,
   "entities": [
     {
       "id": "regulation",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 18
+      "count": 17
     },
     {
       "id": "spacex",
@@ -48,18 +48,18 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 10
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 8
+      "count": 11
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 9
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 8
@@ -151,24 +151,6 @@
       "count": 3
     },
     {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
-      "count": 3
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 3
-    },
-    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
@@ -223,6 +205,24 @@
       "count": 2
     },
     {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 2
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 2
+    },
+    {
       "id": "ma",
       "symbol": "MA",
       "name": "Mastercard",
@@ -272,15 +272,6 @@
       "type": "crypto",
       "path": "tickers/bnb.json",
       "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
-      "count": 1
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
       "count": 1
     }
   ]

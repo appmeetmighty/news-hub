@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-21T13:31:15.364Z",
+  "updated_at": "2026-10-21T13:45:50.852Z",
   "id": "gs",
   "symbol": "GS",
   "name": "Goldman Sachs",
   "type": "company",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
-      "id": "86681965f75b1cf0c138f1b3274fb43d",
-      "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
-      "description": "Tokenized stocks are gaining momentum in international markets, even as major U.S. companies are pushing back against efforts to introduce them domestically.",
+      "id": "e550ba2de45edd608b212bc74ae5b7a6",
+      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+      "description": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108374187-1791390346956-gettyimages-2285488658-US_STOCKS.jpeg?v=1791390389&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108436952-1792496159982-Untitled-7.jpg?v=1792496300&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -29,10 +29,40 @@
           "type": "company",
           "path": "tickers/gs.json",
           "icon": ""
+        },
+        {
+          "id": "jpm",
+          "symbol": "JPM",
+          "name": "JPMorgan",
+          "type": "company",
+          "path": "tickers/jpm.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-10-21T12:33:34.000Z",
+      "published_at": "2026-10-21T13:30:57.000Z",
       "related": [
+        {
+          "id": "86681965f75b1cf0c138f1b3274fb43d",
+          "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
+          "image": "https://image.cnbcfm.com/api/v1/image/108374187-1791390346956-gettyimages-2285488658-US_STOCKS.jpeg?v=1791390389&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T12:33:34.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/86681965f75b1cf0c138f1b3274fb43d.json"
+        },
         {
           "id": "96b7032a02de97d33f29afe6a9ff21b1",
           "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
@@ -66,6 +96,132 @@
           "path": "articles/8d147affd291f7e615bd963b5ba2625d.json"
         },
         {
+          "id": "582629612e8a7c226b4a0f1b04cab11d",
+          "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/JPMorgan-Chase-Co-building-in-New-York4-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T21:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/582629612e8a7c226b4a0f1b04cab11d.json"
+        },
+        {
+          "id": "f5e713bf03ca2c108a06eb0a64211fba",
+          "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/da293f1399efe7eabfec7f5ecde6fe49ab641e3c-1500x776.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T11:10:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f5e713bf03ca2c108a06eb0a64211fba.json"
+        }
+      ],
+      "path": "articles/e550ba2de45edd608b212bc74ae5b7a6.json"
+    },
+    {
+      "id": "86681965f75b1cf0c138f1b3274fb43d",
+      "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
+      "description": "Tokenized stocks are gaining momentum in international markets, even as major U.S. companies are pushing back against efforts to introduce them domestically.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374187-1791390346956-gettyimages-2285488658-US_STOCKS.jpeg?v=1791390389&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "gs",
+          "symbol": "GS",
+          "name": "Goldman Sachs",
+          "type": "company",
+          "path": "tickers/gs.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-21T12:33:34.000Z",
+      "related": [
+        {
+          "id": "e550ba2de45edd608b212bc74ae5b7a6",
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "image": "https://image.cnbcfm.com/api/v1/image/108436952-1792496159982-Untitled-7.jpg?v=1792496300&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T13:30:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e550ba2de45edd608b212bc74ae5b7a6.json"
+        },
+        {
+          "id": "96b7032a02de97d33f29afe6a9ff21b1",
+          "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0183643376c63d3344b437b12fb69486c8bd450-1500x996.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T12:40:17.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/96b7032a02de97d33f29afe6a9ff21b1.json"
+        },
+        {
+          "id": "8d147affd291f7e615bd963b5ba2625d",
+          "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T20:16:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8d147affd291f7e615bd963b5ba2625d.json"
+        },
+        {
+          "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
+          "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321535-1792583496611-108321535-1781310783695-gettyimages-2280560635-SPACEX_IPO.jpg?v=1792583505&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T13:39:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4de597c2f0e2dae8dd24ff827b6dfff6.json"
+        },
+        {
           "id": "1adc6e335dc057c74c5966279b645859",
           "title": "Our top 10 things to watch in the stock market Wednesday",
           "image": "https://image.cnbcfm.com/api/v1/image/108432668-1792419885917-gettyimages-2297526104-NASAs_SpaceX_Crew-13_Launch.jpeg?v=1792419930&w=1920&h=1080",
@@ -80,38 +236,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1adc6e335dc057c74c5966279b645859.json"
-        },
-        {
-          "id": "d3fb547d43b964bbb29997f0138fd4cc",
-          "title": "Traders are betting Netflix's stock drama may be coming to an end",
-          "image": "https://image.cnbcfm.com/api/v1/image/108433655-1792434926199-gettyimages-2278385049-yanow-netflix260529_npZGP.jpeg?v=1792519748&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-20T18:10:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d3fb547d43b964bbb29997f0138fd4cc.json"
-        },
-        {
-          "id": "14123ab3903d2f6a130b5131ff64e3d6",
-          "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
-          "image": "https://image.cnbcfm.com/api/v1/image/108316056-1780500381320-gettyimages-2276694303-US_MORTGAGE_APPLICATIONS.jpeg?v=1780500427&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T13:13:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/14123ab3903d2f6a130b5131ff64e3d6.json"
         }
       ],
       "path": "articles/86681965f75b1cf0c138f1b3274fb43d.json"
@@ -224,20 +348,20 @@
           "path": "articles/86681965f75b1cf0c138f1b3274fb43d.json"
         },
         {
-          "id": "999b45d234616b866dffa07b2eeec5a3",
-          "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
+          "id": "e550ba2de45edd608b212bc74ae5b7a6",
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "image": "https://image.cnbcfm.com/api/v1/image/108436952-1792496159982-Untitled-7.jpg?v=1792496300&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-20T12:06:44.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-21T13:30:57.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/999b45d234616b866dffa07b2eeec5a3.json"
+          "path": "articles/e550ba2de45edd608b212bc74ae5b7a6.json"
         }
       ],
       "path": "articles/8d147affd291f7e615bd963b5ba2625d.json"
@@ -356,20 +480,20 @@
           "path": "articles/86681965f75b1cf0c138f1b3274fb43d.json"
         },
         {
-          "id": "99d470006ffb3f3b72c99482a5fc4777",
-          "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0102104c2692d915fff79b732d54ff5e49cd7c12-4066x2710.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "e550ba2de45edd608b212bc74ae5b7a6",
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "image": "https://image.cnbcfm.com/api/v1/image/108436952-1792496159982-Untitled-7.jpg?v=1792496300&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-20T18:26:29.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-21T13:30:57.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/99d470006ffb3f3b72c99482a5fc4777.json"
+          "path": "articles/e550ba2de45edd608b212bc74ae5b7a6.json"
         }
       ],
       "path": "articles/96b7032a02de97d33f29afe6a9ff21b1.json"

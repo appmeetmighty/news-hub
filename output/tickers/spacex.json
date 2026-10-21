@@ -1,11 +1,129 @@
 {
-  "updated_at": "2026-10-21T13:31:15.361Z",
+  "updated_at": "2026-10-21T13:45:50.848Z",
   "id": "spacex",
   "symbol": "SPACEX",
   "name": "SpaceX",
   "type": "company",
   "total": 9,
   "articles": [
+    {
+      "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
+      "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
+      "description": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108321535-1792583496611-108321535-1781310783695-gettyimages-2280560635-SPACEX_IPO.jpg?v=1792583505&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-21T13:39:42.000Z",
+      "related": [
+        {
+          "id": "c679fed24e82d27786d630e5c3755049",
+          "title": "Live updates: Bitcoin rises above $83,000 as SpaceX results, possible Tesla merger, lift markets",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c05515d4ad553a053105c41b67a8d723f236b8e1-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:30:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/c679fed24e82d27786d630e5c3755049.json"
+        },
+        {
+          "id": "0652151f4a766f7beb038c8791265f3b",
+          "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1f89c15f2364b145f85b22adbe4a17df0dfa1e2-5201x2926.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T09:23:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0652151f4a766f7beb038c8791265f3b.json"
+        },
+        {
+          "id": "1fe3177b030d0ec2423b7aba4a829d2a",
+          "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5E0JNAWGS0RJBJ6F6WV37FG/spacex.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T01:19:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1fe3177b030d0ec2423b7aba4a829d2a.json"
+        },
+        {
+          "id": "abd4d902e874d96c58bc26b17ed05a58",
+          "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-19T21:15:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/abd4d902e874d96c58bc26b17ed05a58.json"
+        },
+        {
+          "id": "bc4b4ef8baa1e83a731463dcb7a44d53",
+          "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/50c5129f9df255a963a939554d416081ea226056-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:34:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bc4b4ef8baa1e83a731463dcb7a44d53.json"
+        }
+      ],
+      "path": "articles/4de597c2f0e2dae8dd24ff827b6dfff6.json"
+    },
     {
       "id": "1adc6e335dc057c74c5966279b645859",
       "title": "Our top 10 things to watch in the stock market Wednesday",
@@ -35,7 +153,7 @@
       "related": [
         {
           "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
-          "title": "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+          "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
           "image": "https://image.cnbcfm.com/api/v1/image/108321535-1792583496611-108321535-1781310783695-gettyimages-2280560635-SPACEX_IPO.jpg?v=1792583505&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -44,7 +162,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-21T12:23:13.000Z",
+          "published_at": "2026-10-21T13:39:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4de597c2f0e2dae8dd24ff827b6dfff6.json"
@@ -115,124 +233,6 @@
         }
       ],
       "path": "articles/1adc6e335dc057c74c5966279b645859.json"
-    },
-    {
-      "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
-      "title": "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
-      "description": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108321535-1792583496611-108321535-1781310783695-gettyimages-2280560635-SPACEX_IPO.jpg?v=1792583505&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "tsla",
-          "symbol": "TSLA",
-          "name": "Tesla",
-          "type": "company",
-          "path": "tickers/tsla.json",
-          "icon": "https://logo.clearbit.com/tesla.com"
-        },
-        {
-          "id": "spacex",
-          "symbol": "SPACEX",
-          "name": "SpaceX",
-          "type": "company",
-          "path": "tickers/spacex.json",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-21T12:23:13.000Z",
-      "related": [
-        {
-          "id": "c679fed24e82d27786d630e5c3755049",
-          "title": "Live updates: Bitcoin rises above $83,000 as SpaceX results, possible Tesla merger, lift markets",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c05515d4ad553a053105c41b67a8d723f236b8e1-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T10:30:40.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/c679fed24e82d27786d630e5c3755049.json"
-        },
-        {
-          "id": "0652151f4a766f7beb038c8791265f3b",
-          "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1f89c15f2364b145f85b22adbe4a17df0dfa1e2-5201x2926.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T09:23:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0652151f4a766f7beb038c8791265f3b.json"
-        },
-        {
-          "id": "abd4d902e874d96c58bc26b17ed05a58",
-          "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-19T21:15:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/abd4d902e874d96c58bc26b17ed05a58.json"
-        },
-        {
-          "id": "1fe3177b030d0ec2423b7aba4a829d2a",
-          "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5E0JNAWGS0RJBJ6F6WV37FG/spacex.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T01:19:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1fe3177b030d0ec2423b7aba4a829d2a.json"
-        },
-        {
-          "id": "bc4b4ef8baa1e83a731463dcb7a44d53",
-          "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/50c5129f9df255a963a939554d416081ea226056-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T10:34:37.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bc4b4ef8baa1e83a731463dcb7a44d53.json"
-        }
-      ],
-      "path": "articles/4de597c2f0e2dae8dd24ff827b6dfff6.json"
     },
     {
       "id": "bc4b4ef8baa1e83a731463dcb7a44d53",
@@ -846,6 +846,22 @@
           "path": "articles/abd4d902e874d96c58bc26b17ed05a58.json"
         },
         {
+          "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
+          "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
+          "image": "https://image.cnbcfm.com/api/v1/image/108321535-1792583496611-108321535-1781310783695-gettyimages-2280560635-SPACEX_IPO.jpg?v=1792583505&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T13:39:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4de597c2f0e2dae8dd24ff827b6dfff6.json"
+        },
+        {
           "id": "bc4b4ef8baa1e83a731463dcb7a44d53",
           "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/50c5129f9df255a963a939554d416081ea226056-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -860,22 +876,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bc4b4ef8baa1e83a731463dcb7a44d53.json"
-        },
-        {
-          "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
-          "title": "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
-          "image": "https://image.cnbcfm.com/api/v1/image/108321535-1792583496611-108321535-1781310783695-gettyimages-2280560635-SPACEX_IPO.jpg?v=1792583505&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T12:23:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4de597c2f0e2dae8dd24ff827b6dfff6.json"
         }
       ],
       "path": "articles/1fe3177b030d0ec2423b7aba4a829d2a.json"
@@ -973,7 +973,7 @@
         },
         {
           "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
-          "title": "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+          "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
           "image": "https://image.cnbcfm.com/api/v1/image/108321535-1792583496611-108321535-1781310783695-gettyimages-2280560635-SPACEX_IPO.jpg?v=1792583505&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -982,7 +982,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-21T12:23:13.000Z",
+          "published_at": "2026-10-21T13:39:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4de597c2f0e2dae8dd24ff827b6dfff6.json"
@@ -1041,7 +1041,7 @@
       "related": [
         {
           "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
-          "title": "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+          "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
           "image": "https://image.cnbcfm.com/api/v1/image/108321535-1792583496611-108321535-1781310783695-gettyimages-2280560635-SPACEX_IPO.jpg?v=1792583505&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -1050,7 +1050,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-21T12:23:13.000Z",
+          "published_at": "2026-10-21T13:39:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4de597c2f0e2dae8dd24ff827b6dfff6.json"

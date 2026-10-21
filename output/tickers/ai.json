@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-21T10:15:50.394Z",
+  "updated_at": "2026-10-21T10:45:48.173Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 17,
+  "total": 16,
   "articles": [
     {
       "id": "a1b74315932db7661c9947d3b5a003ea",
@@ -28,8 +28,24 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-10-21T08:53:53.000Z",
+      "published_at": "2026-10-21T10:34:20.000Z",
       "related": [
+        {
+          "id": "787afc34692cd35cb40f412e26a67b63",
+          "title": "House committee says Webull messages point to China access to U.S. customer data",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373609-1791318808132-gettyimages-1230914309-WEBULL_ROBINHOOD.jpeg?v=1792536122&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T10:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/787afc34692cd35cb40f412e26a67b63.json"
+        },
         {
           "id": "c31ccfbaa7ec37ab9c9433cd699b7c36",
           "title": "AI's spending boom faces a 'gut check': Who can actually make money?",
@@ -93,25 +109,141 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2529016a1c0de5faed0d4246a37d3455.json"
-        },
-        {
-          "id": "c481ccbb4ac7bea828336fa8ce7148a3",
-          "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-          "image": "https://image.cnbcfm.com/api/v1/image/108430626-1792376992414-gettyimages-2300053429-AFP_D3K887M.jpeg?v=1792528710&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T10:03:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c481ccbb4ac7bea828336fa8ce7148a3.json"
         }
       ],
       "path": "articles/a1b74315932db7661c9947d3b5a003ea.json"
+    },
+    {
+      "id": "c679fed24e82d27786d630e5c3755049",
+      "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+      "description": "SpaceX’s blowout quarter revived the AI trade, but oil topped $110 again. XS.com warns that losing $82,500 opens a path toward $70,000.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0221f466c208000e4683f9c780a491dc0fc0309c-1508x850.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        },
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-21T10:30:40.000Z",
+      "related": [
+        {
+          "id": "53776bf074490eebc9f5d13496d63eac",
+          "title": "Live updates: Bitcoin cuts losses as stocks edge higher",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8a7c59c7af10194181b89cc78318fb38c02a085-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T10:14:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 5,
+          "path": "articles/53776bf074490eebc9f5d13496d63eac.json"
+        },
+        {
+          "id": "0652151f4a766f7beb038c8791265f3b",
+          "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1f89c15f2364b145f85b22adbe4a17df0dfa1e2-5201x2926.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T09:23:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0652151f4a766f7beb038c8791265f3b.json"
+        },
+        {
+          "id": "784012b44bd9772b5e2ee4cd2ceaaa46",
+          "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f99e27db3acfaece32acc8d6b0dccd0e12b0fa46-1502x838.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T04:07:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/784012b44bd9772b5e2ee4cd2ceaaa46.json"
+        },
+        {
+          "id": "bc4b4ef8baa1e83a731463dcb7a44d53",
+          "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9943ce30c12816199b23390a5f52456d62fb529d-1520x855.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:34:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bc4b4ef8baa1e83a731463dcb7a44d53.json"
+        },
+        {
+          "id": "74de9b2c81ce658c850510770f4d056c",
+          "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KCZXGV1C50ET53JWS4RJ0V/hi-can-bitcoins-hard-cap-be-changed-3.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T16:14:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/74de9b2c81ce658c850510770f4d056c.json"
+        }
+      ],
+      "path": "articles/c679fed24e82d27786d630e5c3755049.json"
     },
     {
       "id": "f3bf8154c96b59e18784be9bd8b03507",
@@ -171,6 +303,38 @@
           "path": "articles/1f2c607c158893f161994226620d6358.json"
         },
         {
+          "id": "bc4b4ef8baa1e83a731463dcb7a44d53",
+          "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9943ce30c12816199b23390a5f52456d62fb529d-1520x855.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:34:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bc4b4ef8baa1e83a731463dcb7a44d53.json"
+        },
+        {
+          "id": "c679fed24e82d27786d630e5c3755049",
+          "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0221f466c208000e4683f9c780a491dc0fc0309c-1508x850.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:30:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c679fed24e82d27786d630e5c3755049.json"
+        },
+        {
           "id": "0652151f4a766f7beb038c8791265f3b",
           "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1f89c15f2364b145f85b22adbe4a17df0dfa1e2-5201x2926.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -185,38 +349,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0652151f4a766f7beb038c8791265f3b.json"
-        },
-        {
-          "id": "cb4ed018decbd4b046b6c47a91cb3ec6",
-          "title": "Monero futures are again heating with leverage, raising volatility risks",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T08:57:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/cb4ed018decbd4b046b6c47a91cb3ec6.json"
-        },
-        {
-          "id": "e2bd43ea2b542ccc172a972f0d66bdbc",
-          "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8c7f6825044fee913c004cc383e3b2cf0c7f787-1900x1268.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T05:25:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e2bd43ea2b542ccc172a972f0d66bdbc.json"
         }
       ],
       "path": "articles/f3bf8154c96b59e18784be9bd8b03507.json"
@@ -255,22 +387,6 @@
       "published_at": "2026-10-21T07:49:48.000Z",
       "related": [
         {
-          "id": "761dd4e779e08d387cf14eb3df23c949",
-          "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-          "image": "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-20T13:03:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/761dd4e779e08d387cf14eb3df23c949.json"
-        },
-        {
           "id": "e3608839cea0bc2c7245d72e0975075f",
           "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
@@ -297,26 +413,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-21T10:03:31.000Z",
+          "published_at": "2026-10-21T10:40:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c481ccbb4ac7bea828336fa8ce7148a3.json"
-        },
-        {
-          "id": "716151140280b1a00c69429a148d6060",
-          "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108440954-1792571328735-gettyimages-2228050413-AFP_68VC3T4.jpeg?v=1792571351&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T09:29:42.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/716151140280b1a00c69429a148d6060.json"
         },
         {
           "id": "a1b74315932db7661c9947d3b5a003ea",
@@ -329,10 +429,42 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-21T08:53:53.000Z",
+          "published_at": "2026-10-21T10:34:20.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a1b74315932db7661c9947d3b5a003ea.json"
+        },
+        {
+          "id": "716151140280b1a00c69429a148d6060",
+          "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108440954-1792571328735-gettyimages-2228050413-AFP_68VC3T4.jpeg?v=1792571351&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T10:32:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/716151140280b1a00c69429a148d6060.json"
+        },
+        {
+          "id": "787afc34692cd35cb40f412e26a67b63",
+          "title": "House committee says Webull messages point to China access to U.S. customer data",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373609-1791318808132-gettyimages-1230914309-WEBULL_ROBINHOOD.jpeg?v=1792536122&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T10:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/787afc34692cd35cb40f412e26a67b63.json"
         }
       ],
       "path": "articles/8f77ed20225d7b24b1d3a04655191dba.json"
@@ -373,7 +505,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-21T08:53:53.000Z",
+          "published_at": "2026-10-21T10:34:20.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a1b74315932db7661c9947d3b5a003ea.json"
@@ -389,7 +521,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-21T10:03:31.000Z",
+          "published_at": "2026-10-21T10:40:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c481ccbb4ac7bea828336fa8ce7148a3.json"
@@ -405,10 +537,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-21T09:29:42.000Z",
+          "published_at": "2026-10-21T10:32:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/716151140280b1a00c69429a148d6060.json"
+        },
+        {
+          "id": "787afc34692cd35cb40f412e26a67b63",
+          "title": "House committee says Webull messages point to China access to U.S. customer data",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373609-1791318808132-gettyimages-1230914309-WEBULL_ROBINHOOD.jpeg?v=1792536122&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T10:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/787afc34692cd35cb40f412e26a67b63.json"
         },
         {
           "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
@@ -425,22 +573,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4de597c2f0e2dae8dd24ff827b6dfff6.json"
-        },
-        {
-          "id": "246f666769e0ac98dcae80191841d5db",
-          "title": "French supermarket giant's shares plunge 14% after warning ‘unprecedented’ unrest will hit business",
-          "image": "https://image.cnbcfm.com/api/v1/image/102221811-153654876.jpg?v=1532564375&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T08:12:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 5,
-          "path": "articles/246f666769e0ac98dcae80191841d5db.json"
         }
       ],
       "path": "articles/c31ccfbaa7ec37ab9c9433cd699b7c36.json"
@@ -493,6 +625,38 @@
       "published_at": "2026-10-21T04:07:07.000Z",
       "related": [
         {
+          "id": "bc4b4ef8baa1e83a731463dcb7a44d53",
+          "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9943ce30c12816199b23390a5f52456d62fb529d-1520x855.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:34:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bc4b4ef8baa1e83a731463dcb7a44d53.json"
+        },
+        {
+          "id": "c679fed24e82d27786d630e5c3755049",
+          "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0221f466c208000e4683f9c780a491dc0fc0309c-1508x850.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:30:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c679fed24e82d27786d630e5c3755049.json"
+        },
+        {
           "id": "0652151f4a766f7beb038c8791265f3b",
           "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1f89c15f2364b145f85b22adbe4a17df0dfa1e2-5201x2926.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -539,38 +703,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/74de9b2c81ce658c850510770f4d056c.json"
-        },
-        {
-          "id": "0465ab0b61cc167f377b90f6511b6e3c",
-          "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fcf4c5947496fab4a554a10a69d7310dc4787418-5000x3333.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-20T14:28:39.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/0465ab0b61cc167f377b90f6511b6e3c.json"
-        },
-        {
-          "id": "95c3f1cd0889b2da0a291171c76a85f4",
-          "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f231dbc1b627628eb7b1afe3073540e1eb17e2-1690x751.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-20T11:14:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/95c3f1cd0889b2da0a291171c76a85f4.json"
         }
       ],
       "path": "articles/784012b44bd9772b5e2ee4cd2ceaaa46.json"
@@ -657,6 +789,22 @@
           "path": "articles/abd4d902e874d96c58bc26b17ed05a58.json"
         },
         {
+          "id": "bc4b4ef8baa1e83a731463dcb7a44d53",
+          "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9943ce30c12816199b23390a5f52456d62fb529d-1520x855.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:34:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bc4b4ef8baa1e83a731463dcb7a44d53.json"
+        },
+        {
           "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
           "title": "SpaceX up 10% in premarket after earnings beat and Musk hints at Tesla tie-up",
           "image": "https://image.cnbcfm.com/api/v1/image/108432660-1792419718910-gettyimages-2283937543-260703_dcfairbrand_199.jpeg?v=1792419742&w=1920&h=1080",
@@ -687,22 +835,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/784012b44bd9772b5e2ee4cd2ceaaa46.json"
-        },
-        {
-          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
-          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T18:30:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 45,
-          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
         }
       ],
       "path": "articles/1fe3177b030d0ec2423b7aba4a829d2a.json"
@@ -740,22 +872,6 @@
       ],
       "published_at": "2026-10-20T21:46:04.000Z",
       "related": [
-        {
-          "id": "761dd4e779e08d387cf14eb3df23c949",
-          "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-          "image": "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-20T13:03:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/761dd4e779e08d387cf14eb3df23c949.json"
-        },
         {
           "id": "8f77ed20225d7b24b1d3a04655191dba",
           "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
@@ -803,6 +919,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/324954a5df839a9eca08d63d65378065.json"
+        },
+        {
+          "id": "9c4797017c1cb8b1e6ae80700868a342",
+          "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/british-uk-pound-notes-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:29:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9c4797017c1cb8b1e6ae80700868a342.json"
         },
         {
           "id": "2efbdf1b771b7c7e9a11798574aed4ff",
@@ -887,6 +1019,38 @@
           "path": "articles/de71f95471acc30624b1240f5c773f40.json"
         },
         {
+          "id": "bc4b4ef8baa1e83a731463dcb7a44d53",
+          "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9943ce30c12816199b23390a5f52456d62fb529d-1520x855.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:34:37.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bc4b4ef8baa1e83a731463dcb7a44d53.json"
+        },
+        {
+          "id": "c679fed24e82d27786d630e5c3755049",
+          "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0221f466c208000e4683f9c780a491dc0fc0309c-1508x850.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:30:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c679fed24e82d27786d630e5c3755049.json"
+        },
+        {
           "id": "0652151f4a766f7beb038c8791265f3b",
           "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1f89c15f2364b145f85b22adbe4a17df0dfa1e2-5201x2926.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -901,38 +1065,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0652151f4a766f7beb038c8791265f3b.json"
-        },
-        {
-          "id": "cb4ed018decbd4b046b6c47a91cb3ec6",
-          "title": "Monero futures are again heating with leverage, raising volatility risks",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T08:57:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/cb4ed018decbd4b046b6c47a91cb3ec6.json"
-        },
-        {
-          "id": "f3bf8154c96b59e18784be9bd8b03507",
-          "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T08:47:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f3bf8154c96b59e18784be9bd8b03507.json"
         }
       ],
       "path": "articles/7b801a3b9fb7e24af9bdbca767604eb9.json"
@@ -1003,6 +1135,38 @@
           "path": "articles/6b76c74fb5d0af5cb99dda1acb382f14.json"
         },
         {
+          "id": "c679fed24e82d27786d630e5c3755049",
+          "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0221f466c208000e4683f9c780a491dc0fc0309c-1508x850.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:30:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c679fed24e82d27786d630e5c3755049.json"
+        },
+        {
+          "id": "9c4797017c1cb8b1e6ae80700868a342",
+          "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/british-uk-pound-notes-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:29:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9c4797017c1cb8b1e6ae80700868a342.json"
+        },
+        {
           "id": "0484f36e2c20bd1683f99f20b411fcfd",
           "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -1017,38 +1181,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0484f36e2c20bd1683f99f20b411fcfd.json"
-        },
-        {
-          "id": "0672766aeff7d275ab823a8cb83c25b6",
-          "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5DSAH36P14HYENYBM6CHPAW/blockchain-network.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-20T23:26:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/0672766aeff7d275ab823a8cb83c25b6.json"
-        },
-        {
-          "id": "2efbdf1b771b7c7e9a11798574aed4ff",
-          "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/Cozy-Living-Room-TV-Interface-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-20T22:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2efbdf1b771b7c7e9a11798574aed4ff.json"
         }
       ],
       "path": "articles/95f45b885ce52a2233a2c5d6c2f48225.json"
@@ -1079,6 +1211,70 @@
       "published_at": "2026-10-20T13:30:00.000Z",
       "related": [
         {
+          "id": "39538052afc59d5ccba14d440c376170",
+          "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0PB0PYRW4ADV979RY5M5W/hi-on-chain-volume-vs-trading-value.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:39:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/39538052afc59d5ccba14d440c376170.json"
+        },
+        {
+          "id": "b2e085b566c3d1dc20e0cd5b2421f5a7",
+          "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ES4410V5T0TB2Z1ESB86ZY/hi-south-korea-lifts-9-year-corporate-crypto-ban-what-the-policy-change-means-2.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:22:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b2e085b566c3d1dc20e0cd5b2421f5a7.json"
+        },
+        {
+          "id": "4fd06425ea15738741125854a00a6094",
+          "title": "Zcash rallies 12% as developers finalize NU7 activation height",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EY9NGAQBRRNWG4WW84BF23/zcash-with-blockchain-elements.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:15:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4fd06425ea15738741125854a00a6094.json"
+        },
+        {
+          "id": "f91dfe987257c731f5a564e079a958ef",
+          "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K817QH0K358EBX7ENA8QG7/hacker-and-lasers-ethereum.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:13:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/f91dfe987257c731f5a564e079a958ef.json"
+        },
+        {
           "id": "15264f39f082458ec6e9754ebe7f7b8c",
           "title": "Ether ETF outflows continue, pass $1B in October so far",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ENVP95CYXDBRWRRSVDGA2V/cointelegraph-eth-etf.png",
@@ -1093,189 +1289,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/15264f39f082458ec6e9754ebe7f7b8c.json"
-        },
-        {
-          "id": "78f7a83e386d3f9bd80908be49f28870",
-          "title": "Here’s what happened in crypto today",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T06:00:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-        },
-        {
-          "id": "5a6f33afb6e66b76343bd2cefc94bc05",
-          "title": "Malaysia central bank launches DLT platform for tokenized bonds",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EFRAEF78CJAMAFGA606YZ5/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought-1.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T05:56:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5a6f33afb6e66b76343bd2cefc94bc05.json"
-        },
-        {
-          "id": "e2bd43ea2b542ccc172a972f0d66bdbc",
-          "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8c7f6825044fee913c004cc383e3b2cf0c7f787-1900x1268.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T05:25:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e2bd43ea2b542ccc172a972f0d66bdbc.json"
-        },
-        {
-          "id": "2f8b42e106882449f082b533e87bd967",
-          "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EC7DBTTRHAW1KTA88RS4JK/hi-timeframes3-warning.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T05:15:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2f8b42e106882449f082b533e87bd967.json"
         }
       ],
       "path": "articles/75b6b8cb68098ad6e0eed3c69211c21a.json"
-    },
-    {
-      "id": "761dd4e779e08d387cf14eb3df23c949",
-      "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-      "description": "Former OpenAI executive Bob McGrew is launching Arda at a $1.5 billion.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107234139-1683045666002-gettyimages-1393983549-_dsc1598-denoiseai-standard.jpeg?v=1683122081&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-20T13:03:31.000Z",
-      "related": [
-        {
-          "id": "8f77ed20225d7b24b1d3a04655191dba",
-          "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369621-17907030462026-09-29t172505z_2131096092_rc25tnaf2wqy_rtrmadp_0_ai-openai.jpeg?v=1790703065&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T07:49:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/8f77ed20225d7b24b1d3a04655191dba.json"
-        },
-        {
-          "id": "e3608839cea0bc2c7245d72e0975075f",
-          "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-20T21:46:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e3608839cea0bc2c7245d72e0975075f.json"
-        },
-        {
-          "id": "782463af5cd55b7f80f01384ca33bf1b",
-          "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
-          "image": "https://image.cnbcfm.com/api/v1/image/108234401-1764598345783-gettyimages-2246580703-251116_booth.jpeg?v=1785960527&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-20T20:10:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/782463af5cd55b7f80f01384ca33bf1b.json"
-        },
-        {
-          "id": "d3fb547d43b964bbb29997f0138fd4cc",
-          "title": "Traders are betting Netflix's stock drama may be coming to an end",
-          "image": "https://image.cnbcfm.com/api/v1/image/108433655-1792434926199-gettyimages-2278385049-yanow-netflix260529_npZGP.jpeg?v=1792519748&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-20T18:10:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d3fb547d43b964bbb29997f0138fd4cc.json"
-        },
-        {
-          "id": "c481ccbb4ac7bea828336fa8ce7148a3",
-          "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-          "image": "https://image.cnbcfm.com/api/v1/image/108430626-1792376992414-gettyimages-2300053429-AFP_D3K887M.jpeg?v=1792528710&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T10:03:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c481ccbb4ac7bea828336fa8ce7148a3.json"
-        }
-      ],
-      "path": "articles/761dd4e779e08d387cf14eb3df23c949.json"
     },
     {
       "id": "aa6a070f928786625807bbc95f9b255a",
@@ -1433,6 +1449,22 @@
       "published_at": "2026-10-20T09:32:24.000Z",
       "related": [
         {
+          "id": "c679fed24e82d27786d630e5c3755049",
+          "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0221f466c208000e4683f9c780a491dc0fc0309c-1508x850.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:30:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c679fed24e82d27786d630e5c3755049.json"
+        },
+        {
           "id": "53776bf074490eebc9f5d13496d63eac",
           "title": "Live updates: Bitcoin cuts losses as stocks edge higher",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8a7c59c7af10194181b89cc78318fb38c02a085-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -1495,22 +1527,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/88df6199f8ce9041219ea21cd88b81db.json"
-        },
-        {
-          "id": "d263ee4534c9785e5fd5a7e68a73fa4f",
-          "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant  ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108440073-1792551490880-gettyimages-2300614158-AFP_D3V73YE.jpeg?v=1792551521&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T04:47:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d263ee4534c9785e5fd5a7e68a73fa4f.json"
         }
       ],
       "path": "articles/dc32b7185f7e36aab7a266a64a33795e.json"
@@ -1541,6 +1557,22 @@
       "published_at": "2026-10-20T05:27:53.000Z",
       "related": [
         {
+          "id": "787afc34692cd35cb40f412e26a67b63",
+          "title": "House committee says Webull messages point to China access to U.S. customer data",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373609-1791318808132-gettyimages-1230914309-WEBULL_ROBINHOOD.jpeg?v=1792536122&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T10:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/787afc34692cd35cb40f412e26a67b63.json"
+        },
+        {
           "id": "c481ccbb4ac7bea828336fa8ce7148a3",
           "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
           "image": "https://image.cnbcfm.com/api/v1/image/108430626-1792376992414-gettyimages-2300053429-AFP_D3K887M.jpeg?v=1792528710&w=1920&h=1080",
@@ -1551,26 +1583,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-21T10:03:31.000Z",
+          "published_at": "2026-10-21T10:40:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c481ccbb4ac7bea828336fa8ce7148a3.json"
-        },
-        {
-          "id": "716151140280b1a00c69429a148d6060",
-          "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108440954-1792571328735-gettyimages-2228050413-AFP_68VC3T4.jpeg?v=1792571351&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T09:29:42.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/716151140280b1a00c69429a148d6060.json"
         },
         {
           "id": "a1b74315932db7661c9947d3b5a003ea",
@@ -1583,10 +1599,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-21T08:53:53.000Z",
+          "published_at": "2026-10-21T10:34:20.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a1b74315932db7661c9947d3b5a003ea.json"
+        },
+        {
+          "id": "716151140280b1a00c69429a148d6060",
+          "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
+          "image": "https://image.cnbcfm.com/api/v1/image/108440954-1792571328735-gettyimages-2228050413-AFP_68VC3T4.jpeg?v=1792571351&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T10:32:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/716151140280b1a00c69429a148d6060.json"
         },
         {
           "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
@@ -1603,139 +1635,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4de597c2f0e2dae8dd24ff827b6dfff6.json"
-        },
-        {
-          "id": "246f666769e0ac98dcae80191841d5db",
-          "title": "French supermarket giant's shares plunge 14% after warning ‘unprecedented’ unrest will hit business",
-          "image": "https://image.cnbcfm.com/api/v1/image/102221811-153654876.jpg?v=1532564375&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T08:12:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 5,
-          "path": "articles/246f666769e0ac98dcae80191841d5db.json"
         }
       ],
       "path": "articles/ee54c56aba715812dba5579abf8ab7a9.json"
-    },
-    {
-      "id": "7e12c0b7142dd52f639143ac250a37db",
-      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
-      "description": "In June, Sophon’s developers said the costs of maintaining a standalone blockchain no longer justified its benefits and announced plans to focus on consumer finance and AI applications on Base.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BTX2A4AWVPY2BYEAS2GXFK/hi-is-the-imf-shutting-the-door-prematurely-on-nft.jpg",
-      "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "blockchain",
-          "name": "Blockchain",
-          "type": "topic",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-20T05:14:11.000Z",
-      "related": [
-        {
-          "id": "ce7c11a0b40007e7872ca1b8626c49a8",
-          "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong? ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-20T19:59:39.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/ce7c11a0b40007e7872ca1b8626c49a8.json"
-        },
-        {
-          "id": "5cf3192a460f036a0d64068f270df325",
-          "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CCKGBRR4HTKS9W4W83F5VC/hi-what-are-inflows-and-outflows-on-crypto-exchanges2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-20T10:20:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5cf3192a460f036a0d64068f270df325.json"
-        },
-        {
-          "id": "15264f39f082458ec6e9754ebe7f7b8c",
-          "title": "Ether ETF outflows continue, pass $1B in October so far",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ENVP95CYXDBRWRRSVDGA2V/cointelegraph-eth-etf.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T08:11:50.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/15264f39f082458ec6e9754ebe7f7b8c.json"
-        },
-        {
-          "id": "78f7a83e386d3f9bd80908be49f28870",
-          "title": "Here’s what happened in crypto today",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T06:00:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-        },
-        {
-          "id": "5a6f33afb6e66b76343bd2cefc94bc05",
-          "title": "Malaysia central bank launches DLT platform for tokenized bonds",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EFRAEF78CJAMAFGA606YZ5/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought-1.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T05:56:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5a6f33afb6e66b76343bd2cefc94bc05.json"
-        }
-      ],
-      "path": "articles/7e12c0b7142dd52f639143ac250a37db.json"
     },
     {
       "id": "564467e4824375921cc8aa24ac18f072",
@@ -1778,6 +1680,22 @@
       ],
       "published_at": "2026-10-19T16:05:09.000Z",
       "related": [
+        {
+          "id": "c679fed24e82d27786d630e5c3755049",
+          "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0221f466c208000e4683f9c780a491dc0fc0309c-1508x850.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:30:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c679fed24e82d27786d630e5c3755049.json"
+        },
         {
           "id": "74de9b2c81ce658c850510770f4d056c",
           "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls ",
@@ -1841,22 +1759,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 30,
           "path": "articles/a07b20a42cb64008d39bb74702e14398.json"
-        },
-        {
-          "id": "49ae385ef8d2be6a430f5b1bc19ae309",
-          "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-20T18:31:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/49ae385ef8d2be6a430f5b1bc19ae309.json"
         }
       ],
       "path": "articles/564467e4824375921cc8aa24ac18f072.json"
@@ -1886,6 +1788,22 @@
       ],
       "published_at": "2026-10-19T11:40:40.000Z",
       "related": [
+        {
+          "id": "9c4797017c1cb8b1e6ae80700868a342",
+          "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/british-uk-pound-notes-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T10:29:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9c4797017c1cb8b1e6ae80700868a342.json"
+        },
         {
           "id": "340fed05f5beb76d23ee504fe969305b",
           "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
@@ -1949,22 +1867,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/582629612e8a7c226b4a0f1b04cab11d.json"
-        },
-        {
-          "id": "efe2ae2b2e1bcf159e673e43b7fb1e91",
-          "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-20T20:46:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/efe2ae2b2e1bcf159e673e43b7fb1e91.json"
         }
       ],
       "path": "articles/483c84ff20de2856bcd6d28f13bbb40d.json"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T10:15:50.405Z",
+  "updated_at": "2026-10-21T10:45:48.178Z",
   "total": 28,
   "entities": [
     {
@@ -30,7 +30,16 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 16
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 8
     },
     {
       "id": "stablecoin",
@@ -40,45 +49,20 @@
       "count": 8
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 7
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 6
+      "count": 7
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
+      "id": "etf",
+      "name": "ETF",
       "type": "topic",
       "icon": "",
-      "count": 6
-    },
-    {
-      "id": "blk",
-      "symbol": "BLK",
-      "name": "BlackRock",
-      "type": "company",
-      "path": "tickers/blk.json",
-      "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 6
+      "count": 7
     },
     {
       "id": "tsla",
@@ -87,7 +71,23 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 5
+    },
+    {
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
+      "count": 5
     },
     {
       "id": "xrp",
@@ -126,15 +126,6 @@
       "count": 4
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "nflx",
       "symbol": "NFLX",
       "name": "Netflix",
@@ -169,6 +160,15 @@
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
       "count": 3
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "defi",

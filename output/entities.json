@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T06:01:24.712Z",
-  "total": 27,
+  "updated_at": "2026-10-21T06:15:46.442Z",
+  "total": 29,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 33
+      "count": 34
     },
     {
       "id": "regulation",
@@ -38,6 +38,13 @@
       "type": "topic",
       "icon": "",
       "count": 8
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "oil",
@@ -74,9 +81,11 @@
       "count": 6
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
       "icon": "",
       "count": 5
     },
@@ -108,13 +117,20 @@
       "count": 4
     },
     {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
       "type": "company",
-      "path": "tickers/spacex.json",
-      "icon": "",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 4
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "sol",
@@ -162,15 +178,6 @@
       "count": 3
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 2
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -185,13 +192,6 @@
       "name": "Goldman Sachs",
       "type": "company",
       "path": "tickers/gs.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -223,11 +223,27 @@
       "count": 2
     },
     {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "xai",
       "symbol": "XAI",
       "name": "xAI",
       "type": "company",
       "path": "tickers/xai.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
       "icon": "",
       "count": 1
     }

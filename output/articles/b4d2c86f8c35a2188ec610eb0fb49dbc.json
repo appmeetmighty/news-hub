@@ -1,7 +1,7 @@
 {
   "id": "b4d2c86f8c35a2188ec610eb0fb49dbc",
   "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-  "description": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. Browsers and software makers are rushing out fixes.",
+  "description": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. This is a generic, not crypto-specific, risk.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
   "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
@@ -13,7 +13,14 @@
     "icon": "https://logo.clearbit.com/coindesk.com"
   },
   "category": "crypto",
-  "entities": [],
+  "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
   "published_at": "2026-10-21T04:11:58.000Z",
   "related": [
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T14:15:54.161Z",
+  "updated_at": "2026-10-21T14:31:12.455Z",
   "total": 31,
   "entities": [
     {
@@ -49,20 +49,29 @@
       "count": 9
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 5
+    },
+    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 6
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 6
+      "count": 5
     },
     {
       "id": "blockchain",
@@ -133,13 +142,13 @@
       "count": 4
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
       "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 4
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 3
     },
     {
       "id": "mstr",
@@ -158,15 +167,6 @@
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 3
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 2
     },
     {
       "id": "gold",

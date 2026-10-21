@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T16:45:52.855Z",
+  "updated_at": "2026-10-21T17:01:20.317Z",
   "id": "meta",
   "symbol": "META",
   "name": "Meta",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "1ec8e7d255f07e3b300deb888fbd7ce4",
-      "title": "Meta stock advances ahead of after-the-bell earnings. What we're looking for",
-      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "id": "f39e652d672361fda754a38e3cb66d41",
+      "title": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
+      "description": "A big rally in SpaceX after earnings is giving hope to Meta and Tesla bulls ahead of their reports due Wednesday afternoon.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/investingclub/2026/10/21/meta-stock-advances-ahead-of-after-the-bell-earnings-what-were-looking-for.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108093070-1738016114039-Zuckerberg_Musk.jpg?v=1738016208&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,15 +23,31 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
           "id": "meta",
           "symbol": "META",
           "name": "Meta",
           "type": "company",
           "path": "tickers/meta.json",
           "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
         }
       ],
-      "published_at": "2026-10-21T16:00:25.000Z",
+      "published_at": "2026-10-21T16:35:48.000Z",
       "related": [
         {
           "id": "4de597c2f0e2dae8dd24ff827b6dfff6",
@@ -82,39 +98,39 @@
           "path": "articles/0f341d01b5e0a1132c6517a09ace1a61.json"
         },
         {
-          "id": "e550ba2de45edd608b212bc74ae5b7a6",
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "image": "https://image.cnbcfm.com/api/v1/image/108436952-1792496159982-Untitled-7.jpg?v=1792496300&w=1920&h=1080",
+          "id": "0652151f4a766f7beb038c8791265f3b",
+          "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1f89c15f2364b145f85b22adbe4a17df0dfa1e2-5201x2926.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-21T15:30:50.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-21T09:23:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e550ba2de45edd608b212bc74ae5b7a6.json"
+          "path": "articles/0652151f4a766f7beb038c8791265f3b.json"
         },
         {
-          "id": "86681965f75b1cf0c138f1b3274fb43d",
-          "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
-          "image": "https://image.cnbcfm.com/api/v1/image/108374187-1791390346956-gettyimages-2285488658-US_STOCKS.jpeg?v=1791390389&w=1920&h=1080",
+          "id": "abd4d902e874d96c58bc26b17ed05a58",
+          "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-10-21T12:33:34.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-19T21:15:04.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/86681965f75b1cf0c138f1b3274fb43d.json"
+          "path": "articles/abd4d902e874d96c58bc26b17ed05a58.json"
         }
       ],
-      "path": "articles/1ec8e7d255f07e3b300deb888fbd7ce4.json"
+      "path": "articles/f39e652d672361fda754a38e3cb66d41.json"
     }
   ]
 }

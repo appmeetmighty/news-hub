@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T15:15:52.121Z",
-  "total": 31,
+  "updated_at": "2026-10-21T15:31:06.217Z",
+  "total": 32,
   "entities": [
     {
       "id": "btc",
@@ -16,14 +16,14 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 25
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 22
+      "count": 21
     },
     {
       "id": "ai",
@@ -53,7 +53,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 6
+      "count": 7
     },
     {
       "id": "eth",
@@ -74,20 +74,6 @@
       "count": 5
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
       "id": "gs",
       "symbol": "GS",
       "name": "Goldman Sachs",
@@ -102,6 +88,22 @@
       "name": "JPMorgan",
       "type": "company",
       "path": "tickers/jpm.json",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 4
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
       "icon": "",
       "count": 4
     },
@@ -142,21 +144,19 @@
       "count": 4
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 3
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 3
     },
     {
@@ -178,15 +178,6 @@
       "count": 2
     },
     {
-      "id": "nflx",
-      "symbol": "NFLX",
-      "name": "Netflix",
-      "type": "company",
-      "path": "tickers/nflx.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
@@ -203,6 +194,15 @@
       "path": "tickers/ma.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "web3",
@@ -253,6 +253,15 @@
       "name": "xAI",
       "type": "company",
       "path": "tickers/xai.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "nflx",
+      "symbol": "NFLX",
+      "name": "Netflix",
+      "type": "company",
+      "path": "tickers/nflx.json",
       "icon": "",
       "count": 1
     },

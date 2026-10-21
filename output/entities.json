@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T18:45:52.721Z",
+  "updated_at": "2026-10-21T19:01:23.133Z",
   "total": 33,
   "entities": [
     {
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 19
     },
     {
       "id": "spacex",
@@ -72,6 +72,15 @@
       "count": 6
     },
     {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "gs",
       "symbol": "GS",
       "name": "Goldman Sachs",
@@ -86,24 +95,6 @@
       "name": "JPMorgan",
       "type": "company",
       "path": "tickers/jpm.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 4
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
       "icon": "",
       "count": 4
     },
@@ -144,6 +135,15 @@
       "count": 3
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 3
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -178,21 +178,30 @@
       "count": 3
     },
     {
-      "id": "xai",
-      "symbol": "XAI",
-      "name": "xAI",
-      "type": "company",
-      "path": "tickers/xai.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
+      "count": 2
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 2
+    },
+    {
+      "id": "xai",
+      "symbol": "XAI",
+      "name": "xAI",
+      "type": "company",
+      "path": "tickers/xai.json",
+      "icon": "",
       "count": 2
     },
     {
@@ -272,15 +281,6 @@
       "type": "crypto",
       "path": "tickers/bnb.json",
       "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
-      "count": 1
-    },
-    {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
       "count": 1
     }
   ]

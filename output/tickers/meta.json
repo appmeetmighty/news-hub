@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-22T09:31:11.215Z",
+  "updated_at": "2026-10-22T09:39:34.278Z",
   "id": "meta",
   "symbol": "META",
   "name": "Meta",
   "type": "company",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "fd6fffa6632dbfebc67a1d03aa355e78",
@@ -166,6 +166,22 @@
       "published_at": "2026-10-22T00:53:01.000Z",
       "related": [
         {
+          "id": "6889f2f4ce47fafc5ee02a8e0535b2a5",
+          "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338734-1784745509530-gettyimages-2280291449-ANTHROPIC_CIRCUIT.jpeg?v=1787672726&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T21:42:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6889f2f4ce47fafc5ee02a8e0535b2a5.json"
+        },
+        {
           "id": "86080078117048410b57522813e7ca86",
           "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
           "image": "https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&w=1920&h=1080",
@@ -228,11 +244,63 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/90cc6f9dab2ebdf5657d2006ec6c6a7a.json"
+        }
+      ],
+      "path": "articles/5c240405d5efced540cdcd700a045394.json"
+    },
+    {
+      "id": "6889f2f4ce47fafc5ee02a8e0535b2a5",
+      "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+      "description": "Claude Duet follows the launch of competing products from Meta and OpenAI, which have shown traction with users.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338734-1784745509530-gettyimages-2280291449-ANTHROPIC_CIRCUIT.jpeg?v=1787672726&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
         },
         {
-          "id": "2fe7efbe26d67e321a875af8bb98bdc5",
-          "title": "Barclays to slash 5,000 jobs in AI efficiency push ",
-          "image": "https://image.cnbcfm.com/api/v1/image/107389383-17108553062024-03-19t131822z_527815204_rc20p6a93htr_rtrmadp_0_barclays-ceo.jpeg?v=1710855373&w=1920&h=1080",
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-21T21:42:54.000Z",
+      "related": [
+        {
+          "id": "5c240405d5efced540cdcd700a045394",
+          "title": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
+          "image": "https://image.cnbcfm.com/api/v1/image/108367416-1790256220654-gettyimages-2296208931-META_CONNECT.jpeg?v=1791299900&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -240,13 +308,77 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-22T09:23:59.000Z",
+          "published_at": "2026-10-22T00:53:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2fe7efbe26d67e321a875af8bb98bdc5.json"
+          "path": "articles/5c240405d5efced540cdcd700a045394.json"
+        },
+        {
+          "id": "7287b5780b1a1f360af350250f6b01b5",
+          "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond \n",
+          "image": "https://image.cnbcfm.com/api/v1/image/108444221-1792627087371-gettyimages-2300746288-20090101261021-99-21563.jpeg?v=1792627101&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-22T01:05:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7287b5780b1a1f360af350250f6b01b5.json"
+        },
+        {
+          "id": "86080078117048410b57522813e7ca86",
+          "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+          "image": "https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T20:04:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/86080078117048410b57522813e7ca86.json"
+        },
+        {
+          "id": "f39e652d672361fda754a38e3cb66d41",
+          "title": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
+          "image": "https://image.cnbcfm.com/api/v1/image/108093070-1738016114039-Zuckerberg_Musk.jpg?v=1738016208&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T16:35:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f39e652d672361fda754a38e3cb66d41.json"
+        },
+        {
+          "id": "abd4d902e874d96c58bc26b17ed05a58",
+          "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-19T21:15:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/abd4d902e874d96c58bc26b17ed05a58.json"
         }
       ],
-      "path": "articles/5c240405d5efced540cdcd700a045394.json"
+      "path": "articles/6889f2f4ce47fafc5ee02a8e0535b2a5.json"
     },
     {
       "id": "86080078117048410b57522813e7ca86",
@@ -308,6 +440,22 @@
           "path": "articles/f39e652d672361fda754a38e3cb66d41.json"
         },
         {
+          "id": "6889f2f4ce47fafc5ee02a8e0535b2a5",
+          "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338734-1784745509530-gettyimages-2280291449-ANTHROPIC_CIRCUIT.jpeg?v=1787672726&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-21T21:42:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6889f2f4ce47fafc5ee02a8e0535b2a5.json"
+        },
+        {
           "id": "fd6fffa6632dbfebc67a1d03aa355e78",
           "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/68305194f847e3aa29c580f21b6d32ae104f745f-1520x854.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -338,22 +486,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/90cc6f9dab2ebdf5657d2006ec6c6a7a.json"
-        },
-        {
-          "id": "86cefb1da7a932402961f2e2b5839b56",
-          "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
-          "image": "https://image.cnbcfm.com/api/v1/image/108442991-1792607747448-US_Epstein_New_Mexico_Ranch-26294609737047-AP.jpg?v=1792607919&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T21:41:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/86cefb1da7a932402961f2e2b5839b56.json"
         }
       ],
       "path": "articles/86080078117048410b57522813e7ca86.json"
@@ -418,22 +550,6 @@
           "path": "articles/4de597c2f0e2dae8dd24ff827b6dfff6.json"
         },
         {
-          "id": "0f341d01b5e0a1132c6517a09ace1a61",
-          "title": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108270383-1772113137107-gettyimages-2258090030-TRUMP_ACCOUNTS.jpeg?v=1772113199&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-21T19:52:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0f341d01b5e0a1132c6517a09ace1a61.json"
-        },
-        {
           "id": "fd6fffa6632dbfebc67a1d03aa355e78",
           "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/68305194f847e3aa29c580f21b6d32ae104f745f-1520x854.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -480,6 +596,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0652151f4a766f7beb038c8791265f3b.json"
+        },
+        {
+          "id": "abd4d902e874d96c58bc26b17ed05a58",
+          "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-19T21:15:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/abd4d902e874d96c58bc26b17ed05a58.json"
         }
       ],
       "path": "articles/f39e652d672361fda754a38e3cb66d41.json"

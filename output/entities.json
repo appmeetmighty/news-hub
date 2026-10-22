@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T01:15:44.887Z",
+  "updated_at": "2026-10-22T01:31:09.791Z",
   "total": 33,
   "entities": [
     {
@@ -30,7 +30,16 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 16
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 12
     },
     {
       "id": "spacex",
@@ -40,15 +49,6 @@
       "path": "tickers/spacex.json",
       "icon": "",
       "count": 12
-    },
-    {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 11
     },
     {
       "id": "stablecoin",
@@ -78,15 +78,6 @@
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 4
-    },
-    {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
-      "icon": "",
       "count": 4
     },
     {
@@ -135,15 +126,6 @@
       "count": 3
     },
     {
-      "id": "gs",
-      "symbol": "GS",
-      "name": "Goldman Sachs",
-      "type": "company",
-      "path": "tickers/gs.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -162,20 +144,20 @@
       "count": 3
     },
     {
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
       "icon": "",
       "count": 3
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 2
     },
     {
       "id": "aapl",
@@ -223,6 +205,15 @@
       "count": 2
     },
     {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "ma",
       "symbol": "MA",
       "name": "Mastercard",
@@ -238,6 +229,15 @@
       "type": "company",
       "path": "tickers/amzn.json",
       "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 1
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T16:45:50.830Z",
+  "updated_at": "2026-10-22T15:31:11.532Z",
   "id": "bac",
   "symbol": "BAC",
   "name": "Bank of America",
@@ -7,27 +7,27 @@
   "total": 1,
   "articles": [
     {
-      "id": "66c9d686a45df318ba34cd14d53f65b9",
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "description": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+      "id": "145271a1a6e6c3f1336bdd4290c3d71b",
+      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
+      "description": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers’ credentials.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&w=1920&h=1080",
+      "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
         {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
+          "id": "jpm",
+          "symbol": "JPM",
+          "name": "JPMorgan",
           "type": "company",
-          "path": "tickers/anthropic.json",
+          "path": "tickers/jpm.json",
           "icon": ""
         },
         {
@@ -39,34 +39,26 @@
           "icon": ""
         },
         {
+          "id": "c",
+          "symbol": "C",
+          "name": "Citigroup",
+          "type": "company",
+          "path": "tickers/c.json",
+          "icon": ""
+        },
+        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-10-14T20:06:28.000Z",
+      "published_at": "2026-10-22T15:24:18.000Z",
       "related": [
         {
-          "id": "7c12116efddb46352aabd13036721263",
-          "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
-          "image": "https://image.cnbcfm.com/api/v1/image/108403731-1791905392135-gettyimages-2276547281-UK_ANTHROPIC.jpeg?v=1792072965&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-15T14:10:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7c12116efddb46352aabd13036721263.json"
-        },
-        {
-          "id": "9c8e11306aed8dea2809afa0456a09c1",
-          "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
+          "id": "d98db76ce972729106971e4074c39fb3",
+          "title": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin_bull-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -74,61 +66,77 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-14T21:16:03.000Z",
+          "published_at": "2026-10-21T12:16:38.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9c8e11306aed8dea2809afa0456a09c1.json"
+          "path": "articles/d98db76ce972729106971e4074c39fb3.json"
         },
         {
-          "id": "c1637148d6e4b01ffa96819716d07f5d",
-          "title": "Trump says Nidal Hasan execution won't be livestreamed",
-          "image": "https://image.cnbcfm.com/api/v1/image/108372953-1791245442647-2012-07-24T110000Z_96427114_TM3E87P1D1001_RTRMADP_3_FBI-REPORT-FORTHOOD.JPG?v=1792076287&w=1920&h=1080",
+          "id": "582629612e8a7c226b4a0f1b04cab11d",
+          "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/JPMorgan-Chase-Co-building-in-New-York4-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-10-15T16:39:50.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-20T21:16:04.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/c1637148d6e4b01ffa96819716d07f5d.json"
+          "path": "articles/582629612e8a7c226b4a0f1b04cab11d.json"
         },
         {
-          "id": "d2b62806b87c60fee890525b94ae1c20",
-          "title": "Banks with Jeffrey Epstein ties eyed by Democrats Warren and Garcia",
-          "image": "https://image.cnbcfm.com/api/v1/image/108348633-1786557299477-Untitled-1.jpg?v=1792074725&w=1920&h=1080",
+          "id": "a7d8b5a1892701162ba6ba2484f905b8",
+          "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-10-15T16:39:04.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-21T20:16:02.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d2b62806b87c60fee890525b94ae1c20.json"
+          "path": "articles/a7d8b5a1892701162ba6ba2484f905b8.json"
         },
         {
-          "id": "d29946e591fbc0962949daf28d4affee",
-          "title": "International Energy Agency to release more than 20 million barrels of diesel as soon as possible",
-          "image": "https://image.cnbcfm.com/api/v1/image/108369309-1790685904761-gettyimages-2297099853-US_DIESEL.jpeg?v=1790685980&w=1920&h=1080",
+          "id": "9c4797017c1cb8b1e6ae80700868a342",
+          "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/british-uk-pound-notes-decrypt-style-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-10-15T16:37:28.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-21T10:29:41.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/d29946e591fbc0962949daf28d4affee.json"
+          "breaking_score": 0,
+          "path": "articles/9c4797017c1cb8b1e6ae80700868a342.json"
+        },
+        {
+          "id": "e3608839cea0bc2c7245d72e0975075f",
+          "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T21:46:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e3608839cea0bc2c7245d72e0975075f.json"
         }
       ],
-      "path": "articles/66c9d686a45df318ba34cd14d53f65b9.json"
+      "path": "articles/145271a1a6e6c3f1336bdd4290c3d71b.json"
     }
   ]
 }

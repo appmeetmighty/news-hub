@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T15:15:54.063Z",
-  "total": 35,
+  "updated_at": "2026-10-22T15:31:11.551Z",
+  "total": 36,
   "entities": [
     {
       "id": "btc",
@@ -30,16 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 12
-    },
-    {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 9
+      "count": 13
     },
     {
       "id": "stablecoin",
@@ -65,11 +56,29 @@
       "count": 7
     },
     {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 7
+    },
+    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 5
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "openai",
@@ -97,30 +106,21 @@
       "count": 4
     },
     {
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 3
-    },
-    {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 3
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
       "count": 3
     },
     {
@@ -169,6 +169,15 @@
       "count": 2
     },
     {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 2
+    },
+    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
@@ -184,15 +193,6 @@
       "type": "crypto",
       "path": "tickers/doge.json",
       "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
-      "count": 2
-    },
-    {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
-      "icon": "",
       "count": 2
     },
     {
@@ -212,6 +212,24 @@
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 2
+    },
+    {
+      "id": "bac",
+      "symbol": "BAC",
+      "name": "Bank of America",
+      "type": "company",
+      "path": "tickers/bac.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "mining",
@@ -288,15 +306,6 @@
       "type": "company",
       "path": "tickers/ma.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
       "count": 1
     }
   ]

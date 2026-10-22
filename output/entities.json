@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T13:01:27.802Z",
+  "updated_at": "2026-10-22T13:15:51.415Z",
   "total": 33,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 32
+      "count": 33
     },
     {
       "id": "crypto",
@@ -33,19 +33,19 @@
       "count": 14
     },
     {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 9
+    },
+    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 10
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
       "count": 9
     },
     {
@@ -72,6 +72,13 @@
       "count": 6
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -96,13 +103,6 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 4
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
       "count": 4
     },
     {

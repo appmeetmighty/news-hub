@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-22T20:31:07.629Z",
+  "updated_at": "2026-10-22T20:45:51.037Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "dc960ddc70e7d77eb309f0ebd02fefa0",
@@ -31,7 +31,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-10-22T20:16:56.000Z",
+      "published_at": "2026-10-22T20:41:37.000Z",
       "related": [
         {
           "id": "cd4979367ff06c1aa25a5c242b513d80",
@@ -66,6 +66,22 @@
           "path": "articles/e3608839cea0bc2c7245d72e0975075f.json"
         },
         {
+          "id": "1979b293b17576ebe4706d0dfd1a2f53",
+          "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/chatgpt-messi-chess-3-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T20:39:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1979b293b17576ebe4706d0dfd1a2f53.json"
+        },
+        {
           "id": "5d0ac586a1ba785482e6f1724e5cbf31",
           "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_710783008-gID_4.png@png",
@@ -96,11 +112,79 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6a33ff3a98004e914ee7751da5f2d561.json"
+        }
+      ],
+      "path": "articles/dc960ddc70e7d77eb309f0ebd02fefa0.json"
+    },
+    {
+      "id": "1979b293b17576ebe4706d0dfd1a2f53",
+      "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+      "description": "Lionel Messi’s ChatGPT ad has the AI teaching him chess on a board with kings and queens swapped, then suggesting an opening that loses in four moves on that board.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/chatgpt-messi-chess-3-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
         },
         {
-          "id": "d4190cb11f112814a2dee72e3a2004fd",
-          "title": "Elon Musk invests about $1 billion in Skydance",
-          "image": "https://image.cnbcfm.com/api/v1/image/108447482-1792686883695-Ellison_Musk.jpg?v=1792691478&w=1920&h=1080",
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-22T20:39:18.000Z",
+      "related": [
+        {
+          "id": "5d0ac586a1ba785482e6f1724e5cbf31",
+          "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_710783008-gID_4.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T18:46:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5d0ac586a1ba785482e6f1724e5cbf31.json"
+        },
+        {
+          "id": "e3608839cea0bc2c7245d72e0975075f",
+          "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-20T21:46:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e3608839cea0bc2c7245d72e0975075f.json"
+        },
+        {
+          "id": "dc960ddc70e7d77eb309f0ebd02fefa0",
+          "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369620-1790703036232-gettyimages-2297209357-20090101260929-99-803103.jpeg?v=1792535657&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -108,13 +192,45 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-22T19:34:46.000Z",
+          "published_at": "2026-10-22T20:41:37.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d4190cb11f112814a2dee72e3a2004fd.json"
+          "path": "articles/dc960ddc70e7d77eb309f0ebd02fefa0.json"
+        },
+        {
+          "id": "cd4979367ff06c1aa25a5c242b513d80",
+          "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369608-17907021742026-09-29t171402z_299997848_rc25tna9k2un_rtrmadp_0_ai-openai.jpeg?v=1792687756&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-22T17:37:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cd4979367ff06c1aa25a5c242b513d80.json"
+        },
+        {
+          "id": "5a99052bd47bd6e7c5d97df601d2f3c2",
+          "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/marc-andreessen-horowitz-a16z-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T19:46:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5a99052bd47bd6e7c5d97df601d2f3c2.json"
         }
       ],
-      "path": "articles/dc960ddc70e7d77eb309f0ebd02fefa0.json"
+      "path": "articles/1979b293b17576ebe4706d0dfd1a2f53.json"
     },
     {
       "id": "cd4979367ff06c1aa25a5c242b513d80",
@@ -154,7 +270,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-22T20:16:56.000Z",
+          "published_at": "2026-10-22T20:41:37.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dc960ddc70e7d77eb309f0ebd02fefa0.json"
@@ -192,6 +308,22 @@
           "path": "articles/e3608839cea0bc2c7245d72e0975075f.json"
         },
         {
+          "id": "1979b293b17576ebe4706d0dfd1a2f53",
+          "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/chatgpt-messi-chess-3-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T20:39:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1979b293b17576ebe4706d0dfd1a2f53.json"
+        },
+        {
           "id": "df6722c3f9d562f7e426249b0842fd07",
           "title": "AI debt and French bonds face a stress test — why it may not be over",
           "image": "https://image.cnbcfm.com/api/v1/image/108430626-1792376992414-gettyimages-2300053429-AFP_D3K887M.jpeg?v=1792528710&w=1920&h=1080",
@@ -206,22 +338,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/df6722c3f9d562f7e426249b0842fd07.json"
-        },
-        {
-          "id": "7afc7fc096d800e211fe697d5760fb82",
-          "title": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
-          "image": "https://image.cnbcfm.com/api/v1/image/108448011-1792694667045-gettyimages-2299892272-aw1a2407_zzwdgvcm.jpeg?v=1792694804&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-22T20:26:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7afc7fc096d800e211fe697d5760fb82.json"
         }
       ],
       "path": "articles/cd4979367ff06c1aa25a5c242b513d80.json"
@@ -260,6 +376,22 @@
       "published_at": "2026-10-21T18:46:08.000Z",
       "related": [
         {
+          "id": "1979b293b17576ebe4706d0dfd1a2f53",
+          "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/chatgpt-messi-chess-3-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T20:39:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1979b293b17576ebe4706d0dfd1a2f53.json"
+        },
+        {
           "id": "e3608839cea0bc2c7245d72e0975075f",
           "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
@@ -302,7 +434,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-22T20:16:56.000Z",
+          "published_at": "2026-10-22T20:41:37.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dc960ddc70e7d77eb309f0ebd02fefa0.json"
@@ -322,22 +454,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/5a99052bd47bd6e7c5d97df601d2f3c2.json"
-        },
-        {
-          "id": "50d18a748dcbbfcec516289e8436961e",
-          "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T19:06:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/50d18a748dcbbfcec516289e8436961e.json"
         }
       ],
       "path": "articles/5d0ac586a1ba785482e6f1724e5cbf31.json"
@@ -376,6 +492,22 @@
       "published_at": "2026-10-20T21:46:04.000Z",
       "related": [
         {
+          "id": "1979b293b17576ebe4706d0dfd1a2f53",
+          "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/chatgpt-messi-chess-3-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T20:39:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1979b293b17576ebe4706d0dfd1a2f53.json"
+        },
+        {
           "id": "5d0ac586a1ba785482e6f1724e5cbf31",
           "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_710783008-gID_4.png@png",
@@ -402,7 +534,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-22T20:16:56.000Z",
+          "published_at": "2026-10-22T20:41:37.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dc960ddc70e7d77eb309f0ebd02fefa0.json"
@@ -438,22 +570,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/145271a1a6e6c3f1336bdd4290c3d71b.json"
-        },
-        {
-          "id": "a7d8b5a1892701162ba6ba2484f905b8",
-          "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T20:16:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a7d8b5a1892701162ba6ba2484f905b8.json"
         }
       ],
       "path": "articles/e3608839cea0bc2c7245d72e0975075f.json"

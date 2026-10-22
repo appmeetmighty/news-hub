@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T20:31:07.637Z",
+  "updated_at": "2026-10-22T20:45:51.046Z",
   "total": 35,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 33
+      "count": 31
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
+      "count": 28
     },
     {
       "id": "regulation",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 19
+      "count": 20
     },
     {
       "id": "tsla",
@@ -40,6 +40,13 @@
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
       "count": 8
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "spacex",
@@ -55,14 +62,25 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 6
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
-      "count": 6
+      "count": 5
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 5
     },
     {
       "id": "defi",
@@ -97,24 +115,6 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 4
     },
     {
       "id": "sol",

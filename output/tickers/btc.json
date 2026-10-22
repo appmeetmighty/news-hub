@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:01:25.526Z",
+  "updated_at": "2026-10-22T12:15:48.207Z",
   "id": "btc",
   "symbol": "BTC",
   "name": "Bitcoin",
@@ -168,6 +168,22 @@
       "published_at": "2026-10-22T10:50:04.000Z",
       "related": [
         {
+          "id": "945ec6f6fa39c306515251fc9dc1c15e",
+          "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/989bf00960bab5542ee15bb54ec98562af1908c5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T09:54:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/945ec6f6fa39c306515251fc9dc1c15e.json"
+        },
+        {
           "id": "5d4f121dcc27d4f8e0e3f913ea91eaad",
           "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/f6e1819745339cda15d7d57fba10abc701690144-3268x1838.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -230,22 +246,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3c701d497affaa92061a16fab96d9ef9.json"
-        },
-        {
-          "id": "fd6fffa6632dbfebc67a1d03aa355e78",
-          "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/68305194f847e3aa29c580f21b6d32ae104f745f-1520x854.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T03:51:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fd6fffa6632dbfebc67a1d03aa355e78.json"
         }
       ],
       "path": "articles/c40e6ca63b9f365233f6f404486428ba.json"
@@ -480,12 +480,12 @@
     },
     {
       "id": "945ec6f6fa39c306515251fc9dc1c15e",
-      "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
-      "description": "Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.",
+      "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+      "description": "South Korea's Kospi tumbled 3.5% overnight, and oil gained nearly 3% on renewed Middle East hostilities.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
+      "breaking_score": 40,
       "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9d68e85309cd342ddd55a00b64ef43c3830aecb-1506x848.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/989bf00960bab5542ee15bb54ec98562af1908c5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
       "source": {
         "id": "coindesk",
         "name": "CoinDesk",
@@ -501,14 +501,28 @@
           "type": "crypto",
           "path": "tickers/btc.json",
           "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
       "published_at": "2026-10-22T09:54:26.000Z",
       "related": [
         {
-          "id": "c679fed24e82d27786d630e5c3755049",
-          "title": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa1221d1b63ad44a405ecbd90564671112ef691d-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "53f45f152b8507de9ce172e83c1b0e5e",
+          "title": "Asian stocks tumble, bitcoin retreats as China enters bear market ",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b39a2378ae8abada053d644590080bf32ac111dd-2268x1736.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -516,42 +530,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-21T10:30:40.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/c679fed24e82d27786d630e5c3755049.json"
-        },
-        {
-          "id": "5d4f121dcc27d4f8e0e3f913ea91eaad",
-          "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f6e1819745339cda15d7d57fba10abc701690144-3268x1838.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T11:20:04.000Z",
+          "published_at": "2026-10-22T08:49:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5d4f121dcc27d4f8e0e3f913ea91eaad.json"
-        },
-        {
-          "id": "fd6fffa6632dbfebc67a1d03aa355e78",
-          "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/68305194f847e3aa29c580f21b6d32ae104f745f-1520x854.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T03:51:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fd6fffa6632dbfebc67a1d03aa355e78.json"
+          "path": "articles/53f45f152b8507de9ce172e83c1b0e5e.json"
         },
         {
           "id": "c40e6ca63b9f365233f6f404486428ba",
@@ -570,9 +552,9 @@
           "path": "articles/c40e6ca63b9f365233f6f404486428ba.json"
         },
         {
-          "id": "53f45f152b8507de9ce172e83c1b0e5e",
-          "title": "Asian stocks tumble, bitcoin retreats as China enters bear market ",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b39a2378ae8abada053d644590080bf32ac111dd-2268x1736.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "c679fed24e82d27786d630e5c3755049",
+          "title": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa1221d1b63ad44a405ecbd90564671112ef691d-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -580,10 +562,42 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-22T08:49:08.000Z",
+          "published_at": "2026-10-21T10:30:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/c679fed24e82d27786d630e5c3755049.json"
+        },
+        {
+          "id": "f73cf1456b31277b1f270f826de6157a",
+          "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/da862fb7916d4885618625dfdbe53136329965d3-1920x1280.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T11:15:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/53f45f152b8507de9ce172e83c1b0e5e.json"
+          "path": "articles/f73cf1456b31277b1f270f826de6157a.json"
+        },
+        {
+          "id": "5d4f121dcc27d4f8e0e3f913ea91eaad",
+          "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f6e1819745339cda15d7d57fba10abc701690144-3268x1838.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T11:20:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5d4f121dcc27d4f8e0e3f913ea91eaad.json"
         }
       ],
       "path": "articles/945ec6f6fa39c306515251fc9dc1c15e.json"
@@ -623,6 +637,22 @@
       ],
       "published_at": "2026-10-22T08:49:08.000Z",
       "related": [
+        {
+          "id": "945ec6f6fa39c306515251fc9dc1c15e",
+          "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/989bf00960bab5542ee15bb54ec98562af1908c5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T09:54:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/945ec6f6fa39c306515251fc9dc1c15e.json"
+        },
         {
           "id": "bc4b4ef8baa1e83a731463dcb7a44d53",
           "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
@@ -686,22 +716,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2946d786a5df91b57a8bfec46c1ae8be.json"
-        },
-        {
-          "id": "3c701d497affaa92061a16fab96d9ef9",
-          "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0742713d55788f217ee9802b43c2a1cf22f5434-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T04:41:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3c701d497affaa92061a16fab96d9ef9.json"
         }
       ],
       "path": "articles/53f45f152b8507de9ce172e83c1b0e5e.json"
@@ -909,8 +923,8 @@
         },
         {
           "id": "945ec6f6fa39c306515251fc9dc1c15e",
-          "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9d68e85309cd342ddd55a00b64ef43c3830aecb-1506x848.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/989bf00960bab5542ee15bb54ec98562af1908c5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -920,7 +934,7 @@
           "category": "crypto",
           "published_at": "2026-10-22T09:54:26.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
+          "breaking_score": 40,
           "path": "articles/945ec6f6fa39c306515251fc9dc1c15e.json"
         }
       ],
@@ -1126,6 +1140,22 @@
           "path": "articles/c40e6ca63b9f365233f6f404486428ba.json"
         },
         {
+          "id": "945ec6f6fa39c306515251fc9dc1c15e",
+          "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/989bf00960bab5542ee15bb54ec98562af1908c5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T09:54:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/945ec6f6fa39c306515251fc9dc1c15e.json"
+        },
+        {
           "id": "53f45f152b8507de9ce172e83c1b0e5e",
           "title": "Asian stocks tumble, bitcoin retreats as China enters bear market ",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/b39a2378ae8abada053d644590080bf32ac111dd-2268x1736.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -1156,22 +1186,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/38c5345e12b3c6a071d2c535dbd30eaa.json"
-        },
-        {
-          "id": "2946d786a5df91b57a8bfec46c1ae8be",
-          "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8b075d099e598ae6a929e4d56c9a2336b815d242-4709x3143.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T06:24:10.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2946d786a5df91b57a8bfec46c1ae8be.json"
         }
       ],
       "path": "articles/3c701d497affaa92061a16fab96d9ef9.json"
@@ -2056,6 +2070,22 @@
       "published_at": "2026-10-21T11:15:00.000Z",
       "related": [
         {
+          "id": "945ec6f6fa39c306515251fc9dc1c15e",
+          "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/989bf00960bab5542ee15bb54ec98562af1908c5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T09:54:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/945ec6f6fa39c306515251fc9dc1c15e.json"
+        },
+        {
           "id": "0652151f4a766f7beb038c8791265f3b",
           "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1f89c15f2364b145f85b22adbe4a17df0dfa1e2-5201x2926.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -2118,22 +2148,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/53f45f152b8507de9ce172e83c1b0e5e.json"
-        },
-        {
-          "id": "3c701d497affaa92061a16fab96d9ef9",
-          "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0742713d55788f217ee9802b43c2a1cf22f5434-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T04:41:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3c701d497affaa92061a16fab96d9ef9.json"
         }
       ],
       "path": "articles/f73cf1456b31277b1f270f826de6157a.json"
@@ -2409,8 +2423,8 @@
       "related": [
         {
           "id": "945ec6f6fa39c306515251fc9dc1c15e",
-          "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9d68e85309cd342ddd55a00b64ef43c3830aecb-1506x848.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/989bf00960bab5542ee15bb54ec98562af1908c5-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -2420,7 +2434,7 @@
           "category": "crypto",
           "published_at": "2026-10-22T09:54:26.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
+          "breaking_score": 40,
           "path": "articles/945ec6f6fa39c306515251fc9dc1c15e.json"
         },
         {
@@ -3170,20 +3184,20 @@
           "path": "articles/f07e5bb03e6e0ac013ce35279cd9e20b.json"
         },
         {
-          "id": "945ec6f6fa39c306515251fc9dc1c15e",
-          "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9d68e85309cd342ddd55a00b64ef43c3830aecb-1506x848.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "da73e548dc5c88f61d1dc1f384c6014a",
+          "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-22T09:54:26.000Z",
+          "published_at": "2026-10-21T17:31:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/945ec6f6fa39c306515251fc9dc1c15e.json"
+          "path": "articles/da73e548dc5c88f61d1dc1f384c6014a.json"
         }
       ],
       "path": "articles/5f9fa6052c1fd711a9c9e39203eee8b4.json"

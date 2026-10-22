@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:01:25.541Z",
+  "updated_at": "2026-10-22T12:15:48.213Z",
   "total": 33,
   "entities": [
     {
@@ -12,6 +12,13 @@
       "count": 32
     },
     {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 24
+    },
+    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
@@ -19,18 +26,18 @@
       "count": 24
     },
     {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 22
-    },
-    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 15
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 9
     },
     {
       "id": "tsla",
@@ -39,14 +46,14 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 10
+      "count": 9
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "defi",
+      "name": "DeFi",
       "type": "topic",
       "icon": "",
-      "count": 8
+      "count": 7
     },
     {
       "id": "spacex",
@@ -58,13 +65,6 @@
       "count": 7
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
@@ -72,9 +72,27 @@
       "count": 6
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 4
+    },
+    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 4
     },
@@ -95,24 +113,6 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 4
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 3
     },
     {
       "id": "sol",
@@ -139,15 +139,6 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 3
-    },
-    {
-      "id": "blk",
-      "symbol": "BLK",
-      "name": "BlackRock",
-      "type": "company",
-      "path": "tickers/blk.json",
-      "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 3
     },
     {
@@ -193,6 +184,15 @@
       "type": "company",
       "path": "tickers/jpm.json",
       "icon": "",
+      "count": 2
+    },
+    {
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 2
     },
     {

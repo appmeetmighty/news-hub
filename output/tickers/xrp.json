@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-22T15:45:54.445Z",
+  "updated_at": "2026-10-22T16:01:25.043Z",
   "id": "xrp",
   "symbol": "XRP",
   "name": "XRP",
   "type": "crypto",
-  "total": 3,
+  "total": 2,
   "articles": [
     {
       "id": "d5e88e15deb5b6a34b3e9ad6b4da4083",
@@ -33,22 +33,6 @@
       ],
       "published_at": "2026-10-22T04:36:20.000Z",
       "related": [
-        {
-          "id": "6b76c74fb5d0af5cb99dda1acb382f14",
-          "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-19T20:46:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6b76c74fb5d0af5cb99dda1acb382f14.json"
-        },
         {
           "id": "da73e548dc5c88f61d1dc1f384c6014a",
           "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
@@ -112,6 +96,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a0bdfbdfc53d464af49f9df0b6291f77.json"
+        },
+        {
+          "id": "0fa9508b878bcca56e744871f8d3db1b",
+          "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/298fa0a6c5e0d3bff5bd629adb7e45ce1f1bc968-2618x1440.png?auto=format&fit=crop&crop=focalpoint&fp-x=0.709&fp-y=0.4426&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T13:00:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0fa9508b878bcca56e744871f8d3db1b.json"
         }
       ],
       "path": "articles/d5e88e15deb5b6a34b3e9ad6b4da4083.json"
@@ -239,116 +239,6 @@
         }
       ],
       "path": "articles/da73e548dc5c88f61d1dc1f384c6014a.json"
-    },
-    {
-      "id": "6b76c74fb5d0af5cb99dda1acb382f14",
-      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-      "description": "XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "xrp",
-          "symbol": "XRP",
-          "name": "XRP",
-          "type": "crypto",
-          "path": "tickers/xrp.json",
-          "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
-        }
-      ],
-      "published_at": "2026-10-19T20:46:05.000Z",
-      "related": [
-        {
-          "id": "d5e88e15deb5b6a34b3e9ad6b4da4083",
-          "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b1652fc6b3b74f0a93f6349c9b655b6a575d3cf5-1260x840.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T04:36:20.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d5e88e15deb5b6a34b3e9ad6b4da4083.json"
-        },
-        {
-          "id": "da73e548dc5c88f61d1dc1f384c6014a",
-          "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T17:31:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/da73e548dc5c88f61d1dc1f384c6014a.json"
-        },
-        {
-          "id": "4ca445dc8f2adf8a395971a60e7853c0",
-          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T14:24:25.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4ca445dc8f2adf8a395971a60e7853c0.json"
-        },
-        {
-          "id": "95f45b885ce52a2233a2c5d6c2f48225",
-          "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-20T16:01:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/95f45b885ce52a2233a2c5d6c2f48225.json"
-        },
-        {
-          "id": "145271a1a6e6c3f1336bdd4290c3d71b",
-          "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T15:24:18.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/145271a1a6e6c3f1336bdd4290c3d71b.json"
-        }
-      ],
-      "path": "articles/6b76c74fb5d0af5cb99dda1acb382f14.json"
     }
   ]
 }

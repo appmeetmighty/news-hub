@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T15:45:54.448Z",
-  "total": 36,
+  "updated_at": "2026-10-22T16:01:25.045Z",
+  "total": 35,
   "entities": [
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 29
+      "count": 30
     },
     {
       "id": "regulation",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 13
+      "count": 15
     },
     {
       "id": "stablecoin",
@@ -62,7 +62,7 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 7
+      "count": 6
     },
     {
       "id": "blockchain",
@@ -72,11 +72,20 @@
       "count": 5
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
       "type": "company",
-      "path": "tickers/openai.json",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 4
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 4
     },
@@ -97,30 +106,21 @@
       "count": 4
     },
     {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "jpm",
       "symbol": "JPM",
       "name": "JPMorgan",
       "type": "company",
       "path": "tickers/jpm.json",
       "icon": "",
-      "count": 3
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 3
     },
     {
@@ -133,30 +133,19 @@
       "count": 3
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 3
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 2
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 3
-    },
-    {
-      "id": "amzn",
-      "symbol": "AMZN",
-      "name": "Amazon",
-      "type": "company",
-      "path": "tickers/amzn.json",
-      "icon": "https://logo.clearbit.com/amazon.com",
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
       "count": 2
     },
     {
@@ -169,21 +158,12 @@
       "count": 2
     },
     {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
-      "count": 2
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 2
     },
     {
@@ -193,6 +173,15 @@
       "type": "crypto",
       "path": "tickers/doge.json",
       "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
+      "count": 2
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 2
     },
     {
@@ -232,25 +221,18 @@
       "count": 1
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
       "count": 1
     },
     {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "nflx",
-      "symbol": "NFLX",
-      "name": "Netflix",
-      "type": "company",
-      "path": "tickers/nflx.json",
       "icon": "",
       "count": 1
     },
@@ -288,6 +270,15 @@
       "type": "company",
       "path": "tickers/msft.json",
       "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 1
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
       "count": 1
     },
     {

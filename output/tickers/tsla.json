@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-10-23T11:01:21.476Z",
+  "updated_at": "2026-10-23T11:15:48.478Z",
   "id": "tsla",
   "symbol": "TSLA",
   "name": "Tesla",
   "type": "company",
-  "total": 7,
+  "total": 8,
   "articles": [
+    {
+      "id": "539e94ab93797eedb1546d4882b42f91",
+      "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+      "description": "A Tesla-SpaceX merger may be in the works, but the companies face a long road of negotiations and regulatory reviews.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108441933-1792588782445-gettyimages-2301241048-vcg111675843076.jpeg?v=1792588817&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        },
+        {
+          "id": "regulation",
+          "name": "Regulation",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-23T11:00:01.000Z",
+      "related": [
+        {
+          "id": "829d235697cef3d6ca97ea9647803558",
+          "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co. ",
+          "image": "https://image.cnbcfm.com/api/v1/image/107094802-1658941667625-gettyimages-1232949289-20090101210517-99-633989.jpeg?v=1753916170&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-23T00:46:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/829d235697cef3d6ca97ea9647803558.json"
+        },
+        {
+          "id": "cc1e06a360fe532f69f4bb8f51ae32cb",
+          "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+          "image": "https://image.cnbcfm.com/api/v1/image/108152694-1792693118866-108152694-1748628518832-gettyimages-2217848840-kd208861_3kfowzed.jpeg?v=1792696411&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-22T21:02:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cc1e06a360fe532f69f4bb8f51ae32cb.json"
+        },
+        {
+          "id": "2df0572f48297c9de051f1329734efc1",
+          "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T16:16:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2df0572f48297c9de051f1329734efc1.json"
+        },
+        {
+          "id": "db6f564811af0f9f96402896b8b57a87",
+          "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T18:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/db6f564811af0f9f96402896b8b57a87.json"
+        },
+        {
+          "id": "d4190cb11f112814a2dee72e3a2004fd",
+          "title": "Elon Musk invests about $1 billion in Skydance",
+          "image": "https://image.cnbcfm.com/api/v1/image/108447482-1792686883695-Ellison_Musk.jpg?v=1792691478&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-22T19:34:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d4190cb11f112814a2dee72e3a2004fd.json"
+        }
+      ],
+      "path": "articles/539e94ab93797eedb1546d4882b42f91.json"
+    },
     {
       "id": "829d235697cef3d6ca97ea9647803558",
       "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co. ",
@@ -41,6 +165,22 @@
       ],
       "published_at": "2026-10-23T00:46:09.000Z",
       "related": [
+        {
+          "id": "539e94ab93797eedb1546d4882b42f91",
+          "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+          "image": "https://image.cnbcfm.com/api/v1/image/108441933-1792588782445-gettyimages-2301241048-vcg111675843076.jpeg?v=1792588817&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-23T11:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/539e94ab93797eedb1546d4882b42f91.json"
+        },
         {
           "id": "cc1e06a360fe532f69f4bb8f51ae32cb",
           "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
@@ -104,22 +244,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d4190cb11f112814a2dee72e3a2004fd.json"
-        },
-        {
-          "id": "9f304431371833f644425ef49f631402",
-          "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-          "image": "https://image.cnbcfm.com/api/v1/image/108438882-1792528110848-gettyimages-2300578306-UK_20261020_ukr006JPG.jpeg?v=1792528209&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-22T18:55:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9f304431371833f644425ef49f631402.json"
         }
       ],
       "path": "articles/829d235697cef3d6ca97ea9647803558.json"
@@ -159,6 +283,22 @@
       ],
       "published_at": "2026-10-22T21:02:07.000Z",
       "related": [
+        {
+          "id": "539e94ab93797eedb1546d4882b42f91",
+          "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+          "image": "https://image.cnbcfm.com/api/v1/image/108441933-1792588782445-gettyimages-2301241048-vcg111675843076.jpeg?v=1792588817&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-23T11:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/539e94ab93797eedb1546d4882b42f91.json"
+        },
         {
           "id": "829d235697cef3d6ca97ea9647803558",
           "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co. ",
@@ -222,22 +362,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d4190cb11f112814a2dee72e3a2004fd.json"
-        },
-        {
-          "id": "9f304431371833f644425ef49f631402",
-          "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-          "image": "https://image.cnbcfm.com/api/v1/image/108438882-1792528110848-gettyimages-2300578306-UK_20261020_ukr006JPG.jpeg?v=1792528209&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-22T18:55:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9f304431371833f644425ef49f631402.json"
         }
       ],
       "path": "articles/cc1e06a360fe532f69f4bb8f51ae32cb.json"
@@ -302,6 +426,22 @@
           "path": "articles/cc1e06a360fe532f69f4bb8f51ae32cb.json"
         },
         {
+          "id": "539e94ab93797eedb1546d4882b42f91",
+          "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+          "image": "https://image.cnbcfm.com/api/v1/image/108441933-1792588782445-gettyimages-2301241048-vcg111675843076.jpeg?v=1792588817&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-23T11:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/539e94ab93797eedb1546d4882b42f91.json"
+        },
+        {
           "id": "742ddad8935d2a83c4879bb335b5610b",
           "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/Tesla_Elon-Musk_Rokas-Tenys_shutterstock_2147719465-gID_7.jpg@png",
@@ -332,22 +472,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4fd8614de634dffc6c758c3fdcf895ef.json"
-        },
-        {
-          "id": "db6f564811af0f9f96402896b8b57a87",
-          "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T18:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/db6f564811af0f9f96402896b8b57a87.json"
         }
       ],
       "path": "articles/d4190cb11f112814a2dee72e3a2004fd.json"
@@ -662,6 +786,22 @@
           "path": "articles/829d235697cef3d6ca97ea9647803558.json"
         },
         {
+          "id": "539e94ab93797eedb1546d4882b42f91",
+          "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+          "image": "https://image.cnbcfm.com/api/v1/image/108441933-1792588782445-gettyimages-2301241048-vcg111675843076.jpeg?v=1792588817&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-23T11:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/539e94ab93797eedb1546d4882b42f91.json"
+        },
+        {
           "id": "cc1e06a360fe532f69f4bb8f51ae32cb",
           "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
           "image": "https://image.cnbcfm.com/api/v1/image/108152694-1792693118866-108152694-1748628518832-gettyimages-2217848840-kd208861_3kfowzed.jpeg?v=1792696411&w=1920&h=1080",
@@ -692,22 +832,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/742ddad8935d2a83c4879bb335b5610b.json"
-        },
-        {
-          "id": "4fd8614de634dffc6c758c3fdcf895ef",
-          "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T10:38:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4fd8614de634dffc6c758c3fdcf895ef.json"
         }
       ],
       "path": "articles/db6f564811af0f9f96402896b8b57a87.json"
@@ -788,6 +912,22 @@
           "path": "articles/4fd8614de634dffc6c758c3fdcf895ef.json"
         },
         {
+          "id": "539e94ab93797eedb1546d4882b42f91",
+          "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+          "image": "https://image.cnbcfm.com/api/v1/image/108441933-1792588782445-gettyimages-2301241048-vcg111675843076.jpeg?v=1792588817&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-23T11:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/539e94ab93797eedb1546d4882b42f91.json"
+        },
+        {
           "id": "829d235697cef3d6ca97ea9647803558",
           "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co. ",
           "image": "https://image.cnbcfm.com/api/v1/image/107094802-1658941667625-gettyimages-1232949289-20090101210517-99-633989.jpeg?v=1753916170&w=1920&h=1080",
@@ -818,22 +958,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/cc1e06a360fe532f69f4bb8f51ae32cb.json"
-        },
-        {
-          "id": "6ce6c981ca8c9b7899e12263d397f518",
-          "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/heatbit-bitwater-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-23T10:54:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6ce6c981ca8c9b7899e12263d397f518.json"
         }
       ],
       "path": "articles/2df0572f48297c9de051f1329734efc1.json"

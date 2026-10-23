@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:01:21.481Z",
+  "updated_at": "2026-10-23T11:15:48.490Z",
   "total": 34,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 33
+      "count": 34
     },
     {
       "id": "crypto",
@@ -19,18 +19,27 @@
       "count": 28
     },
     {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 20
-    },
-    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 21
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 21
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 8
     },
     {
       "id": "eth",
@@ -42,12 +51,12 @@
       "count": 8
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
+      "path": "tickers/spacex.json",
+      "icon": "",
       "count": 7
     },
     {
@@ -70,15 +79,6 @@
       "id": "etf",
       "name": "ETF",
       "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
       "icon": "",
       "count": 6
     },
@@ -167,15 +167,6 @@
       "count": 2
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 2
-    },
-    {
       "id": "bnb",
       "symbol": "BNB",
       "name": "BNB",
@@ -234,6 +225,15 @@
       "type": "company",
       "path": "tickers/xai.json",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 1
     },
     {

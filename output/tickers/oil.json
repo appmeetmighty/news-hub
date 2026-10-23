@@ -1,11 +1,137 @@
 {
-  "updated_at": "2026-10-23T03:01:21.091Z",
+  "updated_at": "2026-10-23T03:15:49.018Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 5,
+  "total": 6,
   "articles": [
+    {
+      "id": "9509342cffabe22cafbe2515fcecf9c8",
+      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "description": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d45f74af3bf643e7376c8cc581b322b4ae39f779-2220x1267.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "gold",
+          "symbol": "GOLD",
+          "name": "Gold",
+          "type": "commodity",
+          "path": "tickers/gold.json",
+          "icon": ""
+        },
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-23T03:13:01.000Z",
+      "related": [
+        {
+          "id": "945ec6f6fa39c306515251fc9dc1c15e",
+          "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c1207234187eec24c854f3bc5f7ffcb31d22c07-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T09:54:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/945ec6f6fa39c306515251fc9dc1c15e.json"
+        },
+        {
+          "id": "53f45f152b8507de9ce172e83c1b0e5e",
+          "title": "Asian stocks tumble, bitcoin retreats as China enters bear market ",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b39a2378ae8abada053d644590080bf32ac111dd-2268x1736.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T08:49:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/53f45f152b8507de9ce172e83c1b0e5e.json"
+        },
+        {
+          "id": "d98db76ce972729106971e4074c39fb3",
+          "title": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin_bull-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T12:16:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d98db76ce972729106971e4074c39fb3.json"
+        },
+        {
+          "id": "fd6fffa6632dbfebc67a1d03aa355e78",
+          "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/68305194f847e3aa29c580f21b6d32ae104f745f-1520x854.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T03:51:34.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fd6fffa6632dbfebc67a1d03aa355e78.json"
+        },
+        {
+          "id": "4d50f0cf14231c362c90f6f1d36a7e0f",
+          "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-22T16:31:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4d50f0cf14231c362c90f6f1d36a7e0f.json"
+        }
+      ],
+      "path": "articles/9509342cffabe22cafbe2515fcecf9c8.json"
+    },
     {
       "id": "1b5cf1ace6d29aee23b4127ed53c62fd",
       "title": "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
@@ -48,6 +174,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b29701d127b9888b61b93667671ad64c.json"
+        },
+        {
+          "id": "9509342cffabe22cafbe2515fcecf9c8",
+          "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d45f74af3bf643e7376c8cc581b322b4ae39f779-2220x1267.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-23T03:13:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9509342cffabe22cafbe2515fcecf9c8.json"
         },
         {
           "id": "2cdb9f906b3e18916baf220c12ca18a9",
@@ -96,22 +238,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/53f45f152b8507de9ce172e83c1b0e5e.json"
-        },
-        {
-          "id": "edf5754b76d92cfad4e1a327fd590894",
-          "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
-          "image": "https://image.cnbcfm.com/api/v1/image/108039322-17273001022024-09-25t204232z_1101917728_rc2u7aaqtwho_rtrmadp_0_meta-platforms-virtual-reality-zuckerberg.jpeg?v=1792695599&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-22T20:03:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/edf5754b76d92cfad4e1a327fd590894.json"
         }
       ],
       "path": "articles/1b5cf1ace6d29aee23b4127ed53c62fd.json"
@@ -340,20 +466,20 @@
           "path": "articles/53f45f152b8507de9ce172e83c1b0e5e.json"
         },
         {
-          "id": "cc8927465c91b4ed7f60762c1e52408c",
-          "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-          "image": "https://image.cnbcfm.com/api/v1/image/108370453-1790789483108-gettyimages-2297352185-ACKMAN_INTERVIEW.jpeg?v=1792680637&w=1920&h=1080",
+          "id": "9509342cffabe22cafbe2515fcecf9c8",
+          "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d45f74af3bf643e7376c8cc581b322b4ae39f779-2220x1267.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-22T17:53:08.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-23T03:13:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/cc8927465c91b4ed7f60762c1e52408c.json"
+          "path": "articles/9509342cffabe22cafbe2515fcecf9c8.json"
         }
       ],
       "path": "articles/b29701d127b9888b61b93667671ad64c.json"
@@ -416,6 +542,22 @@
           "path": "articles/53f45f152b8507de9ce172e83c1b0e5e.json"
         },
         {
+          "id": "9509342cffabe22cafbe2515fcecf9c8",
+          "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d45f74af3bf643e7376c8cc581b322b4ae39f779-2220x1267.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-23T03:13:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9509342cffabe22cafbe2515fcecf9c8.json"
+        },
+        {
           "id": "fd6fffa6632dbfebc67a1d03aa355e78",
           "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/68305194f847e3aa29c580f21b6d32ae104f745f-1520x854.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
@@ -462,22 +604,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/5d4f121dcc27d4f8e0e3f913ea91eaad.json"
-        },
-        {
-          "id": "c40e6ca63b9f365233f6f404486428ba",
-          "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/33df524da73a71dffe5032199c51d40709a67399-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T10:50:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c40e6ca63b9f365233f6f404486428ba.json"
         }
       ],
       "path": "articles/945ec6f6fa39c306515251fc9dc1c15e.json"
@@ -534,6 +660,22 @@
           "path": "articles/945ec6f6fa39c306515251fc9dc1c15e.json"
         },
         {
+          "id": "9509342cffabe22cafbe2515fcecf9c8",
+          "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d45f74af3bf643e7376c8cc581b322b4ae39f779-2220x1267.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-23T03:13:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9509342cffabe22cafbe2515fcecf9c8.json"
+        },
+        {
           "id": "cc17c0565dfd7804c0b1a86ddbab081e",
           "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower ",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J5JG3Z7RPMDP2E8S5Q398C/analytics-red-trump-960x640.webp",
@@ -580,22 +722,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c40e6ca63b9f365233f6f404486428ba.json"
-        },
-        {
-          "id": "2946d786a5df91b57a8bfec46c1ae8be",
-          "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8b075d099e598ae6a929e4d56c9a2336b815d242-4709x3143.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T06:24:10.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2946d786a5df91b57a8bfec46c1ae8be.json"
         }
       ],
       "path": "articles/53f45f152b8507de9ce172e83c1b0e5e.json"

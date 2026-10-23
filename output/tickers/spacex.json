@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-23T09:45:48.779Z",
+  "updated_at": "2026-10-23T10:01:18.890Z",
   "id": "spacex",
   "symbol": "SPACEX",
   "name": "SpaceX",
   "type": "company",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "829d235697cef3d6ca97ea9647803558",
@@ -41,6 +41,22 @@
       ],
       "published_at": "2026-10-23T00:46:09.000Z",
       "related": [
+        {
+          "id": "b356c65cbb87f7093e4b34eb21bfea08",
+          "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+          "image": "https://image.cnbcfm.com/api/v1/image/108443511-1792616630586-108443511-1792616084338-gettyimages-2297246496-AFP_C9Q98QB.jpeg?v=1792701546&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-22T21:58:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b356c65cbb87f7093e4b34eb21bfea08.json"
+        },
         {
           "id": "cc1e06a360fe532f69f4bb8f51ae32cb",
           "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
@@ -104,11 +120,49 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d4190cb11f112814a2dee72e3a2004fd.json"
+        }
+      ],
+      "path": "articles/829d235697cef3d6ca97ea9647803558.json"
+    },
+    {
+      "id": "b356c65cbb87f7093e4b34eb21bfea08",
+      "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+      "description": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108443511-1792616630586-108443511-1792616084338-gettyimages-2297246496-AFP_C9Q98QB.jpeg?v=1792701546&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
         },
         {
-          "id": "9f304431371833f644425ef49f631402",
-          "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-          "image": "https://image.cnbcfm.com/api/v1/image/108438882-1792528110848-gettyimages-2300578306-UK_20261020_ukr006JPG.jpeg?v=1792528209&w=1920&h=1080",
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-22T21:58:42.000Z",
+      "related": [
+        {
+          "id": "829d235697cef3d6ca97ea9647803558",
+          "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co. ",
+          "image": "https://image.cnbcfm.com/api/v1/image/107094802-1658941667625-gettyimages-1232949289-20090101210517-99-633989.jpeg?v=1753916170&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -116,13 +170,77 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-22T18:55:38.000Z",
+          "published_at": "2026-10-23T00:46:09.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9f304431371833f644425ef49f631402.json"
+          "path": "articles/829d235697cef3d6ca97ea9647803558.json"
+        },
+        {
+          "id": "cc1e06a360fe532f69f4bb8f51ae32cb",
+          "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+          "image": "https://image.cnbcfm.com/api/v1/image/108152694-1792693118866-108152694-1748628518832-gettyimages-2217848840-kd208861_3kfowzed.jpeg?v=1792696411&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-22T21:02:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cc1e06a360fe532f69f4bb8f51ae32cb.json"
+        },
+        {
+          "id": "db6f564811af0f9f96402896b8b57a87",
+          "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T18:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/db6f564811af0f9f96402896b8b57a87.json"
+        },
+        {
+          "id": "2df0572f48297c9de051f1329734efc1",
+          "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T16:16:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2df0572f48297c9de051f1329734efc1.json"
+        },
+        {
+          "id": "d4190cb11f112814a2dee72e3a2004fd",
+          "title": "Elon Musk invests about $1 billion in Skydance",
+          "image": "https://image.cnbcfm.com/api/v1/image/108447482-1792686883695-Ellison_Musk.jpg?v=1792691478&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-22T19:34:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d4190cb11f112814a2dee72e3a2004fd.json"
         }
       ],
-      "path": "articles/829d235697cef3d6ca97ea9647803558.json"
+      "path": "articles/b356c65cbb87f7093e4b34eb21bfea08.json"
     },
     {
       "id": "cc1e06a360fe532f69f4bb8f51ae32cb",
@@ -159,6 +277,22 @@
       ],
       "published_at": "2026-10-22T21:02:07.000Z",
       "related": [
+        {
+          "id": "b356c65cbb87f7093e4b34eb21bfea08",
+          "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+          "image": "https://image.cnbcfm.com/api/v1/image/108443511-1792616630586-108443511-1792616084338-gettyimages-2297246496-AFP_C9Q98QB.jpeg?v=1792701546&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-22T21:58:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b356c65cbb87f7093e4b34eb21bfea08.json"
+        },
         {
           "id": "829d235697cef3d6ca97ea9647803558",
           "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co. ",
@@ -222,22 +356,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d4190cb11f112814a2dee72e3a2004fd.json"
-        },
-        {
-          "id": "9f304431371833f644425ef49f631402",
-          "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-          "image": "https://image.cnbcfm.com/api/v1/image/108438882-1792528110848-gettyimages-2300578306-UK_20261020_ukr006JPG.jpeg?v=1792528209&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-22T18:55:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9f304431371833f644425ef49f631402.json"
         }
       ],
       "path": "articles/cc1e06a360fe532f69f4bb8f51ae32cb.json"
@@ -310,6 +428,22 @@
           "path": "articles/cc1e06a360fe532f69f4bb8f51ae32cb.json"
         },
         {
+          "id": "b356c65cbb87f7093e4b34eb21bfea08",
+          "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+          "image": "https://image.cnbcfm.com/api/v1/image/108443511-1792616630586-108443511-1792616084338-gettyimages-2297246496-AFP_C9Q98QB.jpeg?v=1792701546&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-22T21:58:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b356c65cbb87f7093e4b34eb21bfea08.json"
+        },
+        {
           "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
           "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
           "image": "",
@@ -340,22 +474,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/db6f564811af0f9f96402896b8b57a87.json"
-        },
-        {
-          "id": "2df0572f48297c9de051f1329734efc1",
-          "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T16:16:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2df0572f48297c9de051f1329734efc1.json"
         }
       ],
       "path": "articles/9f304431371833f644425ef49f631402.json"
@@ -442,6 +560,22 @@
           "path": "articles/829d235697cef3d6ca97ea9647803558.json"
         },
         {
+          "id": "b356c65cbb87f7093e4b34eb21bfea08",
+          "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+          "image": "https://image.cnbcfm.com/api/v1/image/108443511-1792616630586-108443511-1792616084338-gettyimages-2297246496-AFP_C9Q98QB.jpeg?v=1792701546&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-22T21:58:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b356c65cbb87f7093e4b34eb21bfea08.json"
+        },
+        {
           "id": "cc1e06a360fe532f69f4bb8f51ae32cb",
           "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
           "image": "https://image.cnbcfm.com/api/v1/image/108152694-1792693118866-108152694-1748628518832-gettyimages-2217848840-kd208861_3kfowzed.jpeg?v=1792696411&w=1920&h=1080",
@@ -472,22 +606,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/742ddad8935d2a83c4879bb335b5610b.json"
-        },
-        {
-          "id": "4fd8614de634dffc6c758c3fdcf895ef",
-          "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T10:38:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4fd8614de634dffc6c758c3fdcf895ef.json"
         }
       ],
       "path": "articles/db6f564811af0f9f96402896b8b57a87.json"
@@ -600,9 +718,9 @@
           "path": "articles/829d235697cef3d6ca97ea9647803558.json"
         },
         {
-          "id": "cc1e06a360fe532f69f4bb8f51ae32cb",
-          "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-          "image": "https://image.cnbcfm.com/api/v1/image/108152694-1792693118866-108152694-1748628518832-gettyimages-2217848840-kd208861_3kfowzed.jpeg?v=1792696411&w=1920&h=1080",
+          "id": "b356c65cbb87f7093e4b34eb21bfea08",
+          "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+          "image": "https://image.cnbcfm.com/api/v1/image/108443511-1792616630586-108443511-1792616084338-gettyimages-2297246496-AFP_C9Q98QB.jpeg?v=1792701546&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -610,10 +728,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-22T21:02:07.000Z",
+          "published_at": "2026-10-22T21:58:42.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/cc1e06a360fe532f69f4bb8f51ae32cb.json"
+          "path": "articles/b356c65cbb87f7093e4b34eb21bfea08.json"
         }
       ],
       "path": "articles/2df0572f48297c9de051f1329734efc1.json"
@@ -668,6 +786,22 @@
           "path": "articles/829d235697cef3d6ca97ea9647803558.json"
         },
         {
+          "id": "b356c65cbb87f7093e4b34eb21bfea08",
+          "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+          "image": "https://image.cnbcfm.com/api/v1/image/108443511-1792616630586-108443511-1792616084338-gettyimages-2297246496-AFP_C9Q98QB.jpeg?v=1792701546&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-22T21:58:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b356c65cbb87f7093e4b34eb21bfea08.json"
+        },
+        {
           "id": "cc1e06a360fe532f69f4bb8f51ae32cb",
           "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
           "image": "https://image.cnbcfm.com/api/v1/image/108152694-1792693118866-108152694-1748628518832-gettyimages-2217848840-kd208861_3kfowzed.jpeg?v=1792696411&w=1920&h=1080",
@@ -714,22 +848,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/db6f564811af0f9f96402896b8b57a87.json"
-        },
-        {
-          "id": "9cdc24422ea0fc5688fcdaee36804b33",
-          "title": "  SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-09-29T13:55:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 45,
-          "path": "articles/9cdc24422ea0fc5688fcdaee36804b33.json"
         }
       ],
       "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"

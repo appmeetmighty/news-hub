@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24T14:45:43.644Z",
+  "updated_at": "2026-10-24T15:01:23.526Z",
   "id": "eth",
   "symbol": "ETH",
   "name": "Ethereum",
   "type": "crypto",
-  "total": 9,
+  "total": 8,
   "articles": [
     {
       "id": "be8dc7c465d4efdf620e17ab9eacba38",
@@ -646,22 +646,6 @@
           "path": "articles/c5185165baf2cdde8c077064b587f22a.json"
         },
         {
-          "id": "93311554ae8fe9b802d0e2f17a33cd49",
-          "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T12:14:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/93311554ae8fe9b802d0e2f17a33cd49.json"
-        },
-        {
           "id": "be8dc7c465d4efdf620e17ab9eacba38",
           "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png",
@@ -692,6 +676,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a3d3e14c5b07549f01849d6c5e6fd7f3.json"
+        },
+        {
+          "id": "0a60dc79af6f735babcc14ebb59484a6",
+          "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-23T10:13:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/0a60dc79af6f735babcc14ebb59484a6.json"
         }
       ],
       "path": "articles/0c6b347c286cee8e989fc54d9ba7fcc2.json"
@@ -815,122 +815,6 @@
       "path": "articles/4d50f0cf14231c362c90f6f1d36a7e0f.json"
     },
     {
-      "id": "93311554ae8fe9b802d0e2f17a33cd49",
-      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-      "description": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "eth",
-          "symbol": "ETH",
-          "name": "Ethereum",
-          "type": "crypto",
-          "path": "tickers/eth.json",
-          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
-        },
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-22T12:14:29.000Z",
-      "related": [
-        {
-          "id": "0c6b347c286cee8e989fc54d9ba7fcc2",
-          "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-23T04:59:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0c6b347c286cee8e989fc54d9ba7fcc2.json"
-        },
-        {
-          "id": "4ca445dc8f2adf8a395971a60e7853c0",
-          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-21T14:24:25.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4ca445dc8f2adf8a395971a60e7853c0.json"
-        },
-        {
-          "id": "be8dc7c465d4efdf620e17ab9eacba38",
-          "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-23T18:39:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 15,
-          "path": "articles/be8dc7c465d4efdf620e17ab9eacba38.json"
-        },
-        {
-          "id": "a3d3e14c5b07549f01849d6c5e6fd7f3",
-          "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-23T15:50:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a3d3e14c5b07549f01849d6c5e6fd7f3.json"
-        },
-        {
-          "id": "587b7d07ed866740fa6f7c583caffce3",
-          "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-23T11:49:37.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/587b7d07ed866740fa6f7c583caffce3.json"
-        }
-      ],
-      "path": "articles/93311554ae8fe9b802d0e2f17a33cd49.json"
-    },
-    {
       "id": "4ca445dc8f2adf8a395971a60e7853c0",
       "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
       "description": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
@@ -1014,22 +898,6 @@
           "path": "articles/4d50f0cf14231c362c90f6f1d36a7e0f.json"
         },
         {
-          "id": "93311554ae8fe9b802d0e2f17a33cd49",
-          "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-22T12:14:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/93311554ae8fe9b802d0e2f17a33cd49.json"
-        },
-        {
           "id": "be8dc7c465d4efdf620e17ab9eacba38",
           "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png",
@@ -1044,6 +912,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 15,
           "path": "articles/be8dc7c465d4efdf620e17ab9eacba38.json"
+        },
+        {
+          "id": "0a60dc79af6f735babcc14ebb59484a6",
+          "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-23T10:13:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/0a60dc79af6f735babcc14ebb59484a6.json"
         }
       ],
       "path": "articles/4ca445dc8f2adf8a395971a60e7853c0.json"

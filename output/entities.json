@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T15:45:46.316Z",
-  "total": 32,
+  "updated_at": "2026-10-24T16:01:19.056Z",
+  "total": 33,
   "entities": [
     {
       "id": "btc",
@@ -9,18 +9,18 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 28
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 26
+      "count": 29
     },
     {
       "id": "ai",
       "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 25
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
       "type": "topic",
       "icon": "",
       "count": 25
@@ -90,6 +90,13 @@
       "count": 5
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
@@ -114,13 +121,6 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 3
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
       "count": 3
     },
     {
@@ -149,6 +149,15 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 1
     },
     {
       "id": "msft",

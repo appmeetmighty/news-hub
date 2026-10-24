@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-24T16:01:19.060Z",
+  "updated_at": "2026-10-24T16:15:54.705Z",
   "articles": {
-    "generated_at": "2026-10-24T16:01:19.060Z",
+    "generated_at": "2026-10-24T16:15:54.705Z",
     "topics": [
       {
         "id": "btc",
@@ -157,8 +157,36 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 25,
+        "count": 27,
         "articles": [
+          {
+            "id": "4edf17f49e234cb3c4d9b81e9c97bc4b",
+            "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+            "image": "https://image.cnbcfm.com/api/v1/image/108442584-1792601105464-Traders-Photo-20261021-AS-PRESS-5.jpg?v=1792601484&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-24T16:14:00.000Z",
+            "path": "articles/4edf17f49e234cb3c4d9b81e9c97bc4b.json"
+          },
+          {
+            "id": "f7c2b01cc1fd788f1a936aea670454de",
+            "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-ai-chatgpt-gemini-claude-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-24T16:01:03.000Z",
+            "path": "articles/f7c2b01cc1fd788f1a936aea670454de.json"
+          },
           {
             "id": "5c7a621efe0cff29a069981a679d958a",
             "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
@@ -270,34 +298,6 @@
             "category": "crypto",
             "published_at": "2026-10-23T17:53:29.000Z",
             "path": "articles/5832b32da03e238296421931533fa399.json"
-          },
-          {
-            "id": "f73b2927aa00bf601e43119b6250813a",
-            "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-23T17:16:03.000Z",
-            "path": "articles/f73b2927aa00bf601e43119b6250813a.json"
-          },
-          {
-            "id": "95dcdc1557d1d1ad99aeb079cbfc4e31",
-            "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
-            "image": "https://image.cnbcfm.com/api/v1/image/108446583-1792673740106-gettyimages-2300859671-86268678.jpeg?v=1792673757&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-23T16:55:37.000Z",
-            "path": "articles/95dcdc1557d1d1ad99aeb079cbfc4e31.json"
           }
         ]
       },
@@ -306,7 +306,7 @@
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 25,
+        "count": 24,
         "articles": [
           {
             "id": "fab3debe6d72f0da9ba9a73533cbf365",
@@ -1367,6 +1367,57 @@
         ]
       },
       {
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
+        "icon": "",
+        "count": 3,
+        "articles": [
+          {
+            "id": "f7c2b01cc1fd788f1a936aea670454de",
+            "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-ai-chatgpt-gemini-claude-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-24T16:01:03.000Z",
+            "path": "articles/f7c2b01cc1fd788f1a936aea670454de.json"
+          },
+          {
+            "id": "1979b293b17576ebe4706d0dfd1a2f53",
+            "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/chatgpt-messi-chess-3-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-22T20:39:18.000Z",
+            "path": "articles/1979b293b17576ebe4706d0dfd1a2f53.json"
+          },
+          {
+            "id": "5d0ac586a1ba785482e6f1724e5cbf31",
+            "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_710783008-gID_4.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-21T18:46:08.000Z",
+            "path": "articles/5d0ac586a1ba785482e6f1724e5cbf31.json"
+          }
+        ]
+      },
+      {
         "id": "meta",
         "name": "Meta",
         "type": "company",
@@ -1469,6 +1520,80 @@
         ]
       },
       {
+        "id": "msft",
+        "name": "Microsoft",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/microsoft.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "f7c2b01cc1fd788f1a936aea670454de",
+            "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-ai-chatgpt-gemini-claude-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-24T16:01:03.000Z",
+            "path": "articles/f7c2b01cc1fd788f1a936aea670454de.json"
+          },
+          {
+            "id": "f153b40815a1979c416bd744f45073ba",
+            "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+            "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f5b4bcc5ab7ba1437f88bb9961bbd70e3bbb448-5624x3749.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-24T15:00:00.000Z",
+            "path": "articles/f153b40815a1979c416bd744f45073ba.json"
+          }
+        ]
+      },
+      {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "f7c2b01cc1fd788f1a936aea670454de",
+            "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-ai-chatgpt-gemini-claude-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-24T16:01:03.000Z",
+            "path": "articles/f7c2b01cc1fd788f1a936aea670454de.json"
+          },
+          {
+            "id": "5832b32da03e238296421931533fa399",
+            "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/photo-collage.png-1-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-23T17:53:29.000Z",
+            "path": "articles/5832b32da03e238296421931533fa399.json"
+          }
+        ]
+      },
+      {
         "id": "xrp",
         "name": "XRP",
         "type": "crypto",
@@ -1543,43 +1668,6 @@
         ]
       },
       {
-        "id": "openai",
-        "name": "OpenAI",
-        "type": "company",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "1979b293b17576ebe4706d0dfd1a2f53",
-            "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/chatgpt-messi-chess-3-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-22T20:39:18.000Z",
-            "path": "articles/1979b293b17576ebe4706d0dfd1a2f53.json"
-          },
-          {
-            "id": "5d0ac586a1ba785482e6f1724e5cbf31",
-            "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_710783008-gID_4.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-21T18:46:08.000Z",
-            "path": "articles/5d0ac586a1ba785482e6f1724e5cbf31.json"
-          }
-        ]
-      },
-      {
         "id": "mstr",
         "name": "Strategy",
         "type": "company",
@@ -1599,29 +1687,6 @@
             "category": "crypto",
             "published_at": "2026-10-24T16:00:00.000Z",
             "path": "articles/78fa6d6cd245ebd88aa7d92d5022414d.json"
-          }
-        ]
-      },
-      {
-        "id": "msft",
-        "name": "Microsoft",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/microsoft.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "f153b40815a1979c416bd744f45073ba",
-            "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-            "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f5b4bcc5ab7ba1437f88bb9961bbd70e3bbb448-5624x3749.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-24T15:00:00.000Z",
-            "path": "articles/f153b40815a1979c416bd744f45073ba.json"
           }
         ]
       },
@@ -1668,29 +1733,6 @@
             "category": "stocks",
             "published_at": "2026-10-23T20:06:37.000Z",
             "path": "articles/835609fe9c028a6b3fc47342a1f6dafd.json"
-          }
-        ]
-      },
-      {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "5832b32da03e238296421931533fa399",
-            "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/photo-collage.png-1-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-23T17:53:29.000Z",
-            "path": "articles/5832b32da03e238296421931533fa399.json"
           }
         ]
       },

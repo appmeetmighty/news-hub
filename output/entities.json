@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-10-25T11:31:02.889Z",
+  "updated_at": "2026-10-25T12:02:18.090Z",
   "total": 33,
   "entities": [
-    {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
-    },
     {
       "id": "ai",
       "name": "AI",
@@ -19,11 +10,20 @@
       "count": 28
     },
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 28
+    },
+    {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 25
     },
     {
       "id": "regulation",
@@ -31,6 +31,13 @@
       "type": "topic",
       "icon": "",
       "count": 22
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "spacex",
@@ -58,13 +65,6 @@
       "count": 6
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
@@ -83,13 +83,6 @@
       "count": 5
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
@@ -103,6 +96,13 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 4
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
       "count": 4
     },
     {

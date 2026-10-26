@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T14:15:50.292Z",
+  "updated_at": "2026-10-26T14:31:11.617Z",
   "total": 30,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 31
+      "count": 30
     },
     {
       "id": "crypto",
@@ -42,6 +42,13 @@
       "count": 7
     },
     {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -56,15 +63,6 @@
       "type": "topic",
       "icon": "",
       "count": 6
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 5
     },
     {
       "id": "anthropic",
@@ -85,11 +83,13 @@
       "count": 5
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 4
     },
     {
       "id": "meta",

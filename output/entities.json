@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T20:31:07.635Z",
+  "updated_at": "2026-10-26T20:45:49.430Z",
   "total": 27,
   "entities": [
     {
@@ -10,6 +10,13 @@
       "count": 32
     },
     {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 26
+    },
+    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
@@ -17,13 +24,6 @@
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
       "count": 26
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 25
     },
     {
       "id": "crypto",
@@ -65,13 +65,13 @@
       "count": 6
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 5
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 4
     },
     {
       "id": "oil",
@@ -83,12 +83,12 @@
       "count": 4
     },
     {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
       "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 4
     },
     {

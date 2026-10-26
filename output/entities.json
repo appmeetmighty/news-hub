@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T12:15:48.995Z",
+  "updated_at": "2026-10-26T12:31:04.015Z",
   "total": 31,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 30
+      "count": 31
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 30
+      "count": 31
     },
     {
       "id": "crypto",
@@ -33,6 +33,15 @@
       "count": 22
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 7
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -42,21 +51,21 @@
       "count": 7
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 6
+    },
+    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 6
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
       "count": 6
     },
     {
@@ -71,15 +80,6 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 5
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 5
     },
     {
@@ -176,6 +176,15 @@
       "count": 2
     },
     {
+      "id": "amd",
+      "symbol": "AMD",
+      "name": "AMD",
+      "type": "company",
+      "path": "tickers/amd.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
@@ -252,15 +261,6 @@
       "type": "company",
       "path": "tickers/xai.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "doge",
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "type": "crypto",
-      "path": "tickers/doge.json",
-      "icon": "https://assets.coincap.io/assets/icons/doge@2x.png",
       "count": 1
     }
   ]

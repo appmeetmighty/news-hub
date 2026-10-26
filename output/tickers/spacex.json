@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-10-26T00:31:03.342Z",
+  "updated_at": "2026-10-26T01:02:21.472Z",
   "id": "spacex",
   "symbol": "SPACEX",
   "name": "SpaceX",
   "type": "company",
-  "total": 4,
+  "total": 5,
   "articles": [
+    {
+      "id": "1d863b406d897c484064a77aa044eb67",
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says\n",
+      "description": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-26T00:37:51.000Z",
+      "related": [
+        {
+          "id": "c75ce099ae0c9acb55fed5a3c111d44b",
+          "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-23T19:36:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c75ce099ae0c9acb55fed5a3c111d44b.json"
+        },
+        {
+          "id": "db6f564811af0f9f96402896b8b57a87",
+          "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T18:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/db6f564811af0f9f96402896b8b57a87.json"
+        },
+        {
+          "id": "2df0572f48297c9de051f1329734efc1",
+          "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-21T16:16:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2df0572f48297c9de051f1329734efc1.json"
+        },
+        {
+          "id": "216224cb56de9cb4bcc86dfacd6aa2af",
+          "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+          "image": "https://image.cnbcfm.com/api/v1/image/108460168-1792949428800-gettyimages-2300466871-ukrinform-ukrainia261016_np2tc.jpeg?v=1792950298&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-25T18:18:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/216224cb56de9cb4bcc86dfacd6aa2af.json"
+        },
+        {
+          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
+          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+          "image": "",
+          "source": {
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T18:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
+        }
+      ],
+      "path": "articles/1d863b406d897c484064a77aa044eb67.json"
+    },
     {
       "id": "c75ce099ae0c9acb55fed5a3c111d44b",
       "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
@@ -74,6 +198,22 @@
           "path": "articles/2df0572f48297c9de051f1329734efc1.json"
         },
         {
+          "id": "1d863b406d897c484064a77aa044eb67",
+          "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says\n",
+          "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-26T00:37:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1d863b406d897c484064a77aa044eb67.json"
+        },
+        {
           "id": "742ddad8935d2a83c4879bb335b5610b",
           "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/Tesla_Elon-Musk_Rokas-Tenys_shutterstock_2147719465-gID_7.jpg@png",
@@ -104,22 +244,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/216224cb56de9cb4bcc86dfacd6aa2af.json"
-        },
-        {
-          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
-          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T18:30:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 45,
-          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
         }
       ],
       "path": "articles/c75ce099ae0c9acb55fed5a3c111d44b.json"
@@ -206,6 +330,22 @@
           "path": "articles/2df0572f48297c9de051f1329734efc1.json"
         },
         {
+          "id": "1d863b406d897c484064a77aa044eb67",
+          "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says\n",
+          "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-26T00:37:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1d863b406d897c484064a77aa044eb67.json"
+        },
+        {
           "id": "742ddad8935d2a83c4879bb335b5610b",
           "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/Tesla_Elon-Musk_Rokas-Tenys_shutterstock_2147719465-gID_7.jpg@png",
@@ -236,22 +376,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/216224cb56de9cb4bcc86dfacd6aa2af.json"
-        },
-        {
-          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
-          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T18:30:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 45,
-          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
         }
       ],
       "path": "articles/db6f564811af0f9f96402896b8b57a87.json"
@@ -332,6 +456,22 @@
           "path": "articles/c75ce099ae0c9acb55fed5a3c111d44b.json"
         },
         {
+          "id": "1d863b406d897c484064a77aa044eb67",
+          "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says\n",
+          "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-26T00:37:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1d863b406d897c484064a77aa044eb67.json"
+        },
+        {
           "id": "a7424812e93e9982c6143c268c0ca422",
           "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png@png",
@@ -362,22 +502,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/f73b2927aa00bf601e43119b6250813a.json"
-        },
-        {
-          "id": "a3d3e14c5b07549f01849d6c5e6fd7f3",
-          "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-23T15:50:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a3d3e14c5b07549f01849d6c5e6fd7f3.json"
         }
       ],
       "path": "articles/2df0572f48297c9de051f1329734efc1.json"
@@ -415,6 +539,22 @@
       ],
       "published_at": "2026-09-30T18:30:01.000Z",
       "related": [
+        {
+          "id": "1d863b406d897c484064a77aa044eb67",
+          "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says\n",
+          "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-26T00:37:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1d863b406d897c484064a77aa044eb67.json"
+        },
         {
           "id": "c75ce099ae0c9acb55fed5a3c111d44b",
           "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
@@ -478,22 +618,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2df0572f48297c9de051f1329734efc1.json"
-        },
-        {
-          "id": "5d5f7267c511f85c0df4eb0ab3d95cbf",
-          "title": "  SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-10-09T14:59:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5d5f7267c511f85c0df4eb0ab3d95cbf.json"
         }
       ],
       "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"

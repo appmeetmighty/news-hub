@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T15:45:51.729Z",
-  "total": 30,
+  "updated_at": "2026-10-26T16:01:21.635Z",
+  "total": 29,
   "entities": [
     {
       "id": "ai",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 28
+      "count": 27
     },
     {
       "id": "crypto",
@@ -30,7 +30,14 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 22
+      "count": 23
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "eth",
@@ -42,8 +49,8 @@
       "count": 7
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 6
@@ -55,14 +62,7 @@
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 6
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 6
+      "count": 5
     },
     {
       "id": "meta",
@@ -92,6 +92,15 @@
       "count": 5
     },
     {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 3
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -116,15 +125,6 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 3
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 3
     },
     {
@@ -158,6 +158,15 @@
       "count": 2
     },
     {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 2
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -173,15 +182,6 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
-    },
-    {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
       "count": 2
     },
     {
@@ -206,15 +206,6 @@
       "name": "Goldman Sachs",
       "type": "company",
       "path": "tickers/gs.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
       "icon": "",
       "count": 1
     },

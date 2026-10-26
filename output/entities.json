@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-26T13:01:23.581Z",
-  "total": 31,
+  "updated_at": "2026-10-26T13:15:47.280Z",
+  "total": 30,
   "entities": [
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 31
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,14 +9,21 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 31
+      "count": 32
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 32
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 23
     },
     {
       "id": "regulation",
@@ -60,20 +60,20 @@
       "count": 6
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 6
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 6
+      "count": 5
     },
     {
       "id": "stablecoin",
@@ -83,22 +83,20 @@
       "count": 5
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
       "count": 4
     },
     {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
       "icon": "",
-      "count": 4
+      "count": 3
     },
     {
       "id": "meta",
@@ -110,11 +108,20 @@
       "count": 3
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 3
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
       "type": "company",
-      "path": "tickers/openai.json",
+      "path": "tickers/spacex.json",
       "icon": "",
       "count": 3
     },
@@ -165,13 +172,6 @@
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -251,15 +251,6 @@
       "name": "Citigroup",
       "type": "company",
       "path": "tickers/c.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "xai",
-      "symbol": "XAI",
-      "name": "xAI",
-      "type": "company",
-      "path": "tickers/xai.json",
       "icon": "",
       "count": 1
     }

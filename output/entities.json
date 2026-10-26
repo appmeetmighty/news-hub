@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-26T04:31:05.141Z",
-  "total": 32,
+  "updated_at": "2026-10-26T05:02:18.322Z",
+  "total": 33,
   "entities": [
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 28
+      "count": 30
     },
     {
       "id": "btc",
@@ -89,7 +89,16 @@
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 5
+      "count": 4
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 3
     },
     {
       "id": "openai",
@@ -151,24 +160,6 @@
       "count": 2
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 2
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "meta",
       "symbol": "META",
       "name": "Meta",
@@ -176,6 +167,15 @@
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
       "count": 2
+    },
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "mstr",
@@ -193,6 +193,15 @@
       "type": "company",
       "path": "tickers/aapl.json",
       "icon": "https://logo.clearbit.com/apple.com",
+      "count": 1
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
       "count": 1
     },
     {

@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-26T13:31:12.805Z",
+  "updated_at": "2026-10-26T13:45:49.264Z",
   "id": "anthropic",
   "symbol": "ANTHROPIC",
   "name": "Anthropic",
   "type": "company",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "92a87bb36c278c93dd6cee1e6bfc53df",
@@ -39,6 +39,22 @@
       ],
       "published_at": "2026-10-26T13:22:09.000Z",
       "related": [
+        {
+          "id": "c600be889ec3eae4768f4bce47052576",
+          "title": "Live news: Bitcoin slips below $80,000 as Anthropic files for massive IPO",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7f0b7a5dfaaf01f9e671790deae4eef47f6594e7-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T11:05:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c600be889ec3eae4768f4bce47052576.json"
+        },
         {
           "id": "f7c2b01cc1fd788f1a936aea670454de",
           "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
@@ -102,11 +118,63 @@
           "reading_time_minutes": 1,
           "breaking_score": 55,
           "path": "articles/ce0819b49f6b2cd0df35ff5aea37aac8.json"
+        }
+      ],
+      "path": "articles/92a87bb36c278c93dd6cee1e6bfc53df.json"
+    },
+    {
+      "id": "c600be889ec3eae4768f4bce47052576",
+      "title": "Live news: Bitcoin slips below $80,000 as Anthropic files for massive IPO",
+      "description": "Alongside Anthropic raising as much as $100 billion, Meta on Monday announced a $95 billion share sale to fund its own AI ambitions.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7f0b7a5dfaaf01f9e671790deae4eef47f6594e7-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
-          "id": "c600be889ec3eae4768f4bce47052576",
-          "title": "Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7f0b7a5dfaaf01f9e671790deae4eef47f6594e7-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-26T11:05:31.000Z",
+      "related": [
+        {
+          "id": "339d867227b6c07c43044691c83ba292",
+          "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f7711f978a2d69fe002fffabb76faa6278fb0b5e-1512x844.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
             "id": "coindesk",
             "name": "CoinDesk",
@@ -114,13 +182,77 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-26T11:05:31.000Z",
+          "published_at": "2026-10-26T04:37:02.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/c600be889ec3eae4768f4bce47052576.json"
+          "breaking_score": 0,
+          "path": "articles/339d867227b6c07c43044691c83ba292.json"
+        },
+        {
+          "id": "fab3debe6d72f0da9ba9a73533cbf365",
+          "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cbbb05ae60659ef1c46287aae06ad1132421ba3-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-24T15:11:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fab3debe6d72f0da9ba9a73533cbf365.json"
+        },
+        {
+          "id": "92a87bb36c278c93dd6cee1e6bfc53df",
+          "title": "AI giant Anthropic files for blockbuster IPO",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba780857f001e57cd12781be763097e729621894-4790x3193.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T13:22:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/92a87bb36c278c93dd6cee1e6bfc53df.json"
+        },
+        {
+          "id": "f93541be8f22658a7910c31944a26a3f",
+          "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T13:02:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 75,
+          "path": "articles/f93541be8f22658a7910c31944a26a3f.json"
+        },
+        {
+          "id": "0be1287b40c31f7808529d5ef53c4b84",
+          "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T12:16:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0be1287b40c31f7808529d5ef53c4b84.json"
         }
       ],
-      "path": "articles/92a87bb36c278c93dd6cee1e6bfc53df.json"
+      "path": "articles/c600be889ec3eae4768f4bce47052576.json"
     },
     {
       "id": "f7c2b01cc1fd788f1a936aea670454de",
@@ -236,20 +368,20 @@
           "path": "articles/92a87bb36c278c93dd6cee1e6bfc53df.json"
         },
         {
-          "id": "560a7e5e6a2eaac3a47ae75f89861368",
-          "title": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
-          "image": "https://image.cnbcfm.com/api/v1/image/107211925-1679347687801-NHL_Fanatics_Hangtags.jpg?v=1793018544&w=1920&h=1080",
+          "id": "c600be889ec3eae4768f4bce47052576",
+          "title": "Live news: Bitcoin slips below $80,000 as Anthropic files for massive IPO",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7f0b7a5dfaaf01f9e671790deae4eef47f6594e7-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-26T13:02:37.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-26T11:05:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/560a7e5e6a2eaac3a47ae75f89861368.json"
+          "path": "articles/c600be889ec3eae4768f4bce47052576.json"
         }
       ],
       "path": "articles/f7c2b01cc1fd788f1a936aea670454de.json"
@@ -320,6 +452,22 @@
           "path": "articles/92a87bb36c278c93dd6cee1e6bfc53df.json"
         },
         {
+          "id": "c600be889ec3eae4768f4bce47052576",
+          "title": "Live news: Bitcoin slips below $80,000 as Anthropic files for massive IPO",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7f0b7a5dfaaf01f9e671790deae4eef47f6594e7-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T11:05:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c600be889ec3eae4768f4bce47052576.json"
+        },
+        {
           "id": "b1588da288f1675809293f484af3470a",
           "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png@png",
@@ -350,22 +498,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 75,
           "path": "articles/f93541be8f22658a7910c31944a26a3f.json"
-        },
-        {
-          "id": "ddcaaa1c585e86a1b31a3c3bb4e88c14",
-          "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-26T13:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ddcaaa1c585e86a1b31a3c3bb4e88c14.json"
         }
       ],
       "path": "articles/5832b32da03e238296421931533fa399.json"

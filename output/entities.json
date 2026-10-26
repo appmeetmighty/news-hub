@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-26T18:45:50.724Z",
-  "total": 26,
+  "updated_at": "2026-10-26T19:01:28.233Z",
+  "total": 27,
   "entities": [
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 32
+      "count": 31
     },
     {
       "id": "btc",
@@ -23,14 +23,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 25
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 25
+      "count": 24
     },
     {
       "id": "eth",
@@ -42,12 +42,12 @@
       "count": 8
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
+      "path": "tickers/anthropic.json",
+      "icon": "",
       "count": 6
     },
     {
@@ -67,6 +67,15 @@
       "count": 5
     },
     {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 5
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
@@ -74,13 +83,13 @@
       "count": 5
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
       "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 5
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 4
     },
     {
       "id": "spacex",
@@ -101,15 +110,6 @@
       "count": 4
     },
     {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
-      "count": 3
-    },
-    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
@@ -126,15 +126,6 @@
       "count": 3
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 3
-    },
-    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -144,11 +135,13 @@
       "count": 3
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 3
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 2
     },
     {
       "id": "defi",
@@ -183,6 +176,22 @@
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
       "count": 2
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 1
     },
     {
       "id": "amd",

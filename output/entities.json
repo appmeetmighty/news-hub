@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T18:15:52.601Z",
-  "total": 29,
+  "updated_at": "2026-10-26T18:31:09.081Z",
+  "total": 26,
   "entities": [
     {
       "id": "ai",
@@ -42,6 +42,15 @@
       "count": 8
     },
     {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 6
+    },
+    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
@@ -65,15 +74,6 @@
       "count": 5
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 5
-    },
-    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
@@ -81,6 +81,15 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 5
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "meta",
@@ -132,15 +141,6 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 3
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
-      "icon": "",
       "count": 3
     },
     {
@@ -216,33 +216,6 @@
       "type": "crypto",
       "path": "tickers/bnb.json",
       "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
-      "count": 1
-    },
-    {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "bac",
-      "symbol": "BAC",
-      "name": "Bank of America",
-      "type": "company",
-      "path": "tickers/bac.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "c",
-      "symbol": "C",
-      "name": "Citigroup",
-      "type": "company",
-      "path": "tickers/c.json",
-      "icon": "",
       "count": 1
     }
   ]

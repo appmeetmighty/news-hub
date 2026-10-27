@@ -1,20 +1,22 @@
 {
-  "updated_at": "2026-10-27T07:31:06.535Z",
-  "total": 27,
+  "updated_at": "2026-10-27T07:45:46.961Z",
+  "total": 28,
   "entities": [
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 32
+      "count": 33
     },
     {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 26
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 24
     },
     {
       "id": "crypto",
@@ -24,20 +26,18 @@
       "count": 24
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 23
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 24
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 10
+      "count": 11
     },
     {
       "id": "anthropic",
@@ -101,21 +101,21 @@
       "count": 4
     },
     {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 3
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
-      "count": 3
-    },
-    {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
       "count": 3
     },
     {
@@ -151,6 +151,15 @@
       "count": 2
     },
     {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 2
+    },
+    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
@@ -160,29 +169,20 @@
       "count": 2
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 2
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 2
-    },
-    {
       "id": "mining",
       "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "ma",
+      "symbol": "MA",
+      "name": "Mastercard",
+      "type": "company",
+      "path": "tickers/ma.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "web3",
@@ -225,6 +225,15 @@
       "type": "company",
       "path": "tickers/gs.json",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
       "count": 1
     }
   ]

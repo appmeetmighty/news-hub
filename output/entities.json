@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T16:31:10.033Z",
+  "updated_at": "2026-10-27T16:45:51.655Z",
   "total": 27,
   "entities": [
     {
@@ -30,7 +30,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 22
+      "count": 21
     },
     {
       "id": "stablecoin",
@@ -53,7 +53,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 6
+      "count": 7
     },
     {
       "id": "xrp",
@@ -65,13 +65,22 @@
       "count": 6
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 3
     },
     {
       "id": "sol",
@@ -97,6 +106,15 @@
       "count": 3
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
@@ -110,15 +128,6 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 3
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
       "count": 3
     },
     {
@@ -146,15 +155,6 @@
       "type": "company",
       "path": "tickers/meta.json",
       "icon": "https://logo.clearbit.com/meta.com",
-      "count": 2
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
       "count": 2
     },
     {

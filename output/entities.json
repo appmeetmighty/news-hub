@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T21:32:23.291Z",
+  "updated_at": "2026-10-27T21:45:48.944Z",
   "total": 28,
   "entities": [
     {
@@ -7,14 +7,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 29
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 26
+      "count": 27
     },
     {
       "id": "crypto",
@@ -22,6 +15,13 @@
       "type": "topic",
       "icon": "",
       "count": 26
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 25
     },
     {
       "id": "btc",
@@ -46,7 +46,7 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 10
+      "count": 9
     },
     {
       "id": "anthropic",
@@ -65,15 +65,6 @@
       "count": 7
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 5
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -81,6 +72,22 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 5
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
+      "count": 4
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "eth",
@@ -92,15 +99,17 @@
       "count": 4
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
       "icon": "",
       "count": 3
     },
     {
-      "id": "etf",
-      "name": "ETF",
+      "id": "mining",
+      "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 3
@@ -118,15 +127,6 @@
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "intc",
-      "symbol": "INTC",
-      "name": "Intel",
-      "type": "company",
-      "path": "tickers/intc.json",
       "icon": "",
       "count": 2
     },

@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-27T18:31:12.191Z",
+  "updated_at": "2026-10-27T18:45:47.703Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 29,
+  "total": 30,
   "articles": [
     {
-      "id": "3fb1961e3737a1000c3656311d80d2b4",
-      "title": "What's behind the AI trade comeback — plus, our take on Intel's latest deal",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "id": "b2484dff62a6b8e9a7a0d6a3d3474b5b",
+      "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+      "description": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/investingclub/2026/10/27/the-ai-trade-comeback-plus-our-take-on-latest-intel-deal.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -22,12 +22,12 @@
       "category": "stocks",
       "entities": [
         {
-          "id": "intc",
-          "symbol": "INTC",
-          "name": "Intel",
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
           "type": "company",
-          "path": "tickers/intc.json",
-          "icon": ""
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
         },
         {
           "id": "ai",
@@ -36,132 +36,8 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-10-27T18:13:51.000Z",
+      "published_at": "2026-10-27T18:41:02.000Z",
       "related": [
-        {
-          "id": "2f19b988152915e353aa4e300fc515ce",
-          "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd4279f03bab73f6b5b9819d7342d6d6132dde54-674x489.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-27T18:13:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2f19b988152915e353aa4e300fc515ce.json"
-        },
-        {
-          "id": "2560e38d3f4c651f346b58b6dd81451a",
-          "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
-          "image": "https://image.cnbcfm.com/api/v1/image/108464657-1793030626158-Untitled-1.jpg?v=1793116948&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T16:35:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2560e38d3f4c651f346b58b6dd81451a.json"
-        },
-        {
-          "id": "88484dc73b8ea6a09ec4f723c29c3624",
-          "title": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
-          "image": "https://image.cnbcfm.com/api/v1/image/108464743-1793031638506-gettyimages-2301669760-US_STOCKS.jpeg?v=1793031756&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T12:33:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/88484dc73b8ea6a09ec4f723c29c3624.json"
-        },
-        {
-          "id": "9c29294d32004e1de189693f259b3205",
-          "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-          "image": "https://image.cnbcfm.com/api/v1/image/108230175-17637559132025-11-21t200946z_40947315_rc251iald46t_rtrmadp_0_holidayshopping-retail-walmart.jpeg?v=1763755947&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T18:12:20.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9c29294d32004e1de189693f259b3205.json"
-        },
-        {
-          "id": "57ffd535d5493e3162a63e1af4deea86",
-          "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’ ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357223-1788287119954-gettyimages-2292514559-US_CONGRESS.jpeg?v=1793123207&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T18:03:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/57ffd535d5493e3162a63e1af4deea86.json"
-        }
-      ],
-      "path": "articles/3fb1961e3737a1000c3656311d80d2b4.json"
-    },
-    {
-      "id": "2028a1ebbbdd50c9cae1b56e9de965ad",
-      "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-      "description": "World Bank President Ajay Banga came on CNBC's \"Squawk Box\" on Oct. 27, 2026.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108468750-1793104149238-ajay5.jpg?v=1793104235&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-27T16:15:35.000Z",
-      "related": [
-        {
-          "id": "3f8487df1e553b4e9c8ec8ee11785fab",
-          "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-          "image": "https://image.cnbcfm.com/api/v1/image/108464534-1793027769008-gettyimages-2296453825-dellatorre-notitle260906_np6GQ.jpeg?v=1793027790&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T15:04:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3f8487df1e553b4e9c8ec8ee11785fab.json"
-        },
         {
           "id": "3fb1961e3737a1000c3656311d80d2b4",
           "title": "What's behind the AI trade comeback — plus, our take on Intel's latest deal",
@@ -173,7 +49,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T18:13:51.000Z",
+          "published_at": "2026-10-27T18:35:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3fb1961e3737a1000c3656311d80d2b4.json"
@@ -225,6 +101,246 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/85c9ceced83a652b6633e009b23fe584.json"
+        },
+        {
+          "id": "09e607e36151e2789b46e67329e25539",
+          "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+          "image": "https://image.cnbcfm.com/api/v1/image/108122414-17431043312025-03-27t193607z_820098562_rc2tldaijr6i_rtrmadp_0_usa-trump-tariffs-autos.jpeg?v=1743104555&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T17:53:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/09e607e36151e2789b46e67329e25539.json"
+        }
+      ],
+      "path": "articles/b2484dff62a6b8e9a7a0d6a3d3474b5b.json"
+    },
+    {
+      "id": "3fb1961e3737a1000c3656311d80d2b4",
+      "title": "What's behind the AI trade comeback — plus, our take on Intel's latest deal",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/investingclub/2026/10/27/the-ai-trade-comeback-plus-our-take-on-latest-intel-deal.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "intc",
+          "symbol": "INTC",
+          "name": "Intel",
+          "type": "company",
+          "path": "tickers/intc.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-27T18:35:40.000Z",
+      "related": [
+        {
+          "id": "2f19b988152915e353aa4e300fc515ce",
+          "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd4279f03bab73f6b5b9819d7342d6d6132dde54-674x489.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-27T18:13:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f19b988152915e353aa4e300fc515ce.json"
+        },
+        {
+          "id": "2560e38d3f4c651f346b58b6dd81451a",
+          "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+          "image": "https://image.cnbcfm.com/api/v1/image/108464657-1793030626158-Untitled-1.jpg?v=1793116948&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T16:35:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2560e38d3f4c651f346b58b6dd81451a.json"
+        },
+        {
+          "id": "88484dc73b8ea6a09ec4f723c29c3624",
+          "title": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
+          "image": "https://image.cnbcfm.com/api/v1/image/108464743-1793031638506-gettyimages-2301669760-US_STOCKS.jpeg?v=1793031756&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T12:33:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/88484dc73b8ea6a09ec4f723c29c3624.json"
+        },
+        {
+          "id": "b2484dff62a6b8e9a7a0d6a3d3474b5b",
+          "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T18:41:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b2484dff62a6b8e9a7a0d6a3d3474b5b.json"
+        },
+        {
+          "id": "9c29294d32004e1de189693f259b3205",
+          "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+          "image": "https://image.cnbcfm.com/api/v1/image/108230175-17637559132025-11-21t200946z_40947315_rc251iald46t_rtrmadp_0_holidayshopping-retail-walmart.jpeg?v=1763755947&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T18:12:20.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9c29294d32004e1de189693f259b3205.json"
+        }
+      ],
+      "path": "articles/3fb1961e3737a1000c3656311d80d2b4.json"
+    },
+    {
+      "id": "2028a1ebbbdd50c9cae1b56e9de965ad",
+      "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+      "description": "World Bank President Ajay Banga came on CNBC's \"Squawk Box\" on Oct. 27, 2026.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108468750-1793104149238-ajay5.jpg?v=1793104235&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-27T16:15:35.000Z",
+      "related": [
+        {
+          "id": "3f8487df1e553b4e9c8ec8ee11785fab",
+          "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+          "image": "https://image.cnbcfm.com/api/v1/image/108464534-1793027769008-gettyimages-2296453825-dellatorre-notitle260906_np6GQ.jpeg?v=1793027790&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T15:04:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3f8487df1e553b4e9c8ec8ee11785fab.json"
+        },
+        {
+          "id": "b2484dff62a6b8e9a7a0d6a3d3474b5b",
+          "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T18:41:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b2484dff62a6b8e9a7a0d6a3d3474b5b.json"
+        },
+        {
+          "id": "3fb1961e3737a1000c3656311d80d2b4",
+          "title": "What's behind the AI trade comeback — plus, our take on Intel's latest deal",
+          "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T18:35:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3fb1961e3737a1000c3656311d80d2b4.json"
+        },
+        {
+          "id": "9c29294d32004e1de189693f259b3205",
+          "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+          "image": "https://image.cnbcfm.com/api/v1/image/108230175-17637559132025-11-21t200946z_40947315_rc251iald46t_rtrmadp_0_holidayshopping-retail-walmart.jpeg?v=1763755947&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T18:12:20.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9c29294d32004e1de189693f259b3205.json"
+        },
+        {
+          "id": "57ffd535d5493e3162a63e1af4deea86",
+          "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’ ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108357223-1788287119954-gettyimages-2292514559-US_CONGRESS.jpeg?v=1793123207&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T18:03:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/57ffd535d5493e3162a63e1af4deea86.json"
         }
       ],
       "path": "articles/2028a1ebbbdd50c9cae1b56e9de965ad.json"
@@ -295,6 +411,22 @@
           "path": "articles/c1b135b21b1399a5a7d25610ff1ef3a0.json"
         },
         {
+          "id": "b2484dff62a6b8e9a7a0d6a3d3474b5b",
+          "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T18:41:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b2484dff62a6b8e9a7a0d6a3d3474b5b.json"
+        },
+        {
           "id": "3fb1961e3737a1000c3656311d80d2b4",
           "title": "What's behind the AI trade comeback — plus, our take on Intel's latest deal",
           "image": "https://image.cnbcfm.com/api/v1/image/108315138-17804039612026-06-02t070118z_913331550_rc2jllarvolb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
@@ -305,7 +437,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T18:13:51.000Z",
+          "published_at": "2026-10-27T18:35:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3fb1961e3737a1000c3656311d80d2b4.json"
@@ -341,22 +473,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/57ffd535d5493e3162a63e1af4deea86.json"
-        },
-        {
-          "id": "85c9ceced83a652b6633e009b23fe584",
-          "title": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
-          "image": "https://image.cnbcfm.com/api/v1/image/108139249-17461007952025-05-01t110135z_141929000_rc26x7av6mkm_rtrmadp_0_health-obesity-who.jpeg?v=1746100832&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T17:57:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/85c9ceced83a652b6633e009b23fe584.json"
         }
       ],
       "path": "articles/25438a39ef23b8455eab80a48b4ecf2d.json"
@@ -1035,7 +1151,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T18:13:51.000Z",
+          "published_at": "2026-10-27T18:35:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3fb1961e3737a1000c3656311d80d2b4.json"
@@ -1057,9 +1173,9 @@
           "path": "articles/aad06cbd62f27b485a00cf8c4bfc17e2.json"
         },
         {
-          "id": "9c29294d32004e1de189693f259b3205",
-          "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-          "image": "https://image.cnbcfm.com/api/v1/image/108230175-17637559132025-11-21t200946z_40947315_rc251iald46t_rtrmadp_0_holidayshopping-retail-walmart.jpeg?v=1763755947&w=1920&h=1080",
+          "id": "b2484dff62a6b8e9a7a0d6a3d3474b5b",
+          "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1067,10 +1183,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T18:12:20.000Z",
+          "published_at": "2026-10-27T18:41:02.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9c29294d32004e1de189693f259b3205.json"
+          "path": "articles/b2484dff62a6b8e9a7a0d6a3d3474b5b.json"
         }
       ],
       "path": "articles/88484dc73b8ea6a09ec4f723c29c3624.json"
@@ -1391,9 +1507,9 @@
           "path": "articles/95e7b523908b0d92459721f6c76f3db6.json"
         },
         {
-          "id": "9de3dee435f6eba89a1792e2d13c3a09",
-          "title": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
-          "image": "https://image.cnbcfm.com/api/v1/image/108464021-1793019612215-gettyimages-2298823965-ALASKA_MIDTERMS.jpeg?v=1793029082&w=1920&h=1080",
+          "id": "b2484dff62a6b8e9a7a0d6a3d3474b5b",
+          "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1401,10 +1517,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T04:40:30.000Z",
+          "published_at": "2026-10-27T18:41:02.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9de3dee435f6eba89a1792e2d13c3a09.json"
+          "path": "articles/b2484dff62a6b8e9a7a0d6a3d3474b5b.json"
         },
         {
           "id": "3fb1961e3737a1000c3656311d80d2b4",
@@ -1417,7 +1533,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T18:13:51.000Z",
+          "published_at": "2026-10-27T18:35:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3fb1961e3737a1000c3656311d80d2b4.json"

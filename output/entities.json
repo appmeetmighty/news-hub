@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:45:52.050Z",
+  "updated_at": "2026-10-27T13:01:26.581Z",
   "total": 26,
   "entities": [
     {
@@ -7,7 +7,14 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 33
+      "count": 32
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 25
     },
     {
       "id": "btc",
@@ -16,14 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 24
+      "count": 25
     },
     {
       "id": "regulation",
@@ -49,21 +49,21 @@
       "count": 11
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 6
-    },
-    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 5
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
     },
     {
@@ -83,6 +83,15 @@
       "count": 4
     },
     {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 4
+    },
+    {
       "id": "spacex",
       "symbol": "SPACEX",
       "name": "SpaceX",
@@ -90,13 +99,6 @@
       "path": "tickers/spacex.json",
       "icon": "",
       "count": 4
-    },
-    {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "defi",
@@ -110,15 +112,6 @@
       "name": "ETF",
       "type": "topic",
       "icon": "",
-      "count": 3
-    },
-    {
-      "id": "meta",
-      "symbol": "META",
-      "name": "Meta",
-      "type": "company",
-      "path": "tickers/meta.json",
-      "icon": "https://logo.clearbit.com/meta.com",
       "count": 3
     },
     {
@@ -146,6 +139,13 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
+      "count": 2
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
       "count": 2
     },
     {

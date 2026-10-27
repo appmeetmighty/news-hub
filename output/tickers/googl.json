@@ -1,11 +1,135 @@
 {
-  "updated_at": "2026-10-27T20:01:22.931Z",
+  "updated_at": "2026-10-27T20:15:47.644Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
   "type": "company",
-  "total": 3,
+  "total": 4,
   "articles": [
+    {
+      "id": "5a8ffcad503a0909bcd31ec74721bafb",
+      "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch. ",
+      "description": "Credit markets will be closely watching updates from Oracle and other hyperscalers later this week. What to expect.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108453107-17927880302026-10-23t203930z_644610608_rc2lzna5kzc0_rtrmadp_0_usa-datacenters-nevada.jpeg?v=1792788061&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-27T19:57:35.000Z",
+      "related": [
+        {
+          "id": "66899c3df723a05201ff6c74067d3b2f",
+          "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+          "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T19:51:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/66899c3df723a05201ff6c74067d3b2f.json"
+        },
+        {
+          "id": "b2484dff62a6b8e9a7a0d6a3d3474b5b",
+          "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T18:57:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b2484dff62a6b8e9a7a0d6a3d3474b5b.json"
+        },
+        {
+          "id": "88484dc73b8ea6a09ec4f723c29c3624",
+          "title": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
+          "image": "https://image.cnbcfm.com/api/v1/image/108464743-1793031638506-gettyimages-2301669760-US_STOCKS.jpeg?v=1793031756&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T12:33:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/88484dc73b8ea6a09ec4f723c29c3624.json"
+        },
+        {
+          "id": "d27d34d369b521c2fba53159a4189df0",
+          "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-24T17:01:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d27d34d369b521c2fba53159a4189df0.json"
+        },
+        {
+          "id": "9bd1a438325178a3191f6446369e8739",
+          "title": "Margin debt growth slows sharply as stock market warning signs build",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364036-1791477091930-108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks-1.jpg?v=1791477101&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T18:53:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9bd1a438325178a3191f6446369e8739.json"
+        }
+      ],
+      "path": "articles/5a8ffcad503a0909bcd31ec74721bafb.json"
+    },
     {
       "id": "66899c3df723a05201ff6c74067d3b2f",
       "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
@@ -41,6 +165,22 @@
       ],
       "published_at": "2026-10-27T19:51:41.000Z",
       "related": [
+        {
+          "id": "5a8ffcad503a0909bcd31ec74721bafb",
+          "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch. ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108453107-17927880302026-10-23t203930z_644610608_rc2lzna5kzc0_rtrmadp_0_usa-datacenters-nevada.jpeg?v=1792788061&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T19:57:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5a8ffcad503a0909bcd31ec74721bafb.json"
+        },
         {
           "id": "88484dc73b8ea6a09ec4f723c29c3624",
           "title": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
@@ -104,22 +244,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c7aa97e0a0db50bff9f01801eaf88991.json"
-        },
-        {
-          "id": "d27d34d369b521c2fba53159a4189df0",
-          "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-24T17:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d27d34d369b521c2fba53159a4189df0.json"
         }
       ],
       "path": "articles/66899c3df723a05201ff6c74067d3b2f.json"
@@ -157,6 +281,22 @@
       ],
       "published_at": "2026-10-27T12:33:52.000Z",
       "related": [
+        {
+          "id": "5a8ffcad503a0909bcd31ec74721bafb",
+          "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch. ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108453107-17927880302026-10-23t203930z_644610608_rc2lzna5kzc0_rtrmadp_0_usa-datacenters-nevada.jpeg?v=1792788061&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T19:57:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5a8ffcad503a0909bcd31ec74721bafb.json"
+        },
         {
           "id": "66899c3df723a05201ff6c74067d3b2f",
           "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
@@ -206,9 +346,9 @@
           "path": "articles/aad06cbd62f27b485a00cf8c4bfc17e2.json"
         },
         {
-          "id": "7568c6ab5aa8af5fdbe495603e91ff5e",
-          "title": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
-          "image": "https://image.cnbcfm.com/api/v1/image/108469984-1793123568185-gettyimages-1161635216-dsc_6387_2019071264310858.jpeg?v=1793123593&w=1920&h=1080",
+          "id": "c08ccc9a2960adb62dbfa0cced1f931b",
+          "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
+          "image": "https://image.cnbcfm.com/api/v1/image/108469569-1793115881380-gettyimages-2271074696-BOEING_FACTORY.jpeg?v=1793115913&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -216,26 +356,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T19:49:18.000Z",
+          "published_at": "2026-10-27T20:13:48.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/7568c6ab5aa8af5fdbe495603e91ff5e.json"
-        },
-        {
-          "id": "4d154b6753b92d9a35cc73a4317fb3b3",
-          "title": "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
-          "image": "https://image.cnbcfm.com/api/v1/image/108441926-1792588539537-gettyimages-2300686353-BOEING_737_APPROVAL.jpeg?v=1792588614&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T19:21:20.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4d154b6753b92d9a35cc73a4317fb3b3.json"
+          "path": "articles/c08ccc9a2960adb62dbfa0cced1f931b.json"
         }
       ],
       "path": "articles/88484dc73b8ea6a09ec4f723c29c3624.json"
@@ -273,6 +397,22 @@
       ],
       "published_at": "2026-10-24T17:01:02.000Z",
       "related": [
+        {
+          "id": "5a8ffcad503a0909bcd31ec74721bafb",
+          "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch. ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108453107-17927880302026-10-23t203930z_644610608_rc2lzna5kzc0_rtrmadp_0_usa-datacenters-nevada.jpeg?v=1792788061&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T19:57:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5a8ffcad503a0909bcd31ec74721bafb.json"
+        },
         {
           "id": "66899c3df723a05201ff6c74067d3b2f",
           "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
@@ -336,22 +476,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d376342bb798366cf3e50ceb393855d6.json"
-        },
-        {
-          "id": "6c54fe4592b680544ead662fc1211b70",
-          "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-27T19:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6c54fe4592b680544ead662fc1211b70.json"
         }
       ],
       "path": "articles/d27d34d369b521c2fba53159a4189df0.json"

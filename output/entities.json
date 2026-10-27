@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-27T11:01:23.623Z",
-  "total": 29,
+  "updated_at": "2026-10-27T11:15:51.210Z",
+  "total": 28,
   "entities": [
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 32
+      "count": 33
     },
     {
       "id": "btc",
@@ -19,13 +19,6 @@
       "count": 24
     },
     {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 24
-    },
-    {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
@@ -33,11 +26,11 @@
       "count": 23
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
+      "id": "regulation",
+      "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 12
+      "count": 23
     },
     {
       "id": "anthropic",
@@ -45,6 +38,13 @@
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 12
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 11
     },
@@ -181,15 +181,6 @@
       "name": "JPMorgan",
       "type": "company",
       "path": "tickers/jpm.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "ma",
-      "symbol": "MA",
-      "name": "Mastercard",
-      "type": "company",
-      "path": "tickers/ma.json",
       "icon": "",
       "count": 1
     },

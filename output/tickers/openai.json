@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27T16:45:51.647Z",
+  "updated_at": "2026-10-27T17:16:45.168Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "66899c3df723a05201ff6c74067d3b2f",
@@ -13,7 +13,7 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108410314-1792006490122-gettyimages-2297502760-boivin-photoill261001_npTPF.jpeg?v=1792024446&w=1920&h=1080",
+      "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793120065&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -39,7 +39,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-10-27T16:28:16.000Z",
+      "published_at": "2026-10-27T16:55:57.000Z",
       "related": [
         {
           "id": "88484dc73b8ea6a09ec4f723c29c3624",
@@ -74,6 +74,98 @@
           "path": "articles/f7c2b01cc1fd788f1a936aea670454de.json"
         },
         {
+          "id": "49a9f6d85b45a096f5e2882284e2a299",
+          "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-27T16:53:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
+        },
+        {
+          "id": "bfea4a5204f3b278cc65d2b9974c635d",
+          "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T21:46:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bfea4a5204f3b278cc65d2b9974c635d.json"
+        },
+        {
+          "id": "c7aa97e0a0db50bff9f01801eaf88991",
+          "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c7aa97e0a0db50bff9f01801eaf88991.json"
+        }
+      ],
+      "path": "articles/66899c3df723a05201ff6c74067d3b2f.json"
+    },
+    {
+      "id": "49a9f6d85b45a096f5e2882284e2a299",
+      "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+      "description": "A new OpenAI paper declares ETH false, a claim that hundreds of research papers lean on. Crypto Twitter degens and serious mathematicians are abuzz.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-27T16:53:13.000Z",
+      "related": [
+        {
           "id": "bfea4a5204f3b278cc65d2b9974c635d",
           "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
@@ -106,9 +198,25 @@
           "path": "articles/c7aa97e0a0db50bff9f01801eaf88991.json"
         },
         {
-          "id": "d27d34d369b521c2fba53159a4189df0",
-          "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
+          "id": "7741977db9d153c11c53435feffe3a26",
+          "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T16:05:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7741977db9d153c11c53435feffe3a26.json"
+        },
+        {
+          "id": "bb2a699e29669f22c9b1c79171dbec78",
+          "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/tom-lee-decrypt-style-04-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -116,13 +224,29 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-24T17:01:02.000Z",
+          "published_at": "2026-10-26T15:36:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d27d34d369b521c2fba53159a4189df0.json"
+          "path": "articles/bb2a699e29669f22c9b1c79171dbec78.json"
+        },
+        {
+          "id": "f7c2b01cc1fd788f1a936aea670454de",
+          "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-ai-chatgpt-gemini-claude-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-24T16:01:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f7c2b01cc1fd788f1a936aea670454de.json"
         }
       ],
-      "path": "articles/66899c3df723a05201ff6c74067d3b2f.json"
+      "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
     },
     {
       "id": "bfea4a5204f3b278cc65d2b9974c635d",
@@ -158,6 +282,22 @@
       "published_at": "2026-10-26T21:46:02.000Z",
       "related": [
         {
+          "id": "49a9f6d85b45a096f5e2882284e2a299",
+          "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-27T16:53:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
+        },
+        {
           "id": "c7aa97e0a0db50bff9f01801eaf88991",
           "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
@@ -192,7 +332,7 @@
         {
           "id": "66899c3df723a05201ff6c74067d3b2f",
           "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-          "image": "https://image.cnbcfm.com/api/v1/image/108410314-1792006490122-gettyimages-2297502760-boivin-photoill261001_npTPF.jpeg?v=1792024446&w=1920&h=1080",
+          "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793120065&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -200,7 +340,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T16:28:16.000Z",
+          "published_at": "2026-10-27T16:55:57.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/66899c3df723a05201ff6c74067d3b2f.json"
@@ -220,22 +360,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/649d68ee6be05bd09bb87ccd8b0c45fa.json"
-        },
-        {
-          "id": "fb166d6bad7d2e7c4fd1dfa79b7f02b6",
-          "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-27T13:52:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fb166d6bad7d2e7c4fd1dfa79b7f02b6.json"
         }
       ],
       "path": "articles/bfea4a5204f3b278cc65d2b9974c635d.json"
@@ -274,6 +398,22 @@
       "published_at": "2026-10-26T21:16:03.000Z",
       "related": [
         {
+          "id": "49a9f6d85b45a096f5e2882284e2a299",
+          "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-27T16:53:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
+        },
+        {
           "id": "bfea4a5204f3b278cc65d2b9974c635d",
           "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
@@ -308,7 +448,7 @@
         {
           "id": "66899c3df723a05201ff6c74067d3b2f",
           "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-          "image": "https://image.cnbcfm.com/api/v1/image/108410314-1792006490122-gettyimages-2297502760-boivin-photoill261001_npTPF.jpeg?v=1792024446&w=1920&h=1080",
+          "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793120065&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -316,7 +456,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T16:28:16.000Z",
+          "published_at": "2026-10-27T16:55:57.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/66899c3df723a05201ff6c74067d3b2f.json"
@@ -336,22 +476,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bac72e6d3a2d425317a6c3a7a767d573.json"
-        },
-        {
-          "id": "ff204a61a05ef8116c1e3985c93863d7",
-          "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/brazil-technology-shutterstock_1201705168-16x9-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-26T16:04:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 90,
-          "path": "articles/ff204a61a05ef8116c1e3985c93863d7.json"
         }
       ],
       "path": "articles/c7aa97e0a0db50bff9f01801eaf88991.json"
@@ -406,9 +530,9 @@
       "published_at": "2026-10-24T16:01:03.000Z",
       "related": [
         {
-          "id": "5832b32da03e238296421931533fa399",
-          "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/photo-collage.png-1-gID_7.png@png",
+          "id": "49a9f6d85b45a096f5e2882284e2a299",
+          "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -416,10 +540,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-23T17:53:29.000Z",
+          "published_at": "2026-10-27T16:53:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5832b32da03e238296421931533fa399.json"
+          "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
         },
         {
           "id": "bfea4a5204f3b278cc65d2b9974c635d",

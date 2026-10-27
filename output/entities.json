@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-10-27T08:15:51.363Z",
-  "total": 28,
+  "updated_at": "2026-10-27T08:31:04.580Z",
+  "total": 29,
   "entities": [
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 33
+      "count": 34
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 24
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 23
     },
     {
       "id": "btc",
@@ -23,14 +30,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 24
+      "count": 23
     },
     {
       "id": "stablecoin",
@@ -174,6 +174,15 @@
       "type": "topic",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "ma",

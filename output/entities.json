@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T10:45:47.661Z",
-  "total": 27,
+  "updated_at": "2026-10-28T11:01:30.028Z",
+  "total": 26,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,21 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 28
+      "count": 26
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 25
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 24
     },
     {
       "id": "regulation",
@@ -17,20 +31,6 @@
       "type": "topic",
       "icon": "",
       "count": 24
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 23
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 23
     },
     {
       "id": "stablecoin",
@@ -65,10 +65,12 @@
       "count": 6
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
       "count": 5
     },
     {
@@ -81,13 +83,20 @@
       "count": 4
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 4
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 3
     },
     {
       "id": "intc",
@@ -113,6 +122,15 @@
       "type": "topic",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 2
     },
     {
       "id": "tsla",
@@ -146,15 +164,6 @@
       "type": "company",
       "path": "tickers/amzn.json",
       "icon": "https://logo.clearbit.com/amazon.com",
-      "count": 2
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 2
     },
     {
@@ -192,15 +201,6 @@
       "count": 1
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 1
-    },
-    {
       "id": "doge",
       "symbol": "DOGE",
       "name": "Dogecoin",
@@ -216,15 +216,6 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 1
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
       "count": 1
     }
   ]

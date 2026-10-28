@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-28T19:15:49.320Z",
+  "updated_at": "2026-10-28T19:31:06.284Z",
   "articles": {
-    "generated_at": "2026-10-28T19:15:49.320Z",
+    "generated_at": "2026-10-28T19:31:06.284Z",
     "topics": [
       {
         "id": "crypto",
@@ -160,6 +160,34 @@
         "count": 24,
         "articles": [
           {
+            "id": "aedecf509a8ff67e4118ad5829f6061e",
+            "title": "Microsoft will post earnings after the bell amid job cuts and new cash-flow test",
+            "image": "https://image.cnbcfm.com/api/v1/image/108471082-1793137958265-gettyimages-2300588268-AFP_D3UD8G4.jpeg?v=1793138226&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-28T19:19:38.000Z",
+            "path": "articles/aedecf509a8ff67e4118ad5829f6061e.json"
+          },
+          {
+            "id": "b5b9900e0b7f30939e77e88f94a1c990",
+            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-28T19:16:02.000Z",
+            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
+          },
+          {
             "id": "c64371627b33f1abbdc75308a4c0003f",
             "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
             "image": "",
@@ -244,20 +272,6 @@
             "path": "articles/28a703f51857353ea0a8d3628d769194.json"
           },
           {
-            "id": "aedecf509a8ff67e4118ad5829f6061e",
-            "title": "Microsoft earnings will land after the close",
-            "image": "https://image.cnbcfm.com/api/v1/image/108471082-1793137958265-gettyimages-2300588268-AFP_D3UD8G4.jpeg?v=1793138226&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-28T16:00:01.000Z",
-            "path": "articles/aedecf509a8ff67e4118ad5829f6061e.json"
-          },
-          {
             "id": "c39eb7c44b77a4d03fab771b5a9f690a",
             "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
             "image": "https://image.cnbcfm.com/api/v1/image/108320522-1781203657285-gettyimages-2278740251-ecp_ws_260602_dsc_2551.jpeg?v=1781203687&w=1920&h=1080",
@@ -284,20 +298,6 @@
             "category": "stocks",
             "published_at": "2026-10-28T13:52:27.000Z",
             "path": "articles/832c99b57d8293c812b0365c786c17dc.json"
-          },
-          {
-            "id": "ad67d89e6f49b72519b42f9c7a45e716",
-            "title": "House Oversight Chair Comer Probes Delaware Plan for AI-Run Companies",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-17-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T13:38:08.000Z",
-            "path": "articles/ad67d89e6f49b72519b42f9c7a45e716.json"
           }
         ]
       },
@@ -860,8 +860,22 @@
         "name": "Google",
         "type": "company",
         "icon": "https://logo.clearbit.com/google.com",
-        "count": 6,
+        "count": 7,
         "articles": [
+          {
+            "id": "b5b9900e0b7f30939e77e88f94a1c990",
+            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-28T19:16:02.000Z",
+            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
+          },
           {
             "id": "56a2af8a1e6b574f4dbaaf75e07b6839",
             "title": "Options traders break down a massive Alphabet trade into earnings",
@@ -1038,6 +1052,71 @@
             "category": "crypto",
             "published_at": "2026-10-27T10:16:46.000Z",
             "path": "articles/238d0611bea3473cf34896b6aa4339ef.json"
+          }
+        ]
+      },
+      {
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
+        "icon": "",
+        "count": 4,
+        "articles": [
+          {
+            "id": "b5b9900e0b7f30939e77e88f94a1c990",
+            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-28T19:16:02.000Z",
+            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
+          },
+          {
+            "id": "49a9f6d85b45a096f5e2882284e2a299",
+            "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-27T16:53:13.000Z",
+            "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
+          },
+          {
+            "id": "bfea4a5204f3b278cc65d2b9974c635d",
+            "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-26T21:46:02.000Z",
+            "path": "articles/bfea4a5204f3b278cc65d2b9974c635d.json"
+          },
+          {
+            "id": "c7aa97e0a0db50bff9f01801eaf88991",
+            "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-26T21:16:03.000Z",
+            "path": "articles/c7aa97e0a0db50bff9f01801eaf88991.json"
           }
         ]
       },
@@ -1297,57 +1376,6 @@
         ]
       },
       {
-        "id": "openai",
-        "name": "OpenAI",
-        "type": "company",
-        "icon": "",
-        "count": 3,
-        "articles": [
-          {
-            "id": "49a9f6d85b45a096f5e2882284e2a299",
-            "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-27T16:53:13.000Z",
-            "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
-          },
-          {
-            "id": "bfea4a5204f3b278cc65d2b9974c635d",
-            "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-26T21:46:02.000Z",
-            "path": "articles/bfea4a5204f3b278cc65d2b9974c635d.json"
-          },
-          {
-            "id": "c7aa97e0a0db50bff9f01801eaf88991",
-            "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-26T21:16:03.000Z",
-            "path": "articles/c7aa97e0a0db50bff9f01801eaf88991.json"
-          }
-        ]
-      },
-      {
         "id": "mining",
         "name": "Mining",
         "type": "topic",
@@ -1406,6 +1434,20 @@
         "count": 2,
         "articles": [
           {
+            "id": "aedecf509a8ff67e4118ad5829f6061e",
+            "title": "Microsoft will post earnings after the bell amid job cuts and new cash-flow test",
+            "image": "https://image.cnbcfm.com/api/v1/image/108471082-1793137958265-gettyimages-2300588268-AFP_D3UD8G4.jpeg?v=1793138226&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-28T19:19:38.000Z",
+            "path": "articles/aedecf509a8ff67e4118ad5829f6061e.json"
+          },
+          {
             "id": "56a2af8a1e6b574f4dbaaf75e07b6839",
             "title": "Options traders break down a massive Alphabet trade into earnings",
             "image": "https://image.cnbcfm.com/api/v1/image/108285958-1775048847413-gettyimages-2269291716-6e6a0716_copy_dwyr67au.jpeg?v=1789052684&w=1920&h=1080",
@@ -1418,20 +1460,6 @@
             "category": "stocks",
             "published_at": "2026-10-28T19:01:03.000Z",
             "path": "articles/56a2af8a1e6b574f4dbaaf75e07b6839.json"
-          },
-          {
-            "id": "aedecf509a8ff67e4118ad5829f6061e",
-            "title": "Microsoft earnings will land after the close",
-            "image": "https://image.cnbcfm.com/api/v1/image/108471082-1793137958265-gettyimages-2300588268-AFP_D3UD8G4.jpeg?v=1793138226&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-28T16:00:01.000Z",
-            "path": "articles/aedecf509a8ff67e4118ad5829f6061e.json"
           }
         ]
       },
@@ -1543,6 +1571,29 @@
             "category": "crypto",
             "published_at": "2026-10-27T16:53:13.000Z",
             "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
+          }
+        ]
+      },
+      {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "b5b9900e0b7f30939e77e88f94a1c990",
+            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-28T19:16:02.000Z",
+            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
           }
         ]
       },

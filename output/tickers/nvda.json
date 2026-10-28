@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T16:01:30.956Z",
+  "updated_at": "2026-10-28T19:31:06.270Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
@@ -7,29 +7,21 @@
   "total": 1,
   "articles": [
     {
-      "id": "529a9cf22e5afc488b62677ea410c80d",
-      "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-      "description": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
+      "id": "b5b9900e0b7f30939e77e88f94a1c990",
+      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+      "description": "OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108467546-1793083979300-gettyimages-2286903422-avdjuly26lot2j.jpeg?v=1793083990&w=1920&h=1080",
+      "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
-        {
-          "id": "aapl",
-          "symbol": "AAPL",
-          "name": "Apple",
-          "type": "company",
-          "path": "tickers/aapl.json",
-          "icon": "https://logo.clearbit.com/apple.com"
-        },
         {
           "id": "nvda",
           "symbol": "NVDA",
@@ -39,52 +31,34 @@
           "icon": "https://logo.clearbit.com/nvidia.com"
         },
         {
-          "id": "spacex",
-          "symbol": "SPACEX",
-          "name": "SpaceX",
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
           "type": "company",
-          "path": "tickers/spacex.json",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-10-28T00:14:24.000Z",
+      "published_at": "2026-10-28T19:16:02.000Z",
       "related": [
         {
-          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
-          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-09-30T18:30:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 45,
-          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
-        },
-        {
-          "id": "bd410a9492ae36d69bff525c9873f06e",
-          "title": "Musk's PAC lawyer runs in Texas House district that is home to billionaire's business interests",
-          "image": "https://image.cnbcfm.com/api/v1/image/108448671-1792703215956-Trump-26281054441770-AP.jpg?v=1792703311&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-28T10:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bd410a9492ae36d69bff525c9873f06e.json"
-        },
-        {
-          "id": "3815bbd4cc0eebe116572e644de806a4",
-          "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/elon-musk-decrypt-style-01-gID_7.png@png",
+          "id": "49a9f6d85b45a096f5e2882284e2a299",
+          "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -92,15 +66,47 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-26T18:16:02.000Z",
+          "published_at": "2026-10-27T16:53:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3815bbd4cc0eebe116572e644de806a4.json"
+          "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
         },
         {
-          "id": "26de718cf691f62abf2fc3dae1697092",
-          "title": "Jim Cramer sees buying opportunities in these 2 beaten-down stocks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108371276-1790880093675-gettyimages-2271074553-BOEING_FACTORY.jpeg?v=1790880143&w=1920&h=1080",
+          "id": "bfea4a5204f3b278cc65d2b9974c635d",
+          "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T21:46:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bfea4a5204f3b278cc65d2b9974c635d.json"
+        },
+        {
+          "id": "c7aa97e0a0db50bff9f01801eaf88991",
+          "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c7aa97e0a0db50bff9f01801eaf88991.json"
+        },
+        {
+          "id": "0bf5537ff99452051d02f014f2a40194",
+          "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
+          "image": "https://image.cnbcfm.com/api/v1/image/108340158-1784939177232-gettyimages-2262037694-INDIA_AI_SUMMIT.jpeg?v=1784939331&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -108,29 +114,29 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-28T15:56:23.000Z",
+          "published_at": "2026-10-28T16:33:22.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/26de718cf691f62abf2fc3dae1697092.json"
+          "path": "articles/0bf5537ff99452051d02f014f2a40194.json"
         },
         {
-          "id": "eaf5095f856bb5c93024071595892fcd",
-          "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
-          "image": "https://image.cnbcfm.com/api/v1/image/108472576-1793163135126-gettyimages-2301839789-INDIA_JIO_IPO.jpeg?v=1793163164&w=1920&h=1080",
+          "id": "dd7f22c2fba90f807ea125c2daf196a5",
+          "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-28T07:48:35.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-28T13:47:51.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/eaf5095f856bb5c93024071595892fcd.json"
+          "breaking_score": 0,
+          "path": "articles/dd7f22c2fba90f807ea125c2daf196a5.json"
         }
       ],
-      "path": "articles/529a9cf22e5afc488b62677ea410c80d.json"
+      "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
     }
   ]
 }

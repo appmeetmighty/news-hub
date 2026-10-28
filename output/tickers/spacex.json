@@ -1,11 +1,137 @@
 {
-  "updated_at": "2026-10-28T00:01:19.590Z",
+  "updated_at": "2026-10-28T00:15:46.165Z",
   "id": "spacex",
   "symbol": "SPACEX",
   "name": "SpaceX",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
+    {
+      "id": "529a9cf22e5afc488b62677ea410c80d",
+      "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+      "description": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108467546-1793083979300-gettyimages-2286903422-avdjuly26lot2j.jpeg?v=1793083990&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
+          "type": "company",
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-28T00:14:24.000Z",
+      "related": [
+        {
+          "id": "25438a39ef23b8455eab80a48b4ecf2d",
+          "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+          "image": "https://image.cnbcfm.com/api/v1/image/108443817-1792619674080-gettyimages-2296215637-META_CONNECT.jpeg?v=1792795588&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T14:19:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/25438a39ef23b8455eab80a48b4ecf2d.json"
+        },
+        {
+          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
+          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+          "image": "",
+          "source": {
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
+          },
+          "category": "stocks",
+          "published_at": "2026-09-30T18:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
+        },
+        {
+          "id": "c1b135b21b1399a5a7d25610ff1ef3a0",
+          "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WWZSHJKJSXHRGBMZY1WZXE/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T21:23:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c1b135b21b1399a5a7d25610ff1ef3a0.json"
+        },
+        {
+          "id": "3815bbd4cc0eebe116572e644de806a4",
+          "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/elon-musk-decrypt-style-01-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-26T18:16:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3815bbd4cc0eebe116572e644de806a4.json"
+        },
+        {
+          "id": "85698d974f0c8022b6020418d20dd8ca",
+          "title": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
+          "image": "https://image.cnbcfm.com/api/v1/image/107109966-NUP_198430_00164r.jpg?v=1695081285&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T22:24:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/85698d974f0c8022b6020418d20dd8ca.json"
+        }
+      ],
+      "path": "articles/529a9cf22e5afc488b62677ea410c80d.json"
+    },
     {
       "id": "3815bbd4cc0eebe116572e644de806a4",
       "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
@@ -47,6 +173,22 @@
       ],
       "published_at": "2026-10-26T18:16:02.000Z",
       "related": [
+        {
+          "id": "529a9cf22e5afc488b62677ea410c80d",
+          "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108467546-1793083979300-gettyimages-2286903422-avdjuly26lot2j.jpeg?v=1793083990&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-28T00:14:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/529a9cf22e5afc488b62677ea410c80d.json"
+        },
         {
           "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
           "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
@@ -110,22 +252,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4d1b839fdac633b2b4ea830bfdb06662.json"
-        },
-        {
-          "id": "d376342bb798366cf3e50ceb393855d6",
-          "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-27T19:46:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d376342bb798366cf3e50ceb393855d6.json"
         }
       ],
       "path": "articles/3815bbd4cc0eebe116572e644de806a4.json"
@@ -163,6 +289,22 @@
       ],
       "published_at": "2026-09-30T18:30:01.000Z",
       "related": [
+        {
+          "id": "529a9cf22e5afc488b62677ea410c80d",
+          "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108467546-1793083979300-gettyimages-2286903422-avdjuly26lot2j.jpeg?v=1793083990&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-28T00:14:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/529a9cf22e5afc488b62677ea410c80d.json"
+        },
         {
           "id": "3815bbd4cc0eebe116572e644de806a4",
           "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
@@ -226,22 +368,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/075ce6af2ce25fc8df3c3ccaf03fca8e.json"
-        },
-        {
-          "id": "a23c30c67e6084e92f53fbce939f5b6c",
-          "title": "  SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-10-05T12:47:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/a23c30c67e6084e92f53fbce939f5b6c.json"
         }
       ],
       "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"

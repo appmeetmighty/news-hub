@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T04:31:10.350Z",
+  "updated_at": "2026-10-28T04:45:50.033Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
@@ -7,21 +7,29 @@
   "total": 5,
   "articles": [
     {
-      "id": "3443e092e1807d1edca252d8fcecec46",
-      "title": "Discord is making public chats searchable on Google: How to opt out",
-      "description": "Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns.",
+      "id": "eaf5095f856bb5c93024071595892fcd",
+      "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+      "description": "",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZZEMKGWAD6V4EFK256AYBC/hi-hack-overview-discord.jpg",
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108411728-1792027240556-gettyimages-2299270609-DSC_0647.jpeg?v=1792027280&w=1920&h=1080",
       "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
         {
           "id": "googl",
           "symbol": "GOOGL",
@@ -31,7 +39,7 @@
           "icon": "https://logo.clearbit.com/google.com"
         }
       ],
-      "published_at": "2026-10-28T00:47:04.000Z",
+      "published_at": "2026-10-28T04:34:52.000Z",
       "related": [
         {
           "id": "26f6d95967974c49937d547f15c4368e",
@@ -82,9 +90,25 @@
           "path": "articles/84efdd8203e13249a76086e089964239.json"
         },
         {
-          "id": "66899c3df723a05201ff6c74067d3b2f",
-          "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-          "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&w=1920&h=1080",
+          "id": "3443e092e1807d1edca252d8fcecec46",
+          "title": "Discord is making public chats searchable on Google: How to opt out",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZZEMKGWAD6V4EFK256AYBC/hi-hack-overview-discord.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-28T00:47:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3443e092e1807d1edca252d8fcecec46.json"
+        },
+        {
+          "id": "da7d098cd9383e03256a77cbf61e60a6",
+          "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+          "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -92,10 +116,104 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T19:51:41.000Z",
+          "published_at": "2026-10-28T01:56:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/da7d098cd9383e03256a77cbf61e60a6.json"
+        }
+      ],
+      "path": "articles/eaf5095f856bb5c93024071595892fcd.json"
+    },
+    {
+      "id": "3443e092e1807d1edca252d8fcecec46",
+      "title": "Discord is making public chats searchable on Google: How to opt out",
+      "description": "Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZZEMKGWAD6V4EFK256AYBC/hi-hack-overview-discord.jpg",
+      "source": {
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        }
+      ],
+      "published_at": "2026-10-28T00:47:04.000Z",
+      "related": [
+        {
+          "id": "eaf5095f856bb5c93024071595892fcd",
+          "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+          "image": "https://image.cnbcfm.com/api/v1/image/108411728-1792027240556-gettyimages-2299270609-DSC_0647.jpeg?v=1792027280&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-28T04:34:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/eaf5095f856bb5c93024071595892fcd.json"
+        },
+        {
+          "id": "26f6d95967974c49937d547f15c4368e",
+          "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+          "image": "https://image.cnbcfm.com/api/v1/image/108470598-17931333942026-10-26t203636z_273947229_rc28boae0ddl_rtrmadp_0_anthropic-ipo.jpeg?v=1793133420&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T23:03:09.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/66899c3df723a05201ff6c74067d3b2f.json"
+          "path": "articles/26f6d95967974c49937d547f15c4368e.json"
+        },
+        {
+          "id": "5a8ffcad503a0909bcd31ec74721bafb",
+          "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch. ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108453107-17927880302026-10-23t203930z_644610608_rc2lzna5kzc0_rtrmadp_0_usa-datacenters-nevada.jpeg?v=1793136504&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T21:58:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5a8ffcad503a0909bcd31ec74721bafb.json"
+        },
+        {
+          "id": "84efdd8203e13249a76086e089964239",
+          "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+          "image": "https://image.cnbcfm.com/api/v1/image/108470362-1793130525362-CNBC_WEC_SMMT_BB_102726_0840.jpg?v=1793130632&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T21:15:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/84efdd8203e13249a76086e089964239.json"
         },
         {
           "id": "8af9794d15ea0d52d1ed5942a49befe2",
@@ -184,6 +302,22 @@
           "path": "articles/aad06cbd62f27b485a00cf8c4bfc17e2.json"
         },
         {
+          "id": "eaf5095f856bb5c93024071595892fcd",
+          "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+          "image": "https://image.cnbcfm.com/api/v1/image/108411728-1792027240556-gettyimages-2299270609-DSC_0647.jpeg?v=1792027280&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-28T04:34:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/eaf5095f856bb5c93024071595892fcd.json"
+        },
+        {
           "id": "5a8ffcad503a0909bcd31ec74721bafb",
           "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch. ",
           "image": "https://image.cnbcfm.com/api/v1/image/108453107-17927880302026-10-23t203930z_644610608_rc2lzna5kzc0_rtrmadp_0_usa-datacenters-nevada.jpeg?v=1793136504&w=1920&h=1080",
@@ -214,22 +348,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/84efdd8203e13249a76086e089964239.json"
-        },
-        {
-          "id": "66899c3df723a05201ff6c74067d3b2f",
-          "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-          "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T19:51:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/66899c3df723a05201ff6c74067d3b2f.json"
         }
       ],
       "path": "articles/26f6d95967974c49937d547f15c4368e.json"
@@ -276,9 +394,9 @@
       "published_at": "2026-10-27T21:58:48.000Z",
       "related": [
         {
-          "id": "66899c3df723a05201ff6c74067d3b2f",
-          "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-          "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&w=1920&h=1080",
+          "id": "eaf5095f856bb5c93024071595892fcd",
+          "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+          "image": "https://image.cnbcfm.com/api/v1/image/108411728-1792027240556-gettyimages-2299270609-DSC_0647.jpeg?v=1792027280&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -286,10 +404,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T19:51:41.000Z",
+          "published_at": "2026-10-28T04:34:52.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/66899c3df723a05201ff6c74067d3b2f.json"
+          "breaking_score": 20,
+          "path": "articles/eaf5095f856bb5c93024071595892fcd.json"
         },
         {
           "id": "26f6d95967974c49937d547f15c4368e",
@@ -400,9 +518,9 @@
       "published_at": "2026-10-27T21:15:35.000Z",
       "related": [
         {
-          "id": "66899c3df723a05201ff6c74067d3b2f",
-          "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-          "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&w=1920&h=1080",
+          "id": "eaf5095f856bb5c93024071595892fcd",
+          "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+          "image": "https://image.cnbcfm.com/api/v1/image/108411728-1792027240556-gettyimages-2299270609-DSC_0647.jpeg?v=1792027280&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -410,10 +528,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T19:51:41.000Z",
+          "published_at": "2026-10-28T04:34:52.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/66899c3df723a05201ff6c74067d3b2f.json"
+          "breaking_score": 20,
+          "path": "articles/eaf5095f856bb5c93024071595892fcd.json"
         },
         {
           "id": "26f6d95967974c49937d547f15c4368e",
@@ -481,124 +599,6 @@
         }
       ],
       "path": "articles/84efdd8203e13249a76086e089964239.json"
-    },
-    {
-      "id": "66899c3df723a05201ff6c74067d3b2f",
-      "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-      "description": "Oracle is integrating OpenAI’s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI’s Jalapeño chip to OCI.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "googl",
-          "symbol": "GOOGL",
-          "name": "Google",
-          "type": "company",
-          "path": "tickers/googl.json",
-          "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-27T19:51:41.000Z",
-      "related": [
-        {
-          "id": "84efdd8203e13249a76086e089964239",
-          "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
-          "image": "https://image.cnbcfm.com/api/v1/image/108470362-1793130525362-CNBC_WEC_SMMT_BB_102726_0840.jpg?v=1793130632&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T21:15:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/84efdd8203e13249a76086e089964239.json"
-        },
-        {
-          "id": "5a8ffcad503a0909bcd31ec74721bafb",
-          "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch. ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108453107-17927880302026-10-23t203930z_644610608_rc2lzna5kzc0_rtrmadp_0_usa-datacenters-nevada.jpeg?v=1793136504&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T21:58:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5a8ffcad503a0909bcd31ec74721bafb.json"
-        },
-        {
-          "id": "26f6d95967974c49937d547f15c4368e",
-          "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-          "image": "https://image.cnbcfm.com/api/v1/image/108470598-17931333942026-10-26t203636z_273947229_rc28boae0ddl_rtrmadp_0_anthropic-ipo.jpeg?v=1793133420&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T23:03:09.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/26f6d95967974c49937d547f15c4368e.json"
-        },
-        {
-          "id": "3443e092e1807d1edca252d8fcecec46",
-          "title": "Discord is making public chats searchable on Google: How to opt out",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZZEMKGWAD6V4EFK256AYBC/hi-hack-overview-discord.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T00:47:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3443e092e1807d1edca252d8fcecec46.json"
-        },
-        {
-          "id": "49a9f6d85b45a096f5e2882284e2a299",
-          "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-27T16:53:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
-        }
-      ],
-      "path": "articles/66899c3df723a05201ff6c74067d3b2f.json"
     }
   ]
 }

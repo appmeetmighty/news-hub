@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-28T16:15:52.649Z",
-  "total": 27,
+  "updated_at": "2026-10-28T16:31:12.819Z",
+  "total": 28,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 25
     },
     {
       "id": "regulation",
@@ -17,6 +17,15 @@
       "count": 24
     },
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 23
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
@@ -24,24 +33,15 @@
       "count": 23
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 11
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 12
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 11
@@ -63,6 +63,13 @@
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
       "count": 6
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "jpm",
@@ -88,13 +95,6 @@
       "name": "SpaceX",
       "type": "company",
       "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
       "icon": "",
       "count": 3
     },
@@ -167,6 +167,15 @@
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
       "count": 2
+    },
+    {
+      "id": "meta",
+      "symbol": "META",
+      "name": "Meta",
+      "type": "company",
+      "path": "tickers/meta.json",
+      "icon": "https://logo.clearbit.com/meta.com",
+      "count": 1
     },
     {
       "id": "defi",

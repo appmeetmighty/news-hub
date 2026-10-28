@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-10-28T12:15:51.471Z",
+  "updated_at": "2026-10-28T12:31:09.487Z",
   "total": 26,
   "entities": [
-    {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
-    },
     {
       "id": "regulation",
       "name": "Regulation",
@@ -26,6 +17,15 @@
       "count": 24
     },
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 24
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
@@ -37,7 +37,16 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 13
+      "count": 14
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 9
     },
     {
       "id": "blockchain",
@@ -47,22 +56,13 @@
       "count": 9
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 8
-    },
-    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 5
+      "count": 4
     },
     {
       "id": "spacex",
@@ -70,22 +70,6 @@
       "name": "SpaceX",
       "type": "company",
       "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 4
     },
@@ -105,6 +89,13 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 3
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 3
     },
     {
@@ -129,6 +120,15 @@
       "id": "mining",
       "name": "Mining",
       "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
     },

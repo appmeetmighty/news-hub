@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-28T02:15:48.023Z",
+  "updated_at": "2026-10-28T02:31:06.582Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
   "type": "company",
-  "total": 3,
+  "total": 2,
   "articles": [
     {
       "id": "529a9cf22e5afc488b62677ea410c80d",
@@ -49,22 +49,6 @@
       ],
       "published_at": "2026-10-28T00:14:24.000Z",
       "related": [
-        {
-          "id": "25438a39ef23b8455eab80a48b4ecf2d",
-          "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-          "image": "https://image.cnbcfm.com/api/v1/image/108443817-1792619674080-gettyimages-2296215637-META_CONNECT.jpeg?v=1792795588&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T14:19:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/25438a39ef23b8455eab80a48b4ecf2d.json"
-        },
         {
           "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
           "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
@@ -128,141 +112,25 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/da7d098cd9383e03256a77cbf61e60a6.json"
+        },
+        {
+          "id": "85698d974f0c8022b6020418d20dd8ca",
+          "title": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
+          "image": "https://image.cnbcfm.com/api/v1/image/107109966-NUP_198430_00164r.jpg?v=1695081285&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-27T22:24:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/85698d974f0c8022b6020418d20dd8ca.json"
         }
       ],
       "path": "articles/529a9cf22e5afc488b62677ea410c80d.json"
-    },
-    {
-      "id": "25438a39ef23b8455eab80a48b4ecf2d",
-      "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-      "description": "Meta on Monday announced plans to raise a total of $95 billion to support its investments in artificial intelligence infrastructure.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108443817-1792619674080-gettyimages-2296215637-META_CONNECT.jpeg?v=1792795588&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
-        {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
-          "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
-        },
-        {
-          "id": "amd",
-          "symbol": "AMD",
-          "name": "AMD",
-          "type": "company",
-          "path": "tickers/amd.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-27T14:19:36.000Z",
-      "related": [
-        {
-          "id": "529a9cf22e5afc488b62677ea410c80d",
-          "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108467546-1793083979300-gettyimages-2286903422-avdjuly26lot2j.jpeg?v=1793083990&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-28T00:14:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/529a9cf22e5afc488b62677ea410c80d.json"
-        },
-        {
-          "id": "c1b135b21b1399a5a7d25610ff1ef3a0",
-          "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WWZSHJKJSXHRGBMZY1WZXE/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-26T21:23:32.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c1b135b21b1399a5a7d25610ff1ef3a0.json"
-        },
-        {
-          "id": "da7d098cd9383e03256a77cbf61e60a6",
-          "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
-          "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-28T01:56:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/da7d098cd9383e03256a77cbf61e60a6.json"
-        },
-        {
-          "id": "4d33ff38da7af3fd319f5a10aa7766a2",
-          "title": "Anthropic's IPO is risky business",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-28T00:43:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4d33ff38da7af3fd319f5a10aa7766a2.json"
-        },
-        {
-          "id": "34f7919084980b36e5145a2dccb23738",
-          "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-          "image": "https://image.cnbcfm.com/api/v1/image/107081985-1656438324079-cass.jpg?v=1656438387&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T23:50:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/34f7919084980b36e5145a2dccb23738.json"
-        }
-      ],
-      "path": "articles/25438a39ef23b8455eab80a48b4ecf2d.json"
     },
     {
       "id": "c1b135b21b1399a5a7d25610ff1ef3a0",
@@ -320,22 +188,6 @@
           "path": "articles/529a9cf22e5afc488b62677ea410c80d.json"
         },
         {
-          "id": "25438a39ef23b8455eab80a48b4ecf2d",
-          "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-          "image": "https://image.cnbcfm.com/api/v1/image/108443817-1792619674080-gettyimages-2296215637-META_CONNECT.jpeg?v=1792795588&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-27T14:19:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/25438a39ef23b8455eab80a48b4ecf2d.json"
-        },
-        {
           "id": "e864d3ab580b67023d06f9eaeeba4341",
           "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZJHJBWY657RY1S76WDA6QD/hi-goldman-sachs-and-bitcoin-etf.png",
@@ -366,6 +218,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/72496d9d850d6a497d95656aecc43719.json"
+        },
+        {
+          "id": "c84544c6bbbfbe0badd778fd4f539f79",
+          "title": "Bithumb discloses data leak after internal system breach: Report",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-28T02:18:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c84544c6bbbfbe0badd778fd4f539f79.json"
         },
         {
           "id": "3443e092e1807d1edca252d8fcecec46",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T17:45:52.579Z",
+  "updated_at": "2026-10-29T17:51:02.014Z",
   "total": 28,
   "entities": [
     {
@@ -46,7 +46,7 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 7
+      "count": 6
     },
     {
       "id": "sol",
@@ -81,12 +81,10 @@
       "count": 4
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
       "count": 3
     },
     {
@@ -99,19 +97,12 @@
       "count": 2
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 2
     },
     {
@@ -163,6 +154,15 @@
       "name": "Bank of America",
       "type": "company",
       "path": "tickers/bac.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
       "count": 1
     },

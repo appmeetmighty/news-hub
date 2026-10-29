@@ -1,7 +1,7 @@
 {
   "id": "80e8a441e4d7ede9d04cd3cdb7d2d42c",
-  "title": "Binance investigates potential multibillion-dollar hack",
-  "description": "Binance said it is investigating a potential security breach after suspicious wallet transfers, while co-founder CZ reported nearly $1.8 billion in frozen stablecoins.",
+  "title": "Binance hacked for over $5.8B in massive crypto exploit",
+  "description": "Binance is investigating a multibillion-dollar security breach involving its Ethereum wallets, with Tether and Circle freezing more than $2.36 billion in stablecoins.",
   "reading_time_minutes": 1,
   "breaking_score": 100,
   "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -13,24 +13,39 @@
     "icon": "https://logo.clearbit.com/cointelegraph.com"
   },
   "category": "crypto",
-  "entities": [],
+  "entities": [
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": ""
+    }
+  ],
   "published_at": "2026-10-29T21:24:36.000Z",
   "related": [
     {
-      "id": "10b7b39a1e1dfdc118de604693fde9ab",
-      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png@png",
+      "id": "9aeb5e3dff8e3a7e9a2b873bfcb1d776",
+      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YHVKK2EKX9WYW39GVN4K39/magazine-getting-a-home-loan-using-crypto-insane-or-just-risky-sounds.png",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
       },
       "category": "crypto",
-      "published_at": "2026-10-29T21:36:24.000Z",
+      "published_at": "2026-10-29T13:30:00.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "path": "articles/10b7b39a1e1dfdc118de604693fde9ab.json"
+      "breaking_score": 0,
+      "path": "articles/9aeb5e3dff8e3a7e9a2b873bfcb1d776.json"
     },
     {
       "id": "44bd01ad70af6c61dd6dc06c19a23082",
@@ -49,22 +64,6 @@
       "path": "articles/44bd01ad70af6c61dd6dc06c19a23082.json"
     },
     {
-      "id": "90ae254604651ff1729a7eddcabd7d06",
-      "title": "Live updates: Crypto falls amid report of multi-billion Binance hack",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-10-29T10:41:39.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/90ae254604651ff1729a7eddcabd7d06.json"
-    },
-    {
       "id": "78f7a83e386d3f9bd80908be49f28870",
       "title": "Here’s what happened in crypto today",
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -81,9 +80,9 @@
       "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
     },
     {
-      "id": "be49f37064b4d94089cd06b79169d968",
-      "title": "Public companies double share of blockchain revenue since 2022: Report ",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg",
+      "id": "ab9d5e7663862e83e19509a91786250c",
+      "title": "French Senate adopts bill for automatic sharing of crypto tax data ",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63Z0HFSW7F89QRVV968TGA4/hi-crypto-trading-french-regulations-for-individuals-and-businesses-explained2.jpg",
       "source": {
         "id": "cointelegraph",
         "name": "Cointelegraph",
@@ -91,10 +90,26 @@
         "icon": "https://logo.clearbit.com/cointelegraph.com"
       },
       "category": "crypto",
-      "published_at": "2026-10-29T19:53:14.000Z",
+      "published_at": "2026-10-29T15:00:02.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/be49f37064b4d94089cd06b79169d968.json"
+      "path": "articles/ab9d5e7663862e83e19509a91786250c.json"
+    },
+    {
+      "id": "e173f5f51f9f60670989ba35fdccc09a",
+      "title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63FKA31ZQ62SGYFQ4D2DA02/brazil.png",
+      "source": {
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-10-29T13:30:00.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/e173f5f51f9f60670989ba35fdccc09a.json"
     }
   ]
 }

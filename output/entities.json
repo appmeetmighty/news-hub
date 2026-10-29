@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-29T11:01:40.041Z",
+  "updated_at": "2026-10-29T11:15:50.108Z",
   "total": 31,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 28
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -19,18 +12,25 @@
       "count": 27
     },
     {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 27
+    },
+    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 23
+      "count": 25
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 18
     },
     {
       "id": "googl",
@@ -42,15 +42,15 @@
       "count": 8
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 7
-    },
-    {
       "id": "blockchain",
       "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 6
@@ -62,7 +62,7 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 5
+      "count": 4
     },
     {
       "id": "xrp",
@@ -71,31 +71,13 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 5
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 3
+      "count": 4
     },
     {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
       "icon": "",
-      "count": 3
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 3
     },
     {
@@ -115,12 +97,30 @@
       "count": 3
     },
     {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 2
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
+      "count": 2
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 2
     },
     {

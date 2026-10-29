@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29T10:31:05.845Z",
+  "updated_at": "2026-10-29T11:01:40.035Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
   "type": "company",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "933833d08367f4677dc0de184cece06c",
@@ -34,6 +34,22 @@
       "published_at": "2026-10-29T08:54:59.000Z",
       "related": [
         {
+          "id": "f1ea5e1c6f38256bd124c74244227954",
+          "title": "Our next steps for Alphabet stock after earnings disappoint at nearly every turn",
+          "image": "https://image.cnbcfm.com/api/v1/image/108309229-1779212373167-gettyimages-2276579679-GOOGLE_IO.jpeg?v=1779212434&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T01:11:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f1ea5e1c6f38256bd124c74244227954.json"
+        },
+        {
           "id": "b0d30a01ec626e7ff571fd3d02472424",
           "title": "As Waymo expands overseas, it remains a niche cash-burning business",
           "image": "https://image.cnbcfm.com/api/v1/image/108313235-1779981122408-gettyimages-2277937156-1556420-fi-waymo-ojai-ajs-17.jpeg?v=1779981207&w=1920&h=1080",
@@ -48,6 +64,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b0d30a01ec626e7ff571fd3d02472424.json"
+        },
+        {
+          "id": "2f022fad61f7ca007c773f39d8fbf243",
+          "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T03:32:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f022fad61f7ca007c773f39d8fbf243.json"
         },
         {
           "id": "b5b9900e0b7f30939e77e88f94a1c990",
@@ -80,10 +112,70 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dd7f22c2fba90f807ea125c2daf196a5.json"
+        }
+      ],
+      "path": "articles/933833d08367f4677dc0de184cece06c.json"
+    },
+    {
+      "id": "2f022fad61f7ca007c773f39d8fbf243",
+      "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
+      "description": "Bitcoin fell below $80,000 as Alphabet and Samsung-drove tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
-          "id": "e9459e38183b0d5fa1d698fcb09355c3",
-          "title": "Google to preview crypto custody security system as AI threats grow",
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-29T03:32:43.000Z",
+      "related": [
+        {
+          "id": "dd7f22c2fba90f807ea125c2daf196a5",
+          "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-28T13:47:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/dd7f22c2fba90f807ea125c2daf196a5.json"
+        },
+        {
+          "id": "90ae254604651ff1729a7eddcabd7d06",
+          "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -92,15 +184,157 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-28T11:00:00.000Z",
+          "published_at": "2026-10-29T10:41:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e9459e38183b0d5fa1d698fcb09355c3.json"
+          "path": "articles/90ae254604651ff1729a7eddcabd7d06.json"
         },
         {
-          "id": "3443e092e1807d1edca252d8fcecec46",
-          "title": "Discord is making public chats searchable on Google: How to opt out",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZZEMKGWAD6V4EFK256AYBC/hi-hack-overview-discord.jpg",
+          "id": "58543ecdd3c240ffd9842a18f898a883",
+          "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-28T11:32:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/58543ecdd3c240ffd9842a18f898a883.json"
+        },
+        {
+          "id": "1c942ad171950f0141c1a4897efa2101",
+          "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T10:04:36.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1c942ad171950f0141c1a4897efa2101.json"
+        },
+        {
+          "id": "85f1aace6172aba6a5713fb82916271a",
+          "title": "The chart bitcoin traders should be paying attention to",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T07:44:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/85f1aace6172aba6a5713fb82916271a.json"
+        }
+      ],
+      "path": "articles/2f022fad61f7ca007c773f39d8fbf243.json"
+    },
+    {
+      "id": "f1ea5e1c6f38256bd124c74244227954",
+      "title": "Our next steps for Alphabet stock after earnings disappoint at nearly every turn",
+      "description": "Alphabet whiffed.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/investingclub/2026/10/28/our-next-steps-for-alphabet-stock-after-earnings-disappoint-at-nearly-every-turn.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108309229-1779212373167-gettyimages-2276579679-GOOGLE_IO.jpeg?v=1779212434&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        }
+      ],
+      "published_at": "2026-10-29T01:11:10.000Z",
+      "related": [
+        {
+          "id": "933833d08367f4677dc0de184cece06c",
+          "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T08:54:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/933833d08367f4677dc0de184cece06c.json"
+        },
+        {
+          "id": "b0d30a01ec626e7ff571fd3d02472424",
+          "title": "As Waymo expands overseas, it remains a niche cash-burning business",
+          "image": "https://image.cnbcfm.com/api/v1/image/108313235-1779981122408-gettyimages-2277937156-1556420-fi-waymo-ojai-ajs-17.jpeg?v=1779981207&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-28T23:53:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b0d30a01ec626e7ff571fd3d02472424.json"
+        },
+        {
+          "id": "2f022fad61f7ca007c773f39d8fbf243",
+          "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T03:32:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f022fad61f7ca007c773f39d8fbf243.json"
+        },
+        {
+          "id": "b5b9900e0b7f30939e77e88f94a1c990",
+          "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-28T19:16:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
+        },
+        {
+          "id": "dd7f22c2fba90f807ea125c2daf196a5",
+          "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -108,13 +342,13 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-28T00:47:04.000Z",
+          "published_at": "2026-10-28T13:47:51.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3443e092e1807d1edca252d8fcecec46.json"
+          "path": "articles/dd7f22c2fba90f807ea125c2daf196a5.json"
         }
       ],
-      "path": "articles/933833d08367f4677dc0de184cece06c.json"
+      "path": "articles/f1ea5e1c6f38256bd124c74244227954.json"
     },
     {
       "id": "b0d30a01ec626e7ff571fd3d02472424",
@@ -160,6 +394,38 @@
           "path": "articles/933833d08367f4677dc0de184cece06c.json"
         },
         {
+          "id": "f1ea5e1c6f38256bd124c74244227954",
+          "title": "Our next steps for Alphabet stock after earnings disappoint at nearly every turn",
+          "image": "https://image.cnbcfm.com/api/v1/image/108309229-1779212373167-gettyimages-2276579679-GOOGLE_IO.jpeg?v=1779212434&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T01:11:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f1ea5e1c6f38256bd124c74244227954.json"
+        },
+        {
+          "id": "2f022fad61f7ca007c773f39d8fbf243",
+          "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T03:32:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f022fad61f7ca007c773f39d8fbf243.json"
+        },
+        {
           "id": "b5b9900e0b7f30939e77e88f94a1c990",
           "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
@@ -190,38 +456,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dd7f22c2fba90f807ea125c2daf196a5.json"
-        },
-        {
-          "id": "e9459e38183b0d5fa1d698fcb09355c3",
-          "title": "Google to preview crypto custody security system as AI threats grow",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T11:00:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e9459e38183b0d5fa1d698fcb09355c3.json"
-        },
-        {
-          "id": "3443e092e1807d1edca252d8fcecec46",
-          "title": "Discord is making public chats searchable on Google: How to opt out",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZZEMKGWAD6V4EFK256AYBC/hi-hack-overview-discord.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T00:47:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3443e092e1807d1edca252d8fcecec46.json"
         }
       ],
       "path": "articles/b0d30a01ec626e7ff571fd3d02472424.json"
@@ -292,6 +526,22 @@
           "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
         },
         {
+          "id": "2f022fad61f7ca007c773f39d8fbf243",
+          "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T03:32:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f022fad61f7ca007c773f39d8fbf243.json"
+        },
+        {
           "id": "dd7f22c2fba90f807ea125c2daf196a5",
           "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg",
@@ -338,22 +588,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3443e092e1807d1edca252d8fcecec46.json"
-        },
-        {
-          "id": "933833d08367f4677dc0de184cece06c",
-          "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
-          "image": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-29T08:54:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/933833d08367f4677dc0de184cece06c.json"
         }
       ],
       "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
@@ -399,6 +633,38 @@
       ],
       "published_at": "2026-10-28T13:47:51.000Z",
       "related": [
+        {
+          "id": "2f022fad61f7ca007c773f39d8fbf243",
+          "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T03:32:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f022fad61f7ca007c773f39d8fbf243.json"
+        },
+        {
+          "id": "9ae43dc76c8bb21b0e63bb7ff7506f31",
+          "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63M426NN1C8PGWZD4S269RJ/hi-how-bitcoin-empowers-the-unbanked-and-combats-injustice.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T10:46:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9ae43dc76c8bb21b0e63bb7ff7506f31.json"
+        },
         {
           "id": "3b228edba6eb3f0f0187b13094cd12d3",
           "title": "Bitcoin ETFs add $137M, pushing October back into the green",
@@ -446,38 +712,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a232618e5cef8c58765aadc2a310f77a.json"
-        },
-        {
-          "id": "e9459e38183b0d5fa1d698fcb09355c3",
-          "title": "Google to preview crypto custody security system as AI threats grow",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T11:00:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e9459e38183b0d5fa1d698fcb09355c3.json"
-        },
-        {
-          "id": "adaab25fdcd753f7fd58839a04430775",
-          "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z3BJXQ46ZDN2Q8H9RF7F7N/hi-will-crypto-be-the-only-digital-currency-left-standing-south-korea-1.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T09:56:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/adaab25fdcd753f7fd58839a04430775.json"
         }
       ],
       "path": "articles/dd7f22c2fba90f807ea125c2daf196a5.json"
@@ -554,6 +788,22 @@
           "path": "articles/10bd0289b9e0f12b6b8f745171f2ab5b.json"
         },
         {
+          "id": "2f022fad61f7ca007c773f39d8fbf243",
+          "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T03:32:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f022fad61f7ca007c773f39d8fbf243.json"
+        },
+        {
           "id": "dd7f22c2fba90f807ea125c2daf196a5",
           "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg",
@@ -570,6 +820,22 @@
           "path": "articles/dd7f22c2fba90f807ea125c2daf196a5.json"
         },
         {
+          "id": "9c938fad085f2fc74b60dca27f548850",
+          "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T10:44:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9c938fad085f2fc74b60dca27f548850.json"
+        },
+        {
           "id": "3443e092e1807d1edca252d8fcecec46",
           "title": "Discord is making public chats searchable on Google: How to opt out",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZZEMKGWAD6V4EFK256AYBC/hi-hack-overview-discord.jpg",
@@ -584,38 +850,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3443e092e1807d1edca252d8fcecec46.json"
-        },
-        {
-          "id": "49a9f6d85b45a096f5e2882284e2a299",
-          "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-27T16:53:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/49a9f6d85b45a096f5e2882284e2a299.json"
-        },
-        {
-          "id": "b5b9900e0b7f30939e77e88f94a1c990",
-          "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T19:16:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
         }
       ],
       "path": "articles/e9459e38183b0d5fa1d698fcb09355c3.json"
@@ -680,6 +914,22 @@
           "path": "articles/e9459e38183b0d5fa1d698fcb09355c3.json"
         },
         {
+          "id": "2f022fad61f7ca007c773f39d8fbf243",
+          "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T03:32:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f022fad61f7ca007c773f39d8fbf243.json"
+        },
+        {
           "id": "b5b9900e0b7f30939e77e88f94a1c990",
           "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
@@ -710,22 +960,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/933833d08367f4677dc0de184cece06c.json"
-        },
-        {
-          "id": "b0d30a01ec626e7ff571fd3d02472424",
-          "title": "As Waymo expands overseas, it remains a niche cash-burning business",
-          "image": "https://image.cnbcfm.com/api/v1/image/108313235-1779981122408-gettyimages-2277937156-1556420-fi-waymo-ojai-ajs-17.jpeg?v=1779981207&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-28T23:53:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b0d30a01ec626e7ff571fd3d02472424.json"
         }
       ],
       "path": "articles/3443e092e1807d1edca252d8fcecec46.json"

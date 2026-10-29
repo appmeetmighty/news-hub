@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-29T11:31:07.784Z",
+  "updated_at": "2026-10-29T11:45:51.001Z",
   "total": 31,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 28
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
+      "type": "topic",
+      "icon": "",
+      "count": 26
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,28 +23,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 27
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 25
+      "count": 26
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 19
+      "count": 20
     },
     {
       "id": "googl",
@@ -39,7 +39,7 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 8
+      "count": 10
     },
     {
       "id": "blockchain",
@@ -97,6 +97,15 @@
       "count": 3
     },
     {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -151,11 +160,13 @@
       "count": 2
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 2
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 1
     },
     {
       "id": "tsla",
@@ -173,15 +184,6 @@
       "type": "company",
       "path": "tickers/v.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
       "count": 1
     },
     {
@@ -206,15 +208,6 @@
       "name": "Netflix",
       "type": "company",
       "path": "tickers/nflx.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 1
     },
@@ -251,6 +244,13 @@
       "name": "Goldman Sachs",
       "type": "company",
       "path": "tickers/gs.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
       "icon": "",
       "count": 1
     },

@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29T11:31:07.772Z",
+  "updated_at": "2026-10-29T11:45:50.994Z",
   "id": "btc",
   "symbol": "BTC",
   "name": "Bitcoin",
   "type": "crypto",
-  "total": 27,
+  "total": 26,
   "articles": [
     {
       "id": "6e557b4fc034591051035c48bf681e51",
@@ -48,6 +48,22 @@
       "published_at": "2026-10-29T11:11:48.000Z",
       "related": [
         {
+          "id": "90ae254604651ff1729a7eddcabd7d06",
+          "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T10:41:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/90ae254604651ff1729a7eddcabd7d06.json"
+        },
+        {
           "id": "2f022fad61f7ca007c773f39d8fbf243",
           "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
           "image": "",
@@ -78,22 +94,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dd7f22c2fba90f807ea125c2daf196a5.json"
-        },
-        {
-          "id": "90ae254604651ff1729a7eddcabd7d06",
-          "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T10:41:39.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/90ae254604651ff1729a7eddcabd7d06.json"
         },
         {
           "id": "1c942ad171950f0141c1a4897efa2101",
@@ -242,8 +242,8 @@
     },
     {
       "id": "90ae254604651ff1729a7eddcabd7d06",
-      "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
-      "description": "Bitcoin slipped nearly 2% ahead of Strategy’s third-quarter results, and the largest corporate holder’s coins are now worth only about 6% more than it paid for them.",
+      "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
+      "description": "Coming after the close on Thursday are quarterly earnings from the leading corporate bitcoin holder, Strategy.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
@@ -265,6 +265,14 @@
           "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
           "id": "mstr",
           "symbol": "MSTR",
           "name": "Strategy",
@@ -275,22 +283,6 @@
       ],
       "published_at": "2026-10-29T10:41:39.000Z",
       "related": [
-        {
-          "id": "0a962ef284d28a2507cef60a7710e303",
-          "title": "Strategy shareholders approve daily dividends for four preferred stocks ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61RMMV26WRZDXS27BN2ZMZH/hi-strategyb-3.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T18:00:54.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0a962ef284d28a2507cef60a7710e303.json"
-        },
         {
           "id": "6e557b4fc034591051035c48bf681e51",
           "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
@@ -324,6 +316,38 @@
           "path": "articles/2f022fad61f7ca007c773f39d8fbf243.json"
         },
         {
+          "id": "dd7f22c2fba90f807ea125c2daf196a5",
+          "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-28T13:47:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/dd7f22c2fba90f807ea125c2daf196a5.json"
+        },
+        {
+          "id": "0a962ef284d28a2507cef60a7710e303",
+          "title": "Strategy shareholders approve daily dividends for four preferred stocks ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61RMMV26WRZDXS27BN2ZMZH/hi-strategyb-3.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-28T18:00:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0a962ef284d28a2507cef60a7710e303.json"
+        },
+        {
           "id": "1c942ad171950f0141c1a4897efa2101",
           "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
           "image": "",
@@ -338,22 +362,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1c942ad171950f0141c1a4897efa2101.json"
-        },
-        {
-          "id": "85f1aace6172aba6a5713fb82916271a",
-          "title": "The chart bitcoin traders should be paying attention to",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T07:44:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/85f1aace6172aba6a5713fb82916271a.json"
         }
       ],
       "path": "articles/90ae254604651ff1729a7eddcabd7d06.json"
@@ -403,7 +411,7 @@
         },
         {
           "id": "90ae254604651ff1729a7eddcabd7d06",
-          "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
+          "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -513,7 +521,7 @@
         },
         {
           "id": "90ae254604651ff1729a7eddcabd7d06",
-          "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
+          "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -885,7 +893,7 @@
         },
         {
           "id": "90ae254604651ff1729a7eddcabd7d06",
-          "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
+          "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -1008,6 +1016,22 @@
           "path": "articles/6e557b4fc034591051035c48bf681e51.json"
         },
         {
+          "id": "90ae254604651ff1729a7eddcabd7d06",
+          "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T10:41:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/90ae254604651ff1729a7eddcabd7d06.json"
+        },
+        {
           "id": "dd7f22c2fba90f807ea125c2daf196a5",
           "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg",
@@ -1022,22 +1046,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dd7f22c2fba90f807ea125c2daf196a5.json"
-        },
-        {
-          "id": "90ae254604651ff1729a7eddcabd7d06",
-          "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T10:41:39.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/90ae254604651ff1729a7eddcabd7d06.json"
         },
         {
           "id": "58543ecdd3c240ffd9842a18f898a883",
@@ -1351,7 +1359,7 @@
         },
         {
           "id": "90ae254604651ff1729a7eddcabd7d06",
-          "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
+          "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -1579,7 +1587,7 @@
         },
         {
           "id": "90ae254604651ff1729a7eddcabd7d06",
-          "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
+          "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -1721,7 +1729,7 @@
         },
         {
           "id": "90ae254604651ff1729a7eddcabd7d06",
-          "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
+          "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -2022,6 +2030,22 @@
       "published_at": "2026-10-28T13:47:51.000Z",
       "related": [
         {
+          "id": "90ae254604651ff1729a7eddcabd7d06",
+          "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T10:41:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/90ae254604651ff1729a7eddcabd7d06.json"
+        },
+        {
           "id": "6e557b4fc034591051035c48bf681e51",
           "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
           "image": "",
@@ -2084,22 +2108,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 55,
           "path": "articles/3b228edba6eb3f0f0187b13094cd12d3.json"
-        },
-        {
-          "id": "97d4730c610115f14d8e0faec836ae42",
-          "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62K842329DANXYCBBC56CQQ/hi-5-tips-for-investing-during-a-global-recession.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T01:12:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 15,
-          "path": "articles/97d4730c610115f14d8e0faec836ae42.json"
         }
       ],
       "path": "articles/dd7f22c2fba90f807ea125c2daf196a5.json"
@@ -2203,7 +2211,7 @@
         },
         {
           "id": "90ae254604651ff1729a7eddcabd7d06",
-          "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
+          "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -2944,22 +2952,6 @@
       "published_at": "2026-10-27T13:01:08.000Z",
       "related": [
         {
-          "id": "027a6c3825217f43851f88ecedc12f86",
-          "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-27T11:46:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/027a6c3825217f43851f88ecedc12f86.json"
-        },
-        {
           "id": "aec7a2286b9605224bb61640258fbc38",
           "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png",
@@ -3022,125 +3014,25 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/cda6d17748da85798fab977b4e86b44d.json"
+        },
+        {
+          "id": "9f437566e9057eafefcc4920ca40268e",
+          "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-27T18:16:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9f437566e9057eafefcc4920ca40268e.json"
         }
       ],
       "path": "articles/3117c6d54670e4205544ff491a0f6aa1.json"
-    },
-    {
-      "id": "027a6c3825217f43851f88ecedc12f86",
-      "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
-      "description": "NIP Group says Bitcoin mining has “earned its place” as the esports giant swaps 247 million shares for more machines.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-        },
-        {
-          "id": "mining",
-          "name": "Mining",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-27T11:46:51.000Z",
-      "related": [
-        {
-          "id": "3117c6d54670e4205544ff491a0f6aa1",
-          "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-27T13:01:08.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3117c6d54670e4205544ff491a0f6aa1.json"
-        },
-        {
-          "id": "aec7a2286b9605224bb61640258fbc38",
-          "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T21:46:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/aec7a2286b9605224bb61640258fbc38.json"
-        },
-        {
-          "id": "c96d710d61302137448ebe550fc75316",
-          "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T18:25:18.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 55,
-          "path": "articles/c96d710d61302137448ebe550fc75316.json"
-        },
-        {
-          "id": "5e496b64af692b0ec76def6f3d291208",
-          "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T16:15:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5e496b64af692b0ec76def6f3d291208.json"
-        },
-        {
-          "id": "cda6d17748da85798fab977b4e86b44d",
-          "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T15:15:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cda6d17748da85798fab977b4e86b44d.json"
-        }
-      ],
-      "path": "articles/027a6c3825217f43851f88ecedc12f86.json"
     }
   ]
 }

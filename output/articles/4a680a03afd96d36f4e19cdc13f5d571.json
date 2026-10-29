@@ -1,7 +1,7 @@
 {
   "id": "4a680a03afd96d36f4e19cdc13f5d571",
   "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
-  "description": "",
+  "description": "The oil major hiked its share buyback program as global volatility in energy markets saw profits soar.",
   "reading_time_minutes": 1,
   "breaking_score": 50,
   "url": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
@@ -13,9 +13,34 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-10-29T08:00:15.000Z",
+  "entities": [
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-10-29T08:46:38.000Z",
   "related": [
+    {
+      "id": "89bcdfc907c862b623cc4953b745ed1f",
+      "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+      "image": "https://image.cnbcfm.com/api/v1/image/108467082-1793072373038-gettyimages-2265889925-TEXAS_OIL.jpeg?v=1793072383&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-10-29T04:00:51.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/89bcdfc907c862b623cc4953b745ed1f.json"
+    },
     {
       "id": "532a9afecc92d9e8c91ecda0127fe59b",
       "title": "Samsung Electronics shares slid despite record profit in the third-quarter\n",
@@ -79,22 +104,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/aedecf509a8ff67e4118ad5829f6061e.json"
-    },
-    {
-      "id": "68f4f8e6d0b7a584af122f25f53be88d",
-      "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
-      "image": "https://image.cnbcfm.com/api/v1/image/108478622-1793246599990-gettyimages-2301940366-2301940366.jpeg?v=1793247074&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-10-29T04:55:17.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/68f4f8e6d0b7a584af122f25f53be88d.json"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T16:31:13.255Z",
+  "updated_at": "2026-10-29T16:45:50.440Z",
   "total": 30,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
+      "count": 27
     },
     {
       "id": "regulation",
@@ -46,7 +46,16 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 8
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 5
     },
     {
       "id": "mstr",
@@ -58,12 +67,10 @@
       "count": 5
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 4
     },
     {
@@ -72,13 +79,6 @@
       "type": "topic",
       "icon": "",
       "count": 4
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "eth",

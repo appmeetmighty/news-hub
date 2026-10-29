@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T19:45:49.178Z",
-  "total": 28,
+  "updated_at": "2026-10-29T20:01:18.684Z",
+  "total": 29,
   "entities": [
     {
       "id": "crypto",
@@ -10,15 +10,6 @@
       "count": 28
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
@@ -26,18 +17,20 @@
       "count": 25
     },
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 24
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 8
+      "count": 18
     },
     {
       "id": "googl",
@@ -46,7 +39,21 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 6
+      "count": 7
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 7
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "sol",
@@ -60,13 +67,6 @@
     {
       "id": "etf",
       "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 4
@@ -97,15 +97,6 @@
       "count": 2
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "xrp",
       "symbol": "XRP",
       "name": "XRP",
@@ -113,6 +104,24 @@
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 2
+    },
+    {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "msft",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T17:15:51.361Z",
+  "updated_at": "2026-10-30T17:31:04.994Z",
   "total": 30,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 31
+      "count": 32
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
+      "count": 25
     },
     {
       "id": "regulation",
@@ -67,6 +67,13 @@
       "count": 4
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -80,6 +87,22 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 3
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 3
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
       "count": 3
     },
     {
@@ -101,18 +124,11 @@
       "count": 3
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "intc",
-      "symbol": "INTC",
-      "name": "Intel",
-      "type": "company",
-      "path": "tickers/intc.json",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 2
     },
@@ -135,24 +151,6 @@
       "count": 2
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 2
-    },
-    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -162,11 +160,13 @@
       "count": 2
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
       "icon": "",
-      "count": 2
+      "count": 1
     },
     {
       "id": "web3",

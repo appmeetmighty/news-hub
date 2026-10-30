@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-30T22:45:48.782Z",
+  "updated_at": "2026-10-30T23:01:18.618Z",
   "articles": {
-    "generated_at": "2026-10-30T22:45:48.782Z",
+    "generated_at": "2026-10-30T23:01:18.618Z",
     "topics": [
       {
         "id": "crypto",
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 12,
+        "count": 13,
         "articles": [
+          {
+            "id": "c19ae16464192417671c059016091bf4",
+            "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
+            "image": "https://image.cnbcfm.com/api/v1/image/103097578-GettyImages-493449710.jpg?v=1762199297&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-30T22:52:04.000Z",
+            "path": "articles/c19ae16464192417671c059016091bf4.json"
+          },
           {
             "id": "cf5430aded6b9435d3a8d7d5a1244d21",
             "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
@@ -582,20 +596,6 @@
             "category": "crypto",
             "published_at": "2026-10-28T21:16:03.000Z",
             "path": "articles/7b0c3544df6873c492f08d2918f6c53e.json"
-          },
-          {
-            "id": "c8511e845ae9c4dc987891bcf62ddb3c",
-            "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/decrypt-style-woman-money-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T20:16:03.000Z",
-            "path": "articles/c8511e845ae9c4dc987891bcf62ddb3c.json"
           }
         ]
       },
@@ -1384,43 +1384,6 @@
         ]
       },
       {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "type": "company",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "25e3320122878d0df722db207334f541",
-            "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
-            "image": "https://image.cnbcfm.com/api/v1/image/108469372-1793113061851-gettyimages-2301777451-boivin-photoill261027_npxLq.jpeg?v=1793113123&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-30T12:27:36.000Z",
-            "path": "articles/25e3320122878d0df722db207334f541.json"
-          },
-          {
-            "id": "47584e758f60c1b87019a13675d340a2",
-            "title": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T17:36:02.000Z",
-            "path": "articles/47584e758f60c1b87019a13675d340a2.json"
-          }
-        ]
-      },
-      {
         "id": "sol",
         "name": "Solana",
         "type": "crypto",
@@ -1638,6 +1601,29 @@
             "category": "crypto",
             "published_at": "2026-10-28T19:16:02.000Z",
             "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
+          }
+        ]
+      },
+      {
+        "id": "anthropic",
+        "name": "Anthropic",
+        "type": "company",
+        "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "47584e758f60c1b87019a13675d340a2",
+            "title": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-28T17:36:02.000Z",
+            "path": "articles/47584e758f60c1b87019a13675d340a2.json"
           }
         ]
       }

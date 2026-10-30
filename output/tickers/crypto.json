@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:45:47.160Z",
+  "updated_at": "2026-10-30T15:01:16.413Z",
   "id": "crypto",
   "name": "Crypto",
   "type": "topic",
@@ -28,7 +28,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-10-30T14:42:33.000Z",
+      "published_at": "2026-10-30T14:48:26.000Z",
       "related": [
         {
           "id": "29fdef73645b1a0cde15a1fde6e6e013",
@@ -203,8 +203,8 @@
           "path": "articles/44bd01ad70af6c61dd6dc06c19a23082.json"
         },
         {
-          "id": "ffd1d126574b214640dacfe47c4a1e97",
-          "title": "Live updates: Binance finds more breaches in $6.3 billion hack; AI spending fears hit tech",
+          "id": "094ec307dbaf781abbbaa83a9afbf64e",
+          "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -213,10 +213,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-30T08:36:52.000Z",
+          "published_at": "2026-10-30T05:43:07.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 60,
-          "path": "articles/ffd1d126574b214640dacfe47c4a1e97.json"
+          "path": "articles/094ec307dbaf781abbbaa83a9afbf64e.json"
         }
       ],
       "path": "articles/293ae097d7f91fee0152319e41cb1a1b.json"
@@ -397,10 +397,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-30T14:42:33.000Z",
+          "published_at": "2026-10-30T14:48:26.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 100,
           "path": "articles/e76b98b9ac2fb4a9f0579a0dc2c1b4d8.json"
+        },
+        {
+          "id": "249afc7e617ef6a92413dc91067733c2",
+          "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+          "image": "https://image.cnbcfm.com/api/v1/image/107111194-1661861669261-gettyimages-1335987568-savingsbonds21ii.jpeg?v=1697217796&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T14:53:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/249afc7e617ef6a92413dc91067733c2.json"
         },
         {
           "id": "2b0835c6ba1859cd81541563f272ea6c",
@@ -449,22 +465,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/eaebf21b09598cc751855d3def10a271.json"
-        },
-        {
-          "id": "7fb205c2d7baac2ba704bbf2c5320c12",
-          "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/06/el_classic-gID_5-pID_4.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T14:17:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 15,
-          "path": "articles/7fb205c2d7baac2ba704bbf2c5320c12.json"
         }
       ],
       "path": "articles/0d788be8833069770f05f6fdb58a6b3a.json"
@@ -803,10 +803,10 @@
     },
     {
       "id": "ffd1d126574b214640dacfe47c4a1e97",
-      "title": "Live updates: Binance finds more breaches in $6.3 billion hack; AI spending fears hit tech",
-      "description": "A $6.3 billion Binance hack adds to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending push QQQ down more than 2%.",
+      "title": "Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes",
+      "description": "The $6.3 billion Binance hack added to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending pushed the Nasdaq down more than 2%.",
       "reading_time_minutes": 1,
-      "breaking_score": 60,
+      "breaking_score": 100,
       "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
       "image": "",
       "source": {
@@ -817,6 +817,14 @@
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "crypto",
           "name": "Crypto",
@@ -832,6 +840,54 @@
       ],
       "published_at": "2026-10-30T08:36:52.000Z",
       "related": [
+        {
+          "id": "b00495d74f13a4122ebace00a348244d",
+          "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T11:51:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/b00495d74f13a4122ebace00a348244d.json"
+        },
+        {
+          "id": "2c74801eec4a3e591b317b8fa37f8f3e",
+          "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T11:09:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/2c74801eec4a3e591b317b8fa37f8f3e.json"
+        },
+        {
+          "id": "9abaccb81037eaa4e0829c1a6c2bdab9",
+          "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T04:50:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/9abaccb81037eaa4e0829c1a6c2bdab9.json"
+        },
         {
           "id": "4930536e986f5b728527357e564304a5",
           "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
@@ -849,25 +905,9 @@
           "path": "articles/4930536e986f5b728527357e564304a5.json"
         },
         {
-          "id": "293ae097d7f91fee0152319e41cb1a1b",
-          "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T14:13:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/293ae097d7f91fee0152319e41cb1a1b.json"
-        },
-        {
-          "id": "5dd84e4f01d5cfe82d1d6048e8138757",
-          "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg",
+          "id": "2300d9cc39e561968c980434a7955f76",
+          "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4PTFHTAMEWNV8MMJQWCT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1.jpeg",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -875,42 +915,10 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-30T14:12:26.000Z",
+          "published_at": "2026-10-29T23:24:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 60,
-          "path": "articles/5dd84e4f01d5cfe82d1d6048e8138757.json"
-        },
-        {
-          "id": "29fdef73645b1a0cde15a1fde6e6e013",
-          "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T12:13:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/29fdef73645b1a0cde15a1fde6e6e013.json"
-        },
-        {
-          "id": "2c74801eec4a3e591b317b8fa37f8f3e",
-          "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T11:09:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/2c74801eec4a3e591b317b8fa37f8f3e.json"
+          "path": "articles/2300d9cc39e561968c980434a7955f76.json"
         }
       ],
       "path": "articles/ffd1d126574b214640dacfe47c4a1e97.json"
@@ -1591,8 +1599,8 @@
           "path": "articles/a7d0454df60d01ef45c981b4f2e8434e.json"
         },
         {
-          "id": "4930536e986f5b728527357e564304a5",
-          "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
+          "id": "ffd1d126574b214640dacfe47c4a1e97",
+          "title": "Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -1601,10 +1609,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-30T04:00:43.000Z",
+          "published_at": "2026-10-30T08:36:52.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 100,
-          "path": "articles/4930536e986f5b728527357e564304a5.json"
+          "path": "articles/ffd1d126574b214640dacfe47c4a1e97.json"
         }
       ],
       "path": "articles/2300d9cc39e561968c980434a7955f76.json"
@@ -3599,7 +3607,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-30T14:42:33.000Z",
+          "published_at": "2026-10-30T14:48:26.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 100,
           "path": "articles/e76b98b9ac2fb4a9f0579a0dc2c1b4d8.json"

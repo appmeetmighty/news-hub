@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-30T16:31:06.362Z",
+  "updated_at": "2026-10-30T16:45:48.977Z",
   "articles": {
-    "generated_at": "2026-10-30T16:31:06.362Z",
+    "generated_at": "2026-10-30T16:45:48.977Z",
     "topics": [
       {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 32,
+        "count": 31,
         "articles": [
           {
             "id": "0d788be8833069770f05f6fdb58a6b3a",
@@ -21,7 +21,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-10-30T16:20:19.000Z",
+            "published_at": "2026-10-30T16:31:36.000Z",
             "path": "articles/0d788be8833069770f05f6fdb58a6b3a.json"
           },
           {
@@ -157,7 +157,7 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 26,
+        "count": 24,
         "articles": [
           {
             "id": "82c9fe6abcbeb28b959b3893152e302d",
@@ -306,7 +306,7 @@
         "name": "Regulation",
         "type": "topic",
         "icon": "",
-        "count": 20,
+        "count": 19,
         "articles": [
           {
             "id": "78f7a83e386d3f9bd80908be49f28870",
@@ -455,7 +455,7 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 13,
+        "count": 12,
         "articles": [
           {
             "id": "40b3caecb230c28600eba2a21a2a69c1",
@@ -528,20 +528,6 @@
             "path": "articles/08c5ac5c19943adab9dce2c45e50a212.json"
           },
           {
-            "id": "eaebf21b09598cc751855d3def10a271",
-            "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-            "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-30T00:38:13.000Z",
-            "path": "articles/eaebf21b09598cc751855d3def10a271.json"
-          },
-          {
             "id": "c3af9cc7706c6a55ed59a7e9210aee25",
             "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
             "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
@@ -596,6 +582,20 @@
             "category": "crypto",
             "published_at": "2026-10-28T20:16:03.000Z",
             "path": "articles/c8511e845ae9c4dc987891bcf62ddb3c.json"
+          },
+          {
+            "id": "b5b9900e0b7f30939e77e88f94a1c990",
+            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-28T19:16:02.000Z",
+            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
           }
         ]
       },
@@ -693,6 +693,85 @@
         ]
       },
       {
+        "id": "googl",
+        "name": "Google",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/google.com",
+        "count": 5,
+        "articles": [
+          {
+            "id": "839d1d9a611a6638e90cdb7af3eecc37",
+            "title": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it",
+            "image": "https://image.cnbcfm.com/api/v1/image/108486745-1793373067754-gettyimages-2273144415-POWELL_FOMC_NYSE.jpeg?v=1793373075&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-30T16:41:34.000Z",
+            "path": "articles/839d1d9a611a6638e90cdb7af3eecc37.json"
+          },
+          {
+            "id": "d19a72b15b862cc2b51062093545d00c",
+            "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+            "image": "https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-30T00:28:45.000Z",
+            "path": "articles/d19a72b15b862cc2b51062093545d00c.json"
+          },
+          {
+            "id": "c3af9cc7706c6a55ed59a7e9210aee25",
+            "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-29T19:46:02.000Z",
+            "path": "articles/c3af9cc7706c6a55ed59a7e9210aee25.json"
+          },
+          {
+            "id": "0ee84996ef18be3a7b1fba8b5a4fd613",
+            "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M642ZF00Z895Q6B695HS29XA/article-covers-188965-bitcoin-traders-predict-btc-price-gains-ahead-of-96k-liquidity-clash-960x640.webp",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-29T15:39:54.000Z",
+            "path": "articles/0ee84996ef18be3a7b1fba8b5a4fd613.json"
+          },
+          {
+            "id": "b5b9900e0b7f30939e77e88f94a1c990",
+            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-28T19:16:02.000Z",
+            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
+          }
+        ]
+      },
+      {
         "id": "eth",
         "name": "Ethereum",
         "type": "crypto",
@@ -772,85 +851,6 @@
         ]
       },
       {
-        "id": "googl",
-        "name": "Google",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/google.com",
-        "count": 5,
-        "articles": [
-          {
-            "id": "eaebf21b09598cc751855d3def10a271",
-            "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-            "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-30T00:38:13.000Z",
-            "path": "articles/eaebf21b09598cc751855d3def10a271.json"
-          },
-          {
-            "id": "d19a72b15b862cc2b51062093545d00c",
-            "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-            "image": "https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-30T00:28:45.000Z",
-            "path": "articles/d19a72b15b862cc2b51062093545d00c.json"
-          },
-          {
-            "id": "c3af9cc7706c6a55ed59a7e9210aee25",
-            "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-29T19:46:02.000Z",
-            "path": "articles/c3af9cc7706c6a55ed59a7e9210aee25.json"
-          },
-          {
-            "id": "0ee84996ef18be3a7b1fba8b5a4fd613",
-            "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M642ZF00Z895Q6B695HS29XA/article-covers-188965-bitcoin-traders-predict-btc-price-gains-ahead-of-96k-liquidity-clash-960x640.webp",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-29T15:39:54.000Z",
-            "path": "articles/0ee84996ef18be3a7b1fba8b5a4fd613.json"
-          },
-          {
-            "id": "b5b9900e0b7f30939e77e88f94a1c990",
-            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T19:16:02.000Z",
-            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
-          }
-        ]
-      },
-      {
         "id": "spacex",
         "name": "SpaceX",
         "type": "company",
@@ -916,71 +916,6 @@
         ]
       },
       {
-        "id": "meta",
-        "name": "Meta",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/meta.com",
-        "count": 4,
-        "articles": [
-          {
-            "id": "687ece35c4fc1a300b764e807ed3af20",
-            "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
-            "image": "https://image.cnbcfm.com/api/v1/image/108369800-17907123772026-09-29t200433z_288467711_rc28tnajcuq5_rtrmadp_0_usa-trump.jpeg?v=1793371125&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-30T15:14:27.000Z",
-            "path": "articles/687ece35c4fc1a300b764e807ed3af20.json"
-          },
-          {
-            "id": "eaebf21b09598cc751855d3def10a271",
-            "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-            "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-30T00:38:13.000Z",
-            "path": "articles/eaebf21b09598cc751855d3def10a271.json"
-          },
-          {
-            "id": "1a14ff51f0865b54444f0f91d9007485",
-            "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate ",
-            "image": "https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-29T21:59:31.000Z",
-            "path": "articles/1a14ff51f0865b54444f0f91d9007485.json"
-          },
-          {
-            "id": "4e661aa646dc7104d788801f6997a939",
-            "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/aptos-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T16:22:58.000Z",
-            "path": "articles/4e661aa646dc7104d788801f6997a939.json"
-          }
-        ]
-      },
-      {
         "id": "defi",
         "name": "DeFi",
         "type": "topic",
@@ -1042,71 +977,6 @@
             "category": "crypto",
             "published_at": "2026-10-28T19:46:03.000Z",
             "path": "articles/d61c462a8b4ef4560910ebd06b5c8489.json"
-          }
-        ]
-      },
-      {
-        "id": "etf",
-        "name": "ETF",
-        "type": "topic",
-        "icon": "",
-        "count": 4,
-        "articles": [
-          {
-            "id": "42e6253a8127ed4d35a9855571ec0a4c",
-            "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-B2-decrypt-style-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-29T16:32:47.000Z",
-            "path": "articles/42e6253a8127ed4d35a9855571ec0a4c.json"
-          },
-          {
-            "id": "5c0824c371fc4e21bc0c57e153788266",
-            "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-29T14:15:46.000Z",
-            "path": "articles/5c0824c371fc4e21bc0c57e153788266.json"
-          },
-          {
-            "id": "0f157afb157038312b23055bad318715",
-            "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-29T12:30:38.000Z",
-            "path": "articles/0f157afb157038312b23055bad318715.json"
-          },
-          {
-            "id": "5e496b64af692b0ec76def6f3d291208",
-            "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T16:15:02.000Z",
-            "path": "articles/5e496b64af692b0ec76def6f3d291208.json"
           }
         ]
       },
@@ -1264,132 +1134,16 @@
         ]
       },
       {
-        "id": "xrp",
-        "name": "XRP",
-        "type": "crypto",
-        "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-        "count": 3,
-        "articles": [
-          {
-            "id": "0ad2bee40ca4f797a67736957bbfee35",
-            "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-30T06:22:00.000Z",
-            "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
-          },
-          {
-            "id": "b1c86ef0e11dae673bb44133ad6c3bce",
-            "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-30T05:45:27.000Z",
-            "path": "articles/b1c86ef0e11dae673bb44133ad6c3bce.json"
-          },
-          {
-            "id": "80602f0caef11148bfad0be331437c7b",
-            "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ripple-logo-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T12:16:30.000Z",
-            "path": "articles/80602f0caef11148bfad0be331437c7b.json"
-          }
-        ]
-      },
-      {
-        "id": "sol",
-        "name": "Solana",
-        "type": "crypto",
-        "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-        "count": 3,
-        "articles": [
-          {
-            "id": "da76d3027bc447217d344c986d359c77",
-            "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-29T16:35:43.000Z",
-            "path": "articles/da76d3027bc447217d344c986d359c77.json"
-          },
-          {
-            "id": "5c0824c371fc4e21bc0c57e153788266",
-            "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-29T14:15:46.000Z",
-            "path": "articles/5c0824c371fc4e21bc0c57e153788266.json"
-          },
-          {
-            "id": "23b27198e75c4ebdd00a43ba2aea021b",
-            "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-29T13:01:02.000Z",
-            "path": "articles/23b27198e75c4ebdd00a43ba2aea021b.json"
-          }
-        ]
-      },
-      {
-        "id": "stablecoin",
-        "name": "Stablecoin",
+        "id": "etf",
+        "name": "ETF",
         "type": "topic",
         "icon": "",
         "count": 3,
         "articles": [
           {
-            "id": "da76d3027bc447217d344c986d359c77",
-            "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-29T16:35:43.000Z",
-            "path": "articles/da76d3027bc447217d344c986d359c77.json"
-          },
-          {
-            "id": "23b27198e75c4ebdd00a43ba2aea021b",
-            "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png@png",
+            "id": "42e6253a8127ed4d35a9855571ec0a4c",
+            "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-B2-decrypt-style-gID_7.png@png",
             "source": {
               "id": "decrypt",
               "name": "Decrypt",
@@ -1397,13 +1151,13 @@
               "icon": "https://logo.clearbit.com/decrypt.co"
             },
             "category": "crypto",
-            "published_at": "2026-10-29T13:01:02.000Z",
-            "path": "articles/23b27198e75c4ebdd00a43ba2aea021b.json"
+            "published_at": "2026-10-29T16:32:47.000Z",
+            "path": "articles/42e6253a8127ed4d35a9855571ec0a4c.json"
           },
           {
-            "id": "80602f0caef11148bfad0be331437c7b",
-            "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ripple-logo-2-gID_7.png@png",
+            "id": "0f157afb157038312b23055bad318715",
+            "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png",
             "source": {
               "id": "decrypt",
               "name": "Decrypt",
@@ -1411,8 +1165,22 @@
               "icon": "https://logo.clearbit.com/decrypt.co"
             },
             "category": "crypto",
-            "published_at": "2026-10-28T12:16:30.000Z",
-            "path": "articles/80602f0caef11148bfad0be331437c7b.json"
+            "published_at": "2026-10-29T12:30:38.000Z",
+            "path": "articles/0f157afb157038312b23055bad318715.json"
+          },
+          {
+            "id": "5e496b64af692b0ec76def6f3d291208",
+            "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-28T16:15:02.000Z",
+            "path": "articles/5e496b64af692b0ec76def6f3d291208.json"
           }
         ]
       },
@@ -1450,6 +1218,43 @@
             "category": "stocks",
             "published_at": "2026-10-30T15:43:48.000Z",
             "path": "articles/40b3caecb230c28600eba2a21a2a69c1.json"
+          }
+        ]
+      },
+      {
+        "id": "meta",
+        "name": "Meta",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/meta.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "687ece35c4fc1a300b764e807ed3af20",
+            "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+            "image": "https://image.cnbcfm.com/api/v1/image/108369800-17907123772026-09-29t200433z_288467711_rc28tnajcuq5_rtrmadp_0_usa-trump.jpeg?v=1793371125&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-30T15:14:27.000Z",
+            "path": "articles/687ece35c4fc1a300b764e807ed3af20.json"
+          },
+          {
+            "id": "4e661aa646dc7104d788801f6997a939",
+            "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/aptos-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-28T16:22:58.000Z",
+            "path": "articles/4e661aa646dc7104d788801f6997a939.json"
           }
         ]
       },
@@ -1528,67 +1333,67 @@
         ]
       },
       {
-        "id": "amzn",
-        "name": "Amazon",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/amazon.com",
+        "id": "xrp",
+        "name": "XRP",
+        "type": "crypto",
+        "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
         "count": 2,
         "articles": [
           {
-            "id": "eaebf21b09598cc751855d3def10a271",
-            "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-            "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
+            "id": "0ad2bee40ca4f797a67736957bbfee35",
+            "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+            "image": "",
             "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
             },
-            "category": "stocks",
-            "published_at": "2026-10-30T00:38:13.000Z",
-            "path": "articles/eaebf21b09598cc751855d3def10a271.json"
+            "category": "crypto",
+            "published_at": "2026-10-30T06:22:00.000Z",
+            "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
           },
           {
-            "id": "1a14ff51f0865b54444f0f91d9007485",
-            "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate ",
-            "image": "https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&w=1920&h=1080",
+            "id": "b1c86ef0e11dae673bb44133ad6c3bce",
+            "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+            "image": "",
             "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
             },
-            "category": "stocks",
-            "published_at": "2026-10-29T21:59:31.000Z",
-            "path": "articles/1a14ff51f0865b54444f0f91d9007485.json"
+            "category": "crypto",
+            "published_at": "2026-10-30T05:45:27.000Z",
+            "path": "articles/b1c86ef0e11dae673bb44133ad6c3bce.json"
           }
         ]
       },
       {
-        "id": "openai",
-        "name": "OpenAI",
-        "type": "company",
-        "icon": "",
+        "id": "sol",
+        "name": "Solana",
+        "type": "crypto",
+        "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
         "count": 2,
         "articles": [
           {
-            "id": "1a14ff51f0865b54444f0f91d9007485",
-            "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate ",
-            "image": "https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&w=1920&h=1080",
+            "id": "da76d3027bc447217d344c986d359c77",
+            "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+            "image": "",
             "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
             },
-            "category": "stocks",
-            "published_at": "2026-10-29T21:59:31.000Z",
-            "path": "articles/1a14ff51f0865b54444f0f91d9007485.json"
+            "category": "crypto",
+            "published_at": "2026-10-29T16:35:43.000Z",
+            "path": "articles/da76d3027bc447217d344c986d359c77.json"
           },
           {
-            "id": "b5b9900e0b7f30939e77e88f94a1c990",
-            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+            "id": "23b27198e75c4ebdd00a43ba2aea021b",
+            "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png@png",
             "source": {
               "id": "decrypt",
               "name": "Decrypt",
@@ -1596,8 +1401,45 @@
               "icon": "https://logo.clearbit.com/decrypt.co"
             },
             "category": "crypto",
-            "published_at": "2026-10-28T19:16:02.000Z",
-            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
+            "published_at": "2026-10-29T13:01:02.000Z",
+            "path": "articles/23b27198e75c4ebdd00a43ba2aea021b.json"
+          }
+        ]
+      },
+      {
+        "id": "stablecoin",
+        "name": "Stablecoin",
+        "type": "topic",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "da76d3027bc447217d344c986d359c77",
+            "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-29T16:35:43.000Z",
+            "path": "articles/da76d3027bc447217d344c986d359c77.json"
+          },
+          {
+            "id": "23b27198e75c4ebdd00a43ba2aea021b",
+            "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-29T13:01:02.000Z",
+            "path": "articles/23b27198e75c4ebdd00a43ba2aea021b.json"
           }
         ]
       },
@@ -1644,29 +1486,6 @@
             "category": "crypto",
             "published_at": "2026-10-30T11:36:23.000Z",
             "path": "articles/b3ff5dd68490c08f8103a21f4a0afc89.json"
-          }
-        ]
-      },
-      {
-        "id": "msft",
-        "name": "Microsoft",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/microsoft.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "eaebf21b09598cc751855d3def10a271",
-            "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-            "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-30T00:38:13.000Z",
-            "path": "articles/eaebf21b09598cc751855d3def10a271.json"
           }
         ]
       },
@@ -1744,6 +1563,29 @@
         "name": "NVIDIA",
         "type": "company",
         "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "b5b9900e0b7f30939e77e88f94a1c990",
+            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-28T19:16:02.000Z",
+            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
+          }
+        ]
+      },
+      {
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
+        "icon": "",
         "count": 1,
         "articles": [
           {

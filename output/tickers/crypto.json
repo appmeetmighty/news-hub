@@ -1,10 +1,134 @@
 {
-  "updated_at": "2026-10-30T06:16:01.507Z",
+  "updated_at": "2026-10-30T06:31:06.029Z",
   "id": "crypto",
   "name": "Crypto",
   "type": "topic",
   "total": 33,
   "articles": [
+    {
+      "id": "0ad2bee40ca4f797a67736957bbfee35",
+      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "description": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers.",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "xrp",
+          "symbol": "XRP",
+          "name": "XRP",
+          "type": "crypto",
+          "path": "tickers/xrp.json",
+          "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-30T06:22:00.000Z",
+      "related": [
+        {
+          "id": "4930536e986f5b728527357e564304a5",
+          "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T04:00:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 100,
+          "path": "articles/4930536e986f5b728527357e564304a5.json"
+        },
+        {
+          "id": "9abaccb81037eaa4e0829c1a6c2bdab9",
+          "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T04:50:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/9abaccb81037eaa4e0829c1a6c2bdab9.json"
+        },
+        {
+          "id": "44bd01ad70af6c61dd6dc06c19a23082",
+          "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T21:12:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/44bd01ad70af6c61dd6dc06c19a23082.json"
+        },
+        {
+          "id": "3a28839c9954abb2dfff5cd1a5593fff",
+          "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T12:04:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3a28839c9954abb2dfff5cd1a5593fff.json"
+        },
+        {
+          "id": "745691133fa4b9a8f39ee3ca0bd0d15a",
+          "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-29T17:15:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/745691133fa4b9a8f39ee3ca0bd0d15a.json"
+        }
+      ],
+      "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
+    },
     {
       "id": "78f7a83e386d3f9bd80908be49f28870",
       "title": "Here’s what happened in crypto today",
@@ -62,6 +186,22 @@
       ],
       "published_at": "2026-10-30T06:00:00.000Z",
       "related": [
+        {
+          "id": "0ad2bee40ca4f797a67736957bbfee35",
+          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T06:22:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
+        },
         {
           "id": "0de3aa68bbe2350f947343eedb4c0467",
           "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
@@ -125,22 +265,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/745691133fa4b9a8f39ee3ca0bd0d15a.json"
-        },
-        {
-          "id": "0ee84996ef18be3a7b1fba8b5a4fd613",
-          "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M642ZF00Z895Q6B695HS29XA/article-covers-188965-bitcoin-traders-predict-btc-price-gains-ahead-of-96k-liquidity-clash-960x640.webp",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T15:39:54.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0ee84996ef18be3a7b1fba8b5a4fd613.json"
         }
       ],
       "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
@@ -395,6 +519,22 @@
       "published_at": "2026-10-30T04:00:43.000Z",
       "related": [
         {
+          "id": "0ad2bee40ca4f797a67736957bbfee35",
+          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T06:22:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
+        },
+        {
           "id": "9abaccb81037eaa4e0829c1a6c2bdab9",
           "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
           "image": "",
@@ -457,22 +597,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3a28839c9954abb2dfff5cd1a5593fff.json"
-        },
-        {
-          "id": "0de3aa68bbe2350f947343eedb4c0467",
-          "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N18RTP4EB58E1CCHH5C3R/earnings-calls-strategy-saylor-phong-le.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T05:53:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0de3aa68bbe2350f947343eedb4c0467.json"
         }
       ],
       "path": "articles/4930536e986f5b728527357e564304a5.json"
@@ -981,6 +1105,22 @@
           "path": "articles/4930536e986f5b728527357e564304a5.json"
         },
         {
+          "id": "0ad2bee40ca4f797a67736957bbfee35",
+          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T06:22:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
+        },
+        {
           "id": "9abaccb81037eaa4e0829c1a6c2bdab9",
           "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
           "image": "",
@@ -1027,22 +1167,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3a28839c9954abb2dfff5cd1a5593fff.json"
-        },
-        {
-          "id": "78f7a83e386d3f9bd80908be49f28870",
-          "title": "Here’s what happened in crypto today",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T06:00:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
         }
       ],
       "path": "articles/44bd01ad70af6c61dd6dc06c19a23082.json"
@@ -1197,6 +1321,22 @@
           "path": "articles/b5ed96954d282513465dcc679b366de6.json"
         },
         {
+          "id": "5db577f8ff231c0245966cd674dcb441",
+          "title": "A pharma giant is moving past one patent cliff — but another is already looming",
+          "image": "https://image.cnbcfm.com/api/v1/image/108328514-1782803221665-gettyimages-2152722520-dsc00854.jpeg?v=1782803282&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T06:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5db577f8ff231c0245966cd674dcb441.json"
+        },
+        {
           "id": "e76b98b9ac2fb4a9f0579a0dc2c1b4d8",
           "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
           "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&w=1920&h=1080",
@@ -1243,22 +1383,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/55c73de1f7996ddd81c3cc9053921ca5.json"
-        },
-        {
-          "id": "feb799edd31401a779b1c99d19a7c34b",
-          "title": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108483727-1793321377615-gettyimages-2301853686-AFP_D4MW2T3.jpeg?v=1793321396&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-30T03:28:10.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/feb799edd31401a779b1c99d19a7c34b.json"
         }
       ],
       "path": "articles/bc923b16693e24404d2f003a040ccf15.json"
@@ -1467,8 +1591,8 @@
           "path": "articles/90cdc059aa4491487226ef4f7a9b1e9f.json"
         },
         {
-          "id": "094ec307dbaf781abbbaa83a9afbf64e",
-          "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+          "id": "0ad2bee40ca4f797a67736957bbfee35",
+          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -1477,10 +1601,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-30T05:43:07.000Z",
+          "published_at": "2026-10-30T06:22:00.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/094ec307dbaf781abbbaa83a9afbf64e.json"
+          "breaking_score": 20,
+          "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
         }
       ],
       "path": "articles/a451cd279bf484416305a20be277b5b3.json"
@@ -1543,6 +1667,22 @@
           "path": "articles/a451cd279bf484416305a20be277b5b3.json"
         },
         {
+          "id": "0ad2bee40ca4f797a67736957bbfee35",
+          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T06:22:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
+        },
+        {
           "id": "cf5ea4459ea69713ac9ee2b66cb8cea9",
           "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
           "image": "",
@@ -1573,22 +1713,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/44bd01ad70af6c61dd6dc06c19a23082.json"
-        },
-        {
-          "id": "90cdc059aa4491487226ef4f7a9b1e9f",
-          "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T14:55:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/90cdc059aa4491487226ef4f7a9b1e9f.json"
         }
       ],
       "path": "articles/27eb67034a0a65237fb268dc19f07e56.json"
@@ -1749,6 +1873,22 @@
           "path": "articles/a451cd279bf484416305a20be277b5b3.json"
         },
         {
+          "id": "0ad2bee40ca4f797a67736957bbfee35",
+          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T06:22:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
+        },
+        {
           "id": "094ec307dbaf781abbbaa83a9afbf64e",
           "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
           "image": "",
@@ -1795,22 +1935,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/44bd01ad70af6c61dd6dc06c19a23082.json"
-        },
-        {
-          "id": "aba07bf40c21a193a6ba0b9925a53481",
-          "title": "Polymarket suspends trading after third-party breach leads to user losses",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T18:55:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/aba07bf40c21a193a6ba0b9925a53481.json"
         }
       ],
       "path": "articles/90cdc059aa4491487226ef4f7a9b1e9f.json"
@@ -1840,6 +1964,22 @@
       ],
       "published_at": "2026-10-29T14:39:01.000Z",
       "related": [
+        {
+          "id": "0ad2bee40ca4f797a67736957bbfee35",
+          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T06:22:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
+        },
         {
           "id": "094ec307dbaf781abbbaa83a9afbf64e",
           "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
@@ -1903,22 +2043,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/16e9c7d9e84464335b7519266d042155.json"
-        },
-        {
-          "id": "a451cd279bf484416305a20be277b5b3",
-          "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T16:51:18.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a451cd279bf484416305a20be277b5b3.json"
         }
       ],
       "path": "articles/725913367c4e6a8e758601d323f9d291.json"
@@ -2419,6 +2543,22 @@
           "path": "articles/e94a37dc7fefdac6c2ec9ff007859270.json"
         },
         {
+          "id": "0ad2bee40ca4f797a67736957bbfee35",
+          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T06:22:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
+        },
+        {
           "id": "094ec307dbaf781abbbaa83a9afbf64e",
           "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
           "image": "",
@@ -2449,22 +2589,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/cf5ea4459ea69713ac9ee2b66cb8cea9.json"
-        },
-        {
-          "id": "ae431833bc57aa59e41667c4d38c3032",
-          "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T03:36:11.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/ae431833bc57aa59e41667c4d38c3032.json"
         }
       ],
       "path": "articles/890face69af22204b7ecf1e7c65d8059.json"
@@ -2792,120 +2916,6 @@
         }
       ],
       "path": "articles/66d4f0d5e97524601ce15fcee6c21ab6.json"
-    },
-    {
-      "id": "8fb6504da815d5de53ce0e6405894eac",
-      "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
-      "description": "The planned ICE[XYZ] venue would offer 24/7 perpetual futures on stocks, commodities and crypto, pending CFTC approval. ICE is investing in Trade[XYZ].",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        },
-        {
-          "id": "regulation",
-          "name": "Regulation",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-10-29T11:11:25.000Z",
-      "related": [
-        {
-          "id": "15ebf8ab4bc57cb2fbe9f724fd04736a",
-          "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/hyperliquid-hype-decrypt-style-03-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T15:59:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/15ebf8ab4bc57cb2fbe9f724fd04736a.json"
-        },
-        {
-          "id": "7ba0e17ecd6a15e1a8f704e9ddb1680d",
-          "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64A2KNXVBJKMFSK75GFQ3JG/hyperliquid-futures-2.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T17:12:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/7ba0e17ecd6a15e1a8f704e9ddb1680d.json"
-        },
-        {
-          "id": "094ec307dbaf781abbbaa83a9afbf64e",
-          "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T05:43:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/094ec307dbaf781abbbaa83a9afbf64e.json"
-        },
-        {
-          "id": "d3abbfa8802f08b8e57ca73744e5e6d1",
-          "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T17:04:19.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d3abbfa8802f08b8e57ca73744e5e6d1.json"
-        },
-        {
-          "id": "da76d3027bc447217d344c986d359c77",
-          "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T16:35:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/da76d3027bc447217d344c986d359c77.json"
-        }
-      ],
-      "path": "articles/8fb6504da815d5de53ce0e6405894eac.json"
     },
     {
       "id": "3b228edba6eb3f0f0187b13094cd12d3",
@@ -3527,6 +3537,22 @@
           "path": "articles/09512f86604413ea6032294e11048402.json"
         },
         {
+          "id": "0ad2bee40ca4f797a67736957bbfee35",
+          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T06:22:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/0ad2bee40ca4f797a67736957bbfee35.json"
+        },
+        {
           "id": "d168207ab6eb87783e96a0ad610c1938",
           "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png@png",
@@ -3557,22 +3583,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/16e9c7d9e84464335b7519266d042155.json"
-        },
-        {
-          "id": "90cdc059aa4491487226ef4f7a9b1e9f",
-          "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T14:55:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/90cdc059aa4491487226ef4f7a9b1e9f.json"
         }
       ],
       "path": "articles/c1b38ba5266bc1a50a2214d5393ca204.json"

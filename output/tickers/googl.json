@@ -1,11 +1,151 @@
 {
-  "updated_at": "2026-10-30T00:45:44.158Z",
+  "updated_at": "2026-10-30T01:01:28.493Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
   "type": "company",
-  "total": 8,
+  "total": 10,
   "articles": [
+    {
+      "id": "eaebf21b09598cc751855d3def10a271",
+      "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+      "description": "Microsoft boasts a strong credit rating and has managed to maintain positive free cash flow, unlike Meta, Alphabet and Amazon.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-30T00:38:13.000Z",
+      "related": [
+        {
+          "id": "a2f100bb8a8530c81f2b0a6bdb90a0fb",
+          "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
+          "image": "https://image.cnbcfm.com/api/v1/image/108084419-1736449342986-Side_by_Side_template.jpg?v=1736449542&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T16:20:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a2f100bb8a8530c81f2b0a6bdb90a0fb.json"
+        },
+        {
+          "id": "0778fc40dcbb1bb65272cdace738291a",
+          "title": "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
+          "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T19:30:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0778fc40dcbb1bb65272cdace738291a.json"
+        },
+        {
+          "id": "1a14ff51f0865b54444f0f91d9007485",
+          "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T21:59:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1a14ff51f0865b54444f0f91d9007485.json"
+        },
+        {
+          "id": "d19a72b15b862cc2b51062093545d00c",
+          "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T00:28:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d19a72b15b862cc2b51062093545d00c.json"
+        },
+        {
+          "id": "df49b3ac1c35db55d43c528ae5a6310c",
+          "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+          "image": "https://image.cnbcfm.com/api/v1/image/108342762-1785443278645-108342762-1785443064240-gettyimages-2265246744-20090101260310-99-780957.jpeg?v=1785443305&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T22:24:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/df49b3ac1c35db55d43c528ae5a6310c.json"
+        }
+      ],
+      "path": "articles/eaebf21b09598cc751855d3def10a271.json"
+    },
     {
       "id": "d19a72b15b862cc2b51062093545d00c",
       "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
@@ -33,6 +173,38 @@
       ],
       "published_at": "2026-10-30T00:28:45.000Z",
       "related": [
+        {
+          "id": "eaebf21b09598cc751855d3def10a271",
+          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T00:38:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eaebf21b09598cc751855d3def10a271.json"
+        },
+        {
+          "id": "9ac7db091d17b56aee39d64abad083fd",
+          "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+          "image": "https://image.cnbcfm.com/api/v1/image/108309206-1779213871939-108309206-1779210844055-108309206-1779210774213-gettyimages-2276576410-GOOGLE_IO.jpg?v=1782157746&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T20:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9ac7db091d17b56aee39d64abad083fd.json"
+        },
         {
           "id": "a2f100bb8a8530c81f2b0a6bdb90a0fb",
           "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
@@ -80,41 +252,125 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0778fc40dcbb1bb65272cdace738291a.json"
-        },
-        {
-          "id": "b5b9900e0b7f30939e77e88f94a1c990",
-          "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T19:16:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
-        },
-        {
-          "id": "c3af9cc7706c6a55ed59a7e9210aee25",
-          "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T19:46:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c3af9cc7706c6a55ed59a7e9210aee25.json"
         }
       ],
       "path": "articles/d19a72b15b862cc2b51062093545d00c.json"
+    },
+    {
+      "id": "9ac7db091d17b56aee39d64abad083fd",
+      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "description": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108309206-1779213871939-108309206-1779210844055-108309206-1779210774213-gettyimages-2276576410-GOOGLE_IO.jpg?v=1782157746&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-29T20:16:03.000Z",
+      "related": [
+        {
+          "id": "d19a72b15b862cc2b51062093545d00c",
+          "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T00:28:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d19a72b15b862cc2b51062093545d00c.json"
+        },
+        {
+          "id": "933833d08367f4677dc0de184cece06c",
+          "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
+          "image": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T20:15:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/933833d08367f4677dc0de184cece06c.json"
+        },
+        {
+          "id": "0778fc40dcbb1bb65272cdace738291a",
+          "title": "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
+          "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T19:30:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0778fc40dcbb1bb65272cdace738291a.json"
+        },
+        {
+          "id": "eaebf21b09598cc751855d3def10a271",
+          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T00:38:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eaebf21b09598cc751855d3def10a271.json"
+        },
+        {
+          "id": "a2f100bb8a8530c81f2b0a6bdb90a0fb",
+          "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
+          "image": "https://image.cnbcfm.com/api/v1/image/108084419-1736449342986-Side_by_Side_template.jpg?v=1736449542&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T16:20:51.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a2f100bb8a8530c81f2b0a6bdb90a0fb.json"
+        }
+      ],
+      "path": "articles/9ac7db091d17b56aee39d64abad083fd.json"
     },
     {
       "id": "933833d08367f4677dc0de184cece06c",
@@ -143,6 +399,38 @@
       ],
       "published_at": "2026-10-29T20:15:19.000Z",
       "related": [
+        {
+          "id": "eaebf21b09598cc751855d3def10a271",
+          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T00:38:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eaebf21b09598cc751855d3def10a271.json"
+        },
+        {
+          "id": "9ac7db091d17b56aee39d64abad083fd",
+          "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+          "image": "https://image.cnbcfm.com/api/v1/image/108309206-1779213871939-108309206-1779210844055-108309206-1779210774213-gettyimages-2276576410-GOOGLE_IO.jpg?v=1782157746&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T20:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9ac7db091d17b56aee39d64abad083fd.json"
+        },
         {
           "id": "0778fc40dcbb1bb65272cdace738291a",
           "title": "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
@@ -190,38 +478,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a2f100bb8a8530c81f2b0a6bdb90a0fb.json"
-        },
-        {
-          "id": "6e557b4fc034591051035c48bf681e51",
-          "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T11:11:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 5,
-          "path": "articles/6e557b4fc034591051035c48bf681e51.json"
-        },
-        {
-          "id": "c3af9cc7706c6a55ed59a7e9210aee25",
-          "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T19:46:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c3af9cc7706c6a55ed59a7e9210aee25.json"
         }
       ],
       "path": "articles/933833d08367f4677dc0de184cece06c.json"
@@ -316,6 +572,22 @@
           "path": "articles/6e557b4fc034591051035c48bf681e51.json"
         },
         {
+          "id": "eaebf21b09598cc751855d3def10a271",
+          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T00:38:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eaebf21b09598cc751855d3def10a271.json"
+        },
+        {
           "id": "d19a72b15b862cc2b51062093545d00c",
           "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
           "image": "https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&w=1920&h=1080",
@@ -330,22 +602,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d19a72b15b862cc2b51062093545d00c.json"
-        },
-        {
-          "id": "933833d08367f4677dc0de184cece06c",
-          "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
-          "image": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-29T20:15:19.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/933833d08367f4677dc0de184cece06c.json"
         }
       ],
       "path": "articles/c3af9cc7706c6a55ed59a7e9210aee25.json"
@@ -386,6 +642,22 @@
       "published_at": "2026-10-29T19:30:33.000Z",
       "related": [
         {
+          "id": "eaebf21b09598cc751855d3def10a271",
+          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T00:38:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eaebf21b09598cc751855d3def10a271.json"
+        },
+        {
           "id": "a2f100bb8a8530c81f2b0a6bdb90a0fb",
           "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
           "image": "https://image.cnbcfm.com/api/v1/image/108084419-1736449342986-Side_by_Side_template.jpg?v=1736449542&w=1920&h=1080",
@@ -400,6 +672,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/a2f100bb8a8530c81f2b0a6bdb90a0fb.json"
+        },
+        {
+          "id": "9ac7db091d17b56aee39d64abad083fd",
+          "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+          "image": "https://image.cnbcfm.com/api/v1/image/108309206-1779213871939-108309206-1779210844055-108309206-1779210774213-gettyimages-2276576410-GOOGLE_IO.jpg?v=1782157746&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T20:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9ac7db091d17b56aee39d64abad083fd.json"
         },
         {
           "id": "933833d08367f4677dc0de184cece06c",
@@ -432,38 +720,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d19a72b15b862cc2b51062093545d00c.json"
-        },
-        {
-          "id": "6e557b4fc034591051035c48bf681e51",
-          "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T11:11:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 5,
-          "path": "articles/6e557b4fc034591051035c48bf681e51.json"
-        },
-        {
-          "id": "c3af9cc7706c6a55ed59a7e9210aee25",
-          "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T19:46:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c3af9cc7706c6a55ed59a7e9210aee25.json"
         }
       ],
       "path": "articles/0778fc40dcbb1bb65272cdace738291a.json"
@@ -510,6 +766,22 @@
       "published_at": "2026-10-29T16:20:51.000Z",
       "related": [
         {
+          "id": "eaebf21b09598cc751855d3def10a271",
+          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T00:38:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eaebf21b09598cc751855d3def10a271.json"
+        },
+        {
           "id": "0778fc40dcbb1bb65272cdace738291a",
           "title": "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
           "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
@@ -542,6 +814,22 @@
           "path": "articles/d19a72b15b862cc2b51062093545d00c.json"
         },
         {
+          "id": "9ac7db091d17b56aee39d64abad083fd",
+          "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+          "image": "https://image.cnbcfm.com/api/v1/image/108309206-1779213871939-108309206-1779210844055-108309206-1779210774213-gettyimages-2276576410-GOOGLE_IO.jpg?v=1782157746&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T20:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9ac7db091d17b56aee39d64abad083fd.json"
+        },
+        {
           "id": "933833d08367f4677dc0de184cece06c",
           "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
           "image": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080",
@@ -556,38 +844,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/933833d08367f4677dc0de184cece06c.json"
-        },
-        {
-          "id": "c3af9cc7706c6a55ed59a7e9210aee25",
-          "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T19:46:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c3af9cc7706c6a55ed59a7e9210aee25.json"
-        },
-        {
-          "id": "0ee84996ef18be3a7b1fba8b5a4fd613",
-          "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M642ZF00Z895Q6B695HS29XA/article-covers-188965-bitcoin-traders-predict-btc-price-gains-ahead-of-96k-liquidity-clash-960x640.webp",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T15:39:54.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0ee84996ef18be3a7b1fba8b5a4fd613.json"
         }
       ],
       "path": "articles/a2f100bb8a8530c81f2b0a6bdb90a0fb.json"
@@ -948,9 +1204,9 @@
           "path": "articles/6e557b4fc034591051035c48bf681e51.json"
         },
         {
-          "id": "d19a72b15b862cc2b51062093545d00c",
-          "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&w=1920&h=1080",
+          "id": "eaebf21b09598cc751855d3def10a271",
+          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -958,10 +1214,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-30T00:28:45.000Z",
+          "published_at": "2026-10-30T00:38:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d19a72b15b862cc2b51062093545d00c.json"
+          "path": "articles/eaebf21b09598cc751855d3def10a271.json"
         }
       ],
       "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"

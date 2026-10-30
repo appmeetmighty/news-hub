@@ -1,11 +1,137 @@
 {
-  "updated_at": "2026-10-30T00:45:44.163Z",
+  "updated_at": "2026-10-30T01:01:28.497Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "1a14ff51f0865b54444f0f91d9007485",
+      "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate ",
+      "description": "Amazon's cloud signed deals with Meta and OpenAI during the quarter, helping revenue to exceed consensus.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-29T21:59:31.000Z",
+      "related": [
+        {
+          "id": "eaebf21b09598cc751855d3def10a271",
+          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T00:38:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eaebf21b09598cc751855d3def10a271.json"
+        },
+        {
+          "id": "df49b3ac1c35db55d43c528ae5a6310c",
+          "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+          "image": "https://image.cnbcfm.com/api/v1/image/108342762-1785443278645-108342762-1785443064240-gettyimages-2265246744-20090101260310-99-780957.jpeg?v=1785443305&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T22:24:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/df49b3ac1c35db55d43c528ae5a6310c.json"
+        },
+        {
+          "id": "b5b9900e0b7f30939e77e88f94a1c990",
+          "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-28T19:16:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
+        },
+        {
+          "id": "4e661aa646dc7104d788801f6997a939",
+          "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/aptos-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-28T16:22:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4e661aa646dc7104d788801f6997a939.json"
+        },
+        {
+          "id": "685a8ac9230202104aa3f2761a95a538",
+          "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+          "image": "https://image.cnbcfm.com/api/v1/image/108297781-1777308295201-108297781-1777308210048-gettyimages-2272326273-BIZ-AUTO-RIVIAN-R2-ROADSHOW-TB.jpeg?v=1777308342&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-29T21:52:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/685a8ac9230202104aa3f2761a95a538.json"
+        }
+      ],
+      "path": "articles/1a14ff51f0865b54444f0f91d9007485.json"
+    },
     {
       "id": "b5b9900e0b7f30939e77e88f94a1c990",
       "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
@@ -120,9 +246,9 @@
           "path": "articles/6e557b4fc034591051035c48bf681e51.json"
         },
         {
-          "id": "d19a72b15b862cc2b51062093545d00c",
-          "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&w=1920&h=1080",
+          "id": "eaebf21b09598cc751855d3def10a271",
+          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -130,10 +256,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-30T00:28:45.000Z",
+          "published_at": "2026-10-30T00:38:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d19a72b15b862cc2b51062093545d00c.json"
+          "path": "articles/eaebf21b09598cc751855d3def10a271.json"
         }
       ],
       "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"

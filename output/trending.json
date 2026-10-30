@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-30T20:45:44.583Z",
+  "updated_at": "2026-10-30T21:01:16.394Z",
   "articles": {
-    "generated_at": "2026-10-30T20:45:44.583Z",
+    "generated_at": "2026-10-30T21:01:16.394Z",
     "topics": [
       {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 38,
+        "count": 37,
         "articles": [
           {
             "id": "9a955f044ce39d4a4d3fe439bada30f6",
@@ -455,8 +455,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 11,
+        "count": 12,
         "articles": [
+          {
+            "id": "cf5430aded6b9435d3a8d7d5a1244d21",
+            "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/intel-logo-decrypt-style-01-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-30T20:53:23.000Z",
+            "path": "articles/cf5430aded6b9435d3a8d7d5a1244d21.json"
+          },
           {
             "id": "40b3caecb230c28600eba2a21a2a69c1",
             "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
@@ -582,20 +596,6 @@
             "category": "crypto",
             "published_at": "2026-10-28T20:16:03.000Z",
             "path": "articles/c8511e845ae9c4dc987891bcf62ddb3c.json"
-          },
-          {
-            "id": "b5b9900e0b7f30939e77e88f94a1c990",
-            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T19:16:02.000Z",
-            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
           }
         ]
       },
@@ -1301,6 +1301,43 @@
         ]
       },
       {
+        "id": "intc",
+        "name": "Intel",
+        "type": "company",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "cf5430aded6b9435d3a8d7d5a1244d21",
+            "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/intel-logo-decrypt-style-01-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-30T20:53:23.000Z",
+            "path": "articles/cf5430aded6b9435d3a8d7d5a1244d21.json"
+          },
+          {
+            "id": "40b3caecb230c28600eba2a21a2a69c1",
+            "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+            "image": "https://image.cnbcfm.com/api/v1/image/108477592-1793377481413-108477592-1793228653912-gettyimages-2278669397-AFP_B4P96JN.jpg?v=1793377502&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-30T20:30:57.000Z",
+            "path": "articles/40b3caecb230c28600eba2a21a2a69c1.json"
+          }
+        ]
+      },
+      {
         "id": "oil",
         "name": "Oil",
         "type": "commodity",
@@ -1334,43 +1371,6 @@
             "category": "stocks",
             "published_at": "2026-10-30T11:29:59.000Z",
             "path": "articles/68bff987a08f47bd8094ca309b1782cf.json"
-          }
-        ]
-      },
-      {
-        "id": "meta",
-        "name": "Meta",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/meta.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "687ece35c4fc1a300b764e807ed3af20",
-            "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
-            "image": "https://image.cnbcfm.com/api/v1/image/108369800-17907123772026-09-29t200433z_288467711_rc28tnajcuq5_rtrmadp_0_usa-trump.jpeg?v=1793371125&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-30T15:14:27.000Z",
-            "path": "articles/687ece35c4fc1a300b764e807ed3af20.json"
-          },
-          {
-            "id": "4e661aa646dc7104d788801f6997a939",
-            "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/aptos-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T16:22:58.000Z",
-            "path": "articles/4e661aa646dc7104d788801f6997a939.json"
           }
         ]
       },
@@ -1449,16 +1449,16 @@
         ]
       },
       {
-        "id": "intc",
-        "name": "Intel",
+        "id": "meta",
+        "name": "Meta",
         "type": "company",
-        "icon": "",
+        "icon": "https://logo.clearbit.com/meta.com",
         "count": 1,
         "articles": [
           {
-            "id": "40b3caecb230c28600eba2a21a2a69c1",
-            "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
-            "image": "https://image.cnbcfm.com/api/v1/image/108477592-1793377481413-108477592-1793228653912-gettyimages-2278669397-AFP_B4P96JN.jpg?v=1793377502&w=1920&h=1080",
+            "id": "687ece35c4fc1a300b764e807ed3af20",
+            "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+            "image": "https://image.cnbcfm.com/api/v1/image/108369800-17907123772026-09-29t200433z_288467711_rc28tnajcuq5_rtrmadp_0_usa-trump.jpeg?v=1793371125&w=1920&h=1080",
             "source": {
               "id": "cnbc",
               "name": "CNBC",
@@ -1466,8 +1466,8 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-10-30T20:30:57.000Z",
-            "path": "articles/40b3caecb230c28600eba2a21a2a69c1.json"
+            "published_at": "2026-10-30T15:14:27.000Z",
+            "path": "articles/687ece35c4fc1a300b764e807ed3af20.json"
           }
         ]
       },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T17:01:26.390Z",
+  "updated_at": "2026-10-30T11:45:45.270Z",
   "id": "tsla",
   "symbol": "TSLA",
   "name": "Tesla",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "91abdd61bb93761cf5fd9dd45dc26f30",
-      "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
-      "description": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
+      "id": "687ece35c4fc1a300b764e807ed3af20",
+      "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not",
+      "description": "Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred \"super intelligence\" term on their third-quarter earnings calls.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107388813-1729864301558-Untitled-2.jpg?v=1729864387&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108369800-17907123772026-09-29t200433z_288467711_rc28tnajcuq5_rtrmadp_0_usa-trump.jpeg?v=1790712473&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -29,14 +29,36 @@
           "type": "company",
           "path": "tickers/tsla.json",
           "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-10-29T11:04:27.000Z",
+      "published_at": "2026-10-30T11:30:01.000Z",
       "related": [
         {
-          "id": "f6dc978d450aba9ff2cc8432805135ab",
-          "title": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
-          "image": "https://image.cnbcfm.com/api/v1/image/108230176-1764603822722-108230176-17637559702025-11-21t201158z_1546648356_rc261iafo6zz_rtrmadp_0_lilly-stocks.jpg?v=1779898152&w=1920&h=1080",
+          "id": "eaebf21b09598cc751855d3def10a271",
+          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -44,15 +66,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-29T16:46:07.000Z",
+          "published_at": "2026-10-30T00:38:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/f6dc978d450aba9ff2cc8432805135ab.json"
+          "path": "articles/eaebf21b09598cc751855d3def10a271.json"
         },
         {
-          "id": "933833d08367f4677dc0de184cece06c",
-          "title": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
-          "image": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080",
+          "id": "1a14ff51f0865b54444f0f91d9007485",
+          "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -60,31 +82,47 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-29T16:35:25.000Z",
+          "published_at": "2026-10-29T21:59:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/933833d08367f4677dc0de184cece06c.json"
+          "path": "articles/1a14ff51f0865b54444f0f91d9007485.json"
         },
         {
-          "id": "9ac7db091d17b56aee39d64abad083fd",
-          "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-          "image": "https://image.cnbcfm.com/api/v1/image/108309206-1779213871939-108309206-1779210844055-108309206-1779210774213-gettyimages-2276576410-GOOGLE_IO.jpg?v=1782157746&w=1920&h=1080",
+          "id": "dde692e7ba8f8d94dba6e29bc2818ba2",
+          "title": "  SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities\n",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "sec-press-releases",
+            "name": "SEC Press Releases",
+            "website": "",
+            "icon": ""
           },
           "category": "stocks",
-          "published_at": "2026-10-29T16:25:40.000Z",
+          "published_at": "2026-09-30T18:30:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/dde692e7ba8f8d94dba6e29bc2818ba2.json"
+        },
+        {
+          "id": "4e661aa646dc7104d788801f6997a939",
+          "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/aptos-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-28T16:22:58.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9ac7db091d17b56aee39d64abad083fd.json"
+          "path": "articles/4e661aa646dc7104d788801f6997a939.json"
         },
         {
-          "id": "aad6452f72cdaac82f84507d1d5bd9ba",
-          "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
-          "image": "https://image.cnbcfm.com/api/v1/image/108301495-1777897866060-gettyimages-2233398369-_dsc9743_tkn98xye.jpeg?v=1785424948&w=1920&h=1080",
+          "id": "5c8963fa18b394a70bff2dcc24f968d1",
+          "title": "Chevron and Exxon beat earnings expectations as refining profits soar on high diesel fuel prices",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373938-1791375909497-gettyimages-2291635421-AFP_C6KY7DL.jpeg?v=1793358679&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -92,29 +130,13 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-29T16:23:37.000Z",
+          "published_at": "2026-10-30T11:35:51.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/aad6452f72cdaac82f84507d1d5bd9ba.json"
-        },
-        {
-          "id": "3fc19f6aa3fa6a20f7ddfd3a76f6dac4",
-          "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-29T16:22:19.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3fc19f6aa3fa6a20f7ddfd3a76f6dac4.json"
+          "breaking_score": 40,
+          "path": "articles/5c8963fa18b394a70bff2dcc24f968d1.json"
         }
       ],
-      "path": "articles/91abdd61bb93761cf5fd9dd45dc26f30.json"
+      "path": "articles/687ece35c4fc1a300b764e807ed3af20.json"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T02:15:48.032Z",
+  "updated_at": "2026-10-30T22:31:10.415Z",
   "id": "amd",
   "symbol": "AMD",
   "name": "AMD",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "25438a39ef23b8455eab80a48b4ecf2d",
-      "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-      "description": "Meta on Monday announced plans to raise a total of $95 billion to support its investments in artificial intelligence infrastructure.",
+      "id": "dbc8511b3019669d076a1a66041236cb",
+      "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+      "description": "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108443817-1792619674080-gettyimages-2296215637-META_CONNECT.jpeg?v=1792795588&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,20 +23,12 @@
       "category": "stocks",
       "entities": [
         {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
           "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
-        {
-          "id": "meta",
-          "symbol": "META",
-          "name": "Meta",
-          "type": "company",
-          "path": "tickers/meta.json",
-          "icon": "https://logo.clearbit.com/meta.com"
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
         },
         {
           "id": "amd",
@@ -45,20 +37,14 @@
           "type": "company",
           "path": "tickers/amd.json",
           "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
         }
       ],
-      "published_at": "2026-10-27T14:19:36.000Z",
+      "published_at": "2026-10-30T22:17:13.000Z",
       "related": [
         {
-          "id": "529a9cf22e5afc488b62677ea410c80d",
-          "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108467546-1793083979300-gettyimages-2286903422-avdjuly26lot2j.jpeg?v=1793083990&w=1920&h=1080",
+          "id": "f078f08eea03ffa1b379ee275f7ae170",
+          "title": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
+          "image": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -66,31 +52,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-28T00:14:24.000Z",
+          "published_at": "2026-10-30T18:55:44.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/529a9cf22e5afc488b62677ea410c80d.json"
+          "path": "articles/f078f08eea03ffa1b379ee275f7ae170.json"
         },
         {
-          "id": "c1b135b21b1399a5a7d25610ff1ef3a0",
-          "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WWZSHJKJSXHRGBMZY1WZXE/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-26T21:23:32.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c1b135b21b1399a5a7d25610ff1ef3a0.json"
-        },
-        {
-          "id": "da7d098cd9383e03256a77cbf61e60a6",
-          "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
-          "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
+          "id": "687ece35c4fc1a300b764e807ed3af20",
+          "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369800-17907123772026-09-29t200433z_288467711_rc28tnajcuq5_rtrmadp_0_usa-trump.jpeg?v=1793371125&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -98,15 +68,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-28T01:56:59.000Z",
+          "published_at": "2026-10-30T15:14:27.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/da7d098cd9383e03256a77cbf61e60a6.json"
+          "breaking_score": 0,
+          "path": "articles/687ece35c4fc1a300b764e807ed3af20.json"
         },
         {
-          "id": "4d33ff38da7af3fd319f5a10aa7766a2",
-          "title": "Anthropic's IPO is risky business",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&w=1920&h=1080",
+          "id": "68bff987a08f47bd8094ca309b1782cf",
+          "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
+          "image": "https://image.cnbcfm.com/api/v1/image/108485495-1793355796811-gettyimages-2299620675-BRITAIN-UKRAINE-CONFLICT-DIPLOMACY.jpeg?v=1793355806&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -114,15 +84,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-28T00:43:59.000Z",
+          "published_at": "2026-10-30T11:29:59.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4d33ff38da7af3fd319f5a10aa7766a2.json"
+          "breaking_score": 5,
+          "path": "articles/68bff987a08f47bd8094ca309b1782cf.json"
         },
         {
-          "id": "34f7919084980b36e5145a2dccb23738",
-          "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-          "image": "https://image.cnbcfm.com/api/v1/image/107081985-1656438324079-cass.jpg?v=1656438387&w=1920&h=1080",
+          "id": "280abb86bed95dbb34da8ada9e5a49aa",
+          "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
+          "image": "https://image.cnbcfm.com/api/v1/image/108356755-17882160262026-08-31t223924z_2092497127_rc2t9na38zuv_rtrmadp_0_usa-datacenters.jpeg?v=1788216056&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -130,13 +100,29 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-27T23:50:03.000Z",
+          "published_at": "2026-10-30T11:00:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/34f7919084980b36e5145a2dccb23738.json"
+          "path": "articles/280abb86bed95dbb34da8ada9e5a49aa.json"
+        },
+        {
+          "id": "6d19600f494af99f620b7e6da0b76a87",
+          "title": "Gen Z is ditching bars for run clubs — and finding more than friends along the way",
+          "image": "https://image.cnbcfm.com/api/v1/image/108481168-1793286458968-gettyimages-2240285153-AFP_78J686L.jpeg?v=1793286474&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T10:32:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6d19600f494af99f620b7e6da0b76a87.json"
         }
       ],
-      "path": "articles/25438a39ef23b8455eab80a48b4ecf2d.json"
+      "path": "articles/dbc8511b3019669d076a1a66041236cb.json"
     }
   ]
 }

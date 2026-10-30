@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T15:45:51.721Z",
+  "updated_at": "2026-10-30T12:45:54.703Z",
   "id": "gold",
   "symbol": "GOLD",
   "name": "Gold",
@@ -7,29 +7,21 @@
   "total": 1,
   "articles": [
     {
-      "id": "96d136b78effc33d8ef700f3c0193f56",
-      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "description": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.",
+      "id": "4f30998060829214bd76c9109947775b",
+      "title": "Swiss central bank posts bumper $23bn profit as gold, foreign assets soar",
+      "description": "Unlike other major central banks, the Swiss National Bank has a significant equity portfolio.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9655eada3129b642b283dac1319e070000a740b5-6960x4640.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316551-1780562522212-gettyimages-2277259757-ps20260519zuerich038.jpeg?v=1780562576&w=1920&h=1080",
       "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-        },
         {
           "id": "gold",
           "symbol": "GOLD",
@@ -37,100 +29,92 @@
           "type": "commodity",
           "path": "tickers/gold.json",
           "icon": ""
-        },
-        {
-          "id": "oil",
-          "symbol": "OIL",
-          "name": "Oil",
-          "type": "commodity",
-          "path": "tickers/oil.json",
-          "icon": ""
         }
       ],
-      "published_at": "2026-10-23T13:58:56.000Z",
+      "published_at": "2026-10-30T12:31:40.000Z",
       "related": [
         {
-          "id": "ce0819b49f6b2cd0df35ff5aea37aac8",
-          "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bf9272d06a5476928a866fea961f9bba82e9422-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "5c8963fa18b394a70bff2dcc24f968d1",
+          "title": "Chevron and Exxon beat earnings expectations as refining profits soar on high diesel fuel prices",
+          "image": "https://image.cnbcfm.com/api/v1/image/108373938-1791375909497-gettyimages-2291635421-AFP_C6KY7DL.jpeg?v=1793358679&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-26T11:24:33.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-30T11:35:51.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 55,
-          "path": "articles/ce0819b49f6b2cd0df35ff5aea37aac8.json"
+          "breaking_score": 40,
+          "path": "articles/5c8963fa18b394a70bff2dcc24f968d1.json"
         },
         {
-          "id": "0be1287b40c31f7808529d5ef53c4b84",
-          "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png@png",
+          "id": "0edb454c17aef28854b67aa7ad441ccc",
+          "title": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
+          "image": "https://image.cnbcfm.com/api/v1/image/108289674-1775815842478-gettyimages-2227922471-UK_BP.jpeg?v=1775815890&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-26T12:16:12.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-30T09:00:24.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0be1287b40c31f7808529d5ef53c4b84.json"
+          "breaking_score": 20,
+          "path": "articles/0edb454c17aef28854b67aa7ad441ccc.json"
         },
         {
-          "id": "4b55931913faf17e07ad2d74526bef2f",
-          "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MPBY5231GNMGE2Q9V1FYVN/hi-crypto-offers-russia-no-way-out-from-western-sanctions2-1.jpg",
+          "id": "1a14ff51f0865b54444f0f91d9007485",
+          "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&w=1920&h=1080",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-23T15:39:17.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-29T21:59:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4b55931913faf17e07ad2d74526bef2f.json"
+          "path": "articles/1a14ff51f0865b54444f0f91d9007485.json"
         },
         {
-          "id": "339d867227b6c07c43044691c83ba292",
-          "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f7711f978a2d69fe002fffabb76faa6278fb0b5e-1512x844.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "6386629083cdc785a8ad90a93ac6647a",
+          "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets  ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108421880-1792186330555-gettyimages-2300012077-US_MIDTERMS.jpeg?v=1793306707&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-26T04:37:02.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-30T12:45:16.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/339d867227b6c07c43044691c83ba292.json"
+          "path": "articles/6386629083cdc785a8ad90a93ac6647a.json"
         },
         {
-          "id": "d38a28c5749c364263846c406abcb5f8",
-          "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/eaa9360be3cda44b478d1a1ebabcc06a490f11a1-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+          "id": "0d788be8833069770f05f6fdb58a6b3a",
+          "title": "Binance's $6.3 billion hack: What we know and what comes next\n",
+          "image": "https://image.cnbcfm.com/api/v1/image/108486124-1793363752484-gettyimages-2302646792-vcg111678111007.jpeg?v=1793363814&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-26T11:53:07.000Z",
+          "category": "stocks",
+          "published_at": "2026-10-30T12:38:53.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d38a28c5749c364263846c406abcb5f8.json"
+          "breaking_score": 100,
+          "path": "articles/0d788be8833069770f05f6fdb58a6b3a.json"
         }
       ],
-      "path": "articles/96d136b78effc33d8ef700f3c0193f56.json"
+      "path": "articles/4f30998060829214bd76c9109947775b.json"
     }
   ]
 }

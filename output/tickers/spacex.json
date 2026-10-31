@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-10-31T05:01:13.044Z",
+  "updated_at": "2026-10-31T05:15:43.140Z",
   "id": "spacex",
   "symbol": "SPACEX",
   "name": "SpaceX",
   "type": "company",
-  "total": 3,
+  "total": 4,
   "articles": [
+    {
+      "id": "783e410cb3aa62d0981ff8e1030fecf9",
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "description": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        },
+        {
+          "id": "blockchain",
+          "name": "Blockchain",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-10-31T05:01:32.000Z",
+      "related": [
+        {
+          "id": "b0ce413269272f0fcab67dc46ab433d2",
+          "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/elon-musk-changpeng-zhao-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T16:25:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/b0ce413269272f0fcab67dc46ab433d2.json"
+        },
+        {
+          "id": "2b0835c6ba1859cd81541563f272ea6c",
+          "title": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+          "image": "https://image.cnbcfm.com/api/v1/image/108152763-1748632191432-gettyimages-2217113797-AFP_48PB7F7.jpeg?v=1748633237&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T20:02:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/2b0835c6ba1859cd81541563f272ea6c.json"
+        },
+        {
+          "id": "687ece35c4fc1a300b764e807ed3af20",
+          "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+          "image": "https://image.cnbcfm.com/api/v1/image/108369800-17907123772026-09-29t200433z_288467711_rc28tnajcuq5_rtrmadp_0_usa-trump.jpeg?v=1793371125&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-30T15:14:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/687ece35c4fc1a300b764e807ed3af20.json"
+        },
+        {
+          "id": "b00495d74f13a4122ebace00a348244d",
+          "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T11:51:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/b00495d74f13a4122ebace00a348244d.json"
+        },
+        {
+          "id": "2c74801eec4a3e591b317b8fa37f8f3e",
+          "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T11:09:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/2c74801eec4a3e591b317b8fa37f8f3e.json"
+        }
+      ],
+      "path": "articles/783e410cb3aa62d0981ff8e1030fecf9.json"
+    },
     {
       "id": "2b0835c6ba1859cd81541563f272ea6c",
       "title": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
@@ -74,6 +206,22 @@
           "path": "articles/b0ce413269272f0fcab67dc46ab433d2.json"
         },
         {
+          "id": "783e410cb3aa62d0981ff8e1030fecf9",
+          "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-31T05:01:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/783e410cb3aa62d0981ff8e1030fecf9.json"
+        },
+        {
           "id": "e76b98b9ac2fb4a9f0579a0dc2c1b4d8",
           "title": "$6.3 billion Binance hack is largest crypto theft on record",
           "image": "https://image.cnbcfm.com/api/v1/image/108486125-1793374296099-108486125-1793363753922-gettyimages-2302646831-vcg111678111014.jpeg?v=1793374312&w=1920&h=1080",
@@ -104,22 +252,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/fac47b9da0e1458d5c46ce79267bd0d1.json"
-        },
-        {
-          "id": "33bbdee050b209ec508e886328d1ffd8",
-          "title": "Why bitcoin held up better after the record Binance hack",
-          "image": "https://image.cnbcfm.com/api/v1/image/108484198-1793330361900-gettyimages-2206279872-AA_25032025_2144027.jpeg?v=1793379056&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-10-30T18:07:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 15,
-          "path": "articles/33bbdee050b209ec508e886328d1ffd8.json"
         }
       ],
       "path": "articles/2b0835c6ba1859cd81541563f272ea6c.json"
@@ -176,6 +308,22 @@
           "path": "articles/2b0835c6ba1859cd81541563f272ea6c.json"
         },
         {
+          "id": "783e410cb3aa62d0981ff8e1030fecf9",
+          "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-31T05:01:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/783e410cb3aa62d0981ff8e1030fecf9.json"
+        },
+        {
           "id": "687ece35c4fc1a300b764e807ed3af20",
           "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
           "image": "https://image.cnbcfm.com/api/v1/image/108369800-17907123772026-09-29t200433z_288467711_rc28tnajcuq5_rtrmadp_0_usa-trump.jpeg?v=1793371125&w=1920&h=1080",
@@ -222,22 +370,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 40,
           "path": "articles/5c98d4b7cd24b95073c5e571933cd5f2.json"
-        },
-        {
-          "id": "ac2f48d81fe21ac5a683d83012751bda",
-          "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T17:50:26.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/ac2f48d81fe21ac5a683d83012751bda.json"
         }
       ],
       "path": "articles/b0ce413269272f0fcab67dc46ab433d2.json"
@@ -324,6 +456,22 @@
           "path": "articles/b0ce413269272f0fcab67dc46ab433d2.json"
         },
         {
+          "id": "783e410cb3aa62d0981ff8e1030fecf9",
+          "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-31T05:01:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/783e410cb3aa62d0981ff8e1030fecf9.json"
+        },
+        {
           "id": "5098245e22821fff6b1984b0fd08989a",
           "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
           "image": "https://image.cnbcfm.com/api/v1/image/108443816-1792619674334-gettyimages-2296213884-META_CONNECT.jpeg?v=1792619769&w=1920&h=1080",
@@ -354,22 +502,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/dbc8511b3019669d076a1a66041236cb.json"
-        },
-        {
-          "id": "70b3b364ca770cebffc726339d1915c5",
-          "title": "  SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence\n",
-          "image": "",
-          "source": {
-            "id": "sec-press-releases",
-            "name": "SEC Press Releases",
-            "website": "",
-            "icon": ""
-          },
-          "category": "stocks",
-          "published_at": "2026-10-19T17:19:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/70b3b364ca770cebffc726339d1915c5.json"
         }
       ],
       "path": "articles/687ece35c4fc1a300b764e807ed3af20.json"

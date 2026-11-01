@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-01T16:01:17.499Z",
+  "updated_at": "2026-11-01T16:15:50.218Z",
   "articles": {
-    "generated_at": "2026-11-01T16:01:17.499Z",
+    "generated_at": "2026-11-01T16:15:50.218Z",
     "topics": [
       {
         "id": "crypto",
@@ -157,8 +157,22 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 25,
+        "count": 26,
         "articles": [
+          {
+            "id": "76835d409d97c769b53cff0dfd62be46",
+            "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-01T16:01:02.000Z",
+            "path": "articles/76835d409d97c769b53cff0dfd62be46.json"
+          },
           {
             "id": "78f7a83e386d3f9bd80908be49f28870",
             "title": "Here’s what happened in crypto today",
@@ -284,20 +298,6 @@
             "category": "crypto",
             "published_at": "2026-10-31T12:49:47.000Z",
             "path": "articles/cd96c0925ac39900e77978421e6360b4.json"
-          },
-          {
-            "id": "783e410cb3aa62d0981ff8e1030fecf9",
-            "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-31T05:01:32.000Z",
-            "path": "articles/783e410cb3aa62d0981ff8e1030fecf9.json"
           }
         ]
       },
@@ -308,6 +308,20 @@
         "icon": "",
         "count": 17,
         "articles": [
+          {
+            "id": "4f591ad0454d980bf0e6f82f803218e9",
+            "title": "Everything changed for the oil, AI and bond trades over the past month",
+            "image": "https://image.cnbcfm.com/api/v1/image/100617493-113215716.jpg?v=1677525346&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-01T15:58:24.000Z",
+            "path": "articles/4f591ad0454d980bf0e6f82f803218e9.json"
+          },
           {
             "id": "26ccc0af1d98a43719b12833bd3bd3bc",
             "title": "Why AI is boosting Meta's ad business while hurting Google search",
@@ -433,20 +447,6 @@
             "category": "stocks",
             "published_at": "2026-10-31T12:00:01.000Z",
             "path": "articles/89d105ce6e236e0785b6d71bb0d1961a.json"
-          },
-          {
-            "id": "133238f65a6f3a7b4802dacd5882f4a9",
-            "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-31T00:48:56.000Z",
-            "path": "articles/133238f65a6f3a7b4802dacd5882f4a9.json"
           }
         ]
       },
@@ -851,11 +851,76 @@
         ]
       },
       {
+        "id": "etf",
+        "name": "ETF",
+        "type": "topic",
+        "icon": "",
+        "count": 4,
+        "articles": [
+          {
+            "id": "76835d409d97c769b53cff0dfd62be46",
+            "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-01T16:01:02.000Z",
+            "path": "articles/76835d409d97c769b53cff0dfd62be46.json"
+          },
+          {
+            "id": "a6d65a37ffaa4d473ac0dc024f91aafd",
+            "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem ",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WK9FWJATF4KMADN8DRH10/hi-will-googles-quantum-supremacy-break-bitcoin-in-2022.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-30T17:09:31.000Z",
+            "path": "articles/a6d65a37ffaa4d473ac0dc024f91aafd.json"
+          },
+          {
+            "id": "42e6253a8127ed4d35a9855571ec0a4c",
+            "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-B2-decrypt-style-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-29T16:32:47.000Z",
+            "path": "articles/42e6253a8127ed4d35a9855571ec0a4c.json"
+          },
+          {
+            "id": "0f157afb157038312b23055bad318715",
+            "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-10-29T12:30:38.000Z",
+            "path": "articles/0f157afb157038312b23055bad318715.json"
+          }
+        ]
+      },
+      {
         "id": "openai",
         "name": "OpenAI",
         "type": "company",
         "icon": "",
-        "count": 5,
+        "count": 4,
         "articles": [
           {
             "id": "00def578ad14256c3535ba6ba02fc221",
@@ -912,20 +977,6 @@
             "category": "crypto",
             "published_at": "2026-10-31T00:48:56.000Z",
             "path": "articles/133238f65a6f3a7b4802dacd5882f4a9.json"
-          },
-          {
-            "id": "b5b9900e0b7f30939e77e88f94a1c990",
-            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T19:16:02.000Z",
-            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
           }
         ]
       },
@@ -934,7 +985,7 @@
         "name": "Google",
         "type": "company",
         "icon": "https://logo.clearbit.com/google.com",
-        "count": 4,
+        "count": 3,
         "articles": [
           {
             "id": "26ccc0af1d98a43719b12833bd3bd3bc",
@@ -977,20 +1028,6 @@
             "category": "crypto",
             "published_at": "2026-10-29T19:46:02.000Z",
             "path": "articles/c3af9cc7706c6a55ed59a7e9210aee25.json"
-          },
-          {
-            "id": "b5b9900e0b7f30939e77e88f94a1c990",
-            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T19:16:02.000Z",
-            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
           }
         ]
       },
@@ -1148,53 +1185,39 @@
         ]
       },
       {
-        "id": "etf",
-        "name": "ETF",
-        "type": "topic",
+        "id": "oil",
+        "name": "Oil",
+        "type": "commodity",
         "icon": "",
-        "count": 3,
+        "count": 2,
         "articles": [
           {
-            "id": "a6d65a37ffaa4d473ac0dc024f91aafd",
-            "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem ",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WK9FWJATF4KMADN8DRH10/hi-will-googles-quantum-supremacy-break-bitcoin-in-2022.jpg",
+            "id": "4f591ad0454d980bf0e6f82f803218e9",
+            "title": "Everything changed for the oil, AI and bond trades over the past month",
+            "image": "https://image.cnbcfm.com/api/v1/image/100617493-113215716.jpg?v=1677525346&w=1920&h=1080",
             "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
             },
-            "category": "crypto",
-            "published_at": "2026-10-30T17:09:31.000Z",
-            "path": "articles/a6d65a37ffaa4d473ac0dc024f91aafd.json"
+            "category": "stocks",
+            "published_at": "2026-11-01T15:58:24.000Z",
+            "path": "articles/4f591ad0454d980bf0e6f82f803218e9.json"
           },
           {
-            "id": "42e6253a8127ed4d35a9855571ec0a4c",
-            "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-B2-decrypt-style-gID_7.png@png",
+            "id": "2b4316df2a7fd8463a63ea2a141c124f",
+            "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+            "image": "https://image.cnbcfm.com/api/v1/image/108478855-1793252242563-gettyimages-2265325794-US-.jpeg?v=1793376733&w=1920&h=1080",
             "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
             },
-            "category": "crypto",
-            "published_at": "2026-10-29T16:32:47.000Z",
-            "path": "articles/42e6253a8127ed4d35a9855571ec0a4c.json"
-          },
-          {
-            "id": "0f157afb157038312b23055bad318715",
-            "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-29T12:30:38.000Z",
-            "path": "articles/0f157afb157038312b23055bad318715.json"
+            "category": "stocks",
+            "published_at": "2026-10-31T06:00:02.000Z",
+            "path": "articles/2b4316df2a7fd8463a63ea2a141c124f.json"
           }
         ]
       },
@@ -1490,29 +1513,6 @@
         ]
       },
       {
-        "id": "oil",
-        "name": "Oil",
-        "type": "commodity",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "2b4316df2a7fd8463a63ea2a141c124f",
-            "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
-            "image": "https://image.cnbcfm.com/api/v1/image/108478855-1793252242563-gettyimages-2265325794-US-.jpeg?v=1793376733&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-31T06:00:02.000Z",
-            "path": "articles/2b4316df2a7fd8463a63ea2a141c124f.json"
-          }
-        ]
-      },
-      {
         "id": "intc",
         "name": "Intel",
         "type": "company",
@@ -1578,29 +1578,6 @@
             "category": "crypto",
             "published_at": "2026-10-29T19:46:02.000Z",
             "path": "articles/c3af9cc7706c6a55ed59a7e9210aee25.json"
-          }
-        ]
-      },
-      {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "b5b9900e0b7f30939e77e88f94a1c990",
-            "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-10-28T19:16:02.000Z",
-            "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
           }
         ]
       }

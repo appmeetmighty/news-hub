@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T16:01:17.496Z",
-  "total": 27,
+  "updated_at": "2026-11-01T16:15:50.214Z",
+  "total": 26,
   "entities": [
     {
       "id": "crypto",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
+      "count": 26
     },
     {
       "id": "ai",
@@ -56,13 +56,20 @@
       "count": 5
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 5
+      "count": 4
     },
     {
       "id": "googl",
@@ -71,7 +78,7 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 4
+      "count": 3
     },
     {
       "id": "spacex",
@@ -99,11 +106,13 @@
       "count": 3
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
-      "count": 3
+      "count": 2
     },
     {
       "id": "meta",
@@ -183,15 +192,6 @@
       "count": 1
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "intc",
       "symbol": "INTC",
       "name": "Intel",
@@ -216,15 +216,6 @@
       "type": "company",
       "path": "tickers/gemini.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 1
     }
   ]

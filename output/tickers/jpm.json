@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T18:45:52.480Z",
+  "updated_at": "2026-11-01T19:02:19.881Z",
   "id": "jpm",
   "symbol": "JPM",
   "name": "JPMorgan",
@@ -7,21 +7,45 @@
   "total": 1,
   "articles": [
     {
-      "id": "9a85f1b7d5e1caa9ec49cd067235cfe2",
-      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
-      "description": "Seven more companies, including JPMorgan Chase, Coca-Cola and Dell, have objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 33.",
+      "id": "c9ab28069c567c9322343ccd5b877caf",
+      "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+      "description": "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/jp-morgan-decrypt-style-gID_7.jpg@png",
+      "url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108366319-1790097197761-gettyimages-2296543533-img_3410.jpeg?v=1791300056&w=1920&h=1080",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "mstr",
+          "symbol": "MSTR",
+          "name": "Strategy",
+          "type": "company",
+          "path": "tickers/mstr.json",
+          "icon": "https://logo.clearbit.com/strategy.com"
+        },
         {
           "id": "jpm",
           "symbol": "JPM",
@@ -29,46 +53,52 @@
           "type": "company",
           "path": "tickers/jpm.json",
           "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-10-28T15:05:03.000Z",
+      "published_at": "2026-11-01T16:34:43.000Z",
       "related": [
         {
-          "id": "def25df3dab59d7d40219dab7f979762",
-          "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/03/shutterstock_11416303911-gID_4.jpg@png",
+          "id": "26ccc0af1d98a43719b12833bd3bd3bc",
+          "title": "Why AI is boosting Meta's ad business while hurting Google search",
+          "image": "https://image.cnbcfm.com/api/v1/image/108497472-1793543323692-gettyimages-2231576298-AA_27082025_2388287.jpeg?v=1793543337&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-10-29T15:07:15.000Z",
+          "category": "stocks",
+          "published_at": "2026-11-01T14:31:29.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/def25df3dab59d7d40219dab7f979762.json"
+          "path": "articles/26ccc0af1d98a43719b12833bd3bd3bc.json"
         },
         {
-          "id": "d61c462a8b4ef4560910ebd06b5c8489",
-          "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-16-gID_7.png@png",
+          "id": "0de3aa68bbe2350f947343eedb4c0467",
+          "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N18RTP4EB58E1CCHH5C3R/earnings-calls-strategy-saylor-phong-le.jpg",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-28T19:46:03.000Z",
+          "published_at": "2026-10-30T05:53:07.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d61c462a8b4ef4560910ebd06b5c8489.json"
+          "path": "articles/0de3aa68bbe2350f947343eedb4c0467.json"
         },
         {
-          "id": "1e37d28f3cea5a61c012afaec75113c5",
-          "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+          "id": "9a955f044ce39d4a4d3fe439bada30f6",
+          "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -76,45 +106,45 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-30T18:16:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1e37d28f3cea5a61c012afaec75113c5.json"
-        },
-        {
-          "id": "ac2f48d81fe21ac5a683d83012751bda",
-          "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T17:50:26.000Z",
+          "published_at": "2026-10-30T20:06:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 60,
-          "path": "articles/ac2f48d81fe21ac5a683d83012751bda.json"
+          "path": "articles/9a955f044ce39d4a4d3fe439bada30f6.json"
         },
         {
-          "id": "486f917a4ae5e8282549959741648bdf",
-          "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-ceo-richard-teng-decrypt-style-gID_7.jpg@png",
+          "id": "9b8b525533b98b261ca176b333a84acb",
+          "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WKPS8FDGYTHCJZHC1FP3Y/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold.png",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-30T16:34:21.000Z",
+          "published_at": "2026-10-30T17:48:27.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/486f917a4ae5e8282549959741648bdf.json"
+          "breaking_score": 100,
+          "path": "articles/9b8b525533b98b261ca176b333a84acb.json"
+        },
+        {
+          "id": "1c7b063277d76f90dd3ef44ff8957d9a",
+          "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+          "image": "https://image.cnbcfm.com/api/v1/image/108410434-1792008079105-IMG_6557.jpeg?v=1793391159&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-10-31T12:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1c7b063277d76f90dd3ef44ff8957d9a.json"
         }
       ],
-      "path": "articles/9a85f1b7d5e1caa9ec49cd067235cfe2.json"
+      "path": "articles/c9ab28069c567c9322343ccd5b877caf.json"
     }
   ]
 }

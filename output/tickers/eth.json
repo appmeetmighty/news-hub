@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-11-01T01:08:27.466Z",
+  "updated_at": "2026-11-01T01:15:45.147Z",
   "id": "eth",
   "symbol": "ETH",
   "name": "Ethereum",
   "type": "crypto",
-  "total": 5,
+  "total": 6,
   "articles": [
+    {
+      "id": "6724d57ad69fa5198dbac521b97f3581",
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "description": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
+      "reading_time_minutes": 1,
+      "breaking_score": 60,
+      "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
+        {
+          "id": "sol",
+          "symbol": "SOL",
+          "name": "Solana",
+          "type": "crypto",
+          "path": "tickers/sol.json",
+          "icon": "https://assets.coincap.io/assets/icons/sol@2x.png"
+        },
+        {
+          "id": "defi",
+          "name": "DeFi",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-01T01:10:05.000Z",
+      "related": [
+        {
+          "id": "a7d0454df60d01ef45c981b4f2e8434e",
+          "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M663XBRMVF35RHDZ0MC72744/hacker-binance-bitcoin-treasury.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T10:54:30.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/a7d0454df60d01ef45c981b4f2e8434e.json"
+        },
+        {
+          "id": "2c74801eec4a3e591b317b8fa37f8f3e",
+          "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T11:09:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/2c74801eec4a3e591b317b8fa37f8f3e.json"
+        },
+        {
+          "id": "cd96c0925ac39900e77978421e6360b4",
+          "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-31T12:49:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/cd96c0925ac39900e77978421e6360b4.json"
+        },
+        {
+          "id": "b00495d74f13a4122ebace00a348244d",
+          "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-30T11:51:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/b00495d74f13a4122ebace00a348244d.json"
+        },
+        {
+          "id": "ea6f1e5d54aae4aa119990d106650d4f",
+          "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6784E305ZRSTBDYV0WKG4RR/hi-true-or-false-91-of-surveys-about-bitcoin-and-crypto-are-totally-wrong.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-10-31T15:26:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/ea6f1e5d54aae4aa119990d106650d4f.json"
+        }
+      ],
+      "path": "articles/6724d57ad69fa5198dbac521b97f3581.json"
+    },
     {
       "id": "7fb205c2d7baac2ba704bbf2c5320c12",
       "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
@@ -48,6 +180,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 5,
           "path": "articles/adeba7a5a9d402d8e048fd18ed86307e.json"
+        },
+        {
+          "id": "6724d57ad69fa5198dbac521b97f3581",
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-01T01:10:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/6724d57ad69fa5198dbac521b97f3581.json"
         },
         {
           "id": "3436ea5e9682eb784bae3b984f8f27c4",
@@ -96,22 +244,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 40,
           "path": "articles/a7d0454df60d01ef45c981b4f2e8434e.json"
-        },
-        {
-          "id": "1f61478bd8f2e41d38174f299191dea3",
-          "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-31T15:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/1f61478bd8f2e41d38174f299191dea3.json"
         }
       ],
       "path": "articles/7fb205c2d7baac2ba704bbf2c5320c12.json"
@@ -143,6 +275,22 @@
       ],
       "published_at": "2026-10-30T11:35:16.000Z",
       "related": [
+        {
+          "id": "6724d57ad69fa5198dbac521b97f3581",
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-01T01:10:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/6724d57ad69fa5198dbac521b97f3581.json"
+        },
         {
           "id": "7fb205c2d7baac2ba704bbf2c5320c12",
           "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
@@ -206,22 +354,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/770121172ef8dd49dce197f4e6275049.json"
-        },
-        {
-          "id": "97b9c052a9af2fbf5b0fdd001d56c279",
-          "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-31T15:24:10.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/97b9c052a9af2fbf5b0fdd001d56c279.json"
         }
       ],
       "path": "articles/3436ea5e9682eb784bae3b984f8f27c4.json"
@@ -270,6 +402,22 @@
           "path": "articles/7fb205c2d7baac2ba704bbf2c5320c12.json"
         },
         {
+          "id": "6724d57ad69fa5198dbac521b97f3581",
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-01T01:10:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/6724d57ad69fa5198dbac521b97f3581.json"
+        },
+        {
           "id": "a7d0454df60d01ef45c981b4f2e8434e",
           "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M663XBRMVF35RHDZ0MC72744/hacker-binance-bitcoin-treasury.jpg",
@@ -316,22 +464,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3436ea5e9682eb784bae3b984f8f27c4.json"
-        },
-        {
-          "id": "f9c37ba6f152c4f30b2fc6db536071f4",
-          "title": "Binance says it holds $5B in matching tokens to cover hack losses",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66BRB3N5FEXF6ZJA32PXWYM/hi-binance-is-now-accumulating-btc-at-an-even-faster-rate.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T12:41:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/f9c37ba6f152c4f30b2fc6db536071f4.json"
         }
       ],
       "path": "articles/adeba7a5a9d402d8e048fd18ed86307e.json"
@@ -371,6 +503,22 @@
       ],
       "published_at": "2026-10-30T10:54:30.000Z",
       "related": [
+        {
+          "id": "6724d57ad69fa5198dbac521b97f3581",
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-01T01:10:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/6724d57ad69fa5198dbac521b97f3581.json"
+        },
         {
           "id": "ea6f1e5d54aae4aa119990d106650d4f",
           "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
@@ -434,22 +582,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/2300d9cc39e561968c980434a7955f76.json"
-        },
-        {
-          "id": "d38eec0b35bb32513c2959373d821e5b",
-          "title": "Bitcoin turns 18: Has the original rebel grown up?",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-31T14:27:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/d38eec0b35bb32513c2959373d821e5b.json"
         }
       ],
       "path": "articles/a7d0454df60d01ef45c981b4f2e8434e.json"
@@ -487,6 +619,22 @@
       ],
       "published_at": "2026-10-29T22:57:48.000Z",
       "related": [
+        {
+          "id": "6724d57ad69fa5198dbac521b97f3581",
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-01T01:10:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 60,
+          "path": "articles/6724d57ad69fa5198dbac521b97f3581.json"
+        },
         {
           "id": "7fb205c2d7baac2ba704bbf2c5320c12",
           "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
@@ -550,22 +698,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3436ea5e9682eb784bae3b984f8f27c4.json"
-        },
-        {
-          "id": "ab3f0e5e12ce778f0ae574030e4f245d",
-          "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-30T21:16:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 15,
-          "path": "articles/ab3f0e5e12ce778f0ae574030e4f245d.json"
         }
       ],
       "path": "articles/770121172ef8dd49dce197f4e6275049.json"

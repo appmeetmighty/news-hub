@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-01T22:15:48.028Z",
+  "updated_at": "2026-11-01T22:31:05.101Z",
   "articles": {
-    "generated_at": "2026-11-01T22:15:48.028Z",
+    "generated_at": "2026-11-01T22:31:05.101Z",
     "topics": [
       {
         "id": "crypto",
@@ -309,6 +309,20 @@
         "count": 18,
         "articles": [
           {
+            "id": "4f591ad0454d980bf0e6f82f803218e9",
+            "title": "Everything changed for the oil, AI and bond trades over the past month",
+            "image": "https://image.cnbcfm.com/api/v1/image/100617493-113215716.jpg?v=1677525346&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-01T22:27:40.000Z",
+            "path": "articles/4f591ad0454d980bf0e6f82f803218e9.json"
+          },
+          {
             "id": "a194e370de7d47b028dfa59b3ceb43d9",
             "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
             "image": "",
@@ -335,20 +349,6 @@
             "category": "stocks",
             "published_at": "2026-11-01T16:34:43.000Z",
             "path": "articles/c9ab28069c567c9322343ccd5b877caf.json"
-          },
-          {
-            "id": "4f591ad0454d980bf0e6f82f803218e9",
-            "title": "Everything changed for the oil, AI and bond trades over the past month",
-            "image": "https://image.cnbcfm.com/api/v1/image/100617493-113215716.jpg?v=1677525346&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-01T15:58:24.000Z",
-            "path": "articles/4f591ad0454d980bf0e6f82f803218e9.json"
           },
           {
             "id": "26ccc0af1d98a43719b12833bd3bd3bc",
@@ -1236,6 +1236,43 @@
         ]
       },
       {
+        "id": "oil",
+        "name": "Oil",
+        "type": "commodity",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "4f591ad0454d980bf0e6f82f803218e9",
+            "title": "Everything changed for the oil, AI and bond trades over the past month",
+            "image": "https://image.cnbcfm.com/api/v1/image/100617493-113215716.jpg?v=1677525346&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-01T22:27:40.000Z",
+            "path": "articles/4f591ad0454d980bf0e6f82f803218e9.json"
+          },
+          {
+            "id": "2b4316df2a7fd8463a63ea2a141c124f",
+            "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+            "image": "https://image.cnbcfm.com/api/v1/image/108478855-1793252242563-gettyimages-2265325794-US-.jpeg?v=1793376733&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-10-31T06:00:02.000Z",
+            "path": "articles/2b4316df2a7fd8463a63ea2a141c124f.json"
+          }
+        ]
+      },
+      {
         "id": "meta",
         "name": "Meta",
         "type": "company",
@@ -1269,43 +1306,6 @@
             "category": "stocks",
             "published_at": "2026-11-01T14:31:29.000Z",
             "path": "articles/26ccc0af1d98a43719b12833bd3bd3bc.json"
-          }
-        ]
-      },
-      {
-        "id": "oil",
-        "name": "Oil",
-        "type": "commodity",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "4f591ad0454d980bf0e6f82f803218e9",
-            "title": "Everything changed for the oil, AI and bond trades over the past month",
-            "image": "https://image.cnbcfm.com/api/v1/image/100617493-113215716.jpg?v=1677525346&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-01T15:58:24.000Z",
-            "path": "articles/4f591ad0454d980bf0e6f82f803218e9.json"
-          },
-          {
-            "id": "2b4316df2a7fd8463a63ea2a141c124f",
-            "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
-            "image": "https://image.cnbcfm.com/api/v1/image/108478855-1793252242563-gettyimages-2265325794-US-.jpeg?v=1793376733&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-10-31T06:00:02.000Z",
-            "path": "articles/2b4316df2a7fd8463a63ea2a141c124f.json"
           }
         ]
       },

@@ -1,9 +1,9 @@
 {
   "id": "f96e65aa2758248300f25507d49bab1e",
-  "title": "Live updates: Bitcoin bounce fades as Binance exploit continues to weigh",
-  "description": "Outflows from Binances followed a 45-hour withdrawal freeze after a $6.3 billion theft, with rival exchanges attracting deposits as customers regained access to their funds.",
+  "title": "Live updates: Bitcoin bounce fades as Binance exploit, AI unwind continue to weigh",
+  "description": "The Nasdaq flipped from a 1% gain to a 1% decline on Monday even as interest rates pulled back and oil plunged on hopes for Middle East peace.",
   "reading_time_minutes": 1,
-  "breaking_score": 60,
+  "breaking_score": 85,
   "url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
   "image": "",
   "source": {
@@ -21,10 +21,56 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": ""
     }
   ],
   "published_at": "2026-11-02T08:49:30.000Z",
   "related": [
+    {
+      "id": "75390722967122355420dedb5fda8fdf",
+      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-11-02T04:42:22.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 40,
+      "path": "articles/75390722967122355420dedb5fda8fdf.json"
+    },
+    {
+      "id": "a179a5488d0e2cef5ec558bd4ae5a57a",
+      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ER84KWFRV6AB54PVPNX1S9/oil-bitcoin-petrol-2-960x640-960x640.webp",
+      "source": {
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-11-02T19:27:58.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/a179a5488d0e2cef5ec558bd4ae5a57a.json"
+    },
     {
       "id": "9b735eca5cdf8905082a0f15b27e653c",
       "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
@@ -72,38 +118,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/c5209a6ae2b7ce0d70e41b26e73b3e1d.json"
-    },
-    {
-      "id": "f9f7aa77694272c22ae3025eff5ca3ae",
-      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-11-02T15:53:29.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "path": "articles/f9f7aa77694272c22ae3025eff5ca3ae.json"
-    },
-    {
-      "id": "ca1675fa0aa473fd039f87f5dd016038",
-      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1KKJ1JWX0XVFV8YM0PG3Q/hi-binance-announces-mining-pool-and-chain-white-paper-slammed-for-centralization-in-both-cases.jpg",
-      "source": {
-        "id": "cointelegraph",
-        "name": "Cointelegraph",
-        "website": "https://cointelegraph.com",
-        "icon": "https://logo.clearbit.com/cointelegraph.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-11-02T13:21:47.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 60,
-      "path": "articles/ca1675fa0aa473fd039f87f5dd016038.json"
     }
   ]
 }

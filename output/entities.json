@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T19:31:14.190Z",
+  "updated_at": "2026-11-02T19:45:52.824Z",
   "total": 24,
   "entities": [
     {
@@ -58,13 +58,6 @@
       "count": 4
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -72,6 +65,15 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "anthropic",
@@ -89,6 +91,13 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 3
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
       "count": 3
     },
     {
@@ -129,15 +138,6 @@
       "name": "SpaceX",
       "type": "company",
       "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
       "icon": "",
       "count": 2
     },

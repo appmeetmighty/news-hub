@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T12:31:15.370Z",
+  "updated_at": "2026-11-02T12:46:23.368Z",
   "total": 26,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 39
+      "count": 38
     },
     {
       "id": "btc",
@@ -40,6 +40,13 @@
       "count": 6
     },
     {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 5
+    },
+    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
@@ -52,13 +59,6 @@
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
       "icon": "",
       "count": 4
     },
@@ -122,6 +122,15 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 2
     },
     {
       "id": "meta",
@@ -191,15 +200,6 @@
       "type": "company",
       "path": "tickers/intc.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 1
     },
     {

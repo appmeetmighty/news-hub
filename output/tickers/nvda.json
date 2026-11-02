@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T16:01:17.496Z",
+  "updated_at": "2026-11-02T15:31:13.002Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
@@ -7,21 +7,37 @@
   "total": 1,
   "articles": [
     {
-      "id": "b5b9900e0b7f30939e77e88f94a1c990",
-      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-      "description": "OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.",
+      "id": "1db68ad5c8db876cc7d00195f56c2865",
+      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+      "description": "Nearly 70% of the companies initially picked for trading have opted out, while 19 firms including Apple, Tesla and Amazon have no disclosed objection as the 30-day response window nears its end.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+      "url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+      "image": "",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
+          "type": "company",
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
         {
           "id": "nvda",
           "symbol": "NVDA",
@@ -31,34 +47,20 @@
           "icon": "https://logo.clearbit.com/nvidia.com"
         },
         {
-          "id": "googl",
-          "symbol": "GOOGL",
-          "name": "Google",
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
           "type": "company",
-          "path": "tickers/googl.json",
-          "icon": "https://logo.clearbit.com/google.com"
-        },
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
         }
       ],
-      "published_at": "2026-10-28T19:16:02.000Z",
+      "published_at": "2026-11-02T15:26:43.000Z",
       "related": [
         {
-          "id": "234d2df90b82482d9b553f49347919d5",
-          "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg@png",
+          "id": "b0ce413269272f0fcab67dc46ab433d2",
+          "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/elon-musk-changpeng-zhao-decrypt-style-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -66,31 +68,31 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-30T19:31:02.000Z",
+          "published_at": "2026-10-30T16:25:06.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/234d2df90b82482d9b553f49347919d5.json"
+          "breaking_score": 60,
+          "path": "articles/b0ce413269272f0fcab67dc46ab433d2.json"
         },
         {
-          "id": "00def578ad14256c3535ba6ba02fc221",
-          "title": "DeepSeek developing AI agent requiring less human input: Report  ",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6BNBCY09X57GCM10X7FBK0P/make-ai-great1-1.jpg",
+          "id": "c9ab28069c567c9322343ccd5b877caf",
+          "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+          "image": "https://image.cnbcfm.com/api/v1/image/108366319-1790097197761-gettyimages-2296543533-img_3410.jpeg?v=1791300056&w=1920&h=1080",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-11-01T13:40:33.000Z",
+          "category": "stocks",
+          "published_at": "2026-11-01T16:34:43.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/00def578ad14256c3535ba6ba02fc221.json"
+          "path": "articles/c9ab28069c567c9322343ccd5b877caf.json"
         },
         {
-          "id": "9222a61d3a3faadd3d1dc0267aee7720",
-          "title": "Why AI Models Cheat: Reward Hacking, Explained",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
+          "id": "def25df3dab59d7d40219dab7f979762",
+          "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/03/shutterstock_11416303911-gID_4.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -98,14 +100,14 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-10-31T13:01:03.000Z",
+          "published_at": "2026-10-29T15:07:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9222a61d3a3faadd3d1dc0267aee7720.json"
+          "path": "articles/def25df3dab59d7d40219dab7f979762.json"
         },
         {
-          "id": "133238f65a6f3a7b4802dacd5882f4a9",
-          "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+          "id": "cd40547ceeaa5e81949deb17a333b81c",
+          "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -114,29 +116,29 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-31T00:48:56.000Z",
+          "published_at": "2026-11-02T15:05:24.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/133238f65a6f3a7b4802dacd5882f4a9.json"
+          "path": "articles/cd40547ceeaa5e81949deb17a333b81c.json"
         },
         {
-          "id": "c3af9cc7706c6a55ed59a7e9210aee25",
-          "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "id": "4f05637b779f9e2bbdcb82a2f5934789",
+          "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+          "image": "",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-29T19:46:02.000Z",
+          "published_at": "2026-11-02T14:00:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/c3af9cc7706c6a55ed59a7e9210aee25.json"
+          "path": "articles/4f05637b779f9e2bbdcb82a2f5934789.json"
         }
       ],
-      "path": "articles/b5b9900e0b7f30939e77e88f94a1c990.json"
+      "path": "articles/1db68ad5c8db876cc7d00195f56c2865.json"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T17:01:33.418Z",
+  "updated_at": "2026-11-02T17:15:53.962Z",
   "total": 26,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
+      "count": 28
     },
     {
       "id": "ai",
@@ -56,11 +56,13 @@
       "count": 5
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
-      "count": 5
+      "count": 4
     },
     {
       "id": "eth",
@@ -81,12 +83,19 @@
       "count": 4
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
       "icon": "",
+      "count": 4
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 3
     },
     {
@@ -106,15 +115,6 @@
       "count": 3
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
@@ -124,12 +124,21 @@
       "count": 3
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
       "count": 2
     },
     {
@@ -167,15 +176,6 @@
       "path": "tickers/spacex.json",
       "icon": "",
       "count": 2
-    },
-    {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
-      "count": 1
     },
     {
       "id": "nvda",

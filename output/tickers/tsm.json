@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T04:15:47.097Z",
+  "updated_at": "2026-11-02T20:15:51.171Z",
   "id": "tsm",
   "symbol": "TSM",
   "name": "TSMC",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "ee50a98846f5eca5bd67c8a7873266aa",
-      "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
-      "description": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
+      "id": "f5ee717e38bb8b533be56d5bfc848e5f",
+      "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
+      "description": "Intel’s turnaround now hinges on proving its foundry strategy can deliver, as customers look for signs the company will add fab capacity and catch TSMC",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108287444-1775496466036-tsmc_cowos_chips.jpg?v=1775509400&w=1920&h=1080",
+      "breaking_score": 25,
+      "url": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108477596-1793228649614-gettyimages-2298424248-JAPAN_INTEL.jpeg?v=1793228835&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,27 +23,19 @@
       "category": "stocks",
       "entities": [
         {
-          "id": "aapl",
-          "symbol": "AAPL",
-          "name": "Apple",
+          "id": "mstr",
+          "symbol": "MSTR",
+          "name": "Strategy",
           "type": "company",
-          "path": "tickers/aapl.json",
-          "icon": "https://logo.clearbit.com/apple.com"
+          "path": "tickers/mstr.json",
+          "icon": "https://logo.clearbit.com/strategy.com"
         },
         {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
+          "id": "intc",
+          "symbol": "INTC",
+          "name": "Intel",
           "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
-        {
-          "id": "amd",
-          "symbol": "AMD",
-          "name": "AMD",
-          "type": "company",
-          "path": "tickers/amd.json",
+          "path": "tickers/intc.json",
           "icon": ""
         },
         {
@@ -53,84 +45,78 @@
           "type": "company",
           "path": "tickers/tsm.json",
           "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
         }
       ],
-      "published_at": "2026-10-15T16:56:07.000Z",
+      "published_at": "2026-11-02T20:07:56.000Z",
       "related": [
         {
-          "id": "324bc9ff4ad65bda53e40f9f25d8e789",
-          "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-          "image": "https://image.cnbcfm.com/api/v1/image/108356675-1788207196062-gettyimages-2291330125-ah704060.jpeg?v=1792096861&w=1920&h=1080",
+          "id": "cf5430aded6b9435d3a8d7d5a1244d21",
+          "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/intel-logo-decrypt-style-01-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-10-15T22:48:12.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-30T20:53:23.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/324bc9ff4ad65bda53e40f9f25d8e789.json"
+          "path": "articles/cf5430aded6b9435d3a8d7d5a1244d21.json"
         },
         {
-          "id": "6928689b54b23f26643a7eb301b74f46",
-          "title": "Apple and Meta team up to make Muse AI model run on Mac computers ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108365129-1789759496033-gettyimages-2295295823-APPLE_IPHONE_18.jpeg?v=1789759546&w=1920&h=1080",
+          "id": "3837e09c4513edc076d3544bcdace237",
+          "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E7B8B7FY6FQZ83QZRCGQHD/hi-who-is-michael-j-saylor-us-flag-1.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-10-15T17:52:01.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-02T13:48:28.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/6928689b54b23f26643a7eb301b74f46.json"
+          "path": "articles/3837e09c4513edc076d3544bcdace237.json"
         },
         {
-          "id": "1cadfa1bff20ec4eecb5a7e2acee1069",
-          "title": "Democrat Talarico says he raised record $64 million over summer in Texas Senate race",
-          "image": "https://image.cnbcfm.com/api/v1/image/108414428-1792074122400-gettyimages-2296282742-hc091126talaricohoustonrally_-2-.jpeg?v=1792074168&w=1920&h=1080",
+          "id": "9502619d5a1d454fd98ff325c7867bb8",
+          "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/michael-saylor-bitcoin-lightning-x-twitter-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-10-15T18:35:25.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-02T13:19:36.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1cadfa1bff20ec4eecb5a7e2acee1069.json"
+          "path": "articles/9502619d5a1d454fd98ff325c7867bb8.json"
         },
         {
-          "id": "67b930aad01e6cf5a7d0b377de46c09d",
-          "title": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
-          "image": "https://image.cnbcfm.com/api/v1/image/108407087-1791955760925-gettyimages-2299270775-DSC_0650.jpeg?v=1791955782&w=1920&h=1080",
+          "id": "9a955f044ce39d4a4d3fe439bada30f6",
+          "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-10-15T06:22:45.000Z",
+          "category": "crypto",
+          "published_at": "2026-10-30T20:06:03.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/67b930aad01e6cf5a7d0b377de46c09d.json"
+          "breaking_score": 60,
+          "path": "articles/9a955f044ce39d4a4d3fe439bada30f6.json"
         },
         {
-          "id": "0c08e490c1ff419ed2e7485cbffe6f87",
-          "title": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108417409-1792116879637-gettyimages-2299704894-THAILAND_IMF_WORLD_BANK.jpeg?v=1792116944&w=1920&h=1080",
+          "id": "c35c7e063732f8f9f650345b2df4fa4f",
+          "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+          "image": "https://image.cnbcfm.com/api/v1/image/106949322-1632916362498-gettyimages-1235565564-848033_NA-POL-0928-CAPITOL-HILL_KKN_29317JPG.jpg?v=1793390260&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -138,13 +124,13 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-10-16T04:08:27.000Z",
+          "published_at": "2026-11-02T18:59:48.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/0c08e490c1ff419ed2e7485cbffe6f87.json"
+          "path": "articles/c35c7e063732f8f9f650345b2df4fa4f.json"
         }
       ],
-      "path": "articles/ee50a98846f5eca5bd67c8a7873266aa.json"
+      "path": "articles/f5ee717e38bb8b533be56d5bfc848e5f.json"
     }
   ]
 }

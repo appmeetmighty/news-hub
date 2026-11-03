@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T13:45:49.654Z",
+  "updated_at": "2026-11-03T14:01:25.897Z",
   "total": 26,
   "entities": [
     {
@@ -16,14 +16,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 29
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 18
+      "count": 19
     },
     {
       "id": "regulation",
@@ -31,6 +31,15 @@
       "type": "topic",
       "icon": "",
       "count": 14
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 5
     },
     {
       "id": "aapl",
@@ -46,22 +55,6 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 5
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
     },
     {
@@ -92,18 +85,25 @@
       "count": 4
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
       "icon": "",
       "count": 3
     },
@@ -153,15 +153,6 @@
       "count": 2
     },
     {
-      "id": "blk",
-      "symbol": "BLK",
-      "name": "BlackRock",
-      "type": "company",
-      "path": "tickers/blk.json",
-      "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 1
-    },
-    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -173,6 +164,15 @@
       "name": "Web3",
       "type": "topic",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 1
     },
     {

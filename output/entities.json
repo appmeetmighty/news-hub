@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T13:01:22.992Z",
-  "total": 27,
+  "updated_at": "2026-11-03T13:15:52.995Z",
+  "total": 26,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 31
+      "count": 32
     },
     {
       "id": "crypto",
@@ -23,7 +23,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 17
+      "count": 18
     },
     {
       "id": "regulation",
@@ -49,10 +49,12 @@
       "count": 5
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
     },
     {
@@ -83,17 +85,15 @@
       "count": 4
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 3
     },
     {
-      "id": "etf",
-      "name": "ETF",
+      "id": "stablecoin",
+      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 3
@@ -207,15 +207,6 @@
       "type": "company",
       "path": "tickers/amzn.json",
       "icon": "https://logo.clearbit.com/amazon.com",
-      "count": 1
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 1
     },
     {

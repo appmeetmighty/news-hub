@@ -1,9 +1,9 @@
 {
   "id": "137828f4fca362dcfe001bd85db5eb7a",
-  "title": "Live updates: Rep. Garcia vows to investigate Trump after 'blue wave' defeats crypto election gamble",
-  "description": "Voters are choosing who will represent them in the House, Senate and state-wide seats.",
+  "title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
+  "description": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
+  "breaking_score": 25,
   "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
   "image": "",
   "source": {
@@ -15,8 +15,16 @@
   "category": "crypto",
   "entities": [
     {
-      "id": "crypto",
-      "name": "Crypto",
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": ""
     }
@@ -24,24 +32,8 @@
   "published_at": "2026-11-04T00:00:00.000Z",
   "related": [
     {
-      "id": "3d545b37eeea430a9ff3c0e27b459ab9",
-      "title": "Midterms Blue Wave Makes $917K for One Polymarket Trader, If Alaska Doesn’t Flip",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-polymarket-01-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "published_at": "2026-11-04T11:48:50.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/3d545b37eeea430a9ff3c0e27b459ab9.json"
-    },
-    {
-      "id": "9cf940aa1e83283c99becca566f2978b",
-      "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+      "id": "ed41f573eb60b1d52578d5882c98f8a7",
+      "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
       "image": "",
       "source": {
         "id": "coindesk",
@@ -50,10 +42,10 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-11-04T10:18:50.000Z",
+      "published_at": "2026-11-04T10:38:58.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/9cf940aa1e83283c99becca566f2978b.json"
+      "path": "articles/ed41f573eb60b1d52578d5882c98f8a7.json"
     },
     {
       "id": "7555848eeda16fbefb4ff237d70a860f",
@@ -72,8 +64,8 @@
       "path": "articles/7555848eeda16fbefb4ff237d70a860f.json"
     },
     {
-      "id": "59f6da417a1cc28104a45144834014e5",
-      "title": "South Korea's ruling party wants to delay its crypto tax again",
+      "id": "10ed4cbe49e0912a06bcbea8edf5a441",
+      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
       "image": "",
       "source": {
         "id": "coindesk",
@@ -82,14 +74,14 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-11-04T05:09:40.000Z",
+      "published_at": "2026-11-04T06:06:04.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/59f6da417a1cc28104a45144834014e5.json"
+      "breaking_score": 30,
+      "path": "articles/10ed4cbe49e0912a06bcbea8edf5a441.json"
     },
     {
-      "id": "183585160f803182715e7dc35097b969",
-      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
+      "id": "9d43312ff562aba78dbf3bbf395e941b",
+      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
       "image": "",
       "source": {
         "id": "coindesk",
@@ -98,10 +90,26 @@
         "icon": "https://logo.clearbit.com/coindesk.com"
       },
       "category": "crypto",
-      "published_at": "2026-11-04T04:55:11.000Z",
+      "published_at": "2026-11-04T05:14:12.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 20,
-      "path": "articles/183585160f803182715e7dc35097b969.json"
+      "breaking_score": 25,
+      "path": "articles/9d43312ff562aba78dbf3bbf395e941b.json"
+    },
+    {
+      "id": "a75d3e787c23c2f081631b8e81006a4d",
+      "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-11-04T04:48:16.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/a75d3e787c23c2f081631b8e81006a4d.json"
     }
   ]
 }

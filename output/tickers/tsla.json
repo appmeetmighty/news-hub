@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-04T11:45:49.432Z",
+  "updated_at": "2026-11-04T12:01:22.146Z",
   "id": "tsla",
   "symbol": "TSLA",
   "name": "Tesla",
   "type": "company",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "69f7bf333b7f645d35a7a6525ba6a3b8",
@@ -96,6 +96,22 @@
           "path": "articles/bd6216b4cfd4265f9dbf1a5d6c3965cb.json"
         },
         {
+          "id": "f928c63b5cf2eb6c03483e07fe5ff9ae",
+          "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+          "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T10:54:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f928c63b5cf2eb6c03483e07fe5ff9ae.json"
+        },
+        {
           "id": "2eb5f289c867aa59eab9d525c7adcec2",
           "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HGH0BNNPHY4QQAS9295KYQ/okxice-with-stop-gesture.png",
@@ -110,6 +126,84 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2eb5f289c867aa59eab9d525c7adcec2.json"
+        }
+      ],
+      "path": "articles/69f7bf333b7f645d35a7a6525ba6a3b8.json"
+    },
+    {
+      "id": "f928c63b5cf2eb6c03483e07fe5ff9ae",
+      "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+      "description": "Elon Musk's $474 million election gamble falters as Democrats threaten his Texas empire.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        }
+      ],
+      "published_at": "2026-11-04T10:54:53.000Z",
+      "related": [
+        {
+          "id": "bd6216b4cfd4265f9dbf1a5d6c3965cb",
+          "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+          "image": "https://image.cnbcfm.com/api/v1/image/108127180-1753219122360-108127180-1743885824387-gettyimages-2194358551-TRUMP_INAUGURATION_2025.jpeg?v=1793780144&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T08:56:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bd6216b4cfd4265f9dbf1a5d6c3965cb.json"
+        },
+        {
+          "id": "69f7bf333b7f645d35a7a6525ba6a3b8",
+          "title": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
+          "image": "https://image.cnbcfm.com/api/v1/image/108511091-1793714895762-gettyimages-2302880756-US_MIDTERMS.jpeg?v=1793714928&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T11:35:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/69f7bf333b7f645d35a7a6525ba6a3b8.json"
+        },
+        {
+          "id": "8d4915788770dc6c9414bf75c4f4ccaf",
+          "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-03T17:46:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8d4915788770dc6c9414bf75c4f4ccaf.json"
         },
         {
           "id": "f32297078687798422d6bbe02fd19c93",
@@ -126,9 +220,25 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/f32297078687798422d6bbe02fd19c93.json"
+        },
+        {
+          "id": "d6e6272f4d11a1cb69f92b6f9b735705",
+          "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/sam-altman-elon-musk-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-02T17:07:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d6e6272f4d11a1cb69f92b6f9b735705.json"
         }
       ],
-      "path": "articles/69f7bf333b7f645d35a7a6525ba6a3b8.json"
+      "path": "articles/f928c63b5cf2eb6c03483e07fe5ff9ae.json"
     },
     {
       "id": "f32297078687798422d6bbe02fd19c93",
@@ -212,6 +322,22 @@
           "path": "articles/da529422de2e771d9fa620afad1aa8c5.json"
         },
         {
+          "id": "f928c63b5cf2eb6c03483e07fe5ff9ae",
+          "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+          "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T10:54:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f928c63b5cf2eb6c03483e07fe5ff9ae.json"
+        },
+        {
           "id": "69f7bf333b7f645d35a7a6525ba6a3b8",
           "title": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
           "image": "https://image.cnbcfm.com/api/v1/image/108511091-1793714895762-gettyimages-2302880756-US_MIDTERMS.jpeg?v=1793714928&w=1920&h=1080",
@@ -226,22 +352,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/69f7bf333b7f645d35a7a6525ba6a3b8.json"
-        },
-        {
-          "id": "bd6216b4cfd4265f9dbf1a5d6c3965cb",
-          "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-          "image": "https://image.cnbcfm.com/api/v1/image/108127180-1753219122360-108127180-1743885824387-gettyimages-2194358551-TRUMP_INAUGURATION_2025.jpeg?v=1793780144&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-04T08:56:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bd6216b4cfd4265f9dbf1a5d6c3965cb.json"
         }
       ],
       "path": "articles/f32297078687798422d6bbe02fd19c93.json"
@@ -290,6 +400,22 @@
           "path": "articles/69f7bf333b7f645d35a7a6525ba6a3b8.json"
         },
         {
+          "id": "f928c63b5cf2eb6c03483e07fe5ff9ae",
+          "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+          "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T10:54:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f928c63b5cf2eb6c03483e07fe5ff9ae.json"
+        },
+        {
           "id": "f32297078687798422d6bbe02fd19c93",
           "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
           "image": "",
@@ -336,22 +462,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/da529422de2e771d9fa620afad1aa8c5.json"
-        },
-        {
-          "id": "d6e6272f4d11a1cb69f92b6f9b735705",
-          "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/sam-altman-elon-musk-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-02T17:07:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d6e6272f4d11a1cb69f92b6f9b735705.json"
         }
       ],
       "path": "articles/bd6216b4cfd4265f9dbf1a5d6c3965cb.json"

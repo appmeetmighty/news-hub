@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T12:45:54.231Z",
+  "updated_at": "2026-11-04T13:01:25.103Z",
   "total": 25,
   "entities": [
     {
@@ -7,14 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 36
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 25
+      "count": 35
     },
     {
       "id": "btc",
@@ -23,6 +16,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 25
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
       "count": 24
     },
     {
@@ -30,7 +30,14 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 19
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "eth",
@@ -55,14 +62,7 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 6
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 6
+      "count": 5
     },
     {
       "id": "spacex",
@@ -99,6 +99,24 @@
       "count": 3
     },
     {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 2
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 2
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -113,15 +131,6 @@
       "path": "tickers/amzn.json",
       "icon": "https://logo.clearbit.com/amazon.com",
       "count": 2
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 1
     },
     {
       "id": "mining",
@@ -198,15 +207,6 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 1
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 1
     }
   ]

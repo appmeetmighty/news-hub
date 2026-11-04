@@ -1,11 +1,161 @@
 {
-  "updated_at": "2026-11-04T19:31:18.329Z",
+  "updated_at": "2026-11-04T19:45:52.327Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
+    {
+      "id": "890a30e715d317976f91bd83ba813aa3",
+      "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+      "description": "Apple, Amazon, Google, Meta and Microsoft stock was up after the midterms, while stocks tied to Trump advisor Elon Musk and data centers fell on Wednesday.",
+      "reading_time_minutes": 1,
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108364987-1789747291534-gettyimages-2295274523-AFP_C8PG29Z.jpeg?v=1789747390&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
+          "type": "company",
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        }
+      ],
+      "published_at": "2026-11-04T19:37:43.000Z",
+      "related": [
+        {
+          "id": "24b9cce5e4b2397a0d42ed9949085b72",
+          "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-04T17:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/24b9cce5e4b2397a0d42ed9949085b72.json"
+        },
+        {
+          "id": "8d4915788770dc6c9414bf75c4f4ccaf",
+          "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-03T17:46:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8d4915788770dc6c9414bf75c4f4ccaf.json"
+        },
+        {
+          "id": "f928c63b5cf2eb6c03483e07fe5ff9ae",
+          "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+          "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T15:29:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f928c63b5cf2eb6c03483e07fe5ff9ae.json"
+        },
+        {
+          "id": "bd6216b4cfd4265f9dbf1a5d6c3965cb",
+          "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+          "image": "https://image.cnbcfm.com/api/v1/image/108127180-1753219122360-108127180-1743885824387-gettyimages-2194358551-TRUMP_INAUGURATION_2025.jpeg?v=1793780144&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T12:51:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bd6216b4cfd4265f9dbf1a5d6c3965cb.json"
+        },
+        {
+          "id": "8bbb14411a87e67b25f2292794c8148f",
+          "title": "Google responds to political backlash over removing search from schools that ban AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108188588-1755702485558-gettyimages-2188607530-DTRAMONTAN_09DEC24_013JPG.jpeg?v=1755702561&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T18:13:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8bbb14411a87e67b25f2292794c8148f.json"
+        }
+      ],
+      "path": "articles/890a30e715d317976f91bd83ba813aa3.json"
+    },
     {
       "id": "8bbb14411a87e67b25f2292794c8148f",
       "title": "Google responds to political backlash over removing search from schools that ban AI",
@@ -40,6 +190,22 @@
       "published_at": "2026-11-04T18:13:10.000Z",
       "related": [
         {
+          "id": "890a30e715d317976f91bd83ba813aa3",
+          "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364987-1789747291534-gettyimages-2295274523-AFP_C8PG29Z.jpeg?v=1789747390&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T19:37:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/890a30e715d317976f91bd83ba813aa3.json"
+        },
+        {
           "id": "24b9cce5e4b2397a0d42ed9949085b72",
           "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
@@ -72,6 +238,22 @@
           "path": "articles/f928c63b5cf2eb6c03483e07fe5ff9ae.json"
         },
         {
+          "id": "b81b0a231ba4a88c7279b99aada706a3",
+          "title": "The post-election rally masks a sharp split in the AI trade. Who stands to win?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108365613-1789996163989-gettyimages-2291433647-GOPDataCenter.jpeg?v=1790107042&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T19:21:20.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b81b0a231ba4a88c7279b99aada706a3.json"
+        },
+        {
           "id": "38f0b567b6109933f4044dc35f9fda5a",
           "title": "What Republicans' huge loss means for Trump",
           "image": "https://image.cnbcfm.com/api/v1/image/108346896-1793796413973-108346896-17861348392026-08-07t202833z_1590292382_rc2wtma8ju17_rtrmadp_0_usa-trump.jpg?v=1793796434&w=1920&h=1080",
@@ -86,38 +268,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/38f0b567b6109933f4044dc35f9fda5a.json"
-        },
-        {
-          "id": "f73b5cdec0b1a46bfda5b1996a93ebf4",
-          "title": "A massive trade just happened in a leading mortgage lender: Watch Options Action Live",
-          "image": "https://image.cnbcfm.com/api/v1/image/108123631-17434358692020-08-06t185358z_1112863196_rc2i8i9p1z43_rtrmadp_0_quickenloans-ipo.jpeg?v=1784207031&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-04T19:08:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f73b5cdec0b1a46bfda5b1996a93ebf4.json"
-        },
-        {
-          "id": "8ac69e4e5f960cd024dd6e9af7e788fc",
-          "title": "We're cutting our Qnity price target but still loved the beat-and-raise quarter",
-          "image": "https://image.cnbcfm.com/api/v1/image/108220696-1762191413398-Q-OB-Photo-20251103-CC-PRESS-31.jpg?v=1762191680&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-04T19:07:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8ac69e4e5f960cd024dd6e9af7e788fc.json"
         }
       ],
       "path": "articles/8bbb14411a87e67b25f2292794c8148f.json"
@@ -179,6 +329,22 @@
       ],
       "published_at": "2026-11-04T17:06:03.000Z",
       "related": [
+        {
+          "id": "890a30e715d317976f91bd83ba813aa3",
+          "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+          "image": "https://image.cnbcfm.com/api/v1/image/108364987-1789747291534-gettyimages-2295274523-AFP_C8PG29Z.jpeg?v=1789747390&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T19:37:43.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/890a30e715d317976f91bd83ba813aa3.json"
+        },
         {
           "id": "f32297078687798422d6bbe02fd19c93",
           "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
@@ -242,22 +408,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/8bbb14411a87e67b25f2292794c8148f.json"
-        },
-        {
-          "id": "f928c63b5cf2eb6c03483e07fe5ff9ae",
-          "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
-          "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-04T15:29:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f928c63b5cf2eb6c03483e07fe5ff9ae.json"
         }
       ],
       "path": "articles/24b9cce5e4b2397a0d42ed9949085b72.json"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T15:01:30.661Z",
+  "updated_at": "2026-11-04T19:45:52.326Z",
   "id": "meta",
   "symbol": "META",
   "name": "Meta",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "2ac83c66fd076565953430ac82737c24",
-      "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
-      "description": "Meta is aiming to raise between $20 billion and $25 billion in a bond sale as the company ramps up spending on infrastructure and AI models and services.",
+      "id": "890a30e715d317976f91bd83ba813aa3",
+      "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+      "description": "Apple, Amazon, Google, Meta and Microsoft stock was up after the midterms, while stocks tied to Trump advisor Elon Musk and data centers fell on Wednesday.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108443814-1792619674225-gettyimages-2296209323-META_CONNECT.jpeg?v=1792619769&w=1920&h=1080",
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108364987-1789747291534-gettyimages-2295274523-AFP_C8PG29Z.jpeg?v=1789747390&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,6 +23,38 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
+          "type": "company",
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
           "id": "meta",
           "symbol": "META",
           "name": "Meta",
@@ -31,82 +63,52 @@
           "icon": "https://logo.clearbit.com/meta.com"
         },
         {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
         }
       ],
-      "published_at": "2026-11-03T18:33:49.000Z",
+      "published_at": "2026-11-04T19:37:43.000Z",
       "related": [
         {
-          "id": "af69bf5828e3373a0822cced4070991d",
-          "title": "McDonald's earnings beat, but traffic to its U.S. restaurants falls",
-          "image": "https://image.cnbcfm.com/api/v1/image/108481727-1793295164624-gettyimages-2296147239-golba-dailylif260912_np5rf.jpeg?v=1793295193&w=1920&h=1080",
+          "id": "24b9cce5e4b2397a0d42ed9949085b72",
+          "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-11-04T15:00:27.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/af69bf5828e3373a0822cced4070991d.json"
-        },
-        {
-          "id": "beccedcaf04f1fe5e9944bf08dead613",
-          "title": "10-year Treasury yield slips after Democrats win House and Senate majorities",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353328-1787582498969-gettyimages-2291320542-AFP_C6DP8QL.jpeg?v=1787582612&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-04T14:53:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/beccedcaf04f1fe5e9944bf08dead613.json"
-        },
-        {
-          "id": "b8f7c10a41c53dc1a6a24142d9703a7a",
-          "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-          "image": "https://image.cnbcfm.com/api/v1/image/108178496-17538041322024-08-15t235420z_1029458146_rc2gg9al6d8v_rtrmadp_0_usa-dailylife.jpeg?v=1753804163&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-04T14:51:50.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-04T17:06:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
-          "path": "articles/b8f7c10a41c53dc1a6a24142d9703a7a.json"
+          "path": "articles/24b9cce5e4b2397a0d42ed9949085b72.json"
         },
         {
-          "id": "69f7bf333b7f645d35a7a6525ba6a3b8",
-          "title": "AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368833-1790609674454-gettyimages-2296960625-US-NEWS-TEXASGOV-HINOJOSA-FT.jpeg?v=1790609735&w=1920&h=1080",
+          "id": "8d4915788770dc6c9414bf75c4f4ccaf",
+          "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-11-04T14:43:57.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-03T17:46:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/69f7bf333b7f645d35a7a6525ba6a3b8.json"
+          "path": "articles/8d4915788770dc6c9414bf75c4f4ccaf.json"
         },
         {
-          "id": "34f0d371ce952f2316bb934b6520fe8b",
-          "title": "Blood banks targeted in latest European fridge cyberattacks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108517870-1793797174816-gettyimages-2287510680-HL_HRIGNY_3245329.jpeg?v=1793797190&w=1920&h=1080",
+          "id": "f928c63b5cf2eb6c03483e07fe5ff9ae",
+          "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+          "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -114,13 +116,45 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-04T14:15:32.000Z",
+          "published_at": "2026-11-04T15:29:01.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 100,
-          "path": "articles/34f0d371ce952f2316bb934b6520fe8b.json"
+          "breaking_score": 0,
+          "path": "articles/f928c63b5cf2eb6c03483e07fe5ff9ae.json"
+        },
+        {
+          "id": "bd6216b4cfd4265f9dbf1a5d6c3965cb",
+          "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+          "image": "https://image.cnbcfm.com/api/v1/image/108127180-1753219122360-108127180-1743885824387-gettyimages-2194358551-TRUMP_INAUGURATION_2025.jpeg?v=1793780144&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T12:51:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bd6216b4cfd4265f9dbf1a5d6c3965cb.json"
+        },
+        {
+          "id": "8bbb14411a87e67b25f2292794c8148f",
+          "title": "Google responds to political backlash over removing search from schools that ban AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108188588-1755702485558-gettyimages-2188607530-DTRAMONTAN_09DEC24_013JPG.jpeg?v=1755702561&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T18:13:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8bbb14411a87e67b25f2292794c8148f.json"
         }
       ],
-      "path": "articles/2ac83c66fd076565953430ac82737c24.json"
+      "path": "articles/890a30e715d317976f91bd83ba813aa3.json"
     }
   ]
 }

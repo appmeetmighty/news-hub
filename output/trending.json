@@ -1,15 +1,29 @@
 {
-  "updated_at": "2026-11-04T03:31:19.844Z",
+  "updated_at": "2026-11-04T03:45:47.942Z",
   "articles": {
-    "generated_at": "2026-11-04T03:31:19.844Z",
+    "generated_at": "2026-11-04T03:45:47.942Z",
     "topics": [
       {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 35,
+        "count": 36,
         "articles": [
+          {
+            "id": "11b00db3a4d087d79159ab38db6e23a1",
+            "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6J9R4VF5N3TX90MJQ3PZBSH/hack-theft-eu-bank.png",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-04T03:35:30.000Z",
+            "path": "articles/11b00db3a4d087d79159ab38db6e23a1.json"
+          },
           {
             "id": "a18815e010ca0d3a77cba66610d03653",
             "title": "US midterms election 2026 live: Democrats 6 seats short of Senate majority",
@@ -135,20 +149,6 @@
             "category": "crypto",
             "published_at": "2026-11-03T20:24:55.000Z",
             "path": "articles/e4602849216ac213109a2579d0126ca6.json"
-          },
-          {
-            "id": "3b1928b39fd331e46e66eaa6e3c50a46",
-            "title": "Binance breach puts custody at center of crypto infrastructure trade",
-            "image": "https://image.cnbcfm.com/api/v1/image/108486127-1793363861367-gettyimages-2302646786-vcg111678111006.jpeg?v=1793363876&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-03T20:13:37.000Z",
-            "path": "articles/3b1928b39fd331e46e66eaa6e3c50a46.json"
           }
         ]
       },
@@ -161,7 +161,7 @@
         "articles": [
           {
             "id": "60e33bc829b280d17753d5e7694f397d",
-            "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
+            "title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
             "image": "https://image.cnbcfm.com/api/v1/image/108512163-1793727457335-gettyimages-2303344316-_m0a4268_jh2yr05a.jpeg?v=1793727486&w=1920&h=1080",
             "source": {
               "id": "cnbc",
@@ -170,7 +170,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-11-04T01:49:58.000Z",
+            "published_at": "2026-11-04T03:38:08.000Z",
             "path": "articles/60e33bc829b280d17753d5e7694f397d.json"
           },
           {
@@ -306,7 +306,7 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 27,
+        "count": 26,
         "articles": [
           {
             "id": "1220ae35b2f395538b5e020bde5725df",
@@ -1194,43 +1194,6 @@
         ]
       },
       {
-        "id": "oil",
-        "name": "Oil",
-        "type": "commodity",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "47867581bddd1a98121771c55ade4eb7",
-            "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-            "image": "https://image.cnbcfm.com/api/v1/image/108372905-1791235928184-gettyimages-2298177809-AFP_D2BL2AG.jpeg?v=1791235982&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-03T20:02:10.000Z",
-            "path": "articles/47867581bddd1a98121771c55ade4eb7.json"
-          },
-          {
-            "id": "a179a5488d0e2cef5ec558bd4ae5a57a",
-            "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ER84KWFRV6AB54PVPNX1S9/oil-bitcoin-petrol-2-960x640-960x640.webp",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-02T19:27:58.000Z",
-            "path": "articles/a179a5488d0e2cef5ec558bd4ae5a57a.json"
-          }
-        ]
-      },
-      {
         "id": "amzn",
         "name": "Amazon",
         "type": "company",
@@ -1333,6 +1296,29 @@
             "category": "crypto",
             "published_at": "2026-11-03T22:39:18.000Z",
             "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
+          }
+        ]
+      },
+      {
+        "id": "oil",
+        "name": "Oil",
+        "type": "commodity",
+        "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "47867581bddd1a98121771c55ade4eb7",
+            "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+            "image": "https://image.cnbcfm.com/api/v1/image/108372905-1791235928184-gettyimages-2298177809-AFP_D2BL2AG.jpeg?v=1791235982&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-03T20:02:10.000Z",
+            "path": "articles/47867581bddd1a98121771c55ade4eb7.json"
           }
         ]
       },

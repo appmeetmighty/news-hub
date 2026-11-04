@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T23:32:23.839Z",
+  "updated_at": "2026-11-04T23:45:49.331Z",
   "total": 28,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 37
+      "count": 36
     },
     {
       "id": "btc",
@@ -23,7 +23,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 23
+      "count": 22
     },
     {
       "id": "regulation",
@@ -49,13 +49,6 @@
       "count": 6
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -65,13 +58,20 @@
       "count": 5
     },
     {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "openai",
@@ -92,11 +92,13 @@
       "count": 3
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
       "icon": "",
-      "count": 2
+      "count": 3
     },
     {
       "id": "qcom",
@@ -108,11 +110,9 @@
       "count": 2
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
       "icon": "",
       "count": 2
     },

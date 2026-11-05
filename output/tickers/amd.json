@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T12:16:00.451Z",
+  "updated_at": "2026-11-05T15:45:49.545Z",
   "id": "amd",
   "symbol": "AMD",
   "name": "AMD",
@@ -7,21 +7,37 @@
   "total": 1,
   "articles": [
     {
-      "id": "1f897f299612bfa749ec0c273ad35075",
-      "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles ",
-      "description": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+      "id": "8ff5315a79fefa7e61ab5c946c0bb4b5",
+      "title": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
+      "description": "There's been no letup in the selling of the AI chip stocks, with Micron and AMD among those suffering double-digit percentage declines; Nvidia is down 8%.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108475788-1793209689654-gettyimages-2298419364-SKOREA_AMD.jpeg?v=1793209712&w=1920&h=1080",
+      "breaking_score": 100,
+      "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
+      "image": "",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
         {
           "id": "amd",
           "symbol": "AMD",
@@ -37,90 +53,90 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-11-03T23:04:37.000Z",
+      "published_at": "2026-11-05T10:57:11.000Z",
       "related": [
         {
-          "id": "af69bf5828e3373a0822cced4070991d",
-          "title": "McDonald's earnings beat, but traffic to chain's U.S. restaurants falls",
-          "image": "https://image.cnbcfm.com/api/v1/image/108481727-1793295164624-gettyimages-2296147239-golba-dailylif260912_np5rf.jpeg?v=1793295193&w=1920&h=1080",
+          "id": "c0aec4ca7f5520f160c62d224b38817c",
+          "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-04T12:13:31.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-05T13:29:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/af69bf5828e3373a0822cced4070991d.json"
+          "path": "articles/c0aec4ca7f5520f160c62d224b38817c.json"
         },
         {
-          "id": "beccedcaf04f1fe5e9944bf08dead613",
-          "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353328-1787582498969-gettyimages-2291320542-AFP_C6DP8QL.jpeg?v=1787582612&w=1920&h=1080",
+          "id": "5c8ae3147a71385d38a333eea616bce2",
+          "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-04T10:02:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/beccedcaf04f1fe5e9944bf08dead613.json"
-        },
-        {
-          "id": "48f885448f613d6c9c4b0d9573faebce",
-          "title": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
-          "image": "https://image.cnbcfm.com/api/v1/image/108513061-1793738275667-gettyimages-1248000040-NUP_200738_00547JPG.jpeg?v=1793744812&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-03T23:28:01.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-05T12:27:04.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/48f885448f613d6c9c4b0d9573faebce.json"
+          "path": "articles/5c8ae3147a71385d38a333eea616bce2.json"
         },
         {
-          "id": "3b1928b39fd331e46e66eaa6e3c50a46",
-          "title": "Binance breach puts custody at center of crypto infrastructure trade",
-          "image": "https://image.cnbcfm.com/api/v1/image/108486127-1793363861367-gettyimages-2302646786-vcg111678111006.jpeg?v=1793363876&w=1920&h=1080",
+          "id": "8acc4508c81b8d69035c2e017be93dda",
+          "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-03T20:13:37.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/3b1928b39fd331e46e66eaa6e3c50a46.json"
-        },
-        {
-          "id": "2ac83c66fd076565953430ac82737c24",
-          "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
-          "image": "https://image.cnbcfm.com/api/v1/image/108443814-1792619674225-gettyimages-2296209323-META_CONNECT.jpeg?v=1792619769&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-03T18:33:49.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-05T11:49:23.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2ac83c66fd076565953430ac82737c24.json"
+          "path": "articles/8acc4508c81b8d69035c2e017be93dda.json"
+        },
+        {
+          "id": "a496838d80fa1bebff3f37482f35d749",
+          "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T11:45:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a496838d80fa1bebff3f37482f35d749.json"
+        },
+        {
+          "id": "7f0d4b0e69348d83a4466a77ed9697ea",
+          "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T11:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7f0d4b0e69348d83a4466a77ed9697ea.json"
         }
       ],
-      "path": "articles/1f897f299612bfa749ec0c273ad35075.json"
+      "path": "articles/8ff5315a79fefa7e61ab5c946c0bb4b5.json"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "id": "8ff5315a79fefa7e61ab5c946c0bb4b5",
-  "title": "Live updates: Bitcoin extends losses as Nasdaq tumbles in early trading",
-  "description": "There's been no letup in the selling of the AI chip stocks, sending the Nasdaq down more than 2%.",
+  "title": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
+  "description": "There's been no letup in the selling of the AI chip stocks, with Micron and AMD among those suffering double-digit percentage declines; Nvidia is down 8%.",
   "reading_time_minutes": 1,
-  "breaking_score": 0,
+  "breaking_score": 100,
   "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
   "image": "",
   "source": {
@@ -21,6 +21,22 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
+    },
+    {
+      "id": "amd",
+      "symbol": "AMD",
+      "name": "AMD",
+      "type": "company",
+      "path": "tickers/amd.json",
+      "icon": ""
     },
     {
       "id": "ai",

@@ -1,11 +1,121 @@
 {
-  "updated_at": "2026-11-05T11:15:50.862Z",
+  "updated_at": "2026-11-05T11:31:09.301Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
   "type": "commodity",
-  "total": 5,
+  "total": 6,
   "articles": [
+    {
+      "id": "9fd3acc7296edc804287e321a23029af",
+      "title": "World's largest olive oil company plummets 19% after rivals agree to takeover deal",
+      "description": "The world's largest olive oil company, Deoleo, plummeted in early trading after two of its rivals announced plans to acquire the firm.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108334751-1784039074271-gettyimages-1060884260-MCP_5888.jpeg?v=1784039218&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "oil",
+          "symbol": "OIL",
+          "name": "Oil",
+          "type": "commodity",
+          "path": "tickers/oil.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-05T11:15:05.000Z",
+      "related": [
+        {
+          "id": "bed4ff8f00967d2f84cca87a97ea2b66",
+          "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook\n",
+          "image": "https://image.cnbcfm.com/api/v1/image/108511090-1793714798494-gettyimages-2302873944-UAE_ADIPEC.jpeg?v=1793714833&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T23:23:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bed4ff8f00967d2f84cca87a97ea2b66.json"
+        },
+        {
+          "id": "78b686ace54ae06683cfbbdfdb49717e",
+          "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+          "image": "https://image.cnbcfm.com/api/v1/image/108518922-1793807059938-gettyimages-2303150469-2h1a7951_nrl1cyvp.jpeg?v=1793807082&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-04T20:14:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/78b686ace54ae06683cfbbdfdb49717e.json"
+        },
+        {
+          "id": "8ff5315a79fefa7e61ab5c946c0bb4b5",
+          "title": "Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T10:57:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8ff5315a79fefa7e61ab5c946c0bb4b5.json"
+        },
+        {
+          "id": "042019ee3f30fd2a69cd9afd3462af36",
+          "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T05:13:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/042019ee3f30fd2a69cd9afd3462af36.json"
+        },
+        {
+          "id": "9361d256850bac8abb9887a6d9439da8",
+          "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-04T15:29:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9361d256850bac8abb9887a6d9439da8.json"
+        }
+      ],
+      "path": "articles/9fd3acc7296edc804287e321a23029af.json"
+    },
     {
       "id": "8ff5315a79fefa7e61ab5c946c0bb4b5",
       "title": "Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep",
@@ -96,6 +206,22 @@
           "path": "articles/0860c71a1346feda4e206b583c89bfaa.json"
         },
         {
+          "id": "7f0d4b0e69348d83a4466a77ed9697ea",
+          "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T11:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7f0d4b0e69348d83a4466a77ed9697ea.json"
+        },
+        {
           "id": "64ba988e3eada99a18c8675e82dbeb5f",
           "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-America-decrypt-style-01-gID_7.png@png",
@@ -110,22 +236,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/64ba988e3eada99a18c8675e82dbeb5f.json"
-        },
-        {
-          "id": "c4d06428a243401e2ef6fa66c8d6fee3",
-          "title": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/bitcoin-btc-coin-american-flag-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-04T13:13:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c4d06428a243401e2ef6fa66c8d6fee3.json"
         }
       ],
       "path": "articles/8ff5315a79fefa7e61ab5c946c0bb4b5.json"
@@ -204,6 +314,22 @@
           "path": "articles/9361d256850bac8abb9887a6d9439da8.json"
         },
         {
+          "id": "7f0d4b0e69348d83a4466a77ed9697ea",
+          "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T11:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7f0d4b0e69348d83a4466a77ed9697ea.json"
+        },
+        {
           "id": "0860c71a1346feda4e206b583c89bfaa",
           "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
           "image": "",
@@ -234,22 +360,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 15,
           "path": "articles/744ec2f61d83faa97a6ee88b540ea7d4.json"
-        },
-        {
-          "id": "0a85d1d219131fd78710237437743bf6",
-          "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-05T09:36:32.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0a85d1d219131fd78710237437743bf6.json"
         }
       ],
       "path": "articles/042019ee3f30fd2a69cd9afd3462af36.json"
@@ -281,6 +391,22 @@
       ],
       "published_at": "2026-11-04T23:23:03.000Z",
       "related": [
+        {
+          "id": "9fd3acc7296edc804287e321a23029af",
+          "title": "World's largest olive oil company plummets 19% after rivals agree to takeover deal",
+          "image": "https://image.cnbcfm.com/api/v1/image/108334751-1784039074271-gettyimages-1060884260-MCP_5888.jpeg?v=1784039218&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-05T11:15:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9fd3acc7296edc804287e321a23029af.json"
+        },
         {
           "id": "78b686ace54ae06683cfbbdfdb49717e",
           "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
@@ -344,22 +470,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/9361d256850bac8abb9887a6d9439da8.json"
-        },
-        {
-          "id": "552256bf1f4368368c599e3c436bdc08",
-          "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
-          "image": "https://image.cnbcfm.com/api/v1/image/108298037-1777331190343-gettyimages-2235093505-20090101250915-99-37197.jpeg?v=1777331252&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-05T09:06:40.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/552256bf1f4368368c599e3c436bdc08.json"
         }
       ],
       "path": "articles/bed4ff8f00967d2f84cca87a97ea2b66.json"
@@ -391,6 +501,22 @@
       ],
       "published_at": "2026-11-04T20:14:52.000Z",
       "related": [
+        {
+          "id": "9fd3acc7296edc804287e321a23029af",
+          "title": "World's largest olive oil company plummets 19% after rivals agree to takeover deal",
+          "image": "https://image.cnbcfm.com/api/v1/image/108334751-1784039074271-gettyimages-1060884260-MCP_5888.jpeg?v=1784039218&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-05T11:15:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9fd3acc7296edc804287e321a23029af.json"
+        },
         {
           "id": "bed4ff8f00967d2f84cca87a97ea2b66",
           "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook\n",
@@ -454,22 +580,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/042019ee3f30fd2a69cd9afd3462af36.json"
-        },
-        {
-          "id": "e98ea04015ba8349b90b1d35d1eb91d3",
-          "title": "OpenAI pledges to pay for data center power after election highlights AI concerns",
-          "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-05T10:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e98ea04015ba8349b90b1d35d1eb91d3.json"
         }
       ],
       "path": "articles/78b686ace54ae06683cfbbdfdb49717e.json"

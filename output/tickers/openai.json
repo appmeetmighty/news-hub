@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-05T13:31:17.571Z",
+  "updated_at": "2026-11-05T13:45:55.932Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "e98ea04015ba8349b90b1d35d1eb91d3",
@@ -37,7 +37,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-11-05T13:22:39.000Z",
+      "published_at": "2026-11-05T13:44:45.000Z",
       "related": [
         {
           "id": "9bb16477d4ea7aa215c7a51c2c4f5936",
@@ -72,6 +72,22 @@
           "path": "articles/22f9252767bd3f3f4b61770e951dfa5b.json"
         },
         {
+          "id": "2f7f98cdbb8e999cda80d92ad2cd40a2",
+          "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T13:37:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
+        },
+        {
           "id": "4eecee52b0ac090ca5937d7f9af4ee19",
           "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
@@ -102,25 +118,127 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e54fab6eb0dfcad0ecf41f796846dc21.json"
-        },
-        {
-          "id": "6cb928f7ae327cd0419663c33fd2f9c6",
-          "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
-          "image": "https://image.cnbcfm.com/api/v1/image/108522012-1793835172177-site.JPG?v=1793835239&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-05T13:00:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6cb928f7ae327cd0419663c33fd2f9c6.json"
         }
       ],
       "path": "articles/e98ea04015ba8349b90b1d35d1eb91d3.json"
+    },
+    {
+      "id": "2f7f98cdbb8e999cda80d92ad2cd40a2",
+      "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+      "description": "The OpenAI CEO briefly renamed himself \"Ram Altman\" on X after Elon Musk mocked him for saying idle home PC memory is \"quite terrible.\"",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/382606/sam-altman-says-its-fucking-annoying-his-ram-comments-were-taken-out-of-context",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-05T13:37:25.000Z",
+      "related": [
+        {
+          "id": "4eecee52b0ac090ca5937d7f9af4ee19",
+          "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-04T22:16:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4eecee52b0ac090ca5937d7f9af4ee19.json"
+        },
+        {
+          "id": "24b9cce5e4b2397a0d42ed9949085b72",
+          "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-04T17:06:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/24b9cce5e4b2397a0d42ed9949085b72.json"
+        },
+        {
+          "id": "9bb16477d4ea7aa215c7a51c2c4f5936",
+          "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-03T23:48:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9bb16477d4ea7aa215c7a51c2c4f5936.json"
+        },
+        {
+          "id": "8d4915788770dc6c9414bf75c4f4ccaf",
+          "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-03T17:46:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8d4915788770dc6c9414bf75c4f4ccaf.json"
+        },
+        {
+          "id": "22f9252767bd3f3f4b61770e951dfa5b",
+          "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T08:26:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/22f9252767bd3f3f4b61770e951dfa5b.json"
+        }
+      ],
+      "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
     },
     {
       "id": "22f9252767bd3f3f4b61770e951dfa5b",
@@ -178,6 +296,22 @@
           "path": "articles/9bb16477d4ea7aa215c7a51c2c4f5936.json"
         },
         {
+          "id": "2f7f98cdbb8e999cda80d92ad2cd40a2",
+          "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T13:37:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
+        },
+        {
           "id": "4eecee52b0ac090ca5937d7f9af4ee19",
           "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
@@ -204,7 +338,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-05T13:22:39.000Z",
+          "published_at": "2026-11-05T13:44:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e98ea04015ba8349b90b1d35d1eb91d3.json"
@@ -224,22 +358,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-        },
-        {
-          "id": "6bde35d8b065db2fc90acec8e7dd9b1c",
-          "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-05T12:50:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6bde35d8b065db2fc90acec8e7dd9b1c.json"
         }
       ],
       "path": "articles/22f9252767bd3f3f4b61770e951dfa5b.json"
@@ -271,6 +389,22 @@
       ],
       "published_at": "2026-11-04T22:16:05.000Z",
       "related": [
+        {
+          "id": "2f7f98cdbb8e999cda80d92ad2cd40a2",
+          "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T13:37:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
+        },
         {
           "id": "9bb16477d4ea7aa215c7a51c2c4f5936",
           "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
@@ -314,7 +448,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-05T13:22:39.000Z",
+          "published_at": "2026-11-05T13:44:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e98ea04015ba8349b90b1d35d1eb91d3.json"
@@ -334,22 +468,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bb551459b4a0987e13889023427a64e0.json"
-        },
-        {
-          "id": "55c665879bacba4e2d399a55aa7f399a",
-          "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-05T13:14:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/55c665879bacba4e2d399a55aa7f399a.json"
         }
       ],
       "path": "articles/4eecee52b0ac090ca5937d7f9af4ee19.json"
@@ -387,6 +505,22 @@
       ],
       "published_at": "2026-11-03T23:48:32.000Z",
       "related": [
+        {
+          "id": "2f7f98cdbb8e999cda80d92ad2cd40a2",
+          "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T13:37:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
+        },
         {
           "id": "22f9252767bd3f3f4b61770e951dfa5b",
           "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
@@ -430,7 +564,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-05T13:22:39.000Z",
+          "published_at": "2026-11-05T13:44:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e98ea04015ba8349b90b1d35d1eb91d3.json"
@@ -450,22 +584,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/be78b1c9cf47793535b480f2cee484cc.json"
-        },
-        {
-          "id": "55c665879bacba4e2d399a55aa7f399a",
-          "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-05T13:14:05.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/55c665879bacba4e2d399a55aa7f399a.json"
         }
       ],
       "path": "articles/9bb16477d4ea7aa215c7a51c2c4f5936.json"

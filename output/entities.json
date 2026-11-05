@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-11-05T16:31:13.373Z",
-  "total": 30,
+  "updated_at": "2026-11-05T16:45:52.017Z",
+  "total": 29,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 38
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 29
+      "count": 39
     },
     {
       "id": "btc",
@@ -23,6 +16,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 28
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
       "count": 28
     },
     {
@@ -140,6 +140,15 @@
       "count": 2
     },
     {
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "qcom",
       "symbol": "QCOM",
       "name": "Qualcomm",
@@ -155,15 +164,6 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 1
-    },
-    {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
-      "icon": "",
       "count": 1
     },
     {
@@ -243,15 +243,6 @@
       "type": "company",
       "path": "tickers/spacex.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 1
     }
   ]

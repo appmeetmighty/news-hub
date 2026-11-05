@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T13:45:55.945Z",
+  "updated_at": "2026-11-05T14:01:24.240Z",
   "total": 28,
   "entities": [
     {
@@ -10,20 +10,20 @@
       "count": 36
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 28
-    },
-    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 28
+      "count": 27
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 27
     },
     {
       "id": "regulation",
@@ -63,6 +63,15 @@
       "count": 5
     },
     {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
@@ -90,20 +99,18 @@
       "count": 3
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "nvda",
@@ -133,6 +140,13 @@
       "count": 2
     },
     {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -147,20 +161,6 @@
       "name": "Visa",
       "type": "company",
       "path": "tickers/v.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
       "icon": "",
       "count": 1
     },

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-05T10:01:22.179Z",
+  "updated_at": "2026-11-05T10:15:58.047Z",
   "articles": {
-    "generated_at": "2026-11-05T10:01:22.179Z",
+    "generated_at": "2026-11-05T10:15:58.047Z",
     "topics": [
       {
         "id": "crypto",
@@ -306,8 +306,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 21,
+        "count": 22,
         "articles": [
+          {
+            "id": "e98ea04015ba8349b90b1d35d1eb91d3",
+            "title": "OpenAI pledges to pay for data center power after election highlights AI concerns",
+            "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-05T10:00:01.000Z",
+            "path": "articles/e98ea04015ba8349b90b1d35d1eb91d3.json"
+          },
           {
             "id": "22f9252767bd3f3f4b61770e951dfa5b",
             "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
@@ -433,20 +447,6 @@
             "category": "crypto",
             "published_at": "2026-11-04T17:06:03.000Z",
             "path": "articles/24b9cce5e4b2397a0d42ed9949085b72.json"
-          },
-          {
-            "id": "12105a76a3b276c15b83e4b5dd17e4f1",
-            "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-04T16:08:14.000Z",
-            "path": "articles/12105a76a3b276c15b83e4b5dd17e4f1.json"
           }
         ]
       },
@@ -707,6 +707,85 @@
         ]
       },
       {
+        "id": "openai",
+        "name": "OpenAI",
+        "type": "company",
+        "icon": "",
+        "count": 5,
+        "articles": [
+          {
+            "id": "e98ea04015ba8349b90b1d35d1eb91d3",
+            "title": "OpenAI pledges to pay for data center power after election highlights AI concerns",
+            "image": "https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-05T10:00:01.000Z",
+            "path": "articles/e98ea04015ba8349b90b1d35d1eb91d3.json"
+          },
+          {
+            "id": "22f9252767bd3f3f4b61770e951dfa5b",
+            "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-05T08:26:26.000Z",
+            "path": "articles/22f9252767bd3f3f4b61770e951dfa5b.json"
+          },
+          {
+            "id": "4eecee52b0ac090ca5937d7f9af4ee19",
+            "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-04T22:16:05.000Z",
+            "path": "articles/4eecee52b0ac090ca5937d7f9af4ee19.json"
+          },
+          {
+            "id": "9bb16477d4ea7aa215c7a51c2c4f5936",
+            "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-03T23:48:32.000Z",
+            "path": "articles/9bb16477d4ea7aa215c7a51c2c4f5936.json"
+          },
+          {
+            "id": "fde9618a88e56af41e4c1aa7d6a48c17",
+            "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-02T23:10:25.000Z",
+            "path": "articles/fde9618a88e56af41e4c1aa7d6a48c17.json"
+          }
+        ]
+      },
+      {
         "id": "stablecoin",
         "name": "Stablecoin",
         "type": "topic",
@@ -768,71 +847,6 @@
             "category": "crypto",
             "published_at": "2026-11-04T12:44:00.000Z",
             "path": "articles/6ad01f0419d2239336949f2aca6c87c7.json"
-          }
-        ]
-      },
-      {
-        "id": "openai",
-        "name": "OpenAI",
-        "type": "company",
-        "icon": "",
-        "count": 4,
-        "articles": [
-          {
-            "id": "22f9252767bd3f3f4b61770e951dfa5b",
-            "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-05T08:26:26.000Z",
-            "path": "articles/22f9252767bd3f3f4b61770e951dfa5b.json"
-          },
-          {
-            "id": "4eecee52b0ac090ca5937d7f9af4ee19",
-            "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-04T22:16:05.000Z",
-            "path": "articles/4eecee52b0ac090ca5937d7f9af4ee19.json"
-          },
-          {
-            "id": "9bb16477d4ea7aa215c7a51c2c4f5936",
-            "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-03T23:48:32.000Z",
-            "path": "articles/9bb16477d4ea7aa215c7a51c2c4f5936.json"
-          },
-          {
-            "id": "fde9618a88e56af41e4c1aa7d6a48c17",
-            "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-02T23:10:25.000Z",
-            "path": "articles/fde9618a88e56af41e4c1aa7d6a48c17.json"
           }
         ]
       },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:15:51.231Z",
+  "updated_at": "2026-11-06T16:31:07.225Z",
   "total": 23,
   "entities": [
     {
@@ -7,14 +7,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 39
+      "count": 38
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 28
+      "count": 30
     },
     {
       "id": "btc",
@@ -23,7 +23,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
+      "count": 25
     },
     {
       "id": "regulation",
@@ -31,6 +31,15 @@
       "type": "topic",
       "icon": "",
       "count": 16
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "blockchain",
@@ -56,13 +65,13 @@
       "count": 5
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
       "type": "company",
-      "path": "tickers/openai.json",
+      "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 5
+      "count": 4
     },
     {
       "id": "eth",
@@ -72,15 +81,6 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 3
     },
     {
       "id": "defi",

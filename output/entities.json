@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T13:31:12.721Z",
+  "updated_at": "2026-11-06T13:45:51.432Z",
   "total": 24,
   "entities": [
     {
@@ -10,20 +10,20 @@
       "count": 35
     },
     {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 29
+    },
+    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 29
+      "count": 28
     },
     {
       "id": "regulation",
@@ -63,21 +63,28 @@
       "count": 5
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 3
-    },
-    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 4
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 3
     },
     {
@@ -94,13 +101,6 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 3
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
       "count": 3
     },
     {
@@ -122,15 +122,6 @@
       "count": 3
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
@@ -138,6 +129,22 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "mstr",
@@ -149,18 +156,11 @@
       "count": 1
     },
     {
-      "id": "tsm",
-      "symbol": "TSM",
-      "name": "TSMC",
-      "type": "company",
-      "path": "tickers/tsm.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 1
     },

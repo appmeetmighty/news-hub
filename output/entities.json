@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-11-06T13:15:52.541Z",
-  "total": 25,
+  "updated_at": "2026-11-06T13:31:12.721Z",
+  "total": 24,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 34
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 28
+      "count": 35
     },
     {
       "id": "btc",
@@ -23,7 +16,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 28
+      "count": 29
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 29
     },
     {
       "id": "regulation",
@@ -63,13 +63,22 @@
       "count": 5
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 3
+    },
+    {
       "id": "tsla",
       "symbol": "TSLA",
       "name": "Tesla",
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 4
+      "count": 3
     },
     {
       "id": "etf",
@@ -131,15 +140,6 @@
       "count": 2
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 2
-    },
-    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -161,15 +161,6 @@
       "id": "web3",
       "name": "Web3",
       "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
       "icon": "",
       "count": 1
     },

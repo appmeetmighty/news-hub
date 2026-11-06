@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T20:01:24.146Z",
+  "updated_at": "2026-11-06T18:45:48.888Z",
   "id": "qcom",
   "symbol": "QCOM",
   "name": "Qualcomm",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "d57771138147a7a73c47f4c07e3148a7",
-      "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
-      "description": "Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face continued post-election pressure.",
+      "id": "09b146ecc1513e73593cee73a53008f1",
+      "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+      "description": "Executives of major tech companies are largely projecting optimism about continued growth in the artificial intelligence sector despite a post-midterm sell-off.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108481739-1793295675174-gettyimages-2300447935-TFSPI_16102026-7389.jpeg?v=1793295701&w=1920&h=1080",
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108527793-1793972802519-108527793-1793909522550-gettyimages-2303212023-NASDAQ_MARKETSITE.jpg?v=1793972812&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,20 +23,34 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
           "id": "qcom",
           "symbol": "QCOM",
           "name": "Qualcomm",
           "type": "company",
           "path": "tickers/qcom.json",
           "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-11-05T15:24:47.000Z",
+      "published_at": "2026-11-06T18:35:08.000Z",
       "related": [
         {
-          "id": "ee40dc6ad666ac98677ad0bbe05cef01",
-          "title": "We're dipping into our large cash pile to buy this bank on Thursday's sell-off",
-          "image": "https://image.cnbcfm.com/api/v1/image/108521823-17938340272026-11-04t221246z_711322182_rc28hoakh04y_rtrmadp_0_usa-stocks.jpeg?v=1793834118&w=1920&h=1080",
+          "id": "77057c92f3ca84aaa80d7241b1f3eae9",
+          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -44,77 +58,77 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-05T18:29:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/ee40dc6ad666ac98677ad0bbe05cef01.json"
-        },
-        {
-          "id": "430a3e3d5da80abf469db5230e7475b1",
-          "title": "IRS announces bigger estate and gift tax exemption for 2027",
-          "image": "https://image.cnbcfm.com/api/v1/image/108414429-1792074142241-gettyimages-2285246504-140626bcn-3743.jpeg?v=1792074163&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-05T19:54:26.000Z",
+          "published_at": "2026-11-06T17:24:48.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/430a3e3d5da80abf469db5230e7475b1.json"
+          "path": "articles/77057c92f3ca84aaa80d7241b1f3eae9.json"
         },
         {
-          "id": "3db57eed8025710e05181993beb51391",
-          "title": "IRS announces new federal income tax brackets for 2027",
-          "image": "https://image.cnbcfm.com/api/v1/image/107419788-1716554678545-gettyimages-1424217145-6w1a0811.jpeg?v=1749066860&w=1920&h=1080",
+          "id": "79561c9810b927b7bfd63d12982e4416",
+          "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-11-05T19:53:13.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-05T21:36:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3db57eed8025710e05181993beb51391.json"
+          "path": "articles/79561c9810b927b7bfd63d12982e4416.json"
         },
         {
-          "id": "34ee5bf7521793da248b0ea89c5b0d28",
-          "title": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
-          "image": "https://image.cnbcfm.com/api/v1/image/108521822-17938340272026-11-04t221243z_1974407319_rc28hoao79gi_rtrmadp_0_usa-stocks.jpeg?v=1793834118&w=1920&h=1080",
+          "id": "2d31627ded11f2a785469f7bac53e19a",
+          "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-11-05T19:20:21.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-05T19:16:03.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/34ee5bf7521793da248b0ea89c5b0d28.json"
+          "breaking_score": 15,
+          "path": "articles/2d31627ded11f2a785469f7bac53e19a.json"
         },
         {
-          "id": "e569b4ed1cf76f98da6c418b902b62e8",
-          "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
-          "image": "https://image.cnbcfm.com/api/v1/image/108527401-1793905309945-gettyimages-2292587373-AA_02092026_2936248.jpeg?v=1793905376&w=1920&h=1080",
+          "id": "df97112d369570950f00bf5117110336",
+          "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-11-05T19:13:06.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-06T10:57:06.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e569b4ed1cf76f98da6c418b902b62e8.json"
+          "path": "articles/df97112d369570950f00bf5117110336.json"
+        },
+        {
+          "id": "2f7f98cdbb8e999cda80d92ad2cd40a2",
+          "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T13:37:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
         }
       ],
-      "path": "articles/d57771138147a7a73c47f4c07e3148a7.json"
+      "path": "articles/09b146ecc1513e73593cee73a53008f1.json"
     }
   ]
 }

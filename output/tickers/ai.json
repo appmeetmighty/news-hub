@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-06T18:31:08.065Z",
+  "updated_at": "2026-11-06T18:45:48.884Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
   "total": 34,
   "articles": [
     {
-      "id": "fc333c5902457aea72ab350b8d294a4a",
-      "title": "AI crush is powering one stock to sky-high valuations",
-      "description": "Despite sky-high valuations, Mike Khouw argues Costco shares could present a compelling buy.",
+      "id": "6907f1eab0368af8981030387cffed6b",
+      "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+      "description": "Microsoft is winding down the number of neoclouds it counts as partners, picking key suppliers and focusing on its own data centers.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108481191-1793287178813-gettyimages-2302006596-102926-buf-news-costco-p17.jpeg?v=1793287304&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108530430-1793940029707-gettyimages-2300856161-20090101261022-99-29725.jpeg?v=1793940103&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -22,29 +22,37 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-11-06T18:15:44.000Z",
+      "published_at": "2026-11-06T18:40:58.000Z",
       "related": [
         {
-          "id": "bb24bf9d8cee2798d589825e5d57a39d",
-          "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533224-1793979790701-Election_2024_Mississippi_Senate-24293836049470-AP.jpg?v=1793980012&w=1920&h=1080",
+          "id": "24b9cce5e4b2397a0d42ed9949085b72",
+          "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-11-06T18:03:13.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-04T17:06:03.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bb24bf9d8cee2798d589825e5d57a39d.json"
+          "breaking_score": 20,
+          "path": "articles/24b9cce5e4b2397a0d42ed9949085b72.json"
         },
         {
           "id": "7ad47139c2c0a6920f889eb3ffec51a5",
@@ -63,98 +71,6 @@
           "path": "articles/7ad47139c2c0a6920f889eb3ffec51a5.json"
         },
         {
-          "id": "77057c92f3ca84aaa80d7241b1f3eae9",
-          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T17:24:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/77057c92f3ca84aaa80d7241b1f3eae9.json"
-        },
-        {
-          "id": "de46e9f381927a2920f21eec76e77861",
-          "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-          "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T17:09:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/de46e9f381927a2920f21eec76e77861.json"
-        },
-        {
-          "id": "69111cc8bbe997cc83db91844cae004c",
-          "title": "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balance",
-          "image": "https://image.cnbcfm.com/api/v1/image/108521350-1793831417189-gettyimages-2302745202-20261030_pm00127_x1ymb309.jpeg?v=1793831423&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T17:01:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/69111cc8bbe997cc83db91844cae004c.json"
-        }
-      ],
-      "path": "articles/fc333c5902457aea72ab350b8d294a4a.json"
-    },
-    {
-      "id": "7ad47139c2c0a6920f889eb3ffec51a5",
-      "title": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
-      "description": "At the Investing Club's 4th annual meeting, Cramer also reveals his outlook for 2027 and answers questions from the live audience and members at home.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107200470-1677528554271-NUP_200782_00237.jpg?v=1697057003&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-11-06T17:48:16.000Z",
-      "related": [
-        {
-          "id": "e8fd2f28369d2c741956efec4c1c12e4",
-          "title": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108519904-1793817170911-gettyimages-2303031323-AA_04112026_3025836.jpeg?v=1793835392&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T12:04:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e8fd2f28369d2c741956efec4c1c12e4.json"
-        },
-        {
           "id": "925f3b2196a51137467a979fbcb89270",
           "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
           "image": "https://image.cnbcfm.com/api/v1/image/108250562-17679748452026-01-09t145623z_1194533702_rc2qxiat7k2o_rtrmadp_0_usa-trump.jpeg?v=1767974860&w=1920&h=1080",
@@ -171,9 +87,9 @@
           "path": "articles/925f3b2196a51137467a979fbcb89270.json"
         },
         {
-          "id": "fc333c5902457aea72ab350b8d294a4a",
-          "title": "AI crush is powering one stock to sky-high valuations",
-          "image": "https://image.cnbcfm.com/api/v1/image/108481191-1793287178813-gettyimages-2302006596-102926-buf-news-costco-p17.jpeg?v=1793287304&w=1920&h=1080",
+          "id": "cfac97611b35f9bee02b768084e0bd3b",
+          "title": "HSA-eligible health plans in 2027: What to know about tax savings vs. higher deductibles",
+          "image": "https://image.cnbcfm.com/api/v1/image/108520167-1793820620546-gettyimages-2302132564-z81_2086_qaxwsirn.jpeg?v=1793904011&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -181,15 +97,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-06T18:15:44.000Z",
+          "published_at": "2026-11-05T18:57:08.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/fc333c5902457aea72ab350b8d294a4a.json"
+          "path": "articles/cfac97611b35f9bee02b768084e0bd3b.json"
         },
         {
-          "id": "bb24bf9d8cee2798d589825e5d57a39d",
-          "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533224-1793979790701-Election_2024_Mississippi_Senate-24293836049470-AP.jpg?v=1793980012&w=1920&h=1080",
+          "id": "658425f4541fa1be3d9f4729818d40b1",
+          "title": "San Francisco Fed President Daly says higher rates 'are likely to be needed' in inflation fight",
+          "image": "https://image.cnbcfm.com/api/v1/image/108316930-1780595150373-gettyimages-2279065764-BLOOMBERG_TECH.jpeg?v=1780595171&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -197,38 +113,22 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-06T18:03:13.000Z",
+          "published_at": "2026-11-06T18:42:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/bb24bf9d8cee2798d589825e5d57a39d.json"
-        },
-        {
-          "id": "77057c92f3ca84aaa80d7241b1f3eae9",
-          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T17:24:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/77057c92f3ca84aaa80d7241b1f3eae9.json"
+          "path": "articles/658425f4541fa1be3d9f4729818d40b1.json"
         }
       ],
-      "path": "articles/7ad47139c2c0a6920f889eb3ffec51a5.json"
+      "path": "articles/6907f1eab0368af8981030387cffed6b.json"
     },
     {
-      "id": "77057c92f3ca84aaa80d7241b1f3eae9",
-      "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-      "description": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
+      "id": "09b146ecc1513e73593cee73a53008f1",
+      "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+      "description": "Executives of major tech companies are largely projecting optimism about continued growth in the artificial intelligence sector despite a post-midterm sell-off.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
+      "breaking_score": 20,
+      "url": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108527793-1793972802519-108527793-1793909522550-gettyimages-2303212023-NASDAQ_MARKETSITE.jpg?v=1793972812&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -246,14 +146,38 @@
           "icon": ""
         },
         {
+          "id": "qcom",
+          "symbol": "QCOM",
+          "name": "Qualcomm",
+          "type": "company",
+          "path": "tickers/qcom.json",
+          "icon": ""
+        },
+        {
           "id": "ai",
           "name": "AI",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-11-06T17:24:48.000Z",
+      "published_at": "2026-11-06T18:35:08.000Z",
       "related": [
+        {
+          "id": "77057c92f3ca84aaa80d7241b1f3eae9",
+          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T17:24:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/77057c92f3ca84aaa80d7241b1f3eae9.json"
+        },
         {
           "id": "79561c9810b927b7bfd63d12982e4416",
           "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
@@ -317,11 +241,279 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
+        }
+      ],
+      "path": "articles/09b146ecc1513e73593cee73a53008f1.json"
+    },
+    {
+      "id": "fc333c5902457aea72ab350b8d294a4a",
+      "title": "AI crush is powering one stock to sky-high valuations",
+      "description": "Despite sky-high valuations, Mike Khouw argues Costco shares could present a compelling buy.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108481191-1793287178813-gettyimages-2302006596-102926-buf-news-costco-p17.jpeg?v=1793287304&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-06T18:15:44.000Z",
+      "related": [
+        {
+          "id": "658425f4541fa1be3d9f4729818d40b1",
+          "title": "San Francisco Fed President Daly says higher rates 'are likely to be needed' in inflation fight",
+          "image": "https://image.cnbcfm.com/api/v1/image/108316930-1780595150373-gettyimages-2279065764-BLOOMBERG_TECH.jpeg?v=1780595171&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:42:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/658425f4541fa1be3d9f4729818d40b1.json"
         },
         {
-          "id": "4eecee52b0ac090ca5937d7f9af4ee19",
-          "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+          "id": "6907f1eab0368af8981030387cffed6b",
+          "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+          "image": "https://image.cnbcfm.com/api/v1/image/108530430-1793940029707-gettyimages-2300856161-20090101261022-99-29725.jpeg?v=1793940103&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:40:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6907f1eab0368af8981030387cffed6b.json"
+        },
+        {
+          "id": "09b146ecc1513e73593cee73a53008f1",
+          "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108527793-1793972802519-108527793-1793909522550-gettyimages-2303212023-NASDAQ_MARKETSITE.jpg?v=1793972812&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:35:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/09b146ecc1513e73593cee73a53008f1.json"
+        },
+        {
+          "id": "bb24bf9d8cee2798d589825e5d57a39d",
+          "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
+          "image": "https://image.cnbcfm.com/api/v1/image/108533224-1793979790701-Election_2024_Mississippi_Senate-24293836049470-AP.jpg?v=1793990611&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:03:13.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bb24bf9d8cee2798d589825e5d57a39d.json"
+        },
+        {
+          "id": "7ad47139c2c0a6920f889eb3ffec51a5",
+          "title": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
+          "image": "https://image.cnbcfm.com/api/v1/image/107200470-1677528554271-NUP_200782_00237.jpg?v=1697057003&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T17:48:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/7ad47139c2c0a6920f889eb3ffec51a5.json"
+        }
+      ],
+      "path": "articles/fc333c5902457aea72ab350b8d294a4a.json"
+    },
+    {
+      "id": "7ad47139c2c0a6920f889eb3ffec51a5",
+      "title": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
+      "description": "At the Investing Club's 4th annual meeting, Cramer also reveals his outlook for 2027 and answers questions from the live audience and members at home.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107200470-1677528554271-NUP_200782_00237.jpg?v=1697057003&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-06T17:48:16.000Z",
+      "related": [
+        {
+          "id": "6907f1eab0368af8981030387cffed6b",
+          "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+          "image": "https://image.cnbcfm.com/api/v1/image/108530430-1793940029707-gettyimages-2300856161-20090101261022-99-29725.jpeg?v=1793940103&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:40:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6907f1eab0368af8981030387cffed6b.json"
+        },
+        {
+          "id": "925f3b2196a51137467a979fbcb89270",
+          "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
+          "image": "https://image.cnbcfm.com/api/v1/image/108250562-17679748452026-01-09t145623z_1194533702_rc2qxiat7k2o_rtrmadp_0_usa-trump.jpeg?v=1767974860&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T16:34:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/925f3b2196a51137467a979fbcb89270.json"
+        },
+        {
+          "id": "658425f4541fa1be3d9f4729818d40b1",
+          "title": "San Francisco Fed President Daly says higher rates 'are likely to be needed' in inflation fight",
+          "image": "https://image.cnbcfm.com/api/v1/image/108316930-1780595150373-gettyimages-2279065764-BLOOMBERG_TECH.jpeg?v=1780595171&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:42:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/658425f4541fa1be3d9f4729818d40b1.json"
+        },
+        {
+          "id": "09b146ecc1513e73593cee73a53008f1",
+          "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108527793-1793972802519-108527793-1793909522550-gettyimages-2303212023-NASDAQ_MARKETSITE.jpg?v=1793972812&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:35:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/09b146ecc1513e73593cee73a53008f1.json"
+        },
+        {
+          "id": "fc333c5902457aea72ab350b8d294a4a",
+          "title": "AI crush is powering one stock to sky-high valuations",
+          "image": "https://image.cnbcfm.com/api/v1/image/108481191-1793287178813-gettyimages-2302006596-102926-buf-news-costco-p17.jpeg?v=1793287304&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:15:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fc333c5902457aea72ab350b8d294a4a.json"
+        }
+      ],
+      "path": "articles/7ad47139c2c0a6920f889eb3ffec51a5.json"
+    },
+    {
+      "id": "77057c92f3ca84aaa80d7241b1f3eae9",
+      "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "description": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-06T17:24:48.000Z",
+      "related": [
+        {
+          "id": "09b146ecc1513e73593cee73a53008f1",
+          "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108527793-1793972802519-108527793-1793909522550-gettyimages-2303212023-NASDAQ_MARKETSITE.jpg?v=1793972812&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:35:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/09b146ecc1513e73593cee73a53008f1.json"
+        },
+        {
+          "id": "79561c9810b927b7bfd63d12982e4416",
+          "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -329,10 +521,58 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-11-04T22:16:05.000Z",
+          "published_at": "2026-11-05T21:36:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4eecee52b0ac090ca5937d7f9af4ee19.json"
+          "path": "articles/79561c9810b927b7bfd63d12982e4416.json"
+        },
+        {
+          "id": "2d31627ded11f2a785469f7bac53e19a",
+          "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T19:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 15,
+          "path": "articles/2d31627ded11f2a785469f7bac53e19a.json"
+        },
+        {
+          "id": "df97112d369570950f00bf5117110336",
+          "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-06T10:57:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/df97112d369570950f00bf5117110336.json"
+        },
+        {
+          "id": "2f7f98cdbb8e999cda80d92ad2cd40a2",
+          "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-05T13:37:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
         }
       ],
       "path": "articles/77057c92f3ca84aaa80d7241b1f3eae9.json"
@@ -379,6 +619,54 @@
           "path": "articles/283597b113936d1c9bfe4845ca59ac4f.json"
         },
         {
+          "id": "658425f4541fa1be3d9f4729818d40b1",
+          "title": "San Francisco Fed President Daly says higher rates 'are likely to be needed' in inflation fight",
+          "image": "https://image.cnbcfm.com/api/v1/image/108316930-1780595150373-gettyimages-2279065764-BLOOMBERG_TECH.jpeg?v=1780595171&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:42:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/658425f4541fa1be3d9f4729818d40b1.json"
+        },
+        {
+          "id": "6907f1eab0368af8981030387cffed6b",
+          "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+          "image": "https://image.cnbcfm.com/api/v1/image/108530430-1793940029707-gettyimages-2300856161-20090101261022-99-29725.jpeg?v=1793940103&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:40:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6907f1eab0368af8981030387cffed6b.json"
+        },
+        {
+          "id": "09b146ecc1513e73593cee73a53008f1",
+          "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108527793-1793972802519-108527793-1793909522550-gettyimages-2303212023-NASDAQ_MARKETSITE.jpg?v=1793972812&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:35:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/09b146ecc1513e73593cee73a53008f1.json"
+        },
+        {
           "id": "fc333c5902457aea72ab350b8d294a4a",
           "title": "AI crush is powering one stock to sky-high valuations",
           "image": "https://image.cnbcfm.com/api/v1/image/108481191-1793287178813-gettyimages-2302006596-102926-buf-news-costco-p17.jpeg?v=1793287304&w=1920&h=1080",
@@ -393,54 +681,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/fc333c5902457aea72ab350b8d294a4a.json"
-        },
-        {
-          "id": "bb24bf9d8cee2798d589825e5d57a39d",
-          "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533224-1793979790701-Election_2024_Mississippi_Senate-24293836049470-AP.jpg?v=1793980012&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T18:03:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bb24bf9d8cee2798d589825e5d57a39d.json"
-        },
-        {
-          "id": "7ad47139c2c0a6920f889eb3ffec51a5",
-          "title": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
-          "image": "https://image.cnbcfm.com/api/v1/image/107200470-1677528554271-NUP_200782_00237.jpg?v=1697057003&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T17:48:16.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7ad47139c2c0a6920f889eb3ffec51a5.json"
-        },
-        {
-          "id": "77057c92f3ca84aaa80d7241b1f3eae9",
-          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T17:24:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/77057c92f3ca84aaa80d7241b1f3eae9.json"
         }
       ],
       "path": "articles/de46e9f381927a2920f21eec76e77861.json"
@@ -484,6 +724,22 @@
       ],
       "published_at": "2026-11-06T16:34:07.000Z",
       "related": [
+        {
+          "id": "9b4e79ff13bba33468483413d113ea36",
+          "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-06T18:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
+        },
         {
           "id": "ddffd418ed73f05b935fa9b428190ebe",
           "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
@@ -547,22 +803,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b1a67f2540643c66b1091fc77e8bbf2c.json"
-        },
-        {
-          "id": "2d6764b51d3639ec759ce22db3fa8397",
-          "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-06T13:29:20.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/2d6764b51d3639ec759ce22db3fa8397.json"
         }
       ],
       "path": "articles/ab51811410c67c6c1f915fac59787dda.json"
@@ -593,22 +833,6 @@
       "published_at": "2026-11-06T16:34:01.000Z",
       "related": [
         {
-          "id": "e8fd2f28369d2c741956efec4c1c12e4",
-          "title": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108519904-1793817170911-gettyimages-2303031323-AA_04112026_3025836.jpeg?v=1793835392&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T12:04:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e8fd2f28369d2c741956efec4c1c12e4.json"
-        },
-        {
           "id": "0b9cd2790acea7227c8cc0d7616b93c1",
           "title": "AI debt concerns grow as ING reportedly seeks buyers for $500 million of data center loans",
           "image": "https://image.cnbcfm.com/api/v1/image/108355111-1787834785359-gettyimages-2292235029-dji_20260826152250_0043_d_o63c17gu.jpeg?v=1787834843&w=1920&h=1080",
@@ -623,6 +847,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0b9cd2790acea7227c8cc0d7616b93c1.json"
+        },
+        {
+          "id": "6907f1eab0368af8981030387cffed6b",
+          "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+          "image": "https://image.cnbcfm.com/api/v1/image/108530430-1793940029707-gettyimages-2300856161-20090101261022-99-29725.jpeg?v=1793940103&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:40:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6907f1eab0368af8981030387cffed6b.json"
         },
         {
           "id": "7ad47139c2c0a6920f889eb3ffec51a5",
@@ -757,6 +997,22 @@
           "path": "articles/8c17ad56c0f4a67f5365579d671dddbf.json"
         },
         {
+          "id": "9b4e79ff13bba33468483413d113ea36",
+          "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-06T18:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
+        },
+        {
           "id": "3fd0f5abd22b032be1d714ad56dc2ca3",
           "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/hollywood-decrypt-style-gID_7.jpg@png",
@@ -771,22 +1027,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/3fd0f5abd22b032be1d714ad56dc2ca3.json"
-        },
-        {
-          "id": "2656f855cc9608f4cea36e3c10c22a3b",
-          "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-05T16:37:20.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2656f855cc9608f4cea36e3c10c22a3b.json"
         }
       ],
       "path": "articles/e88673971d9590286ae038665184ee5e.json"
@@ -873,6 +1113,22 @@
           "path": "articles/c0aec4ca7f5520f160c62d224b38817c.json"
         },
         {
+          "id": "09b146ecc1513e73593cee73a53008f1",
+          "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108527793-1793972802519-108527793-1793909522550-gettyimages-2303212023-NASDAQ_MARKETSITE.jpg?v=1793972812&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:35:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/09b146ecc1513e73593cee73a53008f1.json"
+        },
+        {
           "id": "fba3ac9e1bdd627bfcbeee5154536bbc",
           "title": "Market sell-off hits hard: Advisors say 'stay the course with an eye on buying' ",
           "image": "https://image.cnbcfm.com/api/v1/image/108242669-1765922482604-gettyimages-1480323436-donedsc05835retocada.jpeg?v=1790709254&w=1920&h=1080",
@@ -887,22 +1143,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/fba3ac9e1bdd627bfcbeee5154536bbc.json"
-        },
-        {
-          "id": "fc333c5902457aea72ab350b8d294a4a",
-          "title": "AI crush is powering one stock to sky-high valuations",
-          "image": "https://image.cnbcfm.com/api/v1/image/108481191-1793287178813-gettyimages-2302006596-102926-buf-news-costco-p17.jpeg?v=1793287304&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T18:15:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fc333c5902457aea72ab350b8d294a4a.json"
         }
       ],
       "path": "articles/8c17ad56c0f4a67f5365579d671dddbf.json"
@@ -1005,9 +1245,9 @@
           "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
         },
         {
-          "id": "99d2be405a8f70f5fc9f3cf1fbf49b1f",
-          "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Treasury-Department1-gID_7.jpg@png",
+          "id": "9b4e79ff13bba33468483413d113ea36",
+          "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -1015,10 +1255,10 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-11-06T17:42:31.000Z",
+          "published_at": "2026-11-06T18:36:03.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/99d2be405a8f70f5fc9f3cf1fbf49b1f.json"
+          "breaking_score": 20,
+          "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
         }
       ],
       "path": "articles/2a83de2c64d7ab4dfbbeefa75bb0639f.json"
@@ -1095,6 +1335,22 @@
           "path": "articles/053dfb85370a8fa10e72a0d3f9cdb594.json"
         },
         {
+          "id": "9b4e79ff13bba33468483413d113ea36",
+          "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-06T18:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
+        },
+        {
           "id": "ab51811410c67c6c1f915fac59787dda",
           "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
@@ -1125,133 +1381,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ee0f27c05f0bfb28edf32a5fe04f1dfb.json"
-        },
-        {
-          "id": "99aa4e507180fabc963d892396c87576",
-          "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-06T08:19:18.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/99aa4e507180fabc963d892396c87576.json"
         }
       ],
       "path": "articles/2d6764b51d3639ec759ce22db3fa8397.json"
-    },
-    {
-      "id": "e8fd2f28369d2c741956efec4c1c12e4",
-      "title": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
-      "description": "The election rout landed on an AI trade already under pressure from high interest rates, heavy capital spending and questions about returns.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108519904-1793817170911-gettyimages-2303031323-AA_04112026_3025836.jpeg?v=1793835392&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-11-06T12:04:17.000Z",
-      "related": [
-        {
-          "id": "925f3b2196a51137467a979fbcb89270",
-          "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
-          "image": "https://image.cnbcfm.com/api/v1/image/108250562-17679748452026-01-09t145623z_1194533702_rc2qxiat7k2o_rtrmadp_0_usa-trump.jpeg?v=1767974860&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T16:34:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/925f3b2196a51137467a979fbcb89270.json"
-        },
-        {
-          "id": "7ad47139c2c0a6920f889eb3ffec51a5",
-          "title": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
-          "image": "https://image.cnbcfm.com/api/v1/image/107200470-1677528554271-NUP_200782_00237.jpg?v=1697057003&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T17:48:16.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7ad47139c2c0a6920f889eb3ffec51a5.json"
-        },
-        {
-          "id": "0b9cd2790acea7227c8cc0d7616b93c1",
-          "title": "AI debt concerns grow as ING reportedly seeks buyers for $500 million of data center loans",
-          "image": "https://image.cnbcfm.com/api/v1/image/108355111-1787834785359-gettyimages-2292235029-dji_20260826152250_0043_d_o63c17gu.jpeg?v=1787834843&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T11:24:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0b9cd2790acea7227c8cc0d7616b93c1.json"
-        },
-        {
-          "id": "77057c92f3ca84aaa80d7241b1f3eae9",
-          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T17:24:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/77057c92f3ca84aaa80d7241b1f3eae9.json"
-        },
-        {
-          "id": "fc333c5902457aea72ab350b8d294a4a",
-          "title": "AI crush is powering one stock to sky-high valuations",
-          "image": "https://image.cnbcfm.com/api/v1/image/108481191-1793287178813-gettyimages-2302006596-102926-buf-news-costco-p17.jpeg?v=1793287304&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T18:15:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fc333c5902457aea72ab350b8d294a4a.json"
-        }
-      ],
-      "path": "articles/e8fd2f28369d2c741956efec4c1c12e4.json"
     },
     {
       "id": "b490a666ae1a474b5b8d918f2751a285",
@@ -1411,22 +1543,6 @@
           "path": "articles/925f3b2196a51137467a979fbcb89270.json"
         },
         {
-          "id": "e8fd2f28369d2c741956efec4c1c12e4",
-          "title": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108519904-1793817170911-gettyimages-2303031323-AA_04112026_3025836.jpeg?v=1793835392&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T12:04:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e8fd2f28369d2c741956efec4c1c12e4.json"
-        },
-        {
           "id": "77057c92f3ca84aaa80d7241b1f3eae9",
           "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
           "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
@@ -1443,9 +1559,9 @@
           "path": "articles/77057c92f3ca84aaa80d7241b1f3eae9.json"
         },
         {
-          "id": "fc333c5902457aea72ab350b8d294a4a",
-          "title": "AI crush is powering one stock to sky-high valuations",
-          "image": "https://image.cnbcfm.com/api/v1/image/108481191-1793287178813-gettyimages-2302006596-102926-buf-news-costco-p17.jpeg?v=1793287304&w=1920&h=1080",
+          "id": "658425f4541fa1be3d9f4729818d40b1",
+          "title": "San Francisco Fed President Daly says higher rates 'are likely to be needed' in inflation fight",
+          "image": "https://image.cnbcfm.com/api/v1/image/108316930-1780595150373-gettyimages-2279065764-BLOOMBERG_TECH.jpeg?v=1780595171&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1453,15 +1569,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-06T18:15:44.000Z",
+          "published_at": "2026-11-06T18:42:45.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/fc333c5902457aea72ab350b8d294a4a.json"
+          "path": "articles/658425f4541fa1be3d9f4729818d40b1.json"
         },
         {
-          "id": "bb24bf9d8cee2798d589825e5d57a39d",
-          "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533224-1793979790701-Election_2024_Mississippi_Senate-24293836049470-AP.jpg?v=1793980012&w=1920&h=1080",
+          "id": "6907f1eab0368af8981030387cffed6b",
+          "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+          "image": "https://image.cnbcfm.com/api/v1/image/108530430-1793940029707-gettyimages-2300856161-20090101261022-99-29725.jpeg?v=1793940103&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1469,10 +1585,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-06T18:03:13.000Z",
+          "published_at": "2026-11-06T18:40:58.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/bb24bf9d8cee2798d589825e5d57a39d.json"
+          "path": "articles/6907f1eab0368af8981030387cffed6b.json"
+        },
+        {
+          "id": "09b146ecc1513e73593cee73a53008f1",
+          "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108527793-1793972802519-108527793-1793909522550-gettyimages-2303212023-NASDAQ_MARKETSITE.jpg?v=1793972812&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-06T18:35:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/09b146ecc1513e73593cee73a53008f1.json"
         }
       ],
       "path": "articles/0b9cd2790acea7227c8cc0d7616b93c1.json"
@@ -1598,114 +1730,6 @@
         }
       ],
       "path": "articles/f8944652f9e1e99d83b366a40041ba9c.json"
-    },
-    {
-      "id": "faaa8998a93a410bb322d981c93145ca",
-      "title": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
-      "description": "The world's biggest defense firms are finding that demand for traditional military equipment remains strong even as drones and AI reshape how wars are fought.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108226122-1763129781430-gettyimages-2158379193-935a37472.jpeg?v=1767886590&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-11-06T10:39:51.000Z",
-      "related": [
-        {
-          "id": "fc333c5902457aea72ab350b8d294a4a",
-          "title": "AI crush is powering one stock to sky-high valuations",
-          "image": "https://image.cnbcfm.com/api/v1/image/108481191-1793287178813-gettyimages-2302006596-102926-buf-news-costco-p17.jpeg?v=1793287304&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T18:15:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fc333c5902457aea72ab350b8d294a4a.json"
-        },
-        {
-          "id": "bb24bf9d8cee2798d589825e5d57a39d",
-          "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533224-1793979790701-Election_2024_Mississippi_Senate-24293836049470-AP.jpg?v=1793980012&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T18:03:13.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bb24bf9d8cee2798d589825e5d57a39d.json"
-        },
-        {
-          "id": "7ad47139c2c0a6920f889eb3ffec51a5",
-          "title": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
-          "image": "https://image.cnbcfm.com/api/v1/image/107200470-1677528554271-NUP_200782_00237.jpg?v=1697057003&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T17:48:16.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7ad47139c2c0a6920f889eb3ffec51a5.json"
-        },
-        {
-          "id": "77057c92f3ca84aaa80d7241b1f3eae9",
-          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T17:24:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/77057c92f3ca84aaa80d7241b1f3eae9.json"
-        },
-        {
-          "id": "de46e9f381927a2920f21eec76e77861",
-          "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-          "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-06T17:09:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/de46e9f381927a2920f21eec76e77861.json"
-        }
-      ],
-      "path": "articles/faaa8998a93a410bb322d981c93145ca.json"
     },
     {
       "id": "5606dbe7a628208c7443d4a6d4160d28",
@@ -2163,9 +2187,9 @@
           "path": "articles/4eecee52b0ac090ca5937d7f9af4ee19.json"
         },
         {
-          "id": "77057c92f3ca84aaa80d7241b1f3eae9",
-          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
+          "id": "09b146ecc1513e73593cee73a53008f1",
+          "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108527793-1793972802519-108527793-1793909522550-gettyimages-2303212023-NASDAQ_MARKETSITE.jpg?v=1793972812&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -2173,10 +2197,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-06T17:24:48.000Z",
+          "published_at": "2026-11-06T18:35:08.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/77057c92f3ca84aaa80d7241b1f3eae9.json"
+          "breaking_score": 20,
+          "path": "articles/09b146ecc1513e73593cee73a53008f1.json"
         }
       ],
       "path": "articles/79561c9810b927b7bfd63d12982e4416.json"
@@ -2221,6 +2245,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/5f08380c816af26c986726dd27aa29e5.json"
+        },
+        {
+          "id": "9b4e79ff13bba33468483413d113ea36",
+          "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-06T18:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
         },
         {
           "id": "99d2be405a8f70f5fc9f3cf1fbf49b1f",
@@ -2269,22 +2309,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/ab51811410c67c6c1f915fac59787dda.json"
-        },
-        {
-          "id": "e88673971d9590286ae038665184ee5e",
-          "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-06T16:28:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e88673971d9590286ae038665184ee5e.json"
         }
       ],
       "path": "articles/0c2ad4a072b7529e646a8abc248e41bb.json"
@@ -2387,9 +2411,9 @@
           "path": "articles/4eecee52b0ac090ca5937d7f9af4ee19.json"
         },
         {
-          "id": "77057c92f3ca84aaa80d7241b1f3eae9",
-          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
+          "id": "09b146ecc1513e73593cee73a53008f1",
+          "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108527793-1793972802519-108527793-1793909522550-gettyimages-2303212023-NASDAQ_MARKETSITE.jpg?v=1793972812&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -2397,10 +2421,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-06T17:24:48.000Z",
+          "published_at": "2026-11-06T18:35:08.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/77057c92f3ca84aaa80d7241b1f3eae9.json"
+          "breaking_score": 20,
+          "path": "articles/09b146ecc1513e73593cee73a53008f1.json"
         }
       ],
       "path": "articles/2d31627ded11f2a785469f7bac53e19a.json"
@@ -2655,6 +2679,22 @@
       "published_at": "2026-11-05T18:05:21.000Z",
       "related": [
         {
+          "id": "9b4e79ff13bba33468483413d113ea36",
+          "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-06T18:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
+        },
+        {
           "id": "8351b908d959696955d2ad8c0d3f2fd3",
           "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
@@ -2669,22 +2709,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/8351b908d959696955d2ad8c0d3f2fd3.json"
-        },
-        {
-          "id": "a5af23ff1ae362c543ec1cc010ddee1d",
-          "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-04T16:29:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a5af23ff1ae362c543ec1cc010ddee1d.json"
         },
         {
           "id": "99d2be405a8f70f5fc9f3cf1fbf49b1f",
@@ -2793,6 +2817,22 @@
           "path": "articles/2d6764b51d3639ec759ce22db3fa8397.json"
         },
         {
+          "id": "9b4e79ff13bba33468483413d113ea36",
+          "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-06T18:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
+        },
+        {
           "id": "ab51811410c67c6c1f915fac59787dda",
           "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
@@ -2839,22 +2879,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/64ba988e3eada99a18c8675e82dbeb5f.json"
-        },
-        {
-          "id": "55ef957cd15c9458db864697f96c3e9e",
-          "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-06T17:49:33.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 35,
-          "path": "articles/55ef957cd15c9458db864697f96c3e9e.json"
         }
       ],
       "path": "articles/ddffd418ed73f05b935fa9b428190ebe.json"
@@ -3285,6 +3309,22 @@
           "path": "articles/7f07efbc603254b3a60587b5f7cad430.json"
         },
         {
+          "id": "9b4e79ff13bba33468483413d113ea36",
+          "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-06T18:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
+        },
+        {
           "id": "6b980d2d4394c4c0d11a0f715f85d66f",
           "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D4R4SY5YQGHZN1M57JSE8D/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-2.jpg",
@@ -3315,22 +3355,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b490a666ae1a474b5b8d918f2751a285.json"
-        },
-        {
-          "id": "01cef0ef1126e1b3da3ffdce80b7792c",
-          "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-06T01:30:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/01cef0ef1126e1b3da3ffdce80b7792c.json"
         }
       ],
       "path": "articles/8acc4508c81b8d69035c2e017be93dda.json"
@@ -3425,6 +3449,22 @@
           "path": "articles/ff84d38d08b54f9ac27a8b36236f79b4.json"
         },
         {
+          "id": "9b4e79ff13bba33468483413d113ea36",
+          "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-06T18:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
+        },
+        {
           "id": "99d2be405a8f70f5fc9f3cf1fbf49b1f",
           "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Treasury-Department1-gID_7.jpg@png",
@@ -3439,22 +3479,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/99d2be405a8f70f5fc9f3cf1fbf49b1f.json"
-        },
-        {
-          "id": "6d362dc3e78c389e1ade27626cea5703",
-          "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-06T16:41:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/6d362dc3e78c389e1ade27626cea5703.json"
         }
       ],
       "path": "articles/22431e159096727defaf338a54b4d9c5.json"
@@ -3533,6 +3557,22 @@
           "path": "articles/28fd9a259f34e384bce39aae1d8c4393.json"
         },
         {
+          "id": "9b4e79ff13bba33468483413d113ea36",
+          "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-06T18:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
+        },
+        {
           "id": "99d2be405a8f70f5fc9f3cf1fbf49b1f",
           "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Treasury-Department1-gID_7.jpg@png",
@@ -3547,22 +3587,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/99d2be405a8f70f5fc9f3cf1fbf49b1f.json"
-        },
-        {
-          "id": "6d362dc3e78c389e1ade27626cea5703",
-          "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-06T16:41:29.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/6d362dc3e78c389e1ade27626cea5703.json"
         }
       ],
       "path": "articles/4d7d57f437f8a7c610a49011183fb497.json"
@@ -3625,6 +3649,22 @@
           "path": "articles/ff84d38d08b54f9ac27a8b36236f79b4.json"
         },
         {
+          "id": "9b4e79ff13bba33468483413d113ea36",
+          "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-06T18:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
+        },
+        {
           "id": "99d2be405a8f70f5fc9f3cf1fbf49b1f",
           "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Treasury-Department1-gID_7.jpg@png",
@@ -3655,22 +3695,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 25,
           "path": "articles/ab51811410c67c6c1f915fac59787dda.json"
-        },
-        {
-          "id": "e88673971d9590286ae038665184ee5e",
-          "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-06T16:28:58.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e88673971d9590286ae038665184ee5e.json"
         }
       ],
       "path": "articles/be78b1c9cf47793535b480f2cee484cc.json"
@@ -3917,9 +3941,9 @@
           "path": "articles/c0aec4ca7f5520f160c62d224b38817c.json"
         },
         {
-          "id": "9b35b3857c9fd718fca39b310f54fad2",
-          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108134675-1745324912221-gettyimages-2210779954-TESLA_SHARES.jpeg?v=1745324973&w=1920&h=1080",
+          "id": "6907f1eab0368af8981030387cffed6b",
+          "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+          "image": "https://image.cnbcfm.com/api/v1/image/108530430-1793940029707-gettyimages-2300856161-20090101261022-99-29725.jpeg?v=1793940103&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -3927,10 +3951,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-06T15:06:11.000Z",
+          "published_at": "2026-11-06T18:40:58.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/9b35b3857c9fd718fca39b310f54fad2.json"
+          "breaking_score": 0,
+          "path": "articles/6907f1eab0368af8981030387cffed6b.json"
         }
       ],
       "path": "articles/24b9cce5e4b2397a0d42ed9949085b72.json"

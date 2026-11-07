@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T09:15:48.545Z",
+  "updated_at": "2026-11-07T09:31:03.327Z",
   "total": 25,
   "entities": [
     {
@@ -51,15 +51,6 @@
       "count": 5
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 5
-    },
-    {
       "id": "mining",
       "name": "Mining",
       "type": "topic",
@@ -67,17 +58,19 @@
       "count": 5
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
+      "id": "defi",
+      "name": "DeFi",
       "type": "topic",
       "icon": "",
       "count": 4
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
     },
     {
@@ -88,6 +81,13 @@
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
       "count": 4
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "stablecoin",

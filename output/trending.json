@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-07T12:01:17.403Z",
+  "updated_at": "2026-11-07T12:15:48.480Z",
   "articles": {
-    "generated_at": "2026-11-07T12:01:17.403Z",
+    "generated_at": "2026-11-07T12:15:48.480Z",
     "topics": [
       {
         "id": "crypto",
@@ -157,8 +157,22 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 32,
+        "count": 33,
         "articles": [
+          {
+            "id": "3a560f725a595994f23c2a462f49d857",
+            "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+            "image": "https://image.cnbcfm.com/api/v1/image/108000870-1719930897606-gettyimages-2159334713-AA_30062024_1752759.jpeg?v=1737096574&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-07T12:00:01.000Z",
+            "path": "articles/3a560f725a595994f23c2a462f49d857.json"
+          },
           {
             "id": "77057c92f3ca84aaa80d7241b1f3eae9",
             "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
@@ -284,20 +298,6 @@
             "category": "stocks",
             "published_at": "2026-11-06T17:09:53.000Z",
             "path": "articles/de46e9f381927a2920f21eec76e77861.json"
-          },
-          {
-            "id": "ab51811410c67c6c1f915fac59787dda",
-            "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-06T16:34:07.000Z",
-            "path": "articles/ab51811410c67c6c1f915fac59787dda.json"
           }
         ]
       },
@@ -1009,16 +1009,16 @@
         ]
       },
       {
-        "id": "tsla",
-        "name": "Tesla",
+        "id": "googl",
+        "name": "Google",
         "type": "company",
-        "icon": "https://logo.clearbit.com/tesla.com",
-        "count": 4,
+        "icon": "https://logo.clearbit.com/google.com",
+        "count": 3,
         "articles": [
           {
-            "id": "9b35b3857c9fd718fca39b310f54fad2",
-            "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-            "image": "https://image.cnbcfm.com/api/v1/image/108134675-1745324912221-gettyimages-2210779954-TESLA_SHARES.jpeg?v=1745324973&w=1920&h=1080",
+            "id": "3a560f725a595994f23c2a462f49d857",
+            "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+            "image": "https://image.cnbcfm.com/api/v1/image/108000870-1719930897606-gettyimages-2159334713-AA_30062024_1752759.jpeg?v=1737096574&w=1920&h=1080",
             "source": {
               "id": "cnbc",
               "name": "CNBC",
@@ -1026,13 +1026,27 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-11-06T15:06:11.000Z",
-            "path": "articles/9b35b3857c9fd718fca39b310f54fad2.json"
+            "published_at": "2026-11-07T12:00:01.000Z",
+            "path": "articles/3a560f725a595994f23c2a462f49d857.json"
           },
           {
-            "id": "2a83de2c64d7ab4dfbbeefa75bb0639f",
-            "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/tesla-cybertruck-decrypt-style-gID_7.jpg@png",
+            "id": "c0aec4ca7f5520f160c62d224b38817c",
+            "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-05T13:29:40.000Z",
+            "path": "articles/c0aec4ca7f5520f160c62d224b38817c.json"
+          },
+          {
+            "id": "22431e159096727defaf338a54b4d9c5",
+            "title": "Google Tells Schools They Can Reject AI—But They'll Lose Search, Too",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
             "source": {
               "id": "decrypt",
               "name": "Decrypt",
@@ -1040,36 +1054,8 @@
               "icon": "https://logo.clearbit.com/decrypt.co"
             },
             "category": "crypto",
-            "published_at": "2026-11-06T13:53:04.000Z",
-            "path": "articles/2a83de2c64d7ab4dfbbeefa75bb0639f.json"
-          },
-          {
-            "id": "b743863e74992032f7104af44b6c250b",
-            "title": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure",
-            "image": "https://image.cnbcfm.com/api/v1/image/108441932-1792588781996-gettyimages-2301241032-vcg111675843073.jpeg?v=1792588817&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-06T13:51:32.000Z",
-            "path": "articles/b743863e74992032f7104af44b6c250b.json"
-          },
-          {
-            "id": "2f7f98cdbb8e999cda80d92ad2cd40a2",
-            "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-05T13:37:25.000Z",
-            "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
+            "published_at": "2026-11-04T21:16:03.000Z",
+            "path": "articles/22431e159096727defaf338a54b4d9c5.json"
           }
         ]
       },
@@ -1176,6 +1162,57 @@
         ]
       },
       {
+        "id": "tsla",
+        "name": "Tesla",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/tesla.com",
+        "count": 3,
+        "articles": [
+          {
+            "id": "9b35b3857c9fd718fca39b310f54fad2",
+            "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+            "image": "https://image.cnbcfm.com/api/v1/image/108134675-1745324912221-gettyimages-2210779954-TESLA_SHARES.jpeg?v=1745324973&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-06T15:06:11.000Z",
+            "path": "articles/9b35b3857c9fd718fca39b310f54fad2.json"
+          },
+          {
+            "id": "2a83de2c64d7ab4dfbbeefa75bb0639f",
+            "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/tesla-cybertruck-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-06T13:53:04.000Z",
+            "path": "articles/2a83de2c64d7ab4dfbbeefa75bb0639f.json"
+          },
+          {
+            "id": "2f7f98cdbb8e999cda80d92ad2cd40a2",
+            "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-05T13:37:25.000Z",
+            "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
+          }
+        ]
+      },
+      {
         "id": "sol",
         "name": "Solana",
         "type": "crypto",
@@ -1223,6 +1260,43 @@
             "category": "crypto",
             "published_at": "2026-11-05T13:01:02.000Z",
             "path": "articles/b1807cf5ac014f972735b7e64398a251.json"
+          }
+        ]
+      },
+      {
+        "id": "meta",
+        "name": "Meta",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/meta.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "3a560f725a595994f23c2a462f49d857",
+            "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+            "image": "https://image.cnbcfm.com/api/v1/image/108000870-1719930897606-gettyimages-2159334713-AA_30062024_1752759.jpeg?v=1737096574&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-07T12:00:01.000Z",
+            "path": "articles/3a560f725a595994f23c2a462f49d857.json"
+          },
+          {
+            "id": "9c81cdacf864a9162e1a167645645bc2",
+            "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-06T20:09:18.000Z",
+            "path": "articles/9c81cdacf864a9162e1a167645645bc2.json"
           }
         ]
       },
@@ -1301,43 +1375,6 @@
         ]
       },
       {
-        "id": "googl",
-        "name": "Google",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/google.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "c0aec4ca7f5520f160c62d224b38817c",
-            "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-05T13:29:40.000Z",
-            "path": "articles/c0aec4ca7f5520f160c62d224b38817c.json"
-          },
-          {
-            "id": "22431e159096727defaf338a54b4d9c5",
-            "title": "Google Tells Schools They Can Reject AI—But They'll Lose Search, Too",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-04T21:16:03.000Z",
-            "path": "articles/22431e159096727defaf338a54b4d9c5.json"
-          }
-        ]
-      },
-      {
         "id": "nvda",
         "name": "NVIDIA",
         "type": "company",
@@ -1380,29 +1417,6 @@
             "category": "crypto",
             "published_at": "2026-11-06T22:00:15.000Z",
             "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-          }
-        ]
-      },
-      {
-        "id": "meta",
-        "name": "Meta",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/meta.com",
-        "count": 1,
-        "articles": [
-          {
-            "id": "9c81cdacf864a9162e1a167645645bc2",
-            "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-06T20:09:18.000Z",
-            "path": "articles/9c81cdacf864a9162e1a167645645bc2.json"
           }
         ]
       },
@@ -1495,29 +1509,6 @@
             "category": "stocks",
             "published_at": "2026-11-06T18:35:08.000Z",
             "path": "articles/09b146ecc1513e73593cee73a53008f1.json"
-          }
-        ]
-      },
-      {
-        "id": "spacex",
-        "name": "SpaceX",
-        "type": "company",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "b743863e74992032f7104af44b6c250b",
-            "title": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure",
-            "image": "https://image.cnbcfm.com/api/v1/image/108441932-1792588781996-gettyimages-2301241032-vcg111675843073.jpeg?v=1792588817&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-06T13:51:32.000Z",
-            "path": "articles/b743863e74992032f7104af44b6c250b.json"
           }
         ]
       },

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T13:01:18.198Z",
-  "total": 23,
+  "updated_at": "2026-11-08T13:15:51.314Z",
+  "total": 24,
   "entities": [
     {
       "id": "crypto",
@@ -10,20 +10,20 @@
       "count": 39
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 25
-    },
-    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
+      "count": 23
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 22
     },
     {
       "id": "regulation",
@@ -40,13 +40,6 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 5
-    },
-    {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 4
     },
     {
       "id": "meta",
@@ -72,6 +65,13 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "mstr",
@@ -156,6 +156,15 @@
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
       "count": 2
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 1
     },
     {
       "id": "web3",

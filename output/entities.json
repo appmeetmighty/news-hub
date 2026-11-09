@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-09T21:15:52.119Z",
-  "total": 27,
+  "updated_at": "2026-11-09T21:31:11.704Z",
+  "total": 28,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 28
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
+      "count": 23
     },
     {
       "id": "nvda",
@@ -25,7 +25,14 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 17
+      "count": 16
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 14
     },
     {
       "id": "regulation",
@@ -33,13 +40,6 @@
       "type": "topic",
       "icon": "",
       "count": 14
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 13
     },
     {
       "id": "blockchain",
@@ -67,13 +67,6 @@
       "count": 4
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
@@ -85,6 +78,13 @@
     {
       "id": "stablecoin",
       "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 3
@@ -216,6 +216,15 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 1
+    },
+    {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
       "count": 1
     },
     {

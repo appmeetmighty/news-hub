@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:01:28.837Z",
+  "updated_at": "2026-11-09T17:15:56.185Z",
   "total": 25,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 32
+      "count": 31
     },
     {
       "id": "btc",
@@ -42,6 +42,15 @@
       "count": 9
     },
     {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 6
+    },
+    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
@@ -52,24 +61,6 @@
       "id": "mining",
       "name": "Mining",
       "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 4
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
       "icon": "",
       "count": 4
     },
@@ -126,6 +117,15 @@
       "count": 3
     },
     {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -167,15 +167,6 @@
       "count": 2
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 2
-    },
-    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
@@ -207,6 +198,15 @@
       "type": "company",
       "path": "tickers/spacex.json",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 1
     }
   ]

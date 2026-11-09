@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T09:46:14.740Z",
+  "updated_at": "2026-11-09T10:01:25.401Z",
   "total": 23,
   "entities": [
     {
@@ -30,7 +30,16 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 13
+      "count": 12
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 5
     },
     {
       "id": "eth",
@@ -40,24 +49,6 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 4
     },
     {
       "id": "sol",
@@ -86,6 +77,15 @@
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
       "icon": "",
       "count": 4
     },

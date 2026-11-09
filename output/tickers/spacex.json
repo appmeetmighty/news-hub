@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T12:01:17.399Z",
+  "updated_at": "2026-11-09T07:01:23.687Z",
   "id": "spacex",
   "symbol": "SPACEX",
   "name": "SpaceX",
@@ -7,28 +7,28 @@
   "total": 1,
   "articles": [
     {
-      "id": "b743863e74992032f7104af44b6c250b",
-      "title": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure",
-      "description": "Scottish Mortgage Investment Trust has cut its SpaceX holding to 11.1% of assets and sold its remaining Tesla stake.",
+      "id": "e873e52c04cd18a58b3f710876f42986",
+      "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+      "description": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/06/scottish-mortgage-tesla-spacex.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108441932-1792588781996-gettyimages-2301241032-vcg111675843073.jpeg?v=1792588817&w=1920&h=1080",
+      "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+      "image": "",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
         {
-          "id": "tsla",
-          "symbol": "TSLA",
-          "name": "Tesla",
-          "type": "company",
-          "path": "tickers/tsla.json",
-          "icon": "https://logo.clearbit.com/tesla.com"
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
           "id": "spacex",
@@ -37,30 +37,84 @@
           "type": "company",
           "path": "tickers/spacex.json",
           "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-11-06T13:51:32.000Z",
+      "published_at": "2026-11-09T06:54:41.000Z",
       "related": [
         {
-          "id": "9b35b3857c9fd718fca39b310f54fad2",
-          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-          "image": "https://image.cnbcfm.com/api/v1/image/108134675-1745324912221-gettyimages-2210779954-TESLA_SHARES.jpeg?v=1745324973&w=1920&h=1080",
+          "id": "01cef0ef1126e1b3da3ffdce80b7792c",
+          "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-06T15:06:11.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-06T01:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/01cef0ef1126e1b3da3ffdce80b7792c.json"
+        },
+        {
+          "id": "a7e9c93a911995a5d7d3e553e8f0c0cd",
+          "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-09T04:54:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a7e9c93a911995a5d7d3e553e8f0c0cd.json"
+        },
+        {
+          "id": "c3bbdb808820346aa0dca6e2ba3dc0b3",
+          "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-09T03:21:49.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 25,
-          "path": "articles/9b35b3857c9fd718fca39b310f54fad2.json"
+          "path": "articles/c3bbdb808820346aa0dca6e2ba3dc0b3.json"
         },
         {
-          "id": "2a83de2c64d7ab4dfbbeefa75bb0639f",
-          "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/tesla-cybertruck-decrypt-style-gID_7.jpg@png",
+          "id": "e7f24389f5ab39d0dac9fa664fb34569",
+          "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-08T12:55:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e7f24389f5ab39d0dac9fa664fb34569.json"
+        },
+        {
+          "id": "ab51811410c67c6c1f915fac59787dda",
+          "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -68,61 +122,13 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-11-06T13:53:04.000Z",
+          "published_at": "2026-11-06T16:34:07.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2a83de2c64d7ab4dfbbeefa75bb0639f.json"
-        },
-        {
-          "id": "2f7f98cdbb8e999cda80d92ad2cd40a2",
-          "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-05T13:37:25.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2f7f98cdbb8e999cda80d92ad2cd40a2.json"
-        },
-        {
-          "id": "653ca7b3452cffcd7a4f61efd01f522e",
-          "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-          "image": "https://image.cnbcfm.com/api/v1/image/108532631-1793973369517-gettyimages-1171287484-_igp1978.jpeg?v=1793973419&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-07T09:01:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/653ca7b3452cffcd7a4f61efd01f522e.json"
-        },
-        {
-          "id": "2b9300ec82ac9e27c4c5c1ab0e25d2dc",
-          "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-          "image": "https://image.cnbcfm.com/api/v1/image/108539426-1794035113546-gettyimages-2303901733-sc1_6555_6vbyy1aj.jpeg?v=1794035124&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-07T07:37:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2b9300ec82ac9e27c4c5c1ab0e25d2dc.json"
+          "breaking_score": 25,
+          "path": "articles/ab51811410c67c6c1f915fac59787dda.json"
         }
       ],
-      "path": "articles/b743863e74992032f7104af44b6c250b.json"
+      "path": "articles/e873e52c04cd18a58b3f710876f42986.json"
     }
   ]
 }

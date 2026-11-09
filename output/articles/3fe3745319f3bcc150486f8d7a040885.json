@@ -1,9 +1,9 @@
 {
   "id": "3fe3745319f3bcc150486f8d7a040885",
-  "title": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
+  "title": "Live news: Bitcoin remains lower as stocks surge, crude oil tumbles",
   "description": "The Nasdaq and S&P 500 are both sharply higher even as Nvidia declines following CEO Jensen Huang's issues.",
   "reading_time_minutes": 1,
-  "breaking_score": 40,
+  "breaking_score": 20,
   "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
   "image": "",
   "source": {
@@ -29,25 +29,33 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com"
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
     }
   ],
   "published_at": "2026-11-09T10:51:48.000Z",
   "related": [
     {
-      "id": "c3bbdb808820346aa0dca6e2ba3dc0b3",
-      "title": "Bitcoin drops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-      "image": "",
+      "id": "7d0d36075a2d6eb8d3a5de1cc856c217",
+      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
       "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
-      "published_at": "2026-11-09T03:21:49.000Z",
+      "published_at": "2026-11-09T19:06:03.000Z",
       "reading_time_minutes": 1,
-      "breaking_score": 25,
-      "path": "articles/c3bbdb808820346aa0dca6e2ba3dc0b3.json"
+      "breaking_score": 10,
+      "path": "articles/7d0d36075a2d6eb8d3a5de1cc856c217.json"
     },
     {
       "id": "df0abfafb51135ad0970fe3a97b43d0b",
@@ -64,6 +72,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 20,
       "path": "articles/df0abfafb51135ad0970fe3a97b43d0b.json"
+    },
+    {
+      "id": "c3bbdb808820346aa0dca6e2ba3dc0b3",
+      "title": "Bitcoin drops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-11-09T03:21:49.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 25,
+      "path": "articles/c3bbdb808820346aa0dca6e2ba3dc0b3.json"
     },
     {
       "id": "4de8b6b6ec88ce6b4a2054fa29c6aa69",
@@ -96,22 +120,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/0011c8a7970b646d4f362d80a585a0e7.json"
-    },
-    {
-      "id": "91ca5ef744eaa55b6e9de89cf967f471",
-      "title": "Google’s AI chip push adds more pressure on Nvidia",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-11-09T15:20:05.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/91ca5ef744eaa55b6e9de89cf967f471.json"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T12:01:22.151Z",
+  "updated_at": "2026-11-09T11:01:28.571Z",
   "id": "gold",
   "symbol": "GOLD",
   "name": "Gold",
@@ -7,21 +7,37 @@
   "total": 1,
   "articles": [
     {
-      "id": "057582f7a56e182d4923009ac2be3e26",
-      "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
-      "description": "Precious metals saw strong gains on Tuesday morning, as investors digested a Democratic sweep in the U.S. midterm elections.",
+      "id": "3fe3745319f3bcc150486f8d7a040885",
+      "title": "Live news: Nvidia slides on CEO allegations as bitcoin hovers just above its 200-day average",
+      "description": "Neocloud stocks retreat after Friday’s rally, while gold holds above $4,000 and bitcoin trades near $74,000.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108256504-17691942812026-01-23t182552z_1555020399_rc2xav9y5ez9_rtrmadp_0_global-metals-silver.jpeg?v=1769194324&w=1920&h=1080",
+      "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
+      "image": "",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
         {
           "id": "gold",
           "symbol": "GOLD",
@@ -29,100 +45,92 @@
           "type": "commodity",
           "path": "tickers/gold.json",
           "icon": ""
-        },
-        {
-          "id": "silver",
-          "symbol": "SILVER",
-          "name": "Silver",
-          "type": "commodity",
-          "path": "tickers/silver.json",
-          "icon": ""
         }
       ],
-      "published_at": "2026-11-04T09:59:56.000Z",
+      "published_at": "2026-11-09T10:51:48.000Z",
       "related": [
         {
-          "id": "3a7b4aca985ce6b46f9cfc390677ee08",
-          "title": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
-          "image": "https://image.cnbcfm.com/api/v1/image/108321874-1781528228863-gettyimages-2277308819-230326_1_h_m01283.jpeg?v=1782877636&w=1920&h=1080",
+          "id": "c3bbdb808820346aa0dca6e2ba3dc0b3",
+          "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-04T06:45:36.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-09T03:21:49.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3a7b4aca985ce6b46f9cfc390677ee08.json"
+          "breaking_score": 25,
+          "path": "articles/c3bbdb808820346aa0dca6e2ba3dc0b3.json"
         },
         {
-          "id": "60e33bc829b280d17753d5e7694f397d",
-          "title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
-          "image": "https://image.cnbcfm.com/api/v1/image/108512163-1793727457335-gettyimages-2303344316-_m0a4268_jh2yr05a.jpeg?v=1793727486&w=1920&h=1080",
+          "id": "4de8b6b6ec88ce6b4a2054fa29c6aa69",
+          "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZPZ3XN7CEBDWKGJCADW5H6/ai-falling-stock-prices-960x644-960x644.webp",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-04T03:38:08.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-09T10:03:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/60e33bc829b280d17753d5e7694f397d.json"
+          "path": "articles/4de8b6b6ec88ce6b4a2054fa29c6aa69.json"
         },
         {
-          "id": "69f7bf333b7f645d35a7a6525ba6a3b8",
-          "title": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
-          "image": "https://image.cnbcfm.com/api/v1/image/108511091-1793714895762-gettyimages-2302880756-US_MIDTERMS.jpeg?v=1793714928&w=1920&h=1080",
+          "id": "a7e9c93a911995a5d7d3e553e8f0c0cd",
+          "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-04T11:35:52.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-09T04:54:39.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/69f7bf333b7f645d35a7a6525ba6a3b8.json"
+          "path": "articles/a7e9c93a911995a5d7d3e553e8f0c0cd.json"
         },
         {
-          "id": "5e13591b407381afc756cf92752504b3",
-          "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-          "image": "https://image.cnbcfm.com/api/v1/image/108515940-1793768634917-gettyimages-2302976369-GEORGIA_MIDTERMS.jpeg?v=1793768930&w=1920&h=1080",
+          "id": "e7f24389f5ab39d0dac9fa664fb34569",
+          "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-04T10:47:19.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-08T12:55:59.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5e13591b407381afc756cf92752504b3.json"
+          "path": "articles/e7f24389f5ab39d0dac9fa664fb34569.json"
         },
         {
-          "id": "3655a680b04ca82cfab47092660b6280",
-          "title": "Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363060-17894839612026-09-15t144408z_337262591_rc2qjnastcrh_rtrmadp_0_novo-nordisk-strategy-townhall.jpeg?v=1789490308&w=1920&h=1080",
+          "id": "ee0f27c05f0bfb28edf32a5fe04f1dfb",
+          "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-04T10:40:51.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-06T11:58:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/3655a680b04ca82cfab47092660b6280.json"
+          "path": "articles/ee0f27c05f0bfb28edf32a5fe04f1dfb.json"
         }
       ],
-      "path": "articles/057582f7a56e182d4923009ac2be3e26.json"
+      "path": "articles/3fe3745319f3bcc150486f8d7a040885.json"
     }
   ]
 }

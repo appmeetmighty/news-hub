@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-10T22:45:49.774Z",
+  "updated_at": "2026-11-10T23:01:17.700Z",
   "total": 30,
   "entities": [
+    {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 23
+    },
     {
       "id": "crypto",
       "name": "Crypto",
@@ -10,27 +19,18 @@
       "count": 23
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 19
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 15
     },
     {
       "id": "nvda",
@@ -92,6 +92,13 @@
       "count": 5
     },
     {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
@@ -123,13 +130,6 @@
       "type": "crypto",
       "path": "tickers/xrp.json",
       "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 3
-    },
-    {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
       "count": 3
     },
     {

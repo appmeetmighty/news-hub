@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T15:45:54.315Z",
-  "total": 30,
+  "updated_at": "2026-11-10T16:31:24.694Z",
+  "total": 27,
   "entities": [
     {
       "id": "btc",
@@ -16,14 +16,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 22
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 16
+      "count": 17
     },
     {
       "id": "ai",
@@ -39,15 +39,13 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 13
+      "count": 12
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
       "count": 7
     },
     {
@@ -60,10 +58,12 @@
       "count": 6
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 6
     },
     {
@@ -81,6 +81,13 @@
       "type": "topic",
       "icon": "",
       "count": 5
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "googl",
@@ -110,28 +117,12 @@
       "count": 3
     },
     {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "blk",
       "symbol": "BLK",
       "name": "BlackRock",
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 3
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
       "count": 3
     },
     {
@@ -154,6 +145,15 @@
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 2
     },
@@ -201,29 +201,11 @@
       "count": 1
     },
     {
-      "id": "tsm",
-      "symbol": "TSM",
-      "name": "TSMC",
-      "type": "company",
-      "path": "tickers/tsm.json",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "lcid",
-      "symbol": "LCID",
-      "name": "Lucid",
-      "type": "company",
-      "path": "tickers/lcid.json",
       "icon": "",
       "count": 1
     },
@@ -234,15 +216,6 @@
       "type": "company",
       "path": "tickers/msft.json",
       "icon": "https://logo.clearbit.com/microsoft.com",
-      "count": 1
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
-      "icon": "",
       "count": 1
     },
     {

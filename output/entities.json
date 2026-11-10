@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-10T12:01:25.299Z",
+  "updated_at": "2026-11-10T12:31:25.246Z",
   "total": 29,
   "entities": [
+    {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 27
+    },
     {
       "id": "crypto",
       "name": "Crypto",
@@ -10,20 +19,11 @@
       "count": 26
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
-    },
-    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 18
+      "count": 17
     },
     {
       "id": "regulation",
@@ -42,15 +42,6 @@
       "count": 12
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 7
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -60,11 +51,27 @@
       "count": 7
     },
     {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 6
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "oil",
@@ -74,22 +81,6 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 5
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 4
     },
     {
       "id": "tsla",
@@ -130,6 +121,15 @@
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
+      "count": 3
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 3
     },
     {

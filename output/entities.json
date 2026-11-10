@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T00:45:47.300Z",
+  "updated_at": "2026-11-10T01:01:20.734Z",
   "total": 28,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 26
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 23
+      "count": 24
     },
     {
       "id": "nvda",
@@ -32,7 +32,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 15
     },
     {
       "id": "regulation",
@@ -58,6 +58,13 @@
       "count": 6
     },
     {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
@@ -76,15 +83,17 @@
       "count": 4
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
       "icon": "",
       "count": 3
     },
     {
-      "id": "mining",
-      "name": "Mining",
+      "id": "stablecoin",
+      "name": "Stablecoin",
       "type": "topic",
       "icon": "",
       "count": 3
@@ -112,15 +121,6 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 2
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
-      "icon": "",
       "count": 2
     },
     {

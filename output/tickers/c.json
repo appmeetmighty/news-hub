@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:31:09.148Z",
+  "updated_at": "2026-11-10T17:45:47.738Z",
   "id": "c",
   "symbol": "C",
   "name": "Citigroup",
@@ -7,12 +7,12 @@
   "total": 1,
   "articles": [
     {
-      "id": "1305c680fb8fc1ee6db4392bdedbed85",
-      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-      "description": "DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.",
+      "id": "54263285c38c08412cd0285170072fed",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "description": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+      "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
       "image": "",
       "source": {
         "id": "coindesk",
@@ -23,11 +23,11 @@
       "category": "crypto",
       "entities": [
         {
-          "id": "jpm",
-          "symbol": "JPM",
-          "name": "JPMorgan",
+          "id": "gs",
+          "symbol": "GS",
+          "name": "Goldman Sachs",
           "type": "company",
-          "path": "tickers/jpm.json",
+          "path": "tickers/gs.json",
           "icon": ""
         },
         {
@@ -39,33 +39,17 @@
           "icon": ""
         },
         {
-          "id": "blockchain",
-          "name": "Blockchain",
+          "id": "stablecoin",
+          "name": "Stablecoin",
           "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-10-28T13:14:37.000Z",
+      "published_at": "2026-11-10T17:32:22.000Z",
       "related": [
         {
-          "id": "9a85f1b7d5e1caa9ec49cd067235cfe2",
-          "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/jp-morgan-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-28T15:05:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9a85f1b7d5e1caa9ec49cd067235cfe2.json"
-        },
-        {
-          "id": "d62d7c5598e3d57b5f5a8433d71642e7",
-          "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+          "id": "6d10af6d96cc4c8f7e4e703ef55c31fe",
+          "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -74,14 +58,62 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-29T03:21:24.000Z",
+          "published_at": "2026-11-10T15:51:56.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d62d7c5598e3d57b5f5a8433d71642e7.json"
+          "path": "articles/6d10af6d96cc4c8f7e4e703ef55c31fe.json"
         },
         {
-          "id": "686267bd22b478ebabae379073772d70",
-          "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+          "id": "911fa30fc6dbd5910618d099c3f7a003",
+          "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules ",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33DXG3A0A4EZ0MK4MVHFSA0/binance.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-09T13:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 15,
+          "path": "articles/911fa30fc6dbd5910618d099c3f7a003.json"
+        },
+        {
+          "id": "669e6a9ea36200d6721d91fd8053fb5c",
+          "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-10T07:49:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/669e6a9ea36200d6721d91fd8053fb5c.json"
+        },
+        {
+          "id": "c02634090322b613e2f69504fa430c2d",
+          "title": "PNC Bank tests turning USDC payments into dollar deposits",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70HRDZHPXXKF87Y3Z5B9631/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-2.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-09T17:48:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c02634090322b613e2f69504fa430c2d.json"
+        },
+        {
+          "id": "40a605eb0763fe75fa78ab024c303311",
+          "title": "Will stablecoins survive once the banks catch up?",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -90,45 +122,13 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-10-28T17:02:57.000Z",
+          "published_at": "2026-11-10T14:00:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/686267bd22b478ebabae379073772d70.json"
-        },
-        {
-          "id": "f2b9d779345e07eb661c8d91c4fe8018",
-          "title": "A new framework for tokenized asset tracking",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T12:57:51.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f2b9d779345e07eb661c8d91c4fe8018.json"
-        },
-        {
-          "id": "93ba1fc93830f79acb632ab61482c5fc",
-          "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-10-29T12:51:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/93ba1fc93830f79acb632ab61482c5fc.json"
+          "path": "articles/40a605eb0763fe75fa78ab024c303311.json"
         }
       ],
-      "path": "articles/1305c680fb8fc1ee6db4392bdedbed85.json"
+      "path": "articles/54263285c38c08412cd0285170072fed.json"
     }
   ]
 }

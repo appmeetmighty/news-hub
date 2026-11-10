@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-10T20:31:05.114Z",
+  "updated_at": "2026-11-10T21:01:25.478Z",
   "articles": {
-    "generated_at": "2026-11-10T20:31:05.114Z",
+    "generated_at": "2026-11-10T21:01:25.478Z",
     "topics": [
       {
         "id": "btc",
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 23,
+        "count": 22,
         "articles": [
           {
             "id": "dbdf8c8685514daa5456da56033dbfca",
@@ -157,7 +157,7 @@
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 22,
+        "count": 21,
         "articles": [
           {
             "id": "8ec5373194b950d8d9d2f9d14a5d424b",
@@ -306,8 +306,22 @@
         "name": "Regulation",
         "type": "topic",
         "icon": "",
-        "count": 19,
+        "count": 20,
         "articles": [
+          {
+            "id": "36d97cdd3399be6b70aeb4c177979441",
+            "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T20:36:33.000Z",
+            "path": "articles/36d97cdd3399be6b70aeb4c177979441.json"
+          },
           {
             "id": "536c0c483546b8d5eae5193936659d44",
             "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
@@ -433,20 +447,155 @@
             "category": "crypto",
             "published_at": "2026-11-09T13:29:47.000Z",
             "path": "articles/225eec82df106c1b42f78a3d23928274.json"
-          },
+          }
+        ]
+      },
+      {
+        "id": "nvda",
+        "name": "NVIDIA",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/nvidia.com",
+        "count": 13,
+        "articles": [
           {
-            "id": "cfaee389a474face2bb7b644a583e153",
-            "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-            "image": "",
+            "id": "4cff78e0bb691dc1ddba46b98d792bd1",
+            "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
             "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
             },
             "category": "crypto",
-            "published_at": "2026-11-09T12:41:35.000Z",
-            "path": "articles/cfaee389a474face2bb7b644a583e153.json"
+            "published_at": "2026-11-10T20:45:50.000Z",
+            "path": "articles/4cff78e0bb691dc1ddba46b98d792bd1.json"
+          },
+          {
+            "id": "f16d827372f2d4dfef7daa70d120bbf9",
+            "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+            "image": "https://image.cnbcfm.com/api/v1/image/108547458-17943174732026-11-09t181236z_152511280_rc27znaalts6_rtrmadp_0_nvidia-probe-trump.jpeg?v=1794317500&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-10T20:33:52.000Z",
+            "path": "articles/f16d827372f2d4dfef7daa70d120bbf9.json"
+          },
+          {
+            "id": "2ad4dbd6e16b618229a3f55273403704",
+            "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+            "image": "https://image.cnbcfm.com/api/v1/image/108546365-1794257665106-108546365-17942336732026-10-19t181225z_1947160221_rc2h6oa4b07j_rtrmadp_0_germany-politics-merz-nvidia.jpeg?v=1794257684&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-10T20:01:18.000Z",
+            "path": "articles/2ad4dbd6e16b618229a3f55273403704.json"
+          },
+          {
+            "id": "824c4b12dd9fe2185f90a944a434447d",
+            "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
+            "image": "https://image.cnbcfm.com/api/v1/image/108306298-1778686048376-108306298-1778678128036-gettyimages-2276000571-aw1a4785_myhtllld.jpg?v=1794336800&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-10T19:40:41.000Z",
+            "path": "articles/824c4b12dd9fe2185f90a944a434447d.json"
+          },
+          {
+            "id": "df20b141791bcf91d3725bd1ea729eb9",
+            "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+            "image": "https://image.cnbcfm.com/api/v1/image/108307554-1778848271041-gettyimages-2276128441-aw1a5603_jhud8umq.jpeg?v=1778848286&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-10T15:04:23.000Z",
+            "path": "articles/df20b141791bcf91d3725bd1ea729eb9.json"
+          },
+          {
+            "id": "651cbde50e798aad472ca68f57045e82",
+            "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T14:06:02.000Z",
+            "path": "articles/651cbde50e798aad472ca68f57045e82.json"
+          },
+          {
+            "id": "6a4be1c06477fab2dd35f8e2bc7bfe34",
+            "title": "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia scandal",
+            "image": "https://image.cnbcfm.com/api/v1/image/108535115-17940025492026-11-06t215649z_1836567939_rc2jioag2mr7_rtrmadp_0_usa-stocks.jpeg?v=1794002579&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-10T13:19:13.000Z",
+            "path": "articles/6a4be1c06477fab2dd35f8e2bc7bfe34.json"
+          },
+          {
+            "id": "484fe0d8d1b4cb8962404a33fcad8849",
+            "title": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T11:26:56.000Z",
+            "path": "articles/484fe0d8d1b4cb8962404a33fcad8849.json"
+          },
+          {
+            "id": "140e55a8d33b84925db622ba041ec219",
+            "title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-09T20:16:02.000Z",
+            "path": "articles/140e55a8d33b84925db622ba041ec219.json"
+          },
+          {
+            "id": "2de4df2de473a8e3a99a87cedfd6a03e",
+            "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-09T18:31:03.000Z",
+            "path": "articles/2de4df2de473a8e3a99a87cedfd6a03e.json"
           }
         ]
       },
@@ -596,155 +745,6 @@
             "category": "crypto",
             "published_at": "2026-11-09T20:16:02.000Z",
             "path": "articles/140e55a8d33b84925db622ba041ec219.json"
-          }
-        ]
-      },
-      {
-        "id": "nvda",
-        "name": "NVIDIA",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/nvidia.com",
-        "count": 12,
-        "articles": [
-          {
-            "id": "f16d827372f2d4dfef7daa70d120bbf9",
-            "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
-            "image": "https://image.cnbcfm.com/api/v1/image/108236087-1764784471491-gettyimages-2249114707-HUANG_SENATE.jpeg?v=1765391913&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-10T20:19:35.000Z",
-            "path": "articles/f16d827372f2d4dfef7daa70d120bbf9.json"
-          },
-          {
-            "id": "2ad4dbd6e16b618229a3f55273403704",
-            "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
-            "image": "https://image.cnbcfm.com/api/v1/image/108546365-1794257665106-108546365-17942336732026-10-19t181225z_1947160221_rc2h6oa4b07j_rtrmadp_0_germany-politics-merz-nvidia.jpeg?v=1794257684&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-10T20:01:18.000Z",
-            "path": "articles/2ad4dbd6e16b618229a3f55273403704.json"
-          },
-          {
-            "id": "824c4b12dd9fe2185f90a944a434447d",
-            "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
-            "image": "https://image.cnbcfm.com/api/v1/image/108306298-1778686048376-108306298-1778678128036-gettyimages-2276000571-aw1a4785_myhtllld.jpg?v=1794336800&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-10T19:40:41.000Z",
-            "path": "articles/824c4b12dd9fe2185f90a944a434447d.json"
-          },
-          {
-            "id": "df20b141791bcf91d3725bd1ea729eb9",
-            "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-            "image": "https://image.cnbcfm.com/api/v1/image/108307554-1778848271041-gettyimages-2276128441-aw1a5603_jhud8umq.jpeg?v=1778848286&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-10T15:04:23.000Z",
-            "path": "articles/df20b141791bcf91d3725bd1ea729eb9.json"
-          },
-          {
-            "id": "651cbde50e798aad472ca68f57045e82",
-            "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-10T14:06:02.000Z",
-            "path": "articles/651cbde50e798aad472ca68f57045e82.json"
-          },
-          {
-            "id": "6a4be1c06477fab2dd35f8e2bc7bfe34",
-            "title": "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia scandal",
-            "image": "https://image.cnbcfm.com/api/v1/image/108535115-17940025492026-11-06t215649z_1836567939_rc2jioag2mr7_rtrmadp_0_usa-stocks.jpeg?v=1794002579&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-10T13:19:13.000Z",
-            "path": "articles/6a4be1c06477fab2dd35f8e2bc7bfe34.json"
-          },
-          {
-            "id": "484fe0d8d1b4cb8962404a33fcad8849",
-            "title": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-10T11:26:56.000Z",
-            "path": "articles/484fe0d8d1b4cb8962404a33fcad8849.json"
-          },
-          {
-            "id": "140e55a8d33b84925db622ba041ec219",
-            "title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-09T20:16:02.000Z",
-            "path": "articles/140e55a8d33b84925db622ba041ec219.json"
-          },
-          {
-            "id": "2de4df2de473a8e3a99a87cedfd6a03e",
-            "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-09T18:31:03.000Z",
-            "path": "articles/2de4df2de473a8e3a99a87cedfd6a03e.json"
-          },
-          {
-            "id": "df0abfafb51135ad0970fe3a97b43d0b",
-            "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70K6JJA96WE7MYD336FM1EF/article-covers-262247-bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-do-960x640.webp",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-09T17:13:25.000Z",
-            "path": "articles/df0abfafb51135ad0970fe3a97b43d0b.json"
           }
         ]
       },
@@ -1166,7 +1166,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-11-10T20:30:08.000Z",
+            "published_at": "2026-11-10T20:31:20.000Z",
             "path": "articles/13216985ad64b55a17234b50cb3bb8c5.json"
           },
           {
@@ -1224,85 +1224,6 @@
             "category": "crypto",
             "published_at": "2026-11-09T15:20:05.000Z",
             "path": "articles/91ca5ef744eaa55b6e9de89cf967f471.json"
-          }
-        ]
-      },
-      {
-        "id": "etf",
-        "name": "ETF",
-        "type": "topic",
-        "icon": "",
-        "count": 5,
-        "articles": [
-          {
-            "id": "bffba68c4b606cb70b7cc05e0203b928",
-            "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-10T19:16:02.000Z",
-            "path": "articles/bffba68c4b606cb70b7cc05e0203b928.json"
-          },
-          {
-            "id": "97947e36ec6008c9c47b2ed02853150b",
-            "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-10T12:15:00.000Z",
-            "path": "articles/97947e36ec6008c9c47b2ed02853150b.json"
-          },
-          {
-            "id": "0200fb47d17da01d01acc5c3bed22a82",
-            "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7232GA99A62ZXE0BWPQXX71/hi-blackrock-issues-rare-warningis-bitcoins-future-at-risk-from-quantum-tech-1.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-10T08:02:05.000Z",
-            "path": "articles/0200fb47d17da01d01acc5c3bed22a82.json"
-          },
-          {
-            "id": "eae490d82e44baccbe8f04139e448101",
-            "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-10T03:22:26.000Z",
-            "path": "articles/eae490d82e44baccbe8f04139e448101.json"
-          },
-          {
-            "id": "9b4e79ff13bba33468483413d113ea36",
-            "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-06T18:36:03.000Z",
-            "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
           }
         ]
       },
@@ -1382,6 +1303,71 @@
             "category": "crypto",
             "published_at": "2026-11-09T12:41:35.000Z",
             "path": "articles/cfaee389a474face2bb7b644a583e153.json"
+          }
+        ]
+      },
+      {
+        "id": "etf",
+        "name": "ETF",
+        "type": "topic",
+        "icon": "",
+        "count": 4,
+        "articles": [
+          {
+            "id": "bffba68c4b606cb70b7cc05e0203b928",
+            "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T19:16:02.000Z",
+            "path": "articles/bffba68c4b606cb70b7cc05e0203b928.json"
+          },
+          {
+            "id": "97947e36ec6008c9c47b2ed02853150b",
+            "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T12:15:00.000Z",
+            "path": "articles/97947e36ec6008c9c47b2ed02853150b.json"
+          },
+          {
+            "id": "0200fb47d17da01d01acc5c3bed22a82",
+            "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7232GA99A62ZXE0BWPQXX71/hi-blackrock-issues-rare-warningis-bitcoins-future-at-risk-from-quantum-tech-1.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T08:02:05.000Z",
+            "path": "articles/0200fb47d17da01d01acc5c3bed22a82.json"
+          },
+          {
+            "id": "eae490d82e44baccbe8f04139e448101",
+            "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T03:22:26.000Z",
+            "path": "articles/eae490d82e44baccbe8f04139e448101.json"
           }
         ]
       },
@@ -1738,43 +1724,6 @@
         ]
       },
       {
-        "id": "blk",
-        "name": "BlackRock",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/blackrock.com",
-        "count": 2,
-        "articles": [
-          {
-            "id": "0200fb47d17da01d01acc5c3bed22a82",
-            "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7232GA99A62ZXE0BWPQXX71/hi-blackrock-issues-rare-warningis-bitcoins-future-at-risk-from-quantum-tech-1.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-10T08:02:05.000Z",
-            "path": "articles/0200fb47d17da01d01acc5c3bed22a82.json"
-          },
-          {
-            "id": "9b4e79ff13bba33468483413d113ea36",
-            "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-06T18:36:03.000Z",
-            "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
-          }
-        ]
-      },
-      {
         "id": "mstr",
         "name": "Strategy",
         "type": "company",
@@ -1923,6 +1872,29 @@
             "category": "crypto",
             "published_at": "2026-11-10T13:34:37.000Z",
             "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
+          }
+        ]
+      },
+      {
+        "id": "blk",
+        "name": "BlackRock",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/blackrock.com",
+        "count": 1,
+        "articles": [
+          {
+            "id": "0200fb47d17da01d01acc5c3bed22a82",
+            "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7232GA99A62ZXE0BWPQXX71/hi-blackrock-issues-rare-warningis-bitcoins-future-at-risk-from-quantum-tech-1.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T08:02:05.000Z",
+            "path": "articles/0200fb47d17da01d01acc5c3bed22a82.json"
           }
         ]
       },

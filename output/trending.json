@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-10T03:15:45.799Z",
+  "updated_at": "2026-11-10T03:32:09.880Z",
   "articles": {
-    "generated_at": "2026-11-10T03:15:45.799Z",
+    "generated_at": "2026-11-10T03:32:09.880Z",
     "topics": [
       {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
-        "count": 27,
+        "count": 26,
         "articles": [
           {
             "id": "0703358659e1418688bae97356b89589",
@@ -157,8 +157,22 @@
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 24,
+        "count": 25,
         "articles": [
+          {
+            "id": "eae490d82e44baccbe8f04139e448101",
+            "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T03:22:26.000Z",
+            "path": "articles/eae490d82e44baccbe8f04139e448101.json"
+          },
           {
             "id": "0703358659e1418688bae97356b89589",
             "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
@@ -284,20 +298,6 @@
             "category": "crypto",
             "published_at": "2026-11-09T12:30:00.000Z",
             "path": "articles/a9f07966351f26bb124879829f328c81.json"
-          },
-          {
-            "id": "4de8b6b6ec88ce6b4a2054fa29c6aa69",
-            "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZPZ3XN7CEBDWKGJCADW5H6/ai-falling-stock-prices-960x644-960x644.webp",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-09T10:03:40.000Z",
-            "path": "articles/4de8b6b6ec88ce6b4a2054fa29c6aa69.json"
           }
         ]
       },
@@ -1158,6 +1158,57 @@
         ]
       },
       {
+        "id": "etf",
+        "name": "ETF",
+        "type": "topic",
+        "icon": "",
+        "count": 3,
+        "articles": [
+          {
+            "id": "eae490d82e44baccbe8f04139e448101",
+            "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T03:22:26.000Z",
+            "path": "articles/eae490d82e44baccbe8f04139e448101.json"
+          },
+          {
+            "id": "a9f07966351f26bb124879829f328c81",
+            "title": "Bitcoin bulls can't rely on ETF flows",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-09T12:30:00.000Z",
+            "path": "articles/a9f07966351f26bb124879829f328c81.json"
+          },
+          {
+            "id": "9b4e79ff13bba33468483413d113ea36",
+            "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-06T18:36:03.000Z",
+            "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
+          }
+        ]
+      },
+      {
         "id": "openai",
         "name": "OpenAI",
         "type": "company",
@@ -1492,43 +1543,6 @@
             "category": "crypto",
             "published_at": "2026-11-08T09:48:48.000Z",
             "path": "articles/2a90495a05a192c744518f0bc14fcf65.json"
-          }
-        ]
-      },
-      {
-        "id": "etf",
-        "name": "ETF",
-        "type": "topic",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "a9f07966351f26bb124879829f328c81",
-            "title": "Bitcoin bulls can't rely on ETF flows",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-09T12:30:00.000Z",
-            "path": "articles/a9f07966351f26bb124879829f328c81.json"
-          },
-          {
-            "id": "9b4e79ff13bba33468483413d113ea36",
-            "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-06T18:36:03.000Z",
-            "path": "articles/9b4e79ff13bba33468483413d113ea36.json"
           }
         ]
       },

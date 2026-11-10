@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-10T12:31:25.249Z",
+  "updated_at": "2026-11-10T12:45:50.485Z",
   "articles": {
-    "generated_at": "2026-11-10T12:31:25.249Z",
+    "generated_at": "2026-11-10T12:45:50.485Z",
     "topics": [
       {
         "id": "btc",
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 27,
+        "count": 26,
         "articles": [
           {
             "id": "97947e36ec6008c9c47b2ed02853150b",
@@ -54,7 +54,7 @@
           },
           {
             "id": "664c0b79dd0f53b08c1b9b8511f19fa8",
-            "title": "Live news: Traders price in Fed rate hike for December as bitcoin, gold retreat",
+            "title": "Live news: Bitcoin falls back to $74,000 ahead of CPI as traders fully price in Fed rate hike",
             "image": "",
             "source": {
               "id": "coindesk",
@@ -306,7 +306,7 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 17,
+        "count": 16,
         "articles": [
           {
             "id": "0cac03bdf88b90ca6c48747fe9f394c6",
@@ -319,7 +319,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-11-10T12:01:06.000Z",
+            "published_at": "2026-11-10T12:31:39.000Z",
             "path": "articles/0cac03bdf88b90ca6c48747fe9f394c6.json"
           },
           {
@@ -873,7 +873,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-11-10T12:01:06.000Z",
+            "published_at": "2026-11-10T12:31:39.000Z",
             "path": "articles/0cac03bdf88b90ca6c48747fe9f394c6.json"
           },
           {
@@ -1125,7 +1125,7 @@
         "name": "Oil",
         "type": "commodity",
         "icon": "",
-        "count": 5,
+        "count": 4,
         "articles": [
           {
             "id": "2167c8170626d999cdfd1cad9e61a4b4",
@@ -1140,20 +1140,6 @@
             "category": "crypto",
             "published_at": "2026-11-10T10:48:37.000Z",
             "path": "articles/2167c8170626d999cdfd1cad9e61a4b4.json"
-          },
-          {
-            "id": "664c0b79dd0f53b08c1b9b8511f19fa8",
-            "title": "Live news: Traders price in Fed rate hike for December as bitcoin, gold retreat",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-10T10:41:45.000Z",
-            "path": "articles/664c0b79dd0f53b08c1b9b8511f19fa8.json"
           },
           {
             "id": "748c146158efc645384508721fd5c015",
@@ -1200,6 +1186,57 @@
         ]
       },
       {
+        "id": "xrp",
+        "name": "XRP",
+        "type": "crypto",
+        "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+        "count": 3,
+        "articles": [
+          {
+            "id": "17777cb0f38ab374a87d8a46a1746157",
+            "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T12:38:20.000Z",
+            "path": "articles/17777cb0f38ab374a87d8a46a1746157.json"
+          },
+          {
+            "id": "928dcbc2eca0a2efdff3adf13e90cafe",
+            "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-10T04:51:20.000Z",
+            "path": "articles/928dcbc2eca0a2efdff3adf13e90cafe.json"
+          },
+          {
+            "id": "a6c739d01c9d4b7897eb9a8ce39b234c",
+            "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-09T11:50:36.000Z",
+            "path": "articles/a6c739d01c9d4b7897eb9a8ce39b234c.json"
+          }
+        ]
+      },
+      {
         "id": "tsla",
         "name": "Tesla",
         "type": "company",
@@ -1217,7 +1254,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-11-10T12:01:06.000Z",
+            "published_at": "2026-11-10T12:31:39.000Z",
             "path": "articles/0cac03bdf88b90ca6c48747fe9f394c6.json"
           },
           {
@@ -1506,43 +1543,6 @@
         ]
       },
       {
-        "id": "spacex",
-        "name": "SpaceX",
-        "type": "company",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "0cac03bdf88b90ca6c48747fe9f394c6",
-            "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
-            "image": "https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&w=1920&h=1080",
-            "source": {
-              "id": "cnbc",
-              "name": "CNBC",
-              "website": "https://www.cnbc.com",
-              "icon": "https://logo.clearbit.com/cnbc.com"
-            },
-            "category": "stocks",
-            "published_at": "2026-11-10T12:01:06.000Z",
-            "path": "articles/0cac03bdf88b90ca6c48747fe9f394c6.json"
-          },
-          {
-            "id": "e873e52c04cd18a58b3f710876f42986",
-            "title": "SpaceX proposes a $24 billion Texas supercomputer and a gas plant",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-09T06:54:41.000Z",
-            "path": "articles/e873e52c04cd18a58b3f710876f42986.json"
-          }
-        ]
-      },
-      {
         "id": "aapl",
         "name": "Apple",
         "type": "company",
@@ -1580,43 +1580,6 @@
         ]
       },
       {
-        "id": "gold",
-        "name": "Gold",
-        "type": "commodity",
-        "icon": "",
-        "count": 2,
-        "articles": [
-          {
-            "id": "664c0b79dd0f53b08c1b9b8511f19fa8",
-            "title": "Live news: Traders price in Fed rate hike for December as bitcoin, gold retreat",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-10T10:41:45.000Z",
-            "path": "articles/664c0b79dd0f53b08c1b9b8511f19fa8.json"
-          },
-          {
-            "id": "3fe3745319f3bcc150486f8d7a040885",
-            "title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-09T10:51:48.000Z",
-            "path": "articles/3fe3745319f3bcc150486f8d7a040885.json"
-          }
-        ]
-      },
-      {
         "id": "defi",
         "name": "DeFi",
         "type": "topic",
@@ -1650,43 +1613,6 @@
             "category": "crypto",
             "published_at": "2026-11-06T20:36:03.000Z",
             "path": "articles/efb0f96c82312d74671721fa6a5d845e.json"
-          }
-        ]
-      },
-      {
-        "id": "xrp",
-        "name": "XRP",
-        "type": "crypto",
-        "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-        "count": 2,
-        "articles": [
-          {
-            "id": "928dcbc2eca0a2efdff3adf13e90cafe",
-            "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-10T04:51:20.000Z",
-            "path": "articles/928dcbc2eca0a2efdff3adf13e90cafe.json"
-          },
-          {
-            "id": "a6c739d01c9d4b7897eb9a8ce39b234c",
-            "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-09T11:50:36.000Z",
-            "path": "articles/a6c739d01c9d4b7897eb9a8ce39b234c.json"
           }
         ]
       },
@@ -1761,6 +1687,29 @@
             "category": "crypto",
             "published_at": "2026-11-09T13:24:29.000Z",
             "path": "articles/87e184d0a5839ed6ccd45a73a2754073.json"
+          }
+        ]
+      },
+      {
+        "id": "spacex",
+        "name": "SpaceX",
+        "type": "company",
+        "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "0cac03bdf88b90ca6c48747fe9f394c6",
+            "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
+            "image": "https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&w=1920&h=1080",
+            "source": {
+              "id": "cnbc",
+              "name": "CNBC",
+              "website": "https://www.cnbc.com",
+              "icon": "https://logo.clearbit.com/cnbc.com"
+            },
+            "category": "stocks",
+            "published_at": "2026-11-10T12:31:39.000Z",
+            "path": "articles/0cac03bdf88b90ca6c48747fe9f394c6.json"
           }
         ]
       },
@@ -1876,6 +1825,29 @@
             "category": "crypto",
             "published_at": "2026-11-09T13:01:02.000Z",
             "path": "articles/c5570893f6ba91e7e2d679318f2d1fab.json"
+          }
+        ]
+      },
+      {
+        "id": "gold",
+        "name": "Gold",
+        "type": "commodity",
+        "icon": "",
+        "count": 1,
+        "articles": [
+          {
+            "id": "3fe3745319f3bcc150486f8d7a040885",
+            "title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-09T10:51:48.000Z",
+            "path": "articles/3fe3745319f3bcc150486f8d7a040885.json"
           }
         ]
       },

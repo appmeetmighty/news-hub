@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-11T09:01:16.266Z",
-  "total": 31,
+  "updated_at": "2026-11-11T09:15:46.916Z",
+  "total": 30,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 25
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,6 +9,13 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 23
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
       "count": 23
     },
     {
@@ -58,8 +58,8 @@
       "count": 6
     },
     {
-      "id": "mining",
-      "name": "Mining",
+      "id": "etf",
+      "name": "ETF",
       "type": "topic",
       "icon": "",
       "count": 5
@@ -81,8 +81,8 @@
       "count": 5
     },
     {
-      "id": "etf",
-      "name": "ETF",
+      "id": "mining",
+      "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 4
@@ -215,15 +215,6 @@
       "name": "SpaceX",
       "type": "company",
       "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "rivn",
-      "symbol": "RIVN",
-      "name": "Rivian",
-      "type": "company",
-      "path": "tickers/rivn.json",
       "icon": "",
       "count": 1
     },

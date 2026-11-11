@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T16:01:19.707Z",
+  "updated_at": "2026-11-11T16:15:49.785Z",
   "total": 27,
   "entities": [
     {
@@ -9,14 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
+      "count": 25
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 23
+      "count": 24
     },
     {
       "id": "regulation",
@@ -42,13 +42,6 @@
       "count": 11
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 8
-    },
-    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
@@ -65,11 +58,18 @@
       "count": 7
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 7
+    },
+    {
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 5
+      "count": 6
     },
     {
       "id": "eth",
@@ -79,6 +79,15 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 4
     },
     {
       "id": "sol",
@@ -99,15 +108,6 @@
       "count": 4
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 3
-    },
-    {
       "id": "mining",
       "name": "Mining",
       "type": "topic",
@@ -124,13 +124,11 @@
       "count": 3
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
-      "count": 3
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "tsla",
@@ -151,6 +149,15 @@
       "count": 2
     },
     {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 2
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -158,13 +165,6 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 2
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 1
     },
     {
       "id": "web3",

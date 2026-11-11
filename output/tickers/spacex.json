@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T10:01:33.344Z",
+  "updated_at": "2026-11-11T13:01:17.722Z",
   "id": "spacex",
   "symbol": "SPACEX",
   "name": "SpaceX",
@@ -7,28 +7,28 @@
   "total": 1,
   "articles": [
     {
-      "id": "0cac03bdf88b90ca6c48747fe9f394c6",
-      "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
-      "description": "Anthropic's IPO is expected to come roughly five months after Elon Musk took SpaceX public in a record offering.",
+      "id": "f48574ed318426b28a23d20780669917",
+      "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
+      "description": "Hint: if it plays out similarly to the SpaceX IPO, it means the Bitcoin bottom is very close.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&w=1920&h=1080",
+      "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
         {
-          "id": "tsla",
-          "symbol": "TSLA",
-          "name": "Tesla",
-          "type": "company",
-          "path": "tickers/tsla.json",
-          "icon": "https://logo.clearbit.com/tesla.com"
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
           "id": "anthropic",
@@ -45,25 +45,63 @@
           "type": "company",
           "path": "tickers/spacex.json",
           "icon": ""
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-11-10T15:42:00.000Z",
+      "published_at": "2026-11-11T12:55:18.000Z",
       "related": [
         {
-          "id": "2ff1572440c1fbc9b263a09ef415d46c",
-          "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
+          "id": "b984ecc9e608286cb3786e501bfdb0f7",
+          "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+          "image": "",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-11-10T19:46:02.000Z",
+          "published_at": "2026-11-11T10:45:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/b984ecc9e608286cb3786e501bfdb0f7.json"
+        },
+        {
+          "id": "2167c8170626d999cdfd1cad9e61a4b4",
+          "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-10T10:48:37.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2ff1572440c1fbc9b263a09ef415d46c.json"
+          "path": "articles/2167c8170626d999cdfd1cad9e61a4b4.json"
+        },
+        {
+          "id": "78f7a83e386d3f9bd80908be49f28870",
+          "title": "Here’s what happened in crypto today",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-11T06:00:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
         },
         {
           "id": "651cbde50e798aad472ca68f57045e82",
@@ -82,55 +120,23 @@
           "path": "articles/651cbde50e798aad472ca68f57045e82.json"
         },
         {
-          "id": "c74830acdea1092da334091feceee4cb",
-          "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108469374-1793113053396-gettyimages-2301777677-boivin-photoill261027_np1O1.jpeg?v=1793113123&w=1920&h=1080",
+          "id": "0130d1e818903dd3f859834c75c0378b",
+          "title": "Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-11-11T01:52:56.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-09T22:36:02.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/c74830acdea1092da334091feceee4cb.json"
-        },
-        {
-          "id": "86c01004506aaa3321c8b848e06fccc7",
-          "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
-          "image": "https://image.cnbcfm.com/api/v1/image/108469372-1793113061851-gettyimages-2301777451-boivin-photoill261027_npxLq.jpeg?v=1793113123&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-10T23:46:35.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/86c01004506aaa3321c8b848e06fccc7.json"
-        },
-        {
-          "id": "ff8136656abe9a1d9b0f457e36c28d15",
-          "title": "Traders bet on a pop for Anthropic's historic IPO",
-          "image": "https://image.cnbcfm.com/api/v1/image/108547538-1794321574239-gettyimages-2304396096-vcg111681148278.jpeg?v=1794321603&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-10T19:51:18.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ff8136656abe9a1d9b0f457e36c28d15.json"
+          "path": "articles/0130d1e818903dd3f859834c75c0378b.json"
         }
       ],
-      "path": "articles/0cac03bdf88b90ca6c48747fe9f394c6.json"
+      "path": "articles/f48574ed318426b28a23d20780669917.json"
     }
   ]
 }

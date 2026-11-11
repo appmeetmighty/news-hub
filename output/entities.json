@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T11:45:47.382Z",
-  "total": 28,
+  "updated_at": "2026-11-11T12:16:04.344Z",
+  "total": 29,
   "entities": [
     {
       "id": "btc",
@@ -9,14 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 25
+      "count": 26
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 22
+      "count": 21
     },
     {
       "id": "regulation",
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 14
     },
     {
       "id": "nvda",
@@ -48,7 +48,14 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 9
+      "count": 8
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "eth",
@@ -60,11 +67,13 @@
       "count": 6
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
       "icon": "",
-      "count": 5
+      "count": 4
     },
     {
       "id": "mining",
@@ -88,29 +97,11 @@
       "count": 4
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
-      "count": 4
-    },
-    {
       "id": "gs",
       "symbol": "GS",
       "name": "Goldman Sachs",
       "type": "company",
       "path": "tickers/gs.json",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "c",
-      "symbol": "C",
-      "name": "Citigroup",
-      "type": "company",
-      "path": "tickers/c.json",
       "icon": "",
       "count": 3
     },
@@ -121,6 +112,15 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 3
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
       "count": 3
     },
     {
@@ -167,6 +167,15 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
+      "count": 1
     },
     {
       "id": "gold",

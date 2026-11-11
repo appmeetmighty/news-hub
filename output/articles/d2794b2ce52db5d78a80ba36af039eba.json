@@ -1,7 +1,7 @@
 {
   "id": "d2794b2ce52db5d78a80ba36af039eba",
-  "title": "Live news: CoreWeave jumps 14% as earnings fuel rebound across battered AI stocks",
-  "description": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin edges higher after testing its 200-day moving average.",
+  "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+  "description": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
   "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
@@ -21,6 +21,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com"
     },
     {
       "id": "ai",
@@ -54,22 +62,6 @@
       "path": "articles/4f08e60d05e54763e60266845c02cef0.json"
     },
     {
-      "id": "97947e36ec6008c9c47b2ed02853150b",
-      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-      "image": "",
-      "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
-      },
-      "category": "crypto",
-      "published_at": "2026-11-10T12:15:00.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/97947e36ec6008c9c47b2ed02853150b.json"
-    },
-    {
       "id": "0581c0bb8b3b107137989fa405206d17",
       "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
       "image": "",
@@ -84,6 +76,22 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/0581c0bb8b3b107137989fa405206d17.json"
+    },
+    {
+      "id": "97947e36ec6008c9c47b2ed02853150b",
+      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-11-10T12:15:00.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/97947e36ec6008c9c47b2ed02853150b.json"
     },
     {
       "id": "eae490d82e44baccbe8f04139e448101",

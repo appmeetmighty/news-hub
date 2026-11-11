@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T13:01:17.724Z",
+  "updated_at": "2026-11-11T13:15:45.017Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
@@ -7,8 +7,8 @@
   "articles": [
     {
       "id": "d2794b2ce52db5d78a80ba36af039eba",
-      "title": "Live news: CoreWeave jumps 14% as earnings fuel rebound across battered AI stocks",
-      "description": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin edges higher after testing its 200-day moving average.",
+      "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+      "description": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
@@ -28,6 +28,14 @@
           "type": "crypto",
           "path": "tickers/btc.json",
           "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
         },
         {
           "id": "ai",
@@ -61,22 +69,6 @@
           "path": "articles/4f08e60d05e54763e60266845c02cef0.json"
         },
         {
-          "id": "97947e36ec6008c9c47b2ed02853150b",
-          "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-10T12:15:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/97947e36ec6008c9c47b2ed02853150b.json"
-        },
-        {
           "id": "0581c0bb8b3b107137989fa405206d17",
           "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
           "image": "",
@@ -91,6 +83,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0581c0bb8b3b107137989fa405206d17.json"
+        },
+        {
+          "id": "97947e36ec6008c9c47b2ed02853150b",
+          "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-10T12:15:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/97947e36ec6008c9c47b2ed02853150b.json"
         },
         {
           "id": "eae490d82e44baccbe8f04139e448101",
@@ -129,7 +137,7 @@
     },
     {
       "id": "b984ecc9e608286cb3786e501bfdb0f7",
-      "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+      "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
       "description": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours.",
       "reading_time_minutes": 1,
       "breaking_score": 20,
@@ -202,7 +210,7 @@
         },
         {
           "id": "d2794b2ce52db5d78a80ba36af039eba",
-          "title": "Live news: CoreWeave jumps 14% as earnings fuel rebound across battered AI stocks",
+          "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -293,6 +301,22 @@
           "path": "articles/da2d44801b75be7e8482f9e836c4ce12.json"
         },
         {
+          "id": "d036fcd1b18a80bd23b6bdbc3b4cfcd3",
+          "title": "Nissan CEO breaks down how it plans to fight back against Chinese companies, after second outlook cut in months",
+          "image": "https://image.cnbcfm.com/api/v1/image/108287605-1775512894581-NYIAS_04022026_DeVries-6.jpg?v=1775513264&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-11T13:04:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d036fcd1b18a80bd23b6bdbc3b4cfcd3.json"
+        },
+        {
           "id": "df3fb47ef24a2df94b10fd9484b13be8",
           "title": "Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
           "image": "https://image.cnbcfm.com/api/v1/image/106999708-1641930633605-gettyimages-1237663149-ch9_4287.jpg?v=1641931046&w=1920&h=1080",
@@ -339,22 +363,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2602c576253dcb1be44d8f481fccc627.json"
-        },
-        {
-          "id": "dd7a47c5903d405b6885465da9a994f4",
-          "title": "General strikes to paralyze Spain as protestors clash with police ahead of election campaign",
-          "image": "https://image.cnbcfm.com/api/v1/image/108548794-1794386879878-gettyimages-2304549240-20261111_general_strike_housing_madrid_pb00040_quzy6q0k.jpeg?v=1794386887&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-11T12:39:20.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/dd7a47c5903d405b6885465da9a994f4.json"
         }
       ],
       "path": "articles/b3b84a76bcf53bcbe138e6a4d4b8a3af.json"
@@ -426,7 +434,7 @@
         },
         {
           "id": "b984ecc9e608286cb3786e501bfdb0f7",
-          "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+          "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -574,7 +582,7 @@
         },
         {
           "id": "b984ecc9e608286cb3786e501bfdb0f7",
-          "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+          "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -909,6 +917,22 @@
           "path": "articles/97947e36ec6008c9c47b2ed02853150b.json"
         },
         {
+          "id": "d2794b2ce52db5d78a80ba36af039eba",
+          "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-11T12:21:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d2794b2ce52db5d78a80ba36af039eba.json"
+        },
+        {
           "id": "0581c0bb8b3b107137989fa405206d17",
           "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
           "image": "",
@@ -923,22 +947,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0581c0bb8b3b107137989fa405206d17.json"
-        },
-        {
-          "id": "4f08e60d05e54763e60266845c02cef0",
-          "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-11T11:37:04.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4f08e60d05e54763e60266845c02cef0.json"
         }
       ],
       "path": "articles/c0f86d595b2489040ffb7721ec3bdc41.json"
@@ -1026,7 +1034,7 @@
         },
         {
           "id": "b984ecc9e608286cb3786e501bfdb0f7",
-          "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+          "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
           "image": "",
           "source": {
             "id": "coindesk",

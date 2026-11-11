@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-11T10:01:33.346Z",
-  "total": 30,
+  "updated_at": "2026-11-11T10:15:46.043Z",
+  "total": 29,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 23
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,13 +16,6 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 23
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 23
     },
     {
@@ -30,7 +30,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 14
     },
     {
       "id": "nvda",
@@ -39,7 +39,7 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 11
+      "count": 13
     },
     {
       "id": "anthropic",
@@ -48,7 +48,16 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 8
+      "count": 7
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 6
     },
     {
       "id": "blockchain",
@@ -69,15 +78,6 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 5
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
     },
     {
@@ -124,15 +124,6 @@
       "count": 3
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 3
-    },
-    {
       "id": "aapl",
       "symbol": "AAPL",
       "name": "Apple",
@@ -164,6 +155,15 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 2
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 2
     },
     {
@@ -210,11 +210,11 @@
       "count": 1
     },
     {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
+      "id": "rivn",
+      "symbol": "RIVN",
+      "name": "Rivian",
       "type": "company",
-      "path": "tickers/spacex.json",
+      "path": "tickers/rivn.json",
       "icon": "",
       "count": 1
     },
@@ -225,15 +225,6 @@
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 1
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
       "count": 1
     },
     {

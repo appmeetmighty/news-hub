@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-11T03:15:43.707Z",
+  "updated_at": "2026-11-11T03:31:01.202Z",
   "total": 31,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 23
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -10,13 +17,6 @@
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
       "count": 23
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 22
     },
     {
       "id": "regulation",
@@ -62,16 +62,7 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 6
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 6
+      "count": 5
     },
     {
       "id": "sol",
@@ -80,6 +71,15 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 5
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
     },
     {

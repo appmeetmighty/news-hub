@@ -1,6 +1,6 @@
 {
   "id": "2bef895c813c4f67d3189836bfb3d729",
-  "title": "Treasury yields edge higher as investors await fresh inflation and housing data",
+  "title": "10-year Treasury yield jumps back above 5% as oil gains, more Fed hikes expected",
   "description": "Treasury yields rose as bond markets reopened following Veterans Day.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
@@ -13,13 +13,22 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-11-12T07:38:45.000Z",
+  "entities": [
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-11-12T14:08:21.000Z",
   "related": [
     {
-      "id": "eeca74b3a32fe99168e5c93ee5e3f87f",
-      "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-      "image": "https://image.cnbcfm.com/api/v1/image/108438882-1792528110848-gettyimages-2300578306-UK_20261020_ukr006JPG.jpeg?v=1792528209&w=1920&h=1080",
+      "id": "e5887ef1d9da23c695422fa99c2e5bc8",
+      "title": "Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait'",
+      "image": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1794275799&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -27,42 +36,10 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-11-12T11:23:04.000Z",
+      "published_at": "2026-11-12T13:49:46.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/eeca74b3a32fe99168e5c93ee5e3f87f.json"
-    },
-    {
-      "id": "7ea6427ec2fe0e4f615b1993010a6fce",
-      "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
-      "image": "https://image.cnbcfm.com/api/v1/image/108371664-1790935737100-gettyimages-2291533356-638a0458.jpeg?v=1790935934&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-11-12T09:05:22.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/7ea6427ec2fe0e4f615b1993010a6fce.json"
-    },
-    {
-      "id": "41e8702164d982580e2d5f40e5133dec",
-      "title": "Jim Cramer says investors need to pay attention to CoreWeave. Here's why",
-      "image": "https://image.cnbcfm.com/api/v1/image/108303956-1778182512216-gettyimages-2263883107-mms29230_rriq1yvf.jpeg?v=1794012163&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-11-11T23:41:46.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/41e8702164d982580e2d5f40e5133dec.json"
+      "path": "articles/e5887ef1d9da23c695422fa99c2e5bc8.json"
     },
     {
       "id": "2763b53d0638c7f9ba16f91c79e3f31f",
@@ -81,9 +58,9 @@
       "path": "articles/2763b53d0638c7f9ba16f91c79e3f31f.json"
     },
     {
-      "id": "73d819bd9c952d5fcfc9d0ba8810aafc",
-      "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-      "image": "https://image.cnbcfm.com/api/v1/image/108549369-1794429117774-108549369-1794428879215-gettyimages-2281152285-CANADA_BMO.jpeg?v=1794432713&w=1920&h=1080",
+      "id": "41f046c9d960b5f5f763a77f00ec26c0",
+      "title": "JetBlue unveils new first-class seats to bring back profits",
+      "image": "https://image.cnbcfm.com/api/v1/image/108549352-1794427538662-IMG_3987.jpg?v=1794427843&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -91,10 +68,42 @@
         "icon": "https://logo.clearbit.com/cnbc.com"
       },
       "category": "stocks",
-      "published_at": "2026-11-12T13:59:30.000Z",
+      "published_at": "2026-11-11T22:10:50.000Z",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "path": "articles/73d819bd9c952d5fcfc9d0ba8810aafc.json"
+      "path": "articles/41f046c9d960b5f5f763a77f00ec26c0.json"
+    },
+    {
+      "id": "917f9632539c2c5b067ec7950732f1f5",
+      "title": "Trump says ‘we don’t need a deal with Iran’",
+      "image": "https://image.cnbcfm.com/api/v1/image/108505564-1793647809750-gettyimages-2303172099-1r1_3097_hdo4pans.jpeg?v=1793727961&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-11-12T14:15:05.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/917f9632539c2c5b067ec7950732f1f5.json"
+    },
+    {
+      "id": "aeda1bc8c925d9ee5a19b9b65d4936cb",
+      "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368092-1790346946056-gettyimages-2296998600-kbd21580_4mc1l2bi.jpeg?v=1790347119&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-11-12T14:13:15.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/aeda1bc8c925d9ee5a19b9b65d4936cb.json"
     }
   ]
 }

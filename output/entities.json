@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T15:45:51.019Z",
+  "updated_at": "2026-11-12T16:01:21.299Z",
   "total": 27,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 21
     },
     {
       "id": "nvda",
@@ -25,7 +25,7 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 18
+      "count": 20
     },
     {
       "id": "regulation",
@@ -39,21 +39,14 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 9
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 8
+      "count": 10
     },
     {
       "id": "sol",
@@ -62,11 +55,18 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 7
+      "count": 8
     },
     {
       "id": "blockchain",
       "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 8
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
       "type": "topic",
       "icon": "",
       "count": 7
@@ -149,6 +149,15 @@
       "count": 2
     },
     {
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "gemini",
       "symbol": "GEMINI",
       "name": "Gemini",
@@ -216,15 +225,6 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 1
-    },
-    {
-      "id": "aapl",
-      "symbol": "AAPL",
-      "name": "Apple",
-      "type": "company",
-      "path": "tickers/aapl.json",
-      "icon": "https://logo.clearbit.com/apple.com",
       "count": 1
     }
   ]

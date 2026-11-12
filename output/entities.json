@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T11:45:43.907Z",
+  "updated_at": "2026-11-12T12:01:18.417Z",
   "total": 27,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 22
+      "count": 23
     },
     {
       "id": "nvda",
@@ -28,15 +28,15 @@
       "count": 15
     },
     {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 15
-    },
-    {
       "id": "ai",
       "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 14
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
       "type": "topic",
       "icon": "",
       "count": 14
@@ -65,15 +65,17 @@
       "count": 6
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 5
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
+      "id": "mining",
+      "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 5
@@ -88,12 +90,10 @@
       "count": 5
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
       "count": 4
     },
     {

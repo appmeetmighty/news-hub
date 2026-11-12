@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T18:01:18.647Z",
+  "updated_at": "2026-11-12T09:15:48.474Z",
   "id": "gold",
   "symbol": "GOLD",
   "name": "Gold",
@@ -7,21 +7,37 @@
   "total": 1,
   "articles": [
     {
-      "id": "2a8dff6cf06b5a718cc946289351d756",
-      "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party? ",
-      "description": "Singapore is stepping up efforts to become a key player in the global gold market, betting that vaulting service and tax incentives will help it attract flows.",
+      "id": "9ce9a094b3b493700558949d54db1a8a",
+      "title": "Live news: Strategy kicked out of MSCI indexes as Nvidia slump rattles markets",
+      "description": "Nasdaq 100 futures retreat after Wednesday’s rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108283781-1774564627659-gettyimages-2266129945-International_Gold_Price.jpeg?v=1776689017&w=1920&h=1080",
+      "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+      "image": "",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "mstr",
+          "symbol": "MSTR",
+          "name": "Strategy",
+          "type": "company",
+          "path": "tickers/mstr.json",
+          "icon": "https://logo.clearbit.com/strategy.com"
+        },
         {
           "id": "gold",
           "symbol": "GOLD",
@@ -29,92 +45,98 @@
           "type": "commodity",
           "path": "tickers/gold.json",
           "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-11-11T07:02:45.000Z",
+      "published_at": "2026-11-12T09:15:04.000Z",
       "related": [
         {
-          "id": "253f9380b2efeced71c9ed25b2838405",
-          "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358140-1788386447242-gettyimages-2292673696-G20_INNOVATION_MINISTERIAL.jpeg?v=1788386523&w=1920&h=1080",
+          "id": "d2794b2ce52db5d78a80ba36af039eba",
+          "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-11T17:39:26.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-11T12:21:24.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/253f9380b2efeced71c9ed25b2838405.json"
+          "path": "articles/d2794b2ce52db5d78a80ba36af039eba.json"
         },
         {
-          "id": "2763b53d0638c7f9ba16f91c79e3f31f",
-          "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
-          "image": "https://image.cnbcfm.com/api/v1/image/108262695-1770401942455-gettyimages-2255825108-AFP_92W23WL.jpeg?v=1770402105&w=1920&h=1080",
+          "id": "e288db3449de58c211d70ff06609ebf2",
+          "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-11T17:34:18.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-12T07:00:37.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/2763b53d0638c7f9ba16f91c79e3f31f.json"
+          "path": "articles/e288db3449de58c211d70ff06609ebf2.json"
         },
         {
-          "id": "e696080352604d51edb92630ae392267",
-          "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
-          "image": "https://image.cnbcfm.com/api/v1/image/108510766-1793712432884-gettyimages-2302800132-PREDICTION_MARKETS_MIDTERMS.jpeg?v=1793712473&w=1920&h=1080",
+          "id": "84cccf170664b2fe76f7e11d3725e285",
+          "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-11T17:22:34.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/e696080352604d51edb92630ae392267.json"
-        },
-        {
-          "id": "41f046c9d960b5f5f763a77f00ec26c0",
-          "title": "JetBlue unveils new first class seats to bring back profits",
-          "image": "https://image.cnbcfm.com/api/v1/image/108548592-1794349266069-image_19.png?v=1794349319&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-11T17:20:41.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-12T04:03:47.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/41f046c9d960b5f5f763a77f00ec26c0.json"
+          "path": "articles/84cccf170664b2fe76f7e11d3725e285.json"
         },
         {
-          "id": "da2d44801b75be7e8482f9e836c4ce12",
-          "title": "Bessent moved to military base amid 'growing threats' from Iran",
-          "image": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&w=1920&h=1080",
+          "id": "9fa3e7f814a31f2100cea4c439949eb4",
+          "title": "MSCI confirms Strategy’s removal from indexes at end of November",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-11T16:59:18.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-12T00:09:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/da2d44801b75be7e8482f9e836c4ce12.json"
+          "path": "articles/9fa3e7f814a31f2100cea4c439949eb4.json"
+        },
+        {
+          "id": "8d1edd3aecb636f3b899404ea1e836c3",
+          "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-11T13:00:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8d1edd3aecb636f3b899404ea1e836c3.json"
         }
       ],
-      "path": "articles/2a8dff6cf06b5a718cc946289351d756.json"
+      "path": "articles/9ce9a094b3b493700558949d54db1a8a.json"
     }
   ]
 }

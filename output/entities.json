@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T22:31:12.653Z",
-  "total": 27,
+  "updated_at": "2026-11-12T22:45:49.924Z",
+  "total": 26,
   "entities": [
     {
       "id": "nvda",
@@ -12,15 +12,6 @@
       "count": 27
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
-    },
-    {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
@@ -28,11 +19,20 @@
       "count": 26
     },
     {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 25
+    },
+    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 16
     },
     {
       "id": "regulation",
@@ -53,7 +53,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 8
+      "count": 7
     },
     {
       "id": "mstr",
@@ -113,24 +113,6 @@
       "count": 2
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 2
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
@@ -162,6 +144,15 @@
       "type": "company",
       "path": "tickers/amd.json",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
       "count": 1
     },
     {
@@ -210,20 +201,20 @@
       "count": 1
     },
     {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "spacex",
       "symbol": "SPACEX",
       "name": "SpaceX",
       "type": "company",
       "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "xai",
-      "symbol": "XAI",
-      "name": "xAI",
-      "type": "company",
-      "path": "tickers/xai.json",
       "icon": "",
       "count": 1
     }

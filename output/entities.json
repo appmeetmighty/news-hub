@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-12T22:45:49.924Z",
+  "updated_at": "2026-11-12T23:01:20.160Z",
   "total": 26,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 27
+    },
     {
       "id": "nvda",
       "symbol": "NVDA",
@@ -10,13 +17,6 @@
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 27
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 26
     },
     {
       "id": "btc",
@@ -39,7 +39,7 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 12
+      "count": 13
     },
     {
       "id": "stablecoin",
@@ -47,22 +47,6 @@
       "type": "topic",
       "icon": "",
       "count": 11
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 7
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 7
     },
     {
       "id": "sol",
@@ -74,10 +58,26 @@
       "count": 7
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
       "icon": "",
+      "count": 6
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 6
     },
     {
@@ -113,19 +113,19 @@
       "count": 2
     },
     {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
       "id": "amzn",
       "symbol": "AMZN",
       "name": "Amazon",
       "type": "company",
       "path": "tickers/amzn.json",
       "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 1
+    },
+    {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
       "count": 1
     },
     {

@@ -1,18 +1,148 @@
 {
-  "updated_at": "2026-11-12T17:01:25.778Z",
+  "updated_at": "2026-11-12T17:15:48.245Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 10,
+  "total": 13,
   "articles": [
     {
-      "id": "77aaf9613703fffc1009c7642947e36e",
-      "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-      "description": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
+      "id": "967eeaf6267eecfe691d3c5ce1ea3e42",
+      "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+      "description": "Nvidia’s founder is out, and tech and crypto leaders are fuming. Some fear for open-source AI, others question the board, while Elon Musk says he’d be honored to hire Huang.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363240-1789497350287-gettyimages-2294936606-DREAMFORCE_2026.jpeg?v=1791240406&w=1920&h=1080",
+      "url": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "tsla",
+          "symbol": "TSLA",
+          "name": "Tesla",
+          "type": "company",
+          "path": "tickers/tsla.json",
+          "icon": "https://logo.clearbit.com/tesla.com"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-12T17:14:42.000Z",
+      "related": [
+        {
+          "id": "ee5e10569dbcf1ab55d530ef21206ff8",
+          "title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T14:44:39.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ee5e10569dbcf1ab55d530ef21206ff8.json"
+        },
+        {
+          "id": "4390b332993dcdd04db574837abf3032",
+          "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-11T12:15:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4390b332993dcdd04db574837abf3032.json"
+        },
+        {
+          "id": "4cff78e0bb691dc1ddba46b98d792bd1",
+          "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-10T20:45:50.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/4cff78e0bb691dc1ddba46b98d792bd1.json"
+        },
+        {
+          "id": "d00950927ca0df90c0eb25973a74f449",
+          "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353940-1787671145319-gettyimages-2285783827-JAPAN_NVIDIA.jpeg?v=1787671381&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T17:06:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d00950927ca0df90c0eb25973a74f449.json"
+        },
+        {
+          "id": "77aaf9613703fffc1009c7642947e36e",
+          "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363240-1789497350287-gettyimages-2294936606-DREAMFORCE_2026.jpeg?v=1791240406&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T16:43:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/77aaf9613703fffc1009c7642947e36e.json"
+        }
+      ],
+      "path": "articles/967eeaf6267eecfe691d3c5ce1ea3e42.json"
+    },
+    {
+      "id": "d00950927ca0df90c0eb25973a74f449",
+      "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+      "description": "Nvidia's leadership crisis threatens to spill over into the AI financing boom.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353940-1787671145319-gettyimages-2285783827-JAPAN_NVIDIA.jpeg?v=1787671381&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -36,12 +166,12 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-11-12T16:43:33.000Z",
+      "published_at": "2026-11-12T17:06:18.000Z",
       "related": [
         {
-          "id": "876531dea23ba8fda0076b489aa0b7bc",
-          "title": "‘It had to happen’ — Jim Cramer on Jensen Huang’s resignation and future for Nvidia stock",
-          "image": "https://image.cnbcfm.com/api/v1/image/108546138-1794228919365-gettyimages-2301620511-20090101261026-99-66995.jpeg?v=1794228960&w=1920&h=1080",
+          "id": "77aaf9613703fffc1009c7642947e36e",
+          "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363240-1789497350287-gettyimages-2294936606-DREAMFORCE_2026.jpeg?v=1791240406&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -49,10 +179,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-12T15:25:49.000Z",
+          "published_at": "2026-11-12T16:43:33.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/876531dea23ba8fda0076b489aa0b7bc.json"
+          "path": "articles/77aaf9613703fffc1009c7642947e36e.json"
         },
         {
           "id": "17f08ea8226d6094af991970bf19456e",
@@ -103,9 +233,61 @@
           "path": "articles/d93a2b1c574e7b42b679441c4588bf59.json"
         },
         {
-          "id": "ba5300576de2458a9f09db7ac0807fb3",
-          "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-          "image": "https://image.cnbcfm.com/api/v1/image/108548918-1794403575214-gettyimages-2192346840-widak-nvidiasc250106_npmp9.jpeg?v=1794403600&w=1920&h=1080",
+          "id": "967eeaf6267eecfe691d3c5ce1ea3e42",
+          "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T17:14:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/967eeaf6267eecfe691d3c5ce1ea3e42.json"
+        }
+      ],
+      "path": "articles/d00950927ca0df90c0eb25973a74f449.json"
+    },
+    {
+      "id": "1ce71555b13bc200b1c4e44b02a3b114",
+      "title": "Sitting on big gains in Nvidia? Jim Cramer's advice on what to do next",
+      "description": "Cramer has been an Nvidia bull long before the generative AI boom.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/investingclub/2026/11/12/sitting-on-big-gains-in-nvidia-jim-cramers-advice-on-what-to-do-next.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354002-1787676068167-gettyimages-2266718345-NVIDIA_GTC.jpeg?v=1787676090&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-12T16:59:52.000Z",
+      "related": [
+        {
+          "id": "9e4879b83e7abe7fc405a79b08698adf",
+          "title": "Here's what Colette Kress and Harvey Jones wrote to Nvidia employees",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550106-1794496355859-Untitled-2.jpg?v=1794496460&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -113,10 +295,190 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-12T16:43:06.000Z",
+          "published_at": "2026-11-12T17:07:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/ba5300576de2458a9f09db7ac0807fb3.json"
+          "path": "articles/9e4879b83e7abe7fc405a79b08698adf.json"
+        },
+        {
+          "id": "17f08ea8226d6094af991970bf19456e",
+          "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
+          "image": "https://image.cnbcfm.com/api/v1/image/108548917-1794403467908-gettyimages-2299493352-AFP_D36R6ZK.jpeg?v=1794403499&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T15:22:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/17f08ea8226d6094af991970bf19456e.json"
+        },
+        {
+          "id": "d00950927ca0df90c0eb25973a74f449",
+          "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353940-1787671145319-gettyimages-2285783827-JAPAN_NVIDIA.jpeg?v=1787671381&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T17:06:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d00950927ca0df90c0eb25973a74f449.json"
+        },
+        {
+          "id": "d93a2b1c574e7b42b679441c4588bf59",
+          "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
+          "image": "https://image.cnbcfm.com/api/v1/image/108317416-1780669969197-gettyimages-2279256400-jung-nvidiace260605_nprgq.jpeg?v=1780670112&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T16:59:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d93a2b1c574e7b42b679441c4588bf59.json"
+        },
+        {
+          "id": "77aaf9613703fffc1009c7642947e36e",
+          "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363240-1789497350287-gettyimages-2294936606-DREAMFORCE_2026.jpeg?v=1791240406&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T16:43:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/77aaf9613703fffc1009c7642947e36e.json"
+        }
+      ],
+      "path": "articles/1ce71555b13bc200b1c4e44b02a3b114.json"
+    },
+    {
+      "id": "77aaf9613703fffc1009c7642947e36e",
+      "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+      "description": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363240-1789497350287-gettyimages-2294936606-DREAMFORCE_2026.jpeg?v=1791240406&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-12T16:43:33.000Z",
+      "related": [
+        {
+          "id": "d00950927ca0df90c0eb25973a74f449",
+          "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353940-1787671145319-gettyimages-2285783827-JAPAN_NVIDIA.jpeg?v=1787671381&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T17:06:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d00950927ca0df90c0eb25973a74f449.json"
+        },
+        {
+          "id": "17f08ea8226d6094af991970bf19456e",
+          "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
+          "image": "https://image.cnbcfm.com/api/v1/image/108548917-1794403467908-gettyimages-2299493352-AFP_D36R6ZK.jpeg?v=1794403499&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T15:22:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/17f08ea8226d6094af991970bf19456e.json"
+        },
+        {
+          "id": "aeda1bc8c925d9ee5a19b9b65d4936cb",
+          "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
+          "image": "https://image.cnbcfm.com/api/v1/image/108368092-1790346946056-gettyimages-2296998600-kbd21580_4mc1l2bi.jpeg?v=1790347119&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T15:03:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/aeda1bc8c925d9ee5a19b9b65d4936cb.json"
+        },
+        {
+          "id": "d93a2b1c574e7b42b679441c4588bf59",
+          "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
+          "image": "https://image.cnbcfm.com/api/v1/image/108317416-1780669969197-gettyimages-2279256400-jung-nvidiace260605_nprgq.jpeg?v=1780670112&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T16:59:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d93a2b1c574e7b42b679441c4588bf59.json"
+        },
+        {
+          "id": "967eeaf6267eecfe691d3c5ce1ea3e42",
+          "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T17:14:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/967eeaf6267eecfe691d3c5ce1ea3e42.json"
         }
       ],
       "path": "articles/77aaf9613703fffc1009c7642947e36e.json"
@@ -155,6 +517,54 @@
       "published_at": "2026-11-12T16:43:06.000Z",
       "related": [
         {
+          "id": "9e4879b83e7abe7fc405a79b08698adf",
+          "title": "Here's what Colette Kress and Harvey Jones wrote to Nvidia employees",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550106-1794496355859-Untitled-2.jpg?v=1794496460&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T17:07:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9e4879b83e7abe7fc405a79b08698adf.json"
+        },
+        {
+          "id": "d00950927ca0df90c0eb25973a74f449",
+          "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353940-1787671145319-gettyimages-2285783827-JAPAN_NVIDIA.jpeg?v=1787671381&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T17:06:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d00950927ca0df90c0eb25973a74f449.json"
+        },
+        {
+          "id": "1ce71555b13bc200b1c4e44b02a3b114",
+          "title": "Sitting on big gains in Nvidia? Jim Cramer's advice on what to do next",
+          "image": "https://image.cnbcfm.com/api/v1/image/108354002-1787676068167-gettyimages-2266718345-NVIDIA_GTC.jpeg?v=1787676090&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T16:59:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1ce71555b13bc200b1c4e44b02a3b114.json"
+        },
+        {
           "id": "d93a2b1c574e7b42b679441c4588bf59",
           "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
           "image": "https://image.cnbcfm.com/api/v1/image/108317416-1780669969197-gettyimages-2279256400-jung-nvidiace260605_nprgq.jpeg?v=1780670112&w=1920&h=1080",
@@ -185,54 +595,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/77aaf9613703fffc1009c7642947e36e.json"
-        },
-        {
-          "id": "876531dea23ba8fda0076b489aa0b7bc",
-          "title": "‘It had to happen’ — Jim Cramer on Jensen Huang’s resignation and future for Nvidia stock",
-          "image": "https://image.cnbcfm.com/api/v1/image/108546138-1794228919365-gettyimages-2301620511-20090101261026-99-66995.jpeg?v=1794228960&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-12T15:25:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/876531dea23ba8fda0076b489aa0b7bc.json"
-        },
-        {
-          "id": "17f08ea8226d6094af991970bf19456e",
-          "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
-          "image": "https://image.cnbcfm.com/api/v1/image/108548917-1794403467908-gettyimages-2299493352-AFP_D36R6ZK.jpeg?v=1794403499&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-12T15:22:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/17f08ea8226d6094af991970bf19456e.json"
-        },
-        {
-          "id": "aeda1bc8c925d9ee5a19b9b65d4936cb",
-          "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
-          "image": "https://image.cnbcfm.com/api/v1/image/108368092-1790346946056-gettyimages-2296998600-kbd21580_4mc1l2bi.jpeg?v=1790347119&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-12T15:03:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/aeda1bc8c925d9ee5a19b9b65d4936cb.json"
         }
       ],
       "path": "articles/ba5300576de2458a9f09db7ac0807fb3.json"
@@ -262,6 +624,22 @@
       ],
       "published_at": "2026-11-12T14:24:51.000Z",
       "related": [
+        {
+          "id": "967eeaf6267eecfe691d3c5ce1ea3e42",
+          "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T17:14:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/967eeaf6267eecfe691d3c5ce1ea3e42.json"
+        },
         {
           "id": "68c80e8866534f33deafce838727287c",
           "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
@@ -325,22 +703,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/c05c640dccd0598a712dc965f578eaea.json"
-        },
-        {
-          "id": "a8ed98279609219112c4e52ec31b9b13",
-          "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-12T13:57:53.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a8ed98279609219112c4e52ec31b9b13.json"
         }
       ],
       "path": "articles/8b69c4be476e3d4fee5dc157972370f0.json"
@@ -378,6 +740,22 @@
       ],
       "published_at": "2026-11-11T22:36:03.000Z",
       "related": [
+        {
+          "id": "967eeaf6267eecfe691d3c5ce1ea3e42",
+          "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T17:14:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/967eeaf6267eecfe691d3c5ce1ea3e42.json"
+        },
         {
           "id": "ee5e10569dbcf1ab55d530ef21206ff8",
           "title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
@@ -441,22 +819,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4390b332993dcdd04db574837abf3032.json"
-        },
-        {
-          "id": "4cff78e0bb691dc1ddba46b98d792bd1",
-          "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-10T20:45:50.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4cff78e0bb691dc1ddba46b98d792bd1.json"
         }
       ],
       "path": "articles/5008d245376253ae593a8186076d1536.json"
@@ -603,6 +965,22 @@
       "published_at": "2026-11-11T20:16:02.000Z",
       "related": [
         {
+          "id": "967eeaf6267eecfe691d3c5ce1ea3e42",
+          "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T17:14:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/967eeaf6267eecfe691d3c5ce1ea3e42.json"
+        },
+        {
           "id": "0da2cfe526968f78360e09259f0e3340",
           "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Tether-decrypt-style-02-gID_7.png@png",
@@ -665,22 +1043,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ee5e10569dbcf1ab55d530ef21206ff8.json"
-        },
-        {
-          "id": "55266ad19d01b8a59c7356c21d75c38e",
-          "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-12T14:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/55266ad19d01b8a59c7356c21d75c38e.json"
         }
       ],
       "path": "articles/f1e8dbd2a9489e875b83a97f88bffe57.json"
@@ -711,6 +1073,22 @@
       "published_at": "2026-11-11T19:36:02.000Z",
       "related": [
         {
+          "id": "967eeaf6267eecfe691d3c5ce1ea3e42",
+          "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T17:14:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/967eeaf6267eecfe691d3c5ce1ea3e42.json"
+        },
+        {
           "id": "0da2cfe526968f78360e09259f0e3340",
           "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Tether-decrypt-style-02-gID_7.png@png",
@@ -773,22 +1151,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ee5e10569dbcf1ab55d530ef21206ff8.json"
-        },
-        {
-          "id": "55266ad19d01b8a59c7356c21d75c38e",
-          "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-12T14:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/55266ad19d01b8a59c7356c21d75c38e.json"
         }
       ],
       "path": "articles/fe361dc61cfc496535aa0b5a7be9d34f.json"
@@ -1071,6 +1433,22 @@
       "published_at": "2026-11-10T20:16:03.000Z",
       "related": [
         {
+          "id": "967eeaf6267eecfe691d3c5ce1ea3e42",
+          "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T17:14:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/967eeaf6267eecfe691d3c5ce1ea3e42.json"
+        },
+        {
           "id": "0da2cfe526968f78360e09259f0e3340",
           "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Tether-decrypt-style-02-gID_7.png@png",
@@ -1133,22 +1511,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ee5e10569dbcf1ab55d530ef21206ff8.json"
-        },
-        {
-          "id": "55266ad19d01b8a59c7356c21d75c38e",
-          "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-12T14:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/55266ad19d01b8a59c7356c21d75c38e.json"
         }
       ],
       "path": "articles/e40166d76c5ee16ce8e95a98c3f3fe85.json"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T12:45:45.801Z",
+  "updated_at": "2026-11-12T13:01:23.204Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
@@ -123,8 +123,8 @@
     },
     {
       "id": "9ce9a094b3b493700558949d54db1a8a",
-      "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
-      "description": "Nasdaq 100 futures retreat after Wednesday’s rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000.",
+      "title": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang issues hit AI sector",
+      "description": "Nasdaq 100 futures are down more than 1% on reports that Nvidia's board is considering firing Jensen Huang after allegations about an additional affair.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
@@ -146,20 +146,12 @@
           "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
-          "id": "mstr",
-          "symbol": "MSTR",
-          "name": "Strategy",
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
           "type": "company",
-          "path": "tickers/mstr.json",
-          "icon": "https://logo.clearbit.com/strategy.com"
-        },
-        {
-          "id": "gold",
-          "symbol": "GOLD",
-          "name": "Gold",
-          "type": "commodity",
-          "path": "tickers/gold.json",
-          "icon": ""
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
         },
         {
           "id": "ai",
@@ -170,38 +162,6 @@
       ],
       "published_at": "2026-11-12T09:15:04.000Z",
       "related": [
-        {
-          "id": "e288db3449de58c211d70ff06609ebf2",
-          "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-12T07:00:37.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e288db3449de58c211d70ff06609ebf2.json"
-        },
-        {
-          "id": "5250e837096df656dc308ddbd2e39d4b",
-          "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-12T11:24:19.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/5250e837096df656dc308ddbd2e39d4b.json"
-        },
         {
           "id": "d2794b2ce52db5d78a80ba36af039eba",
           "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
@@ -217,6 +177,38 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d2794b2ce52db5d78a80ba36af039eba.json"
+        },
+        {
+          "id": "b6d03a3351dc86bd7f4928dda898636e",
+          "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T11:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b6d03a3351dc86bd7f4928dda898636e.json"
+        },
+        {
+          "id": "84cccf170664b2fe76f7e11d3725e285",
+          "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T04:03:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/84cccf170664b2fe76f7e11d3725e285.json"
         },
         {
           "id": "cdb6c0d313bcc3903434b4be1a45559f",
@@ -235,20 +227,20 @@
           "path": "articles/cdb6c0d313bcc3903434b4be1a45559f.json"
         },
         {
-          "id": "b6d03a3351dc86bd7f4928dda898636e",
-          "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-          "image": "",
+          "id": "918660a92688d3e445ab9b4fae7d00f8",
+          "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-11-12T11:30:00.000Z",
+          "published_at": "2026-11-12T09:47:18.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/b6d03a3351dc86bd7f4928dda898636e.json"
+          "path": "articles/918660a92688d3e445ab9b4fae7d00f8.json"
         }
       ],
       "path": "articles/9ce9a094b3b493700558949d54db1a8a.json"
@@ -860,7 +852,7 @@
         },
         {
           "id": "bedfacd49e27bf108af5a3eb43644b1c",
-          "title": "Nebius handily beats Q3 revenue expectations but shares fall",
+          "title": "Nebius falls 10% as company expects increased 2026 capex spend, issues weak outlook",
           "image": "https://image.cnbcfm.com/api/v1/image/108549565-1794441805781-gettyimages-1181074154-putinsber24.jpeg?v=1794442026&w=1920&h=1080",
           "source": {
             "id": "cnbc",
@@ -869,10 +861,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-12T12:30:14.000Z",
+          "published_at": "2026-11-12T12:56:50.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/bedfacd49e27bf108af5a3eb43644b1c.json"
+        },
+        {
+          "id": "faff88e93e1453d1c4c416029119ce5b",
+          "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549919-1794488112490-gettyimages-2304710408-_u8a0265.jpeg?v=1794488152&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T12:56:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/faff88e93e1453d1c4c416029119ce5b.json"
         },
         {
           "id": "d93a2b1c574e7b42b679441c4588bf59",
@@ -905,22 +913,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/06fd26e759713ce1fdad30c14ea22f4f.json"
-        },
-        {
-          "id": "9855bd770ac2c377d9c1d3f1ec8befde",
-          "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
-          "image": "https://image.cnbcfm.com/api/v1/image/108546366-17942337332026-11-09t135831z_19412827_rc2h6oaxcoox_rtrmadp_0_nvidia-probe-ceo.jpeg?v=1794233751&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-12T11:57:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9855bd770ac2c377d9c1d3f1ec8befde.json"
         }
       ],
       "path": "articles/bf9caef3af723939b85883e26b3bde52.json"
@@ -989,6 +981,22 @@
           "path": "articles/b6d03a3351dc86bd7f4928dda898636e.json"
         },
         {
+          "id": "9ce9a094b3b493700558949d54db1a8a",
+          "title": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang issues hit AI sector",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T09:15:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9ce9a094b3b493700558949d54db1a8a.json"
+        },
+        {
           "id": "4f08e60d05e54763e60266845c02cef0",
           "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
           "image": "",
@@ -1035,22 +1043,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/0581c0bb8b3b107137989fa405206d17.json"
-        },
-        {
-          "id": "aad5b868acc6bbf26aaccb4a9a91c405",
-          "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77BC08M1JK1359QWDPVF1FQ/blackrock-2-billion.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-12T08:06:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/aad5b868acc6bbf26aaccb4a9a91c405.json"
         }
       ],
       "path": "articles/d2794b2ce52db5d78a80ba36af039eba.json"
@@ -1162,7 +1154,7 @@
         },
         {
           "id": "9ce9a094b3b493700558949d54db1a8a",
-          "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
+          "title": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang issues hit AI sector",
           "image": "",
           "source": {
             "id": "coindesk",

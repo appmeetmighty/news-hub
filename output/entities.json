@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-12T22:01:18.643Z",
-  "total": 28,
+  "updated_at": "2026-11-12T22:15:56.201Z",
+  "total": 27,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 26
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -21,18 +28,11 @@
       "count": 26
     },
     {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 25
-    },
-    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 15
     },
     {
       "id": "regulation",
@@ -90,18 +90,18 @@
       "count": 5
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
       "id": "mining",
       "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "msft",
@@ -110,15 +110,6 @@
       "type": "company",
       "path": "tickers/msft.json",
       "icon": "https://logo.clearbit.com/microsoft.com",
-      "count": 2
-    },
-    {
-      "id": "amzn",
-      "symbol": "AMZN",
-      "name": "Amazon",
-      "type": "company",
-      "path": "tickers/amzn.json",
-      "icon": "https://logo.clearbit.com/amazon.com",
       "count": 2
     },
     {
@@ -140,12 +131,12 @@
       "count": 2
     },
     {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
       "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
       "count": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T12:16:04.341Z",
+  "updated_at": "2026-11-12T21:01:23.850Z",
   "id": "amzn",
   "symbol": "AMZN",
   "name": "Amazon",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "7e5e8541080f038b3463e5f6fe26c28b",
-      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
-      "description": "Amazon's $250 Ring Drone Cam flies from room to room to investigate suspicious activity, and can capture footage at night.",
+      "id": "4337bd6f78f3b8b0fe608f5533642beb",
+      "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
+      "description": "Amazon Web Services and Google users also reported outages on Thursday",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108546941-1794261485075-Lifestyle_dronecam_hovering_hallway_RGB_1500x1500.jpg?v=1794317522&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108465628-17930473022026-10-26t203948z_25222247_rc28boaxmoul_rtrmadp_0_microsoft-buyouts.jpeg?v=1793047365&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -23,20 +23,36 @@
       "category": "stocks",
       "entities": [
         {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
           "id": "amzn",
           "symbol": "AMZN",
           "name": "Amazon",
           "type": "company",
           "path": "tickers/amzn.json",
           "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
         }
       ],
-      "published_at": "2026-11-10T19:43:59.000Z",
+      "published_at": "2026-11-12T20:57:54.000Z",
       "related": [
         {
-          "id": "ad98a9d557a7f66d1858c1a0fd6f7eff",
-          "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
-          "image": "https://image.cnbcfm.com/api/v1/image/108548817-1794393755083-gettyimages-2303997492-AFP_D6ZX863.jpeg?v=1794393778&w=1920&h=1080",
+          "id": "bedfacd49e27bf108af5a3eb43644b1c",
+          "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549565-1794441805781-gettyimages-1181074154-putinsber24.jpeg?v=1794442026&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -44,15 +60,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-11T12:12:48.000Z",
+          "published_at": "2026-11-12T17:53:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/ad98a9d557a7f66d1858c1a0fd6f7eff.json"
+          "path": "articles/bedfacd49e27bf108af5a3eb43644b1c.json"
         },
         {
-          "id": "df3fb47ef24a2df94b10fd9484b13be8",
-          "title": "Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
-          "image": "https://image.cnbcfm.com/api/v1/image/106999708-1641930633605-gettyimages-1237663149-ch9_4287.jpg?v=1641931046&w=1920&h=1080",
+          "id": "93f91fc1352fab5faf751d97413b22ba",
+          "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+          "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1794505715&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -60,15 +76,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-11T12:03:28.000Z",
+          "published_at": "2026-11-12T20:34:54.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/df3fb47ef24a2df94b10fd9484b13be8.json"
+          "path": "articles/93f91fc1352fab5faf751d97413b22ba.json"
         },
         {
-          "id": "da2d44801b75be7e8482f9e836c4ce12",
-          "title": "Bessent reportedly moved to military base over Iranian threats on his life",
-          "image": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&w=1920&h=1080",
+          "id": "917f9632539c2c5b067ec7950732f1f5",
+          "title": "Trump says ‘we don’t need a deal with Iran’",
+          "image": "https://image.cnbcfm.com/api/v1/image/108505564-1793647809750-gettyimages-2303172099-1r1_3097_hdo4pans.jpeg?v=1793727961&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -76,31 +92,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-11T12:02:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 5,
-          "path": "articles/da2d44801b75be7e8482f9e836c4ce12.json"
-        },
-        {
-          "id": "4f9dcd59176abc62e4b06188993706d0",
-          "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
-          "image": "https://image.cnbcfm.com/api/v1/image/108169600-1752074893642-gettyimages-2209442815-l1052839_ux0og2eg.jpeg?v=1794337701&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-11T12:00:01.000Z",
+          "published_at": "2026-11-12T20:34:31.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4f9dcd59176abc62e4b06188993706d0.json"
+          "path": "articles/917f9632539c2c5b067ec7950732f1f5.json"
         },
         {
-          "id": "1ed2819bdd00232891f426f41268382c",
-          "title": "How Democrats could snarl Trump administration stakes in private-sector companies",
-          "image": "https://image.cnbcfm.com/api/v1/image/108546919-1794260827573-gettyimages-2304340042-_s013830_kqju5lnf.jpeg?v=1794343497&w=1920&h=1080",
+          "id": "77aaf9613703fffc1009c7642947e36e",
+          "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363240-1789497350287-gettyimages-2294936606-DREAMFORCE_2026.jpeg?v=1791240406&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -108,13 +108,29 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-11T11:00:01.000Z",
+          "published_at": "2026-11-12T20:32:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1ed2819bdd00232891f426f41268382c.json"
+          "path": "articles/77aaf9613703fffc1009c7642947e36e.json"
+        },
+        {
+          "id": "6ac6c5931ef0af9048bfe5ca786f03d5",
+          "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549468-1794434665354-gettyimages-2304131111-cotton_245_111026.jpeg?v=1794434771&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T20:28:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6ac6c5931ef0af9048bfe5ca786f03d5.json"
         }
       ],
-      "path": "articles/7e5e8541080f038b3463e5f6fe26c28b.json"
+      "path": "articles/4337bd6f78f3b8b0fe608f5533642beb.json"
     }
   ]
 }

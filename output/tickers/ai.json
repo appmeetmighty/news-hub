@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T10:31:02.487Z",
+  "updated_at": "2026-11-12T10:45:48.909Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 14,
+  "total": 15,
   "articles": [
     {
       "id": "9ce9a094b3b493700558949d54db1a8a",
-      "title": "Live news: AI stocks slide with Nasdaq 100 futures in retreat following Wednesday's rally",
+      "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
       "description": "Nasdaq 100 futures retreat after Wednesday’s rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
@@ -21,6 +21,14 @@
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
         {
           "id": "mstr",
           "symbol": "MSTR",
@@ -63,8 +71,8 @@
           "path": "articles/e288db3449de58c211d70ff06609ebf2.json"
         },
         {
-          "id": "8d1edd3aecb636f3b899404ea1e836c3",
-          "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+          "id": "d2794b2ce52db5d78a80ba36af039eba",
+          "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -73,15 +81,47 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-11-11T13:00:00.000Z",
+          "published_at": "2026-11-11T12:21:24.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8d1edd3aecb636f3b899404ea1e836c3.json"
+          "path": "articles/d2794b2ce52db5d78a80ba36af039eba.json"
         },
         {
-          "id": "9fa3e7f814a31f2100cea4c439949eb4",
-          "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg",
+          "id": "572145c90e731a2b6ef0fa1b6fe7f015",
+          "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T07:41:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/572145c90e731a2b6ef0fa1b6fe7f015.json"
+        },
+        {
+          "id": "09606d3aa4179ce79c1d6372ae719f89",
+          "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T05:22:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/09606d3aa4179ce79c1d6372ae719f89.json"
+        },
+        {
+          "id": "9d708e1fa615496a98c72820faed30cc",
+          "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1-960x640.webp",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -89,31 +129,51 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-11-12T00:09:13.000Z",
+          "published_at": "2026-11-11T16:26:00.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9fa3e7f814a31f2100cea4c439949eb4.json"
+          "breaking_score": 20,
+          "path": "articles/9d708e1fa615496a98c72820faed30cc.json"
+        }
+      ],
+      "path": "articles/9ce9a094b3b493700558949d54db1a8a.json"
+    },
+    {
+      "id": "ba5300576de2458a9f09db7ac0807fb3",
+      "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+      "description": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108548918-1794403575214-gettyimages-2192346840-widak-nvidiasc250106_npmp9.jpeg?v=1794403600&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
         },
         {
-          "id": "83b25ab95c1649f73f7dbfd98b0630a5",
-          "title": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-11T16:14:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/83b25ab95c1649f73f7dbfd98b0630a5.json"
-        },
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-11T22:59:33.000Z",
+      "related": [
         {
-          "id": "67413bd4e39e57d53d0d77edf353e9b2",
-          "title": "Bouncing Wynn Shares might be primed for the 'wheel strategy'",
-          "image": "https://image.cnbcfm.com/api/v1/image/108149929-1748002606874-gettyimages-2215841035-BIZ-NEV-GAMBLING-COMM-WYNN-LV.jpeg?v=1759516778&w=1920&h=1080",
+          "id": "d93a2b1c574e7b42b679441c4588bf59",
+          "title": "Nvidia stock falls 6% as investors await Jensen Huang’s fate",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549797-1794473558680-gettyimages-2300707653-261019_KBMW_PHT102.jpeg?v=1794473568&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -121,13 +181,77 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-11T18:24:53.000Z",
+          "published_at": "2026-11-12T09:49:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/67413bd4e39e57d53d0d77edf353e9b2.json"
+          "path": "articles/d93a2b1c574e7b42b679441c4588bf59.json"
+        },
+        {
+          "id": "06fd26e759713ce1fdad30c14ea22f4f",
+          "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+          "image": "https://image.cnbcfm.com/api/v1/image/108548919-1794436123875-108548919-1794403650801-gettyimages-2280478637-csj17492_lh46rpzq.jpeg?v=1794436166&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-11T22:46:29.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/06fd26e759713ce1fdad30c14ea22f4f.json"
+        },
+        {
+          "id": "ba666c97e0b9ccb5591cf8e480de5236",
+          "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370122-1790768585114-gettyimages-2297261442-TRUMP_AMERICAGOV.jpeg?v=1790768621&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T03:25:05.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ba666c97e0b9ccb5591cf8e480de5236.json"
+        },
+        {
+          "id": "9855bd770ac2c377d9c1d3f1ec8befde",
+          "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+          "image": "https://image.cnbcfm.com/api/v1/image/108546366-17942337332026-11-09t135831z_19412827_rc2h6oaxcoox_rtrmadp_0_nvidia-probe-ceo.jpeg?v=1794233751&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-12T01:14:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9855bd770ac2c377d9c1d3f1ec8befde.json"
+        },
+        {
+          "id": "84cccf170664b2fe76f7e11d3725e285",
+          "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T04:03:47.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/84cccf170664b2fe76f7e11d3725e285.json"
         }
       ],
-      "path": "articles/9ce9a094b3b493700558949d54db1a8a.json"
+      "path": "articles/ba5300576de2458a9f09db7ac0807fb3.json"
     },
     {
       "id": "06fd26e759713ce1fdad30c14ea22f4f",
@@ -227,9 +351,9 @@
           "path": "articles/4390b332993dcdd04db574837abf3032.json"
         },
         {
-          "id": "1bdab2d71a170eba8e84b87219654a17",
-          "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
-          "image": "https://image.cnbcfm.com/api/v1/image/108548786-1794383341968-gettyimages-2303986643-AFP_D6ZC9WF.jpeg?v=1794383419&w=1920&h=1080",
+          "id": "ba5300576de2458a9f09db7ac0807fb3",
+          "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+          "image": "https://image.cnbcfm.com/api/v1/image/108548918-1794403575214-gettyimages-2192346840-widak-nvidiasc250106_npmp9.jpeg?v=1794403600&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -237,10 +361,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-12T03:02:03.000Z",
+          "published_at": "2026-11-11T22:59:33.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1bdab2d71a170eba8e84b87219654a17.json"
+          "path": "articles/ba5300576de2458a9f09db7ac0807fb3.json"
         }
       ],
       "path": "articles/06fd26e759713ce1fdad30c14ea22f4f.json"
@@ -1005,6 +1129,22 @@
           "path": "articles/d2794b2ce52db5d78a80ba36af039eba.json"
         },
         {
+          "id": "9ce9a094b3b493700558949d54db1a8a",
+          "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T09:15:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9ce9a094b3b493700558949d54db1a8a.json"
+        },
+        {
           "id": "572145c90e731a2b6ef0fa1b6fe7f015",
           "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
           "image": "",
@@ -1035,22 +1175,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/09606d3aa4179ce79c1d6372ae719f89.json"
-        },
-        {
-          "id": "0581c0bb8b3b107137989fa405206d17",
-          "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-11T12:19:30.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0581c0bb8b3b107137989fa405206d17.json"
         }
       ],
       "path": "articles/b984ecc9e608286cb3786e501bfdb0f7.json"

@@ -1,15 +1,29 @@
 {
-  "updated_at": "2026-11-13T19:31:09.257Z",
+  "updated_at": "2026-11-13T19:45:51.079Z",
   "articles": {
-    "generated_at": "2026-11-13T19:31:09.257Z",
+    "generated_at": "2026-11-13T19:45:51.079Z",
     "topics": [
       {
         "id": "btc",
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 32,
+        "count": 33,
         "articles": [
+          {
+            "id": "7a7a3977251a9a965b577bba6e4eb62c",
+            "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-13T19:36:03.000Z",
+            "path": "articles/7a7a3977251a9a965b577bba6e4eb62c.json"
+          },
           {
             "id": "7fc2000da822fe322ca330a7bbbd13c8",
             "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
@@ -135,20 +149,6 @@
             "category": "crypto",
             "published_at": "2026-11-13T13:03:40.000Z",
             "path": "articles/983c71b5785fa97c160bac08ad073830.json"
-          },
-          {
-            "id": "dd51b6f1103b50a48c6df0dc8b54b08c",
-            "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-13T12:14:22.000Z",
-            "path": "articles/dd51b6f1103b50a48c6df0dc8b54b08c.json"
           }
         ]
       },
@@ -319,7 +319,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-11-13T19:26:09.000Z",
+            "published_at": "2026-11-13T19:42:52.000Z",
             "path": "articles/04ef55319a6553b91b7b82b2f595efa2.json"
           },
           {
@@ -1423,6 +1423,43 @@
         ]
       },
       {
+        "id": "mining",
+        "name": "Mining",
+        "type": "topic",
+        "icon": "",
+        "count": 2,
+        "articles": [
+          {
+            "id": "7a7a3977251a9a965b577bba6e4eb62c",
+            "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-13T19:36:03.000Z",
+            "path": "articles/7a7a3977251a9a965b577bba6e4eb62c.json"
+          },
+          {
+            "id": "ffda2848aa91ea963b3b193d3bd26d0d",
+            "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-11T16:58:57.000Z",
+            "path": "articles/ffda2848aa91ea963b3b193d3bd26d0d.json"
+          }
+        ]
+      },
+      {
         "id": "openai",
         "name": "OpenAI",
         "type": "company",
@@ -1820,29 +1857,6 @@
             "category": "crypto",
             "published_at": "2026-11-12T15:55:38.000Z",
             "path": "articles/0bd975701dac55c5dd445713ffa2dd1a.json"
-          }
-        ]
-      },
-      {
-        "id": "mining",
-        "name": "Mining",
-        "type": "topic",
-        "icon": "",
-        "count": 1,
-        "articles": [
-          {
-            "id": "ffda2848aa91ea963b3b193d3bd26d0d",
-            "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-11T16:58:57.000Z",
-            "path": "articles/ffda2848aa91ea963b3b193d3bd26d0d.json"
           }
         ]
       }

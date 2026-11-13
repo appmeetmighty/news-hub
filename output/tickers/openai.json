@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T10:01:33.345Z",
+  "updated_at": "2026-11-13T08:31:05.143Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "cf2bd0600d85a1dc3e12413fcb218743",
-      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
-      "description": "Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns.",
+      "id": "80c07c63798756aba077d7417278305b",
+      "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
+      "description": "Microsoft began a wider patch rollout Friday as the outage disrupted government email and Microsoft 365 connectors in ChatGPT and Claude.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71N7GC9GWKMNHVENCJ5D0PB/hi-how-to-launch-and-push-prediction-markets-moonpay.jpg",
+      "url": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79XNS0NYCVT2FWE48H7WKBH/hi-microsoft-windows-data-blackout-downs.jpg",
       "source": {
         "id": "cointelegraph",
         "name": "Cointelegraph",
@@ -23,63 +23,79 @@
       "category": "crypto",
       "entities": [
         {
+          "id": "msft",
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "type": "company",
+          "path": "tickers/msft.json",
+          "icon": "https://logo.clearbit.com/microsoft.com"
+        },
+        {
           "id": "openai",
           "symbol": "OPENAI",
           "name": "OpenAI",
           "type": "company",
           "path": "tickers/openai.json",
           "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
         }
       ],
-      "published_at": "2026-11-10T03:04:54.000Z",
+      "published_at": "2026-11-13T08:26:01.000Z",
       "related": [
         {
-          "id": "95de7052ffa254cc7086c92ad9602ee9",
-          "title": "ECB warns legislative delays could postpone digital euro launch",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74SWF2QW66F7C324VAAGKYJ/hi-european-union-moves-to-regulate-crypto-asset-market2-1.jpg",
+          "id": "4337bd6f78f3b8b0fe608f5533642beb",
+          "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550678-1794525756680-gettyimages-2304840767-l1090279_copy_dnqn1zyt.jpeg?v=1794525804&w=1920&h=1080",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-11-11T09:03:49.000Z",
+          "category": "stocks",
+          "published_at": "2026-11-13T08:05:49.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/95de7052ffa254cc7086c92ad9602ee9.json"
+          "path": "articles/4337bd6f78f3b8b0fe608f5533642beb.json"
         },
         {
-          "id": "eef7dc66f8179eb918e0935c01364004",
-          "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74RFWFE3SG34E7DP58XX9YE/16codemonitor-bitcoin-1.jpg",
+          "id": "f48574ed318426b28a23d20780669917",
+          "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png@png",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-11-11T08:55:31.000Z",
+          "published_at": "2026-11-11T12:55:18.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/eef7dc66f8179eb918e0935c01364004.json"
+          "path": "articles/f48574ed318426b28a23d20780669917.json"
         },
         {
-          "id": "7267e3b05092a552702829e1276d24ac",
-          "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74RCY03VD26P3VVM8SW3SGD/tracking-supervision-security-people.jpg",
+          "id": "f30f0012add15dd5afaba1d7f4090fa4",
+          "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&w=1920&h=1080",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-11-11T08:43:30.000Z",
+          "category": "stocks",
+          "published_at": "2026-11-13T02:43:26.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7267e3b05092a552702829e1276d24ac.json"
+          "breaking_score": 40,
+          "path": "articles/f30f0012add15dd5afaba1d7f4090fa4.json"
         },
         {
           "id": "78f7a83e386d3f9bd80908be49f28870",
@@ -92,15 +108,15 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-11-11T06:00:00.000Z",
+          "published_at": "2026-11-13T06:16:46.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
         },
         {
-          "id": "a6dee2998b7d815662f8ff6d861a99ff",
-          "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74J6ATXFTZ5SBS14E1HH1X2/password-fraud-hacker-scam3-4.jpg",
+          "id": "95a539d5a709877263c5f2c28fa61a87",
+          "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -108,13 +124,13 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-11-11T05:52:14.000Z",
+          "published_at": "2026-11-13T06:00:15.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/a6dee2998b7d815662f8ff6d861a99ff.json"
+          "breaking_score": 0,
+          "path": "articles/95a539d5a709877263c5f2c28fa61a87.json"
         }
       ],
-      "path": "articles/cf2bd0600d85a1dc3e12413fcb218743.json"
+      "path": "articles/80c07c63798756aba077d7417278305b.json"
     }
   ]
 }

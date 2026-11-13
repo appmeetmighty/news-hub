@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T08:15:50.704Z",
-  "total": 24,
+  "updated_at": "2026-11-13T08:31:05.155Z",
+  "total": 25,
   "entities": [
     {
       "id": "nvda",
@@ -16,7 +16,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 26
     },
     {
       "id": "btc",
@@ -97,6 +97,15 @@
       "count": 5
     },
     {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 3
+    },
+    {
       "id": "mining",
       "name": "Mining",
       "type": "topic",
@@ -104,12 +113,12 @@
       "count": 3
     },
     {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
       "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
+      "path": "tickers/anthropic.json",
+      "icon": "",
       "count": 2
     },
     {
@@ -138,6 +147,15 @@
       "path": "tickers/gemini.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "web3",
@@ -189,15 +207,6 @@
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 1
-    },
-    {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
       "count": 1
     }
   ]

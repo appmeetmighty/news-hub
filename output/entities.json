@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T09:01:23.528Z",
+  "updated_at": "2026-11-13T09:15:47.491Z",
   "total": 25,
   "entities": [
     {
@@ -12,19 +12,19 @@
       "count": 32
     },
     {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 26
-    },
-    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "count": 26
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
       "count": 25
     },
     {
@@ -56,6 +56,13 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 7
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "eth",
@@ -90,13 +97,6 @@
       "count": 5
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "msft",
       "symbol": "MSFT",
       "name": "Microsoft",
@@ -111,6 +111,15 @@
       "type": "topic",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
+      "count": 2
     },
     {
       "id": "anthropic",
@@ -198,15 +207,6 @@
       "type": "commodity",
       "path": "tickers/gold.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "blk",
-      "symbol": "BLK",
-      "name": "BlackRock",
-      "type": "company",
-      "path": "tickers/blk.json",
-      "icon": "https://logo.clearbit.com/blackrock.com",
       "count": 1
     }
   ]

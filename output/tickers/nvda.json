@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-13T17:31:13.182Z",
+  "updated_at": "2026-11-13T17:45:51.786Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
   "type": "company",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "35731170dda69a7723f7edd30423b101",
@@ -48,6 +48,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d7b48686d78b8bbfcbdb5e0196efd1e9.json"
+        },
+        {
+          "id": "046ab6156c554453820d06f8c3d0919d",
+          "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549909-1794487234004-gettyimages-2301328054-2s4a5670_mwefgpiu.jpeg?v=1794487258&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T17:01:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/046ab6156c554453820d06f8c3d0919d.json"
         },
         {
           "id": "2c1bc669c3cfb58f6619628450832299",
@@ -96,11 +112,41 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/01b5914b67b7d028a3e36eb690c3c506.json"
-        },
+        }
+      ],
+      "path": "articles/35731170dda69a7723f7edd30423b101.json"
+    },
+    {
+      "id": "046ab6156c554453820d06f8c3d0919d",
+      "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+      "description": "Advisors say investors should weigh their Nvidia exposure, time horizon and risk tolerance before reacting to the leadership change.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108549909-1794487234004-gettyimages-2301328054-2s4a5670_mwefgpiu.jpeg?v=1794487258&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
         {
-          "id": "09adf93bf3ef58cbe986421a327de059",
-          "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-          "image": "https://image.cnbcfm.com/api/v1/image/106921243-16280104992021-08-03t161859z_1971438431_rc2nxo9ys9jn_rtrmadp_0_new-york-cuomo.jpeg?v=1794534676&w=1920&h=1080",
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        }
+      ],
+      "published_at": "2026-11-13T17:01:26.000Z",
+      "related": [
+        {
+          "id": "2c1bc669c3cfb58f6619628450832299",
+          "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550021-1794492334597-gettyimages-2224669758-AFP_66W349F.jpeg?v=1794492360&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -108,13 +154,77 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-13T04:07:44.000Z",
+          "published_at": "2026-11-13T15:34:48.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/09adf93bf3ef58cbe986421a327de059.json"
+          "path": "articles/2c1bc669c3cfb58f6619628450832299.json"
+        },
+        {
+          "id": "967eeaf6267eecfe691d3c5ce1ea3e42",
+          "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-12T17:14:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/967eeaf6267eecfe691d3c5ce1ea3e42.json"
+        },
+        {
+          "id": "35731170dda69a7723f7edd30423b101",
+          "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+          "image": "https://image.cnbcfm.com/api/v1/image/108551028-1794578771117-gettyimages-2217128051-AFP_48PC9Y6.jpeg?v=1794578802&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T17:06:57.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/35731170dda69a7723f7edd30423b101.json"
+        },
+        {
+          "id": "d7b48686d78b8bbfcbdb5e0196efd1e9",
+          "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550377-1794507899960-gettyimages-2297605826-kbd14163_5adpm0ir.jpeg?v=1794507941&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T15:49:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d7b48686d78b8bbfcbdb5e0196efd1e9.json"
+        },
+        {
+          "id": "da2198108a107db684634a8e0544c064",
+          "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+          "image": "https://image.cnbcfm.com/api/v1/image/108306955-17787656602026-05-14t092019z_1259313703_rc2v8layxpwx_rtrmadp_0_china-usa.jpeg?v=1778765680&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T15:03:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/da2198108a107db684634a8e0544c064.json"
         }
       ],
-      "path": "articles/35731170dda69a7723f7edd30423b101.json"
+      "path": "articles/046ab6156c554453820d06f8c3d0919d.json"
     },
     {
       "id": "93e8574be7976ae6990e83cb0d04c6b2",
@@ -286,6 +396,22 @@
           "path": "articles/35731170dda69a7723f7edd30423b101.json"
         },
         {
+          "id": "046ab6156c554453820d06f8c3d0919d",
+          "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549909-1794487234004-gettyimages-2301328054-2s4a5670_mwefgpiu.jpeg?v=1794487258&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T17:01:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/046ab6156c554453820d06f8c3d0919d.json"
+        },
+        {
           "id": "2c1bc669c3cfb58f6619628450832299",
           "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
           "image": "https://image.cnbcfm.com/api/v1/image/108550021-1794492334597-gettyimages-2224669758-AFP_66W349F.jpeg?v=1794492360&w=1920&h=1080",
@@ -332,22 +458,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4252cc5dee9039e0e8bc962627b293da.json"
-        },
-        {
-          "id": "01b5914b67b7d028a3e36eb690c3c506",
-          "title": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know",
-          "image": "https://image.cnbcfm.com/api/v1/image/108211784-17604498902025-10-14t121921z_1221478754_rc2lega250jk_rtrmadp_0_amd-oracle-ai.jpeg?v=1760449905&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-13T08:27:07.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/01b5914b67b7d028a3e36eb690c3c506.json"
         }
       ],
       "path": "articles/d7b48686d78b8bbfcbdb5e0196efd1e9.json"
@@ -393,6 +503,22 @@
       ],
       "published_at": "2026-11-13T15:34:48.000Z",
       "related": [
+        {
+          "id": "046ab6156c554453820d06f8c3d0919d",
+          "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549909-1794487234004-gettyimages-2301328054-2s4a5670_mwefgpiu.jpeg?v=1794487258&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T17:01:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/046ab6156c554453820d06f8c3d0919d.json"
+        },
         {
           "id": "4252cc5dee9039e0e8bc962627b293da",
           "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
@@ -456,22 +582,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/da2198108a107db684634a8e0544c064.json"
-        },
-        {
-          "id": "09adf93bf3ef58cbe986421a327de059",
-          "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-          "image": "https://image.cnbcfm.com/api/v1/image/106921243-16280104992021-08-03t161859z_1971438431_rc2nxo9ys9jn_rtrmadp_0_new-york-cuomo.jpeg?v=1794534676&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-13T04:07:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/09adf93bf3ef58cbe986421a327de059.json"
         }
       ],
       "path": "articles/2c1bc669c3cfb58f6619628450832299.json"
@@ -536,6 +646,22 @@
           "path": "articles/35731170dda69a7723f7edd30423b101.json"
         },
         {
+          "id": "046ab6156c554453820d06f8c3d0919d",
+          "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549909-1794487234004-gettyimages-2301328054-2s4a5670_mwefgpiu.jpeg?v=1794487258&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T17:01:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/046ab6156c554453820d06f8c3d0919d.json"
+        },
+        {
           "id": "d7b48686d78b8bbfcbdb5e0196efd1e9",
           "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales ",
           "image": "https://image.cnbcfm.com/api/v1/image/108550377-1794507899960-gettyimages-2297605826-kbd14163_5adpm0ir.jpeg?v=1794507941&w=1920&h=1080",
@@ -582,22 +708,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/09adf93bf3ef58cbe986421a327de059.json"
-        },
-        {
-          "id": "4252cc5dee9039e0e8bc962627b293da",
-          "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
-          "image": "https://image.cnbcfm.com/api/v1/image/108551006-1794578299601-siteJensenPowellAlice.png?v=1794578400&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-13T14:01:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4252cc5dee9039e0e8bc962627b293da.json"
         }
       ],
       "path": "articles/da2198108a107db684634a8e0544c064.json"
@@ -652,6 +762,22 @@
           "path": "articles/2c1bc669c3cfb58f6619628450832299.json"
         },
         {
+          "id": "046ab6156c554453820d06f8c3d0919d",
+          "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549909-1794487234004-gettyimages-2301328054-2s4a5670_mwefgpiu.jpeg?v=1794487258&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T17:01:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/046ab6156c554453820d06f8c3d0919d.json"
+        },
+        {
           "id": "d7b48686d78b8bbfcbdb5e0196efd1e9",
           "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales ",
           "image": "https://image.cnbcfm.com/api/v1/image/108550377-1794507899960-gettyimages-2297605826-kbd14163_5adpm0ir.jpeg?v=1794507941&w=1920&h=1080",
@@ -698,22 +824,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ba5300576de2458a9f09db7ac0807fb3.json"
-        },
-        {
-          "id": "918660a92688d3e445ab9b4fae7d00f8",
-          "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-12T09:47:18.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/918660a92688d3e445ab9b4fae7d00f8.json"
         }
       ],
       "path": "articles/4252cc5dee9039e0e8bc962627b293da.json"
@@ -1106,6 +1216,22 @@
           "path": "articles/35731170dda69a7723f7edd30423b101.json"
         },
         {
+          "id": "046ab6156c554453820d06f8c3d0919d",
+          "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549909-1794487234004-gettyimages-2301328054-2s4a5670_mwefgpiu.jpeg?v=1794487258&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T17:01:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/046ab6156c554453820d06f8c3d0919d.json"
+        },
+        {
           "id": "d7b48686d78b8bbfcbdb5e0196efd1e9",
           "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales ",
           "image": "https://image.cnbcfm.com/api/v1/image/108550377-1794507899960-gettyimages-2297605826-kbd14163_5adpm0ir.jpeg?v=1794507941&w=1920&h=1080",
@@ -1152,22 +1278,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ba5300576de2458a9f09db7ac0807fb3.json"
-        },
-        {
-          "id": "2c1bc669c3cfb58f6619628450832299",
-          "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
-          "image": "https://image.cnbcfm.com/api/v1/image/108550021-1794492334597-gettyimages-2224669758-AFP_66W349F.jpeg?v=1794492360&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-13T15:34:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2c1bc669c3cfb58f6619628450832299.json"
         }
       ],
       "path": "articles/01b5914b67b7d028a3e36eb690c3c506.json"
@@ -1216,6 +1326,22 @@
           "path": "articles/35731170dda69a7723f7edd30423b101.json"
         },
         {
+          "id": "046ab6156c554453820d06f8c3d0919d",
+          "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549909-1794487234004-gettyimages-2301328054-2s4a5670_mwefgpiu.jpeg?v=1794487258&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T17:01:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/046ab6156c554453820d06f8c3d0919d.json"
+        },
+        {
           "id": "d7b48686d78b8bbfcbdb5e0196efd1e9",
           "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales ",
           "image": "https://image.cnbcfm.com/api/v1/image/108550377-1794507899960-gettyimages-2297605826-kbd14163_5adpm0ir.jpeg?v=1794507941&w=1920&h=1080",
@@ -1262,22 +1388,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/da2198108a107db684634a8e0544c064.json"
-        },
-        {
-          "id": "4252cc5dee9039e0e8bc962627b293da",
-          "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
-          "image": "https://image.cnbcfm.com/api/v1/image/108551006-1794578299601-siteJensenPowellAlice.png?v=1794578400&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-13T14:01:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4252cc5dee9039e0e8bc962627b293da.json"
         }
       ],
       "path": "articles/09adf93bf3ef58cbe986421a327de059.json"
@@ -1436,6 +1546,22 @@
           "path": "articles/35731170dda69a7723f7edd30423b101.json"
         },
         {
+          "id": "046ab6156c554453820d06f8c3d0919d",
+          "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549909-1794487234004-gettyimages-2301328054-2s4a5670_mwefgpiu.jpeg?v=1794487258&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T17:01:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/046ab6156c554453820d06f8c3d0919d.json"
+        },
+        {
           "id": "d7b48686d78b8bbfcbdb5e0196efd1e9",
           "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales ",
           "image": "https://image.cnbcfm.com/api/v1/image/108550377-1794507899960-gettyimages-2297605826-kbd14163_5adpm0ir.jpeg?v=1794507941&w=1920&h=1080",
@@ -1482,22 +1608,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/da2198108a107db684634a8e0544c064.json"
-        },
-        {
-          "id": "4252cc5dee9039e0e8bc962627b293da",
-          "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
-          "image": "https://image.cnbcfm.com/api/v1/image/108551006-1794578299601-siteJensenPowellAlice.png?v=1794578400&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-13T14:01:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4252cc5dee9039e0e8bc962627b293da.json"
         }
       ],
       "path": "articles/463c108979c6d3fa1ef9f2b1232ab882.json"
@@ -1584,6 +1694,22 @@
           "path": "articles/35731170dda69a7723f7edd30423b101.json"
         },
         {
+          "id": "046ab6156c554453820d06f8c3d0919d",
+          "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+          "image": "https://image.cnbcfm.com/api/v1/image/108549909-1794487234004-gettyimages-2301328054-2s4a5670_mwefgpiu.jpeg?v=1794487258&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T17:01:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/046ab6156c554453820d06f8c3d0919d.json"
+        },
+        {
           "id": "d7b48686d78b8bbfcbdb5e0196efd1e9",
           "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales ",
           "image": "https://image.cnbcfm.com/api/v1/image/108550377-1794507899960-gettyimages-2297605826-kbd14163_5adpm0ir.jpeg?v=1794507941&w=1920&h=1080",
@@ -1598,22 +1724,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d7b48686d78b8bbfcbdb5e0196efd1e9.json"
-        },
-        {
-          "id": "2c1bc669c3cfb58f6619628450832299",
-          "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
-          "image": "https://image.cnbcfm.com/api/v1/image/108550021-1794492334597-gettyimages-2224669758-AFP_66W349F.jpeg?v=1794492360&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-13T15:34:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2c1bc669c3cfb58f6619628450832299.json"
         }
       ],
       "path": "articles/ba5300576de2458a9f09db7ac0807fb3.json"

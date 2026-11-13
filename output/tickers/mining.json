@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-13T22:15:51.224Z",
+  "updated_at": "2026-11-13T22:31:08.401Z",
   "id": "mining",
   "name": "Mining",
   "type": "topic",
-  "total": 2,
+  "total": 1,
   "articles": [
     {
       "id": "7a7a3977251a9a965b577bba6e4eb62c",
@@ -39,22 +39,6 @@
       "published_at": "2026-11-13T19:36:03.000Z",
       "related": [
         {
-          "id": "ffda2848aa91ea963b3b193d3bd26d0d",
-          "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-11T16:58:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ffda2848aa91ea963b3b193d3bd26d0d.json"
-        },
-        {
           "id": "bbf6a88a05b7fa032e3032a66b318b81",
           "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/jp-morgan-jamie-dimon-decrypt-style-01-gID_7.png@png",
@@ -117,125 +101,25 @@
           "reading_time_minutes": 1,
           "breaking_score": 5,
           "path": "articles/bbd38ab79ae9b6619739030c250f369b.json"
+        },
+        {
+          "id": "9ab49fc6e18244598d1a65091aded387",
+          "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-13T06:03:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9ab49fc6e18244598d1a65091aded387.json"
         }
       ],
       "path": "articles/7a7a3977251a9a965b577bba6e4eb62c.json"
-    },
-    {
-      "id": "ffda2848aa91ea963b3b193d3bd26d0d",
-      "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
-      "description": "Three bugs—spanning denial-of-service and privacy issues rather than coin theft—have all been patched, with the most serious capable of halting a miner’s ability to build new blocks.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "btc",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "type": "crypto",
-          "path": "tickers/btc.json",
-          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
-        },
-        {
-          "id": "mining",
-          "name": "Mining",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-11-11T16:58:57.000Z",
-      "related": [
-        {
-          "id": "7a7a3977251a9a965b577bba6e4eb62c",
-          "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-13T19:36:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7a7a3977251a9a965b577bba6e4eb62c.json"
-        },
-        {
-          "id": "bbf6a88a05b7fa032e3032a66b318b81",
-          "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/jp-morgan-jamie-dimon-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-13T20:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bbf6a88a05b7fa032e3032a66b318b81.json"
-        },
-        {
-          "id": "00659bb53eac4ef6140c0e2461df5492",
-          "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-13T18:36:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/00659bb53eac4ef6140c0e2461df5492.json"
-        },
-        {
-          "id": "422214c6c2da314bf44bc955bba1a26a",
-          "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-13T17:22:54.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 55,
-          "path": "articles/422214c6c2da314bf44bc955bba1a26a.json"
-        },
-        {
-          "id": "bbd38ab79ae9b6619739030c250f369b",
-          "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-13T11:20:44.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 5,
-          "path": "articles/bbd38ab79ae9b6619739030c250f369b.json"
-        }
-      ],
-      "path": "articles/ffda2848aa91ea963b3b193d3bd26d0d.json"
     }
   ]
 }

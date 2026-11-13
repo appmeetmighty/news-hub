@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:01:18.865Z",
+  "updated_at": "2026-11-13T22:15:51.229Z",
   "total": 29,
   "entities": [
     {
@@ -12,19 +12,19 @@
       "count": 35
     },
     {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 25
+    },
+    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 25
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 25
     },
     {
@@ -39,7 +39,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 15
     },
     {
       "id": "mstr",
@@ -74,13 +74,11 @@
       "count": 5
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 5
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "anthropic",
@@ -92,10 +90,12 @@
       "count": 4
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
     },
     {
@@ -106,20 +106,13 @@
       "count": 3
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 2
+      "count": 3
     },
     {
       "id": "v",
@@ -127,6 +120,22 @@
       "name": "Visa",
       "type": "company",
       "path": "tickers/v.json",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "ma",
+      "symbol": "MA",
+      "name": "Mastercard",
+      "type": "company",
+      "path": "tickers/ma.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -149,6 +158,13 @@
       "count": 2
     },
     {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "gs",
       "symbol": "GS",
       "name": "Goldman Sachs",
@@ -163,15 +179,6 @@
       "name": "JPMorgan",
       "type": "company",
       "path": "tickers/jpm.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "ma",
-      "symbol": "MA",
-      "name": "Mastercard",
-      "type": "company",
-      "path": "tickers/ma.json",
       "icon": "",
       "count": 1
     },
@@ -191,13 +198,6 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
-      "icon": "",
       "count": 1
     },
     {

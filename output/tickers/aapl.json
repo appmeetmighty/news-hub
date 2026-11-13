@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T15:45:51.018Z",
+  "updated_at": "2026-11-13T13:01:24.317Z",
   "id": "aapl",
   "symbol": "AAPL",
   "name": "Apple",
@@ -7,20 +7,20 @@
   "total": 1,
   "articles": [
     {
-      "id": "0bf8727c7aed366c7bb98611d72efe15",
-      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
-      "description": "Apple has not publicly confirmed the \"worse_query\" bug, which a researcher published days before its latest iOS security update.",
+      "id": "da2198108a107db684634a8e0544c064",
+      "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+      "description": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-apple-iphone-gID_7.png@png",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108548916-1794403429337-108548916-1794403365942-gettyimages-2299714787-UK_HUANG.jpg?v=1794403440&w=1920&h=1080",
       "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
       },
-      "category": "crypto",
+      "category": "stocks",
       "entities": [
         {
           "id": "aapl",
@@ -29,92 +29,108 @@
           "type": "company",
           "path": "tickers/aapl.json",
           "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
         }
       ],
-      "published_at": "2026-11-10T12:45:34.000Z",
+      "published_at": "2026-11-13T12:44:20.000Z",
       "related": [
         {
-          "id": "ee5e10569dbcf1ab55d530ef21206ff8",
-          "title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg@png",
+          "id": "2c1bc669c3cfb58f6619628450832299",
+          "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550021-1794492334597-gettyimages-2224669758-AFP_66W349F.jpeg?v=1794492360&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-11-12T14:44:39.000Z",
+          "category": "stocks",
+          "published_at": "2026-11-13T12:54:43.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/ee5e10569dbcf1ab55d530ef21206ff8.json"
+          "path": "articles/2c1bc669c3cfb58f6619628450832299.json"
         },
         {
-          "id": "55266ad19d01b8a59c7356c21d75c38e",
-          "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg@png",
+          "id": "d55e8506634026428da22a9882bb6f67",
+          "title": "I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550061-1794494192598-Arj_and_Jensen_NEw.jpg?v=1794494264&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-11-12T14:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/55266ad19d01b8a59c7356c21d75c38e.json"
-        },
-        {
-          "id": "ed08317da1b036215daec6920937f395",
-          "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-12T13:25:47.000Z",
+          "category": "stocks",
+          "published_at": "2026-11-13T12:46:12.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/ed08317da1b036215daec6920937f395.json"
+          "path": "articles/d55e8506634026428da22a9882bb6f67.json"
         },
         {
-          "id": "7103bca632b85f6772e260c35eb9b323",
-          "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/okx-decrypt-style-gID_7.jpg@png",
+          "id": "d7b48686d78b8bbfcbdb5e0196efd1e9",
+          "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales ",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550869-1794563986420-gettyimages-2301238404-1r5_0547_cjwarw7l.jpeg?v=1794564005&w=1920&h=1080",
           "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-11-12T13:06:24.000Z",
+          "category": "stocks",
+          "published_at": "2026-11-13T10:54:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/7103bca632b85f6772e260c35eb9b323.json"
+          "path": "articles/d7b48686d78b8bbfcbdb5e0196efd1e9.json"
         },
         {
-          "id": "0eaa1b13987bbc376cf512fd3fee3a55",
-          "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg",
+          "id": "73eae021949da79ad001057df9a21660",
+          "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+          "image": "https://image.cnbcfm.com/api/v1/image/108547468-1794318020652-gettyimages-2303986898-AFP_D6ZC9G6.jpeg?v=1794530723&w=1920&h=1080",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-11-12T12:21:43.000Z",
+          "category": "stocks",
+          "published_at": "2026-11-13T07:15:01.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/0eaa1b13987bbc376cf512fd3fee3a55.json"
+          "path": "articles/73eae021949da79ad001057df9a21660.json"
+        },
+        {
+          "id": "09adf93bf3ef58cbe986421a327de059",
+          "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+          "image": "https://image.cnbcfm.com/api/v1/image/106921243-16280104992021-08-03t161859z_1971438431_rc2nxo9ys9jn_rtrmadp_0_new-york-cuomo.jpeg?v=1794534676&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-13T04:07:44.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/09adf93bf3ef58cbe986421a327de059.json"
         }
       ],
-      "path": "articles/0bf8727c7aed366c7bb98611d72efe15.json"
+      "path": "articles/da2198108a107db684634a8e0544c064.json"
     }
   ]
 }

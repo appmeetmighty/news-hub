@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-13T13:31:07.924Z",
+  "updated_at": "2026-11-13T13:45:50.817Z",
   "total": 27,
   "entities": [
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 30
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -12,20 +21,11 @@
       "count": 29
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 29
-    },
-    {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 25
     },
     {
       "id": "regulation",
@@ -39,7 +39,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 13
+      "count": 12
     },
     {
       "id": "stablecoin",
@@ -56,13 +56,6 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 7
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 6
     },
     {
       "id": "eth",
@@ -87,6 +80,13 @@
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 5
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 5
     },
     {

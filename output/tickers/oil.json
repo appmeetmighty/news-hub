@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T05:45:47.547Z",
+  "updated_at": "2026-11-13T09:46:10.092Z",
   "id": "oil",
   "symbol": "OIL",
   "name": "Oil",
@@ -7,21 +7,37 @@
   "total": 1,
   "articles": [
     {
-      "id": "e5887ef1d9da23c695422fa99c2e5bc8",
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-      "description": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+      "id": "1b90dcb58b93b0549f984b454e8541cc",
+      "title": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
+      "description": "Bitcoin fell below its 200-week moving average as the Dollar Index held above 103, while gold struggled to recover and oil prices rebounded.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1794275799&w=1920&h=1080",
+      "breaking_score": 25,
+      "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+      "image": "",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "gold",
+          "symbol": "GOLD",
+          "name": "Gold",
+          "type": "commodity",
+          "path": "tickers/gold.json",
+          "icon": ""
+        },
         {
           "id": "oil",
           "symbol": "OIL",
@@ -31,90 +47,90 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-11-13T00:01:19.000Z",
+      "published_at": "2026-11-13T09:16:58.000Z",
       "related": [
         {
-          "id": "917f9632539c2c5b067ec7950732f1f5",
-          "title": "Trump says ‘we don’t need a deal with Iran’",
-          "image": "https://image.cnbcfm.com/api/v1/image/108505564-1793647809750-gettyimages-2303172099-1r1_3097_hdo4pans.jpeg?v=1793727961&w=1920&h=1080",
+          "id": "76aa064e4fe3e11c0f52157d83836b2f",
+          "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-12T20:34:31.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-13T03:37:00.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/917f9632539c2c5b067ec7950732f1f5.json"
+          "breaking_score": 20,
+          "path": "articles/76aa064e4fe3e11c0f52157d83836b2f.json"
         },
         {
-          "id": "f30f0012add15dd5afaba1d7f4090fa4",
-          "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-          "image": "https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&w=1920&h=1080",
+          "id": "9ce9a094b3b493700558949d54db1a8a",
+          "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-13T02:43:26.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-12T09:15:04.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 40,
-          "path": "articles/f30f0012add15dd5afaba1d7f4090fa4.json"
+          "breaking_score": 20,
+          "path": "articles/9ce9a094b3b493700558949d54db1a8a.json"
         },
         {
-          "id": "4fc90077c30b6b2335a5429b908d18df",
-          "title": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
-          "image": "https://image.cnbcfm.com/api/v1/image/108549797-1794473558680-gettyimages-2300707653-261019_KBMW_PHT102.jpeg?v=1794473568&w=1920&h=1080",
+          "id": "a1b6f01507d2a87f3baf4562b35e8a25",
+          "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7A1D62SAT9TKTBQGBY89B4X/article-covers-256285-traders-bitcoin-still-due-next-leg-lower-targeting-46k-btc-price-960x640.webp",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-12T21:16:37.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-13T09:39:05.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4fc90077c30b6b2335a5429b908d18df.json"
+          "path": "articles/a1b6f01507d2a87f3baf4562b35e8a25.json"
         },
         {
-          "id": "380e54d16656a6635c48f0eff9fc2aba",
-          "title": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
-          "image": "https://image.cnbcfm.com/api/v1/image/108550396-1794509575881-gettyimages-2294603013-kbd75931_thplpp4l.jpeg?v=1794509636&w=1920&h=1080",
+          "id": "9ab49fc6e18244598d1a65091aded387",
+          "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-12T20:03:57.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-13T06:03:41.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/380e54d16656a6635c48f0eff9fc2aba.json"
+          "path": "articles/9ab49fc6e18244598d1a65091aded387.json"
         },
         {
-          "id": "5fc49feaa4e7f711ba78acd40fb63814",
-          "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
-          "image": "https://image.cnbcfm.com/api/v1/image/108548247-1794331010210-gettyimages-2282051722-090a1283_jnaj.jpeg?v=1794331027&w=1920&h=1080",
+          "id": "95a539d5a709877263c5f2c28fa61a87",
+          "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-11T23:57:38.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-13T06:00:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/5fc49feaa4e7f711ba78acd40fb63814.json"
+          "path": "articles/95a539d5a709877263c5f2c28fa61a87.json"
         }
       ],
-      "path": "articles/e5887ef1d9da23c695422fa99c2e5bc8.json"
+      "path": "articles/1b90dcb58b93b0549f984b454e8541cc.json"
     }
   ]
 }

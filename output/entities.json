@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T15:45:47.723Z",
+  "updated_at": "2026-11-14T16:01:17.190Z",
   "total": 28,
   "entities": [
     {
@@ -12,6 +12,15 @@
       "count": 37
     },
     {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 24
+    },
+    {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
@@ -19,20 +28,11 @@
       "count": 24
     },
     {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 23
-    },
-    {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 16
+      "count": 17
     },
     {
       "id": "regulation",
@@ -40,6 +40,13 @@
       "type": "topic",
       "icon": "",
       "count": 14
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "blockchain",
@@ -81,13 +88,6 @@
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
       "icon": "",
       "count": 4
     },

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T16:01:20.647Z",
-  "total": 32,
+  "updated_at": "2026-11-15T16:15:55.218Z",
+  "total": 34,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 37
+      "count": 36
     },
     {
       "id": "crypto",
@@ -51,18 +51,18 @@
       "count": 7
     },
     {
-      "id": "etf",
-      "name": "ETF",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
       "count": 6
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
+      "id": "etf",
+      "name": "ETF",
       "type": "topic",
       "icon": "",
-      "count": 5
+      "count": 6
     },
     {
       "id": "stablecoin",
@@ -88,6 +88,15 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 4
+    },
+    {
+      "id": "v",
+      "symbol": "V",
+      "name": "Visa",
+      "type": "company",
+      "path": "tickers/v.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "defi",
@@ -140,6 +149,15 @@
       "count": 3
     },
     {
+      "id": "ma",
+      "symbol": "MA",
+      "name": "Mastercard",
+      "type": "company",
+      "path": "tickers/ma.json",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "spacex",
       "symbol": "SPACEX",
       "name": "SpaceX",
@@ -167,13 +185,22 @@
       "count": 2
     },
     {
-      "id": "v",
-      "symbol": "V",
-      "name": "Visa",
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
       "type": "company",
-      "path": "tickers/v.json",
+      "path": "tickers/gs.json",
       "icon": "",
-      "count": 2
+      "count": 1
+    },
+    {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
+      "icon": "",
+      "count": 1
     },
     {
       "id": "silver",
@@ -225,15 +252,6 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 1
-    },
-    {
-      "id": "ma",
-      "symbol": "MA",
-      "name": "Mastercard",
-      "type": "company",
-      "path": "tickers/ma.json",
-      "icon": "",
       "count": 1
     },
     {

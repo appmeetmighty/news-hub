@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T08:15:58.653Z",
+  "updated_at": "2026-11-16T08:31:13.491Z",
   "total": 33,
   "entities": [
     {
@@ -18,7 +18,7 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 25
+      "count": 24
     },
     {
       "id": "crypto",
@@ -42,6 +42,13 @@
       "count": 15
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 7
+    },
+    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
@@ -53,13 +60,6 @@
     {
       "id": "blockchain",
       "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
       "type": "topic",
       "icon": "",
       "count": 6
@@ -88,6 +88,24 @@
       "count": 5
     },
     {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 4
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 4
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -104,22 +122,13 @@
       "count": 3
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 3
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 3
+      "id": "gold",
+      "symbol": "GOLD",
+      "name": "Gold",
+      "type": "commodity",
+      "path": "tickers/gold.json",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "ma",
@@ -269,15 +278,6 @@
       "name": "AMD",
       "type": "company",
       "path": "tickers/amd.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "gold",
-      "symbol": "GOLD",
-      "name": "Gold",
-      "type": "commodity",
-      "path": "tickers/gold.json",
       "icon": "",
       "count": 1
     }

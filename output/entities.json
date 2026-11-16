@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T08:45:58.656Z",
+  "updated_at": "2026-11-16T09:01:37.806Z",
   "total": 33,
   "entities": [
     {
@@ -39,7 +39,14 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 15
+      "count": 14
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "etf",
@@ -56,13 +63,6 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 7
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 6
     },
     {
       "id": "mining",
@@ -97,13 +97,22 @@
       "count": 4
     },
     {
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 4
+      "count": 3
     },
     {
       "id": "defi",
@@ -260,15 +269,6 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
       "icon": "",
       "count": 1
     },

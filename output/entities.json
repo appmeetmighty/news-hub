@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:45:53.295Z",
+  "updated_at": "2026-11-16T19:01:21.546Z",
   "total": 33,
   "entities": [
     {
@@ -9,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 33
+      "count": 32
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 25
     },
     {
       "id": "nvda",
@@ -28,18 +35,11 @@
       "count": 25
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 24
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 11
+      "count": 12
     },
     {
       "id": "sol",
@@ -58,6 +58,15 @@
       "count": 9
     },
     {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
@@ -65,15 +74,6 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 6
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "anthropic",
@@ -87,13 +87,6 @@
     {
       "id": "stablecoin",
       "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "mining",
-      "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 4
@@ -126,6 +119,13 @@
     {
       "id": "etf",
       "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 3

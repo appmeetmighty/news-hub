@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-16T12:01:21.643Z",
+  "updated_at": "2026-11-16T12:15:51.032Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "5dd820905ce73086affe03d94fbf6285",
@@ -36,7 +36,7 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-11-16T10:00:01.000Z",
+      "published_at": "2026-11-16T12:13:47.000Z",
       "related": [
         {
           "id": "fc3b46569196a260a474d3d0fc629a8a",
@@ -49,7 +49,7 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-15T19:58:21.000Z",
+          "published_at": "2026-11-16T12:14:46.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/fc3b46569196a260a474d3d0fc629a8a.json"
@@ -97,10 +97,116 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-16T10:31:09.000Z",
+          "published_at": "2026-11-16T12:15:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/fdc77f3c8d9532e032e880387fd5908a.json"
+        },
+        {
+          "id": "e4f388d37e51f4b8cc434bd3a843b453",
+          "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+          "image": "https://image.cnbcfm.com/api/v1/image/108180544-1754063406073-IMG_8872.jpg?v=1754063887&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-16T12:13:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e4f388d37e51f4b8cc434bd3a843b453.json"
+        }
+      ],
+      "path": "articles/5dd820905ce73086affe03d94fbf6285.json"
+    },
+    {
+      "id": "e4f388d37e51f4b8cc434bd3a843b453",
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "description": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108180544-1754063406073-IMG_8872.jpg?v=1754063887&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "etf",
+          "name": "ETF",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-16T12:13:23.000Z",
+      "related": [
+        {
+          "id": "fdc77f3c8d9532e032e880387fd5908a",
+          "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
+          "image": "https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-16T12:15:21.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fdc77f3c8d9532e032e880387fd5908a.json"
+        },
+        {
+          "id": "fc3b46569196a260a474d3d0fc629a8a",
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+          "image": "https://image.cnbcfm.com/api/v1/image/108358099-1788382594543-gettyimages-2292668728-AFP_C77N49R.jpeg?v=1788382709&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-16T12:14:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fc3b46569196a260a474d3d0fc629a8a.json"
+        },
+        {
+          "id": "43ed46a04f59e44925d7e7571eae7f0c",
+          "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+          "image": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-15T18:10:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/43ed46a04f59e44925d7e7571eae7f0c.json"
         },
         {
           "id": "b82114af7467c3ae6e151a7dfa20e365",
@@ -117,9 +223,147 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/b82114af7467c3ae6e151a7dfa20e365.json"
+        },
+        {
+          "id": "a220594d2a40020aa7d0367638ad3833",
+          "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+          "image": "https://image.cnbcfm.com/api/v1/image/108330861-1783348415168-gettyimages-2284894623-0d6a8687_71g2vgle.jpeg?v=1794673296&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-14T17:46:06.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a220594d2a40020aa7d0367638ad3833.json"
         }
       ],
-      "path": "articles/5dd820905ce73086affe03d94fbf6285.json"
+      "path": "articles/e4f388d37e51f4b8cc434bd3a843b453.json"
+    },
+    {
+      "id": "230d6a455119e82e2a0819bb50f86452",
+      "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
+      "description": "The price action runs counter to a crypto-market view that a cooling AI trade would trigger a rotation into digital assets and spark a rally.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
+      "image": "",
+      "source": {
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "type": "topic",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-16T12:09:00.000Z",
+      "related": [
+        {
+          "id": "8a541f3c37d5b1a6112bf05b22101545",
+          "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-16T11:03:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8a541f3c37d5b1a6112bf05b22101545.json"
+        },
+        {
+          "id": "1f2e75327b361ad89c90d9c0b26c6ad0",
+          "title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-16T09:34:18.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1f2e75327b361ad89c90d9c0b26c6ad0.json"
+        },
+        {
+          "id": "401a8934cc9e04936e8d70fcd637daef",
+          "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-16T07:51:15.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/401a8934cc9e04936e8d70fcd637daef.json"
+        },
+        {
+          "id": "c6c8d245b419bca38312f91a45b0b433",
+          "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-15T07:00:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c6c8d245b419bca38312f91a45b0b433.json"
+        },
+        {
+          "id": "4c13227ad7d723070ffee3eb62e4ac45",
+          "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-14T16:33:29.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/4c13227ad7d723070ffee3eb62e4ac45.json"
+        }
+      ],
+      "path": "articles/230d6a455119e82e2a0819bb50f86452.json"
     },
     {
       "id": "a52dc34ac8cf1cdf27e02d33505aacb9",
@@ -147,38 +391,6 @@
       "published_at": "2026-11-16T09:35:14.000Z",
       "related": [
         {
-          "id": "d8b83bc9685222574c6a7ecfb3720b04",
-          "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
-          "image": "https://image.cnbcfm.com/api/v1/image/108551763-1794812406412-gettyimages-2189500935-20090101241215-99-338372.jpeg?v=1794812483&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-16T10:44:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d8b83bc9685222574c6a7ecfb3720b04.json"
-        },
-        {
-          "id": "bde4c1dd60e0ecd44057b65ad6e049f1",
-          "title": "Could Budapest be the next digital nomad hotspot?",
-          "image": "https://image.cnbcfm.com/api/v1/image/108380938-1791539020604-coworking-3372e.jpg?v=1791539620&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-16T10:33:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bde4c1dd60e0ecd44057b65ad6e049f1.json"
-        },
-        {
           "id": "fdc77f3c8d9532e032e880387fd5908a",
           "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
           "image": "https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&w=1920&h=1080",
@@ -189,10 +401,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-16T10:31:09.000Z",
+          "published_at": "2026-11-16T12:15:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/fdc77f3c8d9532e032e880387fd5908a.json"
+        },
+        {
+          "id": "fc3b46569196a260a474d3d0fc629a8a",
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+          "image": "https://image.cnbcfm.com/api/v1/image/108358099-1788382594543-gettyimages-2292668728-AFP_C77N49R.jpeg?v=1788382709&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-16T12:14:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fc3b46569196a260a474d3d0fc629a8a.json"
         },
         {
           "id": "5dd820905ce73086affe03d94fbf6285",
@@ -205,15 +433,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-16T10:00:01.000Z",
+          "published_at": "2026-11-16T12:13:47.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/5dd820905ce73086affe03d94fbf6285.json"
         },
         {
-          "id": "9141f91635ff4462d2acd3d66200924d",
-          "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
-          "image": "https://image.cnbcfm.com/api/v1/image/108533958-1793988889190-gettyimages-2303346838-UEDA_IMF.jpeg?v=1793988928&w=1920&h=1080",
+          "id": "e4f388d37e51f4b8cc434bd3a843b453",
+          "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+          "image": "https://image.cnbcfm.com/api/v1/image/108180544-1754063406073-IMG_8872.jpg?v=1754063887&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -221,10 +449,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-16T09:14:46.000Z",
+          "published_at": "2026-11-16T12:13:23.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9141f91635ff4462d2acd3d66200924d.json"
+          "path": "articles/e4f388d37e51f4b8cc434bd3a843b453.json"
+        },
+        {
+          "id": "2d010e42342e262e6c23b715942d22c2",
+          "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
+          "image": "https://image.cnbcfm.com/api/v1/image/108335254-1784117182376-AvrRnmdg.jpg?v=1784127953&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-16T12:10:17.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2d010e42342e262e6c23b715942d22c2.json"
         }
       ],
       "path": "articles/a52dc34ac8cf1cdf27e02d33505aacb9.json"
@@ -271,38 +515,6 @@
           "path": "articles/303dab90ac3b0f36b7bf163dc7241a5a.json"
         },
         {
-          "id": "d8b83bc9685222574c6a7ecfb3720b04",
-          "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
-          "image": "https://image.cnbcfm.com/api/v1/image/108551763-1794812406412-gettyimages-2189500935-20090101241215-99-338372.jpeg?v=1794812483&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-16T10:44:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d8b83bc9685222574c6a7ecfb3720b04.json"
-        },
-        {
-          "id": "bde4c1dd60e0ecd44057b65ad6e049f1",
-          "title": "Could Budapest be the next digital nomad hotspot?",
-          "image": "https://image.cnbcfm.com/api/v1/image/108380938-1791539020604-coworking-3372e.jpg?v=1791539620&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-16T10:33:31.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bde4c1dd60e0ecd44057b65ad6e049f1.json"
-        },
-        {
           "id": "fdc77f3c8d9532e032e880387fd5908a",
           "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
           "image": "https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&w=1920&h=1080",
@@ -313,10 +525,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-16T10:31:09.000Z",
+          "published_at": "2026-11-16T12:15:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/fdc77f3c8d9532e032e880387fd5908a.json"
+        },
+        {
+          "id": "fc3b46569196a260a474d3d0fc629a8a",
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+          "image": "https://image.cnbcfm.com/api/v1/image/108358099-1788382594543-gettyimages-2292668728-AFP_C77N49R.jpeg?v=1788382709&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-16T12:14:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fc3b46569196a260a474d3d0fc629a8a.json"
         },
         {
           "id": "5dd820905ce73086affe03d94fbf6285",
@@ -329,10 +557,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-16T10:00:01.000Z",
+          "published_at": "2026-11-16T12:13:47.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/5dd820905ce73086affe03d94fbf6285.json"
+        },
+        {
+          "id": "e4f388d37e51f4b8cc434bd3a843b453",
+          "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+          "image": "https://image.cnbcfm.com/api/v1/image/108180544-1754063406073-IMG_8872.jpg?v=1754063887&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-16T12:13:23.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e4f388d37e51f4b8cc434bd3a843b453.json"
         }
       ],
       "path": "articles/9141f91635ff4462d2acd3d66200924d.json"
@@ -623,22 +867,6 @@
       "published_at": "2026-11-15T12:00:01.000Z",
       "related": [
         {
-          "id": "93e8574be7976ae6990e83cb0d04c6b2",
-          "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-13T16:01:27.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 55,
-          "path": "articles/93e8574be7976ae6990e83cb0d04c6b2.json"
-        },
-        {
           "id": "8df27a1e6d663ebfed4ce25cd5310e24",
           "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png@png",
@@ -681,15 +909,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-14T15:50:43.000Z",
+          "published_at": "2026-11-16T12:13:23.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e4f388d37e51f4b8cc434bd3a843b453.json"
         },
         {
-          "id": "d8b83bc9685222574c6a7ecfb3720b04",
-          "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
-          "image": "https://image.cnbcfm.com/api/v1/image/108551763-1794812406412-gettyimages-2189500935-20090101241215-99-338372.jpeg?v=1794812483&w=1920&h=1080",
+          "id": "fdc77f3c8d9532e032e880387fd5908a",
+          "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
+          "image": "https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -697,10 +925,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-16T10:44:02.000Z",
+          "published_at": "2026-11-16T12:15:21.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/d8b83bc9685222574c6a7ecfb3720b04.json"
+          "path": "articles/fdc77f3c8d9532e032e880387fd5908a.json"
+        },
+        {
+          "id": "fc3b46569196a260a474d3d0fc629a8a",
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+          "image": "https://image.cnbcfm.com/api/v1/image/108358099-1788382594543-gettyimages-2292668728-AFP_C77N49R.jpeg?v=1788382709&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-16T12:14:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/fc3b46569196a260a474d3d0fc629a8a.json"
         }
       ],
       "path": "articles/dfb87a159db0a0900c1b7e4f88a848d3.json"
@@ -935,20 +1179,20 @@
           "path": "articles/7fc2000da822fe322ca330a7bbbd13c8.json"
         },
         {
-          "id": "93e8574be7976ae6990e83cb0d04c6b2",
-          "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
-          "image": "",
+          "id": "dfb87a159db0a0900c1b7e4f88a848d3",
+          "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+          "image": "https://image.cnbcfm.com/api/v1/image/108551525-1794626973698-gettyimages-2297195304-AFP_C9PF6JT.jpeg?v=1794627031&w=1920&h=1080",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
           },
-          "category": "crypto",
-          "published_at": "2026-11-13T16:01:27.000Z",
+          "category": "stocks",
+          "published_at": "2026-11-15T12:00:01.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 55,
-          "path": "articles/93e8574be7976ae6990e83cb0d04c6b2.json"
+          "breaking_score": 0,
+          "path": "articles/dfb87a159db0a0900c1b7e4f88a848d3.json"
         }
       ],
       "path": "articles/8df27a1e6d663ebfed4ce25cd5310e24.json"
@@ -1057,8 +1301,8 @@
           "path": "articles/3d44520ac59c0814ab226f56573f4faf.json"
         },
         {
-          "id": "75fa9f1bae774ee1a3b0d58a3da7860b",
-          "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+          "id": "230d6a455119e82e2a0819bb50f86452",
+          "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -1067,135 +1311,13 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-11-16T11:47:12.000Z",
+          "published_at": "2026-11-16T12:09:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/75fa9f1bae774ee1a3b0d58a3da7860b.json"
+          "path": "articles/230d6a455119e82e2a0819bb50f86452.json"
         }
       ],
       "path": "articles/e43b31d9dd37e33990dbb89a563f13c0.json"
-    },
-    {
-      "id": "e4f388d37e51f4b8cc434bd3a843b453",
-      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "description": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108180544-1754063406073-IMG_8872.jpg?v=1754063887&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "nvda",
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "type": "company",
-          "path": "tickers/nvda.json",
-          "icon": "https://logo.clearbit.com/nvidia.com"
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        },
-        {
-          "id": "etf",
-          "name": "ETF",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-11-14T15:50:43.000Z",
-      "related": [
-        {
-          "id": "fdc77f3c8d9532e032e880387fd5908a",
-          "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
-          "image": "https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-16T10:31:09.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fdc77f3c8d9532e032e880387fd5908a.json"
-        },
-        {
-          "id": "fc3b46569196a260a474d3d0fc629a8a",
-          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358099-1788382594543-gettyimages-2292668728-AFP_C77N49R.jpeg?v=1788382709&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-15T19:58:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/fc3b46569196a260a474d3d0fc629a8a.json"
-        },
-        {
-          "id": "43ed46a04f59e44925d7e7571eae7f0c",
-          "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-          "image": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-15T18:10:18.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/43ed46a04f59e44925d7e7571eae7f0c.json"
-        },
-        {
-          "id": "b82114af7467c3ae6e151a7dfa20e365",
-          "title": "What I know and respect about Colette Kress, the person now leading Nvidia",
-          "image": "https://image.cnbcfm.com/api/v1/image/108447197-1792682617949-gettyimages-2301325199-3h4a6821_7uqxvgux.jpeg?v=1792682661&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-15T17:14:17.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b82114af7467c3ae6e151a7dfa20e365.json"
-        },
-        {
-          "id": "a220594d2a40020aa7d0367638ad3833",
-          "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-          "image": "https://image.cnbcfm.com/api/v1/image/108330861-1783348415168-gettyimages-2284894623-0d6a8687_71g2vgle.jpeg?v=1794673296&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-14T17:46:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a220594d2a40020aa7d0367638ad3833.json"
-        }
-      ],
-      "path": "articles/e4f388d37e51f4b8cc434bd3a843b453.json"
     },
     {
       "id": "4d442b94987ce210a7509b7f7f9dc5a8",
@@ -1653,8 +1775,8 @@
           "path": "articles/37e7160173569a263b89f2003bd0b02c.json"
         },
         {
-          "id": "8a541f3c37d5b1a6112bf05b22101545",
-          "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+          "id": "230d6a455119e82e2a0819bb50f86452",
+          "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -1663,10 +1785,10 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-11-16T11:03:14.000Z",
+          "published_at": "2026-11-16T12:09:00.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/8a541f3c37d5b1a6112bf05b22101545.json"
+          "path": "articles/230d6a455119e82e2a0819bb50f86452.json"
         }
       ],
       "path": "articles/0bd67e36934d4c91889042189c0c8176.json"

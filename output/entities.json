@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T13:15:50.254Z",
-  "total": 33,
+  "updated_at": "2026-11-16T13:31:10.251Z",
+  "total": 34,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 32
+      "count": 34
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 27
     },
     {
       "id": "nvda",
@@ -18,13 +25,6 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 26
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
       "count": 26
     },
     {
@@ -56,6 +56,13 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 6
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "mining",
@@ -95,13 +102,6 @@
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
-      "icon": "",
-      "count": 4
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
       "icon": "",
       "count": 4
     },
@@ -165,6 +165,15 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "bnb",
+      "symbol": "BNB",
+      "name": "BNB",
+      "type": "crypto",
+      "path": "tickers/bnb.json",
+      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
+      "count": 1
     },
     {
       "id": "web3",

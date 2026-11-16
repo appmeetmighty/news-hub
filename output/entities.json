@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T19:31:32.054Z",
-  "total": 33,
+  "updated_at": "2026-11-16T19:45:47.874Z",
+  "total": 32,
   "entities": [
     {
       "id": "btc",
@@ -10,15 +10,6 @@
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
       "count": 32
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 26
     },
     {
       "id": "ai",
@@ -32,7 +23,16 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 24
+      "count": 25
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 25
     },
     {
       "id": "regulation",
@@ -268,15 +268,6 @@
       "type": "company",
       "path": "tickers/blk.json",
       "icon": "https://logo.clearbit.com/blackrock.com",
-      "count": 1
-    },
-    {
-      "id": "amd",
-      "symbol": "AMD",
-      "name": "AMD",
-      "type": "company",
-      "path": "tickers/amd.json",
-      "icon": "",
       "count": 1
     }
   ]

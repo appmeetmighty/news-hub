@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T13:01:24.338Z",
+  "updated_at": "2026-11-16T13:15:50.254Z",
   "total": 33,
   "entities": [
     {
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 34
+      "count": 32
     },
     {
       "id": "nvda",
@@ -18,7 +18,7 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 27
+      "count": 26
     },
     {
       "id": "crypto",
@@ -46,7 +46,16 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 8
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 6
     },
     {
       "id": "mining",
@@ -78,15 +87,6 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 4
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 4
     },
     {
@@ -140,15 +140,6 @@
       "count": 3
     },
     {
-      "id": "anthropic",
-      "symbol": "ANTHROPIC",
-      "name": "Anthropic",
-      "type": "company",
-      "path": "tickers/anthropic.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
@@ -163,6 +154,15 @@
       "name": "Mastercard",
       "type": "company",
       "path": "tickers/ma.json",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "anthropic",
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "type": "company",
+      "path": "tickers/anthropic.json",
       "icon": "",
       "count": 2
     },

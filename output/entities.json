@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T17:31:09.434Z",
-  "total": 26,
+  "updated_at": "2026-11-17T17:45:49.730Z",
+  "total": 25,
   "entities": [
     {
       "id": "crypto",
@@ -10,12 +10,10 @@
       "count": 26
     },
     {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
       "count": 25
     },
     {
@@ -28,10 +26,12 @@
       "count": 25
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
       "count": 24
     },
     {
@@ -48,14 +48,14 @@
       "type": "crypto",
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 13
+      "count": 12
     },
     {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 10
+      "count": 9
     },
     {
       "id": "eth",
@@ -83,19 +83,19 @@
       "count": 6
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 4
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
       "count": 4
     },
     {
@@ -180,15 +180,6 @@
       "name": "Mining",
       "type": "topic",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "bnb",
-      "symbol": "BNB",
-      "name": "BNB",
-      "type": "crypto",
-      "path": "tickers/bnb.json",
-      "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
       "count": 1
     },
     {

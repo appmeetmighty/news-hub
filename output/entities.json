@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-17T12:45:49.005Z",
+  "updated_at": "2026-11-17T13:01:22.957Z",
   "total": 28,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 28
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,14 +16,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
+      "count": 28
     },
     {
-      "id": "crypto",
-      "name": "Crypto",
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 24
     },
     {
       "id": "nvda",
@@ -25,13 +32,6 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 24
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
       "count": 23
     },
     {
@@ -39,7 +39,16 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 13
+      "count": 14
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 10
     },
     {
       "id": "blockchain",
@@ -53,15 +62,6 @@
       "name": "ETF",
       "type": "topic",
       "icon": "",
-      "count": 9
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 9
     },
     {

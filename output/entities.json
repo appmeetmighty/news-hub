@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T05:31:06.880Z",
-  "total": 29,
+  "updated_at": "2026-11-17T05:45:47.908Z",
+  "total": 30,
   "entities": [
     {
       "id": "btc",
@@ -58,18 +58,18 @@
       "count": 8
     },
     {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
-      "icon": "",
-      "count": 5
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
       "icon": "",
       "count": 5
     },
@@ -140,6 +140,15 @@
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
       "count": 2
+    },
+    {
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
+      "count": 1
     },
     {
       "id": "bac",

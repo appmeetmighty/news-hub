@@ -1,11 +1,261 @@
 {
-  "updated_at": "2026-11-17T13:01:22.956Z",
+  "updated_at": "2026-11-17T13:15:52.876Z",
   "id": "anthropic",
   "symbol": "ANTHROPIC",
   "name": "Anthropic",
   "type": "company",
-  "total": 5,
+  "total": 6,
   "articles": [
+    {
+      "id": "837534bb63c89ee5f4babd07a4eb2164",
+      "title": "'Big Short' investor Steve Eisman to discuss Nvidia, Anthropic and AI bull on CNBC",
+      "description": "Steve Eisman is appearing on \"Squawk Box\" on Tuesday.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/105221557-IMG_7670.JPG?v=1695322238&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-17T13:13:16.000Z",
+      "related": [
+        {
+          "id": "112244c3dd4e8e210111bf9e65fde102",
+          "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
+          "image": "https://image.cnbcfm.com/api/v1/image/108552493-1794865655950-gettyimages-2305429284-anotherday38810689_s8drtdpo.jpeg?v=1794865742&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T13:11:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/112244c3dd4e8e210111bf9e65fde102.json"
+        },
+        {
+          "id": "9042dadb950862d21bfe681eaffde27a",
+          "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-16T20:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/9042dadb950862d21bfe681eaffde27a.json"
+        },
+        {
+          "id": "2afff9d24b822427cb3b0378d339cc80",
+          "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JHP4NCX2Y0XJ53GG2CQ9P5/article-covers-251323-bitcoin-market-enters-full-capitulation-price-dips-below-63k-1280x853.webp",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-16T16:26:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2afff9d24b822427cb3b0378d339cc80.json"
+        },
+        {
+          "id": "dca9aa1d996a6d393a6f40ac5e7e4b30",
+          "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108551696-1794795719884-gettyimages-2304259055-nokings-sf1017.jpeg?v=1794840889&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T07:07:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/dca9aa1d996a6d393a6f40ac5e7e4b30.json"
+        },
+        {
+          "id": "8823de81bca4e53b72cb163dd82f5b83",
+          "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108548911-1794851429961-108548911-1794403050475-gettyimages-2299100584-_04a7661_f6gzfowp.jpeg?v=1794851457&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-16T19:46:26.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8823de81bca4e53b72cb163dd82f5b83.json"
+        }
+      ],
+      "path": "articles/837534bb63c89ee5f4babd07a4eb2164.json"
+    },
+    {
+      "id": "112244c3dd4e8e210111bf9e65fde102",
+      "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
+      "description": "How the market set-up is more favorable for the Anthropic IPO than the lead-up to SpaceX's debut.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-earnings-anthropic-ipo-tech-rally.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108552493-1794865655950-gettyimages-2305429284-anotherday38810689_s8drtdpo.jpeg?v=1794865742&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-17T13:11:40.000Z",
+      "related": [
+        {
+          "id": "837534bb63c89ee5f4babd07a4eb2164",
+          "title": "'Big Short' investor Steve Eisman to discuss Nvidia, Anthropic and AI bull on CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/105221557-IMG_7670.JPG?v=1695322238&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T13:13:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/837534bb63c89ee5f4babd07a4eb2164.json"
+        },
+        {
+          "id": "9042dadb950862d21bfe681eaffde27a",
+          "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-16T20:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/9042dadb950862d21bfe681eaffde27a.json"
+        },
+        {
+          "id": "2afff9d24b822427cb3b0378d339cc80",
+          "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JHP4NCX2Y0XJ53GG2CQ9P5/article-covers-251323-bitcoin-market-enters-full-capitulation-price-dips-below-63k-1280x853.webp",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-16T16:26:52.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2afff9d24b822427cb3b0378d339cc80.json"
+        },
+        {
+          "id": "cf55d8df56f8adf384289ca34d6c896d",
+          "title": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550332-1794506199989-gettyimages-2304259048-nokings-sf1017.jpeg?v=1794506305&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T11:42:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cf55d8df56f8adf384289ca34d6c896d.json"
+        },
+        {
+          "id": "404e88ca347861074b650b9171e1f127",
+          "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
+          "image": "https://image.cnbcfm.com/api/v1/image/108551890-1794834210495-krishnaofficiallarge_1024.jpg?v=1794834245&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-16T20:44:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/404e88ca347861074b650b9171e1f127.json"
+        }
+      ],
+      "path": "articles/112244c3dd4e8e210111bf9e65fde102.json"
+    },
     {
       "id": "404e88ca347861074b650b9171e1f127",
       "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
@@ -34,9 +284,9 @@
       "published_at": "2026-11-16T20:44:24.000Z",
       "related": [
         {
-          "id": "90daba774589cbc6caa78de7f139ac95",
-          "title": "This Anthropic proxy play is getting traders' attention – here's where they see it going",
-          "image": "https://image.cnbcfm.com/api/v1/image/108550683-1794526893697-gettyimages-2304315192-ANTHROPIC_IPO.jpeg?v=1794527071&w=1920&h=1080",
+          "id": "112244c3dd4e8e210111bf9e65fde102",
+          "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
+          "image": "https://image.cnbcfm.com/api/v1/image/108552493-1794865655950-gettyimages-2305429284-anotherday38810689_s8drtdpo.jpeg?v=1794865742&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -44,10 +294,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-16T19:06:11.000Z",
+          "published_at": "2026-11-17T13:11:40.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/90daba774589cbc6caa78de7f139ac95.json"
+          "path": "articles/112244c3dd4e8e210111bf9e65fde102.json"
+        },
+        {
+          "id": "837534bb63c89ee5f4babd07a4eb2164",
+          "title": "'Big Short' investor Steve Eisman to discuss Nvidia, Anthropic and AI bull on CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/105221557-IMG_7670.JPG?v=1695322238&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T13:13:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/837534bb63c89ee5f4babd07a4eb2164.json"
         },
         {
           "id": "9042dadb950862d21bfe681eaffde27a",
@@ -96,22 +362,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/8df27a1e6d663ebfed4ce25cd5310e24.json"
-        },
-        {
-          "id": "d88aa5b5350058439452ef04cd534179",
-          "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
-          "image": "https://image.cnbcfm.com/api/v1/image/108552829-1794909651924-gettyimages-1243932387-AFP_32LB9D7.jpeg?v=1794909731&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-17T12:48:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d88aa5b5350058439452ef04cd534179.json"
         }
       ],
       "path": "articles/404e88ca347861074b650b9171e1f127.json"
@@ -160,6 +410,22 @@
       "published_at": "2026-11-16T20:36:03.000Z",
       "related": [
         {
+          "id": "837534bb63c89ee5f4babd07a4eb2164",
+          "title": "'Big Short' investor Steve Eisman to discuss Nvidia, Anthropic and AI bull on CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/105221557-IMG_7670.JPG?v=1695322238&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T13:13:16.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/837534bb63c89ee5f4babd07a4eb2164.json"
+        },
+        {
           "id": "2afff9d24b822427cb3b0378d339cc80",
           "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JHP4NCX2Y0XJ53GG2CQ9P5/article-covers-251323-bitcoin-market-enters-full-capitulation-price-dips-below-63k-1280x853.webp",
@@ -174,6 +440,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2afff9d24b822427cb3b0378d339cc80.json"
+        },
+        {
+          "id": "112244c3dd4e8e210111bf9e65fde102",
+          "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
+          "image": "https://image.cnbcfm.com/api/v1/image/108552493-1794865655950-gettyimages-2305429284-anotherday38810689_s8drtdpo.jpeg?v=1794865742&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T13:11:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/112244c3dd4e8e210111bf9e65fde102.json"
         },
         {
           "id": "48509db9f87353f36a75911ca4990075",
@@ -206,151 +488,9 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/479cce33df0d67c6133102a2f9f164c7.json"
-        },
-        {
-          "id": "99ac43d300967277bca62ddc37b26e24",
-          "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JZ53YRDRJQGKMN9M3767RB/hi-10-public-companies-that-quietly-turned-their-balance-sheets-into-bitcoin-treasuries.png",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-16T20:45:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/99ac43d300967277bca62ddc37b26e24.json"
-        },
-        {
-          "id": "a8e3e661cfe70144070e5aef439642f6",
-          "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-16T19:05:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a8e3e661cfe70144070e5aef439642f6.json"
         }
       ],
       "path": "articles/9042dadb950862d21bfe681eaffde27a.json"
-    },
-    {
-      "id": "90daba774589cbc6caa78de7f139ac95",
-      "title": "This Anthropic proxy play is getting traders' attention – here's where they see it going",
-      "description": "There are bullish signs surrounding the Anthropic IPO in the derivatives market.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/16/anthropic-proxy-destiny-tech100-fund.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550683-1794526893697-gettyimages-2304315192-ANTHROPIC_IPO.jpeg?v=1794527071&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-11-16T19:06:11.000Z",
-      "related": [
-        {
-          "id": "404e88ca347861074b650b9171e1f127",
-          "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
-          "image": "https://image.cnbcfm.com/api/v1/image/108551890-1794834210495-krishnaofficiallarge_1024.jpg?v=1794834245&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-16T20:44:24.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/404e88ca347861074b650b9171e1f127.json"
-        },
-        {
-          "id": "9042dadb950862d21bfe681eaffde27a",
-          "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-16T20:36:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/9042dadb950862d21bfe681eaffde27a.json"
-        },
-        {
-          "id": "8df27a1e6d663ebfed4ce25cd5310e24",
-          "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-14T17:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8df27a1e6d663ebfed4ce25cd5310e24.json"
-        },
-        {
-          "id": "2afff9d24b822427cb3b0378d339cc80",
-          "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JHP4NCX2Y0XJ53GG2CQ9P5/article-covers-251323-bitcoin-market-enters-full-capitulation-price-dips-below-63k-1280x853.webp",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-16T16:26:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2afff9d24b822427cb3b0378d339cc80.json"
-        },
-        {
-          "id": "cf55d8df56f8adf384289ca34d6c896d",
-          "title": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
-          "image": "https://image.cnbcfm.com/api/v1/image/108550332-1794506199989-gettyimages-2304259048-nokings-sf1017.jpeg?v=1794506305&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-17T11:42:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cf55d8df56f8adf384289ca34d6c896d.json"
-        }
-      ],
-      "path": "articles/90daba774589cbc6caa78de7f139ac95.json"
     },
     {
       "id": "2afff9d24b822427cb3b0378d339cc80",

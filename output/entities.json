@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T23:15:53.901Z",
-  "total": 26,
+  "updated_at": "2026-11-17T23:31:22.275Z",
+  "total": 25,
   "entities": [
     {
       "id": "crypto",
@@ -19,6 +19,13 @@
       "count": 25
     },
     {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 24
+    },
+    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
@@ -26,13 +33,6 @@
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
       "count": 24
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 23
     },
     {
       "id": "regulation",
@@ -60,18 +60,18 @@
       "count": 9
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 8
-    },
-    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
       "icon": "",
       "count": 8
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "anthropic",
@@ -80,7 +80,16 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 5
+      "count": 6
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "googl",
@@ -115,24 +124,6 @@
       "count": 2
     },
     {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "c",
-      "symbol": "C",
-      "name": "Citigroup",
-      "type": "company",
-      "path": "tickers/c.json",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "blk",
       "symbol": "BLK",
       "name": "BlackRock",
@@ -151,13 +142,13 @@
       "count": 2
     },
     {
-      "id": "gs",
-      "symbol": "GS",
-      "name": "Goldman Sachs",
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
       "type": "company",
-      "path": "tickers/gs.json",
-      "icon": "",
-      "count": 2
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 1
     },
     {
       "id": "web3",
@@ -176,11 +167,29 @@
       "count": 1
     },
     {
+      "id": "c",
+      "symbol": "C",
+      "name": "Citigroup",
+      "type": "company",
+      "path": "tickers/c.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "spacex",
       "symbol": "SPACEX",
       "name": "SpaceX",
       "type": "company",
       "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "gs",
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "type": "company",
+      "path": "tickers/gs.json",
       "icon": "",
       "count": 1
     },
@@ -197,24 +206,6 @@
       "id": "mining",
       "name": "Mining",
       "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "v",
-      "symbol": "V",
-      "name": "Visa",
-      "type": "company",
-      "path": "tickers/v.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "ma",
-      "symbol": "MA",
-      "name": "Mastercard",
-      "type": "company",
-      "path": "tickers/ma.json",
       "icon": "",
       "count": 1
     }

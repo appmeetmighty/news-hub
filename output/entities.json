@@ -1,13 +1,22 @@
 {
-  "updated_at": "2026-11-17T16:31:10.874Z",
-  "total": 28,
+  "updated_at": "2026-11-17T16:45:51.152Z",
+  "total": 27,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 28
+    },
+    {
+      "id": "nvda",
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "type": "company",
+      "path": "tickers/nvda.json",
+      "icon": "https://logo.clearbit.com/nvidia.com",
+      "count": 25
     },
     {
       "id": "btc",
@@ -17,15 +26,6 @@
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
       "count": 25
-    },
-    {
-      "id": "nvda",
-      "symbol": "NVDA",
-      "name": "NVIDIA",
-      "type": "company",
-      "path": "tickers/nvda.json",
-      "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 24
     },
     {
       "id": "ai",
@@ -83,19 +83,19 @@
       "count": 6
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
-    },
-    {
       "id": "mstr",
       "symbol": "MSTR",
       "name": "Strategy",
       "type": "company",
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 5
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
       "count": 5
     },
     {
@@ -151,13 +151,6 @@
       "count": 2
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
@@ -183,11 +176,9 @@
       "count": 1
     },
     {
-      "id": "bac",
-      "symbol": "BAC",
-      "name": "Bank of America",
-      "type": "company",
-      "path": "tickers/bac.json",
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
       "icon": "",
       "count": 1
     },

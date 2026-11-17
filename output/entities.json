@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T09:15:47.430Z",
-  "total": 31,
+  "updated_at": "2026-11-17T09:31:07.758Z",
+  "total": 30,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 32
+      "count": 31
     },
     {
       "id": "nvda",
@@ -25,14 +25,14 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 26
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 23
+      "count": 22
     },
     {
       "id": "regulation",
@@ -40,6 +40,13 @@
       "type": "topic",
       "icon": "",
       "count": 12
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 9
     },
     {
       "id": "sol",
@@ -51,18 +58,20 @@
       "count": 9
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 8
-    },
-    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
       "icon": "",
       "count": 7
+    },
+    {
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 6
     },
     {
       "id": "openai",
@@ -105,15 +114,6 @@
       "name": "Mining",
       "type": "topic",
       "icon": "",
-      "count": 4
-    },
-    {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 4
     },
     {
@@ -240,15 +240,6 @@
       "name": "Mastercard",
       "type": "company",
       "path": "tickers/ma.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "silver",
-      "symbol": "SILVER",
-      "name": "Silver",
-      "type": "commodity",
-      "path": "tickers/silver.json",
       "icon": "",
       "count": 1
     },

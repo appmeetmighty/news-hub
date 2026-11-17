@@ -1,10 +1,126 @@
 {
-  "updated_at": "2026-11-17T20:31:08.041Z",
+  "updated_at": "2026-11-17T20:45:53.936Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 25,
+  "total": 24,
   "articles": [
+    {
+      "id": "1c9478bd3f2fc5c1e96b42c57b753694",
+      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+      "description": "Major outages showcase the risks of interconnected tech in the age of AI.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108553426-1794946597994-gettyimages-2305585679-mms14960_jva25pzk.jpeg?v=1794946629&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "aapl",
+          "symbol": "AAPL",
+          "name": "Apple",
+          "type": "company",
+          "path": "tickers/aapl.json",
+          "icon": "https://logo.clearbit.com/apple.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-17T20:38:19.000Z",
+      "related": [
+        {
+          "id": "ad28361ad7f075d63f105fce29d4faf7",
+          "title": "A generational flight from tech to defensive stocks is underway. How we’re capitalizing",
+          "image": "https://image.cnbcfm.com/api/v1/image/108208441-1759780797780-gettyimages-2239612462-dsc06109_nvmrly0l.jpeg?v=1759780953&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T20:31:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ad28361ad7f075d63f105fce29d4faf7.json"
+        },
+        {
+          "id": "bd5813283de71cfbb79ab0edfd10eb61",
+          "title": "Wall Street's fear gauge is surging again and this time it's not just about AI jitters",
+          "image": "https://image.cnbcfm.com/api/v1/image/108553205-1794932257619-Traders-Photo-20261116-KK-PRESS-006.jpg?v=1794932755&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T20:28:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bd5813283de71cfbb79ab0edfd10eb61.json"
+        },
+        {
+          "id": "e483c1d16f38e432ca96da2f266318f0",
+          "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+          "image": "https://image.cnbcfm.com/api/v1/image/108348682-1786561003793-gettyimages-2289554834-golba-dailylif260803_np0mK.jpeg?v=1786561033&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T20:01:12.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/e483c1d16f38e432ca96da2f266318f0.json"
+        },
+        {
+          "id": "9893e06607384f3f486fab3ee4ad1858",
+          "title": "FAA pauses installation of new routers after ground stop",
+          "image": "https://image.cnbcfm.com/api/v1/image/108551581-1794669969667-gettyimages-2304580986-US_GROUND_STOP.jpeg?v=1794872932&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T19:44:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/9893e06607384f3f486fab3ee4ad1858.json"
+        },
+        {
+          "id": "75d304766492c5b19e219d8127eb80a2",
+          "title": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+          "image": "https://image.cnbcfm.com/api/v1/image/108344439-17858457182026-08-04t102957z_668477747_rc2mrmamjzd6_rtrmadp_0_usa-prediction-markets.jpeg?v=1785845777&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T19:29:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/75d304766492c5b19e219d8127eb80a2.json"
+        }
+      ],
+      "path": "articles/1c9478bd3f2fc5c1e96b42c57b753694.json"
+    },
     {
       "id": "bd5813283de71cfbb79ab0edfd10eb61",
       "title": "Wall Street's fear gauge is surging again and this time it's not just about AI jitters",
@@ -79,9 +195,9 @@
           "path": "articles/9be2fac08bc6c92b4ce4f274f3d21ef4.json"
         },
         {
-          "id": "e483c1d16f38e432ca96da2f266318f0",
-          "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-          "image": "https://image.cnbcfm.com/api/v1/image/108348682-1786561003793-gettyimages-2289554834-golba-dailylif260803_np0mK.jpeg?v=1786561033&w=1920&h=1080",
+          "id": "1c9478bd3f2fc5c1e96b42c57b753694",
+          "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+          "image": "https://image.cnbcfm.com/api/v1/image/108553426-1794946597994-gettyimages-2305585679-mms14960_jva25pzk.jpeg?v=1794946629&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -89,15 +205,15 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-17T20:01:12.000Z",
+          "published_at": "2026-11-17T20:38:19.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/e483c1d16f38e432ca96da2f266318f0.json"
+          "path": "articles/1c9478bd3f2fc5c1e96b42c57b753694.json"
         },
         {
-          "id": "9893e06607384f3f486fab3ee4ad1858",
-          "title": "FAA pauses installation of new routers after ground stop",
-          "image": "https://image.cnbcfm.com/api/v1/image/108551581-1794669969667-gettyimages-2304580986-US_GROUND_STOP.jpeg?v=1794872932&w=1920&h=1080",
+          "id": "ad28361ad7f075d63f105fce29d4faf7",
+          "title": "A generational flight from tech to defensive stocks is underway. How we’re capitalizing",
+          "image": "https://image.cnbcfm.com/api/v1/image/108208441-1759780797780-gettyimages-2239612462-dsc06109_nvmrly0l.jpeg?v=1759780953&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -105,10 +221,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-17T19:44:59.000Z",
+          "published_at": "2026-11-17T20:31:27.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/9893e06607384f3f486fab3ee4ad1858.json"
+          "path": "articles/ad28361ad7f075d63f105fce29d4faf7.json"
         }
       ],
       "path": "articles/bd5813283de71cfbb79ab0edfd10eb61.json"
@@ -228,122 +344,6 @@
         }
       ],
       "path": "articles/37db82d1c70c2a887169118b5559308f.json"
-    },
-    {
-      "id": "ccbdd5459d41ebd7814b9ecf2b0eaa79",
-      "title": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
-      "description": "Venture investors are sitting on big gains from the AI buildout. Anthropic's IPO could set the stage for many smaller AI startups seeking exits.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108552269-1794855081505-gettyimages-2304454689-ANTHROPIC_IPO_ROADSHOW.jpeg?v=1794855094&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-11-17T18:34:06.000Z",
-      "related": [
-        {
-          "id": "af46c770833196299eecc549fc5a5e73",
-          "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
-          "image": "https://image.cnbcfm.com/api/v1/image/108550656-1794523778517-gettyimages-2235057491-yeh_8174_nbtnm4ab_5b1ncswd_lup7q3ar.jpeg?v=1794523864&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-17T14:34:48.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/af46c770833196299eecc549fc5a5e73.json"
-        },
-        {
-          "id": "112244c3dd4e8e210111bf9e65fde102",
-          "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
-          "image": "https://image.cnbcfm.com/api/v1/image/108552493-1794922199403-108552493-1794865655950-gettyimages-2305429284-anotherday38810689_s8drtdpo.jpg?v=1794922207&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-17T13:11:40.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/112244c3dd4e8e210111bf9e65fde102.json"
-        },
-        {
-          "id": "9042dadb950862d21bfe681eaffde27a",
-          "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-16T20:36:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/9042dadb950862d21bfe681eaffde27a.json"
-        },
-        {
-          "id": "8df27a1e6d663ebfed4ce25cd5310e24",
-          "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-14T17:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8df27a1e6d663ebfed4ce25cd5310e24.json"
-        },
-        {
-          "id": "2afff9d24b822427cb3b0378d339cc80",
-          "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JHP4NCX2Y0XJ53GG2CQ9P5/article-covers-251323-bitcoin-market-enters-full-capitulation-price-dips-below-63k-1280x853.webp",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-16T16:26:52.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/2afff9d24b822427cb3b0378d339cc80.json"
-        }
-      ],
-      "path": "articles/ccbdd5459d41ebd7814b9ecf2b0eaa79.json"
     },
     {
       "id": "374b2b1d4768e5b95c9e1a4e124961c3",
@@ -1909,6 +1909,38 @@
           "path": "articles/13ae842f74c679279854083854e9b86e.json"
         },
         {
+          "id": "1c9478bd3f2fc5c1e96b42c57b753694",
+          "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+          "image": "https://image.cnbcfm.com/api/v1/image/108553426-1794946597994-gettyimages-2305585679-mms14960_jva25pzk.jpeg?v=1794946629&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T20:38:19.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1c9478bd3f2fc5c1e96b42c57b753694.json"
+        },
+        {
+          "id": "ad28361ad7f075d63f105fce29d4faf7",
+          "title": "A generational flight from tech to defensive stocks is underway. How we’re capitalizing",
+          "image": "https://image.cnbcfm.com/api/v1/image/108208441-1759780797780-gettyimages-2239612462-dsc06109_nvmrly0l.jpeg?v=1759780953&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T20:31:27.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/ad28361ad7f075d63f105fce29d4faf7.json"
+        },
+        {
           "id": "e483c1d16f38e432ca96da2f266318f0",
           "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
           "image": "https://image.cnbcfm.com/api/v1/image/108348682-1786561003793-gettyimages-2289554834-golba-dailylif260803_np0mK.jpeg?v=1786561033&w=1920&h=1080",
@@ -1923,38 +1955,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e483c1d16f38e432ca96da2f266318f0.json"
-        },
-        {
-          "id": "9893e06607384f3f486fab3ee4ad1858",
-          "title": "FAA pauses installation of new routers after ground stop",
-          "image": "https://image.cnbcfm.com/api/v1/image/108551581-1794669969667-gettyimages-2304580986-US_GROUND_STOP.jpeg?v=1794872932&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-17T19:44:59.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9893e06607384f3f486fab3ee4ad1858.json"
-        },
-        {
-          "id": "75d304766492c5b19e219d8127eb80a2",
-          "title": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
-          "image": "https://image.cnbcfm.com/api/v1/image/108344439-17858457182026-08-04t102957z_668477747_rc2mrmamjzd6_rtrmadp_0_usa-prediction-markets.jpeg?v=1785845777&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-17T19:29:27.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/75d304766492c5b19e219d8127eb80a2.json"
         }
       ],
       "path": "articles/9be2fac08bc6c92b4ce4f274f3d21ef4.json"
@@ -1984,6 +1984,22 @@
       ],
       "published_at": "2026-11-16T22:46:02.000Z",
       "related": [
+        {
+          "id": "680479b624e8e38905d282926e582c07",
+          "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-17T20:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/680479b624e8e38905d282926e582c07.json"
+        },
         {
           "id": "9e4c9af9597d0d03163baf1d76087cb6",
           "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
@@ -2047,22 +2063,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 40,
           "path": "articles/8fc15215c5a69338326a0e2338e3520c.json"
-        },
-        {
-          "id": "852c44fd086f4bdbccdcdf61300d3d65",
-          "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-17T16:41:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/852c44fd086f4bdbccdcdf61300d3d65.json"
         }
       ],
       "path": "articles/381a8153b3dde9c9ddc8bf3ee49a3dca.json"
@@ -2106,6 +2106,22 @@
       ],
       "published_at": "2026-11-16T21:16:03.000Z",
       "related": [
+        {
+          "id": "680479b624e8e38905d282926e582c07",
+          "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-17T20:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/680479b624e8e38905d282926e582c07.json"
+        },
         {
           "id": "2f3f4c0ff27a77fb444f23c8c73b91c2",
           "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
@@ -2169,22 +2185,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 60,
           "path": "articles/5aa0f120c5f93c4768fad6c9a0f9f164.json"
-        },
-        {
-          "id": "635ca341189b7a21f98710ff0c2f36ac",
-          "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-15T14:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/635ca341189b7a21f98710ff0c2f36ac.json"
         }
       ],
       "path": "articles/4df022741de3c28863d0694b5ae10a75.json"
@@ -2247,6 +2247,22 @@
           "path": "articles/d8d7edfe9a54894b46d21cf6d9c2ab4e.json"
         },
         {
+          "id": "680479b624e8e38905d282926e582c07",
+          "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-17T20:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/680479b624e8e38905d282926e582c07.json"
+        },
+        {
           "id": "9e4c9af9597d0d03163baf1d76087cb6",
           "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/cathie-wood-ark-invest-decrypt-style-02-gID_7.jpg@png",
@@ -2277,22 +2293,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/ed56a913b547d16d27dcdad8bd0db64f.json"
-        },
-        {
-          "id": "3c20f0564cc6299539718c0483716d3e",
-          "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-17T18:23:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/3c20f0564cc6299539718c0483716d3e.json"
         }
       ],
       "path": "articles/1740c50ebc9df8415ad58af43c6d90b8.json"
@@ -2735,22 +2735,6 @@
           "path": "articles/9042dadb950862d21bfe681eaffde27a.json"
         },
         {
-          "id": "4d442b94987ce210a7509b7f7f9dc5a8",
-          "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-14T14:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/4d442b94987ce210a7509b7f7f9dc5a8.json"
-        },
-        {
           "id": "63a55c37293fc86cb9a06f0f8c4658aa",
           "title": "Google says hackers use AI agents to find and exploit software flaws",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg",
@@ -2797,131 +2781,25 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/2afff9d24b822427cb3b0378d339cc80.json"
+        },
+        {
+          "id": "af46c770833196299eecc549fc5a5e73",
+          "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550656-1794523778517-gettyimages-2235057491-yeh_8174_nbtnm4ab_5b1ncswd_lup7q3ar.jpeg?v=1794523864&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-17T14:34:48.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/af46c770833196299eecc549fc5a5e73.json"
         }
       ],
       "path": "articles/8df27a1e6d663ebfed4ce25cd5310e24.json"
-    },
-    {
-      "id": "4d442b94987ce210a7509b7f7f9dc5a8",
-      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
-      "description": "OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
-      "source": {
-        "id": "decrypt",
-        "name": "Decrypt",
-        "website": "https://decrypt.co",
-        "icon": "https://logo.clearbit.com/decrypt.co"
-      },
-      "category": "crypto",
-      "entities": [
-        {
-          "id": "openai",
-          "symbol": "OPENAI",
-          "name": "OpenAI",
-          "type": "company",
-          "path": "tickers/openai.json",
-          "icon": ""
-        },
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        },
-        {
-          "id": "ai",
-          "name": "AI",
-          "type": "topic",
-          "icon": ""
-        }
-      ],
-      "published_at": "2026-11-14T14:01:02.000Z",
-      "related": [
-        {
-          "id": "8df27a1e6d663ebfed4ce25cd5310e24",
-          "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-14T17:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8df27a1e6d663ebfed4ce25cd5310e24.json"
-        },
-        {
-          "id": "08440ab39ffb5998945c30aa4e444365",
-          "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-17T12:00:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/08440ab39ffb5998945c30aa4e444365.json"
-        },
-        {
-          "id": "a2956a2868f411ac35837f17c59e59de",
-          "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-17T12:50:55.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a2956a2868f411ac35837f17c59e59de.json"
-        },
-        {
-          "id": "bdcb088e126101b255c2f925112d56a4",
-          "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-17T11:05:25.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/bdcb088e126101b255c2f925112d56a4.json"
-        },
-        {
-          "id": "9e4c9af9597d0d03163baf1d76087cb6",
-          "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/cathie-wood-ark-invest-decrypt-style-02-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-17T19:46:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/9e4c9af9597d0d03163baf1d76087cb6.json"
-        }
-      ],
-      "path": "articles/4d442b94987ce210a7509b7f7f9dc5a8.json"
     }
   ]
 }

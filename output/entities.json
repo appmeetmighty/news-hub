@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T22:01:18.135Z",
-  "total": 29,
+  "updated_at": "2026-11-18T22:15:58.777Z",
+  "total": 30,
   "entities": [
     {
       "id": "btc",
@@ -19,20 +19,20 @@
       "count": 25
     },
     {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 23
+    },
+    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 23
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 23
+      "count": 22
     },
     {
       "id": "regulation",
@@ -48,14 +48,7 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 11
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 9
+      "count": 10
     },
     {
       "id": "eth",
@@ -76,15 +69,22 @@
       "count": 9
     },
     {
-      "id": "etf",
-      "name": "ETF",
+      "id": "blockchain",
+      "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 5
+      "count": 8
     },
     {
       "id": "stablecoin",
       "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
       "type": "topic",
       "icon": "",
       "count": 5
@@ -133,6 +133,20 @@
       "count": 2
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "xai",
       "symbol": "XAI",
       "name": "xAI",
@@ -160,6 +174,15 @@
       "count": 1
     },
     {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "aapl",
       "symbol": "AAPL",
       "name": "Apple",
@@ -183,20 +206,6 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "web3",
-      "name": "Web3",
-      "type": "topic",
       "icon": "",
       "count": 1
     },

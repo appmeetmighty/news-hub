@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-18T15:15:52.274Z",
+  "updated_at": "2026-11-18T15:31:09.110Z",
   "id": "anthropic",
   "symbol": "ANTHROPIC",
   "name": "Anthropic",
   "type": "company",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
-      "id": "68343ff873423ae66a71a562f3f42c13",
-      "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
-      "description": "Anthropic is gearing up for a blockbuster initial public offering this week, and excitement among retail investors looks to be off the charts.",
+      "id": "58527b56f135cb0a6b7c7c4b44e7c9f5",
+      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
+      "description": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol \"ANT\" on Thursday.",
       "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108469374-1793113053396-gettyimages-2301777677-boivin-photoill261027_np1O1.jpeg?v=1793113123&w=1920&h=1080",
+      "breaking_score": 40,
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550657-1794523910753-108550657-1794523778580-gettyimages-2235057510-yeh_8158_95i9s3ni_kxuzy9en_yn8fiozr.jpeg?v=1794523924&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -31,16 +31,30 @@
           "icon": ""
         },
         {
-          "id": "spacex",
-          "symbol": "SPACEX",
-          "name": "SpaceX",
-          "type": "company",
-          "path": "tickers/spacex.json",
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
           "icon": ""
         }
       ],
-      "published_at": "2026-11-18T14:20:58.000Z",
+      "published_at": "2026-11-18T15:19:53.000Z",
       "related": [
+        {
+          "id": "68343ff873423ae66a71a562f3f42c13",
+          "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+          "image": "https://image.cnbcfm.com/api/v1/image/108469374-1793113053396-gettyimages-2301777677-boivin-photoill261027_np1O1.jpeg?v=1793113123&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-18T14:20:58.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/68343ff873423ae66a71a562f3f42c13.json"
+        },
         {
           "id": "1b00356f3d7143f9f95719cc45974030",
           "title": "How to get Anthropic stock — without buying the IPO",
@@ -104,11 +118,81 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/82a03f8cea317f9d49df38b6e8726fa0.json"
+        }
+      ],
+      "path": "articles/58527b56f135cb0a6b7c7c4b44e7c9f5.json"
+    },
+    {
+      "id": "68343ff873423ae66a71a562f3f42c13",
+      "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+      "description": "Anthropic is gearing up for a blockbuster initial public offering this week, and excitement among retail investors looks to be off the charts.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108469374-1793113053396-gettyimages-2301777677-boivin-photoill261027_np1O1.jpeg?v=1793113123&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
         },
         {
-          "id": "512a6184b129b3a0b332f5c9d31a4e1f",
-          "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/microsoft-gID_7.jpg@png",
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-18T14:20:58.000Z",
+      "related": [
+        {
+          "id": "58527b56f135cb0a6b7c7c4b44e7c9f5",
+          "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550657-1794523910753-108550657-1794523778580-gettyimages-2235057510-yeh_8158_95i9s3ni_kxuzy9en_yn8fiozr.jpeg?v=1794523924&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-18T15:19:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/58527b56f135cb0a6b7c7c4b44e7c9f5.json"
+        },
+        {
+          "id": "1b00356f3d7143f9f95719cc45974030",
+          "title": "How to get Anthropic stock — without buying the IPO",
+          "image": "https://image.cnbcfm.com/api/v1/image/108464743-1793031638506-gettyimages-2301669760-US_STOCKS.jpeg?v=1793031756&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-18T14:16:32.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1b00356f3d7143f9f95719cc45974030.json"
+        },
+        {
+          "id": "1510a524091ea950d397e05bbb2f2d9b",
+          "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -116,10 +200,42 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-11-17T23:16:03.000Z",
+          "published_at": "2026-11-17T21:46:02.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/512a6184b129b3a0b332f5c9d31a4e1f.json"
+          "path": "articles/1510a524091ea950d397e05bbb2f2d9b.json"
+        },
+        {
+          "id": "9042dadb950862d21bfe681eaffde27a",
+          "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-16T20:36:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 25,
+          "path": "articles/9042dadb950862d21bfe681eaffde27a.json"
+        },
+        {
+          "id": "82a03f8cea317f9d49df38b6e8726fa0",
+          "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-18T12:15:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/82a03f8cea317f9d49df38b6e8726fa0.json"
         }
       ],
       "path": "articles/68343ff873423ae66a71a562f3f42c13.json"
@@ -157,6 +273,22 @@
       ],
       "published_at": "2026-11-18T14:16:32.000Z",
       "related": [
+        {
+          "id": "58527b56f135cb0a6b7c7c4b44e7c9f5",
+          "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550657-1794523910753-108550657-1794523778580-gettyimages-2235057510-yeh_8158_95i9s3ni_kxuzy9en_yn8fiozr.jpeg?v=1794523924&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-18T15:19:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 40,
+          "path": "articles/58527b56f135cb0a6b7c7c4b44e7c9f5.json"
+        },
         {
           "id": "68343ff873423ae66a71a562f3f42c13",
           "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
@@ -220,22 +352,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/82a03f8cea317f9d49df38b6e8726fa0.json"
-        },
-        {
-          "id": "512a6184b129b3a0b332f5c9d31a4e1f",
-          "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/microsoft-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-17T23:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/512a6184b129b3a0b332f5c9d31a4e1f.json"
         }
       ],
       "path": "articles/1b00356f3d7143f9f95719cc45974030.json"
@@ -472,9 +588,9 @@
           "path": "articles/08440ab39ffb5998945c30aa4e444365.json"
         },
         {
-          "id": "d8a23270820629e8ab237a6952d4c23b",
-          "title": "Trump admin insists recent closely timed tech outages aren't connected",
-          "image": "https://image.cnbcfm.com/api/v1/image/108553257-1795011104926-108553257-1794934447351-gettyimages-2271847749-boivin-notitle260421_npQYY.jpg?v=1795011114&w=1920&h=1080",
+          "id": "58527b56f135cb0a6b7c7c4b44e7c9f5",
+          "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550657-1794523910753-108550657-1794523778580-gettyimages-2235057510-yeh_8158_95i9s3ni_kxuzy9en_yn8fiozr.jpeg?v=1794523924&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -482,10 +598,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-18T15:00:34.000Z",
+          "published_at": "2026-11-18T15:19:53.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d8a23270820629e8ab237a6952d4c23b.json"
+          "breaking_score": 40,
+          "path": "articles/58527b56f135cb0a6b7c7c4b44e7c9f5.json"
         }
       ],
       "path": "articles/512a6184b129b3a0b332f5c9d31a4e1f.json"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T09:01:29.671Z",
+  "updated_at": "2026-11-18T09:15:51.279Z",
   "total": 25,
   "entities": [
     {
@@ -10,19 +10,19 @@
       "count": 26
     },
     {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 24
+    },
+    {
       "id": "btc",
       "symbol": "BTC",
       "name": "Bitcoin",
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
       "count": 23
     },
     {
@@ -60,18 +60,25 @@
       "count": 10
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 7
-    },
-    {
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 8
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 4
     },
     {
       "id": "openai",
@@ -101,11 +108,13 @@
       "count": 3
     },
     {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
       "icon": "",
-      "count": 3
+      "count": 2
     },
     {
       "id": "xrp",
@@ -140,15 +149,6 @@
       "path": "tickers/mstr.json",
       "icon": "https://logo.clearbit.com/strategy.com",
       "count": 2
-    },
-    {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
-      "icon": "",
-      "count": 1
     },
     {
       "id": "web3",

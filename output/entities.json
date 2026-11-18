@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T18:15:53.508Z",
+  "updated_at": "2026-11-18T18:31:42.625Z",
   "total": 26,
   "entities": [
     {
@@ -9,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 26
+      "count": 27
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 24
     },
     {
       "id": "nvda",
@@ -18,14 +25,7 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 23
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 23
+      "count": 24
     },
     {
       "id": "crypto",
@@ -42,6 +42,13 @@
       "count": 13
     },
     {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 9
+    },
+    {
       "id": "sol",
       "symbol": "SOL",
       "name": "Solana",
@@ -49,13 +56,6 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 9
-    },
-    {
-      "id": "blockchain",
-      "name": "Blockchain",
-      "type": "topic",
-      "icon": "",
-      "count": 8
     },
     {
       "id": "eth",
@@ -99,21 +99,19 @@
       "count": 4
     },
     {
+      "id": "mining",
+      "name": "Mining",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
       "type": "company",
       "path": "tickers/openai.json",
       "icon": "",
-      "count": 3
-    },
-    {
-      "id": "googl",
-      "symbol": "GOOGL",
-      "name": "Google",
-      "type": "company",
-      "path": "tickers/googl.json",
-      "icon": "https://logo.clearbit.com/google.com",
       "count": 3
     },
     {
@@ -135,19 +133,21 @@
       "count": 2
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
       "id": "c",
       "symbol": "C",
       "name": "Citigroup",
       "type": "company",
       "path": "tickers/c.json",
       "icon": "",
+      "count": 2
+    },
+    {
+      "id": "googl",
+      "symbol": "GOOGL",
+      "name": "Google",
+      "type": "company",
+      "path": "tickers/googl.json",
+      "icon": "https://logo.clearbit.com/google.com",
       "count": 2
     },
     {

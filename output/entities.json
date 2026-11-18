@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-18T10:31:10.560Z",
+  "updated_at": "2026-11-18T10:45:57.518Z",
   "total": 25,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 26
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -19,20 +12,27 @@
       "count": 24
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 23
-    },
-    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 20
+      "count": 24
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 24
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 23
     },
     {
       "id": "regulation",
@@ -51,13 +51,11 @@
       "count": 13
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 8
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 7
     },
     {
       "id": "blockchain",
@@ -67,11 +65,13 @@
       "count": 7
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 6
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 7
     },
     {
       "id": "stablecoin",
@@ -99,15 +99,6 @@
       "count": 4
     },
     {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
-      "count": 3
-    },
-    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
@@ -115,6 +106,15 @@
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
       "count": 3
+    },
+    {
+      "id": "mstr",
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "type": "company",
+      "path": "tickers/mstr.json",
+      "icon": "https://logo.clearbit.com/strategy.com",
+      "count": 2
     },
     {
       "id": "c",

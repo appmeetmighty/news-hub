@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-19T15:15:51.413Z",
+  "updated_at": "2026-11-19T15:31:11.317Z",
   "id": "msft",
   "symbol": "MSFT",
   "name": "Microsoft",
   "type": "company",
-  "total": 3,
+  "total": 2,
   "articles": [
     {
       "id": "012ab2e3f5b88bef9b427a5ed753a1e7",
@@ -33,22 +33,6 @@
       ],
       "published_at": "2026-11-19T00:18:28.000Z",
       "related": [
-        {
-          "id": "d8a23270820629e8ab237a6952d4c23b",
-          "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-          "image": "https://image.cnbcfm.com/api/v1/image/108554304-1795019038650-gettyimages-2303886151-AFP_D6XE2HF.jpeg?v=1795019055&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-18T19:17:27.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/d8a23270820629e8ab237a6952d4c23b.json"
-        },
         {
           "id": "512a6184b129b3a0b332f5c9d31a4e1f",
           "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
@@ -80,6 +64,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/6c9e8acd56e08e31a4fe7a11fb64cb23.json"
+        },
+        {
+          "id": "f4d4fbeac025885b38c4d447925b9460",
+          "title": "Traders in new market bet on big IPO pop for Anthropic",
+          "image": "https://image.cnbcfm.com/api/v1/image/108555310-1795100707369-gettyimages-2305300112-ANTHROPIC_IPO.jpeg?v=1795100757&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-19T15:23:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f4d4fbeac025885b38c4d447925b9460.json"
         },
         {
           "id": "77b8e65907b151f16ea68dcbb19ced5b",
@@ -115,116 +115,6 @@
         }
       ],
       "path": "articles/012ab2e3f5b88bef9b427a5ed753a1e7.json"
-    },
-    {
-      "id": "d8a23270820629e8ab237a6952d4c23b",
-      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-      "description": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554304-1795019038650-gettyimages-2303886151-AFP_D6XE2HF.jpeg?v=1795019055&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "entities": [
-        {
-          "id": "msft",
-          "symbol": "MSFT",
-          "name": "Microsoft",
-          "type": "company",
-          "path": "tickers/msft.json",
-          "icon": "https://logo.clearbit.com/microsoft.com"
-        }
-      ],
-      "published_at": "2026-11-18T19:17:27.000Z",
-      "related": [
-        {
-          "id": "012ab2e3f5b88bef9b427a5ed753a1e7",
-          "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
-          "image": "https://image.cnbcfm.com/api/v1/image/108374356-1791402610911-gettyimages-2298479544-MICROSOFT_NVIDIA.jpeg?v=1791402731&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-19T00:18:28.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 30,
-          "path": "articles/012ab2e3f5b88bef9b427a5ed753a1e7.json"
-        },
-        {
-          "id": "512a6184b129b3a0b332f5c9d31a4e1f",
-          "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/microsoft-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-17T23:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/512a6184b129b3a0b332f5c9d31a4e1f.json"
-        },
-        {
-          "id": "7a3a06546c22c581e129393aa3da75db",
-          "title": "We're buying 1 non-tech stock and 1 tech stock as the market tips oversold",
-          "image": "https://image.cnbcfm.com/api/v1/image/108127005-17437961972025-04-04t194805z_304398461_rc27rda93yrq_rtrmadp_0_usa-stocks.jpeg?v=1743796326&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-19T14:27:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7a3a06546c22c581e129393aa3da75db.json"
-        },
-        {
-          "id": "c1718667c0a1a48d725947c26a392924",
-          "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
-          "image": "https://image.cnbcfm.com/api/v1/image/108554981-1795077420593-gettyimages-2305839919-wm018086_eydfq2t1.jpeg?v=1795077451&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-19T14:05:23.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c1718667c0a1a48d725947c26a392924.json"
-        },
-        {
-          "id": "e1ca4d2d8d96a3dcc6407c6abfef2f26",
-          "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
-          "image": "https://image.cnbcfm.com/api/v1/image/108331863-1783490022916-gettyimages-2267671378-AFP_A4HD2T3.jpeg?v=1783490104&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-19T12:02:08.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/e1ca4d2d8d96a3dcc6407c6abfef2f26.json"
-        }
-      ],
-      "path": "articles/d8a23270820629e8ab237a6952d4c23b.json"
     },
     {
       "id": "512a6184b129b3a0b332f5c9d31a4e1f",

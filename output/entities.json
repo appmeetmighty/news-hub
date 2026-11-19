@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T10:15:59.980Z",
-  "total": 30,
+  "updated_at": "2026-11-19T10:31:21.074Z",
+  "total": 31,
   "entities": [
     {
       "id": "btc",
@@ -32,7 +32,7 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 16
+      "count": 15
     },
     {
       "id": "regulation",
@@ -49,6 +49,15 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 10
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 8
     },
     {
       "id": "blockchain",
@@ -71,15 +80,6 @@
       "name": "ETF",
       "type": "topic",
       "icon": "",
-      "count": 7
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 7
     },
     {
@@ -124,6 +124,15 @@
       "count": 3
     },
     {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "type": "company",
+      "path": "tickers/msft.json",
+      "icon": "https://logo.clearbit.com/microsoft.com",
+      "count": 3
+    },
+    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
@@ -131,6 +140,15 @@
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
       "count": 3
+    },
+    {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 2
     },
     {
       "id": "mstr",
@@ -148,15 +166,6 @@
       "type": "commodity",
       "path": "tickers/gold.json",
       "icon": "",
-      "count": 2
-    },
-    {
-      "id": "msft",
-      "symbol": "MSFT",
-      "name": "Microsoft",
-      "type": "company",
-      "path": "tickers/msft.json",
-      "icon": "https://logo.clearbit.com/microsoft.com",
       "count": 2
     },
     {
@@ -189,6 +198,15 @@
       "type": "crypto",
       "path": "tickers/bnb.json",
       "icon": "https://assets.coincap.io/assets/icons/bnb@2x.png",
+      "count": 1
+    },
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel",
+      "type": "company",
+      "path": "tickers/intc.json",
+      "icon": "",
       "count": 1
     },
     {
@@ -243,15 +261,6 @@
       "type": "company",
       "path": "tickers/jpm.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 1
     }
   ]

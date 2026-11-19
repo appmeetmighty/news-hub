@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-19T18:01:36.354Z",
-  "total": 31,
+  "updated_at": "2026-11-19T18:46:08.920Z",
+  "total": 32,
   "entities": [
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 24
-    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -16,7 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 22
+      "count": 24
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 23
     },
     {
       "id": "ai",
@@ -32,7 +32,7 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 18
+      "count": 19
     },
     {
       "id": "nvda",
@@ -41,21 +41,23 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 11
+      "count": 10
     },
     {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 9
+      "count": 10
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
-      "count": 7
+      "id": "eth",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "path": "tickers/eth.json",
+      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
+      "count": 8
     },
     {
       "id": "blockchain",
@@ -65,13 +67,11 @@
       "count": 7
     },
     {
-      "id": "eth",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "type": "crypto",
-      "path": "tickers/eth.json",
-      "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 7
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "sol",
@@ -81,15 +81,6 @@
       "path": "tickers/sol.json",
       "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 6
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 4
     },
     {
       "id": "stablecoin",
@@ -108,12 +99,12 @@
       "count": 4
     },
     {
-      "id": "tsla",
-      "symbol": "TSLA",
-      "name": "Tesla",
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
       "type": "company",
-      "path": "tickers/tsla.json",
-      "icon": "https://logo.clearbit.com/tesla.com",
+      "path": "tickers/spacex.json",
+      "icon": "",
       "count": 3
     },
     {
@@ -131,6 +122,24 @@
       "type": "topic",
       "icon": "",
       "count": 3
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
+      "count": 2
+    },
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "type": "company",
+      "path": "tickers/tsla.json",
+      "icon": "https://logo.clearbit.com/tesla.com",
+      "count": 2
     },
     {
       "id": "oil",
@@ -167,21 +176,21 @@
       "count": 2
     },
     {
+      "id": "nflx",
+      "symbol": "NFLX",
+      "name": "Netflix",
+      "type": "company",
+      "path": "tickers/nflx.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "amd",
       "symbol": "AMD",
       "name": "AMD",
       "type": "company",
       "path": "tickers/amd.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "amzn",
-      "symbol": "AMZN",
-      "name": "Amazon",
-      "type": "company",
-      "path": "tickers/amzn.json",
-      "icon": "https://logo.clearbit.com/amazon.com",
       "count": 1
     },
     {

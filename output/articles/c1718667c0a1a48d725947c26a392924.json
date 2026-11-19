@@ -1,7 +1,7 @@
 {
   "id": "c1718667c0a1a48d725947c26a392924",
-  "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
-  "description": "The leaders of the U.S., China and Russia met in Shenzhen on Thursday for a rare trilateral gathering.",
+  "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
+  "description": "The leaders of the U.S., China and Russia met in Shenzhen, China on Thursday for a rare trilateral gathering.",
   "reading_time_minutes": 1,
   "breaking_score": 0,
   "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
@@ -13,9 +13,50 @@
     "icon": "https://logo.clearbit.com/cnbc.com"
   },
   "category": "stocks",
-  "entities": [],
-  "published_at": "2026-11-19T14:05:23.000Z",
+  "entities": [
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": ""
+    }
+  ],
+  "published_at": "2026-11-19T16:19:00.000Z",
   "related": [
+    {
+      "id": "f25d6d4d061671841d15c128fbca9fab",
+      "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7PGAVAC26A920BS70GX2Q7N/polymarket.jpg",
+      "source": {
+        "id": "cointelegraph",
+        "name": "Cointelegraph",
+        "website": "https://cointelegraph.com",
+        "icon": "https://logo.clearbit.com/cointelegraph.com"
+      },
+      "category": "crypto",
+      "published_at": "2026-11-18T17:00:00.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/f25d6d4d061671841d15c128fbca9fab.json"
+    },
+    {
+      "id": "42cdfd3d8a1d5080f2ed026a2fdea351",
+      "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
+      "image": "https://image.cnbcfm.com/api/v1/image/108554917-1795067694140-gettyimages-2305267954-AFP_D7XJ9X3.jpeg?v=1795067710&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "published_at": "2026-11-19T10:54:07.000Z",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "path": "articles/42cdfd3d8a1d5080f2ed026a2fdea351.json"
+    },
     {
       "id": "8382ca380c2c74bd01799d52d7a6e23d",
       "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
@@ -49,22 +90,6 @@
       "path": "articles/c3f9f185358c9594a8189c18fb96e958.json"
     },
     {
-      "id": "30a4a985b77b78375f32722ba9ff2423",
-      "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554444-1795034841037-108554444-1795025697370-image-1_1024.jpg?v=1795034856&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-11-19T12:04:29.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/30a4a985b77b78375f32722ba9ff2423.json"
-    },
-    {
       "id": "e1ca4d2d8d96a3dcc6407c6abfef2f26",
       "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
       "image": "https://image.cnbcfm.com/api/v1/image/108331863-1783490022916-gettyimages-2267671378-AFP_A4HD2T3.jpeg?v=1783490104&w=1920&h=1080",
@@ -79,22 +104,6 @@
       "reading_time_minutes": 1,
       "breaking_score": 0,
       "path": "articles/e1ca4d2d8d96a3dcc6407c6abfef2f26.json"
-    },
-    {
-      "id": "42cdfd3d8a1d5080f2ed026a2fdea351",
-      "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554917-1795067694140-gettyimages-2305267954-AFP_D7XJ9X3.jpeg?v=1795067710&w=1920&h=1080",
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
-      },
-      "category": "stocks",
-      "published_at": "2026-11-19T10:54:07.000Z",
-      "reading_time_minutes": 1,
-      "breaking_score": 0,
-      "path": "articles/42cdfd3d8a1d5080f2ed026a2fdea351.json"
     }
   ]
 }

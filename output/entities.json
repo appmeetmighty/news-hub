@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-19T21:01:19.998Z",
+  "updated_at": "2026-11-19T21:15:51.212Z",
   "total": 35,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 23
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,14 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
-    },
-    {
-      "id": "crypto",
-      "name": "Crypto",
-      "type": "topic",
-      "icon": "",
-      "count": 22
+      "count": 23
     },
     {
       "id": "anthropic",
@@ -25,14 +25,14 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 21
+      "count": 22
     },
     {
       "id": "ai",
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 20
+      "count": 21
     },
     {
       "id": "regulation",
@@ -58,6 +58,13 @@
       "count": 7
     },
     {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
+    },
+    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
@@ -65,13 +72,6 @@
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
       "count": 6
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 5
     },
     {
       "id": "etf",
@@ -115,6 +115,15 @@
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
       "count": 3
+    },
+    {
+      "id": "amd",
+      "symbol": "AMD",
+      "name": "AMD",
+      "type": "company",
+      "path": "tickers/amd.json",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "amzn",
@@ -208,15 +217,6 @@
       "name": "Netflix",
       "type": "company",
       "path": "tickers/nflx.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "amd",
-      "symbol": "AMD",
-      "name": "AMD",
-      "type": "company",
-      "path": "tickers/amd.json",
       "icon": "",
       "count": 1
     },

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T12:15:50.686Z",
-  "total": 31,
+  "updated_at": "2026-11-19T12:31:11.959Z",
+  "total": 30,
   "entities": [
     {
       "id": "btc",
@@ -9,18 +9,18 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
+      "count": 28
     },
     {
-      "id": "ai",
-      "name": "AI",
+      "id": "crypto",
+      "name": "Crypto",
       "type": "topic",
       "icon": "",
       "count": 21
     },
     {
-      "id": "crypto",
-      "name": "Crypto",
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 20
@@ -35,27 +35,20 @@
       "count": 14
     },
     {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 11
-    },
-    {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
       "name": "Anthropic",
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 10
+      "count": 12
     },
     {
-      "id": "blockchain",
-      "name": "Blockchain",
+      "id": "regulation",
+      "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 9
+      "count": 12
     },
     {
       "id": "sol",
@@ -71,7 +64,14 @@
       "name": "ETF",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 8
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "type": "topic",
+      "icon": "",
+      "count": 8
     },
     {
       "id": "eth",
@@ -87,7 +87,7 @@
       "name": "Stablecoin",
       "type": "topic",
       "icon": "",
-      "count": 6
+      "count": 5
     },
     {
       "id": "openai",
@@ -251,15 +251,6 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
       "icon": "",
       "count": 1
     }

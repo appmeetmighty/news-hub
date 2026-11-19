@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T21:45:52.563Z",
+  "updated_at": "2026-11-19T21:56:04.701Z",
   "articles": {
     "hero": {
       "id": "98ca643d417bd4945ba37f9937412c85",
@@ -32,6 +32,21 @@
         "category": "stocks",
         "published_at": "2026-11-19T21:43:30.000Z",
         "path": "articles/98ca643d417bd4945ba37f9937412c85.json"
+      },
+      {
+        "id": "78f7a83e386d3f9bd80908be49f28870",
+        "title": "Here’s what happened in crypto today",
+        "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+        "source": {
+          "id": "cointelegraph",
+          "name": "Cointelegraph",
+          "website": "https://cointelegraph.com",
+          "icon": "https://logo.clearbit.com/cointelegraph.com"
+        },
+        "category": "crypto",
+        "published_at": "2026-11-19T21:42:20.000Z",
+        "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
       },
       {
         "id": "cd7157c541677cd91923e8bf8e28e374",
@@ -302,24 +317,24 @@
         "category": "crypto",
         "published_at": "2026-11-19T19:53:42.000Z",
         "path": "articles/c063243a44535bc8eab611c474196d76.json"
-      },
-      {
-        "id": "2274e90bb92c71e31fe5b6b6ea6f874a",
-        "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-        "description": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108552979-1794919207940-gettyimages-2305517071-wm017388_zrti7lai.jpeg?v=1794935003&w=1920&h=1080",
-        "source": {
-          "id": "cnbc",
-          "name": "CNBC",
-          "website": "https://www.cnbc.com",
-          "icon": "https://logo.clearbit.com/cnbc.com"
-        },
-        "category": "stocks",
-        "published_at": "2026-11-19T19:43:08.000Z",
-        "path": "articles/2274e90bb92c71e31fe5b6b6ea6f874a.json"
       }
     ],
     "crypto": [
+      {
+        "id": "78f7a83e386d3f9bd80908be49f28870",
+        "title": "Here’s what happened in crypto today",
+        "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+        "source": {
+          "id": "cointelegraph",
+          "name": "Cointelegraph",
+          "website": "https://cointelegraph.com",
+          "icon": "https://logo.clearbit.com/cointelegraph.com"
+        },
+        "category": "crypto",
+        "published_at": "2026-11-19T21:42:20.000Z",
+        "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
+      },
       {
         "id": "052643065f3396f9b634646c040db3d1",
         "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
@@ -454,21 +469,6 @@
         "category": "crypto",
         "published_at": "2026-11-19T18:20:49.000Z",
         "path": "articles/076c12cfeef1f97a608cb7cea081cc6f.json"
-      },
-      {
-        "id": "710daf795c4371058710ca9051df52e7",
-        "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-        "description": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.",
-        "image": "",
-        "source": {
-          "id": "coindesk",
-          "name": "CoinDesk",
-          "website": "https://www.coindesk.com",
-          "icon": "https://logo.clearbit.com/coindesk.com"
-        },
-        "category": "crypto",
-        "published_at": "2026-11-19T18:15:56.000Z",
-        "path": "articles/710daf795c4371058710ca9051df52e7.json"
       }
     ],
     "stocks": [
@@ -625,12 +625,175 @@
     ],
     "trending": [
       {
+        "id": "btc",
+        "name": "Bitcoin",
+        "type": "crypto",
+        "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
+        "count": 23,
+        "articles": [
+          {
+            "id": "78f7a83e386d3f9bd80908be49f28870",
+            "title": "Here’s what happened in crypto today",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T21:42:20.000Z",
+            "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
+          },
+          {
+            "id": "9622d527151d0e5222fc08ef8b7ef7f7",
+            "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T20:46:02.000Z",
+            "path": "articles/9622d527151d0e5222fc08ef8b7ef7f7.json"
+          },
+          {
+            "id": "84ece980dec9c346354d0651a7355698",
+            "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T19:08:24.000Z",
+            "path": "articles/84ece980dec9c346354d0651a7355698.json"
+          },
+          {
+            "id": "71a3a8de7dc659073e1893dc3dddd64e",
+            "title": "Why higher rates could slow Bitcoin buying at treasury firms",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T18:09:32.000Z",
+            "path": "articles/71a3a8de7dc659073e1893dc3dddd64e.json"
+          },
+          {
+            "id": "e71ee57af204589cd964a9683d67ef4f",
+            "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TCJA0M8WRD0SM02A6P1Y5K/ai-machine-cyber-mind-960x644.webp",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T18:06:50.000Z",
+            "path": "articles/e71ee57af204589cd964a9683d67ef4f.json"
+          },
+          {
+            "id": "9d42f749932920d2b15ee6aed3096814",
+            "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T12:40:12.000Z",
+            "path": "articles/9d42f749932920d2b15ee6aed3096814.json"
+          },
+          {
+            "id": "983fa77be5f083878977a2c449fcf5d0",
+            "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T12:20:39.000Z",
+            "path": "articles/983fa77be5f083878977a2c449fcf5d0.json"
+          },
+          {
+            "id": "d2dbc08906e057a2e38a48a67a02be81",
+            "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T12:08:06.000Z",
+            "path": "articles/d2dbc08906e057a2e38a48a67a02be81.json"
+          },
+          {
+            "id": "090e056b3d1641b53dc0804144a9aaa7",
+            "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SNB5B19MZXHBMWJSW6SVAN/hi-coinbase-seeks-ipo-1.png",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T11:19:58.000Z",
+            "path": "articles/090e056b3d1641b53dc0804144a9aaa7.json"
+          },
+          {
+            "id": "f39bf031e9c5454efddf9b04f30fa662",
+            "title": "Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T10:48:26.000Z",
+            "path": "articles/f39bf031e9c5454efddf9b04f30fa662.json"
+          }
+        ]
+      },
+      {
         "id": "crypto",
         "name": "Crypto",
         "type": "topic",
         "icon": "",
         "count": 23,
         "articles": [
+          {
+            "id": "78f7a83e386d3f9bd80908be49f28870",
+            "title": "Here’s what happened in crypto today",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T21:42:20.000Z",
+            "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
+          },
           {
             "id": "ddeca9c9c7bd6fe55cf8126035b67a0a",
             "title": "MoonPay seeks US bank charter for stablecoin, custody services",
@@ -730,20 +893,6 @@
             "path": "articles/f9d8ec250c7ee9d3d2f7188771a3e354.json"
           },
           {
-            "id": "78f7a83e386d3f9bd80908be49f28870",
-            "title": "Here’s what happened in crypto today",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T13:48:14.000Z",
-            "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-          },
-          {
             "id": "3dcaf5c2c81458cdd6f3fb3a55d74d1c",
             "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
             "image": "",
@@ -770,155 +919,6 @@
             "category": "crypto",
             "published_at": "2026-11-19T12:44:06.000Z",
             "path": "articles/b0182030114a6690e14e39c9e4f85216.json"
-          }
-        ]
-      },
-      {
-        "id": "btc",
-        "name": "Bitcoin",
-        "type": "crypto",
-        "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 23,
-        "articles": [
-          {
-            "id": "9622d527151d0e5222fc08ef8b7ef7f7",
-            "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T20:46:02.000Z",
-            "path": "articles/9622d527151d0e5222fc08ef8b7ef7f7.json"
-          },
-          {
-            "id": "84ece980dec9c346354d0651a7355698",
-            "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T19:08:24.000Z",
-            "path": "articles/84ece980dec9c346354d0651a7355698.json"
-          },
-          {
-            "id": "71a3a8de7dc659073e1893dc3dddd64e",
-            "title": "Why higher rates could slow Bitcoin buying at treasury firms",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T18:09:32.000Z",
-            "path": "articles/71a3a8de7dc659073e1893dc3dddd64e.json"
-          },
-          {
-            "id": "e71ee57af204589cd964a9683d67ef4f",
-            "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TCJA0M8WRD0SM02A6P1Y5K/ai-machine-cyber-mind-960x644.webp",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T18:06:50.000Z",
-            "path": "articles/e71ee57af204589cd964a9683d67ef4f.json"
-          },
-          {
-            "id": "78f7a83e386d3f9bd80908be49f28870",
-            "title": "Here’s what happened in crypto today",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T13:48:14.000Z",
-            "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
-          },
-          {
-            "id": "9d42f749932920d2b15ee6aed3096814",
-            "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T12:40:12.000Z",
-            "path": "articles/9d42f749932920d2b15ee6aed3096814.json"
-          },
-          {
-            "id": "983fa77be5f083878977a2c449fcf5d0",
-            "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T12:20:39.000Z",
-            "path": "articles/983fa77be5f083878977a2c449fcf5d0.json"
-          },
-          {
-            "id": "d2dbc08906e057a2e38a48a67a02be81",
-            "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T12:08:06.000Z",
-            "path": "articles/d2dbc08906e057a2e38a48a67a02be81.json"
-          },
-          {
-            "id": "090e056b3d1641b53dc0804144a9aaa7",
-            "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SNB5B19MZXHBMWJSW6SVAN/hi-coinbase-seeks-ipo-1.png",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T11:19:58.000Z",
-            "path": "articles/090e056b3d1641b53dc0804144a9aaa7.json"
-          },
-          {
-            "id": "f39bf031e9c5454efddf9b04f30fa662",
-            "title": "Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T10:48:26.000Z",
-            "path": "articles/f39bf031e9c5454efddf9b04f30fa662.json"
           }
         ]
       },
@@ -1228,6 +1228,20 @@
         "count": 11,
         "articles": [
           {
+            "id": "78f7a83e386d3f9bd80908be49f28870",
+            "title": "Here’s what happened in crypto today",
+            "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+            "source": {
+              "id": "cointelegraph",
+              "name": "Cointelegraph",
+              "website": "https://cointelegraph.com",
+              "icon": "https://logo.clearbit.com/cointelegraph.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T21:42:20.000Z",
+            "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
+          },
+          {
             "id": "bda5b7ef0a1c69ff30ff70b8464a1648",
             "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
             "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png",
@@ -1268,20 +1282,6 @@
             "category": "stocks",
             "published_at": "2026-11-19T14:39:02.000Z",
             "path": "articles/8cf338e180e9a377d0446dc6f71807c6.json"
-          },
-          {
-            "id": "78f7a83e386d3f9bd80908be49f28870",
-            "title": "Here’s what happened in crypto today",
-            "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-            "source": {
-              "id": "cointelegraph",
-              "name": "Cointelegraph",
-              "website": "https://cointelegraph.com",
-              "icon": "https://logo.clearbit.com/cointelegraph.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-19T13:48:14.000Z",
-            "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
           },
           {
             "id": "6f34d84f475a403f690575dc08a2ad9c",
@@ -1522,7 +1522,7 @@
               "icon": "https://logo.clearbit.com/cointelegraph.com"
             },
             "category": "crypto",
-            "published_at": "2026-11-19T13:48:14.000Z",
+            "published_at": "2026-11-19T21:42:20.000Z",
             "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
           },
           {

@@ -1,15 +1,29 @@
 {
-  "updated_at": "2026-11-19T12:01:25.466Z",
+  "updated_at": "2026-11-19T12:15:50.691Z",
   "articles": {
-    "generated_at": "2026-11-19T12:01:25.466Z",
+    "generated_at": "2026-11-19T12:15:50.691Z",
     "topics": [
       {
         "id": "btc",
         "name": "Bitcoin",
         "type": "crypto",
         "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-        "count": 26,
+        "count": 27,
         "articles": [
+          {
+            "id": "d2dbc08906e057a2e38a48a67a02be81",
+            "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+            "image": "",
+            "source": {
+              "id": "coindesk",
+              "name": "CoinDesk",
+              "website": "https://www.coindesk.com",
+              "icon": "https://logo.clearbit.com/coindesk.com"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-19T12:08:06.000Z",
+            "path": "articles/d2dbc08906e057a2e38a48a67a02be81.json"
+          },
           {
             "id": "090e056b3d1641b53dc0804144a9aaa7",
             "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
@@ -135,20 +149,6 @@
             "category": "crypto",
             "published_at": "2026-11-18T22:16:02.000Z",
             "path": "articles/31bfa75dbf5e190a8883411d51af9f03.json"
-          },
-          {
-            "id": "ed2d3582ad6812fa62e2d5783f468cab",
-            "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-18T19:16:02.000Z",
-            "path": "articles/ed2d3582ad6812fa62e2d5783f468cab.json"
           }
         ]
       },
@@ -157,7 +157,7 @@
         "name": "AI",
         "type": "topic",
         "icon": "",
-        "count": 22,
+        "count": 21,
         "articles": [
           {
             "id": "883564c6e5cc4e90eaf75abb77ae5453",
@@ -468,7 +468,7 @@
               "icon": "https://logo.clearbit.com/cnbc.com"
             },
             "category": "stocks",
-            "published_at": "2026-11-18T23:45:50.000Z",
+            "published_at": "2026-11-19T12:04:29.000Z",
             "path": "articles/30a4a985b77b78375f32722ba9ff2423.json"
           },
           {
@@ -1744,57 +1744,6 @@
         ]
       },
       {
-        "id": "googl",
-        "name": "Google",
-        "type": "company",
-        "icon": "https://logo.clearbit.com/google.com",
-        "count": 3,
-        "articles": [
-          {
-            "id": "3765409565c281f7ba98d5daeecd773f",
-            "title": "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-18T20:16:02.000Z",
-            "path": "articles/3765409565c281f7ba98d5daeecd773f.json"
-          },
-          {
-            "id": "56bb84c82f9205e5cfa2795f71d5bdc1",
-            "title": "Google finds self-running AI hacking tool with Russian comments in its files",
-            "image": "",
-            "source": {
-              "id": "coindesk",
-              "name": "CoinDesk",
-              "website": "https://www.coindesk.com",
-              "icon": "https://logo.clearbit.com/coindesk.com"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-18T07:37:59.000Z",
-            "path": "articles/56bb84c82f9205e5cfa2795f71d5bdc1.json"
-          },
-          {
-            "id": "1510a524091ea950d397e05bbb2f2d9b",
-            "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
-            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
-            "source": {
-              "id": "decrypt",
-              "name": "Decrypt",
-              "website": "https://decrypt.co",
-              "icon": "https://logo.clearbit.com/decrypt.co"
-            },
-            "category": "crypto",
-            "published_at": "2026-11-17T21:46:02.000Z",
-            "path": "articles/1510a524091ea950d397e05bbb2f2d9b.json"
-          }
-        ]
-      },
-      {
         "id": "mstr",
         "name": "Strategy",
         "type": "company",
@@ -1865,6 +1814,43 @@
             "category": "crypto",
             "published_at": "2026-11-18T10:58:36.000Z",
             "path": "articles/22ad92a4dc09bdfd933ab6d6674f479f.json"
+          }
+        ]
+      },
+      {
+        "id": "googl",
+        "name": "Google",
+        "type": "company",
+        "icon": "https://logo.clearbit.com/google.com",
+        "count": 2,
+        "articles": [
+          {
+            "id": "3765409565c281f7ba98d5daeecd773f",
+            "title": "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-18T20:16:02.000Z",
+            "path": "articles/3765409565c281f7ba98d5daeecd773f.json"
+          },
+          {
+            "id": "1510a524091ea950d397e05bbb2f2d9b",
+            "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+            "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+            "source": {
+              "id": "decrypt",
+              "name": "Decrypt",
+              "website": "https://decrypt.co",
+              "icon": "https://logo.clearbit.com/decrypt.co"
+            },
+            "category": "crypto",
+            "published_at": "2026-11-17T21:46:02.000Z",
+            "path": "articles/1510a524091ea950d397e05bbb2f2d9b.json"
           }
         ]
       },

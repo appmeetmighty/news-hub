@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T10:01:24.767Z",
+  "updated_at": "2026-11-20T19:45:54.782Z",
   "id": "nflx",
   "symbol": "NFLX",
   "name": "Netflix",
@@ -7,29 +7,21 @@
   "total": 1,
   "articles": [
     {
-      "id": "b2d309609a73d6c36d2f5ceebdb8d7c3",
-      "title": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
-      "description": "Netflix, Amazon and Fox are among those bidding on the 2030 men's World Cup media rights. Disney has decided not to bid, sources told CNBC.",
+      "id": "85e5f4f86a95f83361cbfc7b418f889d",
+      "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
+      "description": "Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108337062-1784503444376-gettyimages-2286805563-mr015710_azm9jyia.jpeg?v=1786038852&w=1920&h=1080",
+      "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg@png",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
-        {
-          "id": "amzn",
-          "symbol": "AMZN",
-          "name": "Amazon",
-          "type": "company",
-          "path": "tickers/amzn.json",
-          "icon": "https://logo.clearbit.com/amazon.com"
-        },
         {
           "id": "nflx",
           "symbol": "NFLX",
@@ -37,92 +29,106 @@
           "type": "company",
           "path": "tickers/nflx.json",
           "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-11-19T18:30:51.000Z",
+      "published_at": "2026-11-20T19:36:03.000Z",
       "related": [
         {
-          "id": "dc201879aa8064ad5e0e80a07e0fb6d5",
-          "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
-          "image": "https://image.cnbcfm.com/api/v1/image/107157714-1669656813147-amaz.jpg?v=1694561107&w=1920&h=1080",
+          "id": "6f223bb4469d4db8596982a94efc9cd9",
+          "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
+          "image": "",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
-          "category": "stocks",
-          "published_at": "2026-11-19T20:46:23.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-20T09:48:52.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/dc201879aa8064ad5e0e80a07e0fb6d5.json"
+          "path": "articles/6f223bb4469d4db8596982a94efc9cd9.json"
         },
         {
-          "id": "889374e43f0e52a2e5d01a65929af255",
-          "title": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
-          "image": "https://image.cnbcfm.com/api/v1/image/108556066-1795129874503-108556066-1795129228984-gettyimages-2305354070-ANTHROPIC_IPO.jpeg?v=1795144010&w=1920&h=1080",
+          "id": "ad6b4015f471c17c432c75084050fb50",
+          "title": "Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-11-20T09:28:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 60,
-          "path": "articles/889374e43f0e52a2e5d01a65929af255.json"
-        },
-        {
-          "id": "24ad6ed77d3026051851fb9c265b2073",
-          "title": "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on",
-          "image": "https://image.cnbcfm.com/api/v1/image/108556213-1795151957529-gettyimages-2305279455-AFP_D7Y8729.jpeg?v=1795152010&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-20T09:26:45.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-19T15:54:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/24ad6ed77d3026051851fb9c265b2073.json"
+          "path": "articles/ad6b4015f471c17c432c75084050fb50.json"
         },
         {
-          "id": "bd04ebc4742e3e013254daeae6df7969",
-          "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks ",
-          "image": "https://image.cnbcfm.com/api/v1/image/108316517-1780554960547-gettyimages-2230425216-raa-intelsof250820_npZoK.jpeg?v=1780555182&w=1920&h=1080",
+          "id": "1e327b340be996803ea9bfe04abf1937",
+          "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-11-20T07:23:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/bd04ebc4742e3e013254daeae6df7969.json"
-        },
-        {
-          "id": "ea815260d8c98bf328506328c0ce3c4c",
-          "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
-          "image": "https://image.cnbcfm.com/api/v1/image/108556195-1795148768637-gettyimages-2304972251-AFP_D7NA4PX.jpeg?v=1795157922&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-20T07:08:36.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-20T18:46:03.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/ea815260d8c98bf328506328c0ce3c4c.json"
+          "path": "articles/1e327b340be996803ea9bfe04abf1937.json"
+        },
+        {
+          "id": "0e6ec6418b67d2045bbb8d603af0fd9d",
+          "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-20T13:23:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/0e6ec6418b67d2045bbb8d603af0fd9d.json"
+        },
+        {
+          "id": "db10faee1aeb27191f5cf3ac7a450bdc",
+          "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-20T06:08:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/db10faee1aeb27191f5cf3ac7a450bdc.json"
         }
       ],
-      "path": "articles/b2d309609a73d6c36d2f5ceebdb8d7c3.json"
+      "path": "articles/85e5f4f86a95f83361cbfc7b418f889d.json"
     }
   ]
 }

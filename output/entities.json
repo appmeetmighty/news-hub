@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-11-20T06:15:55.383Z",
+  "updated_at": "2026-11-20T06:31:15.339Z",
   "total": 31,
   "entities": [
-    {
-      "id": "btc",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "type": "crypto",
-      "path": "tickers/btc.json",
-      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 27
-    },
     {
       "id": "anthropic",
       "symbol": "ANTHROPIC",
@@ -18,6 +9,15 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
+      "count": 27
+    },
+    {
+      "id": "btc",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "path": "tickers/btc.json",
+      "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
       "count": 26
     },
     {
@@ -25,7 +25,7 @@
       "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 22
+      "count": 21
     },
     {
       "id": "crypto",
@@ -90,6 +90,15 @@
       "count": 5
     },
     {
+      "id": "spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "type": "company",
+      "path": "tickers/spacex.json",
+      "icon": "",
+      "count": 4
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -108,22 +117,6 @@
       "count": 3
     },
     {
-      "id": "mining",
-      "name": "Mining",
-      "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
-      "id": "spacex",
-      "symbol": "SPACEX",
-      "name": "SpaceX",
-      "type": "company",
-      "path": "tickers/spacex.json",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "googl",
       "symbol": "GOOGL",
       "name": "Google",
@@ -135,6 +128,13 @@
     {
       "id": "defi",
       "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
       "type": "topic",
       "icon": "",
       "count": 2

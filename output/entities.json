@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T10:46:26.458Z",
-  "total": 31,
+  "updated_at": "2026-11-20T11:01:27.551Z",
+  "total": 30,
   "entities": [
     {
       "id": "anthropic",
@@ -48,7 +48,14 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 10
+      "count": 9
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "blockchain",
@@ -60,22 +67,6 @@
     {
       "id": "stablecoin",
       "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 6
-    },
-    {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 5
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
       "type": "topic",
       "icon": "",
       "count": 5
@@ -99,6 +90,15 @@
       "count": 4
     },
     {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 4
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -106,6 +106,15 @@
       "path": "tickers/openai.json",
       "icon": "",
       "count": 4
+    },
+    {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 3
     },
     {
       "id": "amd",
@@ -138,15 +147,6 @@
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
       "icon": "",
       "count": 2
     },
@@ -225,15 +225,6 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 1
-    },
-    {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
       "count": 1
     },
     {

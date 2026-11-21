@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-21T11:15:56.031Z",
+  "updated_at": "2026-11-21T11:31:12.263Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 26,
+  "total": 27,
   "articles": [
     {
       "id": "b85948d718ee5edcdcdfcf8016739c8a",
@@ -163,6 +163,22 @@
           "path": "articles/1bf49fa62204e0ff27d0fda660370bf5.json"
         },
         {
+          "id": "e8de0ddc37de92d8e25401616f405d64",
+          "title": "S&P 500 correction: Five forces behind the market sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108554307-17950192062026-11-18t162223z_189106541_rc2dqoahnid0_rtrmadp_0_usa-stocks.jpeg?v=1795019320&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-21T11:29:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/e8de0ddc37de92d8e25401616f405d64.json"
+        },
+        {
           "id": "f799b83b92bc61c3e413a980a6ed3dc0",
           "title": "How China is using summits to expand its global influence",
           "image": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&w=1920&h=1080",
@@ -195,9 +211,9 @@
           "path": "articles/0c3da099f13240e3404292eb6d0dba0e.json"
         },
         {
-          "id": "c3ef67752481b1d4f28994c3f06506e7",
-          "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-          "image": "https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&w=1920&h=1080",
+          "id": "7834b8f0c1f0b4de2ed82184ad26be65",
+          "title": "Why Anthropic's blockbuster IPO couldn't escape the market correction",
+          "image": "https://image.cnbcfm.com/api/v1/image/108556065-1795129225164-gettyimages-2305353821-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -205,29 +221,129 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-20T22:59:33.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/c3ef67752481b1d4f28994c3f06506e7.json"
-        },
-        {
-          "id": "ee7d00ce15b0697dfb6b08ac717ba74a",
-          "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-          "image": "https://image.cnbcfm.com/api/v1/image/108550979-1794576417589-bessent3.jpg?v=1795125703&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-20T22:08:41.000Z",
+          "published_at": "2026-11-21T05:30:09.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/ee7d00ce15b0697dfb6b08ac717ba74a.json"
+          "path": "articles/7834b8f0c1f0b4de2ed82184ad26be65.json"
         }
       ],
       "path": "articles/e03fc0c14a3c081ff819de7a0efb5238.json"
+    },
+    {
+      "id": "7834b8f0c1f0b4de2ed82184ad26be65",
+      "title": "Why Anthropic's blockbuster IPO couldn't escape the market correction",
+      "description": "Anthropic's IPO was a big public market success for the company, but Friday's selloff shows that valuing the AI stock will remain volatile for investors.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556065-1795129225164-gettyimages-2305353821-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-21T05:30:09.000Z",
+      "related": [
+        {
+          "id": "cb58df4a67a38e95257b840b71eb2608",
+          "title": "Cathie Wood’s Ark Invest was a big buyer of Anthropic as she tells CNBC she’s ‘quite optimistic’",
+          "image": "https://image.cnbcfm.com/api/v1/image/108105131-1740076633886-gettyimages-2200882553-jr_15369_3ujvxyem.jpeg?v=1740076750&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-20T16:18:04.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cb58df4a67a38e95257b840b71eb2608.json"
+        },
+        {
+          "id": "02f743868f48c359471d276efc2fa076",
+          "title": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive",
+          "image": "https://image.cnbcfm.com/api/v1/image/108555730-1795112420119-gettyimages-2305353646-ANTHROPIC_IPO.jpeg?v=1795112447&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-20T15:12:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/02f743868f48c359471d276efc2fa076.json"
+        },
+        {
+          "id": "3d53b44b690b525fe4cbe6625424ee9c",
+          "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
+          "image": "https://image.cnbcfm.com/api/v1/image/108555352-17951019042026-11-19t145814z_563319887_rc21roaktnjs_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795101947&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-20T14:59:38.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3d53b44b690b525fe4cbe6625424ee9c.json"
+        },
+        {
+          "id": "f7e1414040e4f80e75b598ac657c0f5e",
+          "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
+          "image": "https://image.cnbcfm.com/api/v1/image/108268517-1771860022960-gettyimages-2260490322-AFP_96YR6Q2.jpeg?v=1789476137&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-20T14:34:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f7e1414040e4f80e75b598ac657c0f5e.json"
+        },
+        {
+          "id": "c0efaa87f644f23a4ef5f157ebce97f0",
+          "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+          "image": "https://image.cnbcfm.com/api/v1/image/105163084-GettyImages-471605673.jpg?v=1532563649&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-20T06:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/c0efaa87f644f23a4ef5f157ebce97f0.json"
+        }
+      ],
+      "path": "articles/7834b8f0c1f0b4de2ed82184ad26be65.json"
     },
     {
       "id": "cae786eaef2855ab84f1a90d12480bd9",
@@ -269,6 +385,22 @@
           "reading_time_minutes": 1,
           "breaking_score": 50,
           "path": "articles/c3ef67752481b1d4f28994c3f06506e7.json"
+        },
+        {
+          "id": "e8de0ddc37de92d8e25401616f405d64",
+          "title": "S&P 500 correction: Five forces behind the market sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108554307-17950192062026-11-18t162223z_189106541_rc2dqoahnid0_rtrmadp_0_usa-stocks.jpeg?v=1795019320&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-21T11:29:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/e8de0ddc37de92d8e25401616f405d64.json"
         },
         {
           "id": "f799b83b92bc61c3e413a980a6ed3dc0",
@@ -317,22 +449,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/e03fc0c14a3c081ff819de7a0efb5238.json"
-        },
-        {
-          "id": "ee7d00ce15b0697dfb6b08ac717ba74a",
-          "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-          "image": "https://image.cnbcfm.com/api/v1/image/108550979-1794576417589-bessent3.jpg?v=1795125703&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-20T22:08:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ee7d00ce15b0697dfb6b08ac717ba74a.json"
         }
       ],
       "path": "articles/cae786eaef2855ab84f1a90d12480bd9.json"
@@ -479,6 +595,22 @@
       "published_at": "2026-11-20T19:59:03.000Z",
       "related": [
         {
+          "id": "e8de0ddc37de92d8e25401616f405d64",
+          "title": "S&P 500 correction: Five forces behind the market sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108554307-17950192062026-11-18t162223z_189106541_rc2dqoahnid0_rtrmadp_0_usa-stocks.jpeg?v=1795019320&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-21T11:29:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/e8de0ddc37de92d8e25401616f405d64.json"
+        },
+        {
           "id": "0c3da099f13240e3404292eb6d0dba0e",
           "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
           "image": "https://image.cnbcfm.com/api/v1/image/108554161-1795012667185-gettyimages-460992229-77958321.jpeg?v=1795012769&w=1920&h=1080",
@@ -541,22 +673,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 20,
           "path": "articles/c8ba7a5f07667ff9d993695fae8b7a37.json"
-        },
-        {
-          "id": "f7e1414040e4f80e75b598ac657c0f5e",
-          "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
-          "image": "https://image.cnbcfm.com/api/v1/image/108268517-1771860022960-gettyimages-2260490322-AFP_96YR6Q2.jpeg?v=1789476137&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-20T14:34:14.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f7e1414040e4f80e75b598ac657c0f5e.json"
         }
       ],
       "path": "articles/f557d0b14e931047ea809a8bca2fbb71.json"
@@ -883,6 +999,22 @@
           "path": "articles/f557d0b14e931047ea809a8bca2fbb71.json"
         },
         {
+          "id": "e8de0ddc37de92d8e25401616f405d64",
+          "title": "S&P 500 correction: Five forces behind the market sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108554307-17950192062026-11-18t162223z_189106541_rc2dqoahnid0_rtrmadp_0_usa-stocks.jpeg?v=1795019320&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-21T11:29:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/e8de0ddc37de92d8e25401616f405d64.json"
+        },
+        {
           "id": "f799b83b92bc61c3e413a980a6ed3dc0",
           "title": "How China is using summits to expand its global influence",
           "image": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&w=1920&h=1080",
@@ -897,22 +1029,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/f799b83b92bc61c3e413a980a6ed3dc0.json"
-        },
-        {
-          "id": "0c3da099f13240e3404292eb6d0dba0e",
-          "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
-          "image": "https://image.cnbcfm.com/api/v1/image/108554161-1795012667185-gettyimages-460992229-77958321.jpeg?v=1795012769&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-21T06:00:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/0c3da099f13240e3404292eb6d0dba0e.json"
         }
       ],
       "path": "articles/c8ba7a5f07667ff9d993695fae8b7a37.json"
@@ -1783,6 +1899,22 @@
       "published_at": "2026-11-20T06:00:01.000Z",
       "related": [
         {
+          "id": "e8de0ddc37de92d8e25401616f405d64",
+          "title": "S&P 500 correction: Five forces behind the market sell-off",
+          "image": "https://image.cnbcfm.com/api/v1/image/108554307-17950192062026-11-18t162223z_189106541_rc2dqoahnid0_rtrmadp_0_usa-stocks.jpeg?v=1795019320&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-21T11:29:25.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 20,
+          "path": "articles/e8de0ddc37de92d8e25401616f405d64.json"
+        },
+        {
           "id": "f799b83b92bc61c3e413a980a6ed3dc0",
           "title": "How China is using summits to expand its global influence",
           "image": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&w=1920&h=1080",
@@ -1831,9 +1963,9 @@
           "path": "articles/e03fc0c14a3c081ff819de7a0efb5238.json"
         },
         {
-          "id": "c3ef67752481b1d4f28994c3f06506e7",
-          "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-          "image": "https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&w=1920&h=1080",
+          "id": "7834b8f0c1f0b4de2ed82184ad26be65",
+          "title": "Why Anthropic's blockbuster IPO couldn't escape the market correction",
+          "image": "https://image.cnbcfm.com/api/v1/image/108556065-1795129225164-gettyimages-2305353821-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1841,26 +1973,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-20T22:59:33.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 50,
-          "path": "articles/c3ef67752481b1d4f28994c3f06506e7.json"
-        },
-        {
-          "id": "ee7d00ce15b0697dfb6b08ac717ba74a",
-          "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-          "image": "https://image.cnbcfm.com/api/v1/image/108550979-1794576417589-bessent3.jpg?v=1795125703&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-20T22:08:41.000Z",
+          "published_at": "2026-11-21T05:30:09.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/ee7d00ce15b0697dfb6b08ac717ba74a.json"
+          "path": "articles/7834b8f0c1f0b4de2ed82184ad26be65.json"
         }
       ],
       "path": "articles/8dc0a98ac8ef1203ff331ad921e4ff87.json"

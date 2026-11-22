@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22T14:15:53.908Z",
+  "updated_at": "2026-11-22T14:31:09.949Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
   "type": "company",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "5eea572ebaafdbe648316615f29e533d",
@@ -82,6 +82,68 @@
           "path": "articles/aba9f32e7576733813b356490f34ccba.json"
         },
         {
+          "id": "f7c6fa24518336f875cad3c756ed83b7",
+          "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
+          "image": "https://image.cnbcfm.com/api/v1/image/108553366-1794942971028-Screenshots00_01_01_00Still012.png?v=1794944217&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-22T14:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f7c6fa24518336f875cad3c756ed83b7.json"
+        },
+        {
+          "id": "c3ef67752481b1d4f28994c3f06506e7",
+          "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+          "image": "https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-20T22:59:33.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 50,
+          "path": "articles/c3ef67752481b1d4f28994c3f06506e7.json"
+        }
+      ],
+      "path": "articles/5eea572ebaafdbe648316615f29e533d.json"
+    },
+    {
+      "id": "f7c6fa24518336f875cad3c756ed83b7",
+      "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
+      "description": "Charles Broomfield set a post-college goal of reaching $750,000 in investments by age 30. Now 26, he expects to get there within the next year.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108553366-1794942971028-Screenshots00_01_01_00Still012.png?v=1794944217&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        }
+      ],
+      "published_at": "2026-11-22T14:00:01.000Z",
+      "related": [
+        {
           "id": "c3ef67752481b1d4f28994c3f06506e7",
           "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
           "image": "https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&w=1920&h=1080",
@@ -98,9 +160,9 @@
           "path": "articles/c3ef67752481b1d4f28994c3f06506e7.json"
         },
         {
-          "id": "7204baef4c00203d66189d3df5f68507",
-          "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/quantum-computer-decrypt-style-gID_7.jpg@png",
+          "id": "aba9f32e7576733813b356490f34ccba",
+          "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -108,13 +170,61 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-11-19T13:47:00.000Z",
+          "published_at": "2026-11-20T18:16:02.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/7204baef4c00203d66189d3df5f68507.json"
+          "path": "articles/aba9f32e7576733813b356490f34ccba.json"
+        },
+        {
+          "id": "5eea572ebaafdbe648316615f29e533d",
+          "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-22T14:01:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/5eea572ebaafdbe648316615f29e533d.json"
+        },
+        {
+          "id": "f47f28e0efe55862200a1be894246e9d",
+          "title": "Morning Minute: Google’s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-19T13:05:28.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f47f28e0efe55862200a1be894246e9d.json"
+        },
+        {
+          "id": "3765409565c281f7ba98d5daeecd773f",
+          "title": "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-18T20:16:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3765409565c281f7ba98d5daeecd773f.json"
         }
       ],
-      "path": "articles/5eea572ebaafdbe648316615f29e533d.json"
+      "path": "articles/f7c6fa24518336f875cad3c756ed83b7.json"
     },
     {
       "id": "c3ef67752481b1d4f28994c3f06506e7",
@@ -184,6 +294,22 @@
           "path": "articles/20c463de796bd314bfcb163d4dd2de7b.json"
         },
         {
+          "id": "f7c6fa24518336f875cad3c756ed83b7",
+          "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
+          "image": "https://image.cnbcfm.com/api/v1/image/108553366-1794942971028-Screenshots00_01_01_00Still012.png?v=1794944217&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-22T14:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f7c6fa24518336f875cad3c756ed83b7.json"
+        },
+        {
           "id": "554f2b52de1f939e183ffee87fd0d73d",
           "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
           "image": "https://image.cnbcfm.com/api/v1/image/108237918-1793908643837-108237918-1765118171532-gettyimages-2249151004-HUANG_SENATE.jpg?v=1795203530&w=1920&h=1080",
@@ -230,22 +356,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/22889809249ac1d693c9e827218749d0.json"
-        },
-        {
-          "id": "052643065f3396f9b634646c040db3d1",
-          "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-19T21:12:06.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/052643065f3396f9b634646c040db3d1.json"
         }
       ],
       "path": "articles/c3ef67752481b1d4f28994c3f06506e7.json"
@@ -580,6 +690,22 @@
           "path": "articles/aba9f32e7576733813b356490f34ccba.json"
         },
         {
+          "id": "f7c6fa24518336f875cad3c756ed83b7",
+          "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
+          "image": "https://image.cnbcfm.com/api/v1/image/108553366-1794942971028-Screenshots00_01_01_00Still012.png?v=1794944217&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-22T14:00:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f7c6fa24518336f875cad3c756ed83b7.json"
+        },
+        {
           "id": "c3ef67752481b1d4f28994c3f06506e7",
           "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
           "image": "https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&w=1920&h=1080",
@@ -594,22 +720,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 50,
           "path": "articles/c3ef67752481b1d4f28994c3f06506e7.json"
-        },
-        {
-          "id": "17bad9a3f07b83a1a28fe65e10acaf40",
-          "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-21T18:01:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/17bad9a3f07b83a1a28fe65e10acaf40.json"
         }
       ],
       "path": "articles/3765409565c281f7ba98d5daeecd773f.json"

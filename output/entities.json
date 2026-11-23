@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T06:01:21.839Z",
-  "total": 30,
+  "updated_at": "2026-11-23T06:15:50.306Z",
+  "total": 31,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 24
+      "count": 25
     },
     {
       "id": "anthropic",
@@ -21,15 +21,15 @@
       "count": 22
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 19
-    },
-    {
       "id": "crypto",
       "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 20
+    },
+    {
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
       "count": 19
@@ -55,7 +55,7 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 7
+      "count": 8
     },
     {
       "id": "etf",
@@ -108,6 +108,13 @@
       "count": 3
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 2
+    },
+    {
       "id": "msft",
       "symbol": "MSFT",
       "name": "Microsoft",
@@ -153,6 +160,13 @@
       "count": 2
     },
     {
+      "id": "web3",
+      "name": "Web3",
+      "type": "topic",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "oil",
       "symbol": "OIL",
       "name": "Oil",
@@ -194,13 +208,6 @@
       "name": "Netflix",
       "type": "company",
       "path": "tickers/nflx.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
       "icon": "",
       "count": 1
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T15:01:31.538Z",
+  "updated_at": "2026-11-23T17:01:24.739Z",
   "id": "xrp",
   "symbol": "XRP",
   "name": "XRP",
@@ -7,21 +7,45 @@
   "total": 1,
   "articles": [
     {
-      "id": "f294818f9a2c3ee29db1f8309bb8a7b6",
-      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-      "description": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+      "id": "b17e244139c7731e899b0f7b89ad960d",
+      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
+      "description": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
       "reading_time_minutes": 1,
-      "breaking_score": 20,
-      "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-      "image": "",
+      "breaking_score": 0,
+      "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/tom-lee-decrypt-style-04-gID_7.jpg@png",
       "source": {
-        "id": "coindesk",
-        "name": "CoinDesk",
-        "website": "https://www.coindesk.com",
-        "icon": "https://logo.clearbit.com/coindesk.com"
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
       },
       "category": "crypto",
       "entities": [
+        {
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
+        },
+        {
+          "id": "eth",
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "type": "crypto",
+          "path": "tickers/eth.json",
+          "icon": "https://assets.coincap.io/assets/icons/eth@2x.png"
+        },
+        {
+          "id": "sol",
+          "symbol": "SOL",
+          "name": "Solana",
+          "type": "crypto",
+          "path": "tickers/sol.json",
+          "icon": "https://assets.coincap.io/assets/icons/sol@2x.png"
+        },
         {
           "id": "xrp",
           "symbol": "XRP",
@@ -29,26 +53,14 @@
           "type": "crypto",
           "path": "tickers/xrp.json",
           "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png"
-        },
-        {
-          "id": "crypto",
-          "name": "Crypto",
-          "type": "topic",
-          "icon": ""
-        },
-        {
-          "id": "etf",
-          "name": "ETF",
-          "type": "topic",
-          "icon": ""
         }
       ],
-      "published_at": "2026-11-21T05:59:19.000Z",
+      "published_at": "2026-11-23T16:46:03.000Z",
       "related": [
         {
-          "id": "17871df0c5b40b798e58df73b656aade",
-          "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
+          "id": "1e327b340be996803ea9bfe04abf1937",
+          "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg@png",
           "source": {
             "id": "decrypt",
             "name": "Decrypt",
@@ -56,15 +68,15 @@
             "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-11-20T11:50:51.000Z",
+          "published_at": "2026-11-20T18:46:03.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 55,
-          "path": "articles/17871df0c5b40b798e58df73b656aade.json"
+          "breaking_score": 0,
+          "path": "articles/1e327b340be996803ea9bfe04abf1937.json"
         },
         {
-          "id": "a45a4df3178e276f58b9543a7cfcb780",
-          "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83K98XBWCQA16XQH3TE1CEA/hi-bitcoin-arbitrage-in-2020-can-still-be-profitable1.jpg",
+          "id": "060a1487727933c898168c899441dda5",
+          "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -72,61 +84,61 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-11-23T08:08:52.000Z",
+          "published_at": "2026-11-22T07:24:05.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a45a4df3178e276f58b9543a7cfcb780.json"
+          "breaking_score": 40,
+          "path": "articles/060a1487727933c898168c899441dda5.json"
         },
         {
-          "id": "cb41604b11e56010eccf3bd46d9d6528",
-          "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-          "image": "",
+          "id": "cfd312d407bbc3eb73074434ae227ffb",
+          "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-11-23T12:13:35.000Z",
+          "published_at": "2026-11-23T16:32:04.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/cb41604b11e56010eccf3bd46d9d6528.json"
+          "breaking_score": 80,
+          "path": "articles/cfd312d407bbc3eb73074434ae227ffb.json"
         },
         {
-          "id": "84a23d6db58cbaaa23c46b3313032a53",
-          "title": "Market rout kills 50 basis points December Fed rate hike bets",
-          "image": "",
+          "id": "b8377e0f68d0c2ab89f7e86302d5b05c",
+          "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
           "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
           "category": "crypto",
-          "published_at": "2026-11-23T04:45:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 55,
-          "path": "articles/84a23d6db58cbaaa23c46b3313032a53.json"
-        },
-        {
-          "id": "90c3140a626b38e686b081a2793b3d69",
-          "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-          "image": "",
-          "source": {
-            "id": "coindesk",
-            "name": "CoinDesk",
-            "website": "https://www.coindesk.com",
-            "icon": "https://logo.clearbit.com/coindesk.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-21T17:50:00.000Z",
+          "published_at": "2026-11-23T13:34:13.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 20,
-          "path": "articles/90c3140a626b38e686b081a2793b3d69.json"
+          "path": "articles/b8377e0f68d0c2ab89f7e86302d5b05c.json"
+        },
+        {
+          "id": "2fe7ad67a2ffe01510854d72acc19899",
+          "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-23T13:25:35.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2fe7ad67a2ffe01510854d72acc19899.json"
         }
       ],
-      "path": "articles/f294818f9a2c3ee29db1f8309bb8a7b6.json"
+      "path": "articles/b17e244139c7731e899b0f7b89ad960d.json"
     }
   ]
 }

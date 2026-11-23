@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T14:46:04.112Z",
+  "updated_at": "2026-11-23T15:01:31.540Z",
   "total": 32,
   "entities": [
     {
@@ -16,7 +16,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 25
     },
     {
       "id": "ai",
@@ -48,7 +48,7 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 9
+      "count": 10
     },
     {
       "id": "blockchain",
@@ -67,11 +67,20 @@
       "count": 4
     },
     {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 3
+    },
+    {
       "id": "etf",
       "name": "ETF",
       "type": "topic",
       "icon": "",
-      "count": 4
+      "count": 3
     },
     {
       "id": "googl",
@@ -80,16 +89,16 @@
       "type": "company",
       "path": "tickers/googl.json",
       "icon": "https://logo.clearbit.com/google.com",
-      "count": 4
+      "count": 3
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 3
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
+      "icon": "",
+      "count": 2
     },
     {
       "id": "defi",
@@ -129,15 +138,6 @@
       "id": "stablecoin",
       "name": "Stablecoin",
       "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "gemini",
-      "symbol": "GEMINI",
-      "name": "Gemini",
-      "type": "company",
-      "path": "tickers/gemini.json",
       "icon": "",
       "count": 2
     },
@@ -228,6 +228,15 @@
       "count": 1
     },
     {
+      "id": "gemini",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "type": "company",
+      "path": "tickers/gemini.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "c",
       "symbol": "C",
       "name": "Citigroup",
@@ -242,15 +251,6 @@
       "name": "AMD",
       "type": "company",
       "path": "tickers/amd.json",
-      "icon": "",
-      "count": 1
-    },
-    {
-      "id": "jpm",
-      "symbol": "JPM",
-      "name": "JPMorgan",
-      "type": "company",
-      "path": "tickers/jpm.json",
       "icon": "",
       "count": 1
     },

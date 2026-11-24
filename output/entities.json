@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:31:07.480Z",
+  "updated_at": "2026-11-24T22:45:51.108Z",
   "total": 22,
   "entities": [
     {
@@ -9,14 +9,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 37
+      "count": 36
     },
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 26
+      "count": 27
     },
     {
       "id": "nvda",
@@ -25,11 +25,18 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 26
+      "count": 25
     },
     {
       "id": "ai",
       "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 14
+    },
+    {
+      "id": "regulation",
+      "name": "Regulation",
       "type": "topic",
       "icon": "",
       "count": 14
@@ -42,13 +49,6 @@
       "path": "tickers/anthropic.json",
       "icon": "",
       "count": 8
-    },
-    {
-      "id": "regulation",
-      "name": "Regulation",
-      "type": "topic",
-      "icon": "",
-      "count": 6
     },
     {
       "id": "eth",
@@ -74,6 +74,15 @@
       "count": 4
     },
     {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "defi",
       "name": "DeFi",
       "type": "topic",
@@ -93,15 +102,6 @@
       "id": "blockchain",
       "name": "Blockchain",
       "type": "topic",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
       "icon": "",
       "count": 2
     },

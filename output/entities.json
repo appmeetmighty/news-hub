@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T07:31:08.222Z",
-  "total": 27,
+  "updated_at": "2026-11-24T07:45:52.866Z",
+  "total": 29,
   "entities": [
     {
       "id": "btc",
@@ -9,7 +9,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 33
+      "count": 34
     },
     {
       "id": "nvda",
@@ -57,15 +57,13 @@
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 6
+      "count": 5
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 4
     },
     {
@@ -101,10 +99,12 @@
       "count": 3
     },
     {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
-      "icon": "",
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
       "count": 3
     },
     {
@@ -112,15 +112,6 @@
       "name": "Blockchain",
       "type": "topic",
       "icon": "",
-      "count": 2
-    },
-    {
-      "id": "amzn",
-      "symbol": "AMZN",
-      "name": "Amazon",
-      "type": "company",
-      "path": "tickers/amzn.json",
-      "icon": "https://logo.clearbit.com/amazon.com",
       "count": 2
     },
     {
@@ -140,6 +131,24 @@
       "count": 2
     },
     {
+      "id": "blk",
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "type": "company",
+      "path": "tickers/blk.json",
+      "icon": "https://logo.clearbit.com/blackrock.com",
+      "count": 1
+    },
+    {
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan",
+      "type": "company",
+      "path": "tickers/jpm.json",
+      "icon": "",
+      "count": 1
+    },
+    {
       "id": "web3",
       "name": "Web3",
       "type": "topic",
@@ -153,6 +162,15 @@
       "type": "commodity",
       "path": "tickers/oil.json",
       "icon": "",
+      "count": 1
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "type": "company",
+      "path": "tickers/amzn.json",
+      "icon": "https://logo.clearbit.com/amazon.com",
       "count": 1
     },
     {

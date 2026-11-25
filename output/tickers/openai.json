@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-11-25T22:31:11.992Z",
+  "updated_at": "2026-11-25T22:45:54.620Z",
   "id": "openai",
   "symbol": "OPENAI",
   "name": "OpenAI",
   "type": "company",
-  "total": 5,
+  "total": 6,
   "articles": [
+    {
+      "id": "28bb1beab67c7d53571937e5eae9d402",
+      "title": "China's Google Just Released Its Fast New AI Model for Free",
+      "description": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg@png",
+      "source": {
+        "id": "decrypt",
+        "name": "Decrypt",
+        "website": "https://decrypt.co",
+        "icon": "https://logo.clearbit.com/decrypt.co"
+      },
+      "category": "crypto",
+      "entities": [
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "anthropic",
+          "symbol": "ANTHROPIC",
+          "name": "Anthropic",
+          "type": "company",
+          "path": "tickers/anthropic.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-25T22:38:09.000Z",
+      "related": [
+        {
+          "id": "12b960d0d91c2e8d0dadcac83b44f7b8",
+          "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-24T22:36:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/12b960d0d91c2e8d0dadcac83b44f7b8.json"
+        },
+        {
+          "id": "6145847bf57c06a72028670a73821b26",
+          "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T17:46:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6145847bf57c06a72028670a73821b26.json"
+        },
+        {
+          "id": "6f875c5b230dc86dabd31996d8b8408c",
+          "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-ai-robots-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-24T21:46:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6f875c5b230dc86dabd31996d8b8408c.json"
+        },
+        {
+          "id": "b438f4fb797a9200999969e200c8c201",
+          "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-23T21:46:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b438f4fb797a9200999969e200c8c201.json"
+        },
+        {
+          "id": "a8d816d1dce01eeef1effddce946449e",
+          "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ai-artificial-intelligence-decrypt-style-1-scaled-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-23T21:16:03.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/a8d816d1dce01eeef1effddce946449e.json"
+        }
+      ],
+      "path": "articles/28bb1beab67c7d53571937e5eae9d402.json"
+    },
     {
       "id": "2973378ad8bc0f15d3994f4709e1b1cc",
       "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
@@ -82,6 +214,22 @@
           "path": "articles/b438f4fb797a9200999969e200c8c201.json"
         },
         {
+          "id": "28bb1beab67c7d53571937e5eae9d402",
+          "title": "China's Google Just Released Its Fast New AI Model for Free",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T22:38:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/28bb1beab67c7d53571937e5eae9d402.json"
+        },
+        {
           "id": "6145847bf57c06a72028670a73821b26",
           "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png@png",
@@ -96,22 +244,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6145847bf57c06a72028670a73821b26.json"
-        },
-        {
-          "id": "1bf9d556f9f1836e5c0dc1d61e9e0062",
-          "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-          "image": "https://image.cnbcfm.com/api/v1/image/108558975-1795568702035-gettyimages-1245564144-SAUDI_ARABIA_KAFD.jpeg?v=1795568739&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-25T02:36:43.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/1bf9d556f9f1836e5c0dc1d61e9e0062.json"
         }
       ],
       "path": "articles/2973378ad8bc0f15d3994f4709e1b1cc.json"
@@ -149,6 +281,22 @@
       ],
       "published_at": "2026-11-25T17:46:02.000Z",
       "related": [
+        {
+          "id": "28bb1beab67c7d53571937e5eae9d402",
+          "title": "China's Google Just Released Its Fast New AI Model for Free",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T22:38:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/28bb1beab67c7d53571937e5eae9d402.json"
+        },
         {
           "id": "12b960d0d91c2e8d0dadcac83b44f7b8",
           "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
@@ -212,22 +360,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6d5b09cbb7fabcff227053bd29c011f8.json"
-        },
-        {
-          "id": "782753c6d19318366282fa21008e3d04",
-          "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-23T19:57:21.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/782753c6d19318366282fa21008e3d04.json"
         }
       ],
       "path": "articles/6145847bf57c06a72028670a73821b26.json"
@@ -314,6 +446,22 @@
           "path": "articles/b438f4fb797a9200999969e200c8c201.json"
         },
         {
+          "id": "28bb1beab67c7d53571937e5eae9d402",
+          "title": "China's Google Just Released Its Fast New AI Model for Free",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T22:38:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/28bb1beab67c7d53571937e5eae9d402.json"
+        },
+        {
           "id": "6145847bf57c06a72028670a73821b26",
           "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png@png",
@@ -328,22 +476,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6145847bf57c06a72028670a73821b26.json"
-        },
-        {
-          "id": "ba89a581cc1d64b57ac428ab820c8842",
-          "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-          "image": "https://image.cnbcfm.com/api/v1/image/108361509-1789075754512-gettyimages-2294573112-l1082579_copy_ud26kegt.jpeg?v=1789075971&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-25T14:18:45.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ba89a581cc1d64b57ac428ab820c8842.json"
         }
       ],
       "path": "articles/6d5b09cbb7fabcff227053bd29c011f8.json"
@@ -389,6 +521,22 @@
       ],
       "published_at": "2026-11-24T22:36:02.000Z",
       "related": [
+        {
+          "id": "28bb1beab67c7d53571937e5eae9d402",
+          "title": "China's Google Just Released Its Fast New AI Model for Free",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T22:38:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/28bb1beab67c7d53571937e5eae9d402.json"
+        },
         {
           "id": "b438f4fb797a9200999969e200c8c201",
           "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
@@ -452,22 +600,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6f875c5b230dc86dabd31996d8b8408c.json"
-        },
-        {
-          "id": "a8d816d1dce01eeef1effddce946449e",
-          "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ai-artificial-intelligence-decrypt-style-1-scaled-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-23T21:16:03.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/a8d816d1dce01eeef1effddce946449e.json"
         }
       ],
       "path": "articles/12b960d0d91c2e8d0dadcac83b44f7b8.json"
@@ -522,6 +654,22 @@
           "path": "articles/12b960d0d91c2e8d0dadcac83b44f7b8.json"
         },
         {
+          "id": "28bb1beab67c7d53571937e5eae9d402",
+          "title": "China's Google Just Released Its Fast New AI Model for Free",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T22:38:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/28bb1beab67c7d53571937e5eae9d402.json"
+        },
+        {
           "id": "6145847bf57c06a72028670a73821b26",
           "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png@png",
@@ -568,22 +716,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6d5b09cbb7fabcff227053bd29c011f8.json"
-        },
-        {
-          "id": "f7c79eeeb1a3db3f90eea4dbf09cdc46",
-          "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/alice-huang-social-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-25T21:46:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f7c79eeeb1a3db3f90eea4dbf09cdc46.json"
         }
       ],
       "path": "articles/b438f4fb797a9200999969e200c8c201.json"

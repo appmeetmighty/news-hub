@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-25T09:31:10.168Z",
+  "updated_at": "2026-11-25T09:45:55.624Z",
   "id": "nvda",
   "symbol": "NVDA",
   "name": "NVIDIA",
   "type": "company",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
-      "id": "24ec17cdd3f8148acf30201d76eb1696",
-      "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-      "description": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds.",
+      "id": "a3e68019316f5aecaac6edeed3fa3911",
+      "title": "Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
+      "description": "Tech stocks tumbled Wednesday, as renewed concerns over the artificial intelligence trade rattled investors.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107417946-1716311561256-gettyimages-2131329168-April_3_2024_Krakow_AI_logoes-9.jpeg?v=1727274261&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108442605-1792601977486-Dextro_Cobot_hero_image.png?v=1792602146&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -37,8 +37,24 @@
           "icon": ""
         }
       ],
-      "published_at": "2026-11-25T06:29:46.000Z",
+      "published_at": "2026-11-25T09:42:15.000Z",
       "related": [
+        {
+          "id": "24ec17cdd3f8148acf30201d76eb1696",
+          "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+          "image": "https://image.cnbcfm.com/api/v1/image/107417946-1716311561256-gettyimages-2131329168-April_3_2024_Krakow_AI_logoes-9.jpeg?v=1727274261&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T06:29:46.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/24ec17cdd3f8148acf30201d76eb1696.json"
+        },
         {
           "id": "d2158f1738fc01400caa2c63f6d5b8b9",
           "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -102,11 +118,47 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/1fcfcb3d5f4ea94a007fc145117b5fdd.json"
+        }
+      ],
+      "path": "articles/a3e68019316f5aecaac6edeed3fa3911.json"
+    },
+    {
+      "id": "24ec17cdd3f8148acf30201d76eb1696",
+      "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+      "description": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107417946-1716311561256-gettyimages-2131329168-April_3_2024_Krakow_AI_logoes-9.jpeg?v=1727274261&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
         },
         {
-          "id": "1801f9c70a8fa1dc999aad6459c84e62",
-          "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-          "image": "https://image.cnbcfm.com/api/v1/image/108556418-1795181059322-gettyimages-2305377948-AFP_D83H4EV.jpeg?v=1795554551&w=1920&h=1080",
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-25T06:29:46.000Z",
+      "related": [
+        {
+          "id": "a3e68019316f5aecaac6edeed3fa3911",
+          "title": "Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
+          "image": "https://image.cnbcfm.com/api/v1/image/108442605-1792601977486-Dextro_Cobot_hero_image.png?v=1792602146&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -114,10 +166,74 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-24T21:13:39.000Z",
+          "published_at": "2026-11-25T09:42:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/1801f9c70a8fa1dc999aad6459c84e62.json"
+          "path": "articles/a3e68019316f5aecaac6edeed3fa3911.json"
+        },
+        {
+          "id": "d2158f1738fc01400caa2c63f6d5b8b9",
+          "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+          "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T01:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d2158f1738fc01400caa2c63f6d5b8b9.json"
+        },
+        {
+          "id": "2374d55a8236989c0d19cc86fb14846b",
+          "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-24T17:51:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2374d55a8236989c0d19cc86fb14846b.json"
+        },
+        {
+          "id": "cd0ab57e83764a62e47c8bcfd02c11e0",
+          "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+          "image": "https://image.cnbcfm.com/api/v1/image/108550584-1794519112118-gettyimages-2297269641-TRUMP_TECH_AI.jpeg?v=1795450322&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-24T13:31:29.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cd0ab57e83764a62e47c8bcfd02c11e0.json"
+        },
+        {
+          "id": "1fcfcb3d5f4ea94a007fc145117b5fdd",
+          "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+          "image": "https://image.cnbcfm.com/api/v1/image/108558891-17955580042026-11-24t220218z_1455087937_rc2kuoayz91p_rtrmadp_0_usa-trump.jpeg?v=1795558033&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T02:09:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1fcfcb3d5f4ea94a007fc145117b5fdd.json"
         }
       ],
       "path": "articles/24ec17cdd3f8148acf30201d76eb1696.json"
@@ -578,9 +694,9 @@
           "path": "articles/cfd312d407bbc3eb73074434ae227ffb.json"
         },
         {
-          "id": "24ec17cdd3f8148acf30201d76eb1696",
-          "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-          "image": "https://image.cnbcfm.com/api/v1/image/107417946-1716311561256-gettyimages-2131329168-April_3_2024_Krakow_AI_logoes-9.jpeg?v=1727274261&w=1920&h=1080",
+          "id": "a3e68019316f5aecaac6edeed3fa3911",
+          "title": "Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
+          "image": "https://image.cnbcfm.com/api/v1/image/108442605-1792601977486-Dextro_Cobot_hero_image.png?v=1792602146&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -588,10 +704,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-25T06:29:46.000Z",
+          "published_at": "2026-11-25T09:42:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/24ec17cdd3f8148acf30201d76eb1696.json"
+          "path": "articles/a3e68019316f5aecaac6edeed3fa3911.json"
         }
       ],
       "path": "articles/d2158f1738fc01400caa2c63f6d5b8b9.json"
@@ -1032,9 +1148,9 @@
           "path": "articles/cfd312d407bbc3eb73074434ae227ffb.json"
         },
         {
-          "id": "24ec17cdd3f8148acf30201d76eb1696",
-          "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-          "image": "https://image.cnbcfm.com/api/v1/image/107417946-1716311561256-gettyimages-2131329168-April_3_2024_Krakow_AI_logoes-9.jpeg?v=1727274261&w=1920&h=1080",
+          "id": "a3e68019316f5aecaac6edeed3fa3911",
+          "title": "Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
+          "image": "https://image.cnbcfm.com/api/v1/image/108442605-1792601977486-Dextro_Cobot_hero_image.png?v=1792602146&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1042,10 +1158,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-25T06:29:46.000Z",
+          "published_at": "2026-11-25T09:42:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/24ec17cdd3f8148acf30201d76eb1696.json"
+          "path": "articles/a3e68019316f5aecaac6edeed3fa3911.json"
         }
       ],
       "path": "articles/cd0ab57e83764a62e47c8bcfd02c11e0.json"
@@ -1716,9 +1832,9 @@
           "path": "articles/3dbe2aa2f30a84ff1d6d2f36eaee5578.json"
         },
         {
-          "id": "24ec17cdd3f8148acf30201d76eb1696",
-          "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-          "image": "https://image.cnbcfm.com/api/v1/image/107417946-1716311561256-gettyimages-2131329168-April_3_2024_Krakow_AI_logoes-9.jpeg?v=1727274261&w=1920&h=1080",
+          "id": "a3e68019316f5aecaac6edeed3fa3911",
+          "title": "Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
+          "image": "https://image.cnbcfm.com/api/v1/image/108442605-1792601977486-Dextro_Cobot_hero_image.png?v=1792602146&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1726,10 +1842,10 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-25T06:29:46.000Z",
+          "published_at": "2026-11-25T09:42:15.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/24ec17cdd3f8148acf30201d76eb1696.json"
+          "path": "articles/a3e68019316f5aecaac6edeed3fa3911.json"
         }
       ],
       "path": "articles/0f63f36de5872c78f04eedc83c2aa179.json"

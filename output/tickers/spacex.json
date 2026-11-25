@@ -1,11 +1,129 @@
 {
-  "updated_at": "2026-11-25T18:31:10.595Z",
+  "updated_at": "2026-11-25T18:45:51.660Z",
   "id": "spacex",
   "symbol": "SPACEX",
   "name": "SpaceX",
   "type": "company",
-  "total": 2,
+  "total": 3,
   "articles": [
+    {
+      "id": "eb47aa854dcb06bd986e58ba24b2fd51",
+      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "description": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "spacex",
+          "symbol": "SPACEX",
+          "name": "SpaceX",
+          "type": "company",
+          "path": "tickers/spacex.json",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-25T18:22:59.000Z",
+      "related": [
+        {
+          "id": "07f29e8acbf0027dcdbe1fee41f83693",
+          "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89THTPYBFG3C2HD4QRYNZJM/spaceblack-holemoney-cardano.png",
+          "source": {
+            "id": "cointelegraph",
+            "name": "Cointelegraph",
+            "website": "https://cointelegraph.com",
+            "icon": "https://logo.clearbit.com/cointelegraph.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T17:10:53.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/07f29e8acbf0027dcdbe1fee41f83693.json"
+        },
+        {
+          "id": "1e5442f983e20313295cdcad51704544",
+          "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-spacex-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T18:18:10.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/1e5442f983e20313295cdcad51704544.json"
+        },
+        {
+          "id": "6e7155877853514be4f229e7157be482",
+          "title": "Kalshi traders say state data center moratoriums are more likely than not",
+          "image": "https://image.cnbcfm.com/api/v1/image/108438990-1792529087333-gettyimages-2301197366-_04a5027_adb1ugww.jpeg?v=1795622439&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T17:36:54.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6e7155877853514be4f229e7157be482.json"
+        },
+        {
+          "id": "6bf92de80f07add454a9fd73c4c24a09",
+          "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353329-1787582499135-gettyimages-2291320611-AFP_C6DP8QP.jpeg?v=1787582612&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T18:08:08.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6bf92de80f07add454a9fd73c4c24a09.json"
+        },
+        {
+          "id": "033246d0d4a9b004f52a123e57d891c4",
+          "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+          "image": "https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792415233&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T15:55:40.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 45,
+          "path": "articles/033246d0d4a9b004f52a123e57d891c4.json"
+        }
+      ],
+      "path": "articles/eb47aa854dcb06bd986e58ba24b2fd51.json"
+    },
     {
       "id": "1e5442f983e20313295cdcad51704544",
       "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
@@ -80,6 +198,22 @@
           "path": "articles/07f29e8acbf0027dcdbe1fee41f83693.json"
         },
         {
+          "id": "eb47aa854dcb06bd986e58ba24b2fd51",
+          "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+          "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T18:22:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb47aa854dcb06bd986e58ba24b2fd51.json"
+        },
+        {
           "id": "02c2e9f95a6505474bf30378e07e79fd",
           "title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/Profeta-do-Hardware-Celestial-gID_7.png@png",
@@ -110,22 +244,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6145847bf57c06a72028670a73821b26.json"
-        },
-        {
-          "id": "7106351a639a88bddda3d2a68fb161fc",
-          "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89RQDCSS11KJ2G00H0WCG5F/article-covers-243058-bitcoin-spot-traders-lose-ground-as-btc-bears-defend-dollar98k-1280x853.webp",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-25T17:33:22.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/7106351a639a88bddda3d2a68fb161fc.json"
         }
       ],
       "path": "articles/1e5442f983e20313295cdcad51704544.json"
@@ -163,6 +281,22 @@
       ],
       "published_at": "2026-11-25T17:10:53.000Z",
       "related": [
+        {
+          "id": "eb47aa854dcb06bd986e58ba24b2fd51",
+          "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+          "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T18:22:59.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/eb47aa854dcb06bd986e58ba24b2fd51.json"
+        },
         {
           "id": "1e5442f983e20313295cdcad51704544",
           "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
@@ -226,22 +360,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/860712892d7a00b442cf4392c82cf654.json"
-        },
-        {
-          "id": "fa31915c87cfbb39df04094dc2ad5d5e",
-          "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89EG9XE1SFYT4R3QX10Q2ZA/hi-changpeng-zhao.jpg",
-          "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-25T14:21:36.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 25,
-          "path": "articles/fa31915c87cfbb39df04094dc2ad5d5e.json"
         }
       ],
       "path": "articles/07f29e8acbf0027dcdbe1fee41f83693.json"

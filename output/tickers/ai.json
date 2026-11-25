@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-25T13:15:54.649Z",
+  "updated_at": "2026-11-25T13:31:11.028Z",
   "id": "ai",
   "name": "AI",
   "type": "topic",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "970d8c41cc496e6792cb4889fa3a0fa6",
@@ -36,6 +36,22 @@
       ],
       "published_at": "2026-11-25T11:52:06.000Z",
       "related": [
+        {
+          "id": "d7920a182cb66bbea92e046b7f5dadef",
+          "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T13:15:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d7920a182cb66bbea92e046b7f5dadef.json"
+        },
         {
           "id": "c038eedc11f915b54b863c843acd8712",
           "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
@@ -99,22 +115,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d9daf5de105bdb1d9d3b1e7dd1de98bf.json"
-        },
-        {
-          "id": "82b1440625af867ad26af8f96a50524d",
-          "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-24T13:07:49.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/82b1440625af867ad26af8f96a50524d.json"
         }
       ],
       "path": "articles/970d8c41cc496e6792cb4889fa3a0fa6.json"
@@ -561,9 +561,9 @@
           "path": "articles/51727a7b2810ac5fb3a440cbb3590284.json"
         },
         {
-          "id": "7e86b631073a45377c0dfabacbf2540a",
-          "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8992X91RDVP095WKH0ZV4TH/u11111.png",
+          "id": "78f7a83e386d3f9bd80908be49f28870",
+          "title": "Here’s what happened in crypto today",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
           "source": {
             "id": "cointelegraph",
             "name": "Cointelegraph",
@@ -571,13 +571,129 @@
             "icon": "https://logo.clearbit.com/cointelegraph.com"
           },
           "category": "crypto",
-          "published_at": "2026-11-25T13:02:09.000Z",
+          "published_at": "2026-11-25T13:26:05.000Z",
           "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/7e86b631073a45377c0dfabacbf2540a.json"
+          "breaking_score": 0,
+          "path": "articles/78f7a83e386d3f9bd80908be49f28870.json"
         }
       ],
       "path": "articles/38a011ab82618b87c4d1e59c4b6c142c.json"
+    },
+    {
+      "id": "24ec17cdd3f8148acf30201d76eb1696",
+      "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+      "description": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107417946-1716311561256-gettyimages-2131329168-April_3_2024_Krakow_AI_logoes-9.jpeg?v=1727274261&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "nvda",
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "type": "company",
+          "path": "tickers/nvda.json",
+          "icon": "https://logo.clearbit.com/nvidia.com"
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-25T06:29:46.000Z",
+      "related": [
+        {
+          "id": "f102b4113635fd81df89c18cdfa9f272",
+          "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+          "image": "https://image.cnbcfm.com/api/v1/image/108363966-17895850832026-09-16t184440z_1480461473_rc2iknalvbnr_rtrmadp_0_usa-fed.jpeg?v=1789585109&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T12:26:41.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f102b4113635fd81df89c18cdfa9f272.json"
+        },
+        {
+          "id": "d2158f1738fc01400caa2c63f6d5b8b9",
+          "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+          "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T01:13:56.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d2158f1738fc01400caa2c63f6d5b8b9.json"
+        },
+        {
+          "id": "3c62ac013d966168ba9993ef3b4a3eb1",
+          "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+          "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-24T23:13:49.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/3c62ac013d966168ba9993ef3b4a3eb1.json"
+        },
+        {
+          "id": "2374d55a8236989c0d19cc86fb14846b",
+          "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+          "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-24T17:51:45.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2374d55a8236989c0d19cc86fb14846b.json"
+        },
+        {
+          "id": "8b749b48a8ca4143e2e67185fa0c11a7",
+          "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+          "image": "https://image.cnbcfm.com/api/v1/image/108476949-1793221677813-gettyimages-2302436271-kbd11644_3qp4ciac.jpeg?v=1793754912&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T13:20:34.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8b749b48a8ca4143e2e67185fa0c11a7.json"
+        }
+      ],
+      "path": "articles/24ec17cdd3f8148acf30201d76eb1696.json"
     },
     {
       "id": "e23bcfa39139f4e5e8557ba10acd496e",
@@ -627,6 +743,54 @@
           "path": "articles/d2158f1738fc01400caa2c63f6d5b8b9.json"
         },
         {
+          "id": "8b749b48a8ca4143e2e67185fa0c11a7",
+          "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+          "image": "https://image.cnbcfm.com/api/v1/image/108476949-1793221677813-gettyimages-2302436271-kbd11644_3qp4ciac.jpeg?v=1793754912&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T13:20:34.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8b749b48a8ca4143e2e67185fa0c11a7.json"
+        },
+        {
+          "id": "bc349b0efa1966271e9ae9d34a601670",
+          "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+          "image": "https://image.cnbcfm.com/api/v1/image/108559208-1795612724128-108559208-1795612564049-gettyimages-2306242882-BLACK_FRIDAY_SHOPPING.jpg?v=1795612731&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T13:17:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bc349b0efa1966271e9ae9d34a601670.json"
+        },
+        {
+          "id": "9b21fe57f070cbd78a84b0ddb12719f0",
+          "title": "The Fed is likely to raise rates in December. What it means for your holiday spending",
+          "image": "https://image.cnbcfm.com/api/v1/image/108235452-1764704473571-gettyimages-2248313259-BLACK_FRIDAY_SHOPPING.jpeg?v=1795610766&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T13:15:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 35,
+          "path": "articles/9b21fe57f070cbd78a84b0ddb12719f0.json"
+        },
+        {
           "id": "4a5f51e6e41011311d9e5f063ba1fdbc",
           "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
           "image": "https://image.cnbcfm.com/api/v1/image/108354862-1787782636413-gettyimages-2291629463-1568136-port-of-long-beach-ajs-07.jpeg?v=1787782727&w=1920&h=1080",
@@ -641,54 +805,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4a5f51e6e41011311d9e5f063ba1fdbc.json"
-        },
-        {
-          "id": "8b749b48a8ca4143e2e67185fa0c11a7",
-          "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-          "image": "https://image.cnbcfm.com/api/v1/image/108469574-1793116125092-gettyimages-2301782338-AFP_D4L489R.jpeg?v=1793116206&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-25T13:05:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8b749b48a8ca4143e2e67185fa0c11a7.json"
-        },
-        {
-          "id": "bc349b0efa1966271e9ae9d34a601670",
-          "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-          "image": "https://image.cnbcfm.com/api/v1/image/108557848-1795470044131-gettyimages-2306011651-1579397-me-grocery-shopping-thanksgiving-eat-0005.jpeg?v=1795470152&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-25T13:01:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bc349b0efa1966271e9ae9d34a601670.json"
-        },
-        {
-          "id": "f102b4113635fd81df89c18cdfa9f272",
-          "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363966-17895850832026-09-16t184440z_1480461473_rc2iknalvbnr_rtrmadp_0_usa-fed.jpeg?v=1789585109&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-25T12:26:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f102b4113635fd81df89c18cdfa9f272.json"
         }
       ],
       "path": "articles/e23bcfa39139f4e5e8557ba10acd496e.json"
@@ -975,22 +1091,6 @@
           "path": "articles/5a978d22dd1f28cdcb35917541a36e33.json"
         },
         {
-          "id": "9bb1298f6fbe137adef2075a362fe83f",
-          "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
-          "image": "https://image.cnbcfm.com/api/v1/image/108548604-1794349959300-gettyimages-2304504774-anotherday36809902_nb5fdvlx.jpeg?v=1794350087&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-25T00:04:08.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/9bb1298f6fbe137adef2075a362fe83f.json"
-        },
-        {
           "id": "684e4e02053db023c2efed951a40c122",
           "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
           "image": "https://image.cnbcfm.com/api/v1/image/108550979-1794576417589-bessent3.jpg?v=1795557329&w=1920&h=1080",
@@ -1023,9 +1123,9 @@
           "path": "articles/31a36ae03b40e61a9223e86b63277bea.json"
         },
         {
-          "id": "4a5f51e6e41011311d9e5f063ba1fdbc",
-          "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-          "image": "https://image.cnbcfm.com/api/v1/image/108354862-1787782636413-gettyimages-2291629463-1568136-port-of-long-beach-ajs-07.jpeg?v=1787782727&w=1920&h=1080",
+          "id": "8b749b48a8ca4143e2e67185fa0c11a7",
+          "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+          "image": "https://image.cnbcfm.com/api/v1/image/108476949-1793221677813-gettyimages-2302436271-kbd11644_3qp4ciac.jpeg?v=1793754912&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -1033,10 +1133,26 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-25T13:11:09.000Z",
+          "published_at": "2026-11-25T13:20:34.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/4a5f51e6e41011311d9e5f063ba1fdbc.json"
+          "path": "articles/8b749b48a8ca4143e2e67185fa0c11a7.json"
+        },
+        {
+          "id": "bc349b0efa1966271e9ae9d34a601670",
+          "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+          "image": "https://image.cnbcfm.com/api/v1/image/108559208-1795612724128-108559208-1795612564049-gettyimages-2306242882-BLACK_FRIDAY_SHOPPING.jpg?v=1795612731&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T13:17:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bc349b0efa1966271e9ae9d34a601670.json"
         }
       ],
       "path": "articles/c6d4f9513b96fdb293faa286dfb8b453.json"
@@ -1207,6 +1323,54 @@
           "path": "articles/61c46f7d43c3d98eb733e4ff71582192.json"
         },
         {
+          "id": "8b749b48a8ca4143e2e67185fa0c11a7",
+          "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+          "image": "https://image.cnbcfm.com/api/v1/image/108476949-1793221677813-gettyimages-2302436271-kbd11644_3qp4ciac.jpeg?v=1793754912&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T13:20:34.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/8b749b48a8ca4143e2e67185fa0c11a7.json"
+        },
+        {
+          "id": "bc349b0efa1966271e9ae9d34a601670",
+          "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+          "image": "https://image.cnbcfm.com/api/v1/image/108559208-1795612724128-108559208-1795612564049-gettyimages-2306242882-BLACK_FRIDAY_SHOPPING.jpg?v=1795612731&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T13:17:31.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/bc349b0efa1966271e9ae9d34a601670.json"
+        },
+        {
+          "id": "9b21fe57f070cbd78a84b0ddb12719f0",
+          "title": "The Fed is likely to raise rates in December. What it means for your holiday spending",
+          "image": "https://image.cnbcfm.com/api/v1/image/108235452-1764704473571-gettyimages-2248313259-BLACK_FRIDAY_SHOPPING.jpeg?v=1795610766&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-25T13:15:01.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 35,
+          "path": "articles/9b21fe57f070cbd78a84b0ddb12719f0.json"
+        },
+        {
           "id": "4a5f51e6e41011311d9e5f063ba1fdbc",
           "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
           "image": "https://image.cnbcfm.com/api/v1/image/108354862-1787782636413-gettyimages-2291629463-1568136-port-of-long-beach-ajs-07.jpeg?v=1787782727&w=1920&h=1080",
@@ -1221,54 +1385,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/4a5f51e6e41011311d9e5f063ba1fdbc.json"
-        },
-        {
-          "id": "8b749b48a8ca4143e2e67185fa0c11a7",
-          "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-          "image": "https://image.cnbcfm.com/api/v1/image/108469574-1793116125092-gettyimages-2301782338-AFP_D4L489R.jpeg?v=1793116206&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-25T13:05:38.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/8b749b48a8ca4143e2e67185fa0c11a7.json"
-        },
-        {
-          "id": "bc349b0efa1966271e9ae9d34a601670",
-          "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-          "image": "https://image.cnbcfm.com/api/v1/image/108557848-1795470044131-gettyimages-2306011651-1579397-me-grocery-shopping-thanksgiving-eat-0005.jpeg?v=1795470152&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-25T13:01:01.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/bc349b0efa1966271e9ae9d34a601670.json"
-        },
-        {
-          "id": "f102b4113635fd81df89c18cdfa9f272",
-          "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-          "image": "https://image.cnbcfm.com/api/v1/image/108363966-17895850832026-09-16t184440z_1480461473_rc2iknalvbnr_rtrmadp_0_usa-fed.jpeg?v=1789585109&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-25T12:26:41.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/f102b4113635fd81df89c18cdfa9f272.json"
         }
       ],
       "path": "articles/2dbeb3624bbc5359805454928573d523.json"
@@ -1653,6 +1769,22 @@
       "published_at": "2026-11-23T23:06:02.000Z",
       "related": [
         {
+          "id": "d7920a182cb66bbea92e046b7f5dadef",
+          "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T13:15:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d7920a182cb66bbea92e046b7f5dadef.json"
+        },
+        {
           "id": "970d8c41cc496e6792cb4889fa3a0fa6",
           "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
@@ -1715,22 +1847,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/7bb0c789f05d849086807e500a327cc8.json"
-        },
-        {
-          "id": "12b960d0d91c2e8d0dadcac83b44f7b8",
-          "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-24T22:36:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/12b960d0d91c2e8d0dadcac83b44f7b8.json"
         }
       ],
       "path": "articles/1f4556a8113d92676fe9611458252f73.json"
@@ -1801,6 +1917,22 @@
           "path": "articles/033246d0d4a9b004f52a123e57d891c4.json"
         },
         {
+          "id": "d7920a182cb66bbea92e046b7f5dadef",
+          "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T13:15:24.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d7920a182cb66bbea92e046b7f5dadef.json"
+        },
+        {
           "id": "970d8c41cc496e6792cb4889fa3a0fa6",
           "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
@@ -1831,22 +1963,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/d48798aa8e3a5d9f0e5ec1fb8c1ed832.json"
-        },
-        {
-          "id": "c642d60e5d6a7259ae64b03513ab3807",
-          "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-25T10:35:57.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c642d60e5d6a7259ae64b03513ab3807.json"
         }
       ],
       "path": "articles/b438f4fb797a9200999969e200c8c201.json"

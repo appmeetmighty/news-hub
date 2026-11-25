@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T13:31:11.031Z",
+  "updated_at": "2026-11-25T13:45:57.292Z",
   "total": 22,
   "entities": [
     {
@@ -19,6 +19,13 @@
       "count": 28
     },
     {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 20
+    },
+    {
       "id": "nvda",
       "symbol": "NVDA",
       "name": "NVIDIA",
@@ -26,13 +33,6 @@
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
       "count": 20
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 19
     },
     {
       "id": "regulation",
@@ -58,22 +58,22 @@
       "count": 7
     },
     {
-      "id": "sol",
-      "symbol": "SOL",
-      "name": "Solana",
-      "type": "crypto",
-      "path": "tickers/sol.json",
-      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
-      "count": 6
-    },
-    {
       "id": "eth",
       "symbol": "ETH",
       "name": "Ethereum",
       "type": "crypto",
       "path": "tickers/eth.json",
       "icon": "https://assets.coincap.io/assets/icons/eth@2x.png",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "sol",
+      "symbol": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "path": "tickers/sol.json",
+      "icon": "https://assets.coincap.io/assets/icons/sol@2x.png",
+      "count": 5
     },
     {
       "id": "gold",

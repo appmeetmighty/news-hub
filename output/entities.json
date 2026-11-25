@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-25T16:01:34.663Z",
-  "total": 23,
+  "updated_at": "2026-11-25T16:16:08.985Z",
+  "total": 22,
   "entities": [
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "type": "topic",
+      "icon": "",
+      "count": 32
+    },
     {
       "id": "btc",
       "symbol": "BTC",
@@ -9,14 +16,14 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 32
+      "count": 31
     },
     {
-      "id": "crypto",
-      "name": "Crypto",
+      "id": "ai",
+      "name": "AI",
       "type": "topic",
       "icon": "",
-      "count": 29
+      "count": 21
     },
     {
       "id": "nvda",
@@ -28,25 +35,11 @@
       "count": 20
     },
     {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 20
-    },
-    {
       "id": "regulation",
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 13
-    },
-    {
-      "id": "stablecoin",
-      "name": "Stablecoin",
-      "type": "topic",
-      "icon": "",
-      "count": 7
+      "count": 14
     },
     {
       "id": "anthropic",
@@ -55,7 +48,14 @@
       "type": "company",
       "path": "tickers/anthropic.json",
       "icon": "",
-      "count": 7
+      "count": 8
+    },
+    {
+      "id": "stablecoin",
+      "name": "Stablecoin",
+      "type": "topic",
+      "icon": "",
+      "count": 6
     },
     {
       "id": "eth",
@@ -76,6 +76,22 @@
       "count": 4
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "type": "topic",
+      "icon": "",
+      "count": 3
+    },
+    {
+      "id": "oil",
+      "symbol": "OIL",
+      "name": "Oil",
+      "type": "commodity",
+      "path": "tickers/oil.json",
+      "icon": "",
+      "count": 3
+    },
+    {
       "id": "openai",
       "symbol": "OPENAI",
       "name": "OpenAI",
@@ -92,27 +108,11 @@
       "count": 3
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "type": "topic",
-      "icon": "",
-      "count": 3
-    },
-    {
       "id": "gold",
       "symbol": "GOLD",
       "name": "Gold",
       "type": "commodity",
       "path": "tickers/gold.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "oil",
-      "symbol": "OIL",
-      "name": "Oil",
-      "type": "commodity",
-      "path": "tickers/oil.json",
       "icon": "",
       "count": 2
     },
@@ -180,15 +180,6 @@
       "type": "company",
       "path": "tickers/jpm.json",
       "icon": "",
-      "count": 1
-    },
-    {
-      "id": "mstr",
-      "symbol": "MSTR",
-      "name": "Strategy",
-      "type": "company",
-      "path": "tickers/mstr.json",
-      "icon": "https://logo.clearbit.com/strategy.com",
       "count": 1
     }
   ]

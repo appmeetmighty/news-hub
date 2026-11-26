@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T05:15:55.410Z",
+  "updated_at": "2026-11-26T05:31:12.650Z",
   "total": 24,
   "entities": [
     {
@@ -7,7 +7,7 @@
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 37
+      "count": 36
     },
     {
       "id": "btc",
@@ -16,7 +16,7 @@
       "type": "crypto",
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
-      "count": 29
+      "count": 27
     },
     {
       "id": "ai",
@@ -30,7 +30,7 @@
       "name": "Regulation",
       "type": "topic",
       "icon": "",
-      "count": 14
+      "count": 15
     },
     {
       "id": "nvda",
@@ -39,7 +39,7 @@
       "type": "company",
       "path": "tickers/nvda.json",
       "icon": "https://logo.clearbit.com/nvidia.com",
-      "count": 12
+      "count": 11
     },
     {
       "id": "anthropic",
@@ -124,6 +124,15 @@
       "count": 3
     },
     {
+      "id": "xrp",
+      "symbol": "XRP",
+      "name": "XRP",
+      "type": "crypto",
+      "path": "tickers/xrp.json",
+      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "count": 2
+    },
+    {
       "id": "amzn",
       "symbol": "AMZN",
       "name": "Amazon",
@@ -138,13 +147,6 @@
       "name": "Oil",
       "type": "commodity",
       "path": "tickers/oil.json",
-      "icon": "",
-      "count": 2
-    },
-    {
-      "id": "etf",
-      "name": "ETF",
-      "type": "topic",
       "icon": "",
       "count": 2
     },
@@ -192,12 +194,10 @@
       "count": 1
     },
     {
-      "id": "xrp",
-      "symbol": "XRP",
-      "name": "XRP",
-      "type": "crypto",
-      "path": "tickers/xrp.json",
-      "icon": "https://assets.coincap.io/assets/icons/xrp@2x.png",
+      "id": "etf",
+      "name": "ETF",
+      "type": "topic",
+      "icon": "",
       "count": 1
     }
   ]

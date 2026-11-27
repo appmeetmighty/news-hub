@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T00:15:51.155Z",
+  "updated_at": "2026-11-27T16:31:13.191Z",
   "id": "amzn",
   "symbol": "AMZN",
   "name": "Amazon",
@@ -7,13 +7,13 @@
   "total": 1,
   "articles": [
     {
-      "id": "3ec7eb372c597d65036ad919c08d8bca",
-      "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday ",
-      "description": "South Korean beauty stocks rose as K-beauty brands dominated Amazon's skincare rankings ahead of Black Friday.",
+      "id": "b37a4fb681cf007348d1db97f47f5da9",
+      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "description": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559736-1795660395389-gettyimages-2247206554-kalka-economya251121_npTnn.jpeg?v=1795660405&w=1920&h=1080",
+      "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108560156-1795790550973-AgentGame.jpg?v=1795790567&w=1920&h=1080",
       "source": {
         "id": "cnbc",
         "name": "CNBC",
@@ -29,46 +29,108 @@
           "type": "company",
           "path": "tickers/amzn.json",
           "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-11-26T03:09:47.000Z",
+      "published_at": "2026-11-27T15:27:11.000Z",
       "related": [
         {
-          "id": "4733668572a402fe89a668bf9ef187cc",
-          "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
-          "image": "https://image.cnbcfm.com/api/v1/image/108348863-1786584005383-gettyimages-2219721785-UK_GLOBAL_SWITCH.jpeg?v=1795677738&w=1920&h=1080",
+          "id": "28bb1beab67c7d53571937e5eae9d402",
+          "title": "China's Google Just Released Its Fast New AI Model for Free",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg@png",
           "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
           },
-          "category": "stocks",
-          "published_at": "2026-11-26T07:23:42.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 20,
-          "path": "articles/4733668572a402fe89a668bf9ef187cc.json"
-        },
-        {
-          "id": "cde0fd0e5f024933968dc2ee524ebc31",
-          "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-          "image": "https://image.cnbcfm.com/api/v1/image/108558897-1795558539233-gettyimages-2306217982-TRUMP_TURKEY_PARDON.jpeg?v=1795558966&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-26T21:13:17.000Z",
+          "category": "crypto",
+          "published_at": "2026-11-25T22:38:09.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/cde0fd0e5f024933968dc2ee524ebc31.json"
+          "path": "articles/28bb1beab67c7d53571937e5eae9d402.json"
         },
         {
-          "id": "918f3249e3c9a7d67bce8ba106c31ea5",
-          "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-          "image": "https://image.cnbcfm.com/api/v1/image/108557747-1795462598976-Untitled-2.jpg?v=1795543076&w=1920&h=1080",
+          "id": "cc7d3a69c0b9df18140eb7e6e16cea49",
+          "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/greedy-man-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-26T15:11:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cc7d3a69c0b9df18140eb7e6e16cea49.json"
+        },
+        {
+          "id": "6145847bf57c06a72028670a73821b26",
+          "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T17:46:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6145847bf57c06a72028670a73821b26.json"
+        },
+        {
+          "id": "12b960d0d91c2e8d0dadcac83b44f7b8",
+          "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-24T22:36:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/12b960d0d91c2e8d0dadcac83b44f7b8.json"
+        },
+        {
+          "id": "d8654d8b7ea3e73079a5f546a8f70457",
+          "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+          "image": "https://image.cnbcfm.com/api/v1/image/108191734-1756364310897-gettyimages-2231659141-_mma9642.jpeg?v=1756364320&w=1920&h=1080",
           "source": {
             "id": "cnbc",
             "name": "CNBC",
@@ -76,45 +138,13 @@
             "icon": "https://logo.clearbit.com/cnbc.com"
           },
           "category": "stocks",
-          "published_at": "2026-11-26T18:27:43.000Z",
+          "published_at": "2026-11-27T13:08:07.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/918f3249e3c9a7d67bce8ba106c31ea5.json"
-        },
-        {
-          "id": "c247266490bfdbadb14fe93006888723",
-          "title": "Semiconductor chips are the new oil. Here's why",
-          "image": "https://image.cnbcfm.com/api/v1/image/108345773-1785990932116-gettyimages-2286772264-SKOREA_SK_HYNIX.jpeg?v=1785990945&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-26T17:52:15.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/c247266490bfdbadb14fe93006888723.json"
-        },
-        {
-          "id": "b820185249e06b5012c608a8f2dcaba0",
-          "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-          "image": "https://image.cnbcfm.com/api/v1/image/108559824-1795686703593-gettyimages-2283165053-ah809023_cxnkwed9.jpeg?v=1795686767&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-26T16:12:47.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/b820185249e06b5012c608a8f2dcaba0.json"
+          "path": "articles/d8654d8b7ea3e73079a5f546a8f70457.json"
         }
       ],
-      "path": "articles/3ec7eb372c597d65036ad919c08d8bca.json"
+      "path": "articles/b37a4fb681cf007348d1db97f47f5da9.json"
     }
   ]
 }

@@ -1,11 +1,151 @@
 {
-  "updated_at": "2026-11-27T16:15:53.406Z",
+  "updated_at": "2026-11-27T16:31:13.191Z",
   "id": "googl",
   "symbol": "GOOGL",
   "name": "Google",
   "type": "company",
-  "total": 1,
+  "total": 2,
   "articles": [
+    {
+      "id": "b37a4fb681cf007348d1db97f47f5da9",
+      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "description": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+      "reading_time_minutes": 1,
+      "breaking_score": 0,
+      "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108560156-1795790550973-AgentGame.jpg?v=1795790567&w=1920&h=1080",
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC",
+        "website": "https://www.cnbc.com",
+        "icon": "https://logo.clearbit.com/cnbc.com"
+      },
+      "category": "stocks",
+      "entities": [
+        {
+          "id": "amzn",
+          "symbol": "AMZN",
+          "name": "Amazon",
+          "type": "company",
+          "path": "tickers/amzn.json",
+          "icon": "https://logo.clearbit.com/amazon.com"
+        },
+        {
+          "id": "meta",
+          "symbol": "META",
+          "name": "Meta",
+          "type": "company",
+          "path": "tickers/meta.json",
+          "icon": "https://logo.clearbit.com/meta.com"
+        },
+        {
+          "id": "googl",
+          "symbol": "GOOGL",
+          "name": "Google",
+          "type": "company",
+          "path": "tickers/googl.json",
+          "icon": "https://logo.clearbit.com/google.com"
+        },
+        {
+          "id": "openai",
+          "symbol": "OPENAI",
+          "name": "OpenAI",
+          "type": "company",
+          "path": "tickers/openai.json",
+          "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
+        }
+      ],
+      "published_at": "2026-11-27T15:27:11.000Z",
+      "related": [
+        {
+          "id": "28bb1beab67c7d53571937e5eae9d402",
+          "title": "China's Google Just Released Its Fast New AI Model for Free",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T22:38:09.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/28bb1beab67c7d53571937e5eae9d402.json"
+        },
+        {
+          "id": "cc7d3a69c0b9df18140eb7e6e16cea49",
+          "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/greedy-man-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-26T15:11:14.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/cc7d3a69c0b9df18140eb7e6e16cea49.json"
+        },
+        {
+          "id": "6145847bf57c06a72028670a73821b26",
+          "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-25T17:46:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/6145847bf57c06a72028670a73821b26.json"
+        },
+        {
+          "id": "12b960d0d91c2e8d0dadcac83b44f7b8",
+          "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-24T22:36:02.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/12b960d0d91c2e8d0dadcac83b44f7b8.json"
+        },
+        {
+          "id": "d8654d8b7ea3e73079a5f546a8f70457",
+          "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+          "image": "https://image.cnbcfm.com/api/v1/image/108191734-1756364310897-gettyimages-2231659141-_mma9642.jpeg?v=1756364320&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-27T13:08:07.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/d8654d8b7ea3e73079a5f546a8f70457.json"
+        }
+      ],
+      "path": "articles/b37a4fb681cf007348d1db97f47f5da9.json"
+    },
     {
       "id": "28bb1beab67c7d53571937e5eae9d402",
       "title": "China's Google Just Released Its Fast New AI Model for Free",
@@ -72,6 +212,22 @@
           "path": "articles/12b960d0d91c2e8d0dadcac83b44f7b8.json"
         },
         {
+          "id": "b37a4fb681cf007348d1db97f47f5da9",
+          "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+          "image": "https://image.cnbcfm.com/api/v1/image/108560156-1795790550973-AgentGame.jpg?v=1795790567&w=1920&h=1080",
+          "source": {
+            "id": "cnbc",
+            "name": "CNBC",
+            "website": "https://www.cnbc.com",
+            "icon": "https://logo.clearbit.com/cnbc.com"
+          },
+          "category": "stocks",
+          "published_at": "2026-11-27T15:27:11.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/b37a4fb681cf007348d1db97f47f5da9.json"
+        },
+        {
           "id": "cc7d3a69c0b9df18140eb7e6e16cea49",
           "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
           "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/greedy-man-decrypt-style-gID_7.jpg@png",
@@ -102,22 +258,6 @@
           "reading_time_minutes": 1,
           "breaking_score": 0,
           "path": "articles/6145847bf57c06a72028670a73821b26.json"
-        },
-        {
-          "id": "6f875c5b230dc86dabd31996d8b8408c",
-          "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-ai-robots-gID_7.jpg@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-24T21:46:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/6f875c5b230dc86dabd31996d8b8408c.json"
         },
         {
           "id": "6b8e22ed40fc74553b69d72a4a889c71",

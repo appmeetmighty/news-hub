@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-11-27T21:45:57.701Z",
-  "total": 26,
+  "updated_at": "2026-11-27T22:01:22.789Z",
+  "total": 27,
   "entities": [
     {
       "id": "crypto",
       "name": "Crypto",
       "type": "topic",
       "icon": "",
-      "count": 27
+      "count": 26
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "type": "topic",
+      "icon": "",
+      "count": 23
     },
     {
       "id": "btc",
@@ -17,13 +24,6 @@
       "path": "tickers/btc.json",
       "icon": "https://assets.coincap.io/assets/icons/btc@2x.png",
       "count": 23
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "type": "topic",
-      "icon": "",
-      "count": 22
     },
     {
       "id": "regulation",
@@ -38,6 +38,15 @@
       "type": "topic",
       "icon": "",
       "count": 6
+    },
+    {
+      "id": "openai",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "type": "company",
+      "path": "tickers/openai.json",
+      "icon": "",
+      "count": 5
     },
     {
       "id": "nvda",
@@ -71,15 +80,6 @@
       "type": "company",
       "path": "tickers/tsla.json",
       "icon": "https://logo.clearbit.com/tesla.com",
-      "count": 4
-    },
-    {
-      "id": "openai",
-      "symbol": "OPENAI",
-      "name": "OpenAI",
-      "type": "company",
-      "path": "tickers/openai.json",
-      "icon": "",
       "count": 4
     },
     {
@@ -131,6 +131,15 @@
       "path": "tickers/oil.json",
       "icon": "",
       "count": 2
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "name": "Apple",
+      "type": "company",
+      "path": "tickers/aapl.json",
+      "icon": "https://logo.clearbit.com/apple.com",
+      "count": 1
     },
     {
       "id": "etf",

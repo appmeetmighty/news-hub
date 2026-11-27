@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T10:01:30.836Z",
+  "updated_at": "2026-11-27T11:45:53.054Z",
   "id": "silver",
   "symbol": "SILVER",
   "name": "Silver",
@@ -7,28 +7,28 @@
   "total": 1,
   "articles": [
     {
-      "id": "b67a35071425c5db443578b0ebcd23f8",
-      "title": "Why Anthropic's hot IPO is bringing out sellers — plus, a silver lining of the down market",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "id": "4ff7dcb7c3fdf642755aa59976c053c3",
+      "title": "Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
+      "description": "Nasdaq 100 futures rose 3% ahead of Friday’s shortened U.S. trading session, with AI cloud stocks up 8% and silver jumping 7%.",
       "reading_time_minutes": 1,
       "breaking_score": 0,
-      "url": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554309-17950192062026-11-18t162222z_659947811_rc2dqoayx25y_rtrmadp_0_usa-stocks.jpeg?v=1795033008&w=1920&h=1080",
+      "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+      "image": "",
       "source": {
-        "id": "cnbc",
-        "name": "CNBC",
-        "website": "https://www.cnbc.com",
-        "icon": "https://logo.clearbit.com/cnbc.com"
+        "id": "coindesk",
+        "name": "CoinDesk",
+        "website": "https://www.coindesk.com",
+        "icon": "https://logo.clearbit.com/coindesk.com"
       },
-      "category": "stocks",
+      "category": "crypto",
       "entities": [
         {
-          "id": "anthropic",
-          "symbol": "ANTHROPIC",
-          "name": "Anthropic",
-          "type": "company",
-          "path": "tickers/anthropic.json",
-          "icon": ""
+          "id": "btc",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "type": "crypto",
+          "path": "tickers/btc.json",
+          "icon": "https://assets.coincap.io/assets/icons/btc@2x.png"
         },
         {
           "id": "silver",
@@ -37,61 +37,19 @@
           "type": "commodity",
           "path": "tickers/silver.json",
           "icon": ""
+        },
+        {
+          "id": "ai",
+          "name": "AI",
+          "type": "topic",
+          "icon": ""
         }
       ],
-      "published_at": "2026-11-18T19:46:12.000Z",
+      "published_at": "2026-11-27T11:34:37.000Z",
       "related": [
         {
-          "id": "58527b56f135cb0a6b7c7c4b44e7c9f5",
-          "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-          "image": "https://image.cnbcfm.com/api/v1/image/108554572-1795033463943-108554572-1795033101955-gettyimages-2305196401-ANTHROPIC_IPO.jpg?v=1795033477&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-19T01:13:20.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/58527b56f135cb0a6b7c7c4b44e7c9f5.json"
-        },
-        {
-          "id": "68343ff873423ae66a71a562f3f42c13",
-          "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
-          "image": "https://image.cnbcfm.com/api/v1/image/108469374-1793113053396-gettyimages-2301777677-boivin-photoill261027_np1O1.jpeg?v=1793113123&w=1920&h=1080",
-          "source": {
-            "id": "cnbc",
-            "name": "CNBC",
-            "website": "https://www.cnbc.com",
-            "icon": "https://logo.clearbit.com/cnbc.com"
-          },
-          "category": "stocks",
-          "published_at": "2026-11-18T22:37:00.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/68343ff873423ae66a71a562f3f42c13.json"
-        },
-        {
-          "id": "ed2d3582ad6812fa62e2d5783f468cab",
-          "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
-          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
-          "source": {
-            "id": "decrypt",
-            "name": "Decrypt",
-            "website": "https://decrypt.co",
-            "icon": "https://logo.clearbit.com/decrypt.co"
-          },
-          "category": "crypto",
-          "published_at": "2026-11-18T19:16:02.000Z",
-          "reading_time_minutes": 1,
-          "breaking_score": 0,
-          "path": "articles/ed2d3582ad6812fa62e2d5783f468cab.json"
-        },
-        {
-          "id": "82a03f8cea317f9d49df38b6e8726fa0",
-          "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
+          "id": "1a7178e9799e819d855ccff432d190de",
+          "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
           "image": "",
           "source": {
             "id": "coindesk",
@@ -100,29 +58,77 @@
             "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-11-18T12:15:00.000Z",
+          "published_at": "2026-11-27T09:49:55.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/82a03f8cea317f9d49df38b6e8726fa0.json"
+          "path": "articles/1a7178e9799e819d855ccff432d190de.json"
         },
         {
-          "id": "03341b63523581dc023279d9657089b4",
-          "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SAQX2C3P4SKA31S67KZP1W/article-covers-259292-anthropic-launches-pac-ai-policy-tensions-washington-960x640.webp",
+          "id": "f4441725d6dfa21b2d0c8dde8c5eafdb",
+          "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+          "image": "",
           "source": {
-            "id": "cointelegraph",
-            "name": "Cointelegraph",
-            "website": "https://cointelegraph.com",
-            "icon": "https://logo.clearbit.com/cointelegraph.com"
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
           },
           "category": "crypto",
-          "published_at": "2026-11-19T07:55:56.000Z",
+          "published_at": "2026-11-26T11:17:22.000Z",
           "reading_time_minutes": 1,
           "breaking_score": 0,
-          "path": "articles/03341b63523581dc023279d9657089b4.json"
+          "path": "articles/f4441725d6dfa21b2d0c8dde8c5eafdb.json"
+        },
+        {
+          "id": "76b5d598096e62cac741aef5ad4baed8",
+          "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-27T11:22:42.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/76b5d598096e62cac741aef5ad4baed8.json"
+        },
+        {
+          "id": "2482abcee4ad3f1865d33be969529938",
+          "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+          "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg@png",
+          "source": {
+            "id": "decrypt",
+            "name": "Decrypt",
+            "website": "https://decrypt.co",
+            "icon": "https://logo.clearbit.com/decrypt.co"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-26T18:15:29.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/2482abcee4ad3f1865d33be969529938.json"
+        },
+        {
+          "id": "f87d72a648074d0d413d67f5a3763c4e",
+          "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+          "image": "",
+          "source": {
+            "id": "coindesk",
+            "name": "CoinDesk",
+            "website": "https://www.coindesk.com",
+            "icon": "https://logo.clearbit.com/coindesk.com"
+          },
+          "category": "crypto",
+          "published_at": "2026-11-26T17:30:00.000Z",
+          "reading_time_minutes": 1,
+          "breaking_score": 0,
+          "path": "articles/f87d72a648074d0d413d67f5a3763c4e.json"
         }
       ],
-      "path": "articles/b67a35071425c5db443578b0ebcd23f8.json"
+      "path": "articles/4ff7dcb7c3fdf642755aa59976c053c3.json"
     }
   ]
 }
